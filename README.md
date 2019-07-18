@@ -16,6 +16,10 @@ Bo to złe kobiety były. Intrygantki i diablice
 
 # Daty
 
+https://pl.wikipedia.org/wiki/G%C3%BCnter_Grass
+
+https://pl.wikipedia.org/wiki/Karol_Dickens
+
 Unternehmen Barbarossa
 
 Heart of Europe
