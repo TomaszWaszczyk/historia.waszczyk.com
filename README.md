@@ -45,30 +45,47 @@ http://www.sww.w.szu.pl/serw_tem/alianci/polacy/organizacje/ak.html
 http://www.woloszanski.com/Blog/
 
 Daty historyczne:
+
 01-sty 1907 Urodzony https://pl.wikipedia.org/wiki/Leonid_Bre%C5%BCniew
+
 02-sty
+
 03-sty
+
 04-sty 1944 https://pl.wikipedia.org/wiki/Akcja_%E2%80%9EBurza%E2%80%9D
+
 05-sty 1968 https://en.wikipedia.org/wiki/Prague_Spring
+
 06-sty 1919 https://pl.wikipedia.org/wiki/Bitwa_o_%C5%81awic%C4%99
+
 1966 https://pl.wikipedia.org/wiki/Protesty_studenckie_w_Niemczech_1967-1968
+
 07-sty 1992 https://en.wikipedia.org/wiki/Maastricht_Treaty
+
 08-sty
+
 09-sty
+
 10-sty 1920 https://pl.wikipedia.org/wiki/Liga_Narod%C3%B3w
+
 11-sty
 12-sty Początek Getta w Łodzi http://www.getto-chronik.de/pl/podcast
+
 13-sty
 14-sty
 15-sty 2015 https://pl.wikipedia.org/wiki/Czarny_czwartek_(2015)
+
 16-sty
 17-sty 1649 Koronacja https://pl.wikipedia.org/wiki/Jan_II_Kazimierz_Waza
+
 18-sty
 19-sty
 20-sty
 21-sty
 22-sty 1945 Powołano https://pl.wikipedia.org/wiki/Biuro_Odbudowy_Stolicy
+
 1863 https://pl.wikipedia.org/wiki/Uw%C5%82aszczenie_ch%C5%82op%C3%B3w_w_Polsce “Chłop lepiej pracuje jak jest wolny”
+
 1863 https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 23-sty 1793 https://pl.wikipedia.org/wiki/II_rozbi%C3%B3r_Polski
 24-sty
