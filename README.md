@@ -370,7 +370,9 @@ Roman Dmowski postrzegał rozrośniętą machinę państwa jako przejaw potworne
 22-sie
 23-sie https://pl.wikipedia.org/wiki/Powstanie_sejne%C5%84skie – zwycięskie powstanie
 24-sie
-25-sie
+
+25-sie - https://polona.pl/item/gazeta-polska-pismo-codzienne-r-11-nr-235-25-sierpnia-1939,OTYwNTY3NA/#info:metadata
+
 26-sie
 27-sie
 28-sie
