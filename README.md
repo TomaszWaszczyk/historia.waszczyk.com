@@ -1,6 +1,11 @@
 https://en.wikipedia.org/wiki/Dries_Riphagen
 
 
+# Sztuka
+
+https://en.wikiquote.org/wiki/Herbert_A._Simon
+
+
 # historia.waszczyk.com
 
 4 lipiec: https://pl.wikipedia.org/wiki/Bitwa_pod_K%C5%82uszynem
