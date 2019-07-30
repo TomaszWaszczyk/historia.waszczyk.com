@@ -49,6 +49,9 @@ const About: React.FC = () => (
               <p>
               - aktualizacja poszczególnych dni  (ten proces właściwie będzie trwał latami) + zdjęcia + sztuka
               </p>
+              <p>
+                Bez historii nie ma wspomnień. Bez wspomnień nie ma przyszłości.
+              </p>
             </div>
           </PostFullContent>
         </article>
