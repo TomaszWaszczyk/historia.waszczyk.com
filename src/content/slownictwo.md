@@ -20,7 +20,7 @@ kompetytywny, kompetycyjny
 1. «związany z walką lub rywalizacją»
 2. «wzmacniający antagonistyczne działanie jakiejś substancji»
  
- 
+afektywny «uczuciowy, emocjonalny» 
 
 popiwek – https://pl.wikipedia.org/wiki/Podatek_od_ponadnormatywnych_wyp%C5%82at_wynagrodze%C5%84
 mind blown moment – 
