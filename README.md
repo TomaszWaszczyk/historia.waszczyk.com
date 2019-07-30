@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Dries_Riphagen
 
+https://en.wikipedia.org/wiki/Willis_Carrier
+
 
 # Sztuka
 
@@ -1083,3 +1085,5 @@ https://pl.wikipedia.org/wiki/Nowa_Polityka_Ekonomiczna
 https://culture.pl/pl/artykul/kolonializm-po-polsku-czyli-dlugi-cien-panszczyzny
 
 https://www.marxists.org/polski/trocki/1930/hrr/index.htm
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem

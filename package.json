@@ -1,9 +1,9 @@
 {
   "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "description": "Notatki historyczne Tomka",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Tomasz Waszczyk <tomasz at waszczyk dot com domain",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
