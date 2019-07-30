@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Purpose of Education"
+title: "Powiedzenia"
 author: Tomasz Waszczyk
-tags: ["Speeches"]
+tags: ["Powiedzenia", "Sentecje", "Cytaty"]
 image: img/demo4.jpg
 date: "2012-08-20T15:11:55.000Z"
 draft: true
