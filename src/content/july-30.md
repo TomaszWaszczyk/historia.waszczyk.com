@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Sigma Protocol
-image: img/callum-shaw-555357-unsplash.jpg
+title: 30. lipca
+image: img/XXI-16-2.jpg
 author: Tomasz Waszczyk
 date: 2019-03-10T10:00:00.000Z
 tags:
-  - Source
+  - Historia
 ---
 
-### Getting Started
+<!-- ### Getting Started -->
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+1941 – w Londynie podpisano układ Sikorski-Majski przywracający stosunki dyplomatyczne RP z ZSRR. Otwierał on drogę do utworzenia w Sowietach polskiej armii.
+
+Przypomnijmy, że stosunki dyplomatyczne między obu państwami zostały zerwane 17 września 1939 r. po agresji ZSRR na Polskę. Obecny układ podpisany przez premiera RP na uchodźstwie gen. Władysława Sikorskiego i ambasadora ZSRR w Londynie Iwana Majskiego uznawał traktaty radziecko-niemieckie z 1939 r. za nieważne, przewidywał wspólną walkę z III Rzeszą, a w dodatkowym protokole władze sowieckie zagwarantowały „amnestię” dla obywateli polskich: więźniów politycznych i zesłańców przebywających w obozach Gułagu. Mieli oni trafić do utworzonej z ZSRR armii polskiej pod polskim dowództwem.
