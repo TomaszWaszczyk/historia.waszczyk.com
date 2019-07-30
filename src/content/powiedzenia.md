@@ -2223,6 +2223,9 @@ Piłsudski mówił... wojna nadchodzi, ale nie wchodźmy do niej jako pierwsi.
 
 Twoim zadaniem jest odkryć swe dzieło i oddać się mu całym sercem
 
+Bez historii nie ma wspomnień.
+Bez wspomnień nie ma przyszłości.
+
 ////////////////Konfucjusz//////////
 
 ki chuj wodę mąci
