@@ -11,38 +11,38 @@ tags:
 
 1944 https://pl.wikipedia.org/wiki/Powstanie_warszawskie
 
-️Przysięga Armii Krajowej
+️Przysięga Armii Krajowej:
 
-W obliczu Boga Wszechmogącego
+> W obliczu Boga Wszechmogącego
 
-i Najświętszej Maryi Panny,
+> i Najświętszej Maryi Panny,
 
-Królowej Korony Polskiej,
+> Królowej Korony Polskiej,
 
-przysięgam być wierny Ojczyźnie mej,
+> przysięgam być wierny Ojczyźnie mej,
 
-Rzeczypospolitej Polskiej.
+> Rzeczypospolitej Polskiej.
 
-Stać nieugięcie na straży jej honoru,
+> Stać nieugięcie na straży jej honoru,
 
-o wyzwolenie z niewoli
+> o wyzwolenie z niewoli
 
-walczyć ze wszystkich sił,
+> walczyć ze wszystkich sił,
 
-aż do ofiary mego życia.
+> aż do ofiary mego życia.
 
-Prezydentowi Rzeczypospolitej Polskiej,
+> Prezydentowi Rzeczypospolitej Polskiej,
 
-Naczelnemu Wodzowi
+> Naczelnemu Wodzowi
 
-i wyznaczonemu przezeń
+> i wyznaczonemu przezeń
 
-Dowódcy Armii Krajowej
+> Dowódcy Armii Krajowej
 
-będę bezwzględnie posłuszny
+> będę bezwzględnie posłuszny
 
-a tajemnicy niezłomnie dochowam, 
+> a tajemnicy niezłomnie dochowam, 
 
-cokolwiek by mnie spotkać miało.
+> cokolwiek by mnie spotkać miało.
 
-Tak mi dopomóż Bóg.
+> Tak mi dopomóż Bóg.
