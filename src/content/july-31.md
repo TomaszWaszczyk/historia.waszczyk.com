@@ -5,9 +5,12 @@ image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
 date: 2019-03-10T10:00:00.000Z
 tags:
-  - Source
+  - Historia
 ---
 
-### Getting Started
+1944 roku gen. „Bór” Komorowski wydał rozkaz rozpoczęcia powstania w Warszawie
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+Po analizie sytuacji związanej z nadejściem Armii Czerwonej, generał „Bór”, za zgodą Delegata Rządu RP na Kraj, wicepremiera Jana Stanisława Jankowskiego „Sobola”, wydaje rozkaz komendantowi Okręgu Warszawskiego AK pułkownikowi Antoniemu Chruścielowi „Monterowi” rozpoczęcia powstania w Warszawie 1 sierpnia o godz. 17.00.
+
+
+1649 roku w czasie powstania Chmielnickiego pod Łojowem (obecnie Białoruś) liczące 5 tysięcy żołnierzy wojska litewskie hetmana polnego Janusza Radziwiłła pokonały 17 tysięczną armię kozacką Stanisława Krzeczkowskiego.
