@@ -30,3 +30,6 @@ tags:
 > a tajemnicy niezłomnie dochowam,  
 > cokolwiek by mnie spotkać miało.  
 > Tak mi dopomóż Bóg.  
+
+Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem do Landtagu. W sierpniu 1944 r. w Warszawie na jego rozkaz mordowana była ludność cywilna. W Niemczech nigdy nie odpowiedział za swoje zbrodnie. Po 70 latach mieszkańcy Westerland przełamują milczenie.
+
