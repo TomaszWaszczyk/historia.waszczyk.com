@@ -2231,3 +2231,5 @@ Bez wspomnień nie ma przyszłości.
 ki chuj wodę mąci
 
 Ten kto silny rośnie, ten kto słaby ginie.
+
+inefficiency is the biggest employer!
