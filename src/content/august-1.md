@@ -33,3 +33,5 @@ tags:
 
 Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem do Landtagu. W sierpniu 1944 r. w Warszawie na jego rozkaz mordowana była ludność cywilna. W Niemczech nigdy nie odpowiedział za swoje zbrodnie. Po 70 latach mieszkańcy Westerland przełamują milczenie.
 
+1920 roku w czasie wojny polsko-bolszewickiej rozpoczęły się trwające tydzień walki na linii Bugu walki między 1. i 4. Armią Wojska Polskiego, a wojskami bolszewickimi. Polacy atakowani byli na odcinku od Brześcia do Wyszkowa. Kilkudniowy opór poskutkował chwilowym zatrzymaniem idących na Warszawę Rosjan, co wykorzystano do wzmocnienia pozycji obronnych wokół stolicy oraz na koncentrację wojsk przewidzianych do kontruderzenia nad Wieprzem.
+
