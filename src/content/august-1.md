@@ -75,6 +75,8 @@ Bądźmy dumni z naszego niedocenionego kraju, który walczył w imię wolności
 
 Powstańcy liczą, że pamięć o nich przetrwa. Pamiętajmy zawsze o naszych Bohaterach w walce o Wolną Polskę. 🇵🇱
 
+---
+
 Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem do Landtagu. W sierpniu 1944 r. w Warszawie na jego rozkaz mordowana była ludność cywilna. W Niemczech nigdy nie odpowiedział za swoje zbrodnie. Po 70 latach mieszkańcy Westerland przełamują milczenie.
 
 ---
