@@ -2233,3 +2233,7 @@ ki chuj wodę mąci
 Ten kto silny rośnie, ten kto słaby ginie.
 
 inefficiency is the biggest employer!
+
+# Stalin
+
+Wolności osobiste nie istnieją, a prawa obywatelskei są zagwarantowane tylko dla tych którzy posiadają kapitał. Wszyscy inni są uznawani jedynie za surowy ludzki materiał. Wszystkie prawa są zarezerwowane dla wykorzystującej mniejszości a wykorzystywanej większości się ich odmawia. Sztandar burżuazyjnej demokratycznej wolności wylądował na śmietniku. To my prawdziwi przedstawiciele prawdziwie demokratycznych partii ludowych podnieśliśmy ten sztandar i poniesiemy go dalej. Jeśli chcemy aby większość ludzkości poszła z nami, musimy ten sztandar nieść wysoko. 
