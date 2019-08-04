@@ -329,3 +329,6 @@ antropogenicznie
 na skutek działalności człowieka
 
 to shizzle my fizzle
+
+https://pl.wikipedia.org/wiki/Agape
+
