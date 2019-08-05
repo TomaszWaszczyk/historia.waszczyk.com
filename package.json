@@ -43,7 +43,7 @@
     "gatsby-transformer-json": "2.2.2",
     "gatsby-transformer-remark": "2.4.0",
     "gatsby-transformer-sharp": "2.1.21",
-    "gatsby-transformer-yaml": "2.1.12",
+    "gatsby-transformer-yaml": "2.2.4",
     "joi": "^14.3.1",
     "lodash": "4.17.15",
     "modern-normalize": "0.5.0",
