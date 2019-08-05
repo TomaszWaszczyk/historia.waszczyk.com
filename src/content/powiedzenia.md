@@ -2241,3 +2241,7 @@ Ten kto silny rośnie, ten kto słaby ginie.
 inefficiency is the biggest employer!
 
 Głód jest najlepszą przyprawą.
+
+https://pl.wikipedia.org/wiki/Uzus_językowy
+
+kasandryczny «zapowiadający nieszczęścia lub niepowodzenia»
