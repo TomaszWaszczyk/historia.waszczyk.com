@@ -29,3 +29,7 @@ The opening section moves into a contrasting middle section, which flows back to
 
 Adam[1] Haczewski (daty życia nieznane), polski kompozytor działający w Wielkopolsce w XVIII wieku.
 Jedyny zachowany utwór Haczewskiego to Symfonia D-dur z 1771 znaleziona w 1952 przez T. Strumiłłę na terenie Wielkopolski. Prezentuje ona wczesną fazę formowania polskiej symfoniki klasycznej. Wskazują na to m.in.: 3-częściowa budowa utworu (Allegro eon spirito, Alla Polacca, Allegretto) z częścią środkową w tonacji subdominanty, struktura I tematu części pierwszej (kontrast kierunku ruchu melodii, kontrasty rytmiczne, brzmieniowe i dynamiczne), a także obsada wykonawcza (w części drugiej bez rogów). Część Alla Polacca, podobnie jak i finał, nawiązując w sposób stylizowany do nuty ludowej, nadają Symfonii charakter narodowy.
+
+https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Leszczy%C5%84ski_(1616%E2%80%931680)
+
+Paweł Łukaszewski
