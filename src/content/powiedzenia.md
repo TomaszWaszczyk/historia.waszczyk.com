@@ -2245,3 +2245,5 @@ Głód jest najlepszą przyprawą.
 https://pl.wikipedia.org/wiki/Uzus_językowy
 
 kasandryczny «zapowiadający nieszczęścia lub niepowodzenia»
+
+Zamiast pięciolatek socjalistycznych, dwutygodniówki kapitalistyczne.
