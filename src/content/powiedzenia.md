@@ -112,41 +112,19 @@ Konsekwencją nie tracenia pieniędzy na rynku jest ich zarabianie.
 
 Tak krawiec kraje, jak (mu) materii staje
 
-
-
-
 Baba z wozu, koniom lżej.
-
-
-
 
 pocałunek śmierci
 
-
 Jeśli chcesz pokoju szykuj się na wojnę.
 
+https://dobrebadania.pl/analiza-kontekstualna-ang-contextual-analysis/
 
-
-
- https://dobrebadania.pl/analiza-kontekstualna-ang-contextual-analysis/
-
-
-
-
-
- Niech Chiny śpią, bo jak się obudzą wstrząsną światem.
-
-
-
+Niech Chiny śpią, bo jak się obudzą wstrząsną światem.
 
 „Jeśli nie potrafisz zarządzać swoimi emocjami, nigdy nie będziesz w stanie zarządzać swoimi pieniędzmi. A jeśli założyć, że rynki są mądrzejsze od Ciebie, ty możesz już nigdy nie być mądrzejszy od nich. „
 
-
-
-
 Wielka Brytania nie ma przyjaciół - ma interesy.
-
-
 
 
 Na pochyłe drzewo każda koza skacze
@@ -2247,3 +2225,9 @@ https://pl.wikipedia.org/wiki/Uzus_językowy
 kasandryczny «zapowiadający nieszczęścia lub niepowodzenia»
 
 Zamiast pięciolatek socjalistycznych, dwutygodniówki kapitalistyczne.
+
+Większość z nas kryje się za egocentryczną skłonnością do tworzenia własnej iluzji wyjątkowości.
+
+Drogę wytycza się idąc.
+
+Im większe niezadowolenie z siebie, tym silniejsze zapędy do korekty innych.
