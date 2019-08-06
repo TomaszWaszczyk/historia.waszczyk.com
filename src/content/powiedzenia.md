@@ -2231,3 +2231,7 @@ Większość z nas kryje się za egocentryczną skłonnością do tworzenia wła
 Drogę wytycza się idąc.
 
 Im większe niezadowolenie z siebie, tym silniejsze zapędy do korekty innych.
+
+Są rzeczy które warto, a są które się opłaca.
+
+Jak nie będzie w dzień lało i wiało to w nocy będzie ciemno.
