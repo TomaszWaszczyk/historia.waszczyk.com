@@ -334,3 +334,6 @@ https://pl.wikipedia.org/wiki/Agape
 
 incerto
 
+koteria
+
+menetyka
