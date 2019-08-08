@@ -9,6 +9,8 @@ tags:
   - Rozbiory
 ---
 
+### 5 sierpnia {#5-sierpnia}
+
 1772 W Petersburgu podpisany został traktat rozbiorowy nazywany pózniej pierwszym rozbiorem Polski.
 Austria otrzymała całą południową Polskę
 po Zbrucz ze Lwowem, ale bez Krakowa (83
