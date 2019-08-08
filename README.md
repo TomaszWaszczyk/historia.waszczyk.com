@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Black_Monday_(1987)
 
 https://pl.wikipedia.org/wiki/Prawo_rynk%C3%B3w
 
+https://pl.wikipedia.org/wiki/Dziewczynka_w_zielonym_sweterku
 
 # Malta
 
