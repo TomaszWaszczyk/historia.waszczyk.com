@@ -51,6 +51,7 @@ const About: React.FC = () => (
               </p>
               <p>
                 Bez historii nie ma wspomnień. Bez wspomnień nie ma przyszłości.
+                https://github.com/TomaszWaszczyk/historia.waszczyk.com
               </p>
             </div>
           </PostFullContent>
