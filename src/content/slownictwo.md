@@ -341,3 +341,6 @@ menetyka
 task rabbit
 
 salto mortale
+
+dulcynea - przestarzale, ironicznie: ukochana, dama serca
+
