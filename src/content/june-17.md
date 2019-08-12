@@ -8,8 +8,6 @@ tags:
   - Source
 ---
 
-### Getting Started
-
 1930 - Ustawa Smoota-Hawleya – ustawa w Stanach Zjednoczonych podpisana 17 czerwca 1930 roku, zwiększała do rekordowych poziomów cła na ponad 20 tysięcy towarów importowych.
 W opinii wielu współczesnych ekonomistów przyczyniła się do pogłębienia i przedłużenia wielkiego kryzysu. Wiele krajów odpowiedziało tym samym, co poskutkowało zmniejszeniem importu i eksportu o ponad połowę.
 Nazwa ustawy pochodzi od nazwisk jej wnioskodawców, senatora Reeda Smoota z Utah i kongresmena Willisa Chatmana Hawleya z Oregonu. 
