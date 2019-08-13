@@ -2239,3 +2239,8 @@ Jak nie będzie w dzień lało i wiało to w nocy będzie ciemno.
 Jeśli chcesz iść szybko, idź sam - ale jeżeli chcesz zajść daleko, idźcie razem.
 
 https://pl.wikipedia.org/wiki/O_tempora,_o_mores!
+
+Przede wszystkim bądź szczery wobec siebie. Inaczej nie możesz być szczery wobec innych.
+
+Żelazo żelazem, człowieka człowiekiem.
+
