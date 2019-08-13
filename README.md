@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Walraven_van_Hall
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
 
+https://sztetl.org.pl/
+
 
 # Malta
 
