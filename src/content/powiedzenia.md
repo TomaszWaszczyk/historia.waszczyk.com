@@ -2235,3 +2235,7 @@ Im większe niezadowolenie z siebie, tym silniejsze zapędy do korekty innych.
 Są rzeczy które warto, a są które się opłaca.
 
 Jak nie będzie w dzień lało i wiało to w nocy będzie ciemno.
+
+Jeśli chcesz iść szybko, idź sam - ale jeżeli chcesz zajść daleko, idźcie razem.
+
+https://pl.wikipedia.org/wiki/O_tempora,_o_mores!
