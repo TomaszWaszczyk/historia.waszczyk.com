@@ -8,7 +8,7 @@ date: "2012-08-20T15:11:55.000Z"
 draft: true
 ---
 
-# Psucie pieniądza
+### Psucie pieniądza
 
 Pierwsi Piastowie
 
@@ -137,7 +137,6 @@ Jeśli uważnie czytaliście nasze dotychczasowe artykuły z tego cyklu, zauważ
 Inną kwestią było jednak świadome psucie walut przez władców, które w istocie było nakładaniem na nieświadomych poddanych podatku inflacyjnego. Z czasem działania te stały się elementem niewypowiedzialnej wojny walutowej pomiędzy sąsiednimi krajami.
 
 Polska zniknęła z map. Zbliżał się też czas papierowych pieniędzy…
-
 
 ### Część czwarta
 

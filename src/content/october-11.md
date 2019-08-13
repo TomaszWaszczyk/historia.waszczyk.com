@@ -8,4 +8,4 @@ tags:
   - Historia
 ---
 
-https://pl.wikipedia.org/wiki/Sobór_watykański_II
+<https://pl.wikipedia.org/wiki/Sobór_watykański_II>
