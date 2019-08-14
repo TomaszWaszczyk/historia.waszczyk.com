@@ -5,7 +5,7 @@ author: Tomasz Waszczyk
 tags: ["Economy"]
 image: img/demo4.jpg
 date: "2012-08-20T15:11:55.000Z"
-draft: true
+draft: false
 ---
 
 ### Ekonomia
