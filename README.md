@@ -12,6 +12,12 @@ https://pl.wikipedia.org/wiki/Dziewczynka_w_zielonym_sweterku
 https://en.wikipedia.org/wiki/Walraven_van_Hall
 
 
+# Jewish space
+
+https://pl.wikipedia.org/wiki/Kaba%C5%82a
+
+https://sztetl.org.pl/
+
 
 # Malta
 
