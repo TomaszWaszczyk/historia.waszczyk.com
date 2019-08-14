@@ -10,6 +10,6 @@ draft: true
 
 ### Ekonomia
 
-> Good times bad policies, bad times good policies
+> Good times bad policies, bad times good policies.
 
 <https://en.wikipedia.org/wiki/Modern_Monetary_Theory>
