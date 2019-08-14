@@ -2244,3 +2244,4 @@ Przede wszystkim bądź szczery wobec siebie. Inaczej nie możesz być szczery w
 
 Żelazo żelazem, człowieka człowiekiem.
 
+Good times bad policies, bad times good policies

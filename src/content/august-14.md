@@ -8,7 +8,7 @@ tags:
   - Historia
 ---
 
-### 14 sierpnia {#14-sierpnia}
+### 14 sierpnia
 
 Unia w Krewie lub układ w Krewie, rzadziej umowa krewsko-wołkowyska[1] – akt wydany 14 sierpnia 1385 roku przez wielkiego księcia litewskiego Władysława Jagiełłę w Krewie, stanowiący jego zobowiązania przedślubne wobec Królestwa Polskiego. Wydanie aktu stanowiło wynik rozmów prowadzonych między księciem a panami małopolskimi na zamku w Krewie dotyczących małżeństwa królowej Jadwigi z Jagiełłą. Poprzedziły je jednak długoletnie, prawdopodobnie co najmniej od koronacji Jadwigi, negocjacje między stroną litewską a polską, a także z królową Elżbietą Bośniaczką, matką wciąż nieletniej Jadwigi.
 
