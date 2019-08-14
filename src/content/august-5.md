@@ -9,7 +9,7 @@ tags:
   - Rozbiory
 ---
 
-### 5 sierpnia {#5-sierpnia}
+### 5 sierpnia
 
 1772 W Petersburgu podpisany został traktat rozbiorowy nazywany pózniej pierwszym rozbiorem Polski.
 Austria otrzymała całą południową Polskę
@@ -35,4 +35,3 @@ mieszkańców), utrzymując poza tym swój
 protektorat nad resztą okrojonego kraju.
 Polska straciła 211 tys. km² i 4,5 miliona
 ludności.
-
