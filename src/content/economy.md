@@ -3,7 +3,7 @@ layout: post
 title: "Ekonomia"
 author: Tomasz Waszczyk
 tags: ["Economy", "Ekonomia"]
-image: img/demo4.jpg
+image: img/economy.jpeg
 date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
