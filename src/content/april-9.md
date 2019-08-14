@@ -8,7 +8,8 @@ tags:
   - Historia
 ---
 
-# 1940
+### 1940
 
+<https://pl.wikipedia.org/wiki/Operacja_Weser%C3%BCbung>
 
-https://pl.wikipedia.org/wiki/Operacja_Weser%C3%BCbung
+<https://en.wikipedia.org/wiki/Locomotive_Acts>

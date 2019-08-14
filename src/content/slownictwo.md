@@ -330,7 +330,7 @@ na skutek działalności człowieka
 
 to shizzle my fizzle
 
-https://pl.wikipedia.org/wiki/Agape
+<https://pl.wikipedia.org/wiki/Agape>
 
 incerto
 
@@ -344,3 +344,4 @@ salto mortale
 
 dulcynea - przestarzale, ironicznie: ukochana, dama serca
 
+umbrela project
