@@ -345,3 +345,10 @@ salto mortale
 dulcynea - przestarzale, ironicznie: ukochana, dama serca
 
 umbrela project
+
+mierzwa
+«zgnieciona słoma używana na ściółkę dla bydła»
+zob. obornik.
+pogard. «ktoś lub coś bez znaczenia, wartości»
+
+eskapizm

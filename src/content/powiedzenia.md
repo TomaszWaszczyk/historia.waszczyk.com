@@ -12,103 +12,62 @@ draft: false
 
 >Wolności osobiste nie istnieją, a prawa obywatelskei są zagwarantowane tylko dla tych którzy posiadają kapitał. Wszyscy inni są uznawani jedynie za surowy ludzki materiał. Wszystkie prawa są zarezerwowane dla wykorzystującej mniejszości a wykorzystywanej większości się ich odmawia. Sztandar burżuazyjnej demokratycznej wolności wylądował na śmietniku. To my prawdziwi przedstawiciele prawdziwie demokratycznych partii ludowych podnieśliśmy ten sztandar i poniesiemy go dalej. Jeśli chcemy aby większość ludzkości poszła z nami, musimy ten sztandar nieść wysoko. 
 
-
 ---
 
 https://pl.wikipedia.org/wiki/Dura_lex,_sed_lex
 
-
-
 https://pl.wikipedia.org/wiki/Falandyzacja_prawa
-
-
 
 W życiu możesz dać tylko to co sam masz. TW
 
-
 Liczy się podróż, a nie jej cel.
-
-
-
 
 Czarna jak szatan mocna jak milosc - kawa.
 
-
 Zna proporcją, mocium panie,
-
-
-
 
 Nigdy nie zmienisz swojego życia dopóki nie zmienisz czegoś, co codziennie robisz.  Mike Murdock
 
-
 Problemem w wyścigu szczurów jest to, że nawet jeżeli wygrasz, to ciągle jesteś tylko szczurem.
-
-
-
 
 ja o niebie on o chlebie
 
-
 Kłamstwo okrąży pół świata nim prawda założy buty.
-
 
 Obyś żył w ciekawych czasach.
 
-
 Poeta musi znać zasady pisania wierszy by wiedzieć jak je łamać.
-
 
 Rama jest po to by malarz wiedział kiedy przestać malować.
 
-
-
-
 Wszyscy jesteśmy bardzo podobni jednocześnie będąc bardzo różnymi.
-
 
 Kto nie chce kiedy może, ten nie będzie mógł kiedy będzie chciał
 
-
 https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none - siedem fachów, ósma bieda
-
 
 https://pl.wikipedia.org/wiki/Pow-wow
 
-
-
 https://pl.wikiquote.org/wiki/Witruwiusz
-
-
 
 Ani bowiem talent bez wiedzy, ani wiedza bez talentu nie mogą stworzyć doskonałego mistrza.
 
-
 Architektura polega na zachowaniu trzech zasad: trwałości, użyteczności i piękna.
-
-
-
 
 http://sjp.pwn.pl/sjp/ad-vocem;2438715.html
 
-
-
 Kto nadzieje w innych pokłada, celu nie osiąga.
 
-
 https://pl.wikipedia.org/wiki/Licentia_poetica
+
 Przepijemy naszej babci domek cały
 wadliwy kod pamięci
 
-
 indagować
-
 
 przeciąg historii wieje
 
-
 Konsekwencją nie tracenia pieniędzy na rynku jest ich zarabianie.
-
 
 Tak krawiec kraje, jak (mu) materii staje
 
@@ -126,44 +85,20 @@ Niech Chiny śpią, bo jak się obudzą wstrząsną światem.
 
 Wielka Brytania nie ma przyjaciół - ma interesy.
 
-
 Na pochyłe drzewo każda koza skacze
-
-
 
 W swoim życiu musisz tylko kilka rzeczy zrobić dobrze, pod warunkiem, że nie robisz zbyt wielu rzeczy źle.
 
-
-
-
 “Everyone should learn how to program a computer because it teaches you how to think” — Steve Jobs
-
-
 
 https://pl.wikipedia.org/wiki/Primum_non_nocere
 
-
-
-
-
 Niemcy tak przegrywają, że na końcu wygrywają.
-
-
-
 
 nie pozostawajmy wszyscy wyrobnikami
 
-
-
-
-
-
 Konsekwencją nie tracenia pieniędzy na rynku jest ich zarabianie.
 Każdemu programowi działania towarzyszą koszty i ryzyko, ale są one o wiele mniejsze niż koszty i ryzyko luksusu niepodejmowania żadnych działań
-
-
-
-
 
 
 Tomasz Zarycki
@@ -977,23 +912,21 @@ Inżynierowie prowadzą rozmowy na podstawie licz oraz wykresów.
 
 
 "The trouble is, You think you have time" ~Buddha
- 
- 
+
+
 Nie walczymy o pokój tak żeby kamień na kamieniu nie ustał.
 
- 
- 
+
 Bać to się powinniśmy tylko wtedy gdy nchciałby as zabić.
- 
- 
+
+
 sposób działania
 
 Modus Operandi m książk
- 
- 
+
+
 Decorum (łacińskie decorus – przyzwoity, stosowny), zasada wewnętrznego ładu dzieła literackiego, zgodności formy i treści, określona w Poetyce Arystotelesa, później powtórzona przezCycerona i Horacego. Znaczenie tematu wyznaczało użycie stosownego gatunku, w hierarchii najwyższej umieszczono epikę, poniżej były kolejno tragedia, komedia, satyra i sielanka. Regułę decorum przypomniał w oświeceniu F.K. Dmochowski w Sztuce rymotwórczej, nie respektowali jej twórcy romantyczni.
- 
- 
+
 per analogiam (łc.) przez analogię.
 
 
@@ -1118,8 +1051,6 @@ expressis verbis
 
 
 vendige
-
- 
 
 
 
