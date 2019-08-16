@@ -13,3 +13,7 @@ tags:
 ### 1919
 
 <https://pl.wikipedia.org/wiki/I_powstanie_%C5%9Bl%C4%85skie>
+
+### 1943
+
+<https://pl.wikipedia.org/wiki/Powstanie_w_getcie_bia%C5%82ostockim>
