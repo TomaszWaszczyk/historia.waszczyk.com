@@ -10,6 +10,8 @@ tags:
 
 ## 1941
 
+> "Jedna śmierć to tragedia, milion – to statystyka." - Józef Stalin
+
 Około godziny 20:30 podpułkownik Borys Epow, stacjonujący na zaporze wodnej Dnieprostroj na Ukrainie, otrzymał polecenie samego Józefa Stalina, które nakazywało mu wysadzić obiekt w powietrze.
 
 Powstała wskutek tego fala uderzeniowa miała spowolnić niemieckie natarcie, które od tygodni spychało Sowietów do coraz to głębszej defensywy.
