@@ -2178,3 +2178,7 @@ Przede wszystkim bądź szczery wobec siebie. Inaczej nie możesz być szczery w
 Good times bad policies, bad times good policies
 
 Generalnie, zmieniamy się z jednego z dwóch powodów: inspiracji lub desperacji
+
+„Jeśli jesteś gotowy być słaby, jesteś bardzo silny.”
+
+"Puste, minimalistyczne mieszkania zdradzają brak zainteresowań ich właścicieli”
