@@ -10,7 +10,7 @@ tags:
 
 ## 1793
 
-ambasador rosyjski Jakov Sieviers reprezentujący carycę Katarzynę II ratyfikował układ rozbiorowy zwany drugim rozbiorem Polski. 
+Ambasador rosyjski Jakov Sieviers reprezentujący carycę Katarzynę II ratyfikował układ rozbiorowy zwany drugim rozbiorem Polski.
 Dwaj zaborcy Prusy i Rosja podzieliły Polskę między siebie.
 Prusy otrzymały Gdańsk i Toruń oraz
 województwa gnieźnieńskie , poznańskie ,
