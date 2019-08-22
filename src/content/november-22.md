@@ -8,4 +8,6 @@ tags:
   - Historia
 ---
 
+## 1963
+
 <a href="https://pl.wikipedia.org/wiki/Zamach_na_Johna_F._Kennedy%E2%80%99ego" target="_blank">Zamach na Johna F. Kennedyego</a>
