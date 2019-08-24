@@ -2184,3 +2184,5 @@ Generalnie, zmieniamy się z jednego z dwóch powodów: inspiracji lub desperacj
 "Puste, minimalistyczne mieszkania zdradzają brak zainteresowań ich właścicieli”
 
 W czystej wodzie nie złapiesz ryby.
+
+Bułkę przez bibułkę.
