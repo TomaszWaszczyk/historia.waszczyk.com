@@ -2186,3 +2186,6 @@ Generalnie, zmieniamy się z jednego z dwóch powodów: inspiracji lub desperacj
 W czystej wodzie nie złapiesz ryby.
 
 Bułkę przez bibułkę.
+
+Wszystkie świnie siedzą w kinie.
+
