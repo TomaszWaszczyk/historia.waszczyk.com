@@ -2189,3 +2189,4 @@ Bułkę przez bibułkę.
 
 Wszystkie świnie siedzą w kinie.
 
+Praca oddala od nas trzy wielkie niedole: nudę, występek i ubóstwo.
