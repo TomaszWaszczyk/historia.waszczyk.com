@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Walraven_van_Hall
 
 https://www.nac.gov.pl
 
+https://mises.org/library/war-and-inflation
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
