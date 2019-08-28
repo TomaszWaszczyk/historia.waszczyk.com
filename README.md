@@ -17,6 +17,10 @@ https://mises.org/library/war-and-inflation
 
 https://en.wikipedia.org/wiki/Kardashev_scale
 
+https://en.wikipedia.org/wiki/Andrei_Tupolev
+
+https://pl.wikipedia.org/wiki/Siergiej_Korolow
+
 
 # Jewish space
 
