@@ -1,7 +1,7 @@
 ---
 title: "Classical Music"
 author: Tomasz Waszczyk
-tags: []
+tags: ["muzyka klasyczna"]
 image: img/testimg1.jpg
 date: "1922-12-12T10:00:00.000Z"
 draft: false
@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=7p94DFyBBwc : Boccherini: Master and Commander
 https://www.youtube.com/watch?v=8jdcw1UOkU0 : Ludwig van Beethoven: Melody of Love
 
 https://www.youtube.com/watch?v=Nb3vj9zTHX0 : Chopin - Nocturne op.9 No.1
+
+https://www.youtube.com/watch?v=yJpJ8REjvqo : Rachmaninoff - Piano Concerto #2 in C Minor, Op. 18 - HD
 
 ---
 
