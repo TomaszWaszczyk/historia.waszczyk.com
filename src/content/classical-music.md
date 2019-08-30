@@ -35,3 +35,7 @@ Jedyny zachowany utwór Haczewskiego to Symfonia D-dur z 1771 znaleziona w 1952 
 https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Leszczy%C5%84ski_(1616%E2%80%931680)
 
 Paweł Łukaszewski
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/classical-music.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
