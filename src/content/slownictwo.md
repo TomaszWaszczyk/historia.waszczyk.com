@@ -344,3 +344,10 @@ zob. obornik.
 pogard. «ktoś lub coś bez znaczenia, wartości»
 
 eskapizm
+
+pletora - plétora f (plural plétoras)
+
+plethora (an excessive amount or number)
+
+(medicine) plethora (an excess of red blood cells or bodily humours)
+
