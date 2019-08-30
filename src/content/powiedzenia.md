@@ -2190,3 +2190,5 @@ Bułkę przez bibułkę.
 Wszystkie świnie siedzą w kinie.
 
 Praca oddala od nas trzy wielkie niedole: nudę, występek i ubóstwo.
+
+Jeśli tracisz pieniądze, nic nie tracisz. Jeśli tracisz zdrowie, coś tracisz. Jeśli tracisz spokój, tracisz wszystko.
