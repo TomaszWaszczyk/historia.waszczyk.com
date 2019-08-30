@@ -145,13 +145,19 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
               <Link to="/">Home</Link>
             </li>
             <li role="menuitem">
-              <Link to="/about">Dlaczego Tomek interesuje się historią</Link>
+              <Link to="/about">Dlaczego historia?</Link>
             </li>
             <li role="menuitem">
               <Link to="/powiedzenia">Cytaty i powiedzenia</Link>
             </li>
             <li role="menuitem">
               <Link to="/classical-music">Classical music</Link>
+            </li>
+            <li role="menuitem">
+              <Link to="/slownictwo">Słownictwo</Link>
+            </li>
+            <li role="menuitem">
+              <Link to="/art">Sztuka</Link>
             </li>
           </ul>
         </SiteNavLeft>
