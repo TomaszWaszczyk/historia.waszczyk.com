@@ -15,3 +15,7 @@ draft: false
 ---
 
 Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -2194,3 +2194,7 @@ Praca oddala od nas trzy wielkie niedole: nudę, występek i ubóstwo.
 Jeśli tracisz pieniądze, nic nie tracisz. Jeśli tracisz zdrowie, coś tracisz. Jeśli tracisz spokój, tracisz wszystko.
 
 Istotą prawdziego życia jest chęć uprawiania sensu.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
