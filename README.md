@@ -21,6 +21,8 @@ https://en.wikipedia.org/wiki/Andrei_Tupolev
 
 https://pl.wikipedia.org/wiki/Siergiej_Korolow
 
+https://pl.wikipedia.org/wiki/Wał_Hadriana
+
 
 # Jewish space
 
@@ -60,6 +62,8 @@ https://oll.libertyfund.org/titles/boetie-the-discourse-of-voluntary-servitude
 # Książki
 
 Bo to złe kobiety były. Intrygantki i diablice
+
+Wielka Rewolucja Francuska - Pierre Gaxotte
 
 
 # Daty
