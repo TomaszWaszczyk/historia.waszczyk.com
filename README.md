@@ -63,6 +63,8 @@ https://oll.libertyfund.org/titles/boetie-the-discourse-of-voluntary-servitude
 
 Bo to złe kobiety były. Intrygantki i diablice
 
+Wielka Rewolucja Francuska - Pierre Gaxotte
+
 
 # Daty
 
