@@ -35,7 +35,7 @@ Fragment rozkazu Adolfa Hitlera do ataku na Polskę z 31 sierpnia 1939 roku:
 
 * Pakt Ribbentrop-Beck, Piotr Zychowicz
 
-* Historia Polski od 11 listopada 1918 do 17 września 1939
+* Historia Polski od 11 listopada 1918 do 17 września 1939, Stanisław Cat-Mackiewicz
 
 ## Muzyka
 
