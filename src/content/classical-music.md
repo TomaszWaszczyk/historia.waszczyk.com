@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=8jdcw1UOkU0 : Ludwig van Beethoven: Melody of Lo
 
 https://www.youtube.com/watch?v=Nb3vj9zTHX0 : Chopin - Nocturne op.9 No.1
 
+Chopin - Ballade No. 1 in G minor, Op. 23
+
 https://www.youtube.com/watch?v=yJpJ8REjvqo : Rachmaninoff - Piano Concerto #2 in C Minor, Op. 18 - HD
 
 ---
