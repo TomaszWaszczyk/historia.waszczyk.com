@@ -41,9 +41,9 @@ Na terenie całej Polski został wprowadzony stan wojenny. Oto treść zarządze
 
 ---
 
-![Sojusznicy](..img/september/gerstenberg.png)
+![Sojusznicy](./img/september/gerstenberg.png)
 
-Sojusznicy? Attache wojskowy Ambasady Niemiec w Polsce ppłk. von Gerstenberg (drugi z lewej) w asyście polskich wojskowych na tle Grobu Nieznanego Żołnierza, 17 kwietnia 1938 r. Zdjęcie ze stron Wrzesień 1939. [A]
+Sojusznicy? Attache wojskowy Ambasady Niemiec w Polsce ppłk. von Gerstenberg (drugi z lewej) w asyście polskich wojskowych na tle Grobu Nieznanego Żołnierza, 17 kwietnia 1938 r. Zdjęcie ze stron Wrzesień 1939.
 
 Kiedyś, wiele lat temu, kiedy dyskusje o historii były na poziomie, bez przypinania łatki ''nazisty'', był pewien człowiek. Miał okulary, kędzierzawą siwą brodę i spokojny, nieco chrapliwy głos. On jako jeden z pierwszych zwrócił uwagę, że Polska popełniła katastrofalny błąd w 1939 roku. Że powinna była postąpić inaczej. Nie bał się kontrowersyjnych tez i burzył romantyczne mity historyczne.
 
