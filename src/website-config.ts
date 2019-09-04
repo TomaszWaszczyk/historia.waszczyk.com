@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Notatki historyczne Tomka',
-  description: 'Notatki historyczne Tomka',
+  description: '“You may not be interested in war, but war is interested in you.”  ',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
