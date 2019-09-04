@@ -107,6 +107,16 @@ Dziś jest rocznica rozpoczęcia wojny niemiecko - polskiej. Już rok trwa ta m�
 
 ---
 
+## Wspomnienia
+
+> Jestem już nie młody,pochodzę z Górnego Śląska. Matka była rodowitą Ślązaczką a ojciec rodowitym Pomorzaninem. Oboje przed  > wojną byli obywatelami III Rzeszy.Z ich relacji oraz z opowieści cioć i wujów wiem dlaczego zwykli ludzie gorąco popierali > Hitlera w latach 30-tych.
+> Przede wszystkim zdławił kryzys gospodarczy i dał ludziom pracę,dzieciom szkoły.Do tego opieka socjalna i medyczna państwa > dostępna dla każdego. Urzędy były dla obywateli a nie ich wrogami.Istniało sporo organizacji dbających o to,żeby 
+> dzieci,młodzież oraz pracownicy się nie nudzili i czuli się dowartościowani. Zlikwidował istniejące jeszcze 
+> w latach 20 tych > bandy czerwonych zbirów.Generalnie był porządek i dyscyplina.Prostym obywatelom to w zupełności 
+> wystarczało. Gdyby dzisiaj był w Polsce polityk tego formatu z pewnością miałby kilkadziesiąt procent poparcia w sondażach.
+
+---
+
 ## Książki
 
 * Churchil, Hitler i Niepotrzebna Wojna, Patrick J. Buchanan
