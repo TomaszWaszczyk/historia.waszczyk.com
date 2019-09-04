@@ -30,3 +30,7 @@ Ale nie będziemy o tym wiedzieli
 Będziemy przekonani
 Że tak być powinno
 Bo tak było zawsze.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

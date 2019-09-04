@@ -99,6 +99,10 @@ Kończąc ten przydługi wpis, przypomina mi się parada w Moskwie 9 maja 2005 r
 
 Trzeba to jasno powiedzieć. W II WŚ Polska stanęła po złej stronie barykady.
 
+---
+
+Krakowskie lotnisko Rakowice stało się celem niemieckiego bombardowania. Udział w tym nalocie wzięło 150 samolotów 4 Floty Luftwaffe. Mogło być ich więcej,ale jedna eskadra pomyliła drogę i ominęła Kraków. Około godziny siódmej rano z rozkazu kapitana Mieczysława Medweckiego wystartowały pierwsze polskie patrole rozpoznawcze.
+
 ## 1940
 
 Fragment pamiętnika Ireny Glück, nastoletniej żydowskiej dziewczynki z Krakowa.
