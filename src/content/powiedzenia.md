@@ -2197,7 +2197,7 @@ Istotą prawdziego życia jest chęć uprawiania sensu.
 
 You may not be interested in war, but war is interested in you.
 
-The confidence of youth is dangerous, it is dangerous because it lives an illision of powerfulness of making decisions that determine your future most
+The confidence of youth is dangerous, it is dangerous because it lives an  illision of powerfulness of making decisions that determine your future most
 
 
 ---
