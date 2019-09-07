@@ -2205,6 +2205,7 @@ Logika zaprowadzi cię z punku A do punktu B. Wyobraźnia zaprowadzi cię wszęd
 
 Problemy pierwszego świata: życie przed śmiercią
 
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
