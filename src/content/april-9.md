@@ -13,3 +13,7 @@ tags:
 <https://pl.wikipedia.org/wiki/Operacja_Weser%C3%BCbung>
 
 <https://en.wikipedia.org/wiki/Locomotive_Acts>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
