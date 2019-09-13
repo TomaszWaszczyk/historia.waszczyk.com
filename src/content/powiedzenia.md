@@ -2205,6 +2205,9 @@ Logika zaprowadzi cię z punku A do punktu B. Wyobraźnia zaprowadzi cię wszęd
 
 Problemy pierwszego świata: życie przed śmiercią
 
+Cukier krzepi, wódka lepi.
+
+Bóg nie dał nam wrogów, za to dał sąsiadów.
 
 ---
 

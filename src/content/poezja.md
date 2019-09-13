@@ -31,6 +31,8 @@ Będziemy przekonani
 Że tak być powinno
 Bo tak było zawsze.
 
+<https://pl.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
