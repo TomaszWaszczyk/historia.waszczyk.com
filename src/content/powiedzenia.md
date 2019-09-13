@@ -2209,6 +2209,8 @@ Cukier krzepi, wódka lepi.
 
 Bóg nie dał nam wrogów, za to dał sąsiadów.
 
+Money is made by sitting. Not trading.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
