@@ -2205,6 +2205,7 @@ Logika zaprowadzi cię z punku A do punktu B. Wyobraźnia zaprowadzi cię wszęd
 
 Problemy pierwszego świata: życie przed śmiercią
 
+Money is made by sitting. Not trading
 
 ---
 
