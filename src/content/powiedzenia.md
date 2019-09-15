@@ -2211,6 +2211,10 @@ Bóg nie dał nam wrogów, za to dał sąsiadów.
 
 Money is made by sitting. Not trading.
 
+Nie liczy się to, czy przewidziałeś deszcz. Liczy się, czy zbudowałeś arkę. Noe nie czekał z budową arki, aż spadnie deszcz.
+
+Kiedykolwiek coś robisz, rób to tak, jakby cały świat na Ciebie patrzył.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
