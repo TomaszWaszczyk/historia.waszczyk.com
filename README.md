@@ -33,6 +33,8 @@ https://pl.wikipedia.org/wiki/I_wojna_opiumowa
 
 https://en.wikipedia.org/wiki/Marcos_P%C3%A9rez_Jim%C3%A9nez
 
+https://pl.wikipedia.org/wiki/Maj_1968
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
