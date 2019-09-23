@@ -15,6 +15,10 @@ https://www.nac.gov.pl
 
 https://szukajwarchiwach.pl
 
+http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
+
+https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
+
 https://mises.org/library/war-and-inflation
 
 https://en.wikipedia.org/wiki/Kardashev_scale
