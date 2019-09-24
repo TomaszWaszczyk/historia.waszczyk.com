@@ -2215,6 +2215,8 @@ Nie liczy się to, czy przewidziałeś deszcz. Liczy się, czy zbudowałeś ark�
 
 Kiedykolwiek coś robisz, rób to tak, jakby cały świat na Ciebie patrzył.
 
+Warunkiem koniecznym do komunikacji jest brak scislosci.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
