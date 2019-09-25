@@ -352,12 +352,24 @@ plethora (an excessive amount or number)
 (medicine) plethora (an excess of red blood cells or bodily humours)
 
 peregrynacja
+
 1. pielgrzymka do miejsc świętych
+
 2. dłuższa podróż lub wędrówka
 
 ostracyzm
 
 siwucha
+
+sekować «nękać lub prześladować kogoś»
+
+sekować się «dokuczać jeden drugiemu, nękać się wzajemnie»
+
+koncyliacja, koncyliacyjnie
+
+1. «działanie mające na celu osiągnięcie przez strony pojednania»
+
+2. «polubowne załatwianie sporów międzynarodowych przez powołanie komisji pojednawczej»
 
 ---
 
