@@ -2,8 +2,8 @@
 layout: post
 title: "Ważne mapy"
 author: Tomasz Waszczyk
-tags: ["Mapy"]
-image: img/others/rome.jpg
+tags: ["Mapym"]
+image: img/others/countries_density_1918.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
