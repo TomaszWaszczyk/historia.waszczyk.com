@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ważne mapy"
+title: "Ciekawe mapy oraz ilustracje"
 author: Tomasz Waszczyk
 tags: ["Mapy"]
 image: img/others/countries_density_1918.jpg
