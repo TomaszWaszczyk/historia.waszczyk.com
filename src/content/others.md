@@ -12,6 +12,8 @@ draft: false
 
 2. <a href="http://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
 
+3. <a href="http://historia.waszczyk.com/year-by-year" target="_blank">Rok po roku</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
