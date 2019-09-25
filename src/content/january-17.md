@@ -9,3 +9,7 @@ tags:
 ---
 
 https://pl.wikipedia.org/wiki/Walter_Eucken
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

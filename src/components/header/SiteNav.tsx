@@ -159,6 +159,9 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
             <li role="menuitem">
               <Link to="/art">Sztuka</Link>
             </li>
+            <li role="menuitem">
+              <Link to="/others">Inne</Link>
+            </li>
           </ul>
         </SiteNavLeft>
         <SiteNavRight>

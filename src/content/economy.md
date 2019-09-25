@@ -23,3 +23,7 @@ draft: false
 * Salerno
 
 https://pl.wikipedia.org/wiki/Efekt_Cantillona
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/economy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

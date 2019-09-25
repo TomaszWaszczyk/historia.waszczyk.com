@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Inne"
+author: Tomasz Waszczyk
+tags: ["Inne"]
+image: img/art/strzeminski.jpg
+date: "2018-05-06T23:46:37.121Z"
+draft: false
+---
+
+1. <a href="http://historia.waszczyk.com/maps" target="_blank">Mapy</a>
+
+2. <a href="http://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
