@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Historia rok po roku"
+title: "Inne"
 author: Tomasz Waszczyk
-tags: ["Rok po roku"]
-image: img/welcome-to-ghost.jpg
+tags: ["Inne"]
+image: img/others/end-war.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
+### 1841
 
+https://en.wikipedia.org/wiki/Thomas_Cook
+
+### 12 n.e
+
+https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
 
 ---
 
