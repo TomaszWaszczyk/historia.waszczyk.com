@@ -14,16 +14,7 @@ https://en.wikipedia.org/wiki/Thomas_Cook
 
 ### 1522
 
-<details><summary>To run demo locally: (click to expand)</summary>
-
-- Clone this repository
-- Install dependencies via `yarn`
-- `yarn run storybook`
-- Visit [http://localhost:9001/](http://localhost:9001/)
-
-</details>
-
-## Monetae cudendae ratio - Traktat o biciu monety i poglądy ekonomiczne Kopernika
+<details><summary>Monetae cudendae ratio - Traktat o biciu monety i poglądy ekonomiczne Kopernika</summary>
 
 Traktat Mikołaja Kopernika o reformie monety pruskiej powstał w trzech wersjach w latach 1517-1526. Znamy go z kilku odpisów i tłumaczeń, które – jak dowodzi analiza treści – stanowią kolejne redakcje jednej rozprawy.
 
@@ -41,6 +32,7 @@ Trzecia wersja traktatu monetarnego, zwana Monete cudende ratio, zachowała się
 Analizując całość poglądów Mikołaja Kopernika na sprawy monetarne widać wyraźnie, że był on zwolennikiem metalistycznej teorii pieniądza, czyli źródła wartości monety upatrywał w kruszcu. Za monetę uważał on znaczone (stemplowane) złoto lub srebro, którym się płaci ceny rzeczy kupionych lub sprzedawanych, stosownie do postanowienia każdego państwa lub władcy. Rozróżniał przy tym w pieniądzu wartość (valor) i szacunek – wartość szacunkową (estimatio). Wartość w jego ujęciu zależała od ilości i jakości kruszcu w monetach, natomiast szacunek oznaczał wartość nominalną, ustanowioną przez władzę zwierzchnią. Dobra moneta winna mieć taką wartość nominalną, która byłaby równa wartości rzeczywistej materiału, z którego została wybita.
 
 Kopernik rozróżniał też kilka funkcji pieniądza. Uważał go za miernik wartości (wyraża ceny), konieczny środek cyrkulacji (pieniądzem się płaci i za niego się kupuje) oraz środek tezauryzacji (jako skarb). Najważniejsze jednak dla dziejów ekonomii stało się sformułowane przez niego prawo złego pieniądza, mówiące że pieniądz gorszy, czyli wykonany z gorszego kruszcu i mający mniejszą wartość, wypiera z obiegu pieniądz lepszy, czyli wykonany z lepszego kruszcu i mający wartość większą. Prawo to odnajdujemy między innymi w trzeciej wersji traktatu monetarnego, w którym Kopernik zapisał: kiedy do dawnej, lepszej monety, pozostawionej w obiegu, wprowadzono nową, gorszą, która nie tylko zaraziła dawną, ale że tak powiem, z obiegu ją wypędziła. Dopiero kilkadziesiąt lat później podobne opinie wygłaszał angielski finansista, Thomas Gresham, od którego nazwiska prawo złego pieniądza określane bywa często jako prawo Greshama.
+</details>
 
 ### 12 n.e
 
