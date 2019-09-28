@@ -13,7 +13,7 @@ draft: false
 https://en.wikipedia.org/wiki/Thomas_Cook
 
 ### 1522
-Read more [here](./README_2.md) # It works!
+
 <details><summary>Monetae cudendae ratio - Traktat o biciu monety i poglądy ekonomiczne Kopernika (kliknij aby rozwinąć)</summary>
 
 Traktat Mikołaja Kopernika o reformie monety pruskiej powstał w trzech wersjach w latach 1517-1526. Znamy go z kilku odpisów i tłumaczeń, które – jak dowodzi analiza treści – stanowią kolejne redakcje jednej rozprawy.
