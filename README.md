@@ -80,6 +80,8 @@ Bo to złe kobiety były. Intrygantki i diablice
 
 Wielka Rewolucja Francuska - Pierre Gaxotte
 
+Od białego caratu do czerwonego. Tomy I - VII (KOMPLET)
+
 
 # Daty
 
