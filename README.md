@@ -15,6 +15,8 @@ https://www.nac.gov.pl
 
 https://szukajwarchiwach.pl
 
+https://www.loc.gov/collections/
+
 http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
 
 https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
