@@ -8,6 +8,10 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### 1999
+
+The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
