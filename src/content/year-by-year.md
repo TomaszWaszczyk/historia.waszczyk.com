@@ -12,6 +12,10 @@ draft: false
 
 https://en.wikipedia.org/wiki/Thomas_Cook
 
+### 1522
+
+Monetae cudendae ratio
+
 ### 12 n.e
 
 https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
