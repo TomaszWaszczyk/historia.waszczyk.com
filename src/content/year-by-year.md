@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Inne"
+title: "Rok po roku"
 author: Tomasz Waszczyk
-tags: ["Inne"]
+tags: ["Rok po roku"]
 image: img/others/end-war.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
