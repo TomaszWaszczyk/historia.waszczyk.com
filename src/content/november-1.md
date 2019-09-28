@@ -1,0 +1,17 @@
+---
+layout: post
+title: 1 listopada
+image: img/1-08.jpeg
+author: Tomasz Waszczyk
+date: 2019-11-01T10:00:00.000Z
+tags:
+  - Historia
+---
+
+### 1862
+
+Urodził się Feliks Koneczny: https://pl.wikipedia.org/wiki/Feliks_Koneczny
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

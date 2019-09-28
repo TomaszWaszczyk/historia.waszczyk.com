@@ -3,10 +3,11 @@ layout: post
 title: 1 października
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-03-10T10:00:00.000Z
+date: 2019-10-03T10:00:00.000Z
 tags:
   - Historia
-  - Giełda
+  - German
+  - Niemcy
 ---
 
 ### 1990

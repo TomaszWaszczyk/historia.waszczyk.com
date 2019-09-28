@@ -2221,6 +2221,8 @@ Imperare sibi maximum est imperium. - Panować nad sobą to najwyższa władza.
 
 Numquam sapiens irascitur. - Mędrzec nigdy nie unosi się gniewem.
 
+Nie ma ludzi złych czy dobrych są tylko źle poinformowani
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
