@@ -1,11 +1,18 @@
 ---
 layout: post
 title: 19 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/siege-of-paris.jpg
 author: Tomasz Waszczyk
 date: 2019-03-10T10:00:00.000Z
 tags:
   - Source
 ---
 
-### Getting Started
+### 1870
+
+https://en.wikipedia.org/wiki/Franco-Prussian_War
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+
