@@ -4,7 +4,7 @@ title: "Rok po roku"
 author: Tomasz Waszczyk
 tags: ["Rok po roku"]
 image: img/others/end-war.jpg
-date: "2018-05-06T23:46:37.121Z"
+date: "2018-05-23T23:46:37.121Z"
 draft: false
 ---
 
