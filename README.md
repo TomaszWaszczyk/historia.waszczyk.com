@@ -15,6 +15,8 @@ https://www.nac.gov.pl
 
 https://szukajwarchiwach.pl
 
+https://www.loc.gov/collections/
+
 http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
 
 https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
@@ -77,6 +79,8 @@ https://oll.libertyfund.org/titles/boetie-the-discourse-of-voluntary-servitude
 Bo to złe kobiety były. Intrygantki i diablice
 
 Wielka Rewolucja Francuska - Pierre Gaxotte
+
+Od białego caratu do czerwonego. Tomy I - VII (KOMPLET)
 
 
 # Daty
