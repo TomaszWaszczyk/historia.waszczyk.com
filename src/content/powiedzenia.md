@@ -2221,7 +2221,9 @@ Imperare sibi maximum est imperium. - Panować nad sobą to najwyższa władza.
 
 Numquam sapiens irascitur. - Mędrzec nigdy nie unosi się gniewem.
 
-Nie ma ludzi złych czy dobrych są tylko źle poinformowani
+Nie ma ludzi złych czy dobrych są tylko źle poinformowani.
+
+Musimy zrezygnować z planów na życie, żeby przeżyć to, co naprawdę nas czeka. - Joseph Campbell
 
 ---
 
