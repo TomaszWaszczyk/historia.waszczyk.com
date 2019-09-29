@@ -11,6 +11,8 @@ https://pl.wikipedia.org/wiki/Dziewczynka_w_zielonym_sweterku
 
 https://en.wikipedia.org/wiki/Walraven_van_Hall
 
+https://lodz.ipn.gov.pl/
+
 https://www.nac.gov.pl
 
 https://szukajwarchiwach.pl
