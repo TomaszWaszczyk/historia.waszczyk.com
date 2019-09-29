@@ -21,9 +21,11 @@ http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
 
 https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
 
-https://library.harvard.edu/
+https://library.harvard.edu
 
-http://cbw.wp.mil.pl/
+http://cbw.wp.mil.pl
+
+http://bazhum.muzhp.pl
 
 https://mises.org/library/war-and-inflation
 
