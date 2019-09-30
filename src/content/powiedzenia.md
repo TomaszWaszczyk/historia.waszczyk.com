@@ -2225,6 +2225,8 @@ Nie ma ludzi złych czy dobrych są tylko źle poinformowani.
 
 Musimy zrezygnować z planów na życie, żeby przeżyć to, co naprawdę nas czeka. - Joseph Campbell
 
+Nie decyduj w złości nie obiecuj w szczęściu.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
