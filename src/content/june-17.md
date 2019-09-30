@@ -14,3 +14,7 @@ Nazwa ustawy pochodzi od nazwisk jej wnioskodawców, senatora Reeda Smoota z Uta
 
 <https://en.wikipedia.org/wiki/New_Deal> : Wprowadzenie przez prezydenta Roosvelta programu “New Deal“. Co prawda Roosvelt objął prezydenturę w 1933 roku, ale tak naprawdę ten program został wprowadzony już przez prezydenta Hoovera (od 1930 roku). Było to centralne planowanie. Państwo kontrolowało prawie wszystko. Ustalano na przykład ceny produktów przez oficjalne cenniki przygotowywane przez urzędników.
 Cały program interwencjonizmu i robót publicznych był przeprowadzony przez gigantyczny wzrost wydatków, który nie miał pokrycia w przychodach budżetowych. W efekcie dług do PKB bardzo mocno wzrósł.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
