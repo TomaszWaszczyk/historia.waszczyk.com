@@ -371,6 +371,8 @@ koncyliacja, koncyliacyjnie
 
 2. «polubowne załatwianie sporów międzynarodowych przez powołanie komisji pojednawczej»
 
+palestra - ogół adwokatów; adwokatura;
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
