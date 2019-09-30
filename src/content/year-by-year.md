@@ -12,6 +12,10 @@ draft: false
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
+### 1930
+
+https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
