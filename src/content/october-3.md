@@ -8,6 +8,7 @@ tags:
   - Historia
   - German
   - Niemcy
+draft: false  
 ---
 
 ### 1990
