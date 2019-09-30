@@ -6,10 +6,10 @@ author: Tomasz Waszczyk
 date: 2019-10-02T10:00:00.000Z
 tags:
   - Historia
-  - Polenaction
+  - Polenaktion
 ---
 
-### 1928
+### 1938
 
 W dniu 31 marca 1938 r. sejm polski wobec spodziewanego masowego powrotu do kraju polskich Żydów zamieszkałych na terenie Niemiec, uchwalił ustawę o pozbawianiu obywatelstwa. Zgodnie z jej zapisami obywatele polscy przebywający nieprzerwanie za granicą co najmniej przez 5 lat po powstaniu Państwa Polskiego mogli zostać pozbawieni obywatelstwa. W połowie października 1938 r. ukazało się rozporządzenie Ministerstwa Spraw Wewnętrznych, które nakazywało każdemu obywatelowi polskiemu przebywającemu poza krajem przedłożenie paszportu do rejestracji we właściwym konsulacie i uzyskanie adnotacji kontrolnej potwierdzającej ważność dokumentu. Paszporty pozbawione adnotacji nie upoważniały do przekroczenia granicy polskiej po dniu 29 października 1938 r.
 
