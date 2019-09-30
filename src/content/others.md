@@ -14,6 +14,8 @@ draft: false
 
 3. <a href="http://historia.waszczyk.com/year-by-year" target="_blank">Rok po roku</a>
 
+4. <a href="http://historia.waszczyk.com/china" target="_blank">Chiny</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
