@@ -5,7 +5,7 @@ author: Tomasz Waszczyk
 tags: ["Chiny"]
 image: img/art/strzeminski.jpg
 date: "2018-05-06T23:46:37.121Z"
-draft: true
+draft: false
 ---
 
 ### Chiny
