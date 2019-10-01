@@ -16,6 +16,8 @@ draft: false
 
 4. <a href="http://historia.waszczyk.com/china" target="_blank">Chiny</a>
 
+5. <a href="http://historia.waszczyk.com/dictionary" target="_blank">Słowników terminów historycznych</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
