@@ -2227,6 +2227,8 @@ Musimy zrezygnować z planów na życie, żeby przeżyć to, co naprawdę nas cz
 
 Nie decyduj w złości nie obiecuj w szczęściu.
 
+"The fool generalizes the particular; the nerd particularizes the general; some do both; and the wise does neither"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
