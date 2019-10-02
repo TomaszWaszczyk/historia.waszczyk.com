@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 października
-image: img/1-08.jpeg
+image: img/october/mur.jpg
 author: Tomasz Waszczyk
 date: 2018-10-03T10:00:00.000Z
 tags:
