@@ -2229,6 +2229,8 @@ Nie decyduj w złości nie obiecuj w szczęściu.
 
 "The fool generalizes the particular; the nerd particularizes the general; some do both; and the wise does neither"
 
+"nie przeżywamy nic, ale mamy dobry kadr" Sokół & Marysia
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

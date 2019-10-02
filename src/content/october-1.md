@@ -15,7 +15,7 @@ tags:
 
 ---
 
-### Chiny
+### 1949
 
 Rocznica Proklamowania Chińskiej Republiki Ludowej (święto narodowe)
 
