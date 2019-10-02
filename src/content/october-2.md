@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 2 października
-image: img/october/Sonderausstellung_Ausgewiesen.jpg
+image: img/october/getto.jpg
 author: Tomasz Waszczyk
 date: 2019-10-02T10:00:00.000Z
 tags:
   - Historia
   - Polenaktion
 ---
+
+### 1940
+
+Szef dystryktu warszawskiego Ludwig Fischer podpisał zarządzenie o utworzeniu w Warszawie getta. Aneksem do tego zarządzenia był spis warszawskich ulic wyznaczających granicę dzielnicy żydowskiej.
 
 ### 1938
 

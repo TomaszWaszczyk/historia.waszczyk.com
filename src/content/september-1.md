@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+## 1992
+
+Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz
+
 ## 1939
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
@@ -108,6 +112,10 @@ Krakowskie lotnisko Rakowice stało się celem niemieckiego bombardowania. Udzia
 Fragment pamiętnika Ireny Glück, nastoletniej żydowskiej dziewczynki z Krakowa.
 
 Dziś jest rocznica rozpoczęcia wojny niemiecko - polskiej. Już rok trwa ta męka i cierpienie, które dotknęło prawie całą ludność Europy i wstrząsnęło światem. Bowiem świat nie pamięta takiego zniszczenia i barbarzyństwa, które szerzą Niemcy. Dziś dranie mają święto. Rozwiesili na Rynku Krakowskim wspaniałe flagi obramowane złoconymi wstęgami. Od dziś Rynek ma się zwać Adolf Hitlerplatz. Na Rynku ma przemawiać Frank i tam też ma się odbyć cała uroczystość. Ma również przyjechać drań Gebels, najbardziej zacięty wróg Żydów. Z wszystkich okien Niemców powiewają flagi. Chciałabym bardzo, żeby na ten dzień do Krakowa przyleciało kilka samolotów angielskich, ale przecież Anglicy są powolni (...). Podobno polska tajna organizacja wypuściła ulotki, aby ani Polacy, ani Żydzi nie pokazywali się tego dnia na mieście, ani nie jeździli tramwajami, a lekarze tylko w ważnej sprawie (...).
+
+## 1925
+
+https://pl.wikipedia.org/wiki/Tadeusz_Ste%C4%87
 
 ---
 
