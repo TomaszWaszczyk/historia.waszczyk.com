@@ -2231,7 +2231,7 @@ Nie decyduj w złości nie obiecuj w szczęściu.
 
 "nie przeżywamy nic, ale mamy dobry kadr" Sokół & Marysia
 
-Biblia Warszawska:
+Biblia Warszawska (Księga Ozeasza 4:6	):
 
 Lud mój ginie, gdyż brak mu poznania; ponieważ ty odrzuciłeś poznanie, i Ja ciebie odrzucę, abyś mi nie był kapłanem, a ponieważ zapomniałeś o zakonie swojego Boga, Ja też zapomnę o twoich dzieciach.
 
