@@ -2231,6 +2231,18 @@ Nie decyduj w złości nie obiecuj w szczęściu.
 
 "nie przeżywamy nic, ale mamy dobry kadr" Sokół & Marysia
 
+Biblia Warszawska:
+
+Lud mój ginie, gdyż brak mu poznania; ponieważ ty odrzuciłeś poznanie, i Ja ciebie odrzucę, abyś mi nie był kapłanem, a ponieważ zapomniałeś o zakonie swojego Boga, Ja też zapomnę o twoich dzieciach.
+
+Biblia Tysiąclecia:
+
+Naród mój ginie z powodu braku nauki: ponieważ i ty odrzuciłeś wiedzę, Ja cię odrzucę od mego kapłaństwa. O prawie Boga twego zapomniałeś, więc Ja zapomnę też o synach twoich.
+
+Biblia Gdańska:
+
+Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność , i Ja też ciebie odrzucę, abyś mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
