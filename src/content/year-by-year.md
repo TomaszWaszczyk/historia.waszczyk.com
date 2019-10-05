@@ -8,6 +8,10 @@ date: "2018-05-23T23:46:37.121Z"
 draft: false
 ---
 
+### 2013
+
+https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+
 ### 1999
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
@@ -15,6 +19,12 @@ The separation between deposit and investment banking has been removed: https://
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
+
+### 1919 (pomyśleć nad dokładnym rokiem)
+
+WWI was possible because using inflation and central banking, the state wasn't limited to it's own savings, but could exhaust the savings of the populace in the war effort. Those conditions still exist today.
+
+Bitcoin will return us to pre-war la belle epoque.
 
 ### 1841
 
