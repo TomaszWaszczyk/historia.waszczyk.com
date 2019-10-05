@@ -2243,6 +2243,13 @@ Biblia Gdańska:
 
 Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność , i Ja też ciebie odrzucę, abyś mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich.
 
+Wojna to pokój.
+Wolność to niewola.
+Ignorancja to siła.więcej
+George Orwell – Rok 1984
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
