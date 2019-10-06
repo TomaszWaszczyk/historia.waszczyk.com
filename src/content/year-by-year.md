@@ -26,6 +26,10 @@ WWI was possible because using inflation and central banking, the state wasn't l
 
 Bitcoin will return us to pre-war la belle epoque.
 
+### 1900
+
+https://en.wikipedia.org/wiki/Gold_Standard_Act
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
