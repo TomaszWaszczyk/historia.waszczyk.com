@@ -3,6 +3,8 @@
 
 https://codepen.io/anon/pen/KOyGgO
 
+Książka: The mythology and fables of the ancients, explain'd from history
+
 http://www.jhi.pl
 
 https://www.generalkuklinski.com/muzeum/
