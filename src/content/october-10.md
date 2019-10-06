@@ -9,3 +9,7 @@ tags:
 ---
 
 Józef Franczak "Lalek" ostatni żołnierz niepodległościowego podziemia poległy w boju. Zabity w obławie 21.10.1963 18 lat po II wojnie św. Ciało „Lalka” komuniści zbezcześcili odcinając mu głowę, a nagie zwłoki wrzucili do bezimiennego grobu.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

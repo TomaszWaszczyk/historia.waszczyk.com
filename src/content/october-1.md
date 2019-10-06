@@ -3,7 +3,7 @@ layout: post
 title: 1 października
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-10-01T10:00:00.000Z
+date: 2018-10-01T10:00:00.000Z
 tags:
   - Historia
   - Giełda
@@ -12,6 +12,12 @@ tags:
 ### 1907
 
 <a href="https://en.wikipedia.org/wiki/Panic_of_1907" target="_blank">Panika 1907</a>
+
+---
+
+### 1949
+
+Rocznica Proklamowania Chińskiej Republiki Ludowej (święto narodowe)
 
 ---
 

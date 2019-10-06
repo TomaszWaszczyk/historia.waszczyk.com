@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 1 października
-image: img/1-08.jpeg
+title: 3 października
+image: img/october/mur.jpg
 author: Tomasz Waszczyk
 date: 2019-10-03T10:00:00.000Z
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ### 1990
 
-<a href="https://en.wikipedia.org/wiki/German_Unity_Day" target="_blank">German Unity Day</a>
+<a href="https://en.wikipedia.org/wiki/German_Unity_Day" target="_blank">Tag der Deutschen Einheit</a>
 
 ---
 

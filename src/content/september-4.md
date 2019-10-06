@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 2012
+
+Umiera Józef Szaniawski: https://pl.wikipedia.org/wiki/J%C3%B3zef_Szaniawski_(politolog)
+
 ### 1939
 
 do Katowic weszli żołnierze Wermachtu. Sytuację ułatwiał fakt, że do tego czasu wycofały się z miasta prawie wszystkie kompanie Wojska Polskiego. Pozostali tylko nieliczni żołnierze.

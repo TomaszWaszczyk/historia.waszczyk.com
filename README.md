@@ -3,6 +3,10 @@
 
 https://codepen.io/anon/pen/KOyGgO
 
+http://www.jhi.pl
+
+https://www.generalkuklinski.com/muzeum/
+
 https://en.wikipedia.org/wiki/Black_Monday_(1987)
 
 https://pl.wikipedia.org/wiki/Prawo_rynk%C3%B3w
@@ -10,6 +14,8 @@ https://pl.wikipedia.org/wiki/Prawo_rynk%C3%B3w
 https://pl.wikipedia.org/wiki/Dziewczynka_w_zielonym_sweterku
 
 https://en.wikipedia.org/wiki/Walraven_van_Hall
+
+https://lodz.ipn.gov.pl/
 
 https://www.nac.gov.pl
 
@@ -20,6 +26,12 @@ https://www.loc.gov/collections/
 http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
 
 https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
+
+https://library.harvard.edu
+
+http://cbw.wp.mil.pl
+
+http://bazhum.muzhp.pl
 
 https://mises.org/library/war-and-inflation
 
