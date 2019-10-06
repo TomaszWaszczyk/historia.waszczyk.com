@@ -12,6 +12,12 @@ draft: false
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
+### 1948
+
+Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przedmiotów związanych z krytycznym myśleniem, samodzielnym myśleniem oraz logiką: https://en.wikipedia.org/wiki/Jakub_Berman
+
+Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/books/ajdukiewicz-propedeutyka_filozofii.pdf
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook

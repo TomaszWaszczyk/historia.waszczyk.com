@@ -2221,7 +2221,10 @@ Imperare sibi maximum est imperium. - Panować nad sobą to najwyższa władza.
 
 Numquam sapiens irascitur. - Mędrzec nigdy nie unosi się gniewem.
 
-Nie ma ludzi złych czy dobrych są tylko źle poinformowani
+Nie ma ludzi złych czy dobrych są tylko źle poinformowani - https://en.wikipedia.org/wiki/Marian_Mazur
+
+„Potrafimy za naszą ojczyznę umierać, ale nie potrafimy dla niej żyć”
+
 
 ---
 
