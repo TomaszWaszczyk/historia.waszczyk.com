@@ -2221,6 +2221,10 @@ Imperare sibi maximum est imperium. - Panować nad sobą to najwyższa władza.
 
 Numquam sapiens irascitur. - Mędrzec nigdy nie unosi się gniewem.
 
+Nie ma ludzi złych czy dobrych są tylko źle poinformowani - https://en.wikipedia.org/wiki/Marian_Mazur
+
+„Potrafimy za naszą ojczyznę umierać, ale nie potrafimy dla niej żyć”
+
 Nie ma ludzi złych czy dobrych są tylko źle poinformowani.
 
 Musimy zrezygnować z planów na życie, żeby przeżyć to, co naprawdę nas czeka. - Joseph Campbell
@@ -2247,8 +2251,6 @@ Wojna to pokój.
 Wolność to niewola.
 Ignorancja to siła.więcej
 George Orwell – Rok 1984
-
-
 
 ---
 
