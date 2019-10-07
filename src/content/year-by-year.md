@@ -16,13 +16,12 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
-<<<<<<< HEAD
 ### 1948
 
 Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przedmiotów związanych z krytycznym myśleniem, samodzielnym myśleniem oraz logiką: https://en.wikipedia.org/wiki/Jakub_Berman
 
 Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/books/ajdukiewicz-propedeutyka_filozofii.pdf
-=======
+
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
@@ -32,7 +31,6 @@ https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
 WWI was possible because using inflation and central banking, the state wasn't limited to it's own savings, but could exhaust the savings of the populace in the war effort. Those conditions still exist today.
 
 Bitcoin will return us to pre-war la belle epoque.
->>>>>>> b1d0af573fc3918bba462d69967f2ec77e4508de
 
 ### 1900
 
@@ -41,6 +39,10 @@ https://en.wikipedia.org/wiki/Gold_Standard_Act
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
+
+### 1839
+
+https://pl.wikipedia.org/wiki/Wojny_opiumowe
 
 ### 1522
 
