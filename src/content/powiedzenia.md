@@ -2252,6 +2252,8 @@ Wolność to niewola.
 Ignorancja to siła.więcej
 George Orwell – Rok 1984
 
+https://pl.wikiquote.org/wiki/Przysłowia_arabskie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
