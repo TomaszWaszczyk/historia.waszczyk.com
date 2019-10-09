@@ -57,6 +57,8 @@ https://www.census.gov/library/publications/2017/demo/p20-579.html
 
 https://www.imperiumromanum.edu.pl
 
+https://papers.ssrn.com
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
