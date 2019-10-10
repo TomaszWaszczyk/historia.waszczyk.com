@@ -2254,6 +2254,10 @@ George Orwell – Rok 1984
 
 https://pl.wikiquote.org/wiki/Przysłowia_arabskie
 
+“If one's actions are honest, one does not need the predated confidence of others.”
+― Ayn Rand, Atlas Shrugged
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
