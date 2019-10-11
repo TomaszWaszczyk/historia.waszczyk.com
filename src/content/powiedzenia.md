@@ -2257,6 +2257,7 @@ https://pl.wikiquote.org/wiki/Przysłowia_arabskie
 “If one's actions are honest, one does not need the predated confidence of others.”
 ― Ayn Rand, Atlas Shrugged
 
+https://pl.wikipedia.org/wiki/Schadenfreude
 
 ---
 
