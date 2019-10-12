@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 24 grudnia
-image: img/december/kwiatkowski.jpeg
+image: img/december/volksweihnacht-1.jpg
 author: Tomasz Waszczyk
 date: 2018-12-30T10:00:00.000Z
 tags:
