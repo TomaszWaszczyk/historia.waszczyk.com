@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
-## 1933
+### 1933
 
 <https://en.wikipedia.org/wiki/Executive_Order_6102>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

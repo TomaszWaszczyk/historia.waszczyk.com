@@ -8,12 +8,12 @@ tags:
   - Historia
 ---
 
-## 1939
+### 1939
 
 Rozpoczęło się niemieckie bombardowanie węzła lotniczego w Dęblinie. Głównym celem ataku stały się : składnica lotnicza, pole startowe i Dział Nauk. Aby w jakiś sposób przeciwdziałać powietrznym atakom Luftwaffe, próbowano naprędce zorganizować obronę. Niestety szkolne samoloty nie były w stanie sprostać temu zadaniu. 4 września sformowano pluton rozpoznawczy na dwóch samolotach Potez XXV. Uzupełniony jeszcze dwoma „ Karasiami ” działał pod dowództwem kpt.obs.Juliana Łagowskiego na korzyść Brygady Pancerno – Motorowej oraz formującej się właśnie Armii „ Lublin ” gen.Tadeusza Piskora. Obszaru powietrznego nad Dęblinem próbowała bronić również grupa pilotów myśliwskich z Ułęża. Wyposażona w samoloty P – 11 kilkakrotnie odpierała skuteczne ataki niemieckich bombowców. Całością dowodził kpt.pil. Stanisław Brzezina. 7 września grupa ta wycofała się na wschód. W walkach wyróżnili się piloci – instruktorzy, w okresie późniejszym bardzo znani, doskonali myśliwcy: por.Stefan Witorzeńć, Witold Urbanowicz, Tadeusz Arentowicz, Zdzisław Henneberg. 5
 września ppor.pil. Wacław Krół ze 121 eskadry myśliwskiej Armii „ Kraków ” wraz z kapralem pil.Piotrem Zaniewskim zestrzelili nad lotniskiem Borowina jednego Dorniera
 
-## 1940
+### 1940
 
 Na podstawie reskryptu Heinricha Himmlera w życie weszła "Niemiecka Lista Narodowościowa" znana lepiej, jako "Volkslista".
 Dokument ten będący przejawem rasistowskiej polityki III Rzezy został wprowadzony w celu podziału ludności zamieszkującej tereny polskie zdobyte przez Niemców.
