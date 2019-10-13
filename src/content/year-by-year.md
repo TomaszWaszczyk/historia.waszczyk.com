@@ -36,6 +36,10 @@ Bitcoin will return us to pre-war la belle epoque.
 
 https://en.wikipedia.org/wiki/Gold_Standard_Act
 
+### 1880
+
+https://pl.wikipedia.org/wiki/Faszyzm
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
