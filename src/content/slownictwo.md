@@ -377,7 +377,7 @@ przeciąg moralny
 
 emblematyczny przykład
 
-Inkryminacja – słowo pochodzące od łacińskiego incriminare, a także od francuskiego incrimination, gdzie słowo to ma szersze znaczenie. Inkryminacja oznacza zarzut, oskarżenie, pomówienie, obwinienie lub posądzenie.
+Inkryminacja, inkryminowany – słowo pochodzące od łacińskiego incriminare, a także od francuskiego incrimination, gdzie słowo to ma szersze znaczenie. Inkryminacja oznacza zarzut, oskarżenie, pomówienie, obwinienie lub posądzenie.
 
 ---
 
