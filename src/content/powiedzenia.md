@@ -2259,6 +2259,9 @@ https://pl.wikiquote.org/wiki/Przysłowia_arabskie
 
 https://pl.wikipedia.org/wiki/Schadenfreude
 
+Warunkiem istnienia dyktatury jest ciemnota tłumu, dlatego dyktatorzy bardzo o nią dbają, zawsze ją kultywują. I trzeba całych pokoleń, aby to zmienić, aby wnieść światło. Nim to nastąpi, często ci, co obalili dyktatora, mimowolnie i wbrew sobie działają jako jego spadkobiercy, kontynuując swoją postawą i sposobem myślenia epokę, którą sami zniszczyli.
+Ryszard Kapuściński 
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
