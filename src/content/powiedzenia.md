@@ -2260,7 +2260,9 @@ https://pl.wikiquote.org/wiki/Przysłowia_arabskie
 https://pl.wikipedia.org/wiki/Schadenfreude
 
 Warunkiem istnienia dyktatury jest ciemnota tłumu, dlatego dyktatorzy bardzo o nią dbają, zawsze ją kultywują. I trzeba całych pokoleń, aby to zmienić, aby wnieść światło. Nim to nastąpi, często ci, co obalili dyktatora, mimowolnie i wbrew sobie działają jako jego spadkobiercy, kontynuując swoją postawą i sposobem myślenia epokę, którą sami zniszczyli.
-Ryszard Kapuściński 
+Ryszard Kapuściński
+
+Ktokolwiek uważa, że małżeństwo to układ pół na pół, nie zna się albo na kobietach, albo na ułamkach.
 
 ---
 
