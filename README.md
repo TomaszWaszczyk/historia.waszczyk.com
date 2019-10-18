@@ -65,6 +65,8 @@ https://www.gbl.waw.pl/
 
 https://zbiory.mnk.pl
 
+https://pamiec.pl/
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
