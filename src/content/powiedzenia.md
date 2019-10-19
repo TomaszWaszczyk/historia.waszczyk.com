@@ -2264,6 +2264,8 @@ Ryszard Kapuściński
 
 Ktokolwiek uważa, że małżeństwo to układ pół na pół, nie zna się albo na kobietach, albo na ułamkach.
 
+Uproszczenie jest warunkiem niezbędnym do efektywnej komunikacji. Feynmann
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
