@@ -8,13 +8,11 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-### Wychowanie młodego człowieka
-
-#### Książki
+### Książki
 
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
-#### Programowanie
+### Programowanie
 
 * https://www.codingame.com/start
 
@@ -26,9 +24,9 @@ draft: false
 
 * https://www.ampleforth.org.uk/college/
 
-#### Inwestowanie
+### Inwestowanie
 
-#### Zachowanie
+### Zachowanie
 
 ---
 

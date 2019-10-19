@@ -22,6 +22,8 @@ draft: false
 
 7. <a href="http://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
 
+8. <a href="http://historia.waszczyk.com/sport" target="_blank">Sport</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

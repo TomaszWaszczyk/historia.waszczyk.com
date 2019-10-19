@@ -8,19 +8,17 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-### Ziemiaństwo
-
 https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 
-#### Przedtawiciele
+### Przedtawiciele
 
 https://pl.wikipedia.org/wiki/Roman_Damian_Sanguszko
 
-#### Książki
+### Książki
 
 * Arystokracja, Miller Marek
 
-#### Linki
+### Linki
 
 http://www.ziemianie.org.pl/dziedzictwo/tradycja-i-historia/
 
