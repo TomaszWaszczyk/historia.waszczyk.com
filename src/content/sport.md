@@ -8,7 +8,9 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-!["Bulgarian split squat"](./../assets/sport/swimmer.gif)
+<img src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/assets/sport/bulgarian-split-squat.gif"/>
+
+<img src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/assets/sport/swimmer.gif"/>
 
 ---
 
