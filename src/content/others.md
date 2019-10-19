@@ -18,6 +18,10 @@ draft: false
 
 5. <a href="http://historia.waszczyk.com/dictionary" target="_blank">Słowników terminów historycznych</a>
 
+6. <a href="http://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
+
+7. <a href="http://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
