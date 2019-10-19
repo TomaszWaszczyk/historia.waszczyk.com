@@ -379,6 +379,8 @@ emblematyczny przykład
 
 Inkryminacja, inkryminowany – słowo pochodzące od łacińskiego incriminare, a także od francuskiego incrimination, gdzie słowo to ma szersze znaczenie. Inkryminacja oznacza zarzut, oskarżenie, pomówienie, obwinienie lub posądzenie.
 
+polityka tożsamości
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

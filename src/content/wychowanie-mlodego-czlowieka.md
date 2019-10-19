@@ -12,9 +12,19 @@ draft: false
 
 #### Książki
 
-* Underground History of American Education
+* Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
 #### Programowanie
+
+* https://www.codingame.com/start
+
+* http://www.csforbabies.com/
+
+* https://code.org/learn
+
+* https://play.elevatorsaga.com
+
+* https://www.ampleforth.org.uk/college/
 
 #### Inwestowanie
 

@@ -15,6 +15,8 @@ draft: false
 Te „matrioszki” używające publicznie takich nazwisk jak Bierut, Światło, Berman, Jóźwiak czy Skulbaszewski - Szef  Informacji Wojskowej, otaczały się armią kilkudziesięciu tysięcy siepaczy, wzajemnie się kontrolujących i mogących w każdej chwili, przy pomocy stacjonującej Armii Czerwonej zmasakrować ten kraj.
 </details>
 
+salariat
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/dictionary.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
