@@ -80,4 +80,8 @@ https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
 
 ---
 
+* https://pl.wikipedia.org/wiki/Historia_Japonii
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/year-by-year.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1984
+
+Zamordowano księdza Jerzego Popiełuszkę.
+
 ### 1936
 
 https://pl.wikipedia.org/wiki/Plan_Czteroletni_(III_Rzesza)
