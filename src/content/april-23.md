@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1943
+
+https://pl.wikipedia.org/wiki/Operacja_Mincemeat
+
 ### 1858
 
 Urodził się Max Planck, warto wspomnieć, że jego syn Erwin Planck był za zabiciem Hitlera.
