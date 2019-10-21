@@ -7,31 +7,33 @@ date: "1922-12-12T10:00:00.000Z"
 draft: false
 ---
 
-https://www.youtube.com/watch?v=K0ZfXs_3EcE : Complete 2-hour rendition of Handel's "Messiah" by Choir of King's College, Cambridge
+* https://www.youtube.com/watch?v=K0ZfXs_3EcE : Complete 2-hour rendition of Handel's "Messiah" by Choir of King's College, Cambridge
 
-https://www.youtube.com/watch?v=7p94DFyBBwc : Boccherini: Master and Commander
+* https://www.youtube.com/watch?v=7p94DFyBBwc : Boccherini: Master and Commander
 
-https://www.youtube.com/watch?v=8jdcw1UOkU0 : Ludwig van Beethoven: Melody of Love
+* https://www.youtube.com/watch?v=8jdcw1UOkU0 : Ludwig van Beethoven: Melody of Love
 
-https://www.youtube.com/watch?v=Nb3vj9zTHX0 : Chopin - Nocturne op.9 No.1
+* https://www.youtube.com/watch?v=Nb3vj9zTHX0 : Chopin - Nocturne op.9 No.1
 
-Chopin - Ballade No. 1 in G minor, Op. 23
+* Chopin - Ballade No. 1 in G minor, Op. 23
 
-https://www.youtube.com/watch?v=yJpJ8REjvqo : Rachmaninoff - Piano Concerto #2 in C Minor, Op. 18 - HD
+* https://www.youtube.com/watch?v=yJpJ8REjvqo : Rachmaninoff - Piano Concerto #2 in C Minor, Op. 18 - HD
 
-Schubert's Fantasy in F minor for Piano Four Hands, D940
+* Schubert's Fantasy in F minor for Piano Four Hands, D940
 
-Brahms - Symphony No. 1
+* Notos Quartett - Schumann Piano Quartet in E flat major op. 47
 
-Luigi Boccherini - Fandango - Goya
+* Brahms - Symphony No. 1
 
-Yann Tiersen
+* Luigi Boccherini - Fandango - Goya
 
-Yiruma
+* Yann Tiersen
 
-Wagner
+* Yiruma
 
-Anton Bruckner
+* Wagner
+
+* Anton Bruckner
 
 ---
 
