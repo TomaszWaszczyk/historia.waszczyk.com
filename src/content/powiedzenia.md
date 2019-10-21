@@ -2266,6 +2266,10 @@ Ktokolwiek uważa, że małżeństwo to układ pół na pół, nie zna się albo
 
 Uproszczenie jest warunkiem niezbędnym do efektywnej komunikacji. Feynmann
 
+Glos opinii publicznej nie jest substytutem myslenia.
+
+Formal education will make you a living. Self- education will make you a fortune. James Rohn
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
