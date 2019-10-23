@@ -10,6 +10,8 @@ draft: false
 
 ### Książki
 
+* Kodowanie dla dzieci, Marc Scott
+
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
 ### Programowanie
