@@ -2272,6 +2272,8 @@ Formal education will make you a living. Self- education will make you a fortune
 
 „Jeśli nie mówi się tego, co się myśli to po co myśleć?”--Jerzy Vetulani
 
+Najszybszy request to ten nie wykonany.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
