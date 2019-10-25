@@ -19,6 +19,8 @@ salariat
 
 Instrumentum vocale
 
+https://en.wikipedia.org/wiki/Kōan
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/dictionary.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
