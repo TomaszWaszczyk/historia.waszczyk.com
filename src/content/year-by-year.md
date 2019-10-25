@@ -16,6 +16,10 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
+### 1970
+
+https://en.wikipedia.org/wiki/Bloom_filter
+
 ### 1948
 
 Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przedmiotów związanych z krytycznym myśleniem, samodzielnym myśleniem oraz logiką: https://en.wikipedia.org/wiki/Jakub_Berman
