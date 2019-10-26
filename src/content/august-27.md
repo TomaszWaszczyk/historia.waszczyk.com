@@ -1,0 +1,17 @@
+---
+layout: post
+title: 27 sierpnia
+image: img/august/2-rozbior.png
+author: Tomasz Waszczyk
+date: 2019-08-27T10:00:00.000Z
+tags:
+  - Historia
+---
+
+### 1856
+
+https://pl.wikipedia.org/wiki/Iwan_Franko
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-27.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 23 czerwca
+title: 28 czerwca
 image: img/june/nalog.png
 author: Tomasz Waszczyk
 date: 2019-06-28T10:00:00.000Z
@@ -12,6 +12,10 @@ tags:
 ### 1919
 
 https://pl.wikipedia.org/wiki/Traktat_wersalski
+
+### 1651
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Beresteczkiem
 
 ---
 
