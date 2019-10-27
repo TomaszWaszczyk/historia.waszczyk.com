@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9 lutego
+title: 2 lutego
 image: img/february/merkle.jpg
 author: Tomasz Waszczyk
 date: 2019-02-02T10:00:00.000Z
