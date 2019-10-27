@@ -33,6 +33,14 @@ draft: false
 
 <https://pl.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez>
 
+https://pl.wikipedia.org/wiki/Iwan_Franko
+
+https://pl.wikipedia.org/wiki/Taras_Szewczenko
+
+https://pl.wikipedia.org/wiki/Litopys_UPA
+
+https://pl.wikipedia.org/wiki/Sergiusz_Piasecki
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

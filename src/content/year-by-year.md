@@ -8,6 +8,12 @@ date: "2018-05-23T23:46:37.121Z"
 draft: false
 ---
 
+### 2050
+
+https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
+
+https://en.wikipedia.org/wiki/Post-scarcity_economy
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
@@ -15,6 +21,14 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 ### 1999
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
+
+### 1971
+
+https://en.wikipedia.org/wiki/Nixon_shock
+
+### 1970
+
+https://en.wikipedia.org/wiki/Bloom_filter
 
 ### 1948
 
@@ -55,6 +69,10 @@ https://pl.wikipedia.org/wiki/Wojny_opiumowe
 ### 1811
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
+
+### 1797
+
+https://pl.wikipedia.org/wiki/Pa%C5%84szczyzna_w_Polsce
 
 ### 1522
 

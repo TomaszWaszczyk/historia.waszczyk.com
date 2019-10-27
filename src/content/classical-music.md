@@ -35,7 +35,9 @@ draft: false
 
 * Anton Bruckner
 
-* Rachmaninoff Piano Concerto No. 2 in c minor, Op. 18 (Richter, Zimerman)
+* Rachmaninoff - Piano Concerto No. 2, Op. 18 (Rubinstein)
+
+* SCHUMANN: Piano Quintet op. 44, E flat Major
 
 ---
 
