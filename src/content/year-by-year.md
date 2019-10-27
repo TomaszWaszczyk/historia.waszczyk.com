@@ -52,6 +52,10 @@ https://en.wikipedia.org/wiki/Thomas_Cook
 
 https://pl.wikipedia.org/wiki/Wojny_opiumowe
 
+### 1811
+
+https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
+
 ### 1522
 
 <details><summary>Monetae cudendae ratio - Traktat o biciu monety i poglądy ekonomiczne Kopernika (kliknij aby rozwinąć)</summary>
