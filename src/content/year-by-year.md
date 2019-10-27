@@ -12,6 +12,8 @@ draft: false
 
 https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
 
+https://en.wikipedia.org/wiki/Post-scarcity_economy
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
