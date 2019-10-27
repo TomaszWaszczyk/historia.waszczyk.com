@@ -74,6 +74,10 @@ https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
 
 https://pl.wikipedia.org/wiki/Pa%C5%84szczyzna_w_Polsce
 
+### 1668
+
+https://en.wikipedia.org/wiki/Fractional-reserve_banking
+
 ### 1400
 
 https://pl.wikipedia.org/wiki/Johannes_Gutenberg
