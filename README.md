@@ -67,6 +67,8 @@ https://zbiory.mnk.pl
 
 https://pamiec.pl/
 
+https://www.britannica.com/event/World-War-I
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
