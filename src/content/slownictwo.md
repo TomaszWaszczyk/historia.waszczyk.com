@@ -389,6 +389,8 @@ https://pl.wikipedia.org/wiki/Symetryzm
 
 kompartmentalizacja pracy - dzielenie pracy na część tak żeby człowiek nie wiedział co robi całościowo
 
+https://en.wikipedia.org/wiki/Cronyism
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
