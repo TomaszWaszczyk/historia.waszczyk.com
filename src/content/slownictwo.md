@@ -391,6 +391,8 @@ kompartmentalizacja pracy - dzielenie pracy na część tak żeby człowiek nie 
 
 https://en.wikipedia.org/wiki/Cronyism
 
+helicopter parent
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
