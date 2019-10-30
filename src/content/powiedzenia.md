@@ -2278,6 +2278,10 @@ https://en.wiktionary.org/wiki/raison_d%27%C3%AAtre
 
 serwilizm - bezgraniczne i bezwarunkowe podporządkowanie się komuś lub czemuś; serwilistyczność, służalstwo, uniżoność, służalczość, lojalstwo
 
+Fear Means Go
+
+The more it is, the more it isn’t
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
