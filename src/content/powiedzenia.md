@@ -2280,7 +2280,9 @@ serwilizm - bezgraniczne i bezwarunkowe podporządkowanie się komuś lub czemu�
 
 Fear Means Go
 
-The more it is, the more it isn’t
+The more it is, the more it isn’t.
+
+https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski - Władimir Bukowski mówił, że Unia Europejska to Związek Radziecki Bis
 
 ---
 
