@@ -393,6 +393,8 @@ https://en.wikipedia.org/wiki/Cronyism
 
 helicopter parent
 
+https://fr.wikipedia.org/wiki/Salariat
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
