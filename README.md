@@ -71,6 +71,8 @@ https://www.britannica.com/event/World-War-I
 
 http://biblioteka.kijowski.pl
 
+https://www.c-span.org/video/?459549-1/1970s-80s-deindustrialization-us
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
