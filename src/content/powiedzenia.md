@@ -2284,6 +2284,8 @@ The more it is, the more it isn’t.
 
 https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski - Władimir Bukowski mówił, że Unia Europejska to Związek Radziecki Bis
 
+“Finding common interests requires a shift in thinking and mutual understanding.”- Jianwei Zhang 
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
