@@ -79,6 +79,8 @@ https://pl.wikipedia.org/wiki/Kaba%C5%82a
 
 https://sztetl.org.pl/
 
+https://pl.wikipedia.org/wiki/Faryzeusze
+
 
 # Malta
 
