@@ -32,7 +32,7 @@ draft: false
 
 ### Szkoła
 
-https://ezw.edu.pl
+* https://ezw.edu.pl
 
 ---
 
