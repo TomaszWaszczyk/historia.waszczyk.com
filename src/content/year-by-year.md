@@ -18,6 +18,14 @@ https://en.wikipedia.org/wiki/Post-scarcity_economy
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
+### 2008
+
+https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008
+
+### 2007
+
+https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
+
 ### 1999
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
