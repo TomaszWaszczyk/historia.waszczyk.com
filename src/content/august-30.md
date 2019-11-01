@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1958
+
+https://en.wikipedia.org/wiki/Anna_Politkovskaya
+
 ### 1877
 
 Urodził się Feliks Dzierżyński: <https://pl.wikipedia.org/wiki/Feliks_Dzierżyński>

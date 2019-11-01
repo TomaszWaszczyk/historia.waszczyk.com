@@ -12,6 +12,10 @@ tags:
 
 Umiera Józef Szaniawski: https://pl.wikipedia.org/wiki/J%C3%B3zef_Szaniawski_(politolog)
 
+### 2002
+
+The full implementation of Agenda 21, the Programme for Further Implementation of Agenda 21 and the Commitments to the Rio principles, were strongly reaffirmed at the World Summit on Sustainable Development (WSSD) held in Johannesburg, South Africa from 26 August to 4 September 2002.
+
 ### 1939
 
 do Katowic weszli żołnierze Wermachtu. Sytuację ułatwiał fakt, że do tego czasu wycofały się z miasta prawie wszystkie kompanie Wojska Polskiego. Pozostali tylko nieliczni żołnierze.
