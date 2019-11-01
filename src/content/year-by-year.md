@@ -12,11 +12,17 @@ draft: false
 
 https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
 
-https://en.wikipedia.org/wiki/Post-scarcity_economy
-
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+
+### 2008
+
+https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008
+
+### 2007
+
+https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
 ### 1999
 
