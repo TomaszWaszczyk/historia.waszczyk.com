@@ -397,6 +397,11 @@ https://fr.wikipedia.org/wiki/Salariat
 
 kompas moralny
 
+fenomenologiczny
+fenomenologia «kierunek filozoficzny postulujący poznanie empiryczne i ścisły opis zjawisk bezpośrednio danych; też: metoda badawcza w różnych naukach wyrosła z tego kierunku»
+• fenomenologiczny • fenomenologicznie • fenomenolog
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
