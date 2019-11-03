@@ -26,9 +26,13 @@ draft: false
 
 * https://www.ampleforth.org.uk/college/
 
-### Inwestowanie
+### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
-### Zachowanie
+* https://usstocks.pl/edukacja-finansowa-dzieci/
+
+### Zachowanie (netykieta)
+
+TBD
 
 ### Szkoła
 
