@@ -28,6 +28,10 @@ https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
+### 1975
+
+https://en.wikipedia.org/wiki/Metamodernism
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
