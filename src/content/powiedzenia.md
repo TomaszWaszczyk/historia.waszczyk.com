@@ -2286,6 +2286,8 @@ https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski - Władimir Bukowski mówi�
 
 “Finding common interests requires a shift in thinking and mutual understanding.”- Jianwei Zhang
 
+„Ludzie podobni są do wina. Liche z latami się psuje, a dobre staje się coraz lepsze.” - Cyceron
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
