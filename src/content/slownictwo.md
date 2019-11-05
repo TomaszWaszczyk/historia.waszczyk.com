@@ -406,6 +406,11 @@ fenomenologiczny
 fenomenologia «kierunek filozoficzny postulujący poznanie empiryczne i ścisły opis zjawisk bezpośrednio danych; też: metoda badawcza w różnych naukach wyrosła z tego kierunku»
 • fenomenologiczny • fenomenologicznie • fenomenolog
 
+emergentny
+
+Substancja krolewska
+
+Myślenie konfatyczne
 
 ---
 
