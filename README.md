@@ -83,6 +83,8 @@ https://sztetl.org.pl/
 
 https://pl.wikipedia.org/wiki/Faryzeusze
 
+https://historyinphotos.blogspot.com/2013/12/henri-cartier-bresson.html
+
 
 # Malta
 
