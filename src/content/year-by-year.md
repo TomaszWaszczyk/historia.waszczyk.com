@@ -40,6 +40,10 @@ https://en.wikipedia.org/wiki/Nixon_shock
 
 https://en.wikipedia.org/wiki/Bloom_filter
 
+### 1949
+
+A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
+
 ### 1948
 
 Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przedmiotów związanych z krytycznym myśleniem, samodzielnym myśleniem oraz logiką: https://en.wikipedia.org/wiki/Jakub_Berman
