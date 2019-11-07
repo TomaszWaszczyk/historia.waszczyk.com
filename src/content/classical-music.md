@@ -39,6 +39,8 @@ draft: false
 
 * SCHUMANN: Piano Quintet op. 44, E flat Major
 
+* Rimsky-Korsakov - Scheherazade, Шехеразада, شيرازاد 舍赫拉查达, Maciej Tomasiewicz, Filharmonia Śląska
+
 ---
 
 The Nocturnes, Op. 9 are a set of three nocturnes written by Frédéric Chopin between 1830 and 1832, published that year, and dedicated to Madame Camille Pleyel. The second nocturne of the work is regarded as Chopin's most famous piece.
