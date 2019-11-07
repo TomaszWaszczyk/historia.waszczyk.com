@@ -2288,6 +2288,8 @@ https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski - Władimir Bukowski mówi�
 
 „Ludzie podobni są do wina. Liche z latami się psuje, a dobre staje się coraz lepsze.” - Cyceron
 
+https://pl.wikiquote.org/wiki/Ksi%C4%99ga_Koheleta
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
