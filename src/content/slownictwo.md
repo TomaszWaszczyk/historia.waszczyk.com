@@ -414,6 +414,8 @@ Myślenie konfatyczne
 
 Corpus delicti (łac. przedmiot przestępstwa) - dowód rzeczowy świadczący o przestępstwie, ślad lub przedmiot stanowiący podstawę do przedstawienia wniosków dotyczących popełnionego czynu i sprawcy.
 
+filigranowa
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
