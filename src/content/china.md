@@ -10,6 +10,10 @@ draft: false
 
 ### Chiny
 
+https://pl.wikipedia.org/wiki/Yijing
+
+https://en.wikipedia.org/wiki/I_Ching
+
 F. Dikötter: Tragedia wyzwolenia. Historia rewolucji chińskiej 1945-1957. Wołowiec 2016.
 
 F. Dikötter: Wielki głód. Tragiczne skutki polityki Mao 1958-1962. Wołowiec 2013.
