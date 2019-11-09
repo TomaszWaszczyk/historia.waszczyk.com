@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 13 kwietnia
+title: 15 kwietnia
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2019-04-13T10:00:00.000Z
+date: 2018-04-15T10:00:00.000Z
 tags:
   - Historia
 ---

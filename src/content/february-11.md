@@ -3,7 +3,7 @@ layout: post
 title: 11 lutego
 image: img/april/Executive_Order_6102.jpg
 author: Tomasz Waszczyk
-date: 2019-02-09T10:00:00.000Z
+date: 2018-02-09T10:00:00.000Z
 tags:
   - Historia
 ---

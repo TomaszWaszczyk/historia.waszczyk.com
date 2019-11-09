@@ -3,7 +3,7 @@ layout: post
 title: 13 sierpnia
 image: img/august/Union_of_Krewo.jpg
 author: Tomasz Waszczyk
-date: 2019-08-13T10:00:00.000Z
+date: 2018-08-13T10:00:00.000Z
 tags:
   - Historia
 ---

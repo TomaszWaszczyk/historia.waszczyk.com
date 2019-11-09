@@ -3,7 +3,7 @@ layout: post
 title: 18 maja
 image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
-date: 2019-05-18T10:00:00.000Z
+date: 2018-05-18T10:00:00.000Z
 tags:
   - Historia
   - Mossad

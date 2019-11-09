@@ -3,7 +3,7 @@ layout: post
 title: 3 września
 image: img/septmeber/wojna.png
 author: Tomasz Waszczyk
-date: 2019-03-10T10:00:00.000Z
+date: 2018-09-10T10:00:00.000Z
 tags:
   - Historia
 ---

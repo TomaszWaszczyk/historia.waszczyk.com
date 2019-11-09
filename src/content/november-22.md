@@ -3,7 +3,7 @@ layout: post
 title: 22 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-22T10:00:00.000Z
+date: 2017-11-22T10:00:00.000Z
 tags:
   - Historia
 ---

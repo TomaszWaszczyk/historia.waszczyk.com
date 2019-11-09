@@ -3,7 +3,7 @@ layout: post
 title: 23 maja
 image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
-date: 2019-05-23T10:00:00.000Z
+date: 2018-05-23T10:00:00.000Z
 tags:
   - Historia
   - Glass-Steagall
