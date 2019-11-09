@@ -80,6 +80,10 @@ https://en.wikipedia.org/wiki/Thomas_Cook
 
 https://pl.wikipedia.org/wiki/Wojny_opiumowe
 
+### 1820
+
+https://en.wikipedia.org/wiki/Creditanstalt
+
 ### 1811
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
