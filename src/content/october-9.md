@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1989
+
+https://de.wikipedia.org/wiki/Wir_sind_ein_Volk
+
 ### 1944
 
 >To miasto ma całkowicie zniknąć z powierzchni Ziemi i służyć jedynie jako punkt przeładunkowy dla transportu Wermachtu. Kamień na kamieniu nie powinien pozostać. Wszystkie budynki należy zburzyć do fundamentów. Pozostaną tylko urządzenia techniczne i budynki kolei żelznych"
