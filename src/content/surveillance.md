@@ -21,3 +21,11 @@ Michel de Montaigne
 Manufacturing Consent from Noam Chomsky
 
 Hegel
+
+### 1920 - kryptologia a wojna
+
+https://en.wikipedia.org/wiki/Joseph_Rochefort
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/surveillance.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
