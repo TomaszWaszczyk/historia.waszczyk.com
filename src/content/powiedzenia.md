@@ -2290,7 +2290,9 @@ https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski - Władimir Bukowski mówi�
 
 https://pl.wikiquote.org/wiki/Ksi%C4%99ga_Koheleta
 
-“give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.” 
+“give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.”
+
+"Initiative is doing the right thing without being told." – Victor Hugo
 
 ---
 
