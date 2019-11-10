@@ -84,13 +84,17 @@ https://pl.wikipedia.org/wiki/Wojny_opiumowe
 
 https://en.wikipedia.org/wiki/Creditanstalt
 
-### 1811
+### 1811 
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
 
 ### 1797
 
 https://pl.wikipedia.org/wiki/Pa%C5%84szczyzna_w_Polsce
+
+### 1789–1796 - Francja
+
+https://en.wikipedia.org/wiki/Hyperinflation
 
 ### 1668
 
