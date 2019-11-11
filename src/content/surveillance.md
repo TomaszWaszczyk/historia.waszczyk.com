@@ -21,3 +21,7 @@ Michel de Montaigne
 Manufacturing Consent from Noam Chomsky
 
 Hegel
+
+https://en.wikipedia.org/wiki/The_Great_Hack
+
+https://en.wikipedia.org/wiki/Laura_Poitras

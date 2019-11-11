@@ -32,7 +32,7 @@ draft: false
 
 ### Zachowanie (netykieta)
 
-TBD
+* https://www.godmother.pl/podcast
 
 ### Toys
 
