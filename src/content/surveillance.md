@@ -26,6 +26,8 @@ https://en.wikipedia.org/wiki/The_Great_Hack
 
 https://en.wikipedia.org/wiki/Laura_Poitras
 
+https://en.wikipedia.org/wiki/Focal_point_(game_theory)
+
 ### 1920 - kryptologia a wojna
 
 https://en.wikipedia.org/wiki/Joseph_Rochefort
