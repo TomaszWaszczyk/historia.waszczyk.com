@@ -25,3 +25,11 @@ Hegel
 https://en.wikipedia.org/wiki/The_Great_Hack
 
 https://en.wikipedia.org/wiki/Laura_Poitras
+
+### 1920 - kryptologia a wojna
+
+https://en.wikipedia.org/wiki/Joseph_Rochefort
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/surveillance.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
