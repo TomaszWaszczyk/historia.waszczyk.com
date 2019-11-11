@@ -9,6 +9,10 @@ tags:
   - Goebells
 ---
 
+### 1926
+
+https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy
+
 ### 1900
 
 https://en.wikipedia.org/wiki/Joseph_Rochefort
