@@ -22,6 +22,8 @@ Manufacturing Consent from Noam Chomsky
 
 Hegel
 
+https://pl.wikipedia.org/wiki/Prawo_osobowe_w_prawie_rzymskim
+
 https://en.wikipedia.org/wiki/Free_State_Project
 
 https://en.wikipedia.org/wiki/The_Great_Hack
