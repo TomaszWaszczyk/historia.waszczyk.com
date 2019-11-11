@@ -2294,6 +2294,18 @@ https://pl.wikiquote.org/wiki/Ksi%C4%99ga_Koheleta
 
 "Initiative is doing the right thing without being told." – Victor Hugo
 
+School teaches you what to think.
+
+Books teach you how to think.
+
+Science teaches you what is matter.
+
+Religion teaches you why it matters.
+
+Life is a multitude of lessons in disguise.
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
