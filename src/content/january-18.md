@@ -12,6 +12,8 @@ tags:
 
 Urodził się Józef Kossecki: https://pl.wikipedia.org/wiki/J%C3%B3zef_Kossecki
 
+https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Zag%C3%B3rski_(genera%C5%82)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
