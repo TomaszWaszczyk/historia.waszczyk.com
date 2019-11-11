@@ -2304,7 +2304,7 @@ Religion teaches you why it matters.
 
 Life is a multitude of lessons in disguise.
 
-
+„Legenda Piłsudskiego" Irena Pannenkowa - https://pl.wikiquote.org/wiki/Irena_Pannenkowa
 
 ---
 
