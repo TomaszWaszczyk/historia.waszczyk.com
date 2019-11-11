@@ -54,6 +54,10 @@ Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/Tomasz
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
 
+### 1926
+
+https://pl.wikipedia.org/wiki/Sanacja
+
 ### 1919 (pomyśleć nad dokładnym rokiem)
 
 WWI was possible because using inflation and central banking, the state wasn't limited to it's own savings, but could exhaust the savings of the populace in the war effort. Those conditions still exist today.
