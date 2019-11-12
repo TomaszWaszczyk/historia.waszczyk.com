@@ -2306,6 +2306,8 @@ Life is a multitude of lessons in disguise.
 
 „Legenda Piłsudskiego" Irena Pannenkowa - https://pl.wikiquote.org/wiki/Irena_Pannenkowa
 
+https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
