@@ -75,6 +75,8 @@ https://www.c-span.org/video/?459549-1/1970s-80s-deindustrialization-us
 
 WWII https://www.pinterest.co.uk/pin/269793833906488589/
 
+https://www.archives.gov/research/foreign-policy/katyn-massacre
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
