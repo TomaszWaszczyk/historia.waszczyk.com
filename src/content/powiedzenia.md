@@ -2294,6 +2294,8 @@ https://pl.wikiquote.org/wiki/Ksi%C4%99ga_Koheleta
 
 "Initiative is doing the right thing without being told." – Victor Hugo
 
+---
+
 School teaches you what to think.
 
 Books teach you how to think.
@@ -2304,9 +2306,31 @@ Religion teaches you why it matters.
 
 Life is a multitude of lessons in disguise.
 
+---
+
 „Legenda Piłsudskiego" Irena Pannenkowa - https://pl.wikiquote.org/wiki/Irena_Pannenkowa
 
 https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)
+
+---
+
+Choosing the “hard” way requires discipline.
+
+Walk or bike instead of drive
+Buy in cash instead of getting a loan
+Create instead of consume
+
+Choosing “hard” has advantages:
+
+The cost is lower.
+
+The path is less crowded.
+
+The potential benefit is larger.
+
+---
+
+
 
 ---
 

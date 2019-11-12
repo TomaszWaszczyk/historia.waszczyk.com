@@ -76,6 +76,10 @@ https://en.wikipedia.org/wiki/Gold_Standard_Act
 
 https://pl.wikipedia.org/wiki/Faszyzm
 
+### 1850
+
+https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu, wzamian sprowadzili górników i dziwki
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
