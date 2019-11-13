@@ -14,7 +14,7 @@ tags:
 
 > Łatwo jest mówić o Polsce. Trudniej dla niej pracować. Jeszcze trudniej umrzeć, a najtrudniej cierpieć.
 
-w wieku 94 lat odeszła wybitna aktorka teatralna i filmowa Alina Janowska.
+W wieku 94 lat odeszła wybitna aktorka teatralna i filmowa Alina Janowska.
 Widzom była doskonale znana między innym z takich filmów jak: Zakazane piosenki, Ostatni etap, Skarb oraz seriali: Wojna domowa, Podróż za jeden uśmiech czy Złotopolscy.
 W czasie drugiej wojny światowej była łączniczką dowództwa Batalionu „Kiliński”, pod pseudonimem „Alina”oraz ''Setka'', bo można było na niej polegać na 100 %. Przez 9 miesięcy była więziona na tak zwanej "Serbii", czyli oddziale kobiecym Pawiaka, gdzie trafiła za pomaganie Żydom. Była uczestniczką Powstania Warszawskiego.
 
