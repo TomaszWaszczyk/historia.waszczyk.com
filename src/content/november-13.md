@@ -29,6 +29,20 @@ sztandar ufundowany przez społeczeństwo Miasta Gdynia oraz Ligę Morską i Rze
 Jednostka wojskowa cały czas prowadzi rekrutację do swych szeregów. Kandydaci do służby są poszukiwani wśród bardzo sprawnych i inteligentnych żołnierzy,
 funkcjonariuszy i rezerwistów.
 
+### 1942
+
+We wsi Obórki na Wołyniu funkcjonariusze Ukraińskiej Policji Pomocniczej pod niemieckim dowództwem dokonali pierwszego masowego mordu na zamieszkujących tam Polakach.
+Preludium do tej zbrodni była napaść na tę wieś w dniu 11 listopada 1942 roku, kiedy to Ukraińcy wywlekając z domów i bijąc do nieprzytomności kijami aresztowali 13 Polaków pod zarzutem współpracy z radziecką partyzantką i ukrywania Żydów.
+13 listopada 1942 roku zbrodniarze wrócili do wsi. Tym razem wyganiali z domów wszystkich, których w nich zastali. Ludzi zapędzono do jednej ze stodół i zmuszono ich do położenia się twarzą do ziemi, po czym oddano strzały w tył głowy. Po zbrodni majątek zabitych został zagrabiony, a wieś spalona następnego dnia. Zabito 37 Polaków, 1 Ukrainkę i 1 Żydówkę.
+
+### 1916
+
+W Drobnicach w powiecie wieluńskim urodził się Ignacy Bator "Opór" (zdjęcie) porucznik, Cichociemny, strzelec-radiooperator 301 Dywizjonu Bombowego Ziemi Pomorskiej, uczestnik Powstania Warszawskiego.
+W 1942 roku zgłosił się na ochotnika do przerzutu do Polski w celu walki z Niemcami. Zgodę na to otrzymał w maju 1942 roku. Na terytorium okupowanej Polski został zrzucony pod koniec stycznia 1943 roku. Podjął służbę w konspiracji antyhitlerowskiej pod pseudonimem "Opór". Zginął w Powstaniu
+Warszawskim 3 sierpnia 1944 roku.
+Odznaczony Krzyżem Srebrnym Orderu Virtuti Militari, czterokrotnie Krzyżem Walecznych, Złotym Krzyżem Zasługi z Mieczami oraz brytyjskim odznaczeniem wojskowym Distinguished Flying Cross.
+Spoczywa na Cmentarzu Wojskowym na Powązkach.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-13.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
