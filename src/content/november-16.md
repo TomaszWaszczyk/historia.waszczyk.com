@@ -8,6 +8,11 @@ tags:
   - Chopin
 ---
 
+### 1939
+
+Urodziła się Barbara Szendzielarz-córka legendarnego majora Armii Krajowej Zygmunta Szendzielarza "Łupaszki".
+Zmarła 30 marca 2012 roku w domu pomocy społecznej "Kombatant". 13 kwietnia 2012 roku wykonano jej ostatnią wolę, chowając ją obok symbolicznej mogiły jej ojca na warszawskich Powązkach.
+
 ### 1848
 
 W sali Guildhall w Londynie borykający się z gorączką i osłabieniem Fryderyk Chopin zagrał swój ostatni w życiu publiczny koncert. Dochód z koncertu został przekazany na rzecz polskich emigrantów
