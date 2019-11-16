@@ -8,6 +8,14 @@ tags:
   - Chopin
 ---
 
+### 2014
+
+W rocznicę notyfikowania niepodległego Państwa Polskiego odeszła JADWIGA PIŁSUDSKA-JARACZEWSKA, córka Marszałka Polski Józefa Piłsudskiego, porucznik-pilot Wojska Polskiego, która była również jedną z trzech Polek przyjętych do Air Transport Auxiliary, czyli służby pomocniczej RAF. Dzięki jej inicjatywie powstała Fundacja Rodziny Piłsudskich i Towarzystwo Przyjaciół Instytutów Józefa Piłsudskiego.
+
+### 1940
+
+Niemieccy okupanci zamknęli getto w Warszawie. Na terenie getta liczącym 307 ha pozbawionych wolności zostało 370 tysięcy ludzi (w tym ponad 130 tysięcy przymusowo przesiedlonych). Tego samego dnia wszystkie żydowskie przedsiębiorstwa znajdujące się po stronie aryjskiej zostały zamknięte, a w kilka dni później cały towar został z nich wywieziony.
+
 ### 1939
 
 Urodziła się Barbara Szendzielarz-córka legendarnego majora Armii Krajowej Zygmunta Szendzielarza "Łupaszki".

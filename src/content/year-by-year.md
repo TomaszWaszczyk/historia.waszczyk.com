@@ -36,6 +36,10 @@ https://en.wikipedia.org/wiki/Metamodernism
 
 https://en.wikipedia.org/wiki/Nixon_shock
 
+China - Kissinger meeting
+
+https://china.usc.edu/getting-beijing-henry-kissingers-secret-1971-trip
+
 ### 1970
 
 https://en.wikipedia.org/wiki/Bloom_filter
