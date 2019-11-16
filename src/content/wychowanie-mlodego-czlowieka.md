@@ -14,7 +14,7 @@ draft: false
 
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
-### Programowanie
+### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
 
@@ -25,6 +25,8 @@ draft: false
 * https://play.elevatorsaga.com
 
 * https://www.ampleforth.org.uk/college/
+
+* https://koderek.edu.pl/
 
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
