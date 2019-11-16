@@ -19,12 +19,6 @@ Faktyczna możliwość osądzenia zbrodni stalinowskich zaistniała dopiero po 1
 Źródło: Tadeusz Płużański, Lista oprawców, Wikipedia, W. Brytania: zmarła stalinowska prokurator Helena Wolińska, której ekstradycji domagał się od lat Polski sąd [w:] Gazeta Prawna z 28.11.2008.
 Fotografia z Wikipedii. : Helena Wolińska (1919-2008) - prokurator wojskowy w powojennej komunistycznej Polsce w randze pułkownika podpułkownik, zaangażowany w próby pokazowe reżimu stalinowskiego w latach 50. XX wieku
 
-### 1904
-
-W Warszawie przy ulicy Zielnej 34 otwarta została pierwsza centrala telefoniczna.
-Inwestorem była szwedzka firma telekomunikacyjna Cedergrena. Centrala była wyposażona w sprzęt firmy Ericsson. Architektem, który zaprojektował obiekt był Szwed Gunnar Glason, zaś projekt wnętrz stworzył polski architekt Bronisław Brochwicz-Rogóyski.
-W chwili otwarcia centrali w Warszawie zarejestrowanych było 5200 aparatów telefonicznych.
-
 ### 1901
 
 <https://pl.wikipedia.org/wiki/Sergiusz_Piasecki>

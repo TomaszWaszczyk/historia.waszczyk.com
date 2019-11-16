@@ -20,6 +20,10 @@ Urodził się Ralf Merkle https://en.wikipedia.org/wiki/Ralph_Merkle
 
 https://pl.wikipedia.org/wiki/Anne_Frank
 
+### 1919
+
+https://pl.wikipedia.org/wiki/Zbigniew_Lengren
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
