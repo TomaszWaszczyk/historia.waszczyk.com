@@ -416,7 +416,9 @@ Corpus delicti (łac. przedmiot przestępstwa) - dowód rzeczowy świadczący o 
 
 filigranowa
 
-humbug «bardzo rozreklamowana sprawa, która po pewnym czasie okazuje się oszustwem» 
+humbug «bardzo rozreklamowana sprawa, która po pewnym czasie okazuje się oszustwem»
+
+mariaż
 
 ---
 
