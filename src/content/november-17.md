@@ -8,6 +8,12 @@ tags:
   - Propaganda
 ---
 
+### 2019
+
+> Udało się zwiększyć strategiczne rezerwy złota i podjąć działania w celu repatriacji znacznej części polskiego złota do kraju – podkreślał Adam Glapiński, prezes NBP. - Tworzymy rezerwy, które będą strzegły bezpieczeństwa finansowego Polski. Taki jest światowy trend, ale także oczekiwanie polskiego społeczeństwa.
+
+Konwoje w Polsce. Opinia: Polska akumuluje/zmienienia miejsce trzymania złota.
+
 ### 1999
 
 W wieku 78 lat zmarła Zinaida Giring szpieg Zrzeszenia Wolność i Niezawisłość w Wojewódzkim Urzędzie Bezpieczeństwa Publicznego w Białymstoku, sekretarka zastępcy szefa białostockiego UB majora Józefa Pluty.
