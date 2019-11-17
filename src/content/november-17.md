@@ -12,7 +12,9 @@ tags:
 
 > Udało się zwiększyć strategiczne rezerwy złota i podjąć działania w celu repatriacji znacznej części polskiego złota do kraju – podkreślał Adam Glapiński, prezes NBP. - Tworzymy rezerwy, które będą strzegły bezpieczeństwa finansowego Polski. Taki jest światowy trend, ale także oczekiwanie polskiego społeczeństwa.
 
-Konwoje w Polsce. Opinia: Polska akumuluje/zmienienia miejsce trzymania złota.
+Konwoje w Polsce.
+
+Opinia: Polska akumuluje/zmienienia miejsce trzymania złota.
 
 ### 1999
 
