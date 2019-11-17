@@ -12,6 +12,8 @@ draft: false
 
 !["Yalta Conference" Vitaly Komar and Alex Melamid, 1984](./img/art/jalta.jpg)
 
+Tamara de Lempicka
+
 ---
 
 Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
