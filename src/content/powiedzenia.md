@@ -2330,6 +2330,7 @@ The potential benefit is larger.
 
 ---
 
+“Capitalism forgets that life is social.” - Martin Luther King Jr.
 
 
 ---
