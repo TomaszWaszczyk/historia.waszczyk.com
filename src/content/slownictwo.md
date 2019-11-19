@@ -420,6 +420,138 @@ humbug «bardzo rozreklamowana sprawa, która po pewnym czasie okazuje się oszu
 
 mariaż
 
+it affords us the ability to not use .... - to daje nam możliwość korzystania, użycia
+
+under the hood - zaawansowany, pod spodem w sensie, głębiej
+
+albeit - all + be + it
+
+back and forth = tam i z powrotem
+
+glooming
+
+trade-off - kompromis
+
+diligent- sumienny
+
+vastly- ogromnie, całkowicie
+
+immune - 
+
+immune to sth - nieczuły na coś
+
+common sense [wym. komon sens] - zdrowy rozsądek; chłopski rozum; sposób myślenia oparty na tzw. powszednim doświadczeniu.
+
+side effect - efekt uboczny (similarly ) [act, speak, think] podobnie; to do likewise postąpić podobnie, zrobić to samo; I’m leaving and I suggest you do likewise wychodzę i proponuję, żebyś zrobił to samo
+
+seamless- bez szwów, ciągle, nie przerwanie
+
+standing- status
+
+cumbersome - 
+
+vicinity - bliskość, mała odległość
+
+solely - jedynie, wyłącznie
+
+undertake - brać, podejmować
+
+wording - sformułowanie
+
+whereas - natomiast
+
+forthcoming - nadchodzący
+
+inferior -dolny indeks
+
+misnomer - 
+
+headsup - 
+
+rigid - 
+
+burden - 
+
+To be wise, REST ain't perfect.
+
+kick-off notes - notatki ze spotkania rozpoczynajacego/inicjujacego
+
+baseline - linia odniesienia/zerowa
+
+top - down architecture
+
+stakeholder - udziałowiec
+
+wireframe - szkielet
+
+whilst - podczas gdy 
+
+fidelity [to sb/sth] wierność f [komuś/czemuś]
+
+to setup a bridge - polaczyc sie 
+
+mundane /mgraphicn'deın/ adj [matter, goal] przyziemny, prozaiczny; [life] szary; [performance, book] nieciekawy
+
+fml ( superfluity) an embarrassment of riches kłopot z powodu zbyt dużego wyboru; embarras de richesse fml
+
+to be under suspension - być zawieszonym
+
+resumption - wznowienie 
+
+show-stopper - wykonawca lub występ wywołujący entuzjastyczną reakcję widowni bądź przedłużony aplauz 
+
+zahlreich - liczny
+
+bestanden - zdany 
+
+nich bestanden - niezdany
+
+entspannen - rozluźniać
+
+Geil oder geil?
+
+Das ist nicht zu schaffen. - That can't be done.
+
+befruchten geh (geistig anregen):
+
+    befruchten
+    inspirować [perf za‑]
+
+Grụndlage <‑, ‑n> NOUN f
+
+    Grundlage
+    podstawa f
+
+    jeder Grundlage entbehren
+    być pozbawionym wszelkichpodstaw         
+
+    diese Behauptung entbehrt jederGrundlage
+    to stwierdzenie nt jest pozbawionewszelkich podstaw
+
+    die Grundlagen für etw schaffen
+    stwarzać [perf stworzyć] podstawyku czemuś
+
+    auf der Grundlage dieser Erkenntnisse
+    na podstawie tej wiedzy
+
+gle̱i̱chzeitig ADJ (zur gleichen Zeit erfolgend)
+
+    gleichzeitig Ereignisse, Vorgänge
+    jednoczesny       
+
+    gleichzeitig Ereignisse, Vorgänge
+    równoczesny
+
+    gleichzeitige Aufnahme/Wiedergabe TV
+    nagrywanie nt /odtwarzanie ntjednoczesne
+
+II. gle̱i̱chzeitig ADV (zur gleichen Zeit)
+
+    gleichzeitig verlaufen, erscheinen
+    jednocześnie
+
+    gleichzeitig verlaufen, erscheinen
+    równocześnie
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
