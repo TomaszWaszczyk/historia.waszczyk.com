@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 2018
+
+https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mostek
+
 ### 1989
 
 https://pl.wikipedia.org/wiki/Protesty_na_placu_Niebia%C5%84skiego_Spokoju_w_1989
