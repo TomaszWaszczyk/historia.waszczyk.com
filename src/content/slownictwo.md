@@ -552,6 +552,10 @@ II. gle̱i̱chzeitig ADV (zur gleichen Zeit)
 
     gleichzeitig verlaufen, erscheinen
     równocześnie
+    
+Ad infinitum
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
