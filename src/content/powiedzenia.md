@@ -2338,6 +2338,8 @@ I’m a developer I don’t have after hours - Katowice, 18.11.2019
 
 Im mniej kochamy kobiety, tym mniej one kochają nas
 
+Jack of all trades, master of none.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
