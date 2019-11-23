@@ -12,6 +12,10 @@ draft: false
 
 https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
 
+### 2019
+
+Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
