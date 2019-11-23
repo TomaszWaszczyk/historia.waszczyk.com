@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Com
 
 ### 2019
 
-Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory
+Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
 
 ### 2013
 
