@@ -555,6 +555,7 @@ II. gle̱i̱chzeitig ADV (zur gleichen Zeit)
     
 Ad infinitum
 
+endogeniczny
 
 ---
 

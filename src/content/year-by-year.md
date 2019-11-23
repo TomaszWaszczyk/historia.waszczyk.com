@@ -146,6 +146,12 @@ Kopernik rozróżniał też kilka funkcji pieniądza. Uważał go za miernik war
 
 https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
 
+### 560 p.n.e
+
+https://en.wikipedia.org/wiki/Croesus
+
+---
+---
 ---
 
 * https://pl.wikipedia.org/wiki/Historia_Japonii

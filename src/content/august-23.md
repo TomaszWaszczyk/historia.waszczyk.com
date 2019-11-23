@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
-## 1939
+## 1905
+
+https://pl.wikipedia.org/wiki/Czes%C5%82aw_Klimuszko - człowiek którzy przewidział, że w Polsce będą winnice.
+
+---
 
 <a href="https://pl.wikipedia.org/wiki/Pakt_Ribbentrop-Mo%C5%82otow" target="_blank">Pakt Ribbentrop-Mołotow</a>

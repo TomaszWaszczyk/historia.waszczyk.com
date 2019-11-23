@@ -10,6 +10,8 @@ draft: true
 
 ### Surveillance
 
+https://en.wikipedia.org/wiki/William_Binney_(intelligence_official)
+
 Mass surveillance is a very complex subject which its roots back in the Ancient Greece when philosophers were debating about where the boundary between public and private spheres had to be placed.
 
 Plato, Aristotle, Epicurus and also later Epictectus, all were seeing in this subject, one of the most dominant ones.
