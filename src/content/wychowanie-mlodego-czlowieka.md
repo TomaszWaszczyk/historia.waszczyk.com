@@ -16,6 +16,8 @@ draft: false
 
 * Anna Pierzchała, Pasywność w szkole. Diagnoza zjawiska z punktu widzenia analizy transakcyjnej, Wydawnictwo im. S. Podobińskiego Akademii im. J. Długosza w Częstochowie, Częstochowa 2013
 
+* Kot Biznesik
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
