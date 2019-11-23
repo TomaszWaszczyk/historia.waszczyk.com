@@ -14,6 +14,8 @@ draft: false
 
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
+* https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/Americas%20Great%20Depression_Polish_3.pdf
+
 * Anna Pierzchała, Pasywność w szkole. Diagnoza zjawiska z punktu widzenia analizy transakcyjnej, Wydawnictwo im. S. Podobińskiego Akademii im. J. Długosza w Częstochowie, Częstochowa 2013
 
 * Kot Biznesik
