@@ -12,6 +12,8 @@ draft: false
 
 https://en.wikipedia.org/wiki/Sheryl_Sandberg
 
+https://en.wikipedia.org/wiki/Paul_Baran
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/internet.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
