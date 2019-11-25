@@ -3,7 +3,7 @@ layout: post
 title: 20 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2017-11-20T10:00:00.000Z
+date: 2018-11-20T10:00:00.000Z
 tags:
   - Historia
 ---
