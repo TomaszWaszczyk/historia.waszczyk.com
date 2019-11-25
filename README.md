@@ -3,6 +3,8 @@
 
 https://codepen.io/anon/pen/KOyGgO
 
+https://www.britannica.com/topic/USA-PATRIOT-Act
+
 Książka: The mythology and fables of the ancients, explain'd from history
 
 http://www.jhi.pl
