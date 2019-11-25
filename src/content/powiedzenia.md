@@ -2346,6 +2346,8 @@ You cannot connect the dots looking forward, you can only connect them looking b
 
 Isaac Bashevis Singer > Quotes
 
+Tylko idioci myślą tak samo.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
