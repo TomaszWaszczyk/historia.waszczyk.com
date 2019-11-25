@@ -20,6 +20,8 @@ draft: false
 
 * Kot Biznesik
 
+* Opowiadania dla dzieci cz. 2 4CD - Singer Bashevis Isaac
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
