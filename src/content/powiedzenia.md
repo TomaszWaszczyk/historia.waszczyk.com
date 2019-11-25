@@ -2344,6 +2344,8 @@ Analysis paralysis
 
 You cannot connect the dots looking forward, you can only connect them looking backwards.
 
+Isaac Bashevis Singer > Quotes
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
