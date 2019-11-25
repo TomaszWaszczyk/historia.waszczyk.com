@@ -10,6 +10,8 @@ draft: false
 
 https://en.wikipedia.org/wiki/Histology
 
+https://en.wikipedia.org/wiki/Blue_Zone
+
 ### #TBT Einthoven and Electrocardiography
 
 Einthoven, a Dutch physician, invented the string galvanometer in 1903, inaugurating the discipline of electrocardiography. 
