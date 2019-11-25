@@ -21,7 +21,7 @@ Dążeniem naszym jest zgermanizowanie w jak najszybszym czasie całej nadające
 
 ---
 
-Do Krakowa przyjechał doktor Hans Posse (zdjęcie) niemiecki historyk sztuki, co ciekawe, do roku 1939 zajadły antynazista, który za swoje poglądy stracił stanowisko w Galerii Malarstwa w Dreźnie.
+Do Krakowa przyjechał doktor Hans Posse, niemiecki historyk sztuki, co ciekawe, do roku 1939 zajadły antynazista, który za swoje poglądy stracił stanowisko w Galerii Malarstwa w Dreźnie.
 Jego celem było wyszukanie najcenniejszych dzieł sztuki, które miały trafić do powstającego w Linzu muzeum, w którego powstawanie zaangażował go sam Adolf Hitler.
 W jednym ze swoich raportów wysłanych do Martina Bormana Posse pisał:
 " Potwierdza się, że oprócz znanych nam już w Niemczech dzieł sztuki pierwszej jakości (np. ołtarz Wita Stwosza i obrazy na drzewie Hansa Kulmbacha z kościoła Mariackiego w Krakowie, obrazy Rafaela, Leonarda da Vinci i Rembrandta ze zbiorów Czartoryskich oraz kilka dzieł z Muzeum Narodowego w Warszawie), nie ma tu zbyt wiele, co by wzbogaciło niemieckie zasoby wielkiej sztuki... Chciałbym zaproponować zarezerwowanie trzech najważniejszych obrazów z Muzeum Czartoryskich: Rafaela, Leonarda i Rembrandta, znajdujących się obecnie w Kaiser-Friedrich-Museum w Berlinie, dla muzeum Führera w Linzu"
