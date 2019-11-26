@@ -2348,6 +2348,8 @@ Isaac Bashevis Singer > Quotes
 
 Tylko idioci myślą tak samo.
 
+Qui peut vivre infâme est indigne du jour.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
