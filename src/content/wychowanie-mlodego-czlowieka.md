@@ -52,6 +52,8 @@ draft: false
 
 * Dobble!!
 
+* Monopoly dla Milenialsów..
+
 ### Szkoła
 
 * https://ezw.edu.pl
