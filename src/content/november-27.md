@@ -32,6 +32,11 @@ Trybuna Chłopska opublikowała list lubelskich członków Stronnictwa Ludowego.
 " Połączenie Stronnictwa Ludowego w jeden blok z reakcją niepokoi nas chłopów członków Stronnictwa Ludowego. Obszarnicy i inni reakcjoniści nigdy nie będą przyjaciółmi chłopów. Gdy w wolnej Polsce brakowało chłopom ziemi, chleba i pracy- ich to nie obchodziło. Endecja stale zwalczała reformę rolną. Obszarnicy nie płacili podatków, nie spełniali różnych powinności jak podwody i szarwarki, które musieli spełniać chłopi. Obszarnicy czerpali z kas państwa wielkie pożyczki na niski procent po osiem od sta rocznie, a chłop, który potrzebował pieniędzy na kupno krowy musiał płacić lichwiarskie procenty po osiem i dziesięć miesięcznie od sta. Obszarnicy nie zwrócili tych milionów, które pożyczyli z banków państwowych, a w rzeczywistości z naszej kieszeni, bo nikt ich do oddania pożyczki, jak i płacenia podatków siłą nie zmuszał. A z chłopa siłą zdarto ostatnią koszulę na podatki. My pamiętamy te czasy, gdy endeccy, a później sanacyjni starostowie kłaniali się w pas dziedzicowi, a chłopem poniewierano; pozbawiono nas praw jak niewolników. My takich rządów więcej w Polsce nie chcemy!"
 Grafika przedstawia iniaturę plakatu propagandowego “Piaty Ogólnopolski Kongres Stronnictwa Ludowego w Warszawie w 1946 r. – Jednością silni” wydany w 1980 roku przez wydawnictwo Prasa z okazji Dni Prasy Ludowej w 1980 r.
 
+### 1939
+
+W Brześciu nad Bugiem odbyła się wspólna konferencja Gestapo i NKWD na której debatowano nad metodami zwalczania polskiej konspiracji niepodległościowej. Opracowywano również system przepływu informacji między III Rzeszą, a ZSRR, metody eliminacji polskiej klasy przywódczej i inteligencji oraz działania mające na celu germanizację i wynarodowienie Polaków.
+Na zdjęciu konferencja oficerów Gestapo Armii Czerwonej w Urzędzie
+
 ### 1915
 
 W Kodymie urodził się Stanisław Skalski, as myśliwski okresu II wojny światowej o najwyższej liczbie zestrzeleń wśród polskich pilotów.
