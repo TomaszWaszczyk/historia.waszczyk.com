@@ -54,6 +54,8 @@ draft: false
 
 * Monopoly dla Milenialsów..
 
+* Prawo dżungli (~15)
+
 ### Szkoła
 
 * https://ezw.edu.pl
