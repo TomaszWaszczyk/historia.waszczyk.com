@@ -54,11 +54,21 @@ draft: false
 
 * Monopoly dla Milenialsów..
 
+* Prawo dżungli (~15)
+
 ### Szkoła
 
 * https://ezw.edu.pl
 
 * https://ezw.edu.pl/edukacja-z-wartosciami/
+
+### Bajki
+
+* My Neighbor Totoro
+
+* Porco Rosso
+
+* Podniebna Poczta Kiki
 
 ---
 
