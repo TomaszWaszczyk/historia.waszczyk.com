@@ -64,6 +64,10 @@ draft: false
 
 * My Neighbor Totoro
 
+* Porco Rosso
+
+* Podniebna Poczta Kiki
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
