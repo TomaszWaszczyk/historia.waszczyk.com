@@ -60,6 +60,10 @@ draft: false
 
 * https://ezw.edu.pl/edukacja-z-wartosciami/
 
+### Bajki
+
+* My Neighbor Totoro
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
