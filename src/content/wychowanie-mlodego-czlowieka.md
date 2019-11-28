@@ -8,7 +8,7 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-### Książki
+### Książki i bajki
 
 * Kodowanie dla dzieci, Marc Scott
 
@@ -25,6 +25,8 @@ draft: false
 * BLIŹNIĘTA TUTTLE I CUDOWNY OŁÓWEK - Connor Boyack
 
 * BLIŹNIĘTA TUTTLE POZNAJĄ PRAWO - Connor Boyack
+
+* Mądroboty - bajka
 
 ### Programowanie = szkoła myślenia
 
