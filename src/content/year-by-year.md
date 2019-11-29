@@ -36,6 +36,10 @@ The separation between deposit and investment banking has been removed: https://
 
 https://en.wikipedia.org/wiki/Metamodernism
 
+### 1974
+
+Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
