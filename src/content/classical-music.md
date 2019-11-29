@@ -64,4 +64,8 @@ Paweł Łukaszewski
 
 ---
 
+https://pl.wikipedia.org/wiki/Szko%C5%82a_mannheimska
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/classical-music.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
