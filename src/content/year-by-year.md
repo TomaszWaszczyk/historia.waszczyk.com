@@ -44,6 +44,10 @@ https://en.wikipedia.org/wiki/Metamodernism
 
 Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
 
+### 1973
+
+https://pl.wikipedia.org/wiki/Kryzys_naftowy
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
