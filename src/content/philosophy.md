@@ -28,6 +28,8 @@ Seminaria Karla Poppera
 
 Heraklit z Efezu, logos, panta rhei, poglądy, cytaty i filozofia
 
+https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
+
     1. Heraklit
     2. Panta rhei
     3. Jedność przeciwieństw
