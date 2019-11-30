@@ -78,6 +78,10 @@ Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/Tomasz
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
 
+### 1929
+
+https://pl.wikipedia.org/wiki/Rozku%C5%82aczanie
+
 ### 1926
 
 https://pl.wikipedia.org/wiki/Sanacja
