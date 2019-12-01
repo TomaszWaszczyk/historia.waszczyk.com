@@ -42,6 +42,8 @@ draft: false
 
 * https://koderek.edu.pl/
 
+* BBC micro:bit
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
