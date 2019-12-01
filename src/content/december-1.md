@@ -12,6 +12,12 @@ tags:
 
 Władze Związku Radzieckiego przekazały generałowi Tadeuszowi Hupałowskiemu i pułkownikowi Franciszkowi Puchale plany operacji "Sojuz 80", w ramach której oddziały Armii Czerwonej miały wkroczyć do Polski. Gotowość operacyjną wyznaczono na 8 grudnia 1980 roku. Do naszego kraju miało wejść 15 dywizji radzieckich, dwie czechosłowackie i jedna enerdowska. Dodatkowo miały je wspomagać cztery dywizje Wojska Polskiego.
 
+### 1945
+
+W Budach Petrykowskich w województwie mazowieckim funkcjonariusze Urzędu Bezpieczeństwa w Grójcu zamordowali trzech członków Polskiego Stronnictwa Ludowego- Zbigniewa Tadeusza Hanke, sędziego Sądu Grodzkiego w Grójcu i delegata Rządu na Kraj, który miał być wojewodą warszawskim; Bolesława Łukowskiego, kierownika Spółdzielni Rolniczo-Handlowej „Rolnik” i Tadeusza Liskiewicza, żołnierza AK i nauczyciela grójeckiego. Mord był ubeckim odwetem za próbę ataku grupy Ruchu Oporu Armii Krajowej na siedzibę grójeckiego UB przeprowadzoną 21 listopada 1945 roku.
+
+Niedoszłą czwartą ofiarą ubeckiego odwetu był rolnik Józef Sikorski, który słysząc strzały, upadł, a później wygrzebał się z płytkiego grobu. To dzięki niemu prawda o zbrodni wyszła na jaw – zawiadomił władze PSL i złożył zeznanie przed sądem.
+
 ### 1942
 
 Żandarmeria niemiecka dokonała pacyfikacji wsi Przewrotne w województwie podkarpackim. Powodem ukrywanie się w niej rodziny Żydów Celerów; 78 -letniej Marty Celer, jej synów Lejba i Srula oraz dwóch córek Gitli i Gnendli.
