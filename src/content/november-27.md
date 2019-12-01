@@ -62,10 +62,10 @@ W Kodymie urodził się Stanisław Skalski, as myśliwski okresu II wojny świat
 Your browser does not support the video tag.
 </video>
 
-<video width="640" height="480" controls>
+<!-- <video width="640" height="480" controls>
   <source src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/content/img/november/skalski.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video> -->
 
 ### 1905
 
