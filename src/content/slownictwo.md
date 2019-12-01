@@ -563,7 +563,11 @@ utracjusz - człowiek rozrzutny
 
 candour - the quality of being open and honest; frankness.
 
- commentariat
+commentariat
+
+epistolarny «dotyczący listów lub utworów napisanych w formie listów»
+
+
 
 ---
 
