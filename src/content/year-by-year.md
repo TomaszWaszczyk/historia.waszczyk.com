@@ -12,6 +12,12 @@ draft: false
 
 https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
 
+### 2020+
+
+Stagflacja???
+
+> W ocenie Falińskiego, sytuacja w Polsce, a już szczególnie w branży handlowej, może przypominać stagflacyjne załamanie z czasów pierwszego kryzysu naftowego (1973 rok). - Wtedy poszło o ropę i jej szok cenowy, wtedy także uruchomiono socjalne wyrzuty pieniędzy na rynek pracy, wtedy też interweniowały banki centralne, co w Polsce pewnie niebawem nastąpi. Nie jest też fantasmagorią mówić o tzw. bańkach spekulacyjnych, np. na rynkach kapitałowych, w żywnościówce, w nieruchomościach. Niedobre to podobieństwa i nie udawajmy, że jest inaczej - podkreśla Andrzej Faliński.
+
 ### 2019
 
 Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
@@ -36,6 +42,14 @@ The separation between deposit and investment banking has been removed: https://
 
 https://en.wikipedia.org/wiki/Metamodernism
 
+### 1974
+
+Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
+
+### 1973
+
+https://pl.wikipedia.org/wiki/Kryzys_naftowy
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
@@ -47,6 +61,8 @@ https://china.usc.edu/getting-beijing-henry-kissingers-secret-1971-trip
 ### 1970
 
 https://en.wikipedia.org/wiki/Bloom_filter
+
+https://en.wikipedia.org/wiki/Eco-capitalism
 
 ### 1949
 
