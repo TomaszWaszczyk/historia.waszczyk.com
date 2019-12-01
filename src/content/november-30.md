@@ -8,6 +8,16 @@ tags:
   - Historia
 ---
 
+### 1943
+
+Fragment wspomnień podporucznika Henryka Kuckowskiego działacza Milicji Ludowej, żołnierza Batalionu Szturmowego " Czwartaków" Armii Ludowej, po wojnie pracownika delegatury Państwowego Urzędu Bezpieczeństwa w Przasnyszu i Włochach oraz attache wojskowego ambasady PRL w Kopehadze:
+
+"30 listopada 1943 roku rozstrzelano mojego młodszego brata. Brat 11 listopada kończył 20 lat. Starszy brat, który był ranny w czasie obrony Warszawy, mieszkał również na Starym Mieście. W momencie kiedy wybuchło Powstanie… Pragnę podkreślić, że nasza organizacja AL-owska nie była informowana o przygotowaniach i terminie wybuchu Powstania. Przykre to jest niestety, dlatego że dużo kolegów zginęło, zanim dotarło do Starego Miasta. Warszawski sztab Armii Ludowej zdecydował, że w tej dzielnicy będzie koncentracja naszych AL-owców z Warszawy. Nieduża grupa pozostała na Śródmieściu, natomiast trzon sił „Czwartaków” był na Starym Mieście.
+Organizacja na Starym Mieście: sztab Armii Ludowej Okręgu Warszawskiego, który się mieścił [na Freta], i my jako bojowa organizacja, Batalion „Czwartaków”. Z tego sztabu otrzymywaliśmy zadania. Dowódcą „Czwartaków” na Starym Mieście był „Konrad”, Lech Kobyliński, późniejszy profesor, znany zresztą na Wybrzeżu. Jego zastępcą był porucznik Edwin Rozłubirski pseudonim „Gustaw”. Zresztą również znana postać, przyszły generał, pierwszy organizator Dywizji Spadochronowej w Krakowie.
+Przebieg działań na terenie Starego Miasta, pierwsze dni przy tym chaosie, jaki wywołało Powstanie wśród ludności, która nie znalazła jeszcze jakiejś formy i konieczności chronienia się. Pierwszą rzeczą naszego oddziału była placówka na rogu Podwala i Krakowskiego Przedmieścia, w tym miejscu, gdzie w tej chwili są schody [ruchome]. Później ona troszeczkę się przesunęła. Ta placówka była bardzo istotna. Narażona często na bardzo ostre działanie Niemców, szczególnie w momencie kiedy jeszcze chciano przeprawiać się przez most Kierbedzia na drugą stronę. Wtedy objęliśmy w działanie tę placówkę, placówkę na Piwnej (przez kilka dni była w naszym działaniu) i na Mostowej. Tam była garbarnia. Opodal wylotu Mostowej na Wybrzeże [Gdańskie] też była jedna bardzo poważna placówka, bardzo narażona na działanie [Niemców], ponieważ Niemcy chcieli zachować swobodę działania wzdłuż Wisły. Spodziewali się jeszcze w początkowym okresie, że może armia polska i radziecka dojść do Wisły i będzie tylko Wisła dzieliła."
+
+Źródło: Archiwum historii mówionej.
+
 ### 1913
 
 W roku w Jabłonce, powiat Brzozów, województwo Podkarpackie urodził się Romuald Rajs "Bury"- żołnierz Armii Krajowej, dowódca I Kompanii Szturmowej 3 Brygady Wileńskiej, uczestnik operacji "Ostra Brama", podwładny majora Zygmunta Szendzielarza.
