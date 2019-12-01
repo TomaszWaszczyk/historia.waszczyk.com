@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 23 listopada
+title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
 date: 2018-11-30T10:00:00.000Z
