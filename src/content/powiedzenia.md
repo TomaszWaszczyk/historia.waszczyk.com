@@ -2354,6 +2354,8 @@ https://en.wikipedia.org/wiki/Hold_your_horses
 
 “A friend to all is a friend to none.” — Aristotle
 
+our roadmap is heavily de-risked
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
