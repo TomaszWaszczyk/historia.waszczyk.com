@@ -42,7 +42,7 @@ draft: false
 
 * https://koderek.edu.pl/
 
-* BBC micro:bit
+* BBC micro:bit (BeagleBoard.org PocketBeagle)
 
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
