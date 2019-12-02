@@ -41,6 +41,10 @@ W dniu 31 marca 1938 r. sejm polski wobec spodziewanego masowego powrotu do kraj
 
 26 października 1938 roku szef służby bezpieczeństwa Rzeszy, Reinhard Heydrich, ogłosił rozporządzenie o natychmiastowym wydaleniu z Niemiec wszystkich polskich Żydów. Otrzymali oni nakaz deportacji i na własny koszt, w zaplombowanych pociągach, byli przewożeni do granicy z Polską. Mogli zabrać jedynie 10 marek i trochę ubrań. Deportowano całe rodziny, samotnych mężczyzn i samotne kobiety, a także dzieci i młodzież bez opieki osób starszych. Akcję przeprowadzono zarówno w dużych miastach, jak i małych wioskach. Na wysiedlenie zareagował polski konsul w Lipsku Feliks Chiczewski – otworzył drzwi konsulatu generalnego i udzielił schronienia ponad 1 300 osobom.
 
+### 1902
+
+https://pl.wikipedia.org/wiki/Jerzy_Zawieyski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
