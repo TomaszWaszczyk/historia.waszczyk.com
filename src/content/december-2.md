@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  grudnia
+title: 2 grudnia
 image: img/december/rydz.jpg
 author: Tomasz Waszczyk
 date: 2018-12-02T10:00:00.000Z
