@@ -100,6 +100,14 @@ Polską A i Polską B".
 Tymi słowami 2 grudnia 1938 roku wicepremier Eugeniusz Kwiatkowski uzasadniał wprowadzenie opracowanego przez siebie nowego 15-letniego planu gospodarczego dla Polski.
 Niestety ,jak wszyscy wiemy 1 września 1939 roku zniweczył te zamiary.
 
+### 1914
+
+W czasie pierwszej wojny światowej rozpoczęła się bitwa pod Limanową między wojskami Austro-Węgier,Cesarstwa Niemieckiego, a Imperium Rosyjskim.Po stronie wojsk austriacko-węgiersko -niemieckich dowodzonych przez generała Franza Conrada von Hötzendorfa i Josefa von Rotha stanęło 90 tysięcy żołnierzy, natomiast wojska rosyjskie dowodzone przez generała porucznika Radko Dimitriewa liczyły około 120 tysięcy żołnierzy. Rosjanom niestety nie pomogła przewaga liczebna. Po trwających 10 dni walkach ponieśli klęskę, która kosztowała ich życie 30 tysięcy ludzi przy stracie przeciwnika wynoszącej 12 tysięcy ofiar.
+
+### 1853
+
+Polski przemysłowiec i pionier polskiego przemysłu naftowego Jan Zeh jako pierwszy otrzymał patent na destylację ropy naftowej. Pozwoliło mu to na uruchomienie we Lwowie własnej rafinerii naftowej w której produkował różnego rodzaju smary, naftę i świece parafinowe.
+
 ### 1794
 
 Poniższy tekst to list carycy Katarzyny II do króla Stanisława Augusta Poniatowskiego napisany 2 grudnia 1794 roku:
