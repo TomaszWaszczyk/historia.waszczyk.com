@@ -5,7 +5,7 @@ image: img/december/jaros.jpg
 author: Tomasz Waszczyk
 date: 2018-12-03T10:00:00.000Z
 tags:
-  - Rydz Śmigły
+  - Władysław Gomułka
 ---
 
 ### 1961
