@@ -2362,6 +2362,8 @@ Mądrości Syraha
 
 https://en.wikiquote.org/wiki/Herbert_A._Simon
 
+https://en.wikipedia.org/wiki/Heraclitus
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
