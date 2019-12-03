@@ -116,6 +116,10 @@ https://en.wikipedia.org/wiki/Thomas_Cook
 
 https://pl.wikipedia.org/wiki/Wojny_opiumowe
 
+### 1832
+
+https://pl.wikipedia.org/wiki/Cytadela_Warszawska
+
 ### 1820
 
 https://en.wikipedia.org/wiki/Creditanstalt
