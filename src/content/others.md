@@ -24,6 +24,9 @@ draft: false
 
 8. <a href="http://historia.waszczyk.com/sport" target="_blank">Sport</a>
 
+https://en.wikipedia.org/wiki/Aleksandr_Dugin
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
