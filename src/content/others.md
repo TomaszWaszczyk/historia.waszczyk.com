@@ -26,6 +26,7 @@ draft: false
 
 https://en.wikipedia.org/wiki/Aleksandr_Dugin
 
+https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 ---
 
