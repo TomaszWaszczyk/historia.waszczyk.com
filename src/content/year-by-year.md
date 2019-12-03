@@ -64,6 +64,10 @@ https://en.wikipedia.org/wiki/Bloom_filter
 
 https://en.wikipedia.org/wiki/Eco-capitalism
 
+### 1958
+
+https://en.wikipedia.org/wiki/Meritocracy
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
