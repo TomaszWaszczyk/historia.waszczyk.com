@@ -52,6 +52,8 @@ draft: false
 
 * https://www.godmother.pl/podcast
 
+* W PARYŻU DZIECI NIE GRYMASZĄ
+
 ### Toys
 
 * Dobble!!

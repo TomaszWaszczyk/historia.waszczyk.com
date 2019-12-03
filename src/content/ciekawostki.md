@@ -20,7 +20,9 @@ W Domu Weteranów znajdowało się 20 miejsc dla byłych powstańców. Mieli tut
 
 W 1935 roku położony około 200 metrów od Domu Weteranów Plac Aleksandrowski zmienił nazwę na Plac Weteranów 1863 r. Imieniem bohaterów narodowego zrywu nazwano też jedną z lepszych praskich szkół podstawowych przy ul. Kawęczyńskiej 2.
 
-Obecnie w budynku mieści się Kuria Warszawsko-Praska. 
+Obecnie w budynku mieści się Kuria Warszawsko-Praska.
+
+https://pl.wikipedia.org/wiki/Historia_ortografii_polskiej
 
 ---
 

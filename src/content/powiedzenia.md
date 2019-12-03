@@ -2356,6 +2356,18 @@ https://en.wikipedia.org/wiki/Hold_your_horses
 
 our roadmap is heavily de-risked
 
+cut forest
+
+Mądrości Syraha
+
+https://en.wikiquote.org/wiki/Herbert_A._Simon
+
+https://en.wikipedia.org/wiki/Heraclitus
+
+kajzerowski kapitalizm
+
+Doing the hard work to make things simple
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
