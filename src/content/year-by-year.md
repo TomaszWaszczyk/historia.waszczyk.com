@@ -112,6 +112,8 @@ https://pl.wikipedia.org/wiki/Faszyzm
 
 https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu, wzamian sprowadzili górników i dziwki
 
+https://pl.wikipedia.org/wiki/Agraryzm
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
