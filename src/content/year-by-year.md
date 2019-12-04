@@ -64,6 +64,10 @@ https://en.wikipedia.org/wiki/Bloom_filter
 
 https://en.wikipedia.org/wiki/Eco-capitalism
 
+### 1958
+
+https://en.wikipedia.org/wiki/Meritocracy
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
@@ -107,6 +111,8 @@ https://pl.wikipedia.org/wiki/Faszyzm
 ### 1850
 
 https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu, wzamian sprowadzili górników i dziwki
+
+https://pl.wikipedia.org/wiki/Agraryzm
 
 ### 1841
 

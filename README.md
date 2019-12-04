@@ -1193,3 +1193,27 @@ https://culture.pl/pl/artykul/kolonializm-po-polsku-czyli-dlugi-cien-panszczyzny
 https://www.marxists.org/polski/trocki/1930/hrr/index.htm
 
 https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
+
+
+Rotmistrz Pilecki poczytać o nim
+
+Roman Dmowski
+
+Powstanie Stycznione
+
+Książę Wilhelm- książę pruski bił monety polskie żeby wywołać inflację
+
+Księstwo Warszawskie
+Królestwo Kongresowe
+Generalne Gubernatorstwo
+reforma steinhoffa
+Kościół a krycjaty i galileusz
+
+https://en.wikipedia.org/wiki/Larry_R._Williams
+
+
+
+http://www.sciaga.pl/tekst/47648-48-dwie_drogi_do_niepodleglosci_pilsudski_czy_dmowski_ideologia_narodowa_czy
+
+https://en.wikipedia.org/wiki/Blair_Hull
+
