@@ -2375,6 +2375,8 @@ Co kupimy? Książkę? Nie jedną już mają.
 
 https://www.pinterest.com/flomiffy/attention-seeker-quotes/
 
+In chaos lies the truth.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
