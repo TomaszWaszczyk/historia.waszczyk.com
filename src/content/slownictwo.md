@@ -567,7 +567,7 @@ commentariat
 
 epistolarny «dotyczący listów lub utworów napisanych w formie listów»
 
-
+technoskryba
 
 ---
 
