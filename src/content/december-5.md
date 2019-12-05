@@ -8,9 +8,9 @@ tags:
   - Tusk
 ---
 
-<!-- ### 2019
+### 2019
 <br>
-<img src="./img/december/tusk.jpg"/><br><br> -->
+<img src="./img/december/tusk.jpg"/><br><br>
 
 ---
 
