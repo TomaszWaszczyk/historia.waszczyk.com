@@ -12,6 +12,8 @@ tags:
 <br>
 <img src="./img/december/tusk.jpg"/><br><br>
 
+pyszałek.
+
 ### 1980
 
 W Moskwie odbyła się narada przywódców państw Układu Warszawskiego. Głównym tematem rozmów była wewnętrzna sytuacja w Polsce. Mimo, iż uznano, że rozwój wypadków jest zagrożeniem dla komunizmu i nosi znamiona kontrrewolucji, nie podjęto decyzji o interwencji zbrojnej. W trakcie spotkania generał Wojciech Jaruzelski przedstawił projekt samodzielnej likwidacji Solidarności oraz opozycji w przypadku, gdy tylko zostaną zauważone pierwsze symptomy zmęczenia społeczeństwa trudną sytuacją polityczno- gospodarczą. Równocześnie Stanisław Kania ostrzegł Leonida Breżniewa, że zbrojna interwencja wojsk radzieckich spotka się z gwałtowną reakcją społeczeństwa, która może doprowadzić wręcz do wybuchu powstania narodowego.
