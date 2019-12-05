@@ -2370,6 +2370,9 @@ Doing the hard work to make things simple
 
 Co kupimy? Książkę? Nie jedną już mają.
 
+”Pan Bóg tak lubi pokorę, bo sam jest prawdą najwyższą, a pokora niczym innym nie jest, tylko chodzeniem w prawdzie”
+— Św. Teresa z Avila
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
