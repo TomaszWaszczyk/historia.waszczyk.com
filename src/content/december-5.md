@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 5 grudnia
-image: img/december/kowalczyk.jpg
+image: img/december/tusk.jpg
 author: Tomasz Waszczyk
 date: 2018-12-05T10:00:00.000Z
 tags:
   - Tusk
 ---
 
-### 2019
+<!-- ### 2019
 <br>
-<img src="./img/december/tusk.jpg"/><br><br>
+<img src="./img/december/tusk.jpg"/><br><br> -->
 
 ---
 
