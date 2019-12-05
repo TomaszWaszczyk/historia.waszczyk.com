@@ -10,7 +10,7 @@ tags:
 
 ### 2019
 
-<img src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/assets/november/przegramy.png"/>
+<img src="https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/img/november/marszalek-konczyc.jpg"/>
 
 ### 1963
 
