@@ -18,6 +18,12 @@ Stagflacja???
 
 > W ocenie Falińskiego, sytuacja w Polsce, a już szczególnie w branży handlowej, może przypominać stagflacyjne załamanie z czasów pierwszego kryzysu naftowego (1973 rok). - Wtedy poszło o ropę i jej szok cenowy, wtedy także uruchomiono socjalne wyrzuty pieniędzy na rynek pracy, wtedy też interweniowały banki centralne, co w Polsce pewnie niebawem nastąpi. Nie jest też fantasmagorią mówić o tzw. bańkach spekulacyjnych, np. na rynkach kapitałowych, w żywnościówce, w nieruchomościach. Niedobre to podobieństwa i nie udawajmy, że jest inaczej - podkreśla Andrzej Faliński.
 
+Interest rates are at the lowest point in 5,000 years of history.
+
+They're lower than when FDR, Napoleon, Genghis Khan, Julius Caesar and even Hammurabi were in power.
+
+Written by Rhythm@Twitter
+
 <img src="./img/year-by-year/rates.jpeg"/><br><br>
 
 ### 2019
