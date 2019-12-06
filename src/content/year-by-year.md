@@ -36,6 +36,8 @@ The growth of ConsenSys, like the growth of Ethereum itself, has been explosive.
 
 Ron Resnick, a former lead developer of 4G for Intel, who now heads the EEA, says that some financial services, including Santander and JPMorgan, are already integrating Ethereum-based blockchains into their business for settlement and other purposes. But the transition to widespread use is likely to be gradual and won't begin in earnest until standards that ensure interoperability are completed, probably next year.
 
+Michael Casey, co-author of the 2018 book "The Truth Machine: The Blockchain and the Future of Everything," and a senior adviser for the Digital Currency Initiative at MIT's Media Lab, says before mass adoption can occur Ethereum and other blockchain companies will need to address and upgrade the speed and scalability of the technology—problems that thousands of developers are actively working to address. "The internet was ­developed over 40 years. It's really complicated stuff," he says. "The technology has to evolve and become scalable."
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
