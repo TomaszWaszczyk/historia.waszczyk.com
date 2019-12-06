@@ -71,6 +71,14 @@ https://en.wikipedia.org/wiki/Eco-capitalism
 
 https://en.wikipedia.org/wiki/Meritocracy
 
+### 1956
+
+https://en.wikipedia.org/wiki/Hyperinflation
+
+### 1954
+
+https://en.wikipedia.org/wiki/Value-added_tax
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
