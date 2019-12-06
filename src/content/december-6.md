@@ -19,7 +19,6 @@ W jednym z wywiadów tak później o tym mówił:
 
 W okolicach miejscowości Wola Malowana w województwie łódzkim w obławie zorganizowanej przez połączone siły grup operacyjnych Urzędu Bezpieczeństwa, NKWD i Korpusu Bezpieczeństwa Wewnętrznego śmierć ponieśli orucznik Henryk Piasecki "Zapora", dowódca kompanii Konspiracyjnego Wojska Polskiego i sierżant Józef Broniszewski "Boryna". Zabójcy czekali na swoje ofiary w jednym z miejscowych młynów. Poinformowani przez agenta o nadchodzących, Zaporze i Borynie otworzyli do nich ogień z dwudziestu karabinow maszynowych. Porucznik ˝Zapora˝ zginął na miejscu. Jego zastępca, ciężko ranny, zmarł po kilku godzinach pozostawiony na mrozie bez pomocy. Ciało poległego oficera trzymano 2 dni na mrozie, aby wieść o śmierci legendarnego partyzanta obiegła wszystkie wsie. Dopiero po 2 dniach wydano zwłoki rodzicom wraz z warunkową zgodą na cichy pogrzeb por. ˝Zapory˝ na cmentarzu w Kodrębie.
 
-<br>
 <img src="./img/december/zapora.jpg"/><br><br>
 
 ---

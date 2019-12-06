@@ -24,6 +24,8 @@ draft: false
 
 8. <a href="http://historia.waszczyk.com/sport" target="_blank">Sport</a>
 
+9. <a href="http://historia.waszczyk.com/religion" target="_blank">Religia</a>
+
 https://en.wikipedia.org/wiki/Aleksandr_Dugin
 
 https://pl.wikipedia.org/wiki/Fides_et_ratio

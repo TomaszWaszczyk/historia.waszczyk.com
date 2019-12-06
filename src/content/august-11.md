@@ -8,9 +8,13 @@ tags:
   - Historia
 ---
 
-## 1939
+### 1939
 
 https://en.wikipedia.org/wiki/Dowding_system
+
+### 1492
+
+https://en.wikipedia.org/wiki/Pope_Alexander_VI - przekupny papież i kardynał
 
 ---
 
