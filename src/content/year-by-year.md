@@ -30,6 +30,10 @@ Written by Rhythm@Twitter
 
 Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
 
+### 2015
+
+The growth of ConsenSys, like the growth of Ethereum itself, has been explosive. Today, the company has 1,000 employees, working in 28 countries, some from their homes or coffee shops, some in formal office setups in Brooklyn; San Francisco; London; Tel Aviv, Israel; Bucharest, Romania; and Sydney and Queensland, Australia. The company structure is inspired by Lubin's utopian ideals. Employees choose their own titles, and instead of a traditional hierarchy, there's a governance structure called a "holocracy," a ­decentralized system of management where power is "distributed" among self-organizing teams. Funds are doled out for individual projects by a "resource-allocation circle"—individuals who are chosen by their co-workers to serve based on their abilities.
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
