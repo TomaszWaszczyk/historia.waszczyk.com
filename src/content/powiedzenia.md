@@ -2377,6 +2377,8 @@ https://www.pinterest.com/flomiffy/attention-seeker-quotes/
 
 In chaos lies the truth.
 
+In vino veritas in aqua sanitas.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
