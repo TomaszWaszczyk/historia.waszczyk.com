@@ -573,7 +573,9 @@ makeshift
 
 walled garden
 
- syfilityk (n.łc. syphiliticus ‘kiłowy’) osoba chora nasyfilis
+syfilityk (n.łc. syphiliticus ‘kiłowy’) osoba chora nasyfilis
+
+balet twarzy
 
 ---
 
