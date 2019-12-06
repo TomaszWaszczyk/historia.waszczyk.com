@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### Linki
+
 1. <a href="http://historia.waszczyk.com/maps" target="_blank">Mapy</a>
 
 2. <a href="http://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
@@ -29,6 +31,14 @@ draft: false
 https://en.wikipedia.org/wiki/Aleksandr_Dugin
 
 https://pl.wikipedia.org/wiki/Fides_et_ratio
+
+### Książki
+
+* Karol, Diana, Camilla. Opowieści z angielskiego dworu
+
+### Audycje, podcasty
+
+:one: "O czym milczy historia" @ RadioKatowice(YouTube)
 
 ---
 
