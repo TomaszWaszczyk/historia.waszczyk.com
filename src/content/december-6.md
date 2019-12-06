@@ -5,7 +5,7 @@ image: img/december/olszewski.jpg
 author: Tomasz Waszczyk
 date: 2018-12-06T10:00:00.000Z
 tags:
-  - Tusk
+  - Olszewski
 ---
 
 ### 1991
