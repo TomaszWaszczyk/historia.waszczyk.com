@@ -21,6 +21,18 @@ W okolicach miejscowości Wola Malowana w województwie łódzkim w obławie zor
 
 <img src="./img/december/zapora.jpg"/><br><br>
 
+### 1941
+
+W Warszawie podpisano dokumenty scaleniowe dotyczące zjednoczenia organizacji konspiracyjnej Muszkieterzy z Związkiem Walki Zbrojnej.
+Muszkieterzy byli organizacją konspiracyjną o charakterze wywiadowczym, o której nawet dziś niezbyt wiele wiadomo. Organizacja ta została utworzona w październiku lub listopadzie 1939 roku, a na jej czele stanął wywodzący się z Polskiej Organizacji Wojskowej kapitan Stefan Stefan Witkowski "Kapitan" (na zdjęciu z lewej).
+Do Muszkieterów należeli przede wszystkim młodzi oficerowie służby czynnej i rezerwy oraz osoby wywodzące się ze środowisk technicznych, w sporej części znajomi Witkowskiego ze studiów technicznych.
+Muszkieterzy wchodzili w skład Centralnego Komitetu Organizacji Niepodległościowych , od którego otrzymywali środki finansowe. Prowadzili głównie działalność wywiadowczą, w tym także na obszarze Rzeszy i polskich obszarach zajętych po 17 września 1939 r. przez ZSRR, oraz kontrwywiadowczą. Silna placówka wywiadowcza, tzw. baza, znajdowała się też w Budapeszcie .
+Organizacja ta posiadała bezpośrednie kontakty z brytyjskim wywiadem Secret Service, któremu dostarczała regularne raporty wywiadowcze.
+Niestety współpraca Muszkieterów z ZWZ nie należała do udanych. Już w kilka miesięcy od zjednoczenia doszło do konfliktu z powodu żądania przez Stefana Roweckiego Grota ujawnienia siatki agentów na co nie przystał Witkowski. Doprowadziło to do tego, że w sierpniu 1942 r. KG AK oskarżyła go o niesubordynację i współpracę z Abwehrą i Gestapo .
+Wojskowy Sąd Specjalny skazał go na karę śmierci. Wyrok wykonała komórka egzekucyjna AK 18 września tego roku. Wcześniej Muszkieterzy zostali rozwiązani rozkazem komendanta głównego AK, gen. S. Roweckiego z 27 sierpnia 1942 r. Większość członków organizacji przeszła do AK, część do innych organizacji podziemnych.
+
+<img src="./img/december/witkowski.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
