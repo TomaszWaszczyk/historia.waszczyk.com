@@ -21,6 +21,17 @@ W okolicach miejscowości Wola Malowana w województwie łódzkim w obławie zor
 
 <img src="./img/december/zapora.jpg"/><br><br>
 
+### 1942
+
+W Ciepielowie w województwie mazowieckim żandarmeria niemiecka zamordowała 34 osoby-członków rodzin Kowalskich, Obuchiewiczów, Skoczylasów i Kosiorów za pomoc w ukrywaniu Żydów.
+
+Relacja Marii Bieleckiej:
+
+"Kowalskich wyprowadzili z domu. Całą rodzinę wiedli do Obuchów. Na przodzie szedł wuj Adam, trzymając za ręce chłopców-Heńka i Stefana, jak to z nimi czasami na spacer wychodził, tylko głowa mu do ziemi obwisła i nogami bezsilne powłóczył. Za nimi ciotka Helena tuliła w ramionach maleńkiego Tadka, a za matką szły Janka i Zośka (...) Wlekli się, otoczeni rojem żołdaków, żądłami bagnetów ponaglających ich do szybkiego kroku. Ciotka odwróciła głowę w stronę naszych okien. Pewnie chciała nas pożegnać spojrzeniem, ale Niemiec zdzielił ją w kark kolbą karabinu, że omal nie zaryła twarzą w brudny zdeptany śnieg. W drzwiach chaty Obuchów odezwała Tadzia od piersi, jakby co chciała poddać Niemcowi, zapewne błagała o zmiłowanie dla małżeństwa. Pchnął ją Niemiec tak silnie, że od futryny drzwi się odbiła i runęła gdzieś za próg chałupy. Drzwi dokładnie zamknęli, klamkę drutem unieruchomili i wieńcem rozstawili się wokół chaty (...)
+Stałam w oknie i patrzyłam, co też teraz będzie z trzynastoma moich najbliższych, uwięzionych w ciasnej, próchniejącej chacie. Niemcy, jak czarne słupy, stali na śniegu, na coś czekali. Raptem na szarzejącym firmamencie w trzech miejscach rozlała się bladoróżowa smuga. Rosła w górę i gwałtownie przechodziła w chwiejącą się czerwień "Łuna"- szepnął ojciec i od razu utrafił-"Obu Kosiorów i Skoczylasa palą"
+Na te łuny Niemcy wyczekiwali. Dwu z nich podeszło pod chatę Obucha. Jednocześnie zakreślili ramionami łuk i padli na śnieg. Huk targnął powietrzem, zadzwoniły szyby w naszym domu, z Obuchowej chałupy przez wyrwane okna posypały się drzazgi i straszny ludzki ryk uderzył w niebiosa. To było złudzenie, ale zdawało mi się, że ryk ten rozszczepia się na wycie Adama i Piotra, na wrzask obu ciotek, pisk dziewcząt skomlenie Tadzika i najmłodszego 7-miesięcznego syna Obuchów, któremu jeszcze nie zdążono nadać imienia na chrzcie. Po chwili ryk opadł, przeszedł w płacz i wołanie. Któryś z Niemców zbliżył się do chałupy i palący się wiecheć słomy przyłożył do strzechy. Ogień szybko uchwycił się poszycia, chciwymi klinami biegł w górę i na boki, aż cała strzecha przemieniła się w jeden wielki płomień.
+Buchnął kłąb złotych iskier i czarna chmura dymu zakotłowała się nad chałupą. Dach zawalił się do środka. Znowu ryk nieludzki dobiegł przez szyby. A z nim i śmiech, niemieckie okrzyki radości. Po chwili z łomotem wypadły drzwi gorejącej chałupy i z sieni wybiegło dziecko. Leciało na oślep przed siebie, rękoma rozgarniając powietrze, bo zapewne dym oczy mu pokąsał (...) Padły strzały. Janka podcięta pociskami, wyciągnęła się do tyłu i rozrzucajac ramiona, legła w śniegu. Zbliżyli się do niej jak hieny, pochylili się nad dziewczęcym trupem (...) Skusiły ich nowe buty dziewczyny. Ściągnęli je z trupa brutalnymi szarpnięciami, a potem taki jeden złapał ją za warkocz i ciągnął po bruzdach, by podnieść za kark jak wór śmieci i rzucić w płomienie. W płomieniach ciągle odzywały się jęki.
+
 ### 1941
 
 W Warszawie podpisano dokumenty scaleniowe dotyczące zjednoczenia organizacji konspiracyjnej Muszkieterzy z Związkiem Walki Zbrojnej.
