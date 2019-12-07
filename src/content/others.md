@@ -36,6 +36,8 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * Karol, Diana, Camilla. Opowieści z angielskiego dworu
 
+* Roztrzaskane lustro. Upadek cywilizacji zachodniej, Wojciech Roszkowski
+
 ### Audycje, podcasty
 
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)
