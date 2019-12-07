@@ -2379,6 +2379,8 @@ In chaos lies the truth.
 
 In vino veritas in aqua sanitas.
 
+Non sum qualis eram. Horace
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

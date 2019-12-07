@@ -39,6 +39,15 @@ Uważamy, że nierespektowanie wolności obywatelskich może doprowadzić do sto
 Uznanie tych wolności, potwierdzone przez konferencję w Helsinkach, nabiera dziś wagi międzynarodowej, gdyż tam, gdzie nie ma wolności, nie ma pokoju ani bezpieczeństwa."
 Wśród sygnatariuszy listu byli między innymi Andrzej Drawicz, Zbigniew Herbert, Stefan Kisielewski, Leszek Kołakowski i Jan Józef Lipski.
 
+### 1867
+
+W Zułowie koło Wilna urodził się Józef Piłsudski. Najwybitniejszy polski polityk w historii dwudziestego wieku, marszałek Polski,Naczelny Wódz i minister spraw wojskowych.
+Był niedoszłym lekarzem, studentem uniwersytetu w Charkowie z którego wyrzucono go za udział w demonstracjach studenckich. Aresztowany razem z bratem Aleksandrem w 1887 roku w wyniku podejrzeń o współudział w przygotowaniu zamachu na cara Aleksandra III odbył 5 letni wyrok na Syberii. W 1892 roku powrócił do Wilna,gdzie ponownie zaangażował się w działalność polityczną. W 1893 roku wstąpił do Polskiej Partii Socjalistycznej. 6 lat pózniej ożenił się z ewangelicką rozwódką Marią Juszkiewiczową. W 1904 roku na zaproszenie władz japońskich wyjechał do Tokio,gdzie zabiegał o zakup broni potrzebnej do walki z zaborcami. 4 lata pózniej stworzył Związek Walki Czynnej-organizację,której celem było stworzenie kadr przyszłego Wojska Polskiego. W 1910 roku również z jego inicjatywy powstał we Lwowie i Krakowie Związek Strzelecki "Strzelec". W 1914 roku Piłsudski został dowódcą 1 Pułku Piechoty Legionów Polskich, a jeszcze w pazdzierniku tego samego roku na jego rozkaz utworzona została Polska Organizacja Wojskowa. W 1917 roku został szefem Komisji Wojskowej Tymczasowej Rady Stanu Królestwa Polskiego. 21 lipca 1917 roku został aresztowany przez Niemców i osadzony w więzieniu w Magdeburgu.Zwolniono go 8 listopada 1918 roku z nadzieją, że zapobiegnie on rozszerzeniu się bolszewickiej rewolucji na zachód Europy. 11 listopada 1918 roku Rada Regencyjna przekazała Piłsudskiemu pełnię władzy, a następnie rozwiązała się. Piłsudski podjął rozmowy z Niemiecką Radą Żołnierską i zawarł umowę w sprawie ewakuacji wojsk niemieckich z Królestwa. 5 dni potem Piłsudski wystosował do rządów mocarstw sprzymierzonych notę w której poinformował o powstaniu Państwa Polskiego. 22 listopada 1918 roku , jako Tymczasowy Naczelnik Państwa objął najwyższą władzę w kraju. W marcu 1919 roku został Marszałkiem Polski,który pokierował Wojsko Polskie do zwycięstwa w wojnie polsko-bolszewickiej. 14 kwietnia 1923 roku Piłsudski otrzymał Krzyż Wielki Orderu „Virtuti Militari”, nadany przez prezydenta, na wniosek ministra spraw wojskowych i kapitułę orderu. 31 maja 1926 roku Sejm wybrał Piłudskiego na urząd
+prezydenta RP, ten zrzekł się godności,
+wskazując kandydaturę prof. Ignacego
+Mościckiego, wybranego następnie przez
+Sejm. Jednak jeszcze w tym samym roku został Generalnym Inspektorem Sił Zbrojnych oraz aż do 1928 roku premierem. W 1935 roku zdiagnozowano u niego nowotwór żołądka. Zmarł 12 maja 1935 roku.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
