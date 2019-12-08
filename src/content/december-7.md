@@ -13,6 +13,9 @@ tags:
 Olga Tokarczuk wygłosiła przemowę noblowską.
 
 > Kryzys klimatyczny i polityczny, w którym dzisiaj próbujemy się odnaleźć i któremu pragniemy się przeciwstawić, ratując świat, nie wziął się znikąd. Często zapominamy, że nie jest to jakieś fatum i zrządzenie losu, ale rezultat bardzo konkretnych posunięć i decyzji ekonomicznych, społecznych i światopoglądowych (w tym religijnych). Chciwość, brak szacunku do natury, egoizm, brak wyobraźni, niekończące się współzawodnictwo, brak odpowiedzialności sprowadziły świat do statusu przedmiotu, który można ciąć na kawałki, używać i niszczyć.
+> Świat umiera, a my nawet tego nie zauważamy. Nie zauważamy, że świat staje się zbiorem rzeczy i wydarzeń, martwą przestrzenią, w której poruszamy się samotni i zagubieni, miotani czyimiś decyzjami, zniewoleni niezrozumiałym fatum, poczuciem bycia igraszką wielkich sił historii czy przypadku
+> Świat jest tkaniną, którą przędziemy codziennie na wielkich krosnach informacji, dyskusji, filmów, książek, plotek, anegdot. Dziś zasięg pracy tych krosien jest ogromny – za sprawą internetu prawie każdy może brać udział w tym procesie, odpowiedzialnie i nieodpowiedzialnie, z miłością i nienawiścią, ku dobru i ku złu, dla życia i dla śmierci.
+> Zalew obrazów przemocy, głupoty, okrucieństwa, mowy nienawiści rozpaczliwie równoważone są przez wszelkie „dobre wiadomości”, ale nie są one w stanie ujarzmić dojmującego wrażenia, które trudno jest nawet zwerbalizować: Coś jest ze światem nie tak. To poczucie, zarezerwowane kiedyś tylko dla neurotycznych poetów, dziś staje się epidemią nieokreśloności, sączącym się zewsząd niepokojem.
 
 ### 2013
 
