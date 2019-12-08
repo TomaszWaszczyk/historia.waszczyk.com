@@ -2383,6 +2383,8 @@ Non sum qualis eram. Horace
 
 Jeśli łatwo to nie ciekawie.
 
+W każdym systemie logicznym, można udowodnić tylko to co tkwi w jego założeniach - a czym jest założenie? Wiara.  https://pl.wikipedia.org/wiki/Kurt_G%C3%B6del
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

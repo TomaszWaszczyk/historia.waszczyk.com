@@ -8,6 +8,10 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+> W każdym systemie logicznym, można udowodnić tylko to co tkwi w jego założeniach - a czym jest założenie? Wiara.
+
+https://pl.wikipedia.org/wiki/Kurt_G%C3%B6del
+
 ### 1492
 
 https://en.wikipedia.org/wiki/Pope_Alexander_VI
