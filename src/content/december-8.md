@@ -12,6 +12,10 @@ tags:
 
 W Solecznikach koło Wilna urodził się Władysław Kozakiewicz (zdjęcie) -tyczkarz , ośmiokrotny mistrz Polski, dwukrotny mistrz Europy. 30 lipca 1980 roku na olimpiadzie w Moskwie zdobył złoty medal pokonując wysokość 5.78m. Zasłynął jako wykonawca słynnego gestu w stronę nieprzychylnej mu sowieckiej widowni.
 
+### 1943
+
+1943 roku członkowie OUN-UPA uwięzili, a następnie zamordowali 48 letniego proboszcza parafii Jazłowiec w powiecie Buczacz (obecnie Ukraina) księdza doktora Andrzeja Kraśnickiego. Proboszcz był przetrzymywany i torturowany na własnej plebanii, z której okna strychu został wyrzucony na chodnik, a następnie utopiony w pobliskim jeziorze.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
