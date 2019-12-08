@@ -16,6 +16,14 @@ W Solecznikach koło Wilna urodził się Władysław Kozakiewicz (zdjęcie) -tyc
 
 1943 roku członkowie OUN-UPA uwięzili, a następnie zamordowali 48 letniego proboszcza parafii Jazłowiec w powiecie Buczacz (obecnie Ukraina) księdza doktora Andrzeja Kraśnickiego. Proboszcz był przetrzymywany i torturowany na własnej plebanii, z której okna strychu został wyrzucony na chodnik, a następnie utopiony w pobliskim jeziorze.
 
+### 1940
+
+W wyniku wycieńczenia i choroby serca zmarł w KL Dachau hrabia Edward Krasiński (zdjęcie) działacz społeczny, pamiętnikarz, zarządca Biblioteki Ordynacji Krasińskich w Warszawie.
+Był synem hrabiego Józefa Krasińskiego. Przed pierwszą wojną światową pracował w Muzeum Narodowym Polskim w Rapperswilu. Zasłynął również jako posiadacz największej w Polsce kolekcji broni z epoki napoleońskiej. Działał w Stronnictwie Polityki Realnej. Dał się również poznać jako literat, wydając między innymi " Gawędy o przedwojennej Warszawie", w których udało mu się przedstawić mało znane fakty z życia kulturalnego i towarzyskiego przedwojennej stolicy.
+Do KL Dachau trafił w wyniku aresztowania przez Gestapo w kwietniu 1940 roku, kiedy stanął w obronie chłopca katowanego w jedym z folwarków. Był odznaczony m.in. Krzyżem Komandorskim (1931) i Krzyżem Komandorskim z Gwiazdą (1938) Orderu Odrodzenia Polski, Krzyżem Oficerskim francuskiej Legii Honorowej. Był Kawalerem Honoru i Dewocji Zakonu Maltańskiego. Miał 70 lat.
+
+<img src="./img/december/krasinski.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
