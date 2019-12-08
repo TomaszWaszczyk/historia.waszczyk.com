@@ -28,6 +28,8 @@ draft: false
 
 * Mądroboty - bajka
 
+* Na tropie angielskich słówek
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start

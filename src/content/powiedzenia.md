@@ -2389,6 +2389,8 @@ If you have debt, value is stolen from you as interest.
 If you have savings, value is stolen from you as inflation.
 If you have assets, value is stolen from you as taxation.
 
+Na skutek klęsk i nieszczęść, które na mnie spadły zostałam wiedźmą - Bułhakow
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

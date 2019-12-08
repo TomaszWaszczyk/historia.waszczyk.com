@@ -38,6 +38,8 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * Roztrzaskane lustro. Upadek cywilizacji zachodniej, Wojciech Roszkowski
 
+* Kody Wojny - Marian Zacharski
+
 ### Audycje, podcasty
 
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)
