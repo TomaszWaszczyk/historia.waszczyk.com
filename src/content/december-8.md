@@ -24,6 +24,16 @@ Do KL Dachau trafił w wyniku aresztowania przez Gestapo w kwietniu 1940 roku, k
 
 <img src="./img/december/krasinski.jpg"/><br><br>
 
+### 1919
+
+Obradująca w Paryżu Rada Ambasadorów ustaliła przebieg wschodniej granicy Polski według tzw Linii Curzona.
+Linia przebiegała od Grodna przez Jałówkę , Niemirów , Brześć , Dorohusk , na wschód od Hrubieszowa, dalej na
+Kryłów , skąd na zachód od Rawy Ruskiej i na wschód od Przemyśla aż do Karpat.
+Co ciekawe, utożsamiany z jej powstaniem brytyjski minister spraw zagranicznych Curzon wcale nie jest jej autorem. Curzon tylko zaproponował ją w nocie z 11 lipca 1920 jako linię demarkacyjną pomiędzy wojskami polskimi i bolszewickimi.
+Pomysłodawcą tego projektu był brytyjski urzędnik polsko-żydowskiego pochodzenia Lewis Namier, który był doradcą ówczesnego premiera Davida Lloyda George'a.
+
+<img src="./img/december/curzona.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
