@@ -8,11 +8,17 @@ tags:
   - Historia
 ---
 
-## 1992
+### 2017
+
+The demand for long-term data storage is reaching unprecedented levels. By 2023, it’s expected that over 100 zettabytes of data will be stored in the cloud. Operating at such scales requires a fundamental re-thinking of how we build large-scale storage systems, as well as the underlying storage technologies that underpin them.
+
+Project Silica is developing the first-ever storage technology designed and built from the media up, for the cloud. We are leveraging recent discoveries in ultrafast laser optics to store data in quartz glass by using femtosecond lasers, and building a completely new storage system designed from scratch around this technology. This opens up an incredibly exciting opportunity to challenge and completely re-think traditional storage system design, and to co-design the future hardware and software infrastructure for the cloud.
+
+### 1992
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz
 
-## 1939 - Polska jako "państwo sezonowe" - Saisonstadt
+### 1939 - Polska jako "państwo sezonowe" - Saisonstadt
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
 
