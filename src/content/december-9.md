@@ -27,7 +27,7 @@ Wkrótce też rozpoczęto tu wydobycie, ale z powodu małej wydajności złoża 
 
 ### 1946
 
-przed Wojskowym Sądem Rejonowym w Łodzi rozpoczął się trwający osiem dni proces kapitana Konspiracyjnego Wojska Polskiego Stanisława Sojczyńskiego (zdjęcie) i jego ośmu podkomendnych. Przewodniczącym składu sędziowskiego był pułkownik Bronisław Ochnio, zaś oskarżycielami prokuratorzy; major Czesław Łapiński i major Kazimierz Graff.
+Przed Wojskowym Sądem Rejonowym w Łodzi rozpoczął się trwający osiem dni proces kapitana Konspiracyjnego Wojska Polskiego Stanisława Sojczyńskiego (zdjęcie) i jego ośmu podkomendnych. Przewodniczącym składu sędziowskiego był pułkownik Bronisław Ochnio, zaś oskarżycielami prokuratorzy; major Czesław Łapiński i major Kazimierz Graff.
 Oskarżonym postawiono zarzut prowadzenia działalności konspiracyjnej. Sojczyńskiego skazano również za wydanie rozkazu zabicia Jakuba Cukiermana- kierownika sekcji śledczej Powiatowego Urzędu Bezpieczeństwa Publicznego w Radomsku.
 17 grudnia 1946 roku wszystkich skazano na kary śmierci. Wyrok na kapitanie Sojczyńskim i pięciu jego podwładnych wykonano 19 lutego 1947 roku, trzy dni przed ogłoszeniem amnestii.
 
@@ -51,13 +51,13 @@ Miał 20 lat.
 
 ### 1943
 
-członek więźniarskiej organizacji ruchu oporu w KL Auschwitz Stanisław Kłodziński wysłał gryps do Teresy Lasockiej działaczki PWOK w Krakowie. Oto fragment wspomnianego grypsu: "Złagodzenie kursu, zakres rozstrzeliwań itd. są wskutek nacisku zagranicy. Najwięksi nasi mordercy" Grabner, Boger, Woźnica, Palitzsch są pozwalniani ze swych stanowisk - pousuwani i poprzenoszeni. Robi się im dochodzenia za kradzieże lagrowe z Kanady. W nocy z 7 na 8 podpalili barak przy wydziale politycznym, a którym były zdeponowane dowody ich kradziezy. Materiał ten spalili. Zrobił to Lachmann. Chodzi im o zatuszowanie dowodów winy wobec Berlina. Opublikować. Nowy komendant lagru wprowadził całkowite odprężenie. Politische Abteilung zjechało ze swego kierowniczego stanowiska w obozie do podrzędnej roli (...).
+Członek więźniarskiej organizacji ruchu oporu w KL Auschwitz Stanisław Kłodziński wysłał gryps do Teresy Lasockiej działaczki PWOK w Krakowie. Oto fragment wspomnianego grypsu: "Złagodzenie kursu, zakres rozstrzeliwań itd. są wskutek nacisku zagranicy. Najwięksi nasi mordercy" Grabner, Boger, Woźnica, Palitzsch są pozwalniani ze swych stanowisk - pousuwani i poprzenoszeni. Robi się im dochodzenia za kradzieże lagrowe z Kanady. W nocy z 7 na 8 podpalili barak przy wydziale politycznym, a którym były zdeponowane dowody ich kradziezy. Materiał ten spalili. Zrobił to Lachmann. Chodzi im o zatuszowanie dowodów winy wobec Berlina. Opublikować. Nowy komendant lagru wprowadził całkowite odprężenie. Politische Abteilung zjechało ze swego kierowniczego stanowiska w obozie do podrzędnej roli (...).
 
 <img src="./img/december/klodzinski.jpg"/><br>
 
 ### 1939
 
-we Lwowie funkcjonariusze Ludowego Komisariatu Spraw Wewnętrznych czyli NKWD aresztowali około 2 tysięcy zarejestrowanych oficerów Wojska Polskiego. Pojmanych osadzono wkrótce w obozie w Brygidkach. Tego samego dnia na rozkaz szefa NKWD Ławrientija Berii przeprowadzony został spis ludności polskiej zamieszkujących tereny ZSRR.
+We Lwowie funkcjonariusze Ludowego Komisariatu Spraw Wewnętrznych czyli NKWD aresztowali około 2 tysięcy zarejestrowanych oficerów Wojska Polskiego. Pojmanych osadzono wkrótce w obozie w Brygidkach. Tego samego dnia na rozkaz szefa NKWD Ławrientija Berii przeprowadzony został spis ludności polskiej zamieszkujących tereny ZSRR.
 
 ### 1922
 
