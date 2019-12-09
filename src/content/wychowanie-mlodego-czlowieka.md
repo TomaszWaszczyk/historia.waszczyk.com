@@ -30,6 +30,8 @@ draft: false
 
 * Na tropie angielskich słówek
 
+* Tajemniczy Tunel. Ucieczka Leonarda, Olaf Fritsche (~10+)
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
