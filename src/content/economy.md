@@ -26,6 +26,8 @@ https://pl.wikipedia.org/wiki/Efekt_Cantillona
 
 https://pl.wikiquote.org/wiki/Jacek_Sierpi%C5%84ski
 
+https://pl.wikipedia.org/wiki/Teoria_przewagi_komparatywnej
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/economy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
