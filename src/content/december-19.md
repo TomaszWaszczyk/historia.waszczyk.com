@@ -6,6 +6,7 @@ author: Tomasz Waszczyk
 date: 2018-12-19T10:00:00.000Z
 tags:
   - Sowieci
+draft: true
 ---
 
 ### 
