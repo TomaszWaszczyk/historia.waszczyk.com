@@ -10,7 +10,7 @@ draft: false
 
 ### 2050
 
-https://en.wikipedia.org/wiki/Post-scarcity_economy - Fully Automated Luxury Communism
+~~ https://en.wikipedia.org/wiki/Post-scarcity_economy ~~ Fully Automated Luxury Communism
 
 ### 2020+
 
