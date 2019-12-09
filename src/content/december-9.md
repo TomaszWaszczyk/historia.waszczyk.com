@@ -5,7 +5,7 @@ image: img/december/ropa.jpg
 author: Tomasz Waszczyk
 date: 2018-12-09T10:00:00.000Z
 tags:
-  - Sowieci
+  - Jaruzelski
 ---
 
 ### 1981
