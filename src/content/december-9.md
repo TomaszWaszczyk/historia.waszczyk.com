@@ -1,12 +1,21 @@
 ---
 layout: post
 title: 9 grudnia
-image: img/december/kozakiewicz.png
+image: img/december/ropa.jpg
 author: Tomasz Waszczyk
 date: 2018-12-09T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 1980
+
+We wsi Krzywopłoty koło Karlina w województwie zachodniopomorskim podczas prowadzonych na głębokości 2800 metrów prac wiertniczych na stanowisku Daszewo -1 doszło do erupcji ropy naftowej, która następnie zapaliła się.
+Bezpośrednią przyczyną erupcji była nieszczelność prewentera - głowicy zabezpieczającej. Wybuch spowodowała iskra z silnika pompy w zetknięciu z ulatniającym się metanem.
+Ciśnienie tryskającej ropy wynosiło 560 atmosfer, a łuna ognia widoczna była z odległości kilkunastu kilometrów.
+W gaszeniu pożaru, oprócz polskich specjalistów udział wzięli również Węgrzy i Rosjanie.
+Pożar ugaszono po 35 dniach.
+Wkrótce też rozpoczęto tu wydobycie, ale z powodu małej wydajności złoża w połowie 1983 zaprzestano wydobycia ropy.
 
 ### 1942
 
