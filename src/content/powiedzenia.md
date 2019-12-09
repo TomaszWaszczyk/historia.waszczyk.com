@@ -8,7 +8,7 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
-# Stalin
+### Stalin
 
 >Wolności osobiste nie istnieją, a prawa obywatelskei są zagwarantowane tylko dla tych którzy posiadają kapitał. Wszyscy inni są uznawani jedynie za surowy ludzki materiał. Wszystkie prawa są zarezerwowane dla wykorzystującej mniejszości a wykorzystywanej większości się ich odmawia. Sztandar burżuazyjnej demokratycznej wolności wylądował na śmietniku. To my prawdziwi przedstawiciele prawdziwie demokratycznych partii ludowych podnieśliśmy ten sztandar i poniesiemy go dalej. Jeśli chcemy aby większość ludzkości poszła z nami, musimy ten sztandar nieść wysoko. 
 
@@ -2390,6 +2390,8 @@ If you have savings, value is stolen from you as inflation.
 If you have assets, value is stolen from you as taxation.
 
 Na skutek klęsk i nieszczęść, które na mnie spadły zostałam wiedźmą - Bułhakow
+
+My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children. Hosea 4:6
 
 ---
 

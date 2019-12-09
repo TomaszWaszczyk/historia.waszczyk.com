@@ -25,6 +25,10 @@ Książka, która czekała na polskie wydanie prawie 60 lat (pierwsze wydanie Hu
 
 Ludzkie działanie miało 4 wydania amerykańskie i zostało przetłumaczone na kilkanaście języków, w tym chiński, japoński, rosyjski i czeski. Mamy je wreszcie po polsku. Ludwig von Mises był najwybitniejszym obrońcą kapitalizmu i krytykiem socjalizmu w XX wieku, najważniejszym przedstawicielem austriackiej szkoły ekonomii, nauczycielem Hayeka, Rothbarda oraz wielu innych ekonomistów i naukowców. Przez całe dorosłe życie pisał i wykładał w różnych krajach. Jest autorem kilkudziesięciu książek i ponad 250 artykułów. Po polsku ukazały się dotychczas: Interwencjonizm, Mentalność antykapitalistyczna, Liberalizm w tradycji klasycznej, Planowany chaos, Biurokracja, Ekonomia i polityka, Wspomnienia, Teoria a historia, Socjalizm, Teoria pieniądza i kredytu, Kalkulacja ekonomiczna w socjalizmie. Mimo to w naszym kraju jest wciąż prawie nieznany, choć nawet jego adwersarz Oskar Lange pisał, że Misesowi należy się pomnik. Mamy nadzieję, że ukazanie się Ludzkiego działania przerwie milczenie wokół dorobku Misesa. Ludzkie działanie to lektura obowiązkowa nie tylko dla wykładowców uczelni ekonomicznych i ich studentów, lecz także wszystkich, którzy chcą zrozumieć, czym jest na prawdę ekonomia. Uroczysta prezentacja książki odbyła się podczas konferencji "Mises obrońca cywlizacji i ekonomii" w Warszawie, 27 października 2007 r.
 
+### 1957
+
+https://en.wikipedia.org/wiki/Atlas_Shrugged
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

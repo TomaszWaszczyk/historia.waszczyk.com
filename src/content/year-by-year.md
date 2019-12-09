@@ -138,6 +138,10 @@ https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu
 
 https://pl.wikipedia.org/wiki/Agraryzm
 
+### 1847
+
+https://en.wikipedia.org/wiki/Labour_power
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
@@ -165,6 +169,10 @@ https://pl.wikipedia.org/wiki/Pa%C5%84szczyzna_w_Polsce
 ### 1789–1796 - Francja
 
 https://en.wikipedia.org/wiki/Hyperinflation
+
+### 1776
+
+Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empire - https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
 
 ### 1668
 
