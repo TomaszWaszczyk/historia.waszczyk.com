@@ -82,6 +82,10 @@ draft: false
 
 * Bajki Ezopa
 
+* Ja Ołówek
+
+* Ekonomia w jednej lekcji Hazlitta
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
