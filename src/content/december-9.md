@@ -8,6 +8,14 @@ tags:
   - Jaruzelski
 ---
 
+### 2019
+
+Czyli jeśli rodzina miała 4000 zł na rękę miesięcznie i dostali 2x500+ czyli tysiąc złotych (25%) to i tak kupią mniej niż rok wcześniej. Witajcie w nowym świecie.
+
+Na pocieszenie dodam ze torby od Michael Kors i buty od Gucci nie zdrożały wiec tego mogą więcej kupić...
+
+<img src="./img/december/inflacja.jpg"/><br>
+
 ### 1981
 
 8 na 9 grudnia w Warszawie miało miejsce spotkanie generała Wojciecha Jaruzelskiego z radzieckim marszałkiem Wiktorem Kulikowem. Dotyczyło ono wprowadzenia w Polsce stanu wojennego. Jaruzelski poinformował o swoich zamiarach, nie podając jednak dokładnej daty ich realizacji. Dowiedzieć się tego możemy z notatki ze spotkania sporządzonej przez audiutanta Kulikowa generała Wiktora Anoszkina, która w całości została opublikowana w biuletynie IPN numer 12/107 z 2009 roku.
