@@ -39,6 +39,12 @@ Uważamy, że nierespektowanie wolności obywatelskich może doprowadzić do sto
 Uznanie tych wolności, potwierdzone przez konferencję w Helsinkach, nabiera dziś wagi międzynarodowej, gdyż tam, gdzie nie ma wolności, nie ma pokoju ani bezpieczeństwa."
 Wśród sygnatariuszy listu byli między innymi Andrzej Drawicz, Zbigniew Herbert, Stefan Kisielewski, Leszek Kołakowski i Jan Józef Lipski.
 
+### 1909
+
+W Dorpacie został podpisany kartel wieczysty pomiędzy Polonią i Arkonią. W tym roku mija 110 lat, odkąd więzy naszego braterstwa przetrwały wszelkie burze dziejowe i niedogodności. Teraz, w wolnej Polsce, kolejne pokolenia Polonusów i Arkonów wzrastają w duchu przyjaźni i bezinteresownej pomocy na każdym krańcu świata!
+
+Convent Polonia et Arconia, vivant, crescant, floreant in aeturnuum!
+
 ### 1867
 
 W Zułowie koło Wilna urodził się Józef Piłsudski. Najwybitniejszy polski polityk w historii dwudziestego wieku, marszałek Polski,Naczelny Wódz i minister spraw wojskowych.
