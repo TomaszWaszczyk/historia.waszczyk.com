@@ -80,6 +80,8 @@ draft: false
 
 * Podniebna Poczta Kiki
 
+* Bajki Ezopa
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
