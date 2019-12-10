@@ -2397,6 +2397,8 @@ https://en.wikipedia.org/wiki/Cogito,_ergo_sum
 
 The Less You Need, the More You Have.
 
+"Nie jest miarą zdrowia być dobrze przystosowanym do głęboko chorego społeczeństwa" Jiddu Krishnamurti
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
