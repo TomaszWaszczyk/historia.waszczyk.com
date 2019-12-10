@@ -84,7 +84,7 @@ draft: false
 
 * Ja Ołówek
 
-* Ekonomia w jednej lekcji Hazlitta
+* Ekonomia w jednej lekcji, Henry Hazlitt
 
 ---
 
