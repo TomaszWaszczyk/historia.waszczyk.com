@@ -2395,6 +2395,8 @@ My people are destroyed for lack of knowledge. Because you have rejected knowled
 
 https://en.wikipedia.org/wiki/Cogito,_ergo_sum
 
+The Less You Need, the More You Have.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
