@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 11 grudnia
-image: img/december/kozakiewicz.png
+image: img/december/dzieci.jpg
 author: Tomasz Waszczyk
 date: 2018-12-11T10:00:00.000Z
 tags:
