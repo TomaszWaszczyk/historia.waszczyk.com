@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 1994
+
+> Żołnierz polski walczy o wolność wszystkich narodów, ale umiera tylko dla Polski
+
+generał broni Stanisław Maczek
+
+1994 roku w Edynburgu zmarł Stanisław Maczek - generał broni Wojska Polskiego, honorowy obywatel Holandii, Kawaler Orderu Orła Białego; w latach 1938-39 dowódca 10 Brygady Kawalerii Zmotoryzowanej; organizator i dowódca: 10 Brygady Kawalerii Pancernej (1940), 1 Dywizji Pancernej (1942-45); dowódca 1 Korpusu Polskiego w Szkocji; autor książki ,,Od podwody do czołga''.
+
+<img src="./img/december/maczek.jpg"/><br>
+
 ### 1981
 
 Władze PRL podjęły decyzję o wyznaczeniu tak zwanej godziny "G". Tym samym rozpoczęło się przemieszczanie oddziałów wojska.
