@@ -23,6 +23,10 @@ Polskie Państwo Podziemne, organizowane od pierwszych dni niemieckiej okupacji,
 
 https://en.wikipedia.org/wiki/Ahnenerbe
 
+### 1916
+
+https://pl.wikipedia.org/wiki/Bitwa_nad_Somm%C4%85
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
