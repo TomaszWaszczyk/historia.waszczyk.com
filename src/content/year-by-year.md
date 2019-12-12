@@ -30,7 +30,7 @@ Written by Rhythm@Twitter
 
 Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
 
-[MMT](./books/mmt.pdf)
+<a href="./books/mmt.pdf" target="_blank">MMT</a>
 
 ### 2015
 
