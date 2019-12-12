@@ -94,6 +94,10 @@ https://en.wikipedia.org/wiki/Hyperinflation
 
 https://en.wikipedia.org/wiki/Value-added_tax
 
+### 1953
+
+https://pl.wikipedia.org/wiki/Zniewolony_umys%C5%82
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
