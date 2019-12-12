@@ -2,6 +2,8 @@
 
 http://e-historie.pl
 
+Muzeum Historii Medycyny WUM
+
 https://codepen.io/anon/pen/KOyGgO
 
 https://www.britannica.com/topic/USA-PATRIOT-Act
