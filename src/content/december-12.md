@@ -5,7 +5,7 @@ image: img/december/w20.png
 author: Tomasz Waszczyk
 date: 2018-12-12T10:00:00.000Z
 tags:
-  - Sowieci
+  - WIG20
 draft: false
 ---
 
