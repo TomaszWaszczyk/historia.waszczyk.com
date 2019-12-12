@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-### 2019
+### 2019 - czas na.. wzrost??
 
 "Mijający rok jest trudnym okresem dla polskiej giełdy, a najpoważniejszym ciężarem dla indeksów GPW są spółki kontrolowane przez Skarb Państwa. Jak wynika z wyliczeń Bankier.pl, wartość tych największych spadła w ostatnim roku aż o 49 mld zł".
 
