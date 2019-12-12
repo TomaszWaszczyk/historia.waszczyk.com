@@ -6,11 +6,10 @@ author: Tomasz Waszczyk
 date: 2018-05-01T10:00:00.000Z
 tags:
   - Goebells
+draft: true
 ---
 
-### 1945
-
-https://pl.wikipedia.org/wiki/Magda_Goebbels
+### 
 
 ---
 

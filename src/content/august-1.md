@@ -93,3 +93,5 @@ Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem
 " Mój Führerze, moment jest niekorzystny. Uważam wszakże za szczęśliwe zrządzenie losu, że Polacy to czynią . Za 5-6 tygodni opuścimy te obszary. Wtedy jednak zniszczona będzie Warszawa, stolica i serce tego 16-17 milionowego narodu, który od siedmiuset lat blokuje wschód, a od bitwy pod Grunwaldem stale zagradza nam drogę w tym kierunku. Warszawa zostanie zniszczona wraz z jej inteligencją . W konsekwencji problem polski przestanie być wielkim problemem dla naszych dzieci, dla dalszych potomków, a nawet już dla nas."
 
 ---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
