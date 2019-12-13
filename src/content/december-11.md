@@ -9,6 +9,13 @@ tags:
 draft: false
 ---
 
+### 2019
+
+<video width="640" height="480" controls>
+  <source src="./december/rosna-ceny.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1994
 
 > Żołnierz polski walczy o wolność wszystkich narodów, ale umiera tylko dla Polski

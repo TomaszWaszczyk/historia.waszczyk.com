@@ -57,7 +57,7 @@ Na zdjęciu konferencja oficerów Gestapo Armii Czerwonej w Urzędzie
 
 W Kodymie urodził się Stanisław Skalski, as myśliwski okresu II wojny światowej o najwyższej liczbie zestrzeleń wśród polskich pilotów.
 
- <video width="640" height="480" controls>
+<video width="640" height="480" controls>
   <source src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/content/img/november/PolishStudio(2014-12-06)StanislawSkalski.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
