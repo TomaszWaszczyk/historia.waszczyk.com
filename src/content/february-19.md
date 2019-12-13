@@ -5,8 +5,9 @@ image: img/february/Galician_slaughter_in_1846.PNG
 author: Tomasz Waszczyk
 date: 2018-02-19T10:00:00.000Z
 tags:
-  - Niewolnictwo 
+  - Niewolnictwo
 draft: false
+---
 
 ### 1846
 
