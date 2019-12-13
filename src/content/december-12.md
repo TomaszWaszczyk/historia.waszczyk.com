@@ -17,6 +17,13 @@ draft: false
 
 "Takie porównanie wypada druzgocąco dla firm kontrolowanych przez polski rząd. Przez ostatnie dwanaście miesięcy stopa zwrotu z notowanych w WIG20 spółek Skarbu Państwa wyniosła -18,2 proc., tymczasem pozostałe 9 spółek wchodzących w skład indeksu urosło zaś o 12,7 proc. To zatem Skarb Państwa w 2019 roku zatapia WIG20 i to "zasługą" kontrolowanych przez rząd spółek są ostatnie minima".
 
+### 1952
+
+W Warszawie odbył się zorganizowany przez Ministerstwo Bezpieczeństwa Publicznego zjazd księży patriotów- części duchowieństwa popierającej działania władz komunistycznych.
+1500 obradujących księży potępiło Episkopat Polski oraz kardynała Stefana Wyszyńskiego, który w odpowiedzi zagroził atakującym go księżom ekskomuniką.
+
+<img src="./img/december/episkopat.jpg"/><br>
+
 ### 1586
 
 W Grodnie zmarł zasiadający przez 10 lat na polskim tronie król Stefan Batory (grafika).
