@@ -589,7 +589,7 @@ rendezvous point
 
 [GB] out of the blue = suddenly
 
-[USA] swing and miss - po podaniu złej odpowiedzi, chciałem dobrze, ale nie zgadłem
+[USA] swing and a miss - po podaniu złej odpowiedzi, chciałem dobrze, ale nie zgadłem, failed attempt at something
 
 to preach to the choir - If you say that someone is preaching to the choir, you mean that they are presenting an argument or opinion to people who already agree with it, coś podobnego do "Mnie tego nie musisz tłumaczyć, mówić"
 
