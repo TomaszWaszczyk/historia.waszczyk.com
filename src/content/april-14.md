@@ -1,16 +1,18 @@
 ---
 layout: post
-title: 1 kwietnia
+title: 14 kwietnia
 image: img/april/Executive_Order_6102.jpg
 author: Tomasz Waszczyk
-date: 2018-04-01T10:00:00.000Z
+date: 2018-04-14T10:00:00.000Z
 tags:
   - Historia
-draft: true
+draft: false
 ---
 
-### 1949
+### 1939
+
+https://pl.wikipedia.org/wiki/Grona_gniewu
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-14.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
