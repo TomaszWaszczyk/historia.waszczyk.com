@@ -40,9 +40,17 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * Kody Wojny - Marian Zacharski
 
+* KWESTIA WŁOŚCIAŃSKA W POLSCE półskórek 1849 Lipsk
+
 ### Audycje, podcasty
 
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)
+
+:two: Szeptana historia Polski. Jak "handlowano" ludźmi w dawnej Polsce(TokFM) @ Dr hab. Kacper Pobłocki
+
+### Historycy
+
+* https://pl.wikipedia.org/wiki/Karol_Modzelewski mówił o "niewolnictwie państwowym"
 
 ---
 

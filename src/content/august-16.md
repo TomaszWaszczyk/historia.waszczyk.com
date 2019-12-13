@@ -5,12 +5,16 @@ image: img/august/powstanie_slaskie.jpg
 author: Tomasz Waszczyk
 date: 2018-08-16T10:00:00.000Z
 tags:
-  - Historia
+  - Wielki Strajk Chłopski
 ---
 
 ## 1943
 
 <https://pl.wikipedia.org/wiki/Powstanie_w_getcie_bia%C5%82ostockim>
+
+### 1937
+
+https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
 
 ## 1919
 
@@ -22,3 +26,7 @@ W czasie insurekcji kościuszkowskiej do obiegu weszły pierwsze polskie banknot
 Pomysł ten będący nowym sposobem finansowania armii zrodził się w głowie samego Tadeusza Kościuszki, który inspirowany doświadczeniami amerykańskimi postanowił rozwiązanie to przenieść na polski grunt.
 Nazwa "banknot" nie była wtedy jednak nikomu znana, używano określenia "bilet skarbowy". Ciekawostką jest fakt, że już wtedy w Polsce istniały kantory, w których można było dokonywać transakcji w formie ,jak to dziś mówimy "rozmieniania na drobne".
 Wartość wyemitowanych wówczas papierowych pieniędzy wyniosła prawie 8 milionów ówczesnych złotych.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>

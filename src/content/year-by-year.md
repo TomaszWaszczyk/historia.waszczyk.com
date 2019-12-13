@@ -108,6 +108,10 @@ Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przed
 
 Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/books/ajdukiewicz-propedeutyka_filozofii.pdf
 
+### 1937
+
+https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
+
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
@@ -147,6 +151,10 @@ https://pl.wikipedia.org/wiki/Agraryzm
 ### 1847
 
 https://en.wikipedia.org/wiki/Labour_power
+
+### 1846
+
+https://pl.wikipedia.org/wiki/Rze%C5%BA_galicyjska => https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
 
 ### 1841
 

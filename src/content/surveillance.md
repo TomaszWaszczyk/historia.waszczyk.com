@@ -38,6 +38,22 @@ https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 
 https://en.wikipedia.org/wiki/Joseph_Rochefort
 
+### Niewolnictwo
+
+#### Książki i materiały
+
+Szeptana historia Polski. Jak "handlowano" ludźmi w dawnej Polsce(TokFM) @ Dr hab. Kacper Pobłocki
+
+Służące do wszystkiego - Joanna Kuciel-Frydryszak
+
+#### Historycy
+
+https://pl.wikipedia.org/wiki/Karol_Modzelewski pisał o "niewolnictwie państwowym"
+
+#### Fakty
+
+https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/surveillance.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
