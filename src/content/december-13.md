@@ -77,6 +77,18 @@ Tylu wspaniałych ludzi tam zginęło. Tylu wprost świętych zakończyło tam s
 
 <img src="./img/december/ingacy-jez.jpg"/><br>
 
+### 1936
+
+1936 roku pilot doświadczalny Jerzy Widawski odbył pierwszy lot na polskim bombowcu PZL. 37 Łoś. Maszyna konstrukcji inżynierów Jerzego Dąbrowskiego, Piotra Kubickiego i Franciszka Misztala była dolnopłatowcem w całości zbudowanym z metalu i wyposażonym w chowane podwozie. Mimo pewnych zastrzeżeń samolot wszedł do produkcji. Do 1 września 1939 roku wytwórnie w Mielcu i Warszawie wyprodukowały 120 sztuk Łosia, z których 70 znalazło się na wyposażeniu lotnictwa wojskowego. Warto w tym miejscu dodać, że część samolotów, które udało się ocalić po niemieckim bombardowaniu Okęcia została przeznaczona do służby w X Dywizjonie, który 10 września 1939 roku w okolicach Radymna skutecznie zbombardował kolumnę niemieckich wozów pancernych XXII Korpusu Armijnego.
+
+<img src="./img/december/pzl.jpg"/><br>
+
+### 1923
+
+Polska uznała istniejący od 30 grudnia 1922 roku Związek Socjalistycznych Republik Radzieckich. Jedną z przyczyn tego faktu była chęć ocieplenia stosunków polsko-radzieckich przez rząd Władysława Grabskiego, co z kolei wynikało z pogarszającej się sytuacji gospodarczo-ekonomicznej Polski. Uznając ZSRR Polacy liczyli na otwarcie rynku wschodniego na polskie produkty i towary.
+Uznanie ZSRR nie było jednak aktem podjętym bezwarunkowo. Polacy tym samym domagali się realizacji przez Rosjan postanowień Trakttu Ryskiego, a uściślając, zwrotu majątku zabranego przez bolszewików.
+Rosjanie nigdy się z tego nie wywiązali.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-13.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
