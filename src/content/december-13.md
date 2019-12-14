@@ -89,6 +89,13 @@ Polska uznała istniejący od 30 grudnia 1922 roku Związek Socjalistycznych Rep
 Uznanie ZSRR nie było jednak aktem podjętym bezwarunkowo. Polacy tym samym domagali się realizacji przez Rosjan postanowień Trakttu Ryskiego, a uściślając, zwrotu majątku zabranego przez bolszewików.
 Rosjanie nigdy się z tego nie wywiązali.
 
+### 1959
+
+1859 roku w Lisowcach urodził się Aleksander Wasiutyński - profesor Politechniki Warszawskiej i Lwowskiej, współzałożyciel Akademii Nauk Technicznych, autor licznych prac z dziedziny budowy nawierzchni kolejowych, przepustowości i kosztów budowy linii kolejowych. Pionier w zakresie badań nad odkształceniami toru kolejowego. Był pierwszym, któremu udało się dokonać dokładnych pomiarów odkształceń toru kolejowego. Opracował metodę optyczną dzięki której otrzymał fotograficzny zapis odkształceń. Wyniki swoich badań przedstawił w dziele zatytułowanym "Obserwacje nad odkształceniami sprężystymi toru kolejowego" w 1899 roku. Za badania nad odkształceniami sprężystymi toru kolejowego przyznano mu w Instytucie Inżynierów Komunikacji tytuł adiunkta, równocześnie został nagrodzony nagrodą Petersburskiego Towarzystwa Technicznego, odznaką zaszczytną Stowarzyszenia Inżynierów Komunikacji oraz Złotym Medalem na Powszechnej Wystawie Światowej w Paryżu. W 1930 roku zaprojektował kolejową linię średnicową w Warszawie, a także otrzymał Złoty Krzyż Zasługi za zasługi na polu naukowo-pedagogicznem w zakresie kolejnictwa.
+Zmarł 17 października 1944 roku w Wodzisławiu.
+
+<img src="./img/december/wasiutynski.jpg"/><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-13.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
