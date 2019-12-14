@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 1981
+
+W Stoczni Gdańskiej rozpoczął się strajk okupacyjny. Jednak już w nocy do zakładu wkroczyły uzbrojone oddziały ZOMO, które wyprowadziły strajkujących. Pozostała część załogi zdecydowała się na kontynuowanie protestu następnego dnia. Do akcji ściągnięto 814 milicjantów, wśród których byli również uczniowie szkoły milicyjnej w Szczytnie, a także jeden pułk czołgów. Tego samego dnia gdańska bezpieka wezwała do swojej siedziby przedstawicieli tamtejszego duchowieństwa, księży Stanisława Bogdanowicza, Zbigniewa Bryka i Stanisława Dułaka celem podpisania "lojalek" zapewniających, iż nie podejmą żadnych działań sprzecznych z dekretem o stanie wojennym.
+
+<img src="./img/december/stocznia.jpg"/><br>
+
 ### 1976
 
 1976 roku oddana została do użytku Huta Katowice. Budowa tego metalurgicznego molocha trwała ponad cztery lata. Zakład , o budowie którego decyzję podjęto na VI Zjeździe Polskiej Zjednoczonej Partii Robotniczej usytowany został na powierzchni ponad 1000 hektarów w Zagłębiu Dąbrowskim, pomiędzy Gołonogiem, Ząbkowicami Będzińskimi, Łośniem i Strzemieszycami. Na terenie budowy, półtora razu większym od powierzchni huty pracowało ponad 50 tysięcy robotników.
@@ -17,6 +23,22 @@ Rozpalenie wielkiego pieca nr 1 nastąpiło 2 grudnia 1976 roku, a dzień późn
 Huta Katowice jest obecnie częścią koncernu ArcelorMittal Poland.
 
 <img src="./img/december/huta-katowice.jpg"/><br>
+
+### 1970
+
+Robotnicy gdańskiej Stoczni imienia Lenina rozpoczęli strajk, który miał być protestem przeciwko ogłoszonym przez rząd podwyżkom cen żywności i podniesieniu norm wydajności pracy.
+Robotnicy skandowali "Chodźcie z nami",
+śpiewali hymn narodowy i różne pieśni, między
+innymi: "Rotę", "Boże coś Polskę" ,
+"Międzynarodówkę" i "Marsz Gwardii Ludowej".
+Pod siedzibą KW robotnicy domagali się rozmowy z I sekretarzem KW PZPR Alojzym Karkoszką, który w tym czasie uczestniczył w VI plenum KC PZPR w Warszawie.
+Wkrótce też do stoczniowców dołączyli studenci Politechniki Gdańskiej. Zaczęto skandować hasła: "Chodzcie z nami","Prasa kłamie","Oszukują was","Dosyć tych kłamstw". Około godziny 15 członek KC PZPR Zenon Kliszko po telefonicznej konultacji z Ministerstwem Spraw Wewnętrzych wydaje rozkaz wysłania przeciw protestującym trzech kompanii ZOMO i dwóch plutonów kompanii szkolnej. Doszło do walk w wyniku których milicja aresztowała 329 osób. Trzy dni pózniej ta sama milicja strzelała do bezbronnych ludzi.
+
+### 1945
+
+Strony polska i ukraińska podpisały protokół uzupełniający do porozumienia z 9 września 1944 roku. Według ustaleń zawartych w tym dokumencie strona polska zobowiązała się do zakończenia w terminie do 15 czerwca 1946 roku rejestracji ludności ukraińskiej zamieszkałej na terenie Polski przeznaczonej do przesiedlenia za wschodnią granicę.
+
+<img src="./img/december/cfr.jpg"/><br>
 
 ### 1942
 

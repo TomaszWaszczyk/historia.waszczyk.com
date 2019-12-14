@@ -595,6 +595,8 @@ to preach to the choir - If you say that someone is preaching to the choir, you 
 
 https://www.proz.com/search/ - Mateusz W. (relayr.) polecił mi gdzie szukać tłumaczeń różnych trudnych zwrotów
 
+signum temporis [wym. s-ignum temporis] «znak, znamię czasu»
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
