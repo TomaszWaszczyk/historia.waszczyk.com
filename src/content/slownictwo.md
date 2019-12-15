@@ -597,6 +597,10 @@ https://www.proz.com/search/ - Mateusz W. (relayr.) polecił mi gdzie szukać t�
 
 signum temporis [wym. s-ignum temporis] «znak, znamię czasu»
 
+prymarny «pierwotny, podstawowy lub najważniejszy»
+
+zasada prymarna
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
