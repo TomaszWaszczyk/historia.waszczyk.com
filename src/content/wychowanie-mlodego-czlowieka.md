@@ -32,6 +32,8 @@ draft: false
 
 * Tajemniczy Tunel. Ucieczka Leonarda, Olaf Fritsche (~10+)
 
+* 88/89, Michał Rzecznik, Przemek Surma
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start

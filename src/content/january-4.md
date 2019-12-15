@@ -9,7 +9,9 @@ tags:
 draft: true  
 ---
 
-### 
+### 1944
+
+https://pl.wikipedia.org/wiki/Akcja_%E2%80%9EBurza%E2%80%9D
 
 ---
 

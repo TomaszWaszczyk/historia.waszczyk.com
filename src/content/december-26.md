@@ -8,7 +8,13 @@ tags:
   - Sowieci
 ---
 
-### 
+### 1898
+
+Maria i Piotr Curie oznajmili światu odkrycie radu. 🎉
+
+Mimo że naukowcy przypłacili zdrowiem swoje eksperymenty, ich praca nie pozostaje bez wpływu na współczesne oblicze medycyny. Dziś rad nie jest stosowany w radioterapii, ale działania badaczy umożliwiły rozwój tej specjalizacji, a przez to poprawę rokowania u pacjentów chorujących na promieniowrażliwe nowotwory.
+
+💁‍♂️ Nie wszyscy wiedzą, że po otrzymaniu drugiej nagrody Nobla (właśnie za odkrycie nowych pierwiastków) Maria Skłodowska-Curie zainicjowała powstanie kolebki Noblistów - Instytut Radowy. W placówce działało czterech noblistów, w tym... córka i zięć Polki.
 
 ---
 

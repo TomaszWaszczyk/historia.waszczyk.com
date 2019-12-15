@@ -9,7 +9,9 @@ tags:
 draft: true
 ---
 
-### 
+### 1867
+
+https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Studnicki
 
 ---
 

@@ -138,6 +138,10 @@ Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdzierniko
 
 https://en.wikipedia.org/wiki/Gold_Standard_Act
 
+### 1884
+
+https://en.wikipedia.org/wiki/Berlin_Conference
+
 ### 1880
 
 https://pl.wikipedia.org/wiki/Faszyzm

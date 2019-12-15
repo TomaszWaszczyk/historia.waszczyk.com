@@ -42,6 +42,10 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * KWESTIA WŁOŚCIAŃSKA W POLSCE półskórek 1849 Lipsk
 
+* Wobec nadchodzącej drugiej wojny światowej, Studnicki Władysław
+
+* Militarium I, Andrzej Maksymilian Fredro
+
 ### Audycje, podcasty
 
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)
