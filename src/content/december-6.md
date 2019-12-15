@@ -32,6 +32,10 @@ Stałam w oknie i patrzyłam, co też teraz będzie z trzynastoma moich najbliż
 Na te łuny Niemcy wyczekiwali. Dwu z nich podeszło pod chatę Obucha. Jednocześnie zakreślili ramionami łuk i padli na śnieg. Huk targnął powietrzem, zadzwoniły szyby w naszym domu, z Obuchowej chałupy przez wyrwane okna posypały się drzazgi i straszny ludzki ryk uderzył w niebiosa. To było złudzenie, ale zdawało mi się, że ryk ten rozszczepia się na wycie Adama i Piotra, na wrzask obu ciotek, pisk dziewcząt skomlenie Tadzika i najmłodszego 7-miesięcznego syna Obuchów, któremu jeszcze nie zdążono nadać imienia na chrzcie. Po chwili ryk opadł, przeszedł w płacz i wołanie. Któryś z Niemców zbliżył się do chałupy i palący się wiecheć słomy przyłożył do strzechy. Ogień szybko uchwycił się poszycia, chciwymi klinami biegł w górę i na boki, aż cała strzecha przemieniła się w jeden wielki płomień.
 Buchnął kłąb złotych iskier i czarna chmura dymu zakotłowała się nad chałupą. Dach zawalił się do środka. Znowu ryk nieludzki dobiegł przez szyby. A z nim i śmiech, niemieckie okrzyki radości. Po chwili z łomotem wypadły drzwi gorejącej chałupy i z sieni wybiegło dziecko. Leciało na oślep przed siebie, rękoma rozgarniając powietrze, bo zapewne dym oczy mu pokąsał (...) Padły strzały. Janka podcięta pociskami, wyciągnęła się do tyłu i rozrzucajac ramiona, legła w śniegu. Zbliżyli się do niej jak hieny, pochylili się nad dziewczęcym trupem (...) Skusiły ich nowe buty dziewczyny. Ściągnęli je z trupa brutalnymi szarpnięciami, a potem taki jeden złapał ją za warkocz i ciągnął po bruzdach, by podnieść za kark jak wór śmieci i rzucić w płomienie. W płomieniach ciągle odzywały się jęki.
 
+---
+
+https://en.wikipedia.org/wiki/Peter_Handke
+
 ### 1941
 
 W Warszawie podpisano dokumenty scaleniowe dotyczące zjednoczenia organizacji konspiracyjnej Muszkieterzy z Związkiem Walki Zbrojnej.

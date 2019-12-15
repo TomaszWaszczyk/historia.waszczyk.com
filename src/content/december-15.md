@@ -44,6 +44,23 @@ Na zdjęciu członkowie zarządu Polskiego Banku Emisyjnego u gubernatora Hansa 
 
 <img src="./img/december/emissionbank.jpg"/><br>
 
+### 1862
+
+Po 11 latach budowy otwarto Kolej Warszawsko-Petersburską.
+Trasa kolei to: Petersburg – Gatczyna – Ługa –
+Psków – Dźwińsk – Wilno – Białystok – Łapy –
+Warszawa.
+Pierwszym inwestorem tego przedsięwzięcia był rząd rosyjski, a zastępcą kierownika budowy był polski inżynier Stanisław Kierbedź
+Budowę przerwano na czas wojny krymskiej. Po jej zakończeniu finansowanie budowy przejęło Główne Towarzystwo Rosyjskich Dróg Żelaznych. Jako, że kolej tę budowlali Rosjanie, to też i szerokość toru była dostosowana do standardów obowiązujących w Rosji.
+Pierwszy skład osobowy przejechał na trasie Warszawa -Peterburg 18 maja 1863 roku.
+W 1895 Kolej Warszawsko-Petersburska
+została wykupiona i upaństwowiona przez
+rząd carski, a w 1906 została połączona z
+Bałtyjsko-Pskowsko-Ryską żelazną drogą,
+tworząc Północno-Zachodnie Drogi Żelazne
+( Северо-Западные железные дороги, Siewiero- Zapadnyje żeleznyje dorogi).
+Grafika przedstawia most kolejowy przez Niemen w okolicach Kowna.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-15.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

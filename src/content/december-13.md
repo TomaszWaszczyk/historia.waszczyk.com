@@ -9,6 +9,18 @@ tags:
 draft: false
 ---
 
+### 2019
+
+Szwedzka prokuratura zwróciła się do Sądu Rejonowego w Goeteborgu z wnioskiem o wydanie polskim władzom byłego stalinowskiego sędziego Stefana Michnika. Sąd ma wkrótce podjąć decyzję w tej sprawie - potwierdziła w piątek PAP w szwedzkiej Prokuraturze Krajowej.
+
+Jak przekazała Ann-Sofie Adolfsson, wiceszefowa administracji wydziału ds. zwalczania przestępczości międzynarodowej Prokuratury Krajowej, wniosek został w czwartek wysłany do sądu w Goeteborgu. Nie ustalono jeszcze daty posiedzenia.
+
+Prowadząca sprawę prokurator Ulrikę Bentelius Egelrud w dokumencie złożonym w sądzie pisze, że osoba, której dotyczy Europejski Nakaz Aresztowania (ENA) nie została przesłuchana ani nie doręczono jej tego wniosku.
+
+Prokurator - co także jest zawarte we wniosku prokuratury - uważa jednocześnie, powołując się na przepisy prawne, że nie ma możliwości wydania Polsce Stefana Michnika. Zwraca ona uwagę na jego szwedzkie obywatelstwo oraz wystąpienie przedawnienia zarzucanych mu czynów, jakie mają być podstawą zastosowania ENA.
+
+We wniosku Bentelius Egelrud dodaje, że już 4 lutego br. sąd rejonowy w Goeteborgu orzekł, że Stefana Michnika nie należy przekazywać Polsce. Prokurator podkreśla, że niektóre przestępstwa, o które oskarżony jest Michnik, wymienione były także we wcześniejszym ENA, w którym określono 30 czynów. Zwraca uwagę, że w aktualnym ENA polskie władze wymieniają 93 przestępstwa, jakich miał się dopuścić Michnik w latach 1952-1953.
+
 ### 1981
 
 Wojskowa Rada Ocalenia Narodowego, na czele z gen. Wojciechem Jaruzelskim, wprowadziła w Polsce stan wojenny. Mając świadomość ogromnego poparcia społecznego dla „Solidarności” i związanego z tym zagrożenia dla swojej pozycji, komuniści postanowili użyć siły i rozprawić się z opozycją. Tego dnia złamano nadzieje milionów Polaków i na wiele lat odsunięto szansę na demokratyczne przemiany. Władza nie miała skrupułów, by strzelać do stawiających opór. Stan wojenny przyniósł tysiącom osób i ich rodzinom wielkie cierpienie – bestialskie pobicia i porwania, izolację w obozach internowania, uwięzienie, pozbawienie pracy, zaś dziesiątki niewinnych straciły życie. Symbolem zbrodni stanu wojennego stała się masakra w Kopalni „Wujek”.
