@@ -8,9 +8,14 @@ tags:
   - Historia
 ---
 
+### 1913
+
+https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Moczar
+
 ### 1901
 
 https://pl.wikipedia.org/wiki/Jakub_Berman
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-23.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
