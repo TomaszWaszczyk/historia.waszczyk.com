@@ -112,6 +112,10 @@ Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/Tomasz
 
 https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
 
+### 1932
+
+Wörgl was the site of the "Miracle of Wörgl" during the Great Depression. It was started on July 31, 1932, with the issuing of "Certified Compensation Bills", a form of local currency commonly known as Stamp Scrip, or Freigeld.
+
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
