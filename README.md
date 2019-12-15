@@ -4,6 +4,8 @@ http://e-historie.pl
 
 Muzeum Historii Medycyny WUM
 
+https://forumzydowpolskichonline.org/2019/10/10/te-slowa-noblistki-zapamietalem/
+
 http://www.aan.gov.pl - Archiwum Akt Nowych
 
 https://codepen.io/anon/pen/KOyGgO
