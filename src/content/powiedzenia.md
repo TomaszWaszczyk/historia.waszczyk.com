@@ -2401,6 +2401,8 @@ The Less You Need, the More You Have.
 
 „Żołnierz polski walczy o wolność wszystkich narodów, ale umiera tylko dla Polski” – generał broni Stanisław Maczek
 
+Die Arbeiter haben kein Vaterland.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
