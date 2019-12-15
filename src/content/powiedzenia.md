@@ -2401,7 +2401,7 @@ The Less You Need, the More You Have.
 
 „Żołnierz polski walczy o wolność wszystkich narodów, ale umiera tylko dla Polski” – generał broni Stanisław Maczek
 
-Die Arbeiter haben kein Vaterland. Man kann ihnen nicht nehmen, was sie nicht haben.
+Die Arbeiter haben kein Vaterland. Man kann ihnen nicht nehmen, was sie nicht haben. - Karl Marx
 
 ---
 
