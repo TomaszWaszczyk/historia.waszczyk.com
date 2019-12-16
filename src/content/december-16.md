@@ -21,6 +21,14 @@ WSZYSCY WINNI TEJ ZBRODNI SĄ DZIŚ NA WOLNOŚCI.
 
 <img src="./img/december/wujek.jpg"/><br>
 
+### 1952
+
+W więzieniu UB na warszawskim Mokotowie zamordowany został komandor porucznik Zbigniew Przybyszewski (zdjęcie) żeglarz, uczestnik wojny obronnej, dowódca 31 Dywizjonu Artylerii Nadbrzeżnej, szef służby artylerii Marynarki Wojennej.
+Aresztowany w roku 1950 w sprawie tak zwanego "spisku komandorów" czyli postępowania karnego wobec siedmiu oficerów Marynarki Wojennej, którym postawiono fałszywe zarzuty "próby obalenia władzy ludowej".
+Odznaczony Krzyżem Srebrnym Orderu Virtuti Militari, Orderem Krzyża Grunwaldu III klasy, Medalem za Udział w Wojnie Obronnej 1939, a w pośmiertnie, w roku 2011 Krzyżem Oficerskim Orderu Odrodzenia Polski. Miał 45 lat.
+
+<img src="./img/december/przybyszewski.jpg"/><br>
+
 ### 1941
 
 Fragment przemówienia Hansa Franka (zdjęcie), wygłoszonego 16 grudnia 1941 w Krakowie na posiedzeniu rządu Generalnego Gubernatorstwa, o planie masowej zagłady ludności żydowskiej:
