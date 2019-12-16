@@ -88,6 +88,10 @@ https://en.wikipedia.org/wiki/Bloom_filter
 
 https://en.wikipedia.org/wiki/Eco-capitalism
 
+---
+
+Paul Volcker was Chairman of the Federal Reserve under U.S. presidents Jimmy Carter and Ronald Reagan from August 1979 to August 1987. He is widely credited with having ended the high levels of inflation seen in the United States during the 1970s and early 1980s.
+
 ### 1958
 
 https://en.wikipedia.org/wiki/Meritocracy
