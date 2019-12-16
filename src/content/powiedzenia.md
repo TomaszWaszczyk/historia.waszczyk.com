@@ -2405,6 +2405,8 @@ Wdzięczność nie jest walutą w sprawach międzynarodowych. Świat nie ma sumi
 
 Die Arbeiter haben kein Vaterland. Man kann ihnen nicht nehmen, was sie nicht haben. - Karl Marx
 
+Honesty is a very expensive gift. Don’t expect it from cheap people.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
