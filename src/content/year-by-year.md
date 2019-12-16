@@ -50,6 +50,10 @@ Michael Casey, co-author of the 2018 book "The Truth Machine: The Blockchain and
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
+### 2009
+
+> The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China 
+
 ### 2008
 
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008
@@ -209,6 +213,8 @@ Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empi
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking
+
+Modern Commercial Credit System
 
 ### 1400
 
