@@ -2407,6 +2407,9 @@ Die Arbeiter haben kein Vaterland. Man kann ihnen nicht nehmen, was sie nicht ha
 
 Honesty is a very expensive gift. Don’t expect it from cheap people.
 
+Paul Volcker
+“The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.”
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
