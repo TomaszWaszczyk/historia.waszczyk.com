@@ -8,6 +8,12 @@ tags:
   - Sowieci
 ---
 
+### 2019
+
+Umiera Paul Volcker
+
+> The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
+
 ### 1953
 
 W Solecznikach koło Wilna urodził się Władysław Kozakiewicz (zdjęcie) -tyczkarz , ośmiokrotny mistrz Polski, dwukrotny mistrz Europy. 30 lipca 1980 roku na olimpiadzie w Moskwie zdobył złoty medal pokonując wysokość 5.78m. Zasłynął jako wykonawca słynnego gestu w stronę nieprzychylnej mu sowieckiej widowni.
