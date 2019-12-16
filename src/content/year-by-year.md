@@ -56,6 +56,8 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 > The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China 
 
+<img src="./img/january/bailout.png"/><br><br>
+
 ### 2008
 
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008
