@@ -32,6 +32,14 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 <a href="./books/mmt.pdf" target="_blank">MMT</a>
 
+---
+
+> The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
+
+Paul Volcker
+
+---
+
 ### 2015
 
 The growth of ConsenSys, like the growth of Ethereum itself, has been explosive. Today, the company has 1,000 employees, working in 28 countries, some from their homes or coffee shops, some in formal office setups in Brooklyn; San Francisco; London; Tel Aviv, Israel; Bucharest, Romania; and Sydney and Queensland, Australia. The company structure is inspired by Lubin's utopian ideals. Employees choose their own titles, and instead of a traditional hierarchy, there's a governance structure called a "holocracy," a ­decentralized system of management where power is "distributed" among self-organizing teams. Funds are doled out for individual projects by a "resource-allocation circle"—individuals who are chosen by their co-workers to serve based on their abilities.
@@ -43,6 +51,12 @@ Michael Casey, co-author of the 2018 book "The Truth Machine: The Blockchain and
 ### 2013
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
+
+### 2009
+
+> The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China 
+
+<img src="./img/january/bailout.png"/><br><br>
 
 ### 2008
 
@@ -81,6 +95,10 @@ https://china.usc.edu/getting-beijing-henry-kissingers-secret-1971-trip
 https://en.wikipedia.org/wiki/Bloom_filter
 
 https://en.wikipedia.org/wiki/Eco-capitalism
+
+---
+
+Paul Volcker was Chairman of the Federal Reserve under U.S. presidents Jimmy Carter and Ronald Reagan from August 1979 to August 1987. He is widely credited with having ended the high levels of inflation seen in the United States during the 1970s and early 1980s.
 
 ### 1958
 
@@ -199,6 +217,8 @@ Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empi
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking
+
+Modern Commercial Credit System
 
 ### 1400
 

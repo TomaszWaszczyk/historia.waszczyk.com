@@ -45,7 +45,7 @@ draft: false
 
 * Władysław Żeleński (1837-1921) : In the Tatra Mountains, Concert Overture Op. 27 (1870)
 
-* Frédéric Chopin: Piano Concerto No. 1 e-minor
+* Frédéric Chopin: Piano Concerto No. 1 e-minor [Olga Scheps]
 
 * Chopin Piano Concerto No. 1 Op.11
 
