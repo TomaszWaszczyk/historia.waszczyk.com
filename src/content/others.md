@@ -46,6 +46,8 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * Militarium I, Andrzej Maksymilian Fredro
 
+* Optymizm nie zastąpi nam Polski, Józef Mackiewicz: Dzieła (tom 18)
+
 ### Audycje, podcasty
 
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)

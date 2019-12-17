@@ -116,6 +116,10 @@ https://en.wikipedia.org/wiki/Value-added_tax
 
 https://pl.wikipedia.org/wiki/Zniewolony_umys%C5%82
 
+### 1950
+
+https://en.wikipedia.org/wiki/Schuman_Declaration
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
