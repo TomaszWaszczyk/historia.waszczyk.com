@@ -34,6 +34,8 @@ draft: false
 
 * 88/89, Michał Rzecznik, Przemek Surma
 
+* Piaskowe malowanki
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
