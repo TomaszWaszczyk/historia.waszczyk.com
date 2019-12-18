@@ -9,6 +9,22 @@ tags:
 draft: false
 ---
 
+### 2019
+
+Tak wysokiej podwyżki ZUS nie było w całej historii. Już za dwa tygodnie, nawet 80% samozatrudnionych w Polsce, odczuje największą podwyżkę ZUS w historii Polski.
+
+Skala jest ogromna, dlatego, że składkę trzeba płacić, czy się stoi, czy się leży.
+
+Nie ma znaczenia, czy w danym miesiącu lub przez trzy kolejne miesiące Twój biznes przynosi dochody. Nawet jeżeli Twój dochód przez 4 miesiące wyniesie zero złotych, to Ty musisz zapłacić 6 000 zł na sam ZUS mimo to, że nic nie zarobiłeś/aś.
+
+Sprawa jest poważna, dlatego, że w żadnym państwie Unii Europejskiej ryczałtowa składka ZUS nie wynosi 77,2% minimalnej płacy netto w danym kraju.
+
+W 2020 r. minimalna płaca netto wyniesie 1 877 zł. 1 450 zł, to 77,2% minimalnej płacy netto w Polsce.
+
+Gdyby przełożyć sytuacje Polaków do Brytyjczyków lub Niemców, to samozatrudnieni w Wielkiej Brytanii i Niemczech musieliby płacić 1 000 funtów w Wielkiej Brytanii i 900 euro w Niemczech, oczywiste jest, że to nie byłoby możliwe - ani, brytyjska, ani niemiecka gospodarka nie wytrzymałaby takiego obciążenia - ludzie, zaczęliby uciekać z tych krajów, ponieważ, nie dałoby się tam żyć.
+
+Rząd Polski przygotował pewne ulgi dla części samozatrudnionych, jednak te ulgi są mało znaczące, ponieważ tylko około 15% działalności gospodarczych może z nich skorzystać, cała reszta będzie musiała płacić aż 1 450 zł miesięcznie.
+
 ### 1989
 
 Do Sejmu skierowany został pakiet 10 ustaw wprowadzających nowe zasady funkcjonowania polskiej gospodarki znanych pod określeniem "Plan Balcerowicza".
