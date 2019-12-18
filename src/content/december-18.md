@@ -20,6 +20,12 @@ Domaga się tego dobro całego Narodu. Domaga się tego również opinia całego
 Zbliżają się Święta Bożego Narodzenia, które od tylu pokoleń łączyły wszystkich synów i córki naszego Narodu przy opłatku wigilijnym. Trzeba uczynić wszystko, ażeby tegorocznych Świąt Rodacy nie musieli spędzać pod groźbą śmierci i represji. Zwracam się do Pańskiego sumienia, Generale, i do sumień wszystkich tych ludzi, od których zależy w tej chwili decyzja."
 Watykan, dnia 18 grudnia 1981 r. Jan Paweł II
 
+### 1933
+
+Aresztowany tydzień wcześniej działacz Komunistycznej Partii Polski Bolesław Bierut (zdjęcie) został skazany za współpracę z radzieckim wywiadem na 7 lat więzienia. Karę odbywał w aresztach w Mysłowicach i Rawiczu. Na wolność wyszedł przedterminowo, bo po 5 latach pozbawienia wolności.
+
+<img src="./img/december/bierut.jpg"/><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
