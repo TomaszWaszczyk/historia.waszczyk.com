@@ -2414,6 +2414,8 @@ The desirable goal of reforming the international monetary system is to create a
 
 Większość ludzi żyje, aby zarobić na utrzymanie; jeśli na takie już zarobili, żyją, aby zarobić na lepsze utrzymanie, a kiedy już to osiągnęli - wtedy umierają.
 
+“I don’t believe we shall ever have a good money again before we take the thing out of the hands of government. That is, we can’t take them violently out of the hands of government. All we can do is by some sly roundabout way introduce something that they can’t stop.” Hayek
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
