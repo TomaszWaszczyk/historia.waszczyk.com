@@ -2410,7 +2410,9 @@ Honesty is a very expensive gift. Don’t expect it from cheap people.
 Paul Volcker
 “The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.”
 
-The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China 
+The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China
+
+Większość ludzi żyje, aby zarobić na utrzymanie; jeśli na takie już zarobili, żyją, aby zarobić na lepsze utrzymanie, a kiedy już to osiągnęli - wtedy umierają.
 
 ---
 
