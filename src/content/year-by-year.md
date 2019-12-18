@@ -38,6 +38,10 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 Paul Volcker
 
+> “I don’t believe we shall ever have a good money again before we take the thing out of the hands of government. That is, we can’t take them violently out of the hands of government. All we can do is by some sly roundabout way introduce something that they can’t stop.”
+
+Hayek
+
 ---
 
 ### 2015
@@ -54,7 +58,7 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 ### 2009
 
-> The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China 
+> The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China
 
 <img src="./img/january/bailout.png"/><br><br>
 
