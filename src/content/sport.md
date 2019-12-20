@@ -18,10 +18,57 @@ draft: false
 
 4. plecami na piłce i unosimy się (można naprzemiennie dotykać prawą ręką lewego kolana)
 
-<img src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/assets/sport/bulgarian-split-squat.gif"/>
+<img src="./img/others/sport/bulgarian-split-squat.gif"/>
 
-<img src="https://raw.githubusercontent.com/TomaszWaszczyk/historia.waszczyk.com/master/src/assets/sport/swimmer.gif"/>
+<img src="./img/others/sport/swimmer.gif"/>
 
+<img src="./img/others/sport/cwiczenia1.jpg"/>
+
+---
+
+<img src="./img/others/sport/cwiczenia2.jpg"/>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="./img/others/sport/1308002.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="./img/others/sport/Rosyjski-chirurg-pokaz.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="./img/others/sport/Rozgrzewkaprzedbieganiem.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="./img/others/sport/Yoga-balansnaramionach.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="https://waszczyk.com/resources/cwiczenia-yoga.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+  <source src="https://waszczyk.com/resources/w-domu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 #### Plank
@@ -53,7 +100,10 @@ Ułóż się w pozycji standardowej. Prostując ręce, przejdź z deski na przed
 
 2. przodopochylenie miednicy
 
-
+<video width="640" height="480" controls>
+  <source src="./img/others/sport/przodopochylenie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
