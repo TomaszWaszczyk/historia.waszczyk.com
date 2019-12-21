@@ -1,16 +1,37 @@
 ---
 layout: post
 title: 20 grudnia
-image: img/december/kozakiewicz.png
+image: img/december/microvax_3600.jpg
 author: Tomasz Waszczyk
-date: 2018-12-08T10:00:00.000Z
+date: 2018-12-20T10:00:00.000Z
 tags:
-  - Sowieci
-draft: true
+  - Internet
+draft: false
 ---
 
-### 
+### 1991
+
+Polska została przyłączona do międzynarodowej sieci komputerowej znanej obecnie pod nazwą Internet. Pierwszymi włączonymi do sieci polskimi instytucjami były placówki naukowe Uniwersytetu Warszawskiego czyli Instytut Fizyki Jądrowej i Obserwatorium Astronomiczne oraz pojedyńcze komputery znajdujące się w Krakowie,Toruniu i Katowicach.
+Pierwszą polskim prywatnym odbiorcą internetu została w czerwcu 1992 roku firma ATM S.A.
+W sierpniu 1993 roku powstał pierwszy
+polski serwer www, pod nazwą "Polska
+Strona Domowa". Natomiast internet znany nam w obecnej formie uruchomiono w kwietniu 1996 roku.
+Obecnie internet w Polsce dostępny jest dla ponad 80 % procent gospodarstw domowych.
+
+### 1982
+
+W Genewie zmarł Artur Rubinstein - wybitny polski pianista pochodzenia żydowskiego. Urna z prochami wirtuoza została pochowana niedaleko Jerozolimy na zboczu góry Orah.
+Rubinstein kształcił się w Berlinie u Heinricha Bartscha i Rudolfa Breithaupta (fortepian); kształcił się także pod kierunkiem Ludomira Różyckiego i Ignacego Paderewskiego oraz Maxa Brucha (kompozycja).
+Do historii przeszedł jako najwybitniejszy wirtuoz XX wieku oraz genialny odtwórca muzyki Chopina. Był propagatorem muzyki Schuberta, Szymanowskiego, a także muzyki hiszpańskiej. Wystąpił na scenie ponad sześć tysięcy razy.
+Podczas jednego ze swoich występów, a było to w trakcie uroczystości podpisania Karty Narodów Zjednoczonych w 1945 roku, Rubinstein zamanifestował swój patriotyzm na koncercie dla delegatów w sali opery w San Francisco: “W tej Sali, w której zebrały się wielkie narody, aby uczynić ten świat lepszym, nie widzę flagi Polski, za którą toczono tę okrutną wojnę” i dodał: “A więc teraz zagram polski hymn narodowy”.
+
+### 1968
+
+Album Czesława Niemena zatytułowany "Dziwny jest ten świat" otrzymał status. Złotej Płyty. Był to pierwszy autorski projekt tego artysty i równocześnie pierwsze polskie wydawnictwo muzyczne uhonorowane tym wyróżnieniem.
+Album ten wyprodukowany w wytwórni muzycznej Muza ukazał się w 1967 roku, a oprócz tytułowego utworu znalazły się na nim takie kompozycje jak: "Domek bez adresu", "Pamiętam ten dzień" czy "Wspomnienie".
+
+<img src="./img/december/niemen.jpg"/><br>
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
