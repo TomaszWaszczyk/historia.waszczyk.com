@@ -58,6 +58,12 @@ draft: false
 
 * BBC micro:bit (BeagleBoard.org PocketBeagle)
 
+* https://www.wczesnaedukacja.pl/pakiet-1-polski-karty-do-metody-Domana
+
+* https://www.wowenglish.com/pl/
+
+* https://www.czytajzalbikiem.pl/produkty/
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
