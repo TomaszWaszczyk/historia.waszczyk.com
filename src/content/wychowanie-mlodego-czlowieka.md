@@ -36,6 +36,12 @@ draft: false
 
 * Piaskowe malowanki
 
+* Toledo told to children - Maria Aguado Molina
+
+* Przyjaciele żyrafy - Joanna Berendt, Aneta Ryfczyńska (Bajki o empatii)
+
+* Dlaczego tańczymy ze szczęścia i kipimy ze złości? Historyjki dla ciekawskich dzieci
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
