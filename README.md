@@ -14,6 +14,8 @@ https://www.britannica.com/topic/USA-PATRIOT-Act
 
 Książka: The mythology and fables of the ancients, explain'd from history
 
+Born in the PRL - wspomnienia z czasów PRL
+
 https://orkiestrahistoryczna.pl
 
 http://www.jhi.pl
