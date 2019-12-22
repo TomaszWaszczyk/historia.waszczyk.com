@@ -9,9 +9,7 @@ tags:
 draft: false
 ---
 
-### 2019
-
-<img src="./img/december/maikowski.png"/><br><br>
+###
 
 ---
 
