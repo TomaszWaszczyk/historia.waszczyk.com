@@ -2418,6 +2418,8 @@ Większość ludzi żyje, aby zarobić na utrzymanie; jeśli na takie już zarob
 
 Zmień swoje słownictwo a zmienisz całe swoje życie.
 
+Szukaj możliwości w ograniczeniach, a nie ograniczeń w możliwościach!
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
