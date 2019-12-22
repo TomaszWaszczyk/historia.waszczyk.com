@@ -48,6 +48,28 @@ Wojskowy Sąd Specjalny skazał go na karę śmierci. Wyrok wykonała komórka e
 
 <img src="./img/december/witkowski.jpg"/><br><br>
 
+### 1849
+
+August von Mackensen - feldmarszałek niemiecki, dowódca wojsk niemieckich i austro-węgierskich podczas ofensywy pod Gorlicami i Tarnowem w maju 1915 r., zdobywca Belgradu w 1915 r. i Bukaresztu w 1916 r.
+
+Urodził się 6 grudnia 1849 r. jako syn prostego agronoma, Louisa Mackensena, który zarządzał majątkiem Leipnitz niedaleko Lipska. Jego pełne imiona to Anton Ludwig Friedrich August.
+
+Wyrastał w huzarskiej tradycji. Jego dziad brał udział w napoleońskiej wyprawie na Rosję w 1812 r. i jako żołnierz pruskiego pułku huzarów, przydzielonego do Wielkiej Armii, osłaniał m.in. przeprawę Napoleona przez Berezynę. Młody August z początku nie mógł pójść w ślady dziadka, gdyż ojciec nie mógł sobie pozwolić na takie wydatki, jak barwny huzarski mundur dla syna. Szansą dla młodego Augusta okazała się dopiero wojna prusko-francuska w 1870 r. W szeregach poznańskiego pułku kawalerii walczył pod Sedanem, gdzie do niewoli pruskiej wzięto cesarza Francuzów, Napoleona III. Pod Orleanem Mackensena awansowano na podporucznika. Dostał też Żelazny Krzyż - za męstwo na polu bitwy.
+
+Do zawodowej służby wojskowej dostał się w 1873 r. Szybko awansował. Przez 3 lata służył w poznańskim pułku huzarów, potem w dowództwach brygad kawalerii kolejno w Szczecinie i w Królewcu, później w jednostkach wojskowych na pograniczu niemiecko - francuskim i znowu w dobrze znanych nam miastach: w Gdańsku i w Bydgoszczy. W Gdańsku został pułkownikiem i dowódcą 1. Pułku Huzarów Przybocznych, zwanych „czarnymi huzarami” - od koloru dolmanów, charakterystycznych huzarskich kurtek. W 1898 r. został osobistym adiutantem cesarza Wilhelma II a rok później nadano mu szlachectwo i odtąd August zaczął pisać się jako “von Mackensen”. W 1900 r. awansuje do stopnia generała majora. W 1901 r. znów przybył do Gdańska i pozostał do wybuchu I wojny światowej. Sprawował dowództwo brygady, dywizji oraz korpusu. Awansował na kolejne stopnie generalskie. W 1905 r. umarła jego żona, a trzy lata później ożenił się z Leonią von der Osten.
+
+Kiedy wybucha I wojna światowa, bierze udział w walkach w Prusach Wschodnich: w przegranej dla Niemców bitwie pod Gąbinem i w zwycięskiej pod Tannenbergiem. W 1915 r. za dowodzenie w bitwie pod Łodzią zostaje odznaczony Pour le Mérite (najwyższym odznaczeniem wojskowym do 1918 r. - tzw. Błękitny Max). W czerwcu 1915 r. Mackensen, dowodząc słynnym austro-węgierskim C.K. Pułkiem Huzarów Śmierci zdobył okupowany przez Rosjan Lwów, za to dostał awans na feldmarszałka. Potem część słupskiego pułku zabrał ze sobą aż na Bałkany. Tam pod jego przewodem słupszczanie, ramię w ramię z Bułgarami, pobili prorosyjskich Serbów, a potem pokonali i opanowali Rumunię. Staje się obok Hindenburga oraz Ludendorffa najbardziej znanym dowódcą niemieckim podczas tej wojny. Sopot oraz Gdańsk nadają mu honorowe obywatelstwo. Otrzymał również doktorat honorowy Politechniki Gdańskiej.
+
+Później dowodzi na frontach bałkańskich, w Serbii oraz Rumunii a w styczniu 1917 r. jako jeden z pięciu niemieckich dowódców otrzymuje Order Wielki Krzyża Żelaznego. Koniec wojny zastaje go na stanowisku wojskowego gubernatora Rumunii, organizując wycofanie armii przez Węgry, na których zostaje internowany. Do Niemiec wrócił w 1919 r. i w wieku 71 lat przechodzi w stan spoczynku.
+
+Po wojnie wstąpił do organizacji Bund der Frontsoldaten, zwanej inaczej Stahlhelm. Nie godził się na ograniczenia wynikające z traktatu wersalskiego, głównie zapis o zakazie poboru i kadłubowym charakterze armii niemieckiej.
+
+Po śmierci marszałka Hindenburga w 1934 r. był ostatnim żyjącym feldmarszałkiem armii kajzerowskiej. Okazjonalnie pojawiał się w mundurze I Przybocznego Pułku Huzarów na uroczystościach III Rzeszy. Propagandowo był rozgrywany jako łącznik pomiędzy armią II a III Rzeszy. Po zdymisjonowaniu w 1938 r. ówczesnego ministra wojny feldmarszałka Blomberga i naczelnego dowódcy sił lądowych generała Fritscha, Mackensen stał się przeciwnikiem nazistów. W 1940 r. 90-letni feldmarszałek w liście do dowódcy niemieckich sił zbrojnych, von Brauchitscha, potępił zbrodnie, których dopuścił się Wehrmacht w Polsce.
+
+Zmarł w Schmiedebergu w Westfalii 8 listopada 1945 r. W jego pogrzebie wzięła udział córka cesarza Wilhelma II Wiktoria Luiza, która w czasach II Rzeszy była honorowym dowódcą jego macierzystego 2. Pułku Huzarów. Spoczął na cmentarzu w małej wiosce Burghorn pod Celle.
+
+<img src="./img/december/mackensen.png"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

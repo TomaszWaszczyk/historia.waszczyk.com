@@ -51,6 +51,14 @@ Wojciechowski był aktywnym prezydentem, który angażował się w prace rządu,
 
 <img src="./img/december/wojciechowski.jpg"/><br>
 
+### 1913
+
+A Polish woman Jadwiga Apostoł was born in Nowy Targ. At the beginning of 1942 arrested for her resistance activity. Imprisoned in #Auschwitz on 1 December 1942. Evacuated to KL Ravensbrück. She survived.
+
+<img src="./img/december/jadwiga-apostol.jpeg"/><br>
+
+https://en.wikipedia.org/wiki/Jadwiga_Aposto%C5%82
+
 ### 1904
 
 W Berdyczowie urodził się Władysław Bukowiński (zdjęcie), duchowny katolicki, więzień gułagów i obozów koncentracyjnych, duszpasterz i misjonarz w Kazachstanie i Azji Środkowej.
