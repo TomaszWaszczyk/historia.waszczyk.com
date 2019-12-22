@@ -118,6 +118,17 @@ Bądźcie w stanie, z pomocą sił, które zawsze wierzą w polską odnowę, wal
 
 <img src="./img/december/francja.jpg"/><br>
 
+### 1945
+
+1945 roku zginął w niejasnych okolicznościach amerykański generał George Smith Patton Junior
+
+> "Niestety, niektórzy z naszych przywódców są po prostu cholernymi durniami i nie mają pojęcia o historii Rosji. Cholera, mam wątpliwości, czy wiedzieli chociaż tyle, że Rosja jeszcze niecałe sto lat temu zajmowała Finlandię, wyssała krew z Polski i zrobiła z Syberii więzienie dla własnego narodu. Wyobrażam sobie, jak szydził Stalin, kiedy uzyskał od nich wszystko podczas tych niby konferencji”
+
+W Heidelbergu w Niemczech, w tajemniczych okolicznościach zginął amerykański generał George Smith Patton Junior.
+Był antykomunistą i nie bał się mówić o prawdy o komunistycznym tyranie Józefie Stalinie. Istnieją publikacje dowodzące, że został on zabity przez agentów NKWD na rozkaz Stalina we współpracy z OSS . Powodem dokonania zamachu na Pattona miała być jego odmowa wydania w ręce sowieckie żołnierzy Brygady Świętokrzyskiej oraz wcielenie jej w całości w szeregi armii amerykańskiej jako kompanii wartowniczej. Patton również dość głośno wyrażał swoje antykomunistyczne poglądy. Sowiecka propaganda usiłowała nawet rozpuszczając plotki przekonać opinię publiczną iż jakoby Patton chciał doprowadzić do konfliktu z Armią Czerwoną, aby w ten sposób wywołać z ZSRR wojnę. Zbierał ponoć też informacje na temat różnych grzeszków zachodnich dowódców, które mógłby zaszkodzić im w karierach. Na potwierdzenie swoich teorii o zamachu na życie generała, są wskazania na szereg faktów, m.in. zaginięcie dokumentów ze śledztwa, brak jakichkolwiek ran czy nawet zadrapań u kierowcy i drugiego pasażera, zeznania Douglasa Bazata – agenta OSS, brak sekcji zwłok. Wreszcie podmieniony samochód Pattona w muzeum mu poświęconym. Po co ktoś miałby zadawać sobie tyle trudu, skoro rzekomo był to tylko zwykły wypadek?
+
+<img src="./img/december/patton.png"/><br>
+
 ### 1939
 
 Na terenach zajętych przez ZSRR został uniewaważniony polski złoty. Oznaczało to wycofanie tej waluty z obiegu bez możliwości wymiany na wprowadzonego na jego miejsce rubla. Tym samym miliony Polaków straciły wszystkie oszczędności.
@@ -147,6 +158,12 @@ Rzeczpospolita gwarantowała prawosławnym wolność wyznania i do tego samego b
 Rosja zaoferowała przymierze przeciwko Turcji i Chanatowi Krymskiemu, przyznając Rzeczypospolitej subsydium wwysokości 146 000 rubli.
 
 <img src="./img/december/sobieski.jpg"/><br>
+
+### 1421
+
+1421 roku Jan Žižka pokonał armię katolików po Kutną Horą. Bitwa miała miejsce w czasie wojen husyckich, w trakcie II krucjaty antyhusyckiej. Panowanie nad tym miastem dawało strategiczną przewagę we wschodnich Czechach. Žižka koncentrował do obrony ok. 12 tys. żołnierzy. Siły katolików, głównie Niemców i Węgrów, wynosiły 50 tys. i były dowodzone przez Zygmunta Luksemburskiego. Wojska cesarza zajęły pozycję naprzeciw wozów taborowych husytów. Na froncie stanęli Madziarzy, dowodzeni przez Pippo Spano. Walki trwały do zmierzchu. O zmierzchu większa część wojsk zaatakowała husytów na zachodnim wzgórzu. W tym samym czasie Węgrzy wtargnęli przez bramę do miasta i rozpoczęli rzeź zwolenników heretyków w mieście. Sytuacja Czecha była zła, otoczony przez wojska nie mógł pomóc mieszkańcom. Następnego dnia jego wojska przebiły się przez siły cesarza i podążyły na północ. Zygmunt Luksemburski nie gonił ich, lecz zdobył miasto.
+
+<img src="./img/december/zizka.png"/><br>
 
 ---
 
