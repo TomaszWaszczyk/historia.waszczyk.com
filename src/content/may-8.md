@@ -11,7 +11,7 @@ draft: false
 
 ### 2019
 
-<img src="./img/december/maikowski.png"/><br><br>
+<img src="./img/may/maikowski.png"/><br><br>
 
 ---
 
