@@ -18,6 +18,8 @@ Książka: The mythology and fables of the ancients, explain'd from history
 
 Born in the PRL - wspomnienia z czasów PRL
 
+https://www.yadvashem.org/artifacts/museum/hanukkah-1932.html
+
 https://orkiestrahistoryczna.pl
 
 http://www.jhi.pl
