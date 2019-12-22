@@ -2420,6 +2420,8 @@ Zmień swoje słownictwo a zmienisz całe swoje życie.
 
 Szukaj możliwości w ograniczeniach, a nie ograniczeń w możliwościach!
 
+Zacznij od robienia tego, co konieczne; potem zrób to, co możliwe; nagle odkryjesz, że dokonałeś niemożliwego.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

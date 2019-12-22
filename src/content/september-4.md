@@ -31,6 +31,8 @@ M. Natkowska Numerus clausus, getto ławkowe, numerus nullus, „paragraf aryjsk
 
 Foto: Indeks Marka Szapiry, studenta Uniwersytetu Warszawskiego narodowości żydowskiej, z 1934 z ostemplowanym miejscem w getcie ławkowym.
 
+„Czy mi nie wolno uczynić ze swoim, co chcę?” (Mt 20, 15)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
