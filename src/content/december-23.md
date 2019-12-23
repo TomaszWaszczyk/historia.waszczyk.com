@@ -10,7 +10,7 @@ tags:
 
 ### 1982
 
-1982 roku władze komunistyczne Polski podjęły decyzję o zwolnieniu z więzień i ośrodków internowania części działaczy solidarnościowych aresztowanych w ramach akcji "Jodła" w nocy z 12 na 13 grudnia 1981 roku. Na wolność wypuszczono wielu działaczy Solidarności, ale nie dotyczyło to członków Komisji Krajowej NSZZ - Andrzeja Gwiazdy (zdjęcie), Karola Modzelewskiego i Jana Rulewskiego.
+Władze komunistyczne Polski podjęły decyzję o zwolnieniu z więzień i ośrodków internowania części działaczy solidarnościowych aresztowanych w ramach akcji "Jodła" w nocy z 12 na 13 grudnia 1981 roku. Na wolność wypuszczono wielu działaczy Solidarności, ale nie dotyczyło to członków Komisji Krajowej NSZZ - Andrzeja Gwiazdy (zdjęcie), Karola Modzelewskiego i Jana Rulewskiego.
 Swojego rodzaju ciekawostką jest fakt, że wśród internowanych wówczas osób znalezli się też ludzie z otoczenia Edwarda Gierka z nim samym na czele.
 
 <img src="./img/december/gwiazda.jpg"/><br>
