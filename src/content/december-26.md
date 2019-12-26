@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 26 grudnia
-image: img/december/kozakiewicz.png
+image: img/december/rad.jpg
 author: Tomasz Waszczyk
 date: 2018-12-26T10:00:00.000Z
 tags:
@@ -16,7 +16,7 @@ Mimo że naukowcy przypłacili zdrowiem swoje eksperymenty, ich praca nie pozost
 
 💁‍♂️ Nie wszyscy wiedzą, że po otrzymaniu drugiej nagrody Nobla (właśnie za odkrycie nowych pierwiastków) Maria Skłodowska-Curie zainicjowała powstanie kolebki Noblistów - Instytut Radowy. W placówce działało czterech noblistów, w tym... córka i zięć Polki.
 
-<img src="./img/december/rad.jpg"/><br>
+<!-- <img src="./img/december/rad.jpg"/><br> -->
 
 ---
 
