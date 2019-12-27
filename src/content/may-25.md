@@ -5,11 +5,13 @@ image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
 date: 2018-05-01T10:00:00.000Z
 tags:
-  - Goebells
-draft: true
+  - GDPR
+draft: false
 ---
 
-### 
+### 2018
+
+GDPR rusza w Polsce.
 
 ---
 
