@@ -102,6 +102,16 @@ draft: false
 
 * Ekonomia w jednej lekcji, Henry Hazlitt
 
+### Inne
+
+<img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
+
+
+<video width="640" height="50" controls>
+  <source src="./img/wychowanie-mlodego-czlowieka/Jak-klasa-społeczna-wpływa-na-styl-wychowawczy.mp3" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
