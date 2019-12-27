@@ -94,6 +94,8 @@ WWII https://www.pinterest.co.uk/pin/269793833906488589/
 
 https://www.archives.gov/research/foreign-policy/katyn-massacre
 
+http://otworzksiazke.pl/tags/historia
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
