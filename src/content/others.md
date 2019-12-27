@@ -10,23 +10,23 @@ draft: false
 
 ### Linki
 
-1. <a href="http://historia.waszczyk.com/maps" target="_blank">Mapy</a>
+1. <a href="https://historia.waszczyk.com/maps" target="_blank">Mapy</a>
 
-2. <a href="http://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
+2. <a href="https://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
 
-3. <a href="http://historia.waszczyk.com/year-by-year" target="_blank">Rok po roku</a>
+3. <a href="https://historia.waszczyk.com/year-by-year" target="_blank">Rok po roku</a>
 
-4. <a href="http://historia.waszczyk.com/china" target="_blank">Chiny</a>
+4. <a href="https://historia.waszczyk.com/china" target="_blank">Chiny</a>
 
-5. <a href="http://historia.waszczyk.com/dictionary" target="_blank">Słowników terminów historycznych</a>
+5. <a href="https://historia.waszczyk.com/dictionary" target="_blank">Słowników terminów historycznych</a>
 
-6. <a href="http://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
+6. <a href="https://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
 
-7. <a href="http://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
+7. <a href="https://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
 
-8. <a href="http://historia.waszczyk.com/sport" target="_blank">Sport</a>
+8. <a href="https://historia.waszczyk.com/sport" target="_blank">Sport</a>
 
-9. <a href="http://historia.waszczyk.com/religion" target="_blank">Religia</a>
+9. <a href="https://historia.waszczyk.com/religion" target="_blank">Religia</a>
 
 https://en.wikipedia.org/wiki/Aleksandr_Dugin
 
