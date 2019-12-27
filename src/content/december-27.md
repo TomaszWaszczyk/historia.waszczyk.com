@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 27 grudnia
-image: img/december/walesa.jpg
+image: img/december/rad.jpg
 author: Tomasz Waszczyk
 date: 2018-12-27T10:00:00.000Z
 tags:
-  - NSZZ Solidarność
+  - Sowieci
 ---
 
 ### 1981
