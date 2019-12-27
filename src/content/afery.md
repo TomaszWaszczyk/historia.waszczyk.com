@@ -1,3 +1,14 @@
+---
+layout: post
+title: Afery
+image: img/december/kozakiewicz.png
+author: Tomasz Waszczyk
+date: 2018-12-25T10:00:00.000Z
+tags:
+  - NKWD
+draft: true
+---
+
 Urząd Bezpieczeństwa Publicznego - UB geneza powstania tej Żydowskiej Agendy pod patronatem żyda Berii - Po 1944 r.
 
 Stalin po wojnie przysłał do Polski tysiące żydowskich agentów, aby w miejsce wyniszczonych polskich elit stanowili trzon nowej „polskiej" inteligencji. Najważniejsze stanowiska rządowe objęli wywodzący się z KPP ludzie narodowości żydowskiej, ci sami, którzy 17 września 1939 r. „całowali sowieckie czołgi" we Lwowie i Białymstoku. Z sowieckiego punktu widzenia byli wprost bezcenni. Nieskażeni patriotyzmem gwarantowali brak jakichkolwiek skrupułów w sprawach narodowych. Pod tym względem Sowieci się nie zawiedli. Gorliwość kolaborantów była wielka.
