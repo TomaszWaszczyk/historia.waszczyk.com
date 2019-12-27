@@ -8,6 +8,10 @@ tags:
   - Niepodległość Polski
 ---
 
+### 1990
+
+Generał Stanisław Maczek został awansowany przez prezydenta RP na uchodźstwie do stopnia generała broni.
+
 ### 1918
 
 11 listopada nastąpiło jedynie przekazanie władzy przez Radę Regencyjną towarzyszowi Ziółkowi z partii socjalistycznej, czyli Piłsudskiemu. Potem socjaliści gnębili Polskę podatkami i doprowadzili do klęski. 11 listopada to jest rocznica klęski. To 7 października przypada rocznica odzyskania przez Polskę niepodległości.
