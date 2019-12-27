@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 2016
+
+Koniec prezydentury https://pl.wikipedia.org/wiki/Dilma_Rousseff
+
 ### 2015
 
 Angela Merkel powiedziała „Wir schaffen das”, co znaczy „Damy radę“, „Zrobimy to“. Zdanie wypowiedziane na konferencji prasowej w Berlinie, powtórzone później przez niemiecką kanclerz wielokrotnie, stało się symbolem. „Niemcy raczej nie dały rady” komentuje prof. Andrzej Sakson
