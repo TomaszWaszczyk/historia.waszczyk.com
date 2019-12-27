@@ -20,4 +20,4 @@ Mimo że naukowcy przypłacili zdrowiem swoje eksperymenty, ich praca nie pozost
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

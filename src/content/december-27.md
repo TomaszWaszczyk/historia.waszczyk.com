@@ -76,4 +76,4 @@ W Kaliszu książę mazowiecki Siemowit III (grafika) złożył hołd lenny kró
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-27.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
