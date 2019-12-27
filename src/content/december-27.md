@@ -1,14 +1,16 @@
 ---
 layout: post
 title: 27 grudnia
-image: img/december/kozakiewicz.png
+image: img/december/walesa.jpg
 author: Tomasz Waszczyk
 date: 2018-12-08T10:00:00.000Z
 tags:
-  - Sowieci
+  - NSZZ Solidarność
 ---
 
-### 
+### 1981
+
+Amerykański tygodnik "Time Magazine" przyznał przewodniczącemu NSZZ Solidarność tytuł "Człowieka Roku 1981". Był on pierwszym Polakiem, któremu przyznano ten tytuł.
 
 ---
 
