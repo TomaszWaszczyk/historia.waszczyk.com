@@ -619,6 +619,8 @@ podejście redukcjonistyczne
 
 kasandryczny
 
+parweniusz - człowiek, który dorobił się majątku niekoniecznie ciężką pracą, lecz wykorzystując koneksje, układy, starający się naśladować zamożne warstwy społeczeństwa; dorobkiewicz; nuworysz; nowobogacki
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

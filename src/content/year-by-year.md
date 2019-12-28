@@ -269,6 +269,10 @@ Kopernik rozróżniał też kilka funkcji pieniądza. Uważał go za miernik war
 
 https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99te_Cesarstwo_Rzymskie
 
+### 325
+
+https://pl.wikipedia.org/wiki/Celibat
+
 ### 12 n.e
 
 https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska

@@ -12,6 +12,10 @@ tags:
 
 Umiera https://pl.wikipedia.org/wiki/W%C5%82adimir_Bukowski
 
+### 1948
+
+https://en.wikipedia.org/wiki/1948_Donora_smog
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-27.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
