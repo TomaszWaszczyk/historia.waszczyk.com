@@ -33,6 +33,10 @@ Kolejna kontrowersyjna kwestia to kwestia dotycząca rozporządzania dochodem ba
 
 Pytań w stosunku do nowej Bazylei jest wiele. Wiele jest też zarzutów i kontrowersji. Przykłady Bazylei I i II pokazały, że jest potrzeba odgórnej ujednoliconej regulacji bankowej. Sama idea przyświecająca twórcom Bazylei III też jest szlachetna – ma chronić i banki i klientów, a przez to gospodarkę światową. Jednak, wykorzystanie tej idei w praktyce może okazać się złudne. Czasu do implementacji zostało jeszcze sporo.
 
+### 1991
+
+https://pl.wikipedia.org/wiki/Podatek_dochodowy_od_os%C3%B3b_fizycznych
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>

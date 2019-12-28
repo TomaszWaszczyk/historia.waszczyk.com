@@ -197,6 +197,10 @@ https://en.wikipedia.org/wiki/Labour_power
 
 https://pl.wikipedia.org/wiki/Rze%C5%BA_galicyjska => https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
 
+### 1842
+
+https://pl.wikipedia.org/wiki/Podatek_dochodowy_od_os%C3%B3b_fizycznych
+
 ### 1841
 
 https://en.wikipedia.org/wiki/Thomas_Cook
@@ -260,6 +264,10 @@ Analizując całość poglądów Mikołaja Kopernika na sprawy monetarne widać 
 
 Kopernik rozróżniał też kilka funkcji pieniądza. Uważał go za miernik wartości (wyraża ceny), konieczny środek cyrkulacji (pieniądzem się płaci i za niego się kupuje) oraz środek tezauryzacji (jako skarb). Najważniejsze jednak dla dziejów ekonomii stało się sformułowane przez niego prawo złego pieniądza, mówiące że pieniądz gorszy, czyli wykonany z gorszego kruszcu i mający mniejszą wartość, wypiera z obiegu pieniądz lepszy, czyli wykonany z lepszego kruszcu i mający wartość większą. Prawo to odnajdujemy między innymi w trzeciej wersji traktatu monetarnego, w którym Kopernik zapisał: kiedy do dawnej, lepszej monety, pozostawionej w obiegu, wprowadzono nową, gorszą, która nie tylko zaraziła dawną, ale że tak powiem, z obiegu ją wypędziła. Dopiero kilkadziesiąt lat później podobne opinie wygłaszał angielski finansista, Thomas Gresham, od którego nazwiska prawo złego pieniądza określane bywa często jako prawo Greshama.
 </details>
+
+### 1254
+
+https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99te_Cesarstwo_Rzymskie
 
 ### 12 n.e
 

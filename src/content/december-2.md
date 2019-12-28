@@ -8,6 +8,10 @@ tags:
   - Rydz Śmigły
 ---
 
+### 2009
+
+https://pl.wikipedia.org/wiki/Traktat_lizbo%C5%84ski
+
 ### 1991
 
 Polska jako pierwsze państwo na świecie uznała niepodległość Ukrainy. Krok ten podjęto bardzo szybko, ponieważ zaledwie dzień wcześnie odbyło się tam referendum na temat ogłoszenia niepodległości. Wzięło w nim udział 84 procent Ukraińców,z których 90 procent opowiedziało się za ogłoszeniem niepodległości. Prezydentem Ukrainy został Leonid Krawczuk, do którego prezydent Polski Lech Wałęsa wysłał pismo gratulacyjne.
