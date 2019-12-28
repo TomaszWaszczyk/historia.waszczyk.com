@@ -2422,6 +2422,8 @@ Szukaj możliwości w ograniczeniach, a nie ograniczeń w możliwościach!
 
 Zacznij od robienia tego, co konieczne; potem zrób to, co możliwe; nagle odkryjesz, że dokonałeś niemożliwego.
 
+Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
