@@ -66,7 +66,7 @@ Pochowana została 29 grudnia 1863 na cmentarzu donatorskim przy katolickim koś
 
 <img src="./img/december/werka.jpg"/><br>
 
-###
+### 1793
 
 Jakob Sievers (grafika) z pochodzenia bałtycki Niemiec, hrabia generał armii rosyjskiej przestał pełnić funkcję posła nadzwyczajnego i ministra pełnomocnego carycy Katarzyny II. Był nim od 16 lutego 1793 roku. 25 września 1793 roku podczas obrad Sejmu na zamku w Grodnie, w asyście rosyjskiej artylerii udało mu się skutecznie doprowadzić do przeprowadzenia cesji terytorium Rzeczypospolitej na rzecz Królewstwa Prus, co w praktyce było II rozbiorem Polski. O fakcie tym pisał w pamiętnikach zatytułowanych " Jak doprowadziłem II rozbioru Polski. Za swoje zasługi dwukrotnie został odznaczony Orderem Orła Białego i Orderem Świętego Stanisława.
 
