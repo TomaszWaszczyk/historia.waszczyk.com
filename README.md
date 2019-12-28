@@ -18,6 +18,8 @@ https://www.britannica.com/topic/USA-PATRIOT-Act
 
 Książka: The mythology and fables of the ancients, explain'd from history
 
+https://archive.org/details/bajtekmagazine
+
 Born in the PRL - wspomnienia z czasów PRL
 
 https://www.yadvashem.org/artifacts/museum/hanukkah-1932.html
