@@ -22,6 +22,8 @@ draft: false
 
 * Salerno
 
+https://en.wikipedia.org/wiki/Hannes_H%C3%B3lmsteinn_Gissurarson
+
 https://pl.wikipedia.org/wiki/Efekt_Cantillona
 
 https://pl.wikiquote.org/wiki/Jacek_Sierpi%C5%84ski

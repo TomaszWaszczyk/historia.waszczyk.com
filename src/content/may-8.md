@@ -13,6 +13,11 @@ draft: false
 
 <img src="./img/may/maikowski.png"/><br><br>
 
+<video width="640" height="480" controls>
+  <source src="./movies/20190508_israel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
