@@ -34,6 +34,14 @@ https://en.wikipedia.org/wiki/Laura_Poitras
 
 https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 
+Liquid Surveillance: A Conversation by Zygmunt Bauman
+
+### 2000
+
+https://en.wikipedia.org/wiki/David_Lyon_%28sociologist%29 - Electronic Eye: The Rise of Surveillance Society: David Lyon
+
+https://en.wikipedia.org/wiki/Michel_Foucault
+
 ### 1920 - kryptologia a wojna
 
 https://en.wikipedia.org/wiki/Joseph_Rochefort

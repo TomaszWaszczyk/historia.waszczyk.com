@@ -70,6 +70,12 @@ https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amen
 
 https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
+### 2000
+
+https://en.wikipedia.org/wiki/David_Lyon_%28sociologist%29 - Electronic Eye: The Rise of Surveillance Society: David Lyon
+
+https://en.wikipedia.org/wiki/Michel_Foucault
+
 ### 1999
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
