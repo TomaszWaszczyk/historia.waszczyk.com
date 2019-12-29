@@ -2424,6 +2424,8 @@ Zacznij od robienia tego, co konieczne; potem zrób to, co możliwe; nagle odkry
 
 Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile
 
+"Chcesz pomóc? Nie przeszkadzaj!"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
