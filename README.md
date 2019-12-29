@@ -102,6 +102,8 @@ https://www.archives.gov/research/foreign-policy/katyn-massacre
 
 http://otworzksiazke.pl/tags/historia
 
+Hans Kundnani, The paradox of the German power
+
 # Jewish space
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
