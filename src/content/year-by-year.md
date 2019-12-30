@@ -62,6 +62,18 @@ European software is the core challenges of in order to build a strong informati
 
 ---
 
+I have been asked why the term #software is used. The term #software is used from several reasons - here few to start with:
+
+1) Informations systems created with #software have been identified as important as weapons by modern war theorists in 1967
+2) In 1968 the NATO meetings development basically banned Europes role in strategic #software domain
+3) In 80's software based OS unleased #software based creativity as OS allowed the HW evolve below and SW evolve above it. 
+4) In 1984 the worlds richest man stated that #software is the magic inside smart devices
+5) In 1996 MIT declared #software as the new general purpose technology
+... and many more arguments which would explain the #software words importance as the most strategic and recent symbolic artifact to create what did not exists before.
+6) The software as ecology, economy or industry is NOT studied today at all compared to agriculture, traffic, mfg or financial sectors to every little detail and actor even it has over 6 000 billion € indirect effect annually alone in EU.
+
+---
+
 > The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
 
 Paul Volcker
