@@ -34,6 +34,34 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 ---
 
+#### August
+
+China, the European Union, and the United States are now emerging as the main competitors for global leadership in AI. Indeed, China, which achieved success in the Internet economy in part by shutting out U.S. firms, has clearly stated its ambition of achieving dominance in AI—both to increase its competitiveness in industries that have traditionally been vital to the U.S. and EU economies, and to expand its military power.
+
+Moreover, the EU’s coordinated plan on AI states that its “ambition is for Europe to become the world-leading region for developing and deploying cutting-edge, ethical and secure AI.” The outcome of this race to become the global leader in AI will affect the trio’s future economic output and competitiveness, as well as military superiority.
+
+Overall, the United States currently leads in AI, with China rapidly catching up, and the European Union behind both. The United States leads in four of the six categories of metrics this report examines (talent, research, development, and hardware), China leads in two (adoption and data), and the European Union leads in none—although it is closely behind the United States in talent.
+
+Europe has no own data platforms nor own software. The is no AI competitiviness nor superiority without own software and platforms. Europe is on path to digital wormhole as real IT power economies are eating data, value flows and monetary assets from the economy with digital software systems and infrastructure.
+
+---
+
+Digital freedom is in jeopardy
+
+Humans and organizations have lost their freedom in the modern digital binary sphere or in more common terms Internet. There are no longer equal opportunities as we have been guided by marketing to demand short terms functional freedom for hedonism, pleasure, cost free and easy to use. This will eventually lead to atrophication and destruction of our own culture and fundamental values in society. This development is limiting our opportunities to control our own destiny and opportunities to innovate, create, exceed and save our own values, society, culture and economy.
+
+The digital age is causing enormous shifts in the balance of power between individuals, the state and monopolistic corporations. The European law-based systems is being challenges by global states by blatant ignorance of multinational and lateral ethics, values, guidelines, procedures, agreements and international laws. Europe cannot play the ethical and free market valedictorian while others are just arrogantly slapping these principles with wet towels on economic unions, societies and people unsuspecting acting in good faith. European should realize this model is no longer working in the interest of Europeans. Europeans should start acting together to safeguard freedom, justice and solidarity. It is us the Europeans who can only stop this outsourcing of values, society, culture and economy. Recognizing this need for special protection of children, youth, teens, adolescents and particularly vulnerable groups suffering from lack on skills and competencies in the digital sphere.
+
+Digital monopolies are today controlling our freedom with software-based products, systems, platforms and clouds. This asymmetric software control of our lives avoids us to excel as free cultures and societies. Our own values, society, culture, legal system and economy must be the leading opportunity, freedom and openness driven approach to the future. Our human cultural values and ethics cannot evolve if they are controlled in secret totalitarian manner which are able to limit and suffocated by outside controls. The free men’s own uncontrolled communication solutions, systems and networks are the very essence on modern progress, development and advancement in open evolution. This openness and free digital cultural ecology is essence and necessity, when creating new foundation for privacy, transparency, digital autonomy, software sovereignty, free society, obey of the law, transparent ethics and open systems.
+
+Software gives digital freedom
+
+European own software gives digital freedom in the information age. Today Europe imports 99,5% of all software and at the same time we have totally neglected the strategic narrative around software role as central and material factor in creating privacy, transparency, digital autonomy, software sovereignty, free society and economically sustaining way of life. It our task to safeguard our own understanding, control, governance, dignity, equality, security, transparency and openness in software defined digital era. The software is the creative digital binary sphere raw material as the electrons, neurons, atoms and molecules are in physical world. Software of the Information Age defining our life by us or by alien outsiders not respecting our own values, society, culture, education and economy.
+
+European software is the core challenges of in order to build a strong information age Europe. It is vital that today’s strategic innovation agenda’s, policies and actions reflect this development to close massive cognitive gap in European knowledge base. The economic freedom must be strengthened by making digital policies more European and thereby strengthen Europe’s position in the digital world as leader, innovation and one setting stage for future from Europe.
+
+---
+
 > The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
 
 Paul Volcker
@@ -43,6 +71,10 @@ Paul Volcker
 Hayek
 
 ---
+
+### 2017
+
+https://en.m.wikipedia.org/wiki/Xinjiang_re-education_camps
 
 ### 2015
 

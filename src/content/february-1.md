@@ -14,6 +14,10 @@ draft: true
 
 https://pl.wikipedia.org/wiki/Traktat_nicejski
 
+### 1717
+
+https://pl.wikipedia.org/wiki/Sejm_niemy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
