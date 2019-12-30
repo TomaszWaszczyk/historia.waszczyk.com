@@ -105,7 +105,7 @@ W czasie wojny obronnej "Piłsudski" wchodził w skład Dywizjonu Minowców". Za
 
 ### 1830
 
- 1830 roku w czasie powstania listopadowego, z inicjatywy dyktatora powstania Józefa Chłopickiego (grafika) powołano do życia Komisję Rozpoznawczą -organ, którego zadaniem było rozpatrywanie spraw osób podejrzanych o szpiegostwo na rzecz Rosji. Na jej czele stanął hrabia Michał Aleksander Potocki.
+W czasie powstania listopadowego, z inicjatywy dyktatora powstania Józefa Chłopickiego (grafika) powołano do życia Komisję Rozpoznawczą -organ, którego zadaniem było rozpatrywanie spraw osób podejrzanych o szpiegostwo na rzecz Rosji. Na jej czele stanął hrabia Michał Aleksander Potocki.
 W czasie swojej działalności aż do rozwiązania przez Rząd Narodowy Komisja rozpatrzyła 340 spraw.
 
 <img src="./img/december/chlopicki.jpg"/><br>
