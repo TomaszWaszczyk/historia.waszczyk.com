@@ -12,6 +12,10 @@ draft: false
 
 ~~ https://en.wikipedia.org/wiki/Post-scarcity_economy ~~ Fully Automated Luxury Communism
 
+### 2038
+
+https://pl.wikipedia.org/wiki/Problem_roku_2038
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???
