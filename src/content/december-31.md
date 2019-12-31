@@ -10,7 +10,7 @@ tags:
 
 ### 2019
 
-Sytuacja słuzby zdrowia:
+Sytuacja słuzby zdrowia (lek. med. Bartek Fiałek):
 
 <video width="640" height="480" controls>
   <source src="./movies/december/sluzba-zdrowia-2019.mp4" type="video/mp4">
