@@ -8,12 +8,19 @@ tags:
   - Freigeld
 ---
 
+### 1972
+
+Agent FBI w samych gaciach dostarcza okup do porwanego samolotu DC8 linii Delta relacji Miami-Detroit.
+
+Porywaczem okazał się niejaki George Wright który zatrzymany został przez FBI w 2011 roku.
+
+<img src="./img/july/okup.jpg"/><br><br>
+
 ### 1944
 
 Gen. „Bór” Komorowski wydał rozkaz rozpoczęcia powstania w Warszawie
 
 Po analizie sytuacji związanej z nadejściem Armii Czerwonej, generał „Bór”, za zgodą Delegata Rządu RP na Kraj, wicepremiera Jana Stanisława Jankowskiego „Sobola”, wydaje rozkaz komendantowi Okręgu Warszawskiego AK pułkownikowi Antoniemu Chruścielowi „Monterowi” rozpoczęcia powstania w Warszawie 1 sierpnia o godz. 17.00.
-
 
 1649 roku w czasie powstania Chmielnickiego pod Łojowem (obecnie Białoruś) liczące 5 tysięcy żołnierzy wojska litewskie hetmana polnego Janusza Radziwiłła pokonały 17 tysięczną armię kozacką Stanisława Krzeczkowskiego.
 
