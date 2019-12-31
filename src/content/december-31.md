@@ -18,6 +18,10 @@ Polacy i Żydzi będą karani śmiercią, a w mniej ciężkich wypadkach karą p
 
 Robotnicy przymusowi w Rzeszy.
 
+### 1932
+
+Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma
+
 ### 1908
 
 W Buczaczu na Ukrainie urodził się Szymon Wiesenthal (zdjęcie) -austriacki dziennkarz i pisarz pochodzenia żydowskiego, tropiciel niemieckich zbrodniarzy wojennych wśród których był między innymi Adolf Eichmann.
