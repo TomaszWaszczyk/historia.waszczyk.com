@@ -35,6 +35,13 @@ Pierwsze seryjnie produkowane Syreny zjechały z taśmy montażowej Fabryki Samo
 
 <img src="./img/december/syrena.jpg"/><br><br>
 
+### 1942
+
+1942 roku szef SS Heinrich Himmler (zdjęcie) wydał zarządzenie likwidacji wszystkich żydowskich gett w Generalnej Guberni , za wyjątkiem wielkich gett zbiorczych w Warszawie, Krakowie, Częstochowie, Radomiu i Lublinie. Specjalnie wyselekcjonowani Żydzi mieli znaleźć się w obozach pracy na rzecz niemieckich firm
+zbrojeniowych. Ponadto utworzono tzw. " wtórne getta " (pułapki), które miały za zadanie przyciągać ukrywających się Żydów. Powstały one w Międzyrzeczu, Parczewie, Łukowie, Włodawie, Izbicy, Piaskach i Zaklikowie (na początku 1943 r. zostały zlikwidowane). Był to wyrok śmierci dla milionów Żydów i początkiem niespotykanej w dziejach ludzkości akcji ludobójstwa.
+
+<img src="./img/december/himmler.jpg"/><br><br>
+
 ### 1932
 
 Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma
