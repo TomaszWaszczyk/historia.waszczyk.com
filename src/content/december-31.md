@@ -47,6 +47,90 @@ Grafika przedstawia rycerzy polskich.
 
 ---
 
+### 1600
+
+Królowa Elżbieta I Tudor powołała Kompanię Wschodnioindyjską.
+
+Wydaje wam się, że dzisiejsze transnarodowe korporacje są zbyt potężne? To co powiecie o prywatnej firmie, która posiadała ogromną armię, prawo wypowiadania wojny i zawierania pokoju, a w szczytowym momencie kontrolowała około połowy światowego handlu? Brytyjska Kompania Wschodnioindyjska była najpotężniejszą korporacją w dziejach, a do upadku przywiódł ją bunt pracowników.
+
+W szczytowym okresie rozwoju Imperium Brytyjskiego, Indie były nazywane perłą w jego koronie. Kolonizację tego subkontynentu zaczęło nie państwo, a prywatna spółka londyńskich kupców.
+
+Kompanii Wschodnioindyjskich pojawiło się w historii kilka, w różnych krajach. Ten sposób organizacji handlu zamorskiego był typowy dla XVI i XVII w. W tym artykule piszę o najsłynniejszej i najpotężniejszej z nich – Brytyjskiej Kompanii Wschodnioindyjskiej i to ją będę miał na myśli pisząc „Kompania”.
+
+#### Skromne początki
+
+Pod koniec XVI w. trudno było oczekiwać, że Wielka Brytania zdominuje świat. Kraj pod rządami Elżbiety I dopiero wchodził do pierwszej ligi europejskiej polityki. Zamorskie wyprawy i handel były domeną głównie dwóch państw z Półwyspu Iberyjskiego – Hiszpanii i Portugalii. Hiszpanie działali głównie na Atlantyku i w Ameryce, z kolei Portugalczycy w Brazylii, Afryce i Azji. Hiszpanie zakładali na zdobytych terenach swoją administrację i podporządkowywali ją Madrytowi, natomiast Portugalia budowała system faktorii handlowych i zadowalała się ogromnymi zyskami z handlu z Indiami.
+
+Tę równowagę naruszyli Anglicy. W 1588 r. rozbili hiszpańską Wielką Armadę (przy wydatnej pomocy słynnej brytyjskiej pogody) i położyli kres hiszpańskiej dominacji na morzach. Pod koniec stulecia zaczęli coraz śmielej wypuszczać się na dalsze wody. Próbowali znaleźć północną drogę do Indii (zatrzymała ich Arktyka), poszerzali wpływy na Bałtyku i zaczęli pływać do Indii, wokół Przylądka Dobrej Nadziei.
+
+W tamtych czasach handel oceaniczny był ryzykownym biznesem. Piraci, sztormy i trudy kilkuletnich wypraw sprawiały, że były to głównie prywatne przedsięwzięcia. Kupcy łączyli się w doraźne spółki, kupowali statek, wynajmowali załogę, a po szczęśliwym powrocie statku dzieli się gigantycznym profitem i rozwiązywali spółkę. Często jednak statek nie wracał, a wówczas udziałowcy niejednokrotnie plajtowali z powodu zaciągniętych na wyprawę długów.
+
+31 grudnia 1600 r., królowa przyznała monopol na cały handel między Przylądkiem Dobrej Nadziei a Cieśniną Magellana nowej spółce akcyjnej, której udziałowcami stali się londyńscy kupcy i arystokraci. Tak narodziła się Kompania Wschodnioindyjska.
+
+Początki były trudne. Brakowało doświadczenia, a ogromną konkurencję w regionie Indii i Azji Południowo-Wschodniej stanowili Portugalczycy i Holendrzy. Na domiar złego, ustawicznie potrzebujący pieniędzy król Jakub I naruszał monopol Kompanii, nadając przywileje handlu z Indiami innym spółkom kupieckim, za co naturalnie pobierał odpowiednie opłaty. Dopiero w połowie XVII w., Kompania uzyskała faktyczny monopol na brytyjski handel w Azji.
+
+Początkowo Kompania działała tradycyjnymi metodami, czyli wysyłała wyprawy kupieckie. Jednak po kilku latach zaczęła zakładać faktorie handlowe, które szybko przekształciły się w miasta. Wiele ogromnych miast w dzisiejszej Azji, takich jak Kalkuta, Bombaj czy Singapur zaczynały jako jej posterunki handlowe. Do ich ochrony zatrudniano miejscowych, którzy stali się zalążkiem późniejszej armii Kompanii.
+
+Agenci Kompanii zaczęli zapuszczać się również do Chin oraz Japonii, choć w Kraju Kwitnącej Wiśni nie udało im się zbudować trwałych relacji handlowych.
+
+#### Budowa potęgi
+
+W 1612 r. okręty Kompanii starły się z Portugalczykami w bitwie pod Suvali. „Bitwa” to dużo powiedziane. Z obu stron walczyły po cztery jednostki. Wrogowie ostrzelali się z dział, Portugalczycy podjęli nieudaną próbę abordażu i utracili jeden okręt, po czym się wycofali. Ta bitwa miała jednak ogromny wpływ na postawę lokalnej ludności. Władca państwa Wielkich Mogołów, rozciągającego się w dzisiejszych północnych Indiach i Pakistanie, uznał, że lepiej trzymać z Brytyjczykami i nadał im ogromne przywileje handlowe. To złamało portugalską siłę w Indiach.
+
+Ocean Indyjski stał się polem intensywnej rywalizacji Kompanii i jej holenderskiej odpowiedniczki, co stało się źródłem licznych wojen brytyjsko-holenderskich w XVII i XVIII stuleciu.
+
+Rosnąca w siłę Kompania miała naturalnie wielu wrogów. Nałożyły się na to niejasne powiązania między państwem a kapitałem prywatnym. Kompania zatrudniała profesjonalnych lobbystów, którzy pilnowali jej interesów w Parlamencie, a liczni członkowie Parlamentu posiadali jej akcje, którymi handlowano w publicznym, giełdowym obrocie. Do tego Kompania pozyskała intratne zlecenia na dostawy saletry (kluczowego składnika prochu strzelniczego) dla brytyjskiej marynarki, co wzmocniło jej wpływy w wojsku.
+
+W pierwszej połowie XVIII w., korona próbowała przejąć kontrolę nad korporacją. Najpierw założono konkurencyjną firmę z udziałem państwa, ale bogaci właściciele Kompanii wykupili znaczącą część udziałów i doprowadzili do połączenia dwóch firm.
+
+W 1756 r. wybuchła wojna siedmioletnia. Konflikt był pierwszą wojną o prawdziwie światowym zasięgu. Wzięła w nim udział większość ówczesnych potęg: po jednej stronie Brytyjczycy, Prusacy i Portugalczycy, po drugiej Austriacy, Rosjanie, Francuzi, Hiszpanie i Saksończycy. Walki toczyły się w Europie, Azji i Ameryce.
+
+Wielka Brytania potrzebowała wsparcia militarnego i finansowego Kompanii, więc strony doszły do porozumienia. Kompania została poddana kontroli państwa. W ustawie o Kompanii Wschodnioindyjskiej z 1773 r. ustalono ostatecznie, że Kompanią kieruje rada pięciu osób, z których trzy nominuje Parlament, dwie zaś akcjonariusze firmy. W zamian Kompania otrzymała monopol na handel z Indiami i Chinami, potwierdzono jej prawa do nabytków terytorialnych w Indiach (choć były to nabytki „na rzecz korony”) oraz dano prawo wypowiadania wojny i zawierania pokoju.
+
+Wojska Kompanii pokonały w Indiach Francuzów i ich hinduskich sojuszników w bitwie pod Palasi, w 1756 r. W efekcie władca Bengalu przyznał Kompanii prawo ściągania podatków w jego państwie, ustanawiając ją de facto władcą tych terenów.
+
+#### Kompania, władca Indii
+
+Kompania nie zamierzała poprzestawać na Bengalu. Korzystając z politycznych podziałów i rywalizacji między państwami indyjskimi, podporządkowywała sobie kolejne obszary. Urzędnicy pozostawiali miejscową arystokrację, która wciąż rządziła swoimi terenami, ale teraz z nadania Kompanii, która czerpała z tego kolosalne zyski.
+
+W połowie XIX w., pod władzą korporacji znalazły się niemal całe dzisiejsze Indie i Pakistan oraz fragmenty dzisiejszych: Bangladeszu, Mjanmy (Birmy), Indonezji i Nepalu.
+
+Kompania rządziła Indiami przez 100 lat (1757–1858). Stworzyła potężną, sprawną administrację, a jej interesy zabezpieczały trzy armie, liczące sobie w połowie XIX w. 250 tys. żołnierzy, czyli więcej, niż armia brytyjska. Niemal wszyscy wyżsi urzędnicy i oficerowie byli Brytyjczykami, a rządy Kompanii były okrutne. Podczas Wielkiego Głodu Bengalu, w 1770 r., zmarło ok. 10 mln osób, co stanowiło blisko 1/3 ludności tych terenów. Przyczyniła się do tego również polityka korporacji, która brutalnie ściągała podatki od zubożałej gwałtownie ludności, by powetować sobie spadek zysków.
+
+Pod wpływem Kompanii, Parlament przeforsował zwolnienie indyjskiej herbaty z ceł, co miało zmniejszyć straty. Oburzeni koloniści amerykańscy wyrzucili ją ze statków w porcie w Bostonie, co stało się zarzewiem amerykańskiej Wojny o Niepodległość.
+
+Kompania nawiązała również stosunki handlowe z największą ówczesną gospodarką świata – Chinami. Problem polegał na tym, że niewiele mieli Chińczykom do zaoferowania za ich jedwab, herbatę i porcelanę. Wpadli więc na pomysł, delikatnie mówiąc, wątpliwy moralnie. Zaczęli eksportować do Chin produkowane w Indiach opium. Oczywiście władcy Chin usiłowali zablokować handel, ale usankcjonowany przez Kompanię przemyt przybrał kolosalne rozmiary.
+
+Chińczycy, przerażeni postępującym w społeczeństwie nałogiem, skonfiskowali w 1839 r. opium bez odszkodowania, zabronili brytyjskim kupcom handlu i uwięzili ich w swoich kwaterach. Kompania znów ruszyła na wojnę, która przeszła do historii jako pierwsza wojna opiumowa. Chiny przegrały, musiały się otworzyć na handel narkotykiem, a Hongkong przeszedł pod władzę Brytyjczyków. W 1856 r. wybuchła druga wojna opiumowa, która podporządkowała Chiny zachodnim mocarstwom na niemal sto lat.
+
+#### Zmierzch i upadek Kompanii
+
+Krytyka brutalnej polityki Kompanii w metropolii i problemy finansowe korporacji powodowały stopniowe ograniczanie jej roli. Kolejne ustawy Parlamentu coraz mocniej podporządkowywały Kompanię władzy państwa.
+
+W 1813 r. zlikwidowano monopol na handel z Indiami, za wyjątkiem handlu herbatą. W 1833 r. Kompania ostatecznie straciła wszystkie brytyjskie monopole w Indiach i Chinach. Musiała się też zgodzić na zwiększenie roli Hindusów w administracji i armii. W 1835 r. Parlament przeznaczył część zysków Kompanii na rozwój edukacji i literatury w Indiach. W 1853 r. stanowiska urzędnicze w korporacji zaczęły podlegać otwartym konkursom, co zlikwidowało możliwość rozdawania pożądanych synekur przez dyrektorów Kompanii, ograniczając ich wpływy.
+
+Ostateczny cios Kompanii Wschodnioindyjskiej zadało Powstanie Sipajów. Sipajami nazywano Hindusów służących w armii Kompanii. W 1857 r. wywołali oni potężny bunt.
+
+Źródłem powstania były nadużycia, których urzędnicy Kompanii dopuszczali się na rodzimej ludności. Bezpośrednią iskrą, która wywołała wybuch, stała się sprawa tłuszczu zwierzęcego w nabojach, którymi posługiwali się żołnierze. W ówczesnej technologii strzelec, by naładować karabin, musiał odgryźć papierowe zamknięcie naboju. Żeby zapobiec zawilgoceniu prochu, papier nasączano tłuszczem zwierzęcym. To stanowiło problem tak dla muzułmanów (tłuszcz nieczystych świń), jak dla hinduistów (tłuszcz świętych krów). Kompania, zamiast wycofać się z niepopularnej decyzji, jeszcze zaogniła sytuację.
+
+Powstanie Sipajów zrujnowało północne Indie, ale niemal doprowadziło do zakończenia brytyjskich rządów w Indiach. Ostatecznie nie wszyscy Hindusi i nie wszyscy sipajowie poparli wystąpienie, co dało czas Brytyjczykom na ściągnięcie posiłków z Europy i stłumienie rebelii. Jednak Kompania została ostatecznie skompromitowana. W 1858 r. Wielka Brytania oficjalnie przejęła urzędników i armie Kompanii, podporządkowując Indie bezpośrednio rządowi.
+
+Kompania przetrwała w szczątkowej formie do 1874 r., gdy została oficjalnie rozwiązana.
+
+#### Dziedzictwo Kompanii Wschodnioindyjskiej
+
+Kompania zapisała wiele najgorszych kart w historii europejskiego kolonializmu, jednak nie sposób nie dostrzec jej wpływu na rozwój międzynarodowego biznesu na świecie.
+
+Kompania była jedną z pierwszych spółek akcyjnych w naszym rozumieniu tego terminu. Akcjami handlowano w sformalizowany sposób, co dało zaczątek dzisiejszym giełdom papierów wartościowych. Akcjonariusze odpowiadali tylko do wysokości udziałów, co stanowi dziś jeden z fundamentów korporacji. Jej agenci przecierali szlaki na styku biznesu i polityki i byli jednymi z pierwszych profesjonalnych lobbystów.
+
+Z ramienia Kompanii dokonano wielu odkryć geograficznych, a największe miasta dzisiejszych Indii zostały założone przez jej agentów. Motywacją korporacji był wyłącznie zysk, jednak to właśnie jej polityka w dużej mierze ukształtowała dzisiejszą Azję Południowo-Wschodnią. Od połowy XVII do połowy XIX wieku była najważniejszym graczem politycznym w regionie. Mówiąc językiem dzisiejszej geopolityki – regionalnym mocarstwem.
+
+Tak więc kiedy będziecie narzekać na rozpasanie jakichś korporacji, pamiętajcie, że mogło być gorzej. Google nie ma własnej armii i nie prowadzi wojen. Przynajmniej oficjalnie.
+
+<img src="./img/december/wschodnioindyjska-kompania.jpg"/><br><br>
+
+---
+
 ### 535 r. n.e.
 
 Wódz bizantyński Belizariusz wylądował na Sycylii i wkroczył do Syrakuz.
