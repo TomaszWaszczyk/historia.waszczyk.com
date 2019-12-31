@@ -16,6 +16,10 @@ Tamara de Lempicka
 
 ---
 
+![Wartownik 1 Odeskiego Batalionu Żydowskiego (Odessa, 1918). Mal. R. Pirgacz](./img/art/odessa.jpg)
+
+---
+
 Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
