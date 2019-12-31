@@ -18,6 +18,14 @@ Polacy i Żydzi będą karani śmiercią, a w mniej ciężkich wypadkach karą p
 
 Robotnicy przymusowi w Rzeszy.
 
+### 1953
+
+W Warszawie zaprezentowany został prototyp samochodu osobowego Syrena.
+Decyzja o podjęciu produkcji tego auta zapadła na odbywającym się w maju tego samego roku zjeździe Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej. Syrena, której głównym konstruktorem był 40 letni wówczas inżynier Karol Pionnier rozwijała prędkość do 100 km/h i spalała ponad 8 litrów benzyny na 100 kilometrów.
+Pierwsze seryjnie produkowane Syreny zjechały z taśmy montażowej Fabryki Samochodów Osobowych na Żeraniu w 1957 roku. Produkcję tego auta zakończono w roku 1983.
+
+<img src="./img/december/syrena.jpg"/><br><br>
+
 ### 1932
 
 Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma
