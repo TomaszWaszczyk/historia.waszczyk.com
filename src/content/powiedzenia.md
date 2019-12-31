@@ -2426,6 +2426,10 @@ Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium dif
 
 "Chcesz pomóc? Nie przeszkadzaj!"
 
+Zaprawdę jak światło i ciemność ujawnia samą siebie, tak prawda jest probieżą samej siebie i fałszu. Spinoza
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
