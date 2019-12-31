@@ -8,6 +8,13 @@ tags:
   - Księstwo Litewskie
 ---
 
+### 2019
+
+<video width="640" height="480" controls>
+  <source src="./movies/december/sluzba-zdrowia-2019.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1941
 
 Na terenie całej Rzeszy weszło w życie nowe prawo dla Polaków i Żydów zamieszkujących jej obszar. Czytamy w nim między innymi:
