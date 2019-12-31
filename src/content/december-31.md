@@ -10,6 +10,8 @@ tags:
 
 ### 2019
 
+Sytuacja słuzby zdrowia:
+
 <video width="640" height="480" controls>
   <source src="./movies/december/sluzba-zdrowia-2019.mp4" type="video/mp4">
 Your browser does not support the video tag.
