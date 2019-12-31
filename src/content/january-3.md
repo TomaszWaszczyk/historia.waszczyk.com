@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 1 stycznia
+title: 3 stycznia
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2018-01-01T10:00:00.000Z
+date: 2018-01-03T10:00:00.000Z
 tags:
   - 
-draft: true  
+draft: false  
 ---
 
 ### 2009 - The revolution has started
@@ -19,7 +19,10 @@ draft: true
 
 > The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
 
+### 1911
+
+https://en.wikipedia.org/wiki/Siege_of_Sidney_Street
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-3.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
