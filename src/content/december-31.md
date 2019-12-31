@@ -10,13 +10,13 @@ tags:
 
 ### 1941
 
-1941 roku na terenie całej Rzeszy weszło w życie nowe prawo dla Polaków i Żydów zamieszkujących jej obszar. Czytamy w nim między innymi:
+Na terenie całej Rzeszy weszło w życie nowe prawo dla Polaków i Żydów zamieszkujących jej obszar. Czytamy w nim między innymi:
 
 Polacy i Żydzi będą karani śmiercią, a w mniej ciężkich wypadkach karą pozbawienia wolności, o ile przez przejawianą nienawiść lub podburzającą działalność ujawnią wrogi w stosunku do niemczyzny nastrój i sposób myślenia, a w szczególności, jeśli występują z antyniemieckimi wynurzeniami, jeśli zrywają publicznie afisze niemieckich władz i instytucji oficjalnych oraz jeśli przez swe szczególne zachowanie się i postępowanie obniżają powagę państwa niemieckiej Rzeszy i niemieckiego narodu lub też szkodzą ich dobru.
 
 <img src="./img/december/robotnicy.jpg"/><br><br>
 
-Zdjęcie; robotnicy przymusowi w Rzeszy.
+Robotnicy przymusowi w Rzeszy.
 
 ### 1908
 
@@ -28,7 +28,7 @@ Zmarł w 2005 roku.
 
 ### 1530
 
-1530 roku w czasie polsko -mołdawskiej wojny o pokucie wojska polskie dowodzone przez hetmana polnego Jana Koła z Dalejowa poniosły pod Chocimiem bolesną klęskę. Przeciwnikem liczących 1400 żołnierzy wojsk polskich były czterokrotnie większe oddziały mołdawskie pod dowództwem hospodara mołdawskiego Piotra Raresza.
+Wczasie polsko -mołdawskiej wojny o pokucie wojska polskie dowodzone przez hetmana polnego Jana Koła z Dalejowa poniosły pod Chocimiem bolesną klęskę. Przeciwnikem liczących 1400 żołnierzy wojsk polskich były czterokrotnie większe oddziały mołdawskie pod dowództwem hospodara mołdawskiego Piotra Raresza.
 
 ### 1435
 
