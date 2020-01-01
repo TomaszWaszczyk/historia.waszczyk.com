@@ -3,7 +3,7 @@ layout: post
 title: 1 stycznia
 image: img/january/wolna-europa.jpg
 author: Tomasz Waszczyk
-date: 2018-01-01T10:00:00.000Z
+date: 2019-01-01T10:00:00.000Z
 tags:
   - Radio Wolna Europa
 ---
