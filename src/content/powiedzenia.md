@@ -2428,7 +2428,95 @@ Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium dif
 
 Zaprawdę jak światło i ciemność ujawnia samą siebie, tak prawda jest probieżą samej siebie i fałszu. Spinoza
 
+Jeżeli sądzisz, że wiesz już wszystko, to znaczy, że zostałeś źle poinformowany.
 
+Nie możesz zatrzymać żadnego dnia, ale możesz go nie stracić.
+
+Od cudzego zdania lepsze jest własne doświadczenie.
+
+Istnieje tylko dwóch dobrych ludzi – jeden zmarł, a drugi sięjeszcze nie narodził.
+
+Mądra pszczoła nie spija nektaru ze zwiędłego kwiatu.
+
+Jeżeli nie przyznajesz się do błędu, to popełniasz kolejny błąd.
+
+Kiedy robisz łaskę, nie licz na nagrodę. Kiedy szukasz nagrody, niewyrządzasz łaski.
+
+Gdy nie masz nic do ofiarowania, ofiaruj uśmiech.
+
+Im więcej praw, tym więcej złodziei.
+
+Kiedy pierwszy wóz staje, karawana się zatrzymuje.
+
+Aby być mądrym, nie wystarczy mieć wielu ksiąg. 
+
+Osioł dźwigający nagrzbiecie wiele książek nie jest przez to mądrzejszy.
+
+Śniadanie zjedz sam, obiadem podziel się z przyjacielem, a kolacjęoddaj wrogowi.
+
+Kto pyta, jest głupcem przez pięć minut. Kto nie pyta wcale,pozostaje głupcem przez całe życie.
+
+Głodnemu daj kawałek chleba, ale smutnemu daj kawałek twego serca.
+
+Dobre lekarstwo jest gorzkie w ustach, ale skuteczne w chorobie.
+
+Żaba na dnie studni nigdy nie zobaczy morskich fal.
+
+Dobre przypadki zdarzają się zwykle tym, którzy mają wiele optymizmu.
+
+Nauka, która trafia do uszu, lecz nie do serca, jest jak obiadjedzony w marzeniach.
+
+Gdy wieją wichry zmian, jedni budują mury, inni budują wiatraki.
+
+Kto ma w domu bogactwo, nie ma chwili spokoju.
+
+Co jawnie darujesz, potajemnie będzie ci zwrócone.
+
+I ogień, i woda są nieczułe na ludzkie cierpienia.
+
+Czas kosztuje złoto, ale za złoto czasu nie kupisz.
+
+Człowiek całe życie prześpi, jeśli wierzy w swoje sny.
+
+Nie bij muchy, która siedzi na głowie tygrysa.
+
+Najwięcej rozumu trzeba wtedy, gdy ma się do czynienia z głupcami.
+
+Jeden klucz nie robi hałasu, ale dwa klucze już brzęczą.
+
+Jeśli człowiek sam się nie pilnuje, to Niebo i Ziemia zniszczą go.
+
+Jeżeli zbłądzisz, nie oskarżaj o to Nieba. Jeżeli się potkniesz, nieoskarżaj o to Ziemi.
+
+Kapłan może wprowadzić cię do świątyni, ale ćwiczenie się w cnocienależy do ciebie.
+
+Ten, kto ma wino, powinien pić za życia, bo ani kropla nieprzedostanie się na tamten świat.
+
+Każdy krok zostawia ślad.
+
+Ludzie i zwierzęta należą do tej samej kategorii istot.
+
+Nie kłóć się z głupcem, bo postronni nie zauważą różnicy.
+
+Jeśli zdobędziesz się na cierpliwość w jednej chwili gniewu,zaoszczędzisz sobie sto dni przykrości.
+
+Należeć do rodzaju ludzkiego jest łatwo. Być człowiekiem jest trudno.
+
+By nie móc nawet spojrzeć na wódkę – trzeba spojrzeć na pijaka.
+
+Najwięcej czasu ma człowiek, który nie odkłada niczego na później.
+
+Im głębsza noc, tym bliżej świtu.
+
+Można utopić rozum w winie, ale nieszczęścia utopić się nie da.
+
+Dla przechodniów bądź gościnnym, dla sąsiadów – pomocnym, dlapoczciwych – przyjacielem, dla złych – obcym.
+
+Życie człowieka jest jak sen wiosenny, a bogactwa i zaszczyty jakprzemijające chmurki.
+
+Lekarz może wyleczyć z choroby, ale nie z losu.
+
+Wszyscy ludzie są mądrzy: jedni przed, inni po szkodzie.
 
 ---
 
