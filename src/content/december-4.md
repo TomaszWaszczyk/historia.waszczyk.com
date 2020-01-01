@@ -3,7 +3,7 @@ layout: post
 title: 4 grudnia
 image: img/december/kowalczyk.jpg
 author: Tomasz Waszczyk
-date: 2018-12-04T10:00:00.000Z
+date: 2019-12-04T10:00:00.000Z
 tags:
   - Auschwitz
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 16 grudnia
 image: img/december/wujek.jpg
 author: Tomasz Waszczyk
-date: 2018-12-16T10:00:00.000Z
+date: 2019-12-16T10:00:00.000Z
 tags:
   - ZOMO
 draft: false

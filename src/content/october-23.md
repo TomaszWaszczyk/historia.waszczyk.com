@@ -3,7 +3,7 @@ layout: post
 title: 23 października
 image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
 author: Tomasz Waszczyk
-date: 2018-10-23T10:00:00.000Z
+date: 2019-10-23T10:00:00.000Z
 tags:
   - 
 draft: false

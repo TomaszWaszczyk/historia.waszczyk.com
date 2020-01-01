@@ -3,7 +3,7 @@ layout: post
 title: 18 lutego
 image: img/february/flugblat.jpg
 author: Tomasz Waszczyk
-date: 2018-02-18T10:00:00.000Z
+date: 2019-02-18T10:00:00.000Z
 tags:
   - Historia
 ---

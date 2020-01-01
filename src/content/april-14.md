@@ -3,7 +3,7 @@ layout: post
 title: 14 kwietnia
 image: img/april/Executive_Order_6102.jpg
 author: Tomasz Waszczyk
-date: 2018-04-14T10:00:00.000Z
+date: 2019-04-14T10:00:00.000Z
 tags:
   - Historia
 draft: false

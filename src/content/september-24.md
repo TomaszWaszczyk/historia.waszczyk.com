@@ -3,7 +3,7 @@ layout: post
 title: 24 września
 image: img/september/paga.jpg
 author: Tomasz Waszczyk
-date: 2018-09-24T10:00:00.000Z
+date: 2019-09-24T10:00:00.000Z
 tags:
   - Paga
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 1 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-01T10:00:00.000Z
+date: 2019-11-01T10:00:00.000Z
 tags:
   - 
 draft: true

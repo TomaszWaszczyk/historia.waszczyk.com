@@ -3,7 +3,7 @@ layout: post
 title: 26 grudnia
 image: img/december/rad.jpg
 author: Tomasz Waszczyk
-date: 2018-12-26T10:00:00.000Z
+date: 2019-12-26T10:00:00.000Z
 tags:
   - Sowieci
 ---

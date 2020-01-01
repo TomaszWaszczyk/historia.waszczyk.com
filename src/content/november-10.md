@@ -3,7 +3,7 @@ layout: post
 title: 10 listopada
 image: img/november/bekanntmachung.jpg
 author: Tomasz Waszczyk
-date: 2018-11-10T10:00:00.000Z
+date: 2019-11-10T10:00:00.000Z
 tags:
   - Berliner Mauer
   - Deutsche Wiedervereinigung

@@ -3,7 +3,7 @@ layout: post
 title: 5 czerwca
 image: img/june/barchanski.jpeg
 author: Tomasz Waszczyk
-date: 2018-06-05T10:00:00.000Z
+date: 2019-06-05T10:00:00.000Z
 tags:
   - Służba Bezpieczeństwa
 draft: false

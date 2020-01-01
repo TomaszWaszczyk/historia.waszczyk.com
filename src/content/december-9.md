@@ -3,7 +3,7 @@ layout: post
 title: 9 grudnia
 image: img/december/ropa.jpg
 author: Tomasz Waszczyk
-date: 2018-12-09T10:00:00.000Z
+date: 2019-12-09T10:00:00.000Z
 tags:
   - Jaruzelski
 ---

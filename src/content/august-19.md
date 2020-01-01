@@ -3,7 +3,7 @@ layout: post
 title: 19 sierpnia
 image: img/august/2-rozbior.png
 author: Tomasz Waszczyk
-date: 2018-08-19T10:00:00.000Z
+date: 2019-08-19T10:00:00.000Z
 tags:
   - Historia
 ---

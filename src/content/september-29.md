@@ -3,7 +3,7 @@ layout: post
 title: 4 września
 image: img/septmeber/indeks.png
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2019-09-04T10:00:00.000Z
 tags:
   - 
 draft: true

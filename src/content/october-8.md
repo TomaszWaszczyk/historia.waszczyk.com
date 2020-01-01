@@ -3,7 +3,7 @@ layout: post
 title: 8 października
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-10-08T10:00:00.000Z
+date: 2019-10-08T10:00:00.000Z
 tags:
   - Historia
 ---
