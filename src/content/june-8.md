@@ -3,7 +3,7 @@ layout: post
 title: 8 czerwca
 image: img/june/collaborator.jpeg
 author: Tomasz Waszczyk
-date: 2018-06-08T10:00:00.000Z
+date: 2019-06-08T10:00:00.000Z
 tags:
   - TVP
 draft: false

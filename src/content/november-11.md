@@ -3,7 +3,7 @@ layout: post
 title: 11 listopada
 image: img/november/rada_regencyjna.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-11T10:00:00.000Z
+date: 2019-11-11T10:00:00.000Z
 tags:
   - Niepodległość Polski
 ---

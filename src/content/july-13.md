@@ -3,7 +3,7 @@ layout: post
 title: 13 lipca
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2018-07-13T10:00:00.000Z
+date: 2019-07-13T10:00:00.000Z
 tags:
   - Jan Karski
 ---

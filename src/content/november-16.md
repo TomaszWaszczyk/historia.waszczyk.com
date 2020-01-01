@@ -3,7 +3,7 @@ layout: post
 title: 16 listopada
 image: img/november/chopin.jpg
 author: Tomasz Waszczyk
-date: 2018-11-16T10:00:00.000Z
+date: 2019-11-16T10:00:00.000Z
 tags:
   - Chopin
 ---

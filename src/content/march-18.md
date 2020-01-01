@@ -3,7 +3,7 @@ layout: post
 title: 18 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2018-03-18T10:00:00.000Z
+date: 2019-03-18T10:00:00.000Z
 tags:
   - Putin
 ---

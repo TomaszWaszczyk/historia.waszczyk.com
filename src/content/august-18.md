@@ -3,7 +3,7 @@ layout: post
 title: 18 sierpnia
 image: img/august/WasserkraftwerkamDnjepr.jpg
 author: Tomasz Waszczyk
-date: 2018-08-18T10:00:00.000Z
+date: 2019-08-18T10:00:00.000Z
 tags:
   - Historia
 ---

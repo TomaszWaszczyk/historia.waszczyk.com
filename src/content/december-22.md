@@ -3,7 +3,7 @@ layout: post
 title: 22 grudnia
 image: img/december/zbrodniarze.jpg
 author: Tomasz Waszczyk
-date: 2018-12-22T10:00:00.000Z
+date: 2019-12-22T10:00:00.000Z
 tags:
   - KL Auschwitz
 ---

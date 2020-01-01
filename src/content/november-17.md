@@ -3,7 +3,7 @@ layout: post
 title: 17 listopada
 image: img/november/dziennik.jpg
 author: Tomasz Waszczyk
-date: 2018-11-17T10:00:00.000Z
+date: 2019-11-17T10:00:00.000Z
 tags:
   - Propaganda
 ---

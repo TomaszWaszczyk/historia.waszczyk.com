@@ -3,7 +3,7 @@ layout: post
 title: 2 września
 image: img/september/volks.png
 author: Tomasz Waszczyk
-date: 2018-09-02T10:00:00.000Z
+date: 2019-09-02T10:00:00.000Z
 tags:
   - Historia
 ---

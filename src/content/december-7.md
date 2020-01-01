@@ -3,7 +3,7 @@ layout: post
 title: 7 grudnia
 image: img/december/kowalski.jpg
 author: Tomasz Waszczyk
-date: 2018-12-07T10:00:00.000Z
+date: 2019-12-07T10:00:00.000Z
 tags:
   - Józef Kowalski
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 25 listopada
 image: img/november/erhard_wetzel.png
 author: Tomasz Waszczyk
-date: 2018-11-25T10:00:00.000Z
+date: 2019-11-25T10:00:00.000Z
 tags:
   - NSDAP
 ---
