@@ -3,7 +3,7 @@ layout: post
 title: 1 grudnia
 image: img/december/sojuz.jpg
 author: Tomasz Waszczyk
-date: 2019-12-01T10:00:00.000Z
+date: 2018-12-01T10:00:00.000Z
 tags:
   - Historia
 ---

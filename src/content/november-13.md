@@ -3,7 +3,7 @@ layout: post
 title: 13 listopada
 image: img/november/alina_janowska.jpg
 author: Tomasz Waszczyk
-date: 2019-11-13T10:00:00.000Z
+date: 2018-11-13T10:00:00.000Z
 tags:
   - Powstanie Warszawskie
 ---

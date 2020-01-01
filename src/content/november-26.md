@@ -3,7 +3,7 @@ layout: post
 title: 26 listopada
 image: img/november/kiszczak.jpg
 author: Tomasz Waszczyk
-date: 2019-11-26T10:00:00.000Z
+date: 2018-11-26T10:00:00.000Z
 tags:
   - Kiszczak
 ---

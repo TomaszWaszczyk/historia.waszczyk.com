@@ -3,7 +3,7 @@ layout: post
 title: 20 czerwca
 image: img/june/Wojciech_Roszkowski.jpg
 author: Tomasz Waszczyk
-date: 2019-06-20T10:00:00.000Z
+date: 2018-06-20T10:00:00.000Z
 tags:
   - Zachód
 ---

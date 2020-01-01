@@ -3,7 +3,7 @@ layout: post
 title: 17 czerwca
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2019-06-17T10:00:00.000Z
+date: 2018-06-17T10:00:00.000Z
 tags:
   - Source
 ---

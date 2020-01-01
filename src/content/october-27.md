@@ -3,7 +3,7 @@ layout: post
 title: 27 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2019-10-27T10:00:00.000Z
+date: 2018-10-27T10:00:00.000Z
 tags:
   - Bukowski
 ---

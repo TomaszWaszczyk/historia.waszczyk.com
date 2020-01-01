@@ -3,7 +3,7 @@ layout: post
 title: 27 listopada
 image: img/november/as.jpg
 author: Tomasz Waszczyk
-date: 2019-11-27T10:00:00.000Z
+date: 2018-11-27T10:00:00.000Z
 tags:
   - Historia
 ---

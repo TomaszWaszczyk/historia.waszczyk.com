@@ -3,7 +3,7 @@ layout: post
 title: 25 sierpnia
 image: img/august/2-rozbior.png
 author: Tomasz Waszczyk
-date: 2019-08-25T10:00:00.000Z
+date: 2018-08-25T10:00:00.000Z
 tags:
   - Historia
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 14 stycznia
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2019-01-14T10:00:00.000Z
+date: 2018-01-14T10:00:00.000Z
 tags:
   - 
 draft: false  

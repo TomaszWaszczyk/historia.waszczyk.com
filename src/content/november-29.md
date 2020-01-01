@@ -3,7 +3,7 @@ layout: post
 title: 29 listopada
 image: img/november/lublin.jpg
 author: Tomasz Waszczyk
-date: 2019-11-29T10:00:00.000Z
+date: 2018-11-29T10:00:00.000Z
 tags:
   - Historia
 ---

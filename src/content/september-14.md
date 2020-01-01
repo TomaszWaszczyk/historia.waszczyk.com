@@ -3,7 +3,7 @@ layout: post
 title: 14 września
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2019-09-14T10:00:00.000Z
+date: 2018-09-14T10:00:00.000Z
 tags:
   - Historia
 ---

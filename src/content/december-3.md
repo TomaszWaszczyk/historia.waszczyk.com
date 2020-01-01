@@ -3,7 +3,7 @@ layout: post
 title: 3 grudnia
 image: img/december/jaros.jpg
 author: Tomasz Waszczyk
-date: 2019-12-03T10:00:00.000Z
+date: 2018-12-03T10:00:00.000Z
 tags:
   - Władysław Gomułka
 ---

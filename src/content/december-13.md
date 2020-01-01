@@ -3,7 +3,7 @@ layout: post
 title: 13 grudnia
 image: img/december/praca.jpg
 author: Tomasz Waszczyk
-date: 2019-12-13T10:00:00.000Z
+date: 2018-12-13T10:00:00.000Z
 tags:
   - Sowieci
 draft: false

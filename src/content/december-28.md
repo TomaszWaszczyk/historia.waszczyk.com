@@ -3,7 +3,7 @@ layout: post
 title: 28 grudnia
 image: img/december/sievers.jpg
 author: Tomasz Waszczyk
-date: 2019-12-28T10:00:00.000Z
+date: 2018-12-28T10:00:00.000Z
 tags:
   - Sowieci
 ---

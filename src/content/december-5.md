@@ -3,7 +3,7 @@ layout: post
 title: 5 grudnia
 image: img/december/centralny.jpg
 author: Tomasz Waszczyk
-date: 2019-12-05T10:00:00.000Z
+date: 2018-12-05T10:00:00.000Z
 tags:
   - Tusk
 ---

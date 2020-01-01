@@ -3,7 +3,7 @@ layout: post
 title: 25 lipca
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2019-07-25T10:00:00.000Z
+date: 2018-07-25T10:00:00.000Z
 tags:
   - Source
 ---

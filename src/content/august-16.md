@@ -3,7 +3,7 @@ layout: post
 title: 16 sierpnia
 image: img/august/powstanie_slaskie.jpg
 author: Tomasz Waszczyk
-date: 2019-08-16T10:00:00.000Z
+date: 2018-08-16T10:00:00.000Z
 tags:
   - Wielki Strajk Chłopski
 ---

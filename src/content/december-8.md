@@ -3,7 +3,7 @@ layout: post
 title: 8 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2019-12-08T10:00:00.000Z
+date: 2018-12-08T10:00:00.000Z
 tags:
   - Sowieci
 ---

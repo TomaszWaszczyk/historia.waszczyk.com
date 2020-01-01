@@ -3,7 +3,7 @@ layout: post
 title: 10 grudnia
 image: img/december/massex.jpg
 author: Tomasz Waszczyk
-date: 2019-12-10T10:00:00.000Z
+date: 2018-12-10T10:00:00.000Z
 tags:
   - 
 draft: false

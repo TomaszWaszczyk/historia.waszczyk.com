@@ -3,7 +3,7 @@ layout: post
 title: 28 listopada
 image: img/november/trojka.jpg
 author: Tomasz Waszczyk
-date: 2019-11-28T10:00:00.000Z
+date: 2018-11-28T10:00:00.000Z
 tags:
   - Historia
 ---

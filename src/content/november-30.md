@@ -3,7 +3,7 @@ layout: post
 title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
-date: 2019-11-30T10:00:00.000Z
+date: 2018-11-30T10:00:00.000Z
 tags:
   - Historia
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 19 lipca
 image: img/july/siege-of-paris.jpg
 author: Tomasz Waszczyk
-date: 2019-07-19T10:00:00.000Z
+date: 2018-07-19T10:00:00.000Z
 tags:
   - Source
 ---

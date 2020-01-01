@@ -3,7 +3,7 @@ layout: post
 title: 29 grudnia
 image: img/december/victor.jpg
 author: Tomasz Waszczyk
-date: 2019-12-29T10:00:00.000Z
+date: 2018-12-29T10:00:00.000Z
 tags:
   - VAT
 ---

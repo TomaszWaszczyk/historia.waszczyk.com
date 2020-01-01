@@ -3,7 +3,7 @@ layout: post
 title: 28 lutego
 image: img/february/merkle.jpg
 author: Tomasz Waszczyk
-date: 2019-02-28T10:00:00.000Z
+date: 2018-02-28T10:00:00.000Z
 tags:
   - 
 draft: false

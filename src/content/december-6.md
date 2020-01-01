@@ -3,7 +3,7 @@ layout: post
 title: 6 grudnia
 image: img/december/olszewski.jpg
 author: Tomasz Waszczyk
-date: 2019-12-06T10:00:00.000Z
+date: 2018-12-06T10:00:00.000Z
 tags:
   - Olszewski
 ---

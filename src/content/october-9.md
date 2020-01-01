@@ -3,7 +3,7 @@ layout: post
 title: 9 października
 image: img/october/warsow-1944.jpg
 author: Tomasz Waszczyk
-date: 2019-10-09T10:00:00.000Z
+date: 2018-10-09T10:00:00.000Z
 tags:
   - Historia
 ---

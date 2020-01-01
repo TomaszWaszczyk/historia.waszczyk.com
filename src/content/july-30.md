@@ -3,7 +3,7 @@ layout: post
 title: 30 lipca
 image: img/XXI-16-2.jpg
 author: Tomasz Waszczyk
-date: 2019-07-30T10:00:00.000Z
+date: 2018-07-30T10:00:00.000Z
 tags:
   - Historia
 ---
