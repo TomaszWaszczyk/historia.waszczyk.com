@@ -3,7 +3,7 @@ layout: post
 title: 10 października
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-03-10T10:00:00.000Z
+date: 2018-03-10T10:00:00.000Z
 draft: true
 tags:
   - Filozofia

@@ -32,7 +32,7 @@ Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 Uczestniczył w obradach podzespołu do spraw zdrowia w ramach rozmów Okrągłego Stołu. Kawaler Orderu Orła Białego (1998), doktor honoris causa Uniwersytetu Medycznego w Łodzi i Uniwersytetu Yale.
 Zmarł 2 października 2009 roku w Warszawie.
 
-<img src="./img/december/edelmann.jpg"/><br><br>
+<img src="./img/january/edelmann.jpg"/><br><br>
 
 ### 1918
 
@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Hyperinflation
 W Królestwie Polskim został wprowadzony do obiegu pierwszy polski znaczek pocztowy.
 Przedstawiał on herb Królewstwa Polskiego i przeznaczony był tylko do wewnętrzenego obrotu. Do zagranicznego obrotu dopuszczano go tylko w przypadku korespondencji wysyłanej do Rosji. Znaczek ten zastąpił wprowadzone do obiegu dwa lata wcześniej znaczki rosyjskie, a jego cena wynosiła 10 kopiejek.
 
-<img src="./img/december/znaczek.jpg"/><br><br>
+<img src="./img/january/znaczek.jpg"/><br><br>
 
 ### 1819
 
@@ -51,7 +51,7 @@ Przedstawiał on herb Królewstwa Polskiego i przeznaczony był tylko do wewnęt
 Podstawowymi jednostkami miar nowopolskich były cal, ćwierć, stopa, łokieć (długość), cal geometryczny, stopa geometryczna, sążeń, pręt, sznur mierniczy (jednoski budowlane), staja i mila (drogowe), pręt kwadratowy i morga (miary powierzchni), łaszt, korzec, ćwierć i garniec (ciała sypkie), stągiew, beczka, kwarta (ciecze), cetnar, kamień, funt, uncja (handlowe).
 System ten obowiązywał do roku 1849, kiedy to wprowadzono miary rosyjskie.
 
-<img src="./img/december/jednostki.jpg"/><br><br>
+<img src="./img/january/jednostki.jpg"/><br><br>
 
 ### 1345
 
@@ -110,7 +110,7 @@ W IV w. n.e. zaczęto stosować podział miesiąca na tygodnie, które składał
 
 Średnia długość roku juliańskiego wynosi 365,25 dnia, lecz rzeczywista długość roku astronomicznego wynosi 365,2422 dnia. Kalendarz juliański opóźniał się więc o 1 dzień co 128 lat w stosunku do astronomicznego. W ten sposób do końca wieku XVI zawieruszyło się w kalendarzu juliańskim aż 10 dni. Gdyby kalendarz ten dalej obowiązywał, to w roku 10565 pierwszy dzień wiosny zbiegłby się Nowym Rokiem (1 stycznia).
 
-<img src="./img/december/kalendarz.jpg"/><br><br>
+<img src="./img/january/kalendarz.jpg"/><br><br>
 
 ---
 
