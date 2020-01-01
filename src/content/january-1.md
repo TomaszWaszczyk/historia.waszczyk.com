@@ -5,7 +5,7 @@ image: img/january/wolna-europa.jpg
 author: Tomasz Waszczyk
 date: 2018-01-01T10:00:00.000Z
 tags:
-  - Historia
+  - Radio Wolna Europa
 ---
 
 ### 1988
