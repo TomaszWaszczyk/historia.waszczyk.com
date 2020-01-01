@@ -52,6 +52,8 @@ https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
 
 https://library.harvard.edu
 
+capitaljewishmuseum.org
+
 https://archive.org/details/historyofeducati00monriala/page/234
 
 http://cbw.wp.mil.pl

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: 1 stycznia
+title: 14 stycznia
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2018-01-01T10:00:00.000Z
+date: 2018-01-14T10:00:00.000Z
 tags:
   - 
-draft: true  
+draft: false  
 ---
 
-### 
+### 1934
+
+https://pl.wikipedia.org/wiki/Marek_H%C5%82asko
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-14.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
