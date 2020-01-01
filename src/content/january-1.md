@@ -53,6 +53,28 @@ System ten obowiązywał do roku 1849, kiedy to wprowadzono miary rosyjskie.
 
 <img src="./img/january/jednostki.jpg"/><br><br>
 
+### 1659
+
+Potop szwedzki: król Jan Kazimierz wjechał triumfalnie do odzyskanego Torunia.
+
+Toruń miał w swej historii okresy wzlotów i upadków, podobnie jak i inne miasta. Wiele ucierpiał od naszych północnych sąsiadów zza Bałtyku. Największe zniszczenia miasto przeżyło w dobie wojen szwedzkich w latach 1626-1629, 1655-1660 i podczas wojny północnej 1700-1721.
+
+W czasie pierwszego najazdu szwedzkiego na Polskę w 1626 r., głównym teatrem działań wojennych było ujście Wisły, przy czym wojna dosięgła też Toruń. 16 i 17 lutego 1629 r. wojska króla szwedzkiego Gustawa Adolfa pod wodzą feldmarszałka Wrangla przypuściły szturm na Toruń. Na całe szczęście atak ten zakończył się niepowodzeniem, co miasto zawdzięczało bohaterskiej postawie płk. królewskiego Gerarda Denhoffa i burmistrza Jana Preussa. Nie obeszło się jednak bez strat materialnych. Uległy zniszczeniu bramy miejskie i mury, a przedmieścia zostały spalone.
+
+Ponownie „czarne chmury” zebrały się nad Toruniem w czasie „potopu” w 1655 r. 26 listopada znów pod miastem stanęli Szwedzi i zaczęło się regularne oblężenie. Tym razem Toruń skapitulował wobec króla Szwecji Karola X Gustawa. Stało się tak 4 grudnia 1655 r. za namową zdrajcy Hieronima Radziejowskiego, który towarzyszył Szwedom. Akt kapitulacji podpisany przez burmistrza Henryka Strobanda powodował, że miasto wypowiadało przysięgę wierności królowi polskiemu Janowi Kazimierzowi i uznawało króla szwedzkiego za nowego pana, ponadto Toruń musiał wpuścić załogę szwedzką i zapłacić kontrybucję. De facto władzę w Toruniu objął gubernator Prus Bengt Oxenstjerna i zaczął się okres okupacji, znaczony uciążliwymi rekwizycjami przez Szwedów.
+
+Na odmianę swego losu gród Kopernika czekał do 1658 r., kiedy został odbity z rąk szwedzkich. Teraz, stroną oblegającą Toruń były oddziały polskie wspierane przez Austriaków. Było o co walczyć, jako że Toruń stanowił klucz strategiczny do kontroli nad dolnym biegiem Wisły. Pod miastem skoncentrowano siły liczące ok. 20 tys. żołnierzy, nad którymi naczelne dowództwo objął Jerzy Lubomirski, marszałek wielki i hetman polny koronny. 26 września rozpoczęło się oblężenie, które po 25 tygodniach doprowadziło załogę szwedzką do kapitulacji 22 grudnia.
+
+1 stycznia 1659 r. wjechał triumfalnie do Torunia król Jan Kazimierz, któremu Rada Miejska musiała złożyć przysięgę wierności. Wprawdzie król udzielił Toruniowi amnestii za kolaborację ze Szwedami, ale nie szczędził mu też gorzkich słów za zdradę Rzeczypospolitej. Końcowy bilans potopu i okupacji szwedzkiej był dla miasta katastrofalny, tym bardziej, że cały czas szalała zaraza. Zniszczenia wojenne, koszty utrzymywania garnizonu szwedzkiego, rekwizycje i zwykłe rabunki doprowadziły Toruń do kryzysu gospodarczego.
+
+Toruń w czasie wojny północnej:
+
+Po potopie szwedzkim Toruń rozpoczął dzieło odbudowy, niestety brutalnie przerwane wybuchem kolejnej wojny – była to wojna północna 1700-1721. I znów na Toruń podobnie jak na całą Polskę spadł jak grom z nieba – najazd szwedzki, któremu przewodził król Szwecji Karol XII. Kiedy Szwedzi podeszli pod toruńską twierdzę i zaczęli intensywne bombardowanie we wrześniu 1703 r., miasto podjęło walkę i przeszło do obrony. Dopiero po prawie miesięcznej blokadzie załoga saska i mieszczaństwo Torunia skapitulowało 14 października 1703 r. Skutki tej honorowej walki były straszliwe – w wyniku bombardowań szwedzkich zapalił się ratusz i spłonęło całe wnętrze oraz zabytkowy hełm wieży. Ofiarą pożaru było też wiele kamienic w obrębie Rynku Staromiejskiego. W sumie znaczna część starówki legła w ruinie. Wszak to nie koniec nieszczęścia – liczne przemarsze obcych wojsk – szwedzkich, saskich, rosyjskich – a także polskich i ich rozboje, rabunki i gwałty dopełniały obrazu grozy. A Toruń znów był dotknięty plagą zarazy w latach 1708-1710, która następnie rozprzestrzeniła się na całe Prusy Królewskie.
+
+Na marginesie wojny północnej warto odnotować, że w jej trakcie w październiku 1709 r. doszło w Toruniu do historycznego spotkania dwóch monarchów: króla Augusta II i cara Piotra I. Ten ostatni zakwaterował się w hotelu „Pod Trzema Koronami”. Obaj przebywali w Toruniu przez dwa tygodnie, a czas upływał im nie tylko na dyskusjach politycznych lecz i setnej zabawie oraz tęgim piciu (ponoć obydwaj mieli „mocne głowy”).
+
+W rodzimej świadomości historycznej przechowywana jest pamięć o najeźdźcach ze wschodu lub zachodu Europy, którzy grabili nasz kraj. Rzadziej zachowujemy pamiętamy o agresorach z północy, jakimi byli Szwedzi. A ci też łupili polską ziemię, ile się tylko dało, a jej skarby wywozili do Szwecji.
+
 ### 1345
 
 1345 roku w czasie wojny polsko -czeskiej król Polski Kazimierz III Wielki i cesarz, rzymski Ludwik IV Bawarski zawarli pakt skierowany przeciwko Luksemburgom.
