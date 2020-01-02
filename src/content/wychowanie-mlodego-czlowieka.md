@@ -64,6 +64,10 @@ draft: false
 
 * https://www.czytajzalbikiem.pl/produkty/
 
+* Python na start! Programowanie dla nastolatków
+
+* Proste projekty dla młodych majsterkowiczów
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
