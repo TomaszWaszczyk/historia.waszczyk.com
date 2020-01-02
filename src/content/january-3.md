@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 3 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/bailout.png
 author: Tomasz Waszczyk
 date: 2019-01-03T10:00:00.000Z
 tags:
-  - 
+  - Bitcoin
 draft: false  
 ---
 
@@ -13,7 +13,7 @@ draft: false
 
 > “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”
 
-<img src="./img/bailout/bailout.png"/><br><br>
+<img src="./img/january/bailout.png"/><br><br>
 
 > The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China
 
