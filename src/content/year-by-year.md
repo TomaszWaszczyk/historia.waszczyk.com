@@ -275,9 +275,15 @@ https://pl.wikipedia.org/wiki/Cytadela_Warszawska
 
 https://en.wikipedia.org/wiki/Creditanstalt
 
-### 1811 
+### 1811
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
+
+### 1787
+
+Angielski filozof Jeremy Bentham projektuje więzienie idealne. W pracy naukowej wykłada nowe zasady budowy instytucji, w których ludzie powinni znajdować się pod nadzorem. W tytule precyzuje, że chodzi o architekturę „w szczególności więzień, ale też aresztów, fabryk, warsztatów, przytułków, lazaretów, manufaktur, szpitali, domów wariatów i szkół”.
+
+Jego Dom Nadzoru ma kształt pierścienia, podzielonego na pojedyncze cele tak, by komunikacja między więźniami była niemożliwa. W centrum znajduje się oddzielona od reszty wieża strażnicza. Cele są dobrze oświetlone, wieża – ciemna, dźwiękoszczelna, otoczona lustrami weneckimi. Dzięki temu więźniowie nigdy nie wiedzą, w którą stronę spogląda strażnik. Nie widzą, czy w ogóle tam jest. Wiedzą tylko, że mogą być obserwowani w każdej chwili. Bentham twierdził, że dzięki temu staną się strażnikami dla samych siebie, a więzienie...
 
 ### 1797
 
