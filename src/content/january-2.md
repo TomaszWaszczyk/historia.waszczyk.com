@@ -3,7 +3,7 @@ layout: post
 title: 2 stycznia
 image: img/january/dmowski.jpg
 author: Tomasz Waszczyk
-date: 2018-01-02T10:00:00.000Z
+date: 2019-01-02T10:00:00.000Z
 tags:
   - NKWD
 draft: false  
