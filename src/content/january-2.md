@@ -81,6 +81,16 @@ Austriacki książę cieszyński i Święty Cesarz Rzymski Leopold I (grafika) w
 
 <img src="./img/january/leopold.jpg"/><br>
 
+### 1492
+
+Rekonkwista: wojska chrześcijańskie zdobyły Emirat Grenady, ostatni bastion Maurów na Półwyspie Iberyjskim.
+
+W roku 1479 doszło do zawarcia małżeństwa między infantką Izabellą, od 1474 królową Kastylii i następcą tronu aragońskiego Ferdynandem, królem Aragonii od roku 1479 i zarazem do unii personalnej pomiędzy królestwami Kastylii i Aragonii. Parę tę zwano królami katolickimi, (los reyes catolicos). Pod rządami Izabelli I Kastylijskiej oraz Ferdynanda II Katolickiego doszło do zjednoczenia Hiszpanii oraz upadku muzułmańskiej Grenady w roku 1492. Tym samym zakończona została hiszpańska rekonkwista.
+
+Los reyes catolicos w roku 1478 powołali, za zgodą papieża Sykstusa IV, hiszpański odłam inkwizycji, której działania skierowane były najczęściej przeciwko nawróconym Żydom i Maurom oskarżanym o potajemne praktykowanie dawnych religii. Po wielogodzinnych torturach karano ich zwykle śmiercią przez uduszenie albo spalenie na stosie. Ponadto w latach 1492 i 1502 para królewska wydała dwa dekrety, na mocy których doszło do masowych wypędzeń niechrześcijan z Półwyspu Iberyjskiego.
+
+<img src="./img/january/rekonkwista.jpg"/><br>
+
 ### 69 r.n.e.
 
 Legiony z Germanii Górnej obwołały Witeliusza cesarzem rzymskim.
