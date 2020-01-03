@@ -28,12 +28,17 @@ Wspomniany już pistolet maszynowy "Blyskawica", którego konstrukcja opierała 
 
 <img src="./img/january/wielanier.jpg"/><br><br>
 
-
 ### 1986
 
 W Paryżu zmarł Jan Zumbach ps. ,,Kaczor Donald'' - podpułkownik pilot, as Polskich Sił Powietrznych na obczyźnie zajmujący 6 miejsce na ,,liście Bajana'' z dorobkiem 12 i 1/3 zniszczonych samolotów wroga, uczestnik walk we Francji, bitwy o Anglię, dowódca dywizjonu 303 i 133-go Skrzydła Myśliwskiego. Odznaczony Srebrnym Krzyżem Virtuti Militari, 4-krotnie Krzyżem Walecznych i 2-krotnie brytyjskim Zaszczytnym Krzyżem Lotniczym.
 
 <img src="./img/january/zumbach.jpg"/><br><br>
+
+### 1925
+
+Benito Mussolini rozwiązał włoski parlament i ogłosił się dyktatorem.
+
+<img src="./img/january/benito.jpg"/><br><br>
 
 ### 1911
 
