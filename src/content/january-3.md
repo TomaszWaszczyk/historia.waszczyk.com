@@ -120,6 +120,14 @@ Benito Mussolini rozwiązał włoski parlament i ogłosił się dyktatorem.
 
 https://en.wikipedia.org/wiki/Siege_of_Sidney_Street
 
+### 1870
+
+Rozpoczęto budowę Mostu Brooklińskiego w Nowym Jorku.
+
+W Nowym Jorku rozpoczęła się tego dnia budowa mostu wiszącego, który połączył dwie dzielnice miasta oddzielone cieśniną East River - Brooklyn i Manhattan. Budowa przeprawy mającej 1834 m długości i 26 m szerokości trwała aż 13 lat, kosztowała astronomiczną jak na owe czasy sumę 15 mln dol. i pochłonęła życie 27 robotników. Zaprojektowany przez słynnego inżyniera Johna Roeblinga most Brookliński był w chwili powstania największą tego typu konstrukcją na świecie - jego główne przęsło miało 486 m długości (najdłuższe w warszawskim moście Siekierkowskim ma 250 m). Przeprawa, która stała się jednym z symboli miasta, jest konstrukcją stalową, ale najbardziej charakterystyczne są jej oba kamienne pylony z neogotyckimi łukami.
+
+<img src="./img/january/most.jpg"/><br><br>
+
 ### 1863
 
 Komitet Centralny Narodowy podjął decyzję o wybuchu powstania styczniowego z chwilą ogłoszenia branki.
