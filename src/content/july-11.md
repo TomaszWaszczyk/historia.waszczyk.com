@@ -14,6 +14,10 @@ Manifestacja antyniemiecka na placu Piłsudskiego w Warszawie. Delegacja byłych
 
 <img src="./img/july/niemcy.jpg"/><br>
 
+### 1920
+
+https://pl.wikipedia.org/wiki/Linia_Curzona
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-11.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
