@@ -3,7 +3,7 @@ layout: post
 title: 11 lipca
 image: img/july/niemcy.jpg
 author: Tomasz Waszczyk
-date: 2019-07-11T10:00:00.000Z
+date: 2018-07-11T10:00:00.000Z
 tags:
   - Niemcy
 ---
