@@ -625,6 +625,8 @@ sekutnica - książkowo: kłótliwa, złośliwa, niesympatyczna kobieta; złośn
 
 Uzus językowy (od łac. usus - zwyczaj[1]), zwany też zwyczajem językowym – przyjęty w danej społeczności sposób posługiwania się systemem językowym, jego jednostkami i regułami ich łączenia. Uzus jest podstawą kształtowania się normy językowej – jeśli pewne elementy, początkowo uznawane za niepoprawne, staną się szeroko rozpowszechnione, a tym samym zaczną należeć do uzusu, to uzyskają one status poprawnych w ramach normy użytkowej, skąd po jakimś czasie mogą przejść do normy wzorcowej.
 
+kreowanie potrzeb
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
