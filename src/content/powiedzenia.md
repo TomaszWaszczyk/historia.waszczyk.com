@@ -2522,6 +2522,8 @@ https://en.wikiquote.org/wiki/Walter_Bagehot
 
 Człowiek jest wielki nie przez to, co posiada, lecz przez to, kim jest i nie przez to, co ma, lecz przez to, czym dzieli się z innymi.
 
+Alte Liebe rostet nicht.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
