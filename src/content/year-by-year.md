@@ -211,6 +211,48 @@ Wörgl was the site of the "Miracle of Wörgl" during the Great Depression. It w
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
 
+---
+
+BIS (Bank Rozrachunków Międzynarodowych) został założony w 1930 roku przez gubernatora Banku Anglii, Montague Normana i jego niemieckiego kolegę Hjalmar-a Schacht-a, który później został ministrem finansów Adolfa Hitlera.
+
+Bank został założony w celu ułatwienia przekazów pieniężnych związanych z niemieckimi reparacjami wynikającymi z traktatu wersalskiego, ale już na początku drugiej wojny światowej, BIS w dużej mierze był kontrolowany przez głównych nazistowskich urzędników. Ludzi takich jak Walter Funk, który był mianowany na ministra propagandy hitlerowskiej w 1933 roku, zanim został ministrem gospodarki. Kolejnym dyrektorem BIS w tym okresie był Emil Puhl, który jako dyrektor i wiceprezes Banku Rzeszy w Niemczech był odpowiedzialny za kontrolę nazistowskiego złota. Zarówno Funk jak i Puhl zostali skazani w procesie norymberskim za zbrodnie wojenne.
+
+Inni dyrektorzy BIS to Herman Schmitz, dyrektor IG Farben, którego spółka odpowiedzialna była za min produkowane cyklonu B, gazu stosowanego w hitlerowskich komorach gazowych służącego do zabijania żydów i dysydentów politycznych, w czasie Holokaustu. Podczas drugiej wojny światowej, IG Farben współpracował ze Standard Oil Co. Johna D. Rockefeller-a.
+Kolejny to Baron von Schroeder, właściciel JHStein Bank, banku który przetrzymywał depozyty gestapo.
+
+W książce “Trading With The Enemy, How the Allied multinationals supplied Nazi Germany throughout World War Two” opisano jak międzynarodowe siły podczas konferencji Bretton Woods w lipcu 1944 r. chciały zlikwidować Bank Rozrachunków Międzynarodowych, ponieważ wspierał wykradnie majątków w krajach okupowanych przez hitlerowskie Niemcy. Norwegia wezwała do likwidacji banku i była popierana przez Harryego Dexter Whitea, amerykańskiego sekretarza skarbu i Henryego Morgenthau, ale BIS przetrwał mimo oczywistych powiązań z nazistami.
+
+Higham pisze, że BIS stał się: "ścieżką dla transferów funduszy amerykańskich i brytyjskich płynących do Hitlera by pomóc mu budować maszynę wojenną". Minister finansów Hjalmar Schacht, określił zadanie banku jako "instytucji, która zachowa kanały komunikacji i porozumienia między przywódcami świata finansowego, nawet w przypadku konfliktu międzynarodowego. Zostało to zapisane w Statucie Banku i poparte przez rządy, że BIS powinien być zwolniony od zajęcia, zamknięcia lub wotum nieufności, bez względu na to czy jego współwłaściciele są w stanie wojny czy nie."
+
+"BIS był całkowicie pod kontrolą Hitlera od wybuchu II wojny światowej", pisze Higham.
+"Wśród dyrektorów pod przewodnictwem Thomasa H. McKittrickza był Hermann Shmitz, szef słynnej nazistowskiej IG Farben, baron Kurt von Schröder, szef J.H. Stein Bank of Cologne oficer i finansista Gestapo, dr Walter Funk szef Banku Rzeszy, oraz, oczywiście, Emil Puhl. Te dwie ostatnie osoby były osobiście obsadzone przez Hitlera ". 
+
+Higham również szczegółowo opisał jak złoto zrabowane z krajów okupowanych przez hitlerowców było złożone w sejfach kontrolowanych przez BIS i jak hitlerowcy, którzy następnie kontrolowali ten bank zakazali wszelkich dyskusji na temat kradzieży. "BIS był narzędziem Hitlera, ale jego dalsze istnienie zostało zatwierdzone przez Wielką Brytanię, nawet po tym jak Wielka Brytania udała się na wojnę z Niemcami. Brytyjski dyrektor Sir Otto Niemeyer i przewodniczący Montagu Norman, pozostali na stanowisku do końca wojny", pisze Higham.
+
+Kongresman John M. Coffee sprzeciwiał się, że amerykańskie pieniądze były inwestowane przez bank w 1944 roku. "Nazistowski rząd ma 85 milionów franków szwajcarskich w złocie w depozycie BIS. Większość członków zarządu składa się z nazistowskich urzędników. Jednak amerykańskie pieniądze są zdeponowane w banku ", skarżył się Coffee. W 1948 roku BIS został zmuszony do przekazania jedynie 4 mln funtów zrabowanego złota aliantom, ale dzięki ludziom takim jak Harry Truman i rodzinie Rockefellerów, bank nie został rozwiązany. Jeden z najbardziej wpływowych dyrektorów, nazistowskich, bankier Emil Puhl został zaproszony do Stanów Zjednoczonych jako gość honorowy w 1950 roku. 
+
+Pomimo niechlubnej przeszłości, BIS trwa do dziś jako główne ramie zarządzania światowych elit. Bank posiada władzę, poprzez kontrolę ogromnych ilości globalnej waluty. BIS kontroluje nie mniej niż 7% dostępnych światowych środków dewizowych, a także posiada 712 ton złota, prawdopodobnie znaczną część, tego złota została skradziona z krajów okupowanych przez nazistów, którzy kontrolowali bank w trakcie wojny. 
+
+Dzięki kontroli wymiany walut, a także złota, BIS może kontrolować warunki ekonomiczne w praktycznie każdym kraju. Pamiętaj, że następnym razem gdy Ben Bernanke czy prezes Europejskiego Banku Centralnego Jean-Claude Trichet zapowiedzą podwyżki stóp procentowych, nie stało się to bez zgody zarządu BIS.
+
+BIS jest po prostu ogromnym funduszem globalnego rządu, przez który przetacza się transfer majątku obywateli do IMF-u. "Na przykład, pieniądze amerykańskich podatników można przepuścić przez BIS do IMF-u i stamtąd właściwie gdziekolwiek indziej. W istocie, BIS pierze pieniądze, ponieważ nie ma konkretnych rachunkowości ani zapisów pochodzenia transferów, ani informacji o odbiorcach", pisze Casey.
+
+Fakt, że naziści byli ściśle zaangażowani w działalność globalnego banku centralnego, który jest obecnie reklamowany jako podstawa potęgi gospodarczej rządu światowego jest przerażające. Za każdym razem, gdy poznajemy historyczne korzenie światowego rządu, okazuje się, że naziści odegrali główną rolę w tworzeniu i administrowaniu instytucji, które dzisiaj mają na celu wprowadzenie zarządzania globalnego.
+
+Podobnie jak w przypadku instytucji, które złożyły się na powstanie Unii Europejskiej, nazistowskie odciski palców widoczne są wszędzie, podobnie z planami zmierzającymi w kierunku globalnej władzy, niszczącej państwa narodowe i ich suwerenność. 
+Fakt ten obala jakiekolwiek przesłanki, że globalny rząd jest przychylny, humanitarny i służy ludzkości. Centralizacja władzy w rękach nielicznych z natury jest niedemokratyczna, elitarna, i na niekorzyść zwykłych ludzi.
+
+Naziści, którzy tchnęli życie w przeszłe systemy globalnego autorytaryzmu są wykorzystywani do utworzenia obecnego światowego rządu. Ich dorobek został przywłaszczony przez elity, które okazały się bardziej cierpliwe w dążeniu do narzucenia światu dyktatury. Niemniej jednak ostateczny program pozostaje ten sam - rząd światowy, za zgodą społeczną lub przez podbój, którego jesteśmy świadkami.
+
+
+"To Schacht, nie Owen Young, był autorem koncepcji, która urzeczywistniła się jako Bank Rozrachunków Międzynarodowych BIS. Szczegóły zostały wypracowane na konferencji, której przewodniczył Jackson Reynolds, „jeden z ważniejszych nowojorskich bankierów”, a w której uczestniczyli też Melvin Traylor z First National Bank of Chicago, sir Charles Addis, wcześniej z korporacji banków Hong Kongu i Szanghaju (bank Brytyjski), oraz wielu bankierów francuskich i niemieckich10. BIS był instytucją kluczową z punktu widzenia sprawnego wdrożenia Planu Younga jako miejsce umożliwiające prowadzenie międzynarodowej polityki walutowej. 
+
+Schacht poddał także Youngowi pomysł, który już po II wojnie światowej zaowocował powołaniem Międzynarodowego Banku Odbudowy i Rozwoju IBRD (znanego także jako Bank Światowy)."
+
+...Na początku lat 30. najdoskonalszym narzędziem finansowej i politycznej kontroli nad światem, który Quigley określa „wierzchołkiem całego systemu”, był Bank Rozrachunków Międzynarodowych w Bazylei, w Szwajcarii. BIS świetnie funkcjonował w czasie II wojny światowej, gdy bankierzy – którzy, wszystko na to wskazuje, nie prowadzili ze sobą wojny – kontynuowali obopólnie korzystną wymianę pomysłów i informacji i snuli plany, jak należy urządzić powojenny świat. Jak zauważył jeden z autorów, wojna nie stanowiła dla międzynarodowych bankierów żadnej przeszkody:
+
+"Okoliczność, że bank zatrudniał prawdziwie międzynarodową ekipę, tworzyła w czasie wojny dziwaczną sytuację. Prezes banku, Amerykanin, współpracował na co dzień z zasiadającym w zarządzie banku Francuzem, którego zastępcą był z kolei Niemiec, podczas gdy funkcję Sekretarza Generalnego pełnił Włoch. Obywatele innych krajów zajmowali pozostałe kluczowe stanowiska. Wszyscy na bieżąco kontaktowali się ze sobą wyjątkiem pana McKittricka wszyscy na stałe przebywali w Szwajcarii i oczekiwano po nich, że okażą się niepodatni na naciski ze strony swoich władz. Jednak regionalni dyrektorzy banku pozostawali w swoich macierzystych krajach i nie mieli bezpośredniego kontaktu z centralą.     Mówi się jednakowoż, że H. Schacht, prezes Reichsbanku, przez cały ten okres utrzymywał w Bazylei osobistego przedstawiciela."  - Henry H. Schloss, The Bank for International Settlements, (Amsterdam: North Holland Publishing Company, 1958)
+
 ### 1929
 
 https://pl.wikipedia.org/wiki/Rozku%C5%82aczanie

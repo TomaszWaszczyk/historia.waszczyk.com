@@ -60,6 +60,22 @@ Rozmowa Gudzowaty Oleksy przez chwilę stała się tematem numer jeden polskiej 
 
 Ujawnione przez Oleksego mechanizmy działania lewicy, podejrzenia, zarzuty i opinie są warte nagłaśniania i wyjaśniania. Pokazują one zdaje się rzetelniejszy obraz III RP niż oficjalny przekaz.
 
+### Jesteśmy krajem postkolonialnym, bo "Balcerowicz realizował klasyczny plan Międzynarodowego Fundusz Walutowego"
+
+Ryszard Bugaj w rozmowie z Aleksandrą Rybińską mówi wprost "Powstał w Polsce kapitalizm, ale w wersji niekoniecznie odpowiadającej interesom dużych grup społecznych. To jest bezsporne. Prawda jest taka, że my nie za dużo rozumieliśmy, i mówię to o obu stronach barykady, nie za dużo rozumiał także Leszek Balcerowicz. Byliśmy zauroczeni wolnym rynkiem. I ten start zdeterminował dalsze losy Polski."
+
+Bugaj mówi również, że przy Okrągłym Stole ustalono zupełnie inny wariat przekształcenia systemu w system kapitalistyczny:
+- Zakładano przebudowę gospodarki na modłę kapitalizmu demokratycznego. Z tym, że to miał być model bliski temu, co wykształciło się po wojnie w Europie Zachodniej. (...) Przewidywana była droga bardziej ewolucyjna, mniej szokowa. Po wyborach 4 czerwca zarówno Obywatelski Klub Parlamentarny, jak i partnerzy PRL-owscy porzucili jednak te wytyczne (...). Przy Okrągłym Stole, i to po obydwu stronach, byli bowiem zwolennicy wówczas silnie dominującej ekonomii neoliberalnej.
+
+I jak mówi Bugaj nastąpiła później "terapia szokowa i przekształcenia według wskazań modelu ekonomii neoliberalnej". Aleksandra Rybińska zauważa, że nie byliśmy jako kraj suwerenni w decyzjach dotyczących przemian gospodarczych. I pyta Bugaja:
+- Narzucono nam taką, a nie inną wersję kapitalizmu?
+- Bez wątpienia tak. (...) Balcerowicz realizował klasyczny plan MFW i to całkowicie dobrowolnie. Nikt się temu nie sprzeciwiał, chociaż często kraje buntują się przeciwko zabiegom proponowanym przez MFW (...). U nas takiego oporu nie było. Przyjechał Jeffrey Sachs i mówił nam, co robić, i wszyscy byli zachwyceni.
+
+Według Bugaja Leszek Balcerowicz "właściwie nie próbował reformować przedsiębiorstw publicznych. Zakładał, że ta reforma się dokona poprzez prywatyzację. Najpierw upadną, potem zostaną przejęte i odbudowane". Przez taką "reformę" według Bugaja mamy teraz strukturę peryferyjną gospodarki, czyli "usługową wobec krajów zachodnich. Sześćdziesiąt parę procent przedsiębiorstw w Polsce jest pod kontrolą kapitału zagranicznego".
+
+Efekty tamtych decyzji przekładają się na zamożność Polaków. Jak mówi Bugaj:
+- Wykształca się powoli taka grupa ludzi, która zawsze istniała w USA, ale nigdy w Europie. Są to tzw. „pracujący biedni”, (...) posiadający formalnie pełnoetatową pracę, ale otrzymujących tak niskie wynagrodzenia, że spadają poniżej minimum socjalnego. W Polsce powoli powstaje taka grupa ludzi.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

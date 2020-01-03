@@ -3,7 +3,7 @@ layout: post
 title: 11 lipca
 image: img/july/niemcy.jpg
 author: Tomasz Waszczyk
-date: 2019-07-11T10:00:00.000Z
+date: 2018-07-11T10:00:00.000Z
 tags:
   - Niemcy
 ---
@@ -13,6 +13,10 @@ tags:
 Manifestacja antyniemiecka na placu Piłsudskiego w Warszawie. Delegacja byłych wojskowych z polskich formacji na wschodzie. W tle fasada Pałacu Saskiego.
 
 <img src="./img/july/niemcy.jpg"/><br>
+
+### 1920
+
+https://pl.wikipedia.org/wiki/Linia_Curzona
 
 ---
 

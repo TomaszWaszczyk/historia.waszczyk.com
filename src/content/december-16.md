@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2004
+
+O hołdzie pruskim każdy coś wie, bo o tę datę pytają w szkole, na lekcji historii. Poza tym namalował go Jan Matejko. O hołdzie ruskim mało kto z Polaków słyszał, choć Matejko też go namalował. Wiedzą za to dobrze Rosjanie.
+
+16 grudnia 2004 r. Duma Państwowa Federacji Rosyjskiej przyjęła ustawę o dniach wojennej sławy, zwycięskich dla Rosjii. W uzasadnieniu do tej ustawy napisano, że dzień 4 listopada staje się w Rosji świętem państwowym, zamiast rocznicy rewolucji bolszewickiej 7 listopada 1917 r., na pamiątkęoswobodzenia Moskwy od polskich i litewskich interwentów oraz heroizmu całego narodu.
+
+Rosja wróciła w ten sposób do starego ukazu carskiego, jeszcze z roku 1649, który uczynił dzień kapitulacji załogi polskiej na Kremlu 4 listopada 1612 r. świętem narodowym, zniesionym dopiero przez bolszewików.
+
+My, Polacy, też mamy co wspominać z tego czasu, a najbardziej dzień 29 października 1611 r., kiedy car rosyjski Dymitr Szujski, razem z braćmi, składali hołd królowi polskiemu i przyrzekali mu posłuszeństwo. Lokajski stosunek do Rosji, kształtowany pracowicie przez prawie pół wieku Polski sowieckiej, sprawił, że zapomina się o tym dniu, by nie „obrazić” Rosji. Owszem, trzeba pamiętać jako o dniach polskiej chwały.
+
+Lata 1598-1613 nazywane są w historii Rosji okresemWielkiej Smuty (SmutnojeWremja). Nastąpił kryzys carstwa i udana interwencja wojsk Rzeczypospolitej, która doprowadziła do tego, że Polka Maryna Mniszchówna została uznana za carową i panowała w Moskwie. Po antypolskim powstaniu carem został bojar Wasyl IV Szujski. W obawie przed Polską zawarł układ ze Szwecją, oddając jej Inflanty. To się nie spodobało królowi polskiemu. Wojsko polskie znów wyprawiło się do Moskwy. 4 lipca 1610 r. pod Kłuszynem (między Smoleńskiem a Moskwą) jazda polska, licząca niespełna 7 tysięcy ludzi, dowodzona przez hetmanaStanisława Żółkiewskiego, rozbiła w pył armię rosyjską kniazia Szujskiego i posiłki szwedzkie – razem 35 tysięcy ludzi! Było to największe militarne zwycięstwo Polaków od czasu bitwy pod Grunwaldem, do czasu Cudu nad Wisłą. W tym roku było 400-lecie.
+
+Wojska polskie zajęły ponownie Moskwę, a car został uwięziony i przewieziony do Polski! Wasyl Szujski uznał prawa królewicza Władysława Wazy do tronu rosyjskiego. 29 października 1611 r. na Krakowskim Przedmieściu w Warszawie odbył się triumfalny wjazd Stanisława Żółkiewskiego. Car i jego rodzina zostali zaprowadzeni na zamek królewski i złożyli hołdZygmuntowi III Wazie. Jako więzień króla polskiego, car został umieszczony na Mokotowie (oczywiście, w pałacu…). Potem wywieziono go do Gostynina, gdzie zmarł w roku 1612. W roku 1635 poselstwo rosyjskie przybyło do Warszawy z prośbą o wydanie trumien Wasyla, Dymitra i Jekatieriny Szujskich do Moskwy. Car został pochowany w Soborze Archangielskim w Moskwie.
+
+Polacy zostali wyparci z Kremla w roku 1612, a Sobór Ziemski, zwołany przez mieszczan i szlachtę rosyjską, obrał na cara księcia Michała Romanowa. Dał on początek nowej dynastii, panującej w Rosji do roku 1762, a z liniami bocznymi aż do rewolucji bolszewickiej.
+
+Dziś Federacja Rosyjska świętuje wyparcie załogi polskiej z Kremla jako Dzień Jedności Narodowej. Rosjanie mają do tego prawo. My powinniśmy natomiast pamiętać o dniach naszej chwały. Nie tylko o hołdzie pruskim, ale i ruskim.
+
 ### 1981
 
 Oddziały ZOMO dopuściły się mordu na bezbronnych górnikach Kopalni Węgla Kamiennego "Wujek " w Katowicach.

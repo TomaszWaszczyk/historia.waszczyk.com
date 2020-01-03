@@ -42,6 +42,8 @@ draft: false
 
 * Dlaczego tańczymy ze szczęścia i kipimy ze złości? Historyjki dla ciekawskich dzieci
 
+* Róża, a co chcesz wiedzieć? Komiks edukacyjny o technologiach dla dzieci
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start

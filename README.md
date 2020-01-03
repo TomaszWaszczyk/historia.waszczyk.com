@@ -1235,9 +1235,152 @@ Kościół a krycjaty i galileusz
 
 https://en.wikipedia.org/wiki/Larry_R._Williams
 
-
-
 http://www.sciaga.pl/tekst/47648-48-dwie_drogi_do_niepodleglosci_pilsudski_czy_dmowski_ideologia_narodowa_czy
 
 https://en.wikipedia.org/wiki/Blair_Hull
 
+Kolektywizacja
+
+Rewolucja fracncuska
+
+https://pl.wikipedia.org/wiki/El%C5%BCbieta_Czy%C5%BCewska
+
+https://pl.wikipedia.org/wiki/Akcja_T4
+
+Niemcy sudeccy, kraj sudecki
+
+https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Pa%C5%84stwowego_NRD
+
+traktat wersalski, cytadela warszawska, endecja, chadecja, entanta, pantograf, preliminarz, tumult, parcelować, paskarstwo, lokaout, suweren, numerus clausus, żydowskie chedery, parcel, tezauryzacja, afera żyrardowska, afera Francpolu, plan Dawesa/Younga, sztafaż, porządek wersalski, modus vivendi, Liga Narodów, Wersal, polityka frankofilska, bilans handlowy Polski, rząd sanacyjny, asumpt, grupa finansowa harrimann, kodyfikacja  s.111, peowiacy, rząd komisaryczny, inwektywa, sztafaż demokratyczny 118, ekspozytura 118, Brześć 118, prof Michał Kalecki 121,
+
+Jałta
+
+Mówią wieki, Ludwik Stoma - felietonista
+
+Sapkowski Trylogia Neren turm lux perpetura
+
+Norman Davies
+
+Jasienica
+
+Joanna Dark
+
+https://pl.wikipedia.org/wiki/Schaffgotschowie
+
+Wacław Potomski
+
+Michał_Stefan_Radziejowski
+Marco_Polo
+
+Zawisza Czarny
+
+Barbara Tuchmann Odległe Zwierciadło
+
+Kobieta w czasach Katedr, Kobieta w czasach wypraw krzyżowych, Regine Pernon
+
+https://pl.wikipedia.org/wiki/O_kulcie_jednostki_i_jego_nast%C4%99pstwach
+
+Muzłumanie we Francji są od wojny w Algierii
+
+rozbisurmanił 
+
+Psie Pole
+
+państwa wyszechrackie
+
+http://pl.wikipedia.org/wiki/Konfederacja_targowicka
+
+https://pl.wikipedia.org/wiki/Kolektywizacja
+
+http://pl.wikipedia.org/wiki/Lend-Lease_Act
+
+
+staroszlacheck przywilej Nihil novi nisi
+
+dekret bieruta
+
+zagłębie saary traktat wersalski
+
+
+Hazarowie, żydzi w Polsce to żydzi Hazarscy
+
+
+postanowienia traktatu wersalskiego wobec niemiec i polski
+
+https://pl.wikipedia.org/wiki/Kaba%C5%82a
+
+
+
+https://pl.wikipedia.org/wiki/Wolnomularstwo
+
+
+historia wojn religijnych we francji
+
+
+
+Obecnie mamy okres późnej sanacji 
+
+
+https://marucha.wordpress.com/2012/06/07/polski-tworca-grupy-bilderberg-jozef-retinger/
+
+
+
+Karl Bosch
+Wspomnienia Max Planc
+Vaslaw Smill kanadyjski  historyk 
+
+
+
+https://pl.wikipedia.org/wiki/%C5%81a%C5%84cuch_Markowa
+https://pl.wikipedia.org/wiki/Fall_Weiss
+https://pl.wikipedia.org/wiki/Pakt_antykominternowski
+
+http://historykon.pl/opcja-niemiecka-wywiad-piotrem-zychowiczem/2/
+
+https://pl.wikipedia.org/wiki/Philippe_P%C3%A9tain
+
+
+Stanisław Mikołajczyk (1901-1966)
+
+
+https://pl.wikipedia.org/wiki/Marzec_1968
+
+
+https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie
+
+
+Król z narodem, naród z królem.
+
+
+Traktat Wersalski
+
+Rotmistrz Pilecki
+
+http://www.msz.gov.pl/pl/aktualnosci/wiadomosci/nieznane_dokumenty_dotyczace_75__rocznicy_agresji_zsrr_na_polske
+
+Targowica
+
+https://en.wikipedia.org/wiki/History_of_Facebook#Facemash
+
+poseł siciński
+
+Agfa 1939
+
+https://pl.wikipedia.org/wiki/August_Emil_Fieldorf
+
+http://bialczynski.wordpress.com/2013/02/09/plan-carycy-katarzyny-polske-zgnebic-na-zawsze/
+https://pl.wikipedia.org/wiki/Rada_Pomocy_%C5%BBydom
+
+https://pl.wikipedia.org/wiki/Wanda_Rutkiewicz
+
+
+http://wpolityce.pl/historia/209340-14-sierpnia-1941-r-w-auschwitz-zginal-meczenska-smiercia-sw-maksymilian-kolbe
+https://pl.wikipedia.org/wiki/Internet_w_Polsce  17 sierpnia 1991
+https://pl.wikipedia.org/wiki/Wanda_Gertz
+https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy 12-15 maja
+
+https://pl.wikipedia.org/wiki/Powstanie_styczniowe 22 styczen 
+youtube --> Zapomniany generał Tadeusz Jordan Rozwadowski
+
+August Poniatowski ciota
+August III ciota
