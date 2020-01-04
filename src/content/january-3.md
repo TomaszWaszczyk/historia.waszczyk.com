@@ -10,6 +10,7 @@ draft: false
 ---
 
 ### 2009 - The revolution has started
+
 <br>
 
 > “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”

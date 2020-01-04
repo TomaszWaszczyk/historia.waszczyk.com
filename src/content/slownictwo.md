@@ -627,6 +627,8 @@ Uzus językowy (od łac. usus - zwyczaj[1]), zwany też zwyczajem językowy
 
 kreowanie potrzeb
 
+teflonowy człowiek/polityk - ktoś do kogo nic się nie "przykleja"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
