@@ -21,6 +21,14 @@ draft: false
 
 > The central issue is we’re developing into a plutocracy,” he told me. “We’ve got an enormous number of enormously rich people that have convinced themselves that they’re rich because they’re smart and constructive. And they don’t like government, and they don’t like to pay taxes.
 
+3 stycznia 2009 roku został utworzony pierwszy blok (genesis) w sieci Bitcoin. Blok genesis ma znacznie symboliczne, jest symbolem suwerenności monetarnej oraz ucieleśnieniem filozofii Satoshi’ego, gdzie odrzuca się scentralizowaną politykę systemu fiducjarnego na rzecz zdecentralizowanej kryptowaluty.
+
+Nieprzypadkowa jest też data utworzenia pierwszego bloku BTC, który powstał w szczytowym okresie globalnego kryzysu finansowego. Wiadomość wbudowana w kod szesnastkowy bloku bazowego po rozszyfrowaniu brzmi: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
+
+Powyższa wiadomość odnosi się do nagłówka artykułu w The Times z dnia uruchomienia Bitcoina. Ówczesny kanclerz skarbu Wielkiej Brytanii toczył wtedy debatę nad drugim dofinansowaniem dla banków z Wielkiej Brytanii, które ucierpiały w wyniku kryzysu finansowego.
+
+Satoshi Nakamoto posiadał wiedzę na temat tego, co dzieje się w polityce pieniężnej i jakie zagrożenia dotyczą gospodarek opartych o waluty fiducjarne. Praktyki banków centralnych oraz banków krajowych i prywatnych, które doprowadziły do kryzysu finansowego uznał za zagrożenie zarówno dla zaufania klientów i jak i wyceny tradycyjnych, o czym wspominał w poście z lutego 2009 roku.
+
 ### 1903
 
 W Częstochowie urodził się Seweryn Wielanier (zdjęcie) inżynier, uczestnik Powstania Warszawskiego, współkonstruktor polskiego pistoletu maszynowego "Błyskawica". Był żołnierzem Oddziału IV Kwatermistrzowskiego Komendy Głównej Armii Krajowej, gdzie odpowiadał za koordynację służby sanitarnej, geograficznej, uzbrojenia i intendentury.
