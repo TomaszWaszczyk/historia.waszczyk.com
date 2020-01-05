@@ -129,6 +129,16 @@ Malinowski zmarł w 1899 roku.
 
 <img src="./img/january/malinowski.jpg"/><br><br>
 
+### 1769
+
+James Watt opatentował maszynę parową.
+
+Wynalezienie maszyny parowej było o tyle ważne, że od tego czasu wszelką pracę ludzkich rąk można było ulepszyć dzięki temu, że zastąpiono ją pracą maszyn. Dzięki temu też ludzie mogli poczuć się dogodniej i nie przemęczać się aż tak w trakcie wykonywania różnego rodzaju czynności. Za twórcę maszyny parowej uważa się Jamesa Watta, który to w 1763 roku udoskonalił atmosferyczny silnik parowy. Tymczasem, pierwsze urządzenia oparte na sile sprężonej pary znane były już w pierwszym wieku naszej ery. Dzięki wynalazkowi maszyny parowej mogła rozpocząć się rewolucja przemysłowa. Pod napełnionym wodą kotłem spalano drewno lub węgiel, doprowadzając wodę do wrzenia. Wytworzona w taki sposób para była doprowadzana przez układ rozrządu do cylindra. Tłok został wprawiony w ruch przez naprzemienne wpuszczenie pary do przedniej i tylnej części cylindra. Następnie, za pośrednictwem korbowodu przenoszono wytworzoną energię na wał karbowy i koło zamachowe. Jedna maszyna mogła napędzić nawet i sto warsztatów tkackich. Zastąpienie siły mięśni przez urządzenia mechaniczne wpłynęło na upadek niewolnictwa i zwiększyło świadomość ludzi, nie tylko w aspektach typowo technicznych. Nastąpił wzrost świadomości społeczeństw. I chociaż maszyny parowe nie są już od dawna produkowane, to śmiało można stwierdzić, że rzeczywiście ich wpływ na postęp techniczny był nieoceniony. Nie ma drugiej takiej maszyny z tamtych czasów, która aż tak odbiłaby się na przemyśle. Dlatego wynalazek maszyny parowej jest tak ważny.
+
+Maszyna parowa zmieniła ludzkość Początek osiemnastego wieku bardzo zmienił naszą historię. Zaczęło się to od pomysłu pewnych dwóch mężczyzn. Jednym z nich był kowal a drugim szklarz. Wynaleźli oni maszynę parową. Początkowo maszyna ta składała się jedynie z prostego cylindra, w którym poruszał się tłok. Prosta z pozoru budowa miała jednak skomplikowany (jak na te czasy) mechanizm działania. Zasilane urządzenie było parą wodną, a właściwie ciśnieniem tej pary wodnej. Na początku nie bardzo zdawano sobie sprawę, jak zmieni przyszłość to niewielkie urządzenie. Jak zmieni się życie na ziemi, kiedy człowiek zacznie korzystać z wynalazku dwóch ludzi. Maszyna na początku była bardzo żarłoczna, pochłaniała wielkie ilości węgla. Późniejsze unowocześnienia spowodowały, że maszyna nabierała właściwych kształtów oraz funkcji. Jeśli zastanawiacie się, jakie skutki wynalezienia maszyny parowej widoczne są w naszym codziennym życiu, to czytajcie dalej. Najważniejszy to rozwinięcie transportu na szeroką skalę. Na początku transportowano głównie materiały, surowce. Dopiero po pewnym czasie zaczęto budować i konstruować pociągi osobowe, służące do podróżowania. Chyba wszyscy kojarzymy romantyczne filmy, gdzie pasażerowie podróżowali wolnymi lokomotywami, które niemiłosiernie kopciły. Warto też podkreślić, że zaczął zmieniać się przemysł na świecie. Praca stawała się bardziej wydajna, co zwiększało płace - zmniejszył się koszt pracy i uzyskania produktu. A to spowodowało, że produkty były dostępne dla większej ilości ludzi! Sklepy zaczęły powstawać i oferować swoje produkty, to wszystko wpłynęło na komfort życia. Maszyny wykorzystywano w górnictwie oraz w przemyśle włókienniczym. Po pewnym czasie powstała jednak rewolucja przemysłowa, niektórzy ludzie nie byli zadowoleni ponieważ tracili swoje miejsca pracy. Wynalezieniu maszyny parowej przypisuje się również wystąpienie grup społecznych. Ludność zaczęła się dzielić na burżuazję oraz klasę robotniczą, tak zwany proletariat. Takie rozwarstwienie zakończone zostało dopiero po wojnie.
+
+<img src="./img/january/watt.jpg"/><br><br>
+
 ### 1580
 
 Król Stefan Batory zdecydował o ujednoliceniu systemu monetarnego w Królestwie Polskim i Wielkim Księstwie Litewskim.
@@ -136,6 +146,58 @@ Dwa lata wcześniej uruchomiono w Olkuszu w której powstawały ówczesne monety
 Zdjęcie przedstawia Talara Miasta Gdańska wybitego w 1577 roku podczas oblężenia miasta przez wojska Batorego.
 
 <img src="./img/january/talar.jpg"/><br><br>
+
+Król Stefan Batory wprowadził polski system pieniężny w Wielkim Księstwie Litewskim.
+
+Stosowana w późnym średniowieczu i później metoda bicia monety. Potężne ramiona machiny pozwalały wytworzyć znaczną siłę niezbędną do precyzyjnego odbicia stempla. Rzecz jasna tempo takiej produkcji nie było zbyt imponujące- pozwalało na wybicie kilkudziesięciu monet w ciągu dnia.
+
+Okres denarowy:
+
+Denary wybite przez Mieszka I to właśnie pierwsze polskie pieniądze. Choć pojawiły się w obiegu na ponad tysiąc lat przed wprowadzeniem euro, można było nimi płacić... w całej Europie. System denarowy nie dość bowiem, że nie był polskim wynalazkiem, to we wczesnym średniowieczu miał charakter uniwersalny. Ba, od tego, w jakim kraju wypuszczono dany rodzaj denara, znacznie większe znaczenie miała jego jakość. Denar był podstawową monetą obiegową jeszcze w cesarstwie rzymskim. Ale jego wartość określił na nowo pierwszy cesarz średniowiecza, czyli Karol Wielki. System monetarny Karola Wielkiego opierał się na funcie, który odpowiadał dokładnie funtowi (karolińskiemu - było to 367,2 g) srebra. Funt dzielić się miał na 12 solidów (lub szylingów) i na 240 denarów. Tym samym denar Karola Wielkiego to moneta średniej wartości, o masie ok. 1,52 g srebra.
+
+Denar Mieszka I spełnia właśnie ten standard - pierwsze polskie monety ważyły mniej więcej 1,5 g. Wybito je z dobrej jakości srebra, bez "oszczędnościowych" domieszek. Mieszko I wybił zaledwie ok. 30 tys. monet denarowych - z łącznie ok. 50 kg srebra. Do dzisiejszych czasów zachowało się około 50 tych monet - wartość pojedynczej sztuki przekracza 25 tys. zł.
+
+Denary były bite przez kolejnych polskich władców jeszcze przez 300 lat po Mieszku I. Cały ten czas nazywamy okresem denarowym.
+
+System ten nosi pozory uniwersalnego porządku - w rzeczywistości był jednak raczej gigantycznym bałaganem. W obiegu w całej Europie krążyły denary z setek różnych emisji różnych władców, różnych krajów. Różniły się między sobą wręcz gigantycznie. Porządne denary Karola Wielkiego czy Mieszka I (czyli monety z VIII i X w.) ważyły nawet 10 razy więcej niż "kryzysowe" denary bite w XIIIw. Część z nich była stemplowana tylko z jednej strony - były tak cienkie, że nawet najzdolniejszy mincerz nie byłby w stanie wybić i awersu, i rewersu. Takie denary nazywano brakteatami (od łacińskiego słowa "brakteas" -czyli "blaszka").
+
+Świadome działania władców psujących monetę, by z tej samej ilości srebra wypuścić większą liczbę monet, to jeszcze nie wszystko. W roku 1200 nawet wybity według najlepszych standardów mieszkowy denar mógł już ważyć zauważalnie mniej - powszechna była bowiem praktyka zeszlifowywania części srebra z lepszych monet po to, by zachować ją dla siebie. Jeszcze większe było jednak prawdopodobieństwo, że ten dobry mieszkowy denar został już dawno przetopiony, a z pozyskanego w ten sposób (z tego jednego denara) srebra któryś z przedsiębiorczych władców wypuścił od 7 do 10 brakteatów.
+
+Okres groszowy:
+
+U progu XIV w., gdy cała Europa zmagała się z problemami wynikającymi z kompletnego zepsucia systemu denarowego, nie mogło być lepszego interesu niż wprowadzenie do obiegu nowego, porządnego pieniądza. W naszej części kontynentu pierwszy zrozumiał to czeski król Wacław II, który w 1300 r. rozpoczął bicie nowej srebrnej monety - grosza praskiego. Grosz był monetą grubą. W pierwszej emisji ważył 3,78 g i odpowiadał aż 12 tzw. małym denarom. Wszystkie monety spełniały te same standardy i były bite z wysokojakościowego srebra bez domieszek. Natychmiast więc to grosz przejął rolę monety rozliczeniowej w całym regionie. Tym bardziej że jakościowych praskich groszy nie brakowało.
+
+Wacław był posiadaczem potężnych - jak na ówczesne możliwości - złoży srebra w Kutnej Horze. Pozwalały one na bicie kilkudziesięciu milionów groszy rocznie - już w pierwszych dekadach XIV w. grosz praski określił więc nowy monetarny standard w całej Europie - także w Polsce. Wacław II zgromadził w ten sposób ogromny majątek. W średniowieczu monety w momencie wprowadzania do obiegu były własnością władcy. Mógł on za ich pomocą zarówno regulować zobowiązania własne i państwa, jak też skupować ziemię, złoto i inne kosztowności. Wacław i jego następcy nie stronili od takich inwestycji. Dość szybko -zapoczątkował to już Wacław II - także grosze zaczęły być psute.
+
+Śladem Wacława II próbował pójść Kazimierz Wielki. Bił on własne grosze -krakowskie. Odpowiadały one w pełni groszom praskim. Ambicje Kazimierza powstrzymały jednak realia - w Polsce niemal nie było złóż srebra, a do bicia groszy krakowskich wykorzystywano srebro z rynku wtórnego. To zaś oznaczało, że na emisji monet nie tylko nie da się zarobić, ale trzeba wręcz do niej dokładać. Dlatego też groszy krakowskich wybito stosunkowo niewiele. Nie miały specjalnego wpływu ani na zasobność skarbca Kazimierza Wielkiego, ani na funkcjonowanie gospodarki. Z pewnością natomiast bicie własnej monety przynosiło Kazimierzowi korzyści polityczne i wizerunkowe. Było świadectwem zjednoczenia państwa po okresie rozbicia dzielnicowego.
+
+Realnie jednak podstawową monetą pozostającą w Polsce w obiegu w czasach Kazimierza i przez następnych dwieście lat był importowany grosz praski.
+
+W tym samym mniej więcej czasie w Polsce funkcjonował jeszcze jeden importowany, lecz z innego niż Czechy kraju, pieniądz.
+
+Był to dukat - czyli moneta złota. Pierwsze polskie dukaty -w bardzo symbolicznych ilościach - wybił już Władysław Łokietek. Dukaty Łokietka ważyły 3,43 g, mieszcząc się w ówczesnych europejskich standardach. Dukaty bite były w wielu krajach.
+
+Kazimierz Wielki, który i tak musiał dopłacać do emisji srebrnych groszy krakowskich, nawet nie próbował eksperymentować z biciem złotej monety. Wybrał jednak całkiem sprytne rozwiązanie, dzięki któremu w polskim obiegu pojawiły się masowo dukaty pochodzące z Węgier. Podstawowym bogactwem kopalnym XIV-wiecznej polski nie było ani srebro, ani tym bardziej złoto, lecz sól. A jednym z głównych jej importerów - Węgry. Właśnie w złocie pobierano od węgierskich kupców opłaty za kolejne partie soli - tak węgierskie dukaty trafiały do państwowej kasy, a następnie do obiegu. Węgierskiego dukata ze względu na charakterystyczny ciemniejszy odcień większości nazywano czerwonym złotym. Stąd wywodzi się późniejsza nazwa już stricte polskiej waluty.
+
+Na srebrnych groszach i czerwonych złotych opierał się polski system walutowy do końca dynastii Jagiellonów. Rolę większej jednostki przeliczeniowej spełniała natomiast grzywna krakowska - odpowiadająca 196 g srebra i (początkowo) 48 groszom praskim. W miarę deprecjacji i psucia groszy praskich zmieniała się oczywiście liczba groszy składających się na jedną grzywnę - w ostatecznym rachunku liczyła się masa srebra.
+
+W połowie XVw. do akcji wkracza także złoty polski - jest to jednak początkowo tylko inny niż grzywna (bo oparty na liczbie, a nie na wadze) rodzaj jednostki obliczeniowej -złoty polski równał się zawsze 30 srebrnym groszom i był ekwiwalentem jednego czerwonego złotego.
+
+Droga do złotego:
+
+XVI i XVIIw. to czas dość radosnej twórczości kolejnych władców w zakresie kreacji monet i nominałów. W czasach Zygmunta Augusta oprócz dukatów i groszy bito w Polsce między innymi obole, dwudenary, dwugrosze, trojaki, czworaki i szóstaki. Coraz ważniejszą rolę odgrywały też talary, czyli srebrne monety o znacznej wartości iznacznej masie -28 g. Na początku XVIw. jeden talar odpowiadał 45 groszom - co zresztą nieźle ilustruje spadek jakości, zawartości srebra i realnej wartości tych ostatnich. Gdyby grosze zachowały standard z czasów Wacława II i Kazimierza Wielkiego, talar wart byłby nieco ponad 7groszy. W rzeczywistości jednak wartość grosza spadła przez dwa stulecia ponadsiedmiokrotnie.
+
+W połowie XVIIw. na dobre (choć, bądźmy szczerzy, kiepsko) zaczyna się historia złotego jako realnego pieniądza - już nie tylko jednostki obliczeniowej. Pierwszym fizycznym złotym jest kryzysowa trzy¬dzie¬stogroszówka ochrzczona mianem tymfa (więcej w ramce obok), bita na polecenie JanaII Kazimierza Wazy. Choć debiut monet o wartości jednego złotego trudno uznać za udany, to jednak wygoda związana z takim rozwiązaniem przeważyła. Różne typy monet złotowych są bite przez cały XVIIIw. W czasach saskich są one jednak mocno niepełnowartościowe. Sytuację polskiej waluty dodatkowo pogarsza to, że na zlecenie rządów państw ościennych - przede wszystkim Prus - jest ona fałszowana na skalę wręcz przemysłową. Cel takich działań był dość oczywisty - chodziło o destabilizację polskiego państwa i gospodarki.
+
+Ostatnia szansa?
+
+Odwrócić ten los próbował Stanisław August Poniatowski. Ostatni król polski - będący zresztą zapalonym numizmatykiem i posiadaczem jednej z największych kolekcji monet w ówczesnej Europie - przeprowadził gruntowną reformę monetarną. Za podstawę systemu przyjął grzywnę kolońską (233,8 g srebra). Bito z niej 10 talarów lub 80 złotych polskich. Dodatkowo, na znacznie mniejszą skalę, bito też złote dukaty -odpowiadające 16,75 złotego polskiego. W czasach Stanisława Augusta Poniatowskiego po raz pierwszy rozważano też wprowadzenie do obiegu banknotów -ostatecznie pokusił się o to (bez sukcesu) dopiero rząd insurekcji Kościuszkowskiej.
+
+Złoty i zaborcy:
+
+W okresie zaborów złoty stał się na powrót walutą przede wszystkim rozrachunkową -na którą przeliczano waluty zaborców. Ale w Królestwie Polskim bito także monety złotowe. W latach 1815-1834 bito 84 złote z jednej grzywny kolońskiej, później kurs złotego został sztywno związany z carskim rublem. Jeden złoty był wart piętnaście kopiejek. Od roku 1841 złote pozostawały w Królestwie Polskim w obiegu jednocześnie z rublem.
+
+Właśnie dzięki temu złoty pozostał obecny w powszechnej świadomości jako podstawowa - mimo wszystko - polska waluta. Ale to, że złoty był pod zaborami emitowany pod carskim patronatem, było główną przyczyną, dla której w pierwszym Sejmie wolnej Polski całkiem serio debatowano nad całkowicie nową nazwą dla polskiego pieniądza.
 
 ---
 
