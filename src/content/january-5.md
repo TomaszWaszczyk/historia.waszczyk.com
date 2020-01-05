@@ -112,6 +112,14 @@ Na zdjęciu Pocztówka upamiętniająca głównych dowódców polskich z lat 191
 
 <img src="./img/january/legiony.jpg"/><br><br>
 
+### 1895
+
+W Paryżu odbyła się publiczna degradacja kapitana pochodzenia żydowskiego Alfreda Dreyfusa, niesłusznie skazanego za zdradę państwa na dożywotnie pozbawienie wolności.
+
+Na dziedzińcu Szkoły Wojskowej w Paryżu został zdegradowany kapitan Alfred Dreyfus. Po ceremonii polegającej m.in. na złamaniu jego szpady odpłynął na Wyspę Diabelską w Gujanie Francuskiej, gdzie miał odsiadywać dożywocie za szpiegostwo na rzecz Niemiec. Oskarżenie oparto jednak na wątpliwych dowodach, a na przebieg procesu i towarzyszącą mu atmosferę miało wpływ żydowskie pochodzenie Dreyfusa. Francuski kontrwywiad szybko się zorientował, że kapitan nie zdradził, co dowództwu armii nie było na rękę. Wyżsi oficerowie najpierw zataili ustalenia kontrwywiadu, a potem spreparowali dowody winy Dreyfusa. Dopiero w 1899 r. pod naciskiem opinii publicznej, m.in. słynnego artykułu Emila Zoli pt. „Oskarżam”, Dreyfus odzyskał wolność.
+
+<img src="./img/january/dreyfus.jpg"/><br><br>
+
 ### 1866
 
 Władze rosyjskie wprowadziły na terenach przez siebie zagarniętych oraz w Królestwie, Polskim trwający przez wiele lat system rusyfikacji,który polegał w znacznym stopniu na obowiązkowej nauce języka rosyjskiego.
