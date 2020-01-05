@@ -9,6 +9,15 @@ tags:
   - Glass-Steagall
 ---
 
+### 1989
+
+Chińscy robotnicy zasłaniający ubrudzony farbą portret Mao Tse -Tunga.
+
+Zdjęcie wykonano w trakcie trwania zamieszek na placu Tiananmen
+23 Maja 1989 roku
+
+<img src="./img/may/mao.jpg"/><br><br>
+
 ### 1933
 
 Glass-Steagall was passed by the House of Representatives. It was passed by the Senate on May 25, 1933. It was signed into law by President Roosevelt on June 16, 1933, as part of the New Deal. It became a permanent measure in 1945.

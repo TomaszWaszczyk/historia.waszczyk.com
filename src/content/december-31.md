@@ -42,6 +42,12 @@ zbrojeniowych. Ponadto utworzono tzw. " wtórne getta " (pułapki), które miał
 
 <img src="./img/december/himmler.jpg"/><br><br>
 
+---
+
+Bitwa na Morzu Barentsa Taktyczne zwycięstwo Brytyjczyków nad Niemcami
+
+<img src="./img/december/barentsa.jpg"/><br><br>
+
 ### 1932
 
 Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma

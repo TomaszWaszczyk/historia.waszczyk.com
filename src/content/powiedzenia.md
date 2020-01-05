@@ -2524,6 +2524,8 @@ Człowiek jest wielki nie przez to, co posiada, lecz przez to, kim jest i nie pr
 
 Alte Liebe rostet nicht.
 
+https://www.aphorismen.de/suche?autor_quelle=karl+marx
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

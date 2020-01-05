@@ -110,6 +110,10 @@ draft: false
 
 ### Inne
 
+* https://www.subscribepage.com/kursRIE
+
+* https://www.ojcowskastronamocy.pl/bedeker-rodzicielski/
+
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 

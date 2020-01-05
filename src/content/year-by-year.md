@@ -193,6 +193,10 @@ https://en.wikipedia.org/wiki/Schuman_Declaration
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
 
+---
+
+<img src="./img/year-by-year/holy.jpg"/><br><br>
+
 ### 1948
 
 Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przedmiotów związanych z krytycznym myśleniem, samodzielnym myśleniem oraz logiką: https://en.wikipedia.org/wiki/Jakub_Berman
@@ -225,13 +229,13 @@ W książce “Trading With The Enemy, How the Allied multinationals supplied N
 Higham pisze, że BIS stał się: "ścieżką dla transferów funduszy amerykańskich i brytyjskich płynących do Hitlera by pomóc mu budować maszynę wojenną". Minister finansów Hjalmar Schacht, określił zadanie banku jako "instytucji, która zachowa kanały komunikacji i porozumienia między przywódcami świata finansowego, nawet w przypadku konfliktu międzynarodowego. Zostało to zapisane w Statucie Banku i poparte przez rządy, że BIS powinien być zwolniony od zajęcia, zamknięcia lub wotum nieufności, bez względu na to czy jego współwłaściciele są w stanie wojny czy nie."
 
 "BIS był całkowicie pod kontrolą Hitlera od wybuchu II wojny światowej", pisze Higham.
-"Wśród dyrektorów pod przewodnictwem Thomasa H. McKittrickza był Hermann Shmitz, szef słynnej nazistowskiej IG Farben, baron Kurt von Schröder, szef J.H. Stein Bank of Cologne oficer i finansista Gestapo, dr Walter Funk szef Banku Rzeszy, oraz, oczywiście, Emil Puhl. Te dwie ostatnie osoby były osobiście obsadzone przez Hitlera ". 
+"Wśród dyrektorów pod przewodnictwem Thomasa H. McKittrickza był Hermann Shmitz, szef słynnej nazistowskiej IG Farben, baron Kurt von Schröder, szef J.H. Stein Bank of Cologne oficer i finansista Gestapo, dr Walter Funk szef Banku Rzeszy, oraz, oczywiście, Emil Puhl. Te dwie ostatnie osoby były osobiście obsadzone przez Hitlera ".
 
 Higham również szczegółowo opisał jak złoto zrabowane z krajów okupowanych przez hitlerowców było złożone w sejfach kontrolowanych przez BIS i jak hitlerowcy, którzy następnie kontrolowali ten bank zakazali wszelkich dyskusji na temat kradzieży. "BIS był narzędziem Hitlera, ale jego dalsze istnienie zostało zatwierdzone przez Wielką Brytanię, nawet po tym jak Wielka Brytania udała się na wojnę z Niemcami. Brytyjski dyrektor Sir Otto Niemeyer i przewodniczący Montagu Norman, pozostali na stanowisku do końca wojny", pisze Higham.
 
-Kongresman John M. Coffee sprzeciwiał się, że amerykańskie pieniądze były inwestowane przez bank w 1944 roku. "Nazistowski rząd ma 85 milionów franków szwajcarskich w złocie w depozycie BIS. Większość członków zarządu składa się z nazistowskich urzędników. Jednak amerykańskie pieniądze są zdeponowane w banku ", skarżył się Coffee. W 1948 roku BIS został zmuszony do przekazania jedynie 4 mln funtów zrabowanego złota aliantom, ale dzięki ludziom takim jak Harry Truman i rodzinie Rockefellerów, bank nie został rozwiązany. Jeden z najbardziej wpływowych dyrektorów, nazistowskich, bankier Emil Puhl został zaproszony do Stanów Zjednoczonych jako gość honorowy w 1950 roku. 
+Kongresman John M. Coffee sprzeciwiał się, że amerykańskie pieniądze były inwestowane przez bank w 1944 roku. "Nazistowski rząd ma 85 milionów franków szwajcarskich w złocie w depozycie BIS. Większość członków zarządu składa się z nazistowskich urzędników. Jednak amerykańskie pieniądze są zdeponowane w banku ", skarżył się Coffee. W 1948 roku BIS został zmuszony do przekazania jedynie 4 mln funtów zrabowanego złota aliantom, ale dzięki ludziom takim jak Harry Truman i rodzinie Rockefellerów, bank nie został rozwiązany. Jeden z najbardziej wpływowych dyrektorów, nazistowskich, bankier Emil Puhl został zaproszony do Stanów Zjednoczonych jako gość honorowy w 1950 roku.
 
-Pomimo niechlubnej przeszłości, BIS trwa do dziś jako główne ramie zarządzania światowych elit. Bank posiada władzę, poprzez kontrolę ogromnych ilości globalnej waluty. BIS kontroluje nie mniej niż 7% dostępnych światowych środków dewizowych, a także posiada 712 ton złota, prawdopodobnie znaczną część, tego złota została skradziona z krajów okupowanych przez nazistów, którzy kontrolowali bank w trakcie wojny. 
+Pomimo niechlubnej przeszłości, BIS trwa do dziś jako główne ramie zarządzania światowych elit. Bank posiada władzę, poprzez kontrolę ogromnych ilości globalnej waluty. BIS kontroluje nie mniej niż 7% dostępnych światowych środków dewizowych, a także posiada 712 ton złota, prawdopodobnie znaczną część, tego złota została skradziona z krajów okupowanych przez nazistów, którzy kontrolowali bank w trakcie wojny.
 
 Dzięki kontroli wymiany walut, a także złota, BIS może kontrolować warunki ekonomiczne w praktycznie każdym kraju. Pamiętaj, że następnym razem gdy Ben Bernanke czy prezes Europejskiego Banku Centralnego Jean-Claude Trichet zapowiedzą podwyżki stóp procentowych, nie stało się to bez zgody zarządu BIS.
 
@@ -320,6 +324,10 @@ https://en.wikipedia.org/wiki/Creditanstalt
 ### 1811
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
+
+### 1800
+
+<img src="./img/year-by-year/wampir.jpg"/><br><br>
 
 ### 1787
 

@@ -81,6 +81,14 @@ Austriacki książę cieszyński i Święty Cesarz Rzymski Leopold I (grafika) w
 
 <img src="./img/january/leopold.jpg"/><br>
 
+### 1570
+
+W zemście za tajne pertraktacje rady miejskiej Nowogrodu Wielkiego z Litwą do miasta wkroczył car Iwan Groźny na czele oddziałów opriczników, którzy rozpoczęli trwające 5 tygodni grabieże i mordy tysięcy mieszkańców.
+
+Gdy arcybiskup Pimen, witając w Nowogrodzie Wielkim cara Iwana Groźnego, próbował go pobłogosławić, władca odmówił i nazwał duchownego zdrajcą. Monarcha doczekał do końca nabożeństwa, a następnie ograbił cerkiew Pimena, jego samego zaś pozbawił całego majątku. Potem Iwan i jego oprycznicy (członkowie oddziałów powołanych do tłamszenia bojarskiej opozycji) rozpoczęli grabież i rzeź miasta. Wrzucali związanych mieszkańców, w tym kobiety i dzieci, pod lód skutej rzeki Wołchow albo zabijali ich toporami i rohatynami. Powodem masakry było podejrzenie cara, że miasto chce się oddać pod opiekę Litwy po cofnięciu mu przywilejów. Historycy szacowali, że zamordowanych zostało kilkadziesiąt tysięcy ludzi, ale nowsze ustalenia mówią o kilku lub kilkunastu.
+
+<img src="./img/january/pimen.jpg"/><br>
+
 ### 1492
 
 Rekonkwista: wojska chrześcijańskie zdobyły Emirat Grenady, ostatni bastion Maurów na Półwyspie Iberyjskim.

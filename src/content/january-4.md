@@ -92,6 +92,14 @@ Tadeusz Zieleniewski).
 
 <img src="./img/january/sikorski.jpg"/><br><br>
 
+### 1923
+
+Włodzimierz Lenin zakończył pisanie List do Zjazdu (tzw. „testamentu Lenina”), w którym negatywnie ocenił swych potencjalnych następców na przywództwie WKP: Trockiego, Zinowiewa, Kamieniewa, Piatakowa i „ulubieńca partii” Bucharina oraz zamieścił sugestię usunięcia Józefa Stalina ze stanowiska sekretarza generalnego partii.
+
+Tę datę ma list napisany na rok przed śmiercią przez wodza rewolucji do delegatów XVIII zjazdu Wszechrosyjskiej Komunistycznej Partii (bolszewików): Stalin jest zbyt brutalny i wada ta, która jest całkiem do zniesienia w naszym środowisku i w stosunkach między nami, komunistami, staje się nie do zniesienia na stanowisku sekretarza generalnego. Wobec tego proponuję towarzyszom, by zastanowili się nad sposobem przeniesienia Stalina z tego stanowiska i wyznaczyli na to miejsce innego człowieka, który (...) charakteryzowałby się większą tolerancyjnością, większą lojalnością, większą uprzejmością (...) mniej kapryśnym usposobieniem itd.
+
+List przeczytany jedynie w regionalnych grupach delegatów został utajniony. Kilka lat później już za samo jego posiadanie groziła kara śmierci.
+
 ### 1847
 
 1847 r.
