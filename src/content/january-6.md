@@ -21,6 +21,14 @@ Zmarł 30 listopada 1868 roku.
 
 <img src="./img/january/hipolit.jpg"/><br><br>
 
+### 1573
+
+Po śmierci króla Zygmunta II Augusta, w Warszawie zebrał się po raz pierwszy poprzedzający wolną elekcję Sejm konwokacyjny.
+
+Po bezpotomnej śmierci króla Zygmunta Augusta w Warszawie po raz pierwszy rozpoczął obrady sejm konwokacyjny, poprzedzający niezbędną w sytuacji braku następcy wolną elekcję. Miał on ustalić listę kandydatów do tronu oraz termin i miejsce elekcji, a także określić kształt pacta conventa obowiązujących przyszłego monarchę. Brani pod uwagę byli m.in. Ernest Habsburg, król Jan III Waza i car Iwan Groźny. Najpoważniejszym kandydatem okazał się Henryk Walezy, brat króla Francji Karola IX, i to on kilka miesięcy później został wybrany na króla. 21 lutego następnego roku odbyła się jego koronacja. Niecałe cztery miesiące później uciekł do Francji.
+
+<img src="./img/january/sejm-konwokacyjny.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
