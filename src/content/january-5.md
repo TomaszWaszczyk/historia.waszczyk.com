@@ -207,6 +207,12 @@ W okresie zaborów złoty stał się na powrót walutą przede wszystkim rozrach
 
 Właśnie dzięki temu złoty pozostał obecny w powszechnej świadomości jako podstawowa - mimo wszystko - polska waluta. Ale to, że złoty był pod zaborami emitowany pod carskim patronatem, było główną przyczyną, dla której w pierwszym Sejmie wolnej Polski całkiem serio debatowano nad całkowicie nową nazwą dla polskiego pieniądza.
 
+### 1173
+
+Rozbicie dzielnicowe: po śmierci księcia mazowieckiego, sandomierskiego i krakowskiego oraz księcia zwierzchniego Polski Bolesława IV Kędzierzawego nowym księciem zwierzchnim został książę wielkopolski Mieszko III Stary.
+
+W wieku 51 lub 52 lat zmarł Bolesław Kędzierzawy, princeps, czyli książę zwierzchni Polski. Był jednym z sześciu synów Bolesława Krzywoustego i jego drugiej żony Salomei z Bergu (mieli też sześć córek). Księciem krakowskim (dzielnica senioralna), a także śląskim został w 1146 r., gdy z braćmi wygnał z kraju dotychczasowego seniora Władysława, który zyskał przydomek Wygnańca. Władysław był przyrodnim bratem Kędzierzawego, jedynym synem Krzywoustego z pierwszego małżeństwa ze Zbysławą. Oprócz ziemi krakowskiej i śląskiej Kędzierzawy od 1138 r. władał także Mazowszem przyznanym mu w testamencie przez ojca, a od 1166 r. księstwem sandomierskim, które objął po śmierci brata Henryka. Seniorem po Bolesławie został jego młodszy brat Mieszko Stary.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
