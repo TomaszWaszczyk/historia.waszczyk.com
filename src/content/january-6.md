@@ -3,7 +3,7 @@ layout: post
 title: 6 stycznia
 image: img/january/hipolit.jpg
 author: Tomasz Waszczyk
-date: 2018-01-06T10:00:00.000Z
+date: 2019-01-06T10:00:00.000Z
 tags:
   - 
 draft: false  

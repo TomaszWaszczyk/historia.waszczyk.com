@@ -11,7 +11,7 @@ draft: false
 
 ### 2017
 
-2017 roku w wieku 96 lat zmarł Janusz Brochwicz-Lewiński (zdjęcie) generał brygady Wojska Polskiego, żołnierz batalionu AK "Parasol".
+W wieku 96 lat zmarł Janusz Brochwicz-Lewiński (zdjęcie) generał brygady Wojska Polskiego, żołnierz batalionu AK "Parasol".
 
 Urodził się 17 września 1920 roku w Wołkowysku na Białorusi. Służbę w polskiej armii rozpoczął w 1938 roku w 76 Pułku Piechoty w Grodnie. W stopniu kaprala podchorążego służył w czasie wojny obronnej w 1939 roku. Zaledwie w dzień po radzieckiej agesji na Polskę dostał się do sowieckiej niewoli, z której zbiegł.
 Jako członek ZWZ-AK brał udział w konspiracji, a przez dwa lata od roku 1940 był pracownikiem administracyjnym i jednocześnie agentem wywiadu placówki w Puławach. W wyniku dekonspiracji przedostał się do Lublina, a następnie Janowa Lubelskiego, gdzie był dowódcą jednego z oddziałów partyzanckich. Jako uczestnik powstania warszawskiego walczył w Batalionie "Parasol", który zasłynął obroną Pałacyku Michla na Woli. Po zakończeniu powstania trafił do obozów przejściowych w Lamsdorf i Murnau,gdzie przebywał do momentu wyzwolenia przez Amerykanów.
