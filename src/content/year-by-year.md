@@ -139,6 +139,10 @@ Nick Szabo’s 1994 article “Formalizing and securing relationships on public 
 Your browser does not support the video tag.
 </video>
 
+### 1977
+
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+
 ### 1975
 
 https://en.wikipedia.org/wiki/Metamodernism
