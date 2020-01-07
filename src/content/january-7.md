@@ -9,7 +9,7 @@ tags:
 draft: false  
 ---
 
-### 2019
+### 2020
 
 <img src="./img/january/inflacja-2019.png"/><br><br>
 
