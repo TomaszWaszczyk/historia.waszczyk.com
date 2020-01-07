@@ -36,6 +36,8 @@ draft: false
 
 * Piaskowe malowanki
 
+* Piaskowe ozdoby choinkowe
+
 * Toledo told to children - Maria Aguado Molina
 
 * Przyjaciele żyrafy - Joanna Berendt, Aneta Ryfczyńska (Bajki o empatii)

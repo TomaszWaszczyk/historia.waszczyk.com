@@ -28,6 +28,8 @@ https://orkiestrahistoryczna.pl
 
 http://www.jhi.pl
 
+https://bibliotekacyfrowa.eu/
+
 https://www.generalkuklinski.com/muzeum/
 
 https://en.wikipedia.org/wiki/Black_Monday_(1987)
