@@ -114,6 +114,8 @@ draft: false
 
 * https://www.ojcowskastronamocy.pl/bedeker-rodzicielski/
 
+* https://hummuseconomicus.pl/dzieci-jako-dobra-publiczne/
+
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 
