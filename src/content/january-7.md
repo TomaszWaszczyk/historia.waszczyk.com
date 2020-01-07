@@ -24,6 +24,14 @@ W zakończonym tego dnia starciu, które przeszło do historii jako bitwa na dro
 
 <img src="./img/january/motti.jpg"/><br><br>
 
+### 1795
+
+Ostatni król Polski Stanisław August Poniatowski został wywieziony na zesłanie do Grodna.
+
+Niespełna dwa miesiące po upadku insurekcji kościuszkowskiej król Stanisław August Poniatowski pod eskortą rosyjskich żołnierzy wyjechał z Warszawy do Grodna. Caryca Katarzyna II zdecydowała, że to miasto będzie miejscem jego zesłania. Król próbował odwlec wyjazd, ale dowódca wojsk rosyjskich gen. Aleksander Suworow zignorował jego prośby, by poczekać na lepszą pogodę, i zmusił go do opuszczenia Zamku Królewskiego, jak się okazało, na zawsze. W Grodnie nadzorcą króla był książę Mikołaj Repnin. 24 października 1795 r. Rosja, Austria i Prusy podpisały traktat w sprawie III rozbioru Polski, a miesiąc później uwięziony król abdykował. W Grodnie przebywał dwa lata, zmarł w Petersburgu w 1798 r.
+
+<img src="./img/january/poniatowski.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
