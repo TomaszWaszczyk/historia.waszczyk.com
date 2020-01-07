@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2019
+
+<img src="./img/january/inflacja-2019.png"/><br><br>
+
 ### 1949
 
 W gmachu Ministerstwa Bezpieczeństwa Publicznego przy Koszykowej róg al. Ujazdowskich w Warszawie został zamordowany w czasie śledztwa Jan Rodowicz ,,Anoda'' - harcerz 21. Warszawskiej Drużyny Harcerzy im. gen. Ignacego Prądzyńskiego oraz słynnej „Pomarańczarni” (23 WDH im. Króla Bolesława Chrobrego), student Politechniki, żołnierz oddziału harcerskiego Grup Szturmowych Szarych Szeregów, w Powstaniu warszawskim zastępca dowódcy plutonu ,,Felek'', kompanii ,,Rudy'', batalionu ,,Zośka'', w akcji pod Arsenałem dowódca sekcji ,,butelki'', sierżant podchorąży - porucznik rezerwy piechoty ZWZ-AK, odznaczony Virtuti Militari V-ej klasy i dwukrotnie Krzyżem Walecznych . Jan Rodowicz został aresztowany w Wigilię 1948 roku. Aresztowanie Anody zainicjowała podpułkownik Julia Brystiger, ale formalny nakaz aresztowania wydał w tej sprawie major Wiktor Herer, czyli ówczesnym naczelnik Wydziału IV Młodzieży Departamentu V MBP, który po wielu latach usiłował wytłumaczyć swoją decyzję tym,, że aresztując „Anodę”, chcieli wraz z Brystigier uchronić go przed o wiele groźniejszym w skutkach dostaniem się w ręce słynącego z sadyzmu szefa Departamentu Śledczego, Józefa Różańskiego.
@@ -23,6 +27,20 @@ Wojna zimowa: zdecydowanym zwycięstwem wojsk fińskich zakończyła się bitwa 
 W zakończonym tego dnia starciu, które przeszło do historii jako bitwa na drodze Raate, Finowie zmasakrowali radziecką dywizję. Zastosowali taktykę, którą nazwali „motti” - polegającą na okrążaniu sił nieprzyjaciela posuwających się leśnymi duktami, rozdzielaniu ich na mniejsze grupy, zamykaniu w kotłach i w końcu niszczeniu głodem i ogniem. Fińscy historycy szacowali sowieckie straty w tej bitwie na 17 tys. ludzi. W ten sposób Finowie wielokrotnie zadawali Sowietom potężne straty. Wojna radziecko-fińska rozpoczęta atakiem Armii Czerwonej 30 listopada 1939 r., a zakończyła się 13 marca 1940 r. Finowie musieli oddać ZSRR część terytorium, ale straty Sowietów oraz ich sposób dowodzenia wskazywały, że w przyszłej wojnie Armia Czerwona będzie miała ogromne problemy.
 
 <img src="./img/january/motti.jpg"/><br><br>
+
+### 1839 r.
+
+Louis Jacques Daguerre ogłosił, że używając srebra i miedzianej płytki wynalazł proces zwany dagerotypem. Data ta jest przyjęta za dzień narodzin fotografii.
+
+W Paryżu ogłoszono wynalezienie dagerotypii, metody utrwalania obrazu, której twórcą był Louis Jacques Mandé Daguerre oraz jego nieżyjący już wspólnik Joseph Niépce. Metoda wykorzystywała znane urządzenie o nazwie camera obscura (ciemna komnata) - pudełko mające na jednej ściance otwór (obiektyw), a na drugiej szybkę (ekran), na której odbijał się wpadający do środka odwrócony obraz. Daguerre pokrył szybkę jodkiem srebra, co pozwoliło go utrwalić. Odkrył też zjawisko tzw. obrazu utajonego, niewidocznego po naświetleniu ekranu, ale dopiero po jego chemicznym wywołaniu. Dagerotypia uważana jest za początek fotografii, choć w 1839 r. jej odkrywcą ogłosił się też Brytyjczyk William Fox Talbot, wynalazca tzw. kalotypii, dzięki której powstawał negatyw pozwalający robić odbitki. Dagerotyp utrwalał obraz jednorazowo.
+
+<img src="./img/january/dagerotyp.jpg"/><br><br>
+
+---
+
+Powstanie w Paryżu ( zdjęcie ma niezwykła historię. Człowiek u pucybuta to jeden z pierwszych ludzi uwiecznionych na fotografii. Bulwar jak zwykle był zatłoczony, ale czas naświetlania trwał około 10 minut, stąd wrażenie opustoszałego miasta)
+
+<img src="./img/january/francja.jpg"/><br><br>
 
 ### 1795
 
