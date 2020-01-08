@@ -1386,3 +1386,5 @@ youtube --> Zapomniany generał Tadeusz Jordan Rozwadowski
 
 August Poniatowski ciota
 August III ciota
+
+Roman Kryże, ojciec wiceministra sprawiedliwość w rządzie PiS Andrzeja Kryże, który wysyłał za kratki za stwierdzenie, ze PRL nie była państwem niepodległym.
