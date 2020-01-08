@@ -13,6 +13,10 @@ draft: false
 
 <img src="./img/january/inflacja-2019.png"/><br><br>
 
+### 1995
+
+Zmarł Murray N. Rothbard.
+
 ### 1949
 
 W gmachu Ministerstwa Bezpieczeństwa Publicznego przy Koszykowej róg al. Ujazdowskich w Warszawie został zamordowany w czasie śledztwa Jan Rodowicz ,,Anoda'' - harcerz 21. Warszawskiej Drużyny Harcerzy im. gen. Ignacego Prądzyńskiego oraz słynnej „Pomarańczarni” (23 WDH im. Króla Bolesława Chrobrego), student Politechniki, żołnierz oddziału harcerskiego Grup Szturmowych Szarych Szeregów, w Powstaniu warszawskim zastępca dowódcy plutonu ,,Felek'', kompanii ,,Rudy'', batalionu ,,Zośka'', w akcji pod Arsenałem dowódca sekcji ,,butelki'', sierżant podchorąży - porucznik rezerwy piechoty ZWZ-AK, odznaczony Virtuti Militari V-ej klasy i dwukrotnie Krzyżem Walecznych . Jan Rodowicz został aresztowany w Wigilię 1948 roku. Aresztowanie Anody zainicjowała podpułkownik Julia Brystiger, ale formalny nakaz aresztowania wydał w tej sprawie major Wiktor Herer, czyli ówczesnym naczelnik Wydziału IV Młodzieży Departamentu V MBP, który po wielu latach usiłował wytłumaczyć swoją decyzję tym,, że aresztując „Anodę”, chcieli wraz z Brystigier uchronić go przed o wiele groźniejszym w skutkach dostaniem się w ręce słynącego z sadyzmu szefa Departamentu Śledczego, Józefa Różańskiego.
@@ -28,7 +32,17 @@ W zakończonym tego dnia starciu, które przeszło do historii jako bitwa na dro
 
 <img src="./img/january/motti.jpg"/><br><br>
 
-### 1839 r.
+### 1939
+
+W Warszawie odbył się pogrzeb Romana Stanisława Dmowskiego - założyciela, przywódcy i czołowego ideologa Narodowej Demokracji, pisarza politycznego, delegata polskiego na konferencję paryską w 1919 roku i sygnatariusza traktatu wersalskiego, ministra spraw zagranicznych w 1923 roku. Jego książka „Myśli nowoczesnego Polaka”, opublikowana po raz pierwszy w 1902 roku miała fundamentalny wpływ dla kształtującej się ideologii narodowej w Polsce i była faktycznym programem politycznym dla narodowych demokratów.
+Program Narodowej Demokracji opierał się na solidaryzmie społecznym, nacjonalizmie i powiększaniu polskiego stanu posiadania. Postulowano wypieranie Żydów i Niemców z życia gospodarczego i polonizowanie Litwinów, Białorusinów i Ukraińców.
+Roman Dmowski spoczął w rodzinnym grobowcu na cmentarzu bródnowskim w Warszawie.
+Udział w uroczystościach pogrzebowych wzięło od 100 do 200 tysięcy ludzi.
+Na zdjęciu Członkowie Ruchu Narodowo-Radykalnego Falanga (ubrani w stroje obozowe) niosą na ramionach trumnę ze zwłokami Romana Dmowskiego do katedry św. Jana.
+
+<img src="./img/january/dmowski2"/><br><br>
+
+### 1839
 
 Louis Jacques Daguerre ogłosił, że używając srebra i miedzianej płytki wynalazł proces zwany dagerotypem. Data ta jest przyjęta za dzień narodzin fotografii.
 

@@ -158,6 +158,8 @@ Od białego caratu do czerwonego. Tomy I - VII (KOMPLET)
 
 # Daty
 
+https://okruchyhistorii.blogspot.com/2015/11/niedzwiedz-wojtek-kolega-z-wojska.html
+
 https://pl.wikipedia.org/wiki/G%C3%BCnter_Grass
 
 https://pl.wikipedia.org/wiki/Karol_Dickens
