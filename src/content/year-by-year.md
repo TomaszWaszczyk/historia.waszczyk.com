@@ -183,6 +183,10 @@ However, due to several factors including international crises and dock strikes,
 
 https://en.wikipedia.org/wiki/Meritocracy
 
+https://pl.wikipedia.org/wiki/Dwie_koncepcje_wolno%C5%9Bci
+
+"Społczeństwo zostanie zmiażdżone ciężarem zbiorowej przeciętności, wszystko co bogate i różnorodne zostanie zmiażdżone ciężarem przyzwyczajenia, stałą tendencją ludzi do konformizmu który rodzi jedynie zwiędnięte zdolności skrępowane i storreryzowane, skórczone i skarwołaciałe istoty ludzkie" - Isaiah Berlin
+
 ### 1956
 
 https://en.wikipedia.org/wiki/Hyperinflation
@@ -350,6 +354,8 @@ Jego Dom Nadzoru ma kształt pierścienia, podzielonego na pojedyncze cele tak, 
 https://pl.wikipedia.org/wiki/Pa%C5%84szczyzna_w_Polsce
 
 ### 1789–1796 - Francja
+
+https://pl.wikipedia.org/wiki/Rewolucja_francuska
 
 https://en.wikipedia.org/wiki/Hyperinflation
 

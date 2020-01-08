@@ -2532,6 +2532,10 @@ https://en.wikipedia.org/wiki/Sic_semper_tyrannis
 
 H&M - haruj i milcz
 
+https://pl.wikiquote.org/wiki/Isaiah_Berlin
+
+https://pl.wikiquote.org/wiki/Hannah_Arendt
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
