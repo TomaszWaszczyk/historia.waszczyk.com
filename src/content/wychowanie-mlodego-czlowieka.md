@@ -72,6 +72,8 @@ draft: false
 
 * Proste projekty dla młodych majsterkowiczów
 
+* Lego Education
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
