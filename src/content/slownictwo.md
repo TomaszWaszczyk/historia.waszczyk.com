@@ -631,6 +631,8 @@ teflonowy człowiek/polityk - ktoś do kogo nic się nie "przykleja"
 
 https://en.wikipedia.org/wiki/Dutch_disease - przekleństwo marnotractwa tego co się ma vide Wenezuela
 
+https://en.wiktionary.org/wiki/locus_classicus
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
