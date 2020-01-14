@@ -2536,6 +2536,8 @@ https://pl.wikiquote.org/wiki/Isaiah_Berlin
 
 https://pl.wikiquote.org/wiki/Hannah_Arendt
 
+„Wszystko, co w życiu zrozumiałem, zrozumiałem tylko dlatego, że kocham” / Lew Tołstoj.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
