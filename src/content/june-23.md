@@ -15,6 +15,10 @@ W wieku 65 lat zmarł Krzysztof Habich, przedsiębiorca z powołania znany z toc
 
 > Niektórzy nie robią nic, ale inni robią nic.
 
+### 1793
+
+https://pl.wikipedia.org/wiki/Sejm_grodzie%C5%84ski_(1793)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-23.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

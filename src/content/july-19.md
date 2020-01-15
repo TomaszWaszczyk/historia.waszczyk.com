@@ -15,4 +15,3 @@ https://en.wikipedia.org/wiki/Franco-Prussian_War
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
-

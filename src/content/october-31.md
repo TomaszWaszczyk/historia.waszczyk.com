@@ -12,6 +12,9 @@ tags:
 
 https://en.wikipedia.org/wiki/William_Binney_(intelligence_official)
 
+
+https://pl.wikipedia.org/wiki/Romulus_Augustulus
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-31.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
