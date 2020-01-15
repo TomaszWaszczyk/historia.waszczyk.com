@@ -20,7 +20,6 @@ Sowieci i hitlerowcy wymordowali lwią cześć polskiej inteligencji. Ciąg dals
 
 w Aninie zmarł Marceli Godlewski - ksiądz katolicki, prałat, działacz społeczny, polityk związany z endecją, w 2009 roku pośmiertnie uhonorowany tytułem Sprawiedliwy wśród Narodów Świata. W latach 1915-45 był proboszczem kościoła Wszystkich Świętych w Warszawie. W okresie II wojny światowej prałat Godlewski wraz ze współpracownikami ocalił od Zagłady od tysiąca do trzech tysięcy Żydów. Wśród ocalonych przez prałata Godlewskiego byli m.in. profesor Ludwik Hirszfeld oraz państwo Wanda i Krzysztof Zamenhofowie. ,,Gdy wspominam jego nazwisko, ogarnia mnie wzruszenie. Namiętność i miłość w jednej duszy. Ongiś bojowy antysemita, kapłan wojujący w piśmie i słowie. Ale gdy los go zetknął z dnem nędzy, odrzucił precz swoje nastawienie i cały żar swojego kapłańskiego serca poświęcił Żydom'' - wspominał profesor Ludwik Hirszfeld.
 
-
 ### 1940
 
 W więzieniu NKWD w Moskwie rozstrzelany został podpułkownik dyplomowany Wojska Polskiego Kazimierz Stanisław Szpądrowski (zdjęcie).
@@ -31,6 +30,10 @@ Szpądrowski
 -Nie czuję się winnym, bo działałem dla dobra swego Państwa. Do pracy w wywiadzie trafiłem z rozkazu swego kierownictwa. Działalnością na szkodę Związku Radzieckiego nie zajmowałem się. Służba w polskim wywiadzie wykonywana przeze mnie nie przyczyniła szkód Związkowi Radzieckiemu.
 
 <img src="./img/december/szpadrowski.jpg"/><br>
+
+### 1923
+
+https://en.wikipedia.org/wiki/Ren%C3%A9_Girard
 
 ### 1872
 
