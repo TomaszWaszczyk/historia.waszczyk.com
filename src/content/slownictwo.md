@@ -633,6 +633,8 @@ https://en.wikipedia.org/wiki/Dutch_disease - przekleństwo marnotractwa tego co
 
 https://en.wiktionary.org/wiki/locus_classicus
 
+hold the fort - to assume responsibility, especially in another’s absence
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

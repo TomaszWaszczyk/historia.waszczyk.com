@@ -367,6 +367,10 @@ https://en.wikipedia.org/wiki/Hyperinflation
 
 Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empire - https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
 
+### 1773
+
+https://pl.wikipedia.org/wiki/Sejm_Rozbiorowy_(1773%E2%80%931775)
+
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking
