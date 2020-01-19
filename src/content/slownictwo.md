@@ -635,6 +635,8 @@ https://en.wiktionary.org/wiki/locus_classicus
 
 hold the fort - to assume responsibility, especially in another’s absence
 
+polityka appeasementu - https://pl.wikipedia.org/wiki/Appeasement
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
