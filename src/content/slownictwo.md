@@ -637,6 +637,8 @@ hold the fort - to assume responsibility, especially in another’s absence
 
 leaping frog - coś co się stale zmienia, skacze, zmienne
 
+polityka appeasementu - https://pl.wikipedia.org/wiki/Appeasement
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
