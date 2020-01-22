@@ -2538,6 +2538,10 @@ https://pl.wikiquote.org/wiki/Hannah_Arendt
 
 „Wszystko, co w życiu zrozumiałem, zrozumiałem tylko dlatego, że kocham” / Lew Tołstoj.
 
+Życie jest bogatsze niż ustawa.
+
+Życie to choroba śmiertelna przenoszona drogą płciową.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

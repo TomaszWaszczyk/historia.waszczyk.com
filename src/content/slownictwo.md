@@ -635,6 +635,8 @@ https://en.wiktionary.org/wiki/locus_classicus
 
 hold the fort - to assume responsibility, especially in another’s absence
 
+leaping frog - coś co się stale zmienia, skacze, zmienne
+
 polityka appeasementu - https://pl.wikipedia.org/wiki/Appeasement
 
 indolencja wytworzona przez stare nawyki

@@ -217,6 +217,10 @@ Jakub Berman zmienia sposób kształcenia elit polskich poprzez usunięcie przed
 
 Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/books/ajdukiewicz-propedeutyka_filozofii.pdf
 
+### 1940
+
+https://en.wikipedia.org/wiki/Bancor
+
 ### 1937
 
 https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
