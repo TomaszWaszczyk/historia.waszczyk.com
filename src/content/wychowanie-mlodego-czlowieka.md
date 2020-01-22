@@ -46,6 +46,8 @@ draft: false
 
 * Róża, a co chcesz wiedzieć? Komiks edukacyjny o technologiach dla dzieci
 
+* Mała encyklopedia nauki, Emmanuel Chanut
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
