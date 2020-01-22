@@ -639,6 +639,10 @@ leaping frog - coś co się stale zmienia, skacze, zmienne
 
 polityka appeasementu - https://pl.wikipedia.org/wiki/Appeasement
 
+heave
+to lift; to pull; to raise and fall in waves; dzwigac; pchac; falowac
+The lake heaved and surged, and we were watching the waves come and go.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
