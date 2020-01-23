@@ -179,6 +179,12 @@ By the summer of 1966, the pressure on sterling was acute but Wilson was determi
 
 However, due to several factors including international crises and dock strikes, by November 1967 the financial pressures had become overwhelming. On 16 November the Chancellor of the Exchequer, James Callaghan, with Wilson’s backing, recommended to the Cabinet that sterling should be devalued by just under 15 per cent. This was agreed and then implemented, at 14 per cent on 18 November. A package of measures including defence cuts, restrictions on hire purchase (credit), and higher interest rates was also agreed.
 
+---
+
+Nie ma boga! (Radziecki plakat antyreligijny z lat 60. XX wieku)
+
+<img src="./img/year-by-year/niemaboga.jpg"/><br><br>
+
 ### 1958
 
 https://en.wikipedia.org/wiki/Meritocracy
