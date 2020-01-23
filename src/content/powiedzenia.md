@@ -2542,6 +2542,10 @@ https://pl.wikiquote.org/wiki/Hannah_Arendt
 
 Życie to choroba śmiertelna przenoszona drogą płciową.
 
+Trzeba wrócić do początków, żeby zrozumieć koniec.
+
+Osioł lubi być głaskany z włosem.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
