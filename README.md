@@ -4,6 +4,8 @@ https://computerhistory.org
 
 http://e-historie.pl
 
+https://biblehub.com/ecclesiastes/1-9.htm
+
 Muzeum Historii Medycyny WUM
 
 http://www.digitalhistory.uh.edu/era.cfm?eraID=6&smtID=1
