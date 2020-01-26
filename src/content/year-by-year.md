@@ -421,6 +421,10 @@ https://pl.wikipedia.org/wiki/Celibat
 
 https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
 
+### 431-404 p.n.e.
+
+https://pl.wikipedia.org/wiki/Tukidydes który opisał https://pl.wikipedia.org/wiki/Wojna_peloponeska_(utw%C3%B3r)
+
 ### 560 p.n.e
 
 https://en.wikipedia.org/wiki/Croesus
