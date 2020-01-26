@@ -2546,6 +2546,8 @@ Trzeba wrócić do początków, żeby zrozumieć koniec.
 
 Osioł lubi być głaskany z włosem.
 
+Ronald Reagan: Jedna z gorszych rzeczy jaką człowiek może usłyszeć: Jesteśmy z rządu i przyszliśmy pomóc.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
