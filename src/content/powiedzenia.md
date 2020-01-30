@@ -2548,6 +2548,12 @@ Osioł lubi być głaskany z włosem.
 
 Ronald Reagan: Jedna z gorszych rzeczy jaką człowiek może usłyszeć: Jesteśmy z rządu i przyszliśmy pomóc.
 
+Przeszłość jest prologiem. Szekspir
+
+fluctuat nec mergitur
+
+"Those who talk should do and only those who do should talk."
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
