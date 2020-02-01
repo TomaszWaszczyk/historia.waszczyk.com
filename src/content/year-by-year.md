@@ -36,6 +36,8 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 <a href="./books/mmt.pdf" target="_blank">MMT</a>
 
+https://en.wikipedia.org/wiki/Green_New_Deal
+
 ---
 
 #### August

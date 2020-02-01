@@ -2554,6 +2554,8 @@ fluctuat nec mergitur
 
 "Those who talk should do and only those who do should talk."
 
+https://pl.wikipedia.org/wiki/Wu_wei
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
