@@ -14,6 +14,14 @@ draft: false
 
 https://pl.wikipedia.org/wiki/Traktat_nicejski
 
+### 1944
+
+W Warszawie żołnierze oddziału specjalnego Kedywu Komendy Głównej AK dokonali udanego zamachu na Franza Kutscherę, szefa SS i policji Dystryktu Warszawskiego.
+
+O godz. 9.07 żołnierze Armii Krajowej zastrzelili w Alejach Ujazdowskich warszawskiego dowódcę SS i policji SS-Brigadeführera (generała majora) Franza Kutscherę. Akcję przeprowadził oddział „Pegaz” Kierownictwa Dywersji (Kedywu), którym dowodził Bronisław Pietraszewicz ps. „Lot”. W zamachu uczestniczyło wraz z łączniczkami 12 akowców. Czterech zginęło: Pietraszewicz oraz Marian Senger ps. „Cichy” zmarli w szpitalu w wyniku odniesionych ran, Kazimierz Sott ps. „Sokół” i Zbigniew Gęsicki „Juno” zostali osaczeni przez Niemców na moście Kierbedzia. Dzień po zamachu w Alejach Niemcy rozstrzelali sto osób. Jednak potem, aż do wybuchu powstania warszawskiego, zaniechali tej formy terroru.
+
+<img src="./img/february/kedyw.jpg"/><br>
+
 ### 1925
 
 Stacja doświadczalna Polskiego Towarzystwa Radiotechnicznego mieszcząca się w Warszawie przy ulicy Narbutta nadała pierwszą oficjalną audycję radiową. Audycji tej można było wysłuchać na produkowanych wtedy przez warszwską firmę Radjopol odbiornikach radiowych.
