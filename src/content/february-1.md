@@ -31,4 +31,4 @@ Głównym postanowieniem tego sejmu było ograniczenie liczebności wojsk Rzeczp
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
