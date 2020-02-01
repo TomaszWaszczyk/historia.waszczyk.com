@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 1 lutego
-image: img/february/merkle.jpg
+image: img/february/piskor.jpg
 author: Tomasz Waszczyk
-date: 2018-02-01T10:00:00.000Z
+date: 2019-02-01T10:00:00.000Z
 tags:
-  - 
+  - Wojsko Polskie
 draft: false
 
 ---
@@ -13,6 +13,14 @@ draft: false
 ### 2003
 
 https://pl.wikipedia.org/wiki/Traktat_nicejski
+
+### 1889
+
+W Borze koło Ostrowca Świętokrzyskiego urodził się Tadeusz Piskor (zdjęcie)-generał Wojska Polskiego, dowódca Armii "Lublin".
+20 września 1939 roku trafił do niemieckiej niewoli. Osadzony został w obozie VII A Murnau, a następnie kolejno w oflagach VIII B Silberberg, IV C Colditz , X C Lübeck i VI B Dössel (był komendantem tajnej organizacji wojskowej, wchodzącej w struktury AK.
+Wolność odzyskał 30 kwietnia 1945 roku. Wyjechał do Londynu, gdzie do śmierci w 1951 roku działał w Komisji Historycznej Sztabu Głównego.
+
+<img src="./img/february/piskor.jpg"/><br>
 
 ### 1717
 
