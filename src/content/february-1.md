@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1 lutego
-image: img/february/piskor.jpg
+image: img/february/radiofonia.jpg
 author: Tomasz Waszczyk
 date: 2019-02-01T10:00:00.000Z
 tags:
@@ -13,6 +13,14 @@ draft: false
 ### 2003
 
 https://pl.wikipedia.org/wiki/Traktat_nicejski
+
+### 1925
+
+Stacja doświadczalna Polskiego Towarzystwa Radiotechnicznego mieszcząca się w Warszawie przy ulicy Narbutta nadała pierwszą oficjalną audycję radiową. Audycji tej można było wysłuchać na produkowanych wtedy przez warszwską firmę Radjopol odbiornikach radiowych.
+1 lutego 1925 roku uznaje się za oficjalne narodziny polskiej radiofonii.
+Na zdjęciu stare modele odbiorników radiowych na wystawie w Zamku Królewskim w Warszawie.
+
+<img src="./img/february/radiofonia.jpg"/><br>
 
 ### 1889
 
