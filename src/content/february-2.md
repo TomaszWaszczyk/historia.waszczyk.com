@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 lutego
-image: img/february/merkle.jpg
+image: img/february/baczynski.jpg
 author: Tomasz Waszczyk
 date: 2019-02-02T10:00:00.000Z
 tags:
