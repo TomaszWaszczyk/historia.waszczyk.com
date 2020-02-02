@@ -211,6 +211,8 @@ https://pl.wikipedia.org/wiki/Zniewolony_umys%C5%82
 
 https://en.wikipedia.org/wiki/Schuman_Declaration
 
+https://pl.wikipedia.org/wiki/Historia_Indii - niedpodległość Indii względem Wielkiej Brytani
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
