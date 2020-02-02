@@ -41,6 +41,8 @@ https://pl.wikipedia.org/wiki/Litopys_UPA
 
 https://pl.wikipedia.org/wiki/Sergiusz_Piasecki
 
+https://pl.wikipedia.org/wiki/Sylvia_Plath
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
