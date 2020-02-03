@@ -10,6 +10,28 @@ tags:
 draft: false  
 ---
 
+### 2020
+
+Według Winstona Churchilla "Niemcy powinno się bombardować co 50 lat, profilaktycznie, bez podania przyczyny". Od poprzedniego bombardowania trochę czasu już minęło, nikt się za nie raczej nie zabiera, Niemcy postanowili więc wziąć sprawy w swoje ręce, a dokładniej władze Berlina postanowiły nadrobić zaległości wprowadzając kontrolę czynszów w postaci zamrożenia opłat za wynajem mieszkań na 5 lat.
+
+Czy ma to związek z bombardowaniem? Ano ma. Szwedzki (i oczywiście lewicujący) profesor ekonomii Assar Lindbeck, stwierdził kiedyś ,że kontrola czynszów jest najlepszą, poza bombardowanie, metodą na zniszczenie miasta. Dlaczego tak się jest?
+
+Prawa popytu i podaży nie da się tak po prostu wyłączyć. Jeżeli ograniczamy wzrost cen wynajmu, sprawiamy, że popyt na mieszkania zaczyna rosnąć. Równocześnie maleje też podaż mieszkań, ponieważ ich budowanie staje się mniej opłacalne. Ale to nie koniec efektów. Właściciele obłożonych kontrolą nieruchomości nie inwestują w nie, nie robią remontów, nie odnawiają elewacji. Po co mieliby to robić, jeżeli nie spowoduje to wzrostu wpływów z najmu? Lokatorzy z mieszkań objętych kontrolą nie wyprowadzają się z nich, nawet jeżeli nie potrzebują tak dużego mieszkania, ponieważ nie mają ekonomicznych bodźców by to zrobić. Dochodzi do nieefektywnej alokacji zasobów mieszkaniowych. To nie tylko teoria. Zjawiska te można obserwować od dekad w różnych miastach w USA i w Europie.
+
+Negatywny wpływ kontroli czynszów na rynek mieszkań jest tak oczywisty i tak łatwo obserwowalny empirycznie, że wśród ekonomistów panuje w tej sprawie konsensus,. Niestety zawsze znajdą się jacyś pobratymcy płaskoziemców, którzy wierzą, że tym razem socjalizm zadziała. Pół biedy, gdy ktoś wierzy w strzygi, dżiny i kikomory na swój prywatny użytek, kiedy jednak ktoś taki zaczyna mieć wpływ na prawo, robi się zdecydowanie groźniej, o czym Berlińczycy się wkrótce przekonają.
+
+Wzrost cen mieszkań w europejskich metropoliach jest oczywiście problemem. Czy jednak naprawdę nie da się nic z tym zrobić? Czy w największych miastach ceny nieruchomości muszą tak szybko i tak mocno rosnąć? Nie. Mamy przykłady miast które poradziły sobie z tym problemem za pomocą rozwiązań wolnorynkowych. Sprawa jest prosta. Aby ceny nie rosły przy rosnącym popycie, trzeba sprawić, aby wzrosła podaż. Nie mówię oczywiście o jakichś subsydiach czy dopłatach do budowy mieszkań. Okazuje się, że wystarczy nie przeszkadzać.
+
+W latach osiemdziesiątych Japonia również zmagała się z wysokimi cenami nieruchomości. Wtedy to bardzo zliberalizowano prawo budowlane, usuwając mnóstwo utrudnień w budowie oraz burzeniu budynków. Efekt? od dwudziestu lat ceny nieruchomości w Tokio prawie nie wzrosły, za to mieszkań buduje się tam na potęgę. Dziesięć lat po Tokio tą samą drogą poszło Houston w USA. Efekt? Ten sam.
+
+Usunięcie biurokratycznych ograniczeń w budownictwie ma jednak też swoje wady. Miasto staje się bardziej dzikie, pojawia się architektoniczny i urbanistyczny bałagan. Jest to koszt, który trzeba ponieść, jeżeli chce się sprawić, by mieszkania były bardziej dostępne. Osobiście nie mam zdania, gdzie dokładnie należy znaleźć złoty środek pomiędzy anarchią w urbanistyce a drogimi mieszkaniami. Uwielbiam Barcelonę i Paryż. Ale wygląd tych miast to dzieło urbanistów z drugiej połowy XIX wieku, a nie efekt wolnego rynku.
+
+Prawdziwa alternatywa jest więc następująca: niskie ceny mieszkań i bałagan urbanistyczny albo wysokie ceny mieszkań i porządek. Jeżeli chcemy sprawić by mieszkania były łatwo dostępne dla biedniejszej części społeczeństwa, musimy poświęcić swoje doznania estetyczne i komfort życia w mieście. Jeżeli bardziej zależy nam na walorach turystycznych i na własnej przyjemności, musimy ograniczać swobodę deweloperów kosztem najbiedniejszych. Na to nakłada się oczywiście wiele innych czynników. Wysoki poziom migracji oraz zaniżone stopy procentowe również prowadzą do wzrostu cen nieruchomości. Nie ma jednak wątpliwości, że aby zatrzymać ceny nieruchomości, trzeba zwiększyć podaż, a nie stymulować popyt i ograniczać podaż.
+
+---
+
+Smok mówi, że za trzy miesiące będzie mieć czas na rzeczy WAŻNE - telefon za 3 miesiące - 2 maja.
+
 ### 1952
 
 Urodził się Ralf Merkle https://en.wikipedia.org/wiki/Ralph_Merkle

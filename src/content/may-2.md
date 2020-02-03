@@ -9,7 +9,9 @@ tags:
 draft: true
 ---
 
-### 
+### 2020
+
+Telefon do Smoka (vide 2 lutego)
 
 ---
 
