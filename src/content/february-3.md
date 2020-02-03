@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 lutego
-image: img/february/merkle.jpg
+image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
 date: 2018-02-03T10:00:00.000Z
 tags:
@@ -41,4 +41,4 @@ Zagadką gockich cmentarzysk jest to, że w grobach wojowników nie ma broni. Pr
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-3.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
