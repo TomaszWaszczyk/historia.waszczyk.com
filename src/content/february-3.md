@@ -3,7 +3,7 @@ layout: post
 title: 3 lutego
 image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
-date: 2018-02-03T10:00:00.000Z
+date: 2019-02-03T10:00:00.000Z
 tags:
   - Imperium Rzymskie
 draft: false
