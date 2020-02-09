@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 9 lutego
-image: img/april/Executive_Order_6102.jpg
+image: img/february/wolyn.png
 author: Tomasz Waszczyk
-date: 2018-02-09T10:00:00.000Z
+date: 2019-02-09T10:00:00.000Z
 tags:
-  - Historia
+  - Wołyń
 ---
 
 ### 1953
@@ -23,6 +23,24 @@ ne stanowisko kościelne działalności sprzecznej z prawemi porządkiem publicz
 Autofagia jest dobra tzn. krótkie głodówki: <https://en.wikipedia.org/wiki/Yoshinori_Ohsumi>
 
 Wykład: <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/february/ohsumi-lecture.pdf" target="_blank">Molecular Mechanisms of Autophagy in Yeast</a>
+
+### 1943
+
+ uznaje się za początek rzezi na Wołyniu.
+
+Pasywność AK, do którego dochodziły pogłoski o pogromach Polaków pozostawia spory niesmak. Armia Krajowa snuła dopiero plany o Akcji Burza, w dowództwie coraz częściej rozmawiano o wywołaniu powstania w Warszawie przeciwko okupacji niemieckiej.
+
+Dmytro Klaczkiwski, jeden z dowódców UPA tak pisał o planach ukraińskich nacjonalistów:
+
+"[...] Powinniśmy przeprowadzić wielką akcję likwidacji polskiego elementu. Przy odejściu wojsk niemieckich należy wykorzystać ten dogodny moment dla zlikwidowania całej ludności męskiej w wieku od 16 do 60 lat. [...] Tej walki nie możemy przegrać i za każdą cenę trzeba osłabić polskie siły. Leśne wsie oraz wioski położone obok leśnych masywów powinny zniknąć z powierzchni ziemi."
+
+Rzeź UPA była bagatelizowana, a przecież to nie były regularne oddziały, tylko wieśniacy, którzy otrzymali na to przyzwolenie (również od samych sowietów). AK bez problemów poradziłaby sobie z tym.
+
+W okresie od lutego 43 do lutego 45 zginęło co najmniej 60 tysięcy Polaków - tego można było uniknąć.
+
+Zamiast oszczędzania żołnierza i amunicji na akcję burza czy samobójczą misję - życzeniowym myśleniu o odbiciu Warszawy z rąk niemieckich i dobrych zamiarach Sowietów, można było skupić się na zagrożeniach, których byliśmy w stanie przezwyciężyć. Takim była zbrodnia wołyńska.
+
+<img src="./img/february/wolyn.png"/><br><br>
 
 ### 1905
 

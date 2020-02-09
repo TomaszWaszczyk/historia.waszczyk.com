@@ -24,6 +24,10 @@ Planowe burzenie stolicy dokonane w głównej mierze przez żołnierzy jednostki
 
 Opuściły Warszawę ostatnie oddziały AK, zabezpieczające ewakuację ludności cywilnej z miasta. Jeszcze raz Niemcy przejęli pełną kontrolę nad umęczoną stolicą. Ich zamiary w stosunku do miasta natychmiast stały się jasne.
 
+### 1921
+
+https://pl.wikipedia.org/wiki/Tadeusz_R%C3%B3%C5%BCewicz
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
