@@ -48,6 +48,16 @@ draft: false
 
 * Mała encyklopedia nauki, Emmanuel Chanut
 
+* https://abc-ekonomii.edu.pl
+
+* Świat pieniądza, Fundacja Świat Pieniądza
+
+* https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
+
+* ABC ekonomii, czyli pierwsze kroki w świecie finansów – Wiktor Czepczyński, Żaneta Kupczyk
+
+* Bajki Kwantowe: Seria 1 – Kamil Hajduk
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start
