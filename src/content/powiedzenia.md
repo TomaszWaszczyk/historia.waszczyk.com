@@ -2556,6 +2556,8 @@ fluctuat nec mergitur
 
 https://pl.wikipedia.org/wiki/Wu_wei
 
+https://en.wikipedia.org/wiki/Going_concern
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

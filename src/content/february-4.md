@@ -33,6 +33,12 @@ mocarstw zachodnich.
 
 <img src="./img/february/wielkatrojka.jpg"/><br>
 
+### 1505
+
+> A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają
+
+4 lutego 1505 roku w Żurawnie koło Halicza (obecnie Ukraina) urodził się autor tych słów Mikołaj Rej - polski poeta, prozaik i polityk zwany także "ojcem polskiej literatury"-założyciel miasta Rejowiec w województwie lubelskim, gdzie zmarł prawdopodobnie 8 września 1569 roku.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

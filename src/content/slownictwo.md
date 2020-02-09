@@ -643,7 +643,12 @@ indolencja wytworzona przez stare nawyki
 
 apatyczni = bierni
 
+kohabitacja
+koabitacja, cohabitation;
+1. wspólne rządy partii o odmiennych opcjach politycznych;
+2. dawniej: współżycie, współdziałanie lub współzamieszkiwanie
 
+agora - przestrzeń
 
 ---
 
