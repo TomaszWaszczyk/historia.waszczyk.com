@@ -116,6 +116,8 @@ https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008
 
+https://en.wikipedia.org/wiki/Deindustrialisation_by_country
+
 ### 2007
 
 https://en.wikipedia.org/wiki/Protect_America_Act_of_2007

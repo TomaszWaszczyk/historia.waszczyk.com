@@ -52,7 +52,7 @@ draft: false
 
 * Świat pieniądza, Fundacja Świat Pieniądza
 
-* https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
+* https://ukochaneprzygody.pl/ - https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
 
 * ABC ekonomii, czyli pierwsze kroki w świecie finansów – Wiktor Czepczyński, Żaneta Kupczyk
 
