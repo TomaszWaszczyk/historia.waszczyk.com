@@ -643,6 +643,18 @@ heave
 to lift; to pull; to raise and fall in waves; dzwigac; pchac; falowac
 The lake heaved and surged, and we were watching the waves come and go.
 
+indolencja wytworzona przez stare nawyki
+
+apatyczni = bierni
+
+kohabitacja
+koabitacja, cohabitation;
+1. wspólne rządy partii o odmiennych opcjach politycznych;
+2. dawniej: współżycie, współdziałanie lub współzamieszkiwanie
+
+agora - przestrzeń
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

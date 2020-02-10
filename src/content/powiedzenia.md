@@ -2542,7 +2542,25 @@ https://pl.wikiquote.org/wiki/Hannah_Arendt
 
 Życie to choroba śmiertelna przenoszona drogą płciową.
 
+<<<<<<< HEAD
 Historię swoją piszcie sami bo inaczej napiszą ją za was inni i źle.
+=======
+Trzeba wrócić do początków, żeby zrozumieć koniec.
+
+Osioł lubi być głaskany z włosem.
+
+Ronald Reagan: Jedna z gorszych rzeczy jaką człowiek może usłyszeć: Jesteśmy z rządu i przyszliśmy pomóc.
+
+Przeszłość jest prologiem. Szekspir
+
+fluctuat nec mergitur
+
+"Those who talk should do and only those who do should talk."
+
+https://pl.wikipedia.org/wiki/Wu_wei
+
+https://en.wikipedia.org/wiki/Going_concern
+>>>>>>> d6aa38c9dea10e3119dc628b39e12f57cf85d40b
 
 ---
 

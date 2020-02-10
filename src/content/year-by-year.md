@@ -38,6 +38,8 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 <a href="./books/mmt.pdf" target="_blank">MMT</a>
 
+https://en.wikipedia.org/wiki/Green_New_Deal
+
 ---
 
 #### August
@@ -171,6 +173,8 @@ https://en.wikipedia.org/wiki/Bloom_filter
 
 https://en.wikipedia.org/wiki/Eco-capitalism
 
+https://en.wikipedia.org/wiki/Demoscene
+
 ---
 
 Paul Volcker was Chairman of the Federal Reserve under U.S. presidents Jimmy Carter and Ronald Reagan from August 1979 to August 1987. He is widely credited with having ended the high levels of inflation seen in the United States during the 1970s and early 1980s.
@@ -180,6 +184,12 @@ Paul Volcker was Chairman of the Federal Reserve under U.S. presidents Jimmy Car
 By the summer of 1966, the pressure on sterling was acute but Wilson was determined to resist devaluation. To him the pound was a symbol of national status, of Britain’s role in the world as a key player. On 12 July 1966 the Cabinet rejected the devaluation option and agreed to a tough package of deflation and austerity instead.
 
 However, due to several factors including international crises and dock strikes, by November 1967 the financial pressures had become overwhelming. On 16 November the Chancellor of the Exchequer, James Callaghan, with Wilson’s backing, recommended to the Cabinet that sterling should be devalued by just under 15 per cent. This was agreed and then implemented, at 14 per cent on 18 November. A package of measures including defence cuts, restrictions on hire purchase (credit), and higher interest rates was also agreed.
+
+---
+
+Nie ma boga! (Radziecki plakat antyreligijny z lat 60. XX wieku)
+
+<img src="./img/year-by-year/niemaboga.jpg"/><br><br>
 
 ### 1958
 
@@ -204,6 +214,8 @@ https://pl.wikipedia.org/wiki/Zniewolony_umys%C5%82
 ### 1950
 
 https://en.wikipedia.org/wiki/Schuman_Declaration
+
+https://pl.wikipedia.org/wiki/Historia_Indii - niedpodległość Indii względem Wielkiej Brytani
 
 ### 1949
 
@@ -416,6 +428,10 @@ https://pl.wikipedia.org/wiki/Celibat
 ### 12 n.e
 
 https://pl.wikipedia.org/wiki/Biblioteka_Aleksandryjska
+
+### 431-404 p.n.e.
+
+https://pl.wikipedia.org/wiki/Tukidydes który opisał https://pl.wikipedia.org/wiki/Wojna_peloponeska_(utw%C3%B3r)
 
 ### 560 p.n.e
 
