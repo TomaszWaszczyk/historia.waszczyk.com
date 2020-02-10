@@ -639,6 +639,10 @@ leaping frog - coś co się stale zmienia, skacze, zmienne
 
 polityka appeasementu - https://pl.wikipedia.org/wiki/Appeasement
 
+heave
+to lift; to pull; to raise and fall in waves; dzwigac; pchac; falowac
+The lake heaved and surged, and we were watching the waves come and go.
+
 indolencja wytworzona przez stare nawyki
 
 apatyczni = bierni
@@ -649,6 +653,7 @@ koabitacja, cohabitation;
 2. dawniej: współżycie, współdziałanie lub współzamieszkiwanie
 
 agora - przestrzeń
+
 
 ---
 

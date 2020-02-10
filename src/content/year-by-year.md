@@ -12,6 +12,8 @@ draft: false
 
 ~~ https://en.wikipedia.org/wiki/Post-scarcity_economy ~~ Fully Automated Luxury Communism
 
+https://en.wikipedia.org/wiki/Technological_utopianism
+
 ### 2038
 
 https://pl.wikipedia.org/wiki/Problem_roku_2038
