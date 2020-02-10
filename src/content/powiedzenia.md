@@ -2542,6 +2542,8 @@ https://pl.wikiquote.org/wiki/Hannah_Arendt
 
 Życie to choroba śmiertelna przenoszona drogą płciową.
 
+Historię swoją piszcie sami bo inaczej napiszą ją za was inni i źle.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
