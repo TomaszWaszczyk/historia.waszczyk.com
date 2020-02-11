@@ -654,6 +654,7 @@ koabitacja, cohabitation;
 
 agora - przestrzeń
 
+beneficjum - korzyść
 
 ---
 
