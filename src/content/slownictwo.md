@@ -654,6 +654,7 @@ koabitacja, cohabitation;
 
 agora - przestrzeń
 
+https://idioms.thefreedictionary.com/handle+with+kid+gloves
 
 ---
 
