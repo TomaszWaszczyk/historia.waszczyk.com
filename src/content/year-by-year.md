@@ -309,6 +309,10 @@ Bitcoin will return us to pre-war la belle epoque.
 
 Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdziernikowa
 
+## 1904
+
+https://en.wikipedia.org/wiki/Protestant_work_ethic
+
 ### 1900
 
 https://en.wikipedia.org/wiki/Gold_Standard_Act
