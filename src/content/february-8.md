@@ -1,13 +1,19 @@
 ---
 layout: post
-title: 2 lutego
+title: 8 lutego
 image: img/february/merkle.jpg
 author: Tomasz Waszczyk
-date: 2018-02-02T10:00:00.000Z
+date: 2019-02-08T10:00:00.000Z
 tags:
   - 
-draft: true
+draft: false
 ---
+
+### 1951
+
+W Warszawie został stracony major Zygmunt Szendzielarz ps. Łupaszka. Był on dowódcą 5 Brygady Wileńskiej Armi Krajowej, która walczyła z Niemcami, oddziałami litewskimi współpracującymi z nimi i sowiecką partyzantką. Po wojnie Łupaszka został oskarżony między innymi o działanie na szkodę PRL i współpracę z zachodnim wywiadem.
+
+<img src="./img/february/szendzielarz.jpg"/><br><br>
 
 ### 1945
 
@@ -38,6 +44,13 @@ Zwinąć chorągiew z masztu. Krepą jest zasnuta
 Za dywizję Rataja, Okrzei, Traugutta.
 Pociąć sztandar w kawałki. Rozdać śród żołnierzy,
 Na drogę, niech go wezmą. Na sercu niech leży
+
+### 1940
+
+Niemcy zwolnili z obozu koncentracyjnego Sachsenhausen 101 ze 183 podstępnie aresztowanych w ramach akcji "Sonderaktion Krakau" profesorów Uniwerytetu Jagiellońskiego i Akademii Górniczej w Krakowie. Niektórzy z nich wycieńczeni warunkami obozowymi lub z powodu znacznego
+pogorszenia stanu zdrowia zmarli w różnych okresach po zwolnieniu.
+
+<img src="./img/february/zwolnienie.jpg"/><br><br>
 
 ---
 

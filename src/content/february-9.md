@@ -24,6 +24,13 @@ Autofagia jest dobra tzn. krótkie głodówki: <https://en.wikipedia.org/wiki/Yo
 
 Wykład: <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/february/ohsumi-lecture.pdf" target="_blank">Molecular Mechanisms of Autophagy in Yeast</a>
 
+### 1944
+
+W Częstochowie Gestapo zamordowało Arkadiusza Deglera (zdjęcie) podporucznika Armii Ludowej, byłego działacza Związku Walki Zbrojnej, żołnierza Armii Krajowej oddziału Wichra, szefa sztabu oddziału częstochowskiego Armii Ludowej.
+Gestapowcy znaleźli go w mieszkaniu przy ulicy Garncarskiej. Pośmiertnie awansowany na porucznika i odznaczony Orderem Krzyża Grunwaldu III klasy.
+
+<img src="./img/february/deglera.jpg"/><br><br>
+
 ### 1943
 
  uznaje się za początek rzezi na Wołyniu.

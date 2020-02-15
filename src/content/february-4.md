@@ -33,6 +33,18 @@ mocarstw zachodnich.
 
 <img src="./img/february/wielkatrojka.jpg"/><br>
 
+### 1900
+
+Został po raz drugi aresztowany Feliks Dzierżyński. Osadzono go w pawilonie 10 na warszawskiej cytadeli. Było to jedno z 6 aresztowań "Czerwonego
+kata". Pierwszego dokonano 29 lipca 1897 roku.
+Dzierżyński był sowieckim komunistą polskiego pochodzenia i twórcą takich organów służby bezpieczeństwa i aparatu terroru jak : Czeka, GPU i OGPU. Był też bliskim współpracownikiem Lenina. Jako szef GPU stosował krwawy terror wobec przeciwników bolszewizmu. Razem ze Stalinem i Zinowiewem zmusił Lwa Trockiego do
+usunięcia się. Jego perfidia w zwalczaniu opozycji osiągneła swój szczyt, gdy stworzył nawet w Moskwie organizację...antykomunistyczną, która w
+rzeczywistości była wabikiem na prawdziwych
+działaczy opozycyjnych.
+Zmarł na zawał serca 20 lipca 1926 roku w Moskwie.
+
+<img src="./img/february/dzierzynski.jpg"/><br>
+
 ### 1505
 
 > A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają

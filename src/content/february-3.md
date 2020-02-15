@@ -9,6 +9,13 @@ tags:
 draft: false
 ---
 
+### 1863
+
+Zakończyła się bitwa pod Węgrowem. Była ona elementem powstania styczniowego.
+Stacjonujący w Siedlcach garnizon rosyjski w sile 1000 ludzi pod dowództwem pułkownika Georgija Papaafanasopuło próbował odbić zdobyty przez powstańców 23 stycznia Węgrów. 3500 Polaków pod wodzą generałów: Władysława Jabłonowskiego i Jana Matlińskiego skutecznie odparło rosyjski atak.
+
+<img src="./img/february/wegrow.jpg"/><br>
+
 ### 382
 
 Cesarz wschodniej części Imperium Rzymskiego Teodozjusz I Wielki osiedlił w Tracji Gotów jako sprzymierzeńców Rzymu (Foederati).
