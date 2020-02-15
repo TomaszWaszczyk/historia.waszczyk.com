@@ -8,6 +8,14 @@ tags:
   - Source
 ---
 
+### 1894
+
+https://pl.wikipedia.org/wiki/Gavrilo_Princip
+
 ### 25 lipca
 
 https://pl.wikipedia.org/wiki/Ob%C5%82awa_augustowska
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

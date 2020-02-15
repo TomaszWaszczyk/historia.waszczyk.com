@@ -2568,6 +2568,8 @@ Ustalenia uległy zmianie - Zakopane - 2020
 
 https://pl.wiktionary.org/wiki/tempus_fugit,_aeternitas_manet
 
+Wiadomości to wersja robocza historii.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
