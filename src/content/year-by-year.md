@@ -393,6 +393,16 @@ Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empi
 
 https://pl.wikipedia.org/wiki/Sejm_Rozbiorowy_(1773%E2%80%931775)
 
+### 1768
+
+Władysław Konopczyński - Konfederacja barska Tom I & II
+
+Konfederacja barska (1768-1772) była zbrojnym związkiem szlachty utworzonym w Barze na Podolu pod hasłem obrony wiary katolickiej i wolności. Szlachta sprzeciwiała się polityce Stanisława Augusta Poniatowskiego i mieszaniu się Rosji w sprawy wewnętrzne Polski, a za cel postawiła sobie wprowadzenie na tron Wettynów. W końcówce konfederackich bojów nastąpił pierwszy rozbiór Polski, podpisany przez ostatniego króla Rzeczypospolitej Obojga Narodów.
+
+Konfederacja należy do najbardziej kontrowersyjnych wydarzeń w historii Polski, a ocena ruchu nie jest jednoznaczna. Romantyczni twórcy opiewali antyrosyjską postawę konfederatów i podkreślali ich patriotyczne zasługi. W okresie pozytywizmu przeciwnie – zryw ten potępiano z powodu zaściankowości i braku tolerancji religijnej.
+
+Publikacja Władysława Konopczyńskiego, ujawniająca skomplikowaną sieć intryg politycznych, intencje obcych dworów i postępującą zależność Stanisława Augusta od Rosji, została wydana w kraju po raz pierwszy w latach 1936-1938. Autor uważał ją za dzieło swojego życia.
+
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking
