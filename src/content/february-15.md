@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 lutego
-image: img/february/merkle.jpg
+image: img/february/granice.jpg
 author: Tomasz Waszczyk
 date: 2019-02-15T10:00:00.000Z
 tags:
