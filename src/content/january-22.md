@@ -2,6 +2,7 @@
 layout: post
 title: 22 stycznia
 image: img/january/powstaniestyczniowe.jpg
+author: Tomasz Waszczyk
 date: 2019-01-22T10:00:00.000Z
 tags:
   - Powstanie styczniowe

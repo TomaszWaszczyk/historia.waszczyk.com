@@ -6,7 +6,7 @@ author: Tomasz Waszczyk
 date: 2019-01-23T10:00:00.000Z
 tags:
   - Rozbiór Polski
-draft: false  
+draft: false
 ---
 
 ### 1793
