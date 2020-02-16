@@ -32,6 +32,8 @@ Written by Rhythm@Twitter
 
 <img src="./img/year-by-year/rates.jpeg"/><br><br>
 
+<img src="./img/year-by-year/interest-rates-decline-boe.jpg"/><br><br>
+
 ### 2019
 
 Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
