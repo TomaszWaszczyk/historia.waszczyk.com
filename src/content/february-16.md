@@ -29,6 +29,13 @@ Ostatnia jego płyta pt Spodchmurykapelusza"ukazała się w 2001 roku. Zmarł 17
 
 <img src="./img/february/wydrzycki.jpg"/><br><br>
 
+### 1936
+
+1936 roku w szwajcarskiej willli w Morges należącej do Ignacego Paderewskiego (zdjęcie) zawarte zostało porozumienie polityczne działaczy stronnictw centrowych, których celem było odsunięcie od władzy w Polsce sanacji. Inicjatorem tego spotkania był generał Władysław Sikorski. Wzięli w nim udział również Józef Haller, Wojciech Korfanty, Karol Popiel, płk Izydor Modelski, gen. Marian Januszajtis, Włodzimierz Marszewski.
+Zamiarem ich było powołanie Paderewskiego na stanowisko prezydenta, zaś na stanowisko premiera Wincentego Witosa. Oprócz tego wystosowano postulat przywrócenia w Polsce demokracji i zacieśnienia sojuszu z Francją.
+
+<img src="./img/february/paderewski.jpg"/><br><br>
+
 ### 1922
 
 Po prawie 600 latach w granice Polski wrócił Górny Śląsk. Swoją suwerenność Śląsk stracił w 1348 roku, gdy został częścią Królestwa Czech. Następnie w 1526 roku trafił pod panowanie Habsburgów. Ci z kolei przegrali swoją batalię o ten region z Hohenzollernami i w 1763 roku Śląsk stał się częścią Królestwa Prus. W 1871 roku przyłączono go do Cesarstwa Niemieckiego.
