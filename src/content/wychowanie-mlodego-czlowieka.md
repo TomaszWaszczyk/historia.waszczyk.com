@@ -20,6 +20,8 @@ draft: false
 
 * Kot Biznesik - Arkadiusz Błażyca
 
+* Johnny Profit - Malgeri Michael A.
+
 * Opowiadania dla dzieci cz. 2 4CD - Singer Bashevis Isaac
 
 * BLIŹNIĘTA TUTTLE I CUDOWNY OŁÓWEK - Connor Boyack
