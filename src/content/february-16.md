@@ -31,7 +31,7 @@ Ostatnia jego płyta pt Spodchmurykapelusza"ukazała się w 2001 roku. Zmarł 17
 
 ### 1936
 
-1936 roku w szwajcarskiej willli w Morges należącej do Ignacego Paderewskiego (zdjęcie) zawarte zostało porozumienie polityczne działaczy stronnictw centrowych, których celem było odsunięcie od władzy w Polsce sanacji. Inicjatorem tego spotkania był generał Władysław Sikorski. Wzięli w nim udział również Józef Haller, Wojciech Korfanty, Karol Popiel, płk Izydor Modelski, gen. Marian Januszajtis, Włodzimierz Marszewski.
+W szwajcarskiej willli w Morges należącej do Ignacego Paderewskiego (zdjęcie) zawarte zostało porozumienie polityczne działaczy stronnictw centrowych, których celem było odsunięcie od władzy w Polsce sanacji. Inicjatorem tego spotkania był generał Władysław Sikorski. Wzięli w nim udział również Józef Haller, Wojciech Korfanty, Karol Popiel, płk Izydor Modelski, gen. Marian Januszajtis, Włodzimierz Marszewski.
 Zamiarem ich było powołanie Paderewskiego na stanowisko prezydenta, zaś na stanowisko premiera Wincentego Witosa. Oprócz tego wystosowano postulat przywrócenia w Polsce demokracji i zacieśnienia sojuszu z Francją.
 
 <img src="./img/february/paderewski.jpg"/><br><br>

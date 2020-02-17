@@ -28,6 +28,14 @@ Tym wydanym 19 stycznia 1945 roku rozkazem generał Leopold Okulicki rozwiązał
 Formacja ta o charakterze konspiracyjnym powstała 14 lutego 1942 roku na mocy rozkazu Naczelnego Wodza Polskich Sił Zbrojnych generała Władysława Sikorskiego o przemianowaniu Związku Walki Zbrojnej na Armię Krajową.
 Rozwiązanie Armii Krajowej podyktowane było coraz trudniejszą sytuacją po przegranym powstaniu warszawskim oraz obawami o bezpieczeństwo działających w niej żołnierzy. Sowiecki wywiad przy pomocy komunistycznej Polskiej Partii Robotniczej i jej zbrojnej organizacji Gwardii Ludowej (przemianowanej na Armię Ludową) w czasie wojny zgromadzili bogatą dokumentację o polskim podziemiu patriotycznym. Po wkroczeniu do Polski, Rosjanie aresztowali i zesłali do gułagów w ZSRR blisko 50 tysięcy członków Armii Krajowej. Sam Okulicki zaś został podstępnie uprowadzony i zamordowany w Moskwie.
 
+### 1863
+
+Powstał Tymczasowy Rząd Narodowy – centralny organ władz rozpoczętego 22 stycznia powstania styczniowego.
+
+Tymczasowy Rząd Narodowy ogłosił Ludwika Mierosławskiego dyktatorem powstania, które ma wybuchnąć za trzy dni. Mierosławski, weteran powstania listopadowego, wybitny działacz emigracyjny, naczelny wódz powstania poznańskiego w 1848 r., przebywał w tym czasie w Paryżu. Do Królestwa Kongresowego przekradł się 17 lutego i objął dowództwo nad jednym z oddziałów partyzanckich. 19 lutego przegrał potyczkę pod Krzywosądzem na Kujawach i wycofał się do nieodległej Nowej Wsi. 21 lutego partyzantów Mierosławskiego dopadły tam wojska rosyjskie pułkownika Schuldnera, zmusiły do opuszczenia pola bitwy i przekroczenia granicy pruskiej. Po tej porażce Mierosławski złożył funkcję dyktatora i wrócił do Paryża.
+
+<img src="./img/january/narodowy.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
