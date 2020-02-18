@@ -52,6 +52,8 @@ draft: false
 
 * https://abc-ekonomii.edu.pl
 
+* https://www.nbportal.pl/wiedza/prezentacje
+
 * Świat pieniądza, Fundacja Świat Pieniądza
 
 * https://ukochaneprzygody.pl/ - https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
@@ -113,6 +115,10 @@ draft: false
 * https://ezw.edu.pl
 
 * https://ezw.edu.pl/edukacja-z-wartosciami/
+
+* https://www.edukacja-klasyczna.pl/
+
+* How to survive your twenties Kindle Edition, Przemek Chojecki
 
 ### Bajki
 

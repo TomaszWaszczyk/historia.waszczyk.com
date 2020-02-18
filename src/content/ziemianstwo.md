@@ -10,6 +10,8 @@ draft: false
 
 https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 
+https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska
+
 ### Przedtawiciele
 
 https://pl.wikipedia.org/wiki/Roman_Damian_Sanguszko

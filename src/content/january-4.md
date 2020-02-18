@@ -100,6 +100,10 @@ Tę datę ma list napisany na rok przed śmiercią przez wodza rewolucji do dele
 
 List przeczytany jedynie w regionalnych grupach delegatów został utajniony. Kilka lat później już za samo jego posiadanie groziła kara śmierci.
 
+### 1895
+
+https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska
+
 ### 1847
 
 1847 r.
