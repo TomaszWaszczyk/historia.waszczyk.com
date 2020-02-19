@@ -35,7 +35,7 @@ Stany Zjednoczone wyszły oczywiście na tym najlepiej, gdyż po wojnie zgarnęl
 
 Pokłosiem wojny jest dominacja gospodarcza głównych potęg w niej uczestniczących (pomijając Rosję rzecz jasna) oraz przewaga technologiczna.  Nawet wydawałoby się tak owiana legendą przedsiębiorczości dolina krzemowa ma swoje korzenie stricte wojskowe. Warto obejrzeć poniższą prezentację żeby wyzbyć się wszelkiej naiwności co do mitu założycielskiego miejsca, skąd de facto pochodzi dzisiejszy rozwój Internetu.
 
-<img src="./img/others/ciekawostki/fabryki.gif"/><br>
+<img src="./img/others/ciekawostki/fabryka.gif"/><br>
 
 Z tej perspektywy „afera” PRISM to konsekwencja działań wywiadu i dla nikogo nie może być zaskoczeniem.
 
