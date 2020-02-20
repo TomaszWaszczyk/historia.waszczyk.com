@@ -2570,6 +2570,8 @@ https://pl.wiktionary.org/wiki/tempus_fugit,_aeternitas_manet
 
 Wiadomości to wersja robocza historii.
 
+My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children. Horesa 4:6
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
