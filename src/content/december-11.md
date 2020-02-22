@@ -16,6 +16,10 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+### 2001
+
+Chiny przystępują do WTO
+
 ### 1994
 
 > Żołnierz polski walczy o wolność wszystkich narodów, ale umiera tylko dla Polski
