@@ -9,6 +9,32 @@ tags:
 draft: false
 ---
 
+### 1947
+
+Sejm Ustawodawczy uchwalił amnestię dla żołnierzy i działaczy podziemia antykomunistycznego. W rzeczywistości był to podstęp, którego celem było ujawnienie i późniejsze aresztowanie ukrywających się działaczy konspiracji niepodległościowej i żołnierzy AK.
+
+W dniu 22 lutego 1947 roku komunistyczny sejm w Polsce uchwali ustawę o amnestii. Zgodnie z art. 1 tej komunistycznej ustawy: Celem upamiętnienia otwarcia Sejmu Ustawodawczego, wybranego z woli Narodu w dniu 19 stycznia 1947 r., i wyboru Prezydenta Rzeczypospolitej oraz celem umożliwienia wszystkim obywatelom wzięcia udziału w odbudowie Demokratycznej Polski Ludowej – udziela się sprawcom i uczestnikom przestępstw, popełnionych w kraju lub zagranicą przed dniem 5 lutego 1947 r., amnestii na zasadach, określonych w niniejszej ustawie.
+
+Ustawa między innymi dotyczyła ustanowionego przez komunistyczny PKWN przestępstwa opisanego w art. 4 dekretu z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa. Przepis ten miał brzmienie:
+
+Art. 4§1 Kto bez zezwolenia wyrabia, gromadzi lub przechowuje broń palną, amunicję, materiały lub przyrządy wybuchowe albo inne przedmioty mogące sprowadzić niebezpieczeństwo powszechne, podlega karze więzienia na czas nie krótszy od lat 5 lub dożywotnio albo karze śmierci.
+
+§ 2. W przypadkach mniejszej wagi sąd może zastosować nadzwyczajne złagodzenie kary albo nawet od kary uwolnić.
+
+Dotyczyła zatem komunistycznego przestępstwa nielegalnego posiadania broni. Stosowny przepis ustawy o amnestii mówił, że puszcza się w niepamięć i przebacza przestępstwa, określone w art. 4 dekretu z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa (Dz. U. R. P. Nr 30, poz. 192), jeżeli sprawca znajdujący się na wolności, dobrowolnie złożył władzy bezpieczeństwa publicznego przedmioty, których posiadanie na mocy wymienionych przepisów jest zakazane, oraz przedmioty i narzędzia, służące do popełnienia tych przestępstw, albo jeżeli uczyni to w ciągu 2-ch miesięcy od dnia wejścia w życie niniejszej ustawy wobec komisji, wymienionej w pkt 1.
+
+Innymi słowy towarzysze komuniści ogłosili na całą Polskę, że puszczają w niepamięć i przebaczają nielegalne posiadanie broni o ile tą broń się towarzyszom komunistom odda w ciągu dwóch miesięcy od dnia wejścia w życie ustawy (od 25 lutego do 25 kwietnia 1947 r.). Towarzysze komuniści powiedzieli do Polaków wybaczymy jak oddacie broń.
+
+Wykonanie ustawy amnestyjnej powierzono Ministerstwu Bezpieczeństwa Publicznego. W całym kraju przy Powiatowych Urzędach Bezpieczeństwa Publicznego powołano Państwowe Komisje Amnestyjne. Główną rolę w tych komisjach odgrywali funkcjonariusze Urzędu Bezpieczeństwa. Każdy ujawniający się zdawał broń, jeżeli taką posiadał, wypełniał szczegółowy formularz, w którym podawał swoją przynależność organizacyjną, pseudonim, imię i nazwisko, adres, stopień oraz imię, nazwisko, pseudonim i adres dowódcy. W czasie amnestii z podziemia wyszło 53 517 osób, swoją działalność ujawniło także 23 257 osób przebywających w więzieniach. Łącznie amnestia objęła 76 774 osoby. W rzeczywistości „ankiety amnestyjne” ułatwiały aresztowania osób, które się nie ujawniły. Dla porównania – w roku 1945 podziemie opuściło tylko 30 217 osób, część z nich jednak na powrót podjęła walkę z polskimi i radzieckimi służbami bezpieczeństwa.
+
+Po upływie terminu amnestii w 1947 w podziemiu pozostało nie więcej niż 2 tysiące osób. Szacunki Urzędu Bezpieczeństwa Publicznego wskazywały na znacznie mniejszą liczbę: około 250 partyzantów działających w 52 zbrojnych grupkach. Już od kwietnia 1947 z rozkazu Stanisława Radkiewicza wykonywano wyroki śmierci na osobach, które były objęte amnestią.
+
+W wyniku amnestii z 1947 praktycznie przestało istnieć zorganizowane podziemie zbrojne w kraju. Dzięki informacjom uzyskanym przez UB od ujawniających się ludzi, przyspieszyła akcja wykrywania i niszczenia pozostałych grup partyzantów. Funkcjonariusze służb bezpieczeństwa wcale nie myśleli stosować się do uchwalonych przez siebie praw. Gdy tylko zaprzestano wykonywać amnestię, natychmiast przystąpiono do analizy zebranego materiału, a następnie do aresztowań osób ujawnionych, pod zarzutem dalszego prowadzenia działalności antypaństwowej. Ludzie ujawnieni w 1947 w latach 1948–1950 byli często ponownie aresztowani i skazywani za czyny objęte ową amnestią. Zapadały często wysokie wyroki, zgodnie z artykułem 6. amnestii pozostawiono jednak taką możliwość wobec działalności uprzednio zagrożonej karą śmierci lub dożywocia. Część osób ponownie zeszła do podziemia, rzadko jednak organizując zbrojny opór.
+
+<img src="./img/february/amnestia.jpg"/><br><br>
+
+<img src="./img/february/amnestia1.jpg"/><br><br>
+
 ### 1945
 
 W przemówieniu wygłoszonym w Izbie Gmin, brytyjski premier Winston Churchill (zdjęcie) wyraził poparcie dla sowieckich postulatów dotyczących wschodniej granicy Polski. Wyraził on opinię, że granica Polski z ZSRR powinna przebiegać według tak zwanej Linni Curzona. W praktyce było to oddaniem kresów wschodnich Związkowi Radzieckiemu.
