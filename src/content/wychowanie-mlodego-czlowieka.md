@@ -92,6 +92,8 @@ draft: false
 
 * Lego Education
 
+* Neural Networks for Babies - Chris Ferrie
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
