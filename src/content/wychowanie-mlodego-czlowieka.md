@@ -68,6 +68,12 @@ draft: false
 
 * https://www.codingame.com/start
 
+* Baw się kodem! Twoja własna gra. CoderDojo Nano - Jurie Horneman, CoderDojo
+
+* Lift-the-Flap Computers and Coding
+
+* Code For Teens: The Awesome Beginner’s Guide to Programming Volume 1: Javascript by Jeremy Moritz
+
 * http://www.csforbabies.com/
 
 * https://code.org/learn
