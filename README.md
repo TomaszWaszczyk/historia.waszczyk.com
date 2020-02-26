@@ -130,6 +130,7 @@ https://pl.wikipedia.org/wiki/Faryzeusze
 
 https://historyinphotos.blogspot.com/2013/12/henri-cartier-bresson.html
 
+https://pl.wikipedia.org/wiki/Theodor_Herzl
 
 # Malta
 

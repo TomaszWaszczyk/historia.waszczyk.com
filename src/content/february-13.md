@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 1964
+
+https://pl.wikipedia.org/wiki/Ihor_Ko%C5%82omojski
+
 ### 1241
 
 I najazd mongolski na Polskę: Mongołowie zdobyli i spalili Sandomierz.

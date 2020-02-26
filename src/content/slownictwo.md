@@ -666,6 +666,13 @@ https://pl.wiktionary.org/wiki/bigot
 
 agape
 
+
+sprokurować
+1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»
+2. pot. «przygotować, sporządzić, zorganizować coś»
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
