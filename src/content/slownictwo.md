@@ -671,7 +671,7 @@ sprokurować
 1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»
 2. pot. «przygotować, sporządzić, zorganizować coś»
 
-
+argumentum ad ignorantiam
 
 ---
 
