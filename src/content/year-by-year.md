@@ -215,6 +215,10 @@ https://en.wikipedia.org/wiki/Value-added_tax
 
 https://pl.wikipedia.org/wiki/Zniewolony_umys%C5%82
 
+---
+
+In February 1953, the first trainload of European coal crossed national borders without the need for traditional customs duties. The European common market for coal and steel became a reality.
+
 ### 1950
 
 https://en.wikipedia.org/wiki/Schuman_Declaration
