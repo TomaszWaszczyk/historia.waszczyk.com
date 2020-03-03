@@ -11,6 +11,8 @@ draft: true
 
 https://en.wikipedia.org/wiki/Wardley_map
 
+https://en.wikipedia.org/wiki/David_Chaum
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/computer-science.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

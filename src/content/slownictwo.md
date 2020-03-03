@@ -666,12 +666,18 @@ https://pl.wiktionary.org/wiki/bigot
 
 agape
 
-
 sprokurować
 1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»
 2. pot. «przygotować, sporządzić, zorganizować coś»
 
 argumentum ad ignorantiam
+
+kacyk
+1. przywódca plemienny;
+2. potocznie: urzędnik samowolnie sprawujący władzę, wykorzystujący stanowisko dla własnych korzyści
+
+Myślenie lateralne
+(ang. lateral thinking, lub myślenie w bok[1]) – termin wprowadzony w roku 1967 przez Edwarda de Bono i oznaczający nowe spojrzenie na sytuację (kreatywność), dostrzeżenie nowych możliwości (nowe idee), przeformułowanie problemu dające szansę rozwiązania go nowymi metodami.
 
 ---
 
