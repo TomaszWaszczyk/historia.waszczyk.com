@@ -35,6 +35,28 @@ W wyniku amnestii z 1947 praktycznie przestało istnieć zorganizowane podziemie
 
 <img src="./img/february/amnestia1.jpg"/><br><br>
 
+---
+
+W nocy z 21 na 22 lutego 1947 roku w Nowym Targu zmarł Józef Kuraś "Ogień" (zdjęcie) - żołnierz Wojska Polskiego i Armii Krajowej (został wydalony z szeregów AK za brak dyscypliny), działacz Konfederacji Tatrzańskiej, a także porucznik Batalionów Chłopskich i dowódca Urzędu Bezpieczeństwa w Nowym Targu.
+W latach powojennych jeden z głównych działaczy podziemia antykomunistycznego, pod którego podlegała cała podhalańska partyzantka.
+W liście do Bolesława Bieruta z dnia 18 listopada 1946 roku tak pisał o działaniach podległych mu żołnierzy:
+"Błyskawica» walczy o Wolną, Niepodległą i prawdziwie demokratyczną Polskę. Walczyć będziemy tak o granice wschodnie, jak i zachodnie. Nie uznajemy ingerencji ZSRR w sprawy wewnętrzne polityki państwa polskiego. Komunizm, który pragnie opanować Polskę, musi zostać zniszczony".
+21 lutego 1947 roku, w wyniku zdrady przez troje byłych współpracowników-Stanisława Byrdaka, Antoniego Twaroga i Stefanii Kruk, dom Józefa i Anny Zagatów w Ostrowsku, w którym ukrywał się Kuraś otoczyło 40 żołnierzy Korpusu Bezpieczeństwa Wewnętrznego wspomaganych przez 10 funkcjonariuszy Urzędu Bezpieczeństwa i Milicji Obywatelskiej. Doszło do walki w trakcie której towarzyszący Ogniowi Jan Kolasa „Powicher” wraz z rannym
+Stanisławem Ludzią „Harnaś” zdołali się przebić i uciec. Zginęli Stanisław Sral „Zimny”, Kazimierz Kuraś „Kruk” (bratanek „Ognia”). W trakcie dalszych starć Kuraś zdołał przedostać się do innego budynku, w którym został otoczony i wezwany do poddania się, czego nie uczynił. Nie widząc wyjścia, oddał samobójczy strzał w skroń, w wyniku którego zmarł 20 minut po północy. Miejsca jego pochówku do dziś nie udało się ustalić.
+Działalność Kurasia do dziś budzi spore kontrowersje. Przez jednych uważany jest za zdrajcę, przez innych za bohatera. W sporym stopniu przyczyniła się do tego komunistyczna propaganda. Według organizacji żydowskich działających w Polsce oddział „Ognia”, oprócz ataków na urzędy UB i posterunki MO, mordował Żydów ocalałych z Holocaustu i dokonywał rozbojów. Oddział zamordował m.in. kilkudziesięciu Żydów w okolicy Krościenka. Fakty mordowania Żydów przez oddział „Ognia” potwierdza Żydowski Instytut Historyczny, zaś według zastępcy „Ognia”, Jana Kolasy „Powichra”, jego ludzie mieli walczyć „O Polskę bez komunistów i Żydów tę ideologię wyznających”. Regionalista Julian Kwiek podaje, że oddział "Ognia" odpowiadał za śmierć około 50 Żydów. Jednostce ''Ognia'' przypisuje się ostrzelanie z broni maszynowej żydowskiego sierocińca w Rabce z 12 i 27 sierpnia 1945 roku. Jak podaje Marek Jan Chodakiewicz w swojej książce "Po zagładzie. Stosunki polsko-żydowskie 1944-47", drugi napad jest przypisywany "Ogniowi" najprawdopodobniej słusznie. Sam zaś Ogień tak pisał w 1945 roku w jednej ze swoich ulotek:
+" Walczyliśmy o Orła, teraz - o koronę dla Niego, hasłem naszym Bóg, Ojczyzna, Honor" Zaś w sprawie ujawnienia się, w liście do UB przeczytać możemy:
+"Jako Polak i stary partyzant oświadczam: wytrwam do końca na swym stanowisku «Tak mi dopomóż Bóg». Zdrajcą nie byłem i nie będę. [...] Daremne wasze trudy, mozoły i najrozmaitsze podstępy."
+O Józefie Kurasiu przeczytać można również we wspomnieniach znanego podhalańskiego duszpasterza księdza Józefa Tischnera:
+„Jestem głęboko przekonany, że kto nie pozna historii Józefa Kurasia 'Ognia' i jego oddziału, ten nie zrozumie, czym był komunizm i w jaki sposób wchodził w polski organizm społeczny. W historii tej niczym w soczewce odbija się ówczesna sytuacja Polski”.
+Dalej czytamy tam:
+" Ciało w dziwny sposób zniknęło. Dlaczego miał nie mieć grobu? Jeśli był bandytą, niech ludzie plują na grób bandyty. Widać jednak nie. W tym życiu i śmierci musiało tkwić coś autentycznego, co było groźne. Trup mógł pewnego dnia ożyć".
+W zupełnie innym tonie na temat "Ognia" wypowiadał się Marek Edelman: "Takie niby niepodległościowe organizacje wyciągały Żydów z pociągów i ich zabijały. Też tak było. Taki „Ogień” ma dziś pomnik i ulicom w miastach nadaje się jego imię, ale, bądźmy zdrowi, to był normalny bandzior. (…) Niech pojadą do Makowa, niech pojadą na Podhale, niech zapytają, kto to był „Ogień”. On męczył całą tamtejszą ludność, nie tylko Żydów...".
+Oddział "Ognia" oskarża się również o zbrodnie i grabieże dokonane na Słowakach zamieszkujących Spisz i Orawę. ''Oddział "Ognia" w pierwszych latach po wojnie przerażał Słowaków zamieszkujących Spisz i Orawę, dopuszczał się zbrodni i grabieży - mówi Ludomir Molitoris z Towarzystwa Słowaków w Polsce.
+W wydanym w roku 1990 oświadczeniu nowotarski Światowy Związek Żołnierzy AK odcinał się od postaci ''Ognia'', pisząc:
+''Nie mamy nic wspólnego z „Ogniem” i jego pogrobowcami. Uważamy, że zamiast uczestniczyć w uroczystościach ku czci „Ognia”, należało by raczej odprawić żałobne nabożeństwa w intencji jego ofiar.''
+
+<img src="./img/february/kuras.jpg"/><br><br>
+
 ### 1945
 
 W przemówieniu wygłoszonym w Izbie Gmin, brytyjski premier Winston Churchill (zdjęcie) wyraził poparcie dla sowieckich postulatów dotyczących wschodniej granicy Polski. Wyraził on opinię, że granica Polski z ZSRR powinna przebiegać według tak zwanej Linni Curzona. W praktyce było to oddaniem kresów wschodnich Związkowi Radzieckiemu.

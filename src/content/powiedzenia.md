@@ -2581,6 +2581,8 @@ Jeśli towary nie przekraczają granic to granice są przekraczane przez żołni
 https://en.wikipedia.org/wiki/Kurt_G%C3%B6del:
 W każdym systemie można logicznym można udowodnić tylko to co tkwi w jego założeniach? A czym są założenia? To wiara. (prof. Wojciech Roszkowski)
 
+Tam gdzie idzie kapitał, tam podąża konflikt.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

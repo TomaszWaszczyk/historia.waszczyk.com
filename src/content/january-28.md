@@ -9,6 +9,13 @@ tags:
 draft: false  
 ---
 
+### 1945
+
+Podczas uroczystości podpisania Karty Narodów Zjednoczonych, dokumentu założycielskiego ONZ w San Francisco, Artur Rubinstein oburzony brakiem polskiej flagi, zmienił program koncertu. "Zagram hymn narodu, którego przedstawicieli tu nie ma, ale który pierwszy chwycił za broń i przeciwstawił się złu" - po wypowiedzeniu tych słów ze sceny wykonał "Mazurka Dąbrowskiego". Wielka Brytania i USA nie zaprosiły przedstawicieli polskiego rządu na uchodźstwie, ponieważ obawiały się reakcji ZSRR.
+28 stycznia 1887 r., w Łodzi urodził się Artur Rubinstein, wirtuoz fortepianu, miłośnik cygar, patriota oraz znakomity artysta. Jego największą, życiową pasją była muzyka. Poświecił jej całe swoje życie i to ona uczyniła go wzorem do naśladowań dla wielu pokoleń muzyków. Pianista, zaliczany do najwybitniejszych muzyków XX w., wystąpił na scenie ok. 6 tys. razy. Koncertował w najważniejszych ośrodkach muzycznych całego świata. Propagował muzykę polską, zwłaszcza Fryderyka Chopina i Karola Szymanowskiego. Mawiał; "Kocham mój kraj rodzinny, ale jest to miłość, która nie ma nic wspólnego z nacjonalizmem czy szowinizmem. Małą część życia spędziłem w kraju, ale wszystko, co polskie, ma dla mnie nieodparty urok i często przyprawia mnie o nostalgię. Źródłem tego może być coś, co nazwałbym autentycznością. Pory roku na przykład są tu autentyczne, nie ma mowy o pomyłce, są tym, czym powinna być symfonia, czterema częściami, idealnie ze sobą zharmonizowanymi. Nie ma żadnego pomieszania, każda pora przeżywa swój krótki żywot, osiągając pełnię właściwego dla niej piękna".
+
+<img src="./img/january/rubinstein.jpg"/><br>
+
 ### 1606
 
 Zwycięstwo wojsk polskich pod wodzą hetmana Stanisława Żółkiewskiego nad Tatarami w bitwie nad Udyczem.

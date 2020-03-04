@@ -23,6 +23,13 @@ Zakończyła się dwudniowa wizyta w Moskwie polskiej delegacji rządowej pod pr
 
 <img src="./img/march/jaruzelski.jpg"/><br><br>
 
+### 1945
+
+Poniższy cytat to datowany na 2 marca 1945 roku fragment wspomnień Mieczysława Kittaya - polskiego inżyniera żydowskiego pochodzenia, działacza kulturalnego, iluzjonisty, współorganizatora Teatru Satyrycznego "Syrena" (pierwszego powojennego teatru na terenie kraju) dotyczący pomocy, której udzielał mu Adolf Dymsza (zdjęcie).
+"W najcięższym okresie mojego życia, gdy nocując w niewykończonych domach lub ruinach, byłem w skrajnej rozpaczy, spotkałem pana Adolfa Dymszę, który się mną natychmiast niezwykle serdecznie zaopiekował. Umieścił mnie w tymże samym dniu u jego matki, gdzie pozostałem przez 3 dni, następnie sprowadził mnie do swego mieszkania i nie bacząc na narażenie siebie, żony i jego trojga dzieci na grożącą im karę śmierci, ukrywał mnie przez 6 miesięcy. Przez cały ten okres pan Dymsza pielęgnował mnie i traktował jak najukochańszego członka rodziny, otaczając mnie z całego serca jak najtroskliwszą opieką".
+
+<img src="./img/march/kittay.jpg"/><br><br>
+
 ### 1942
 
 W Nowym Kurierze Warszawskim ukazało się zarządzenie urzędowe podpisane przez komendanta policji i SS w Warszawie Arpada Wiganda, dotyczące rozmieszczenia plakatów w mieście Warszawie.

@@ -32,6 +32,20 @@ Do niniejszego pisma dołączamy wyżej wspomniany raport oficjalnej komisji ds.
 Ambasada Związku Socjalistycznych Republik Sowieckich (Podpisane inicjałami) A. P.
 Waszyngton, 29 lutego 1952 r.
 
+### 1944
+
+Na poligonie w Peenemünde dokonano pierwszego udanego wystrzelenia rakietowego pocisku przeciwlotniczego Wasserfall.
+
+Prace nad tą bronią rozpoczęto w 1941 roku. W projektowaniu wykorzystano doświadczenia z opracowywania rakiety V-2 (Wasserfall był od niej dwukrotnie mniejszy). Pierwsze próby rozpoczęto w styczniu 1944.
+
+Lot pocisku był sterowany drogą radiową przez operatora z ziemi, jednak planowano też opracować automatyczne systemy naprowadzania radarowego oraz śledzenia ciepła emitowanego przez cel z wybuchem wyzwalanym przez zapalnik zbliżeniowy.
+
+Pułap jaki osiągały te pociski wynosił 20 000 m, było to znacznie więcej niż osiągały alianckie bombowce. Prędkość wynosiła 770 m/s. Materiał wybuchowy zawarty w głowicy miał w zamierzeniu zniszczyć kilka samolotów w jednym wybuchu. Eksplozja następowała na polecenie operatora.
+
+Broń ta mogła sporo namieszać, jednak pocisk nie doczekał produkcji seryjnej, w lutym 1945 ośrodek w Peenemunde został ewakuowany. Skończyło się na 35 próbnych wystrzeleniach.
+
+<img src="./img/february/wasserfall.jpg"/><br><br>
+
 ### 1940
 
 NKWD wywiozło do Moskwy i osadziło w więzieniu na Łubiance generała Władysława Andersa (zdjęcie). Fakt ten był następstwem aresztowania go podczas pobytu w lwowskim szpitalu na ulicy Kurkowej.

@@ -28,6 +28,12 @@ Podpułkownik Ludowego Wojska Polskiego prokurator wojskowy Jan "Iwan" Amons (zd
 
 <img src="./img/february/iwan.jpg"/><br><br>
 
+### 1884
+
+W Warszawie, urodził się Kazimierz Funk - polski biochemik żydowskiego pochodzenia, pracujący głównie w USA, odkrywca witamin i twórca nauki o nich. W 1911 roku wyodrębnił z otrębów ryżowych pierwszą witaminę (B1). W 1936 roku jako pierwszy wyizolował kwas nikotynowy. Prowadził też badania hormonów płciowych, insuliny i nowotworów.
+
+<img src="./img/february/funk.jpg"/><br><br>
+
 ### 1840
 
 <https://en.wikipedia.org/wiki/Carl_Menger>
