@@ -60,6 +60,8 @@ draft: false
 
 * ABC ekonomii, czyli pierwsze kroki w świecie finansów – Wiktor Czepczyński, Żaneta Kupczyk
 
+* Złoto Johnnego - Michael A. Malgeri
+
 * Bajki Kwantowe: Seria 1 – Kamil Hajduk
 
 * https://www.rigb.org/families

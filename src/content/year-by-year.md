@@ -243,6 +243,8 @@ Książka z 1938 roku do nauki propedeutyki filozofii: https://github.com/Tomasz
 
 https://en.wikipedia.org/wiki/Bancor
 
+https://en.wikipedia.org/wiki/Operation_Bernhard - próba wyparcia pieniądza!!
+
 ### 1937
 
 https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
