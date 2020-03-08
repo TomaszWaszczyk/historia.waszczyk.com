@@ -98,6 +98,28 @@ Jeszcze nie jest za późno!".
 
 <img src="./img/march/siwiec.jpg"/><br><br>
 
+### 321 r. n.e.
+
+Cesarz rzymski Konstantyn I Wielki wydał edykt ustanawiający niedzielę („dies Solis”) dniem wolnym od pracy w urzędach, rzemiośle i handlu, natomiast nie zakazujący pracy w rolnictwie. Zarządzenie zmieniało długość tygodnia (do tej chwili obowiązywał tydzień 8 dniowy, tzw. nundinae) i sankcjonowało przyjęty w chrześcijaństwie zwyczaj święcenia pierwszego dnia tygodnia (niedzieli).
+
+Oto fragmenty o Konstantynie i niedzieli z pism tamtego czasu:
+
+Euzebiusz z Cezarei (ur. 260) - „Konstantyn zarządził, by dzień, który jest czcigodny i pierwszy, dzień Pana i zbawienia, był uważany za dzień modlitwy. Jego słudzy, a równocześnie ludzie poświęceni Bogu, godni podziwu z powodu ich życie i wszelkiej cnoty, odpowiedzialni za prowadzenie całego domu, a także pretorianie, wierna straż osobista, uzbrojeni w charakter życzliwy i wierny, biorąc cesarza za nauczyciela prawideł pobożności, czcili nie mniej Pański dzień zbawienia, wznosząc w tym dniu modlitwy ulubione przez cesarza.
+
+Do tej praktyki błogosławiony człowiek zachęcał wszystkich, gdyż ślubował doprowadzić wszystkich ludzi do pobożności. Dlatego też nakazał prawem, aby wszyscy obywatele cesarstwa rzymskiego powstrzymywali się od pracy w dzień zwany Pańskim, a również, by świętowali dzień przed szabatem, aby upamiętnić, jak sądzę, wspominane wypełnienie zbawienia, jakie w tym dniu nastąpiło.
+
+Pragnąc nauczyć żołnierzy czci, w ten dzień zbawienia, który słusznie nazywa się dniem światła i słońca, zwolnił tych, którzy przystąpili do wiary w Boga, aby mogli bez przeszkód wiernie iść do kościoła i modlić się.
+
+Tym, którzy nie nawrócili się jeszcze na wiarę w Boże Słowo, osobnym prawem nakazał, by w niedzielę udawali się poza obszar zamieszkały, na otwarte pole, i tam razem zwracali się do Boga modlitwą, którą recytowali z pamięci. Nie powinni bowiem pokładać nadziei ani we włóczni, ani w całym uzbrojeniu, ani we własnej sile fizycznej, ale [powinni] poznać Boga, który jest ponad wszystkim, dawcę wszelkiego dobra i samego zwycięstwa, do którego należy się zwracać ustalonymi modlitwami, podnosząc ręce ku niebu, zwracając w górę oczy duszy, ku Królowi nieba i wzywając Dawcę zwycięstwa, Zbawiciela, Opiekuna i Pomocnika. Wszystkich żołnierzy on sam nauczył jednej modlitwy i kazał im tak mówić w języku Rzymian...” (Vita Constantini IV; cytat za „Dzień Święty” H. Pietras SJ, Kraków 1992, s. 128-9).
+
+Sozomen (V w.) - „Co zaś do tak zwanego dnia Pańskiego, który Hebrajczycy nazywają pierwszym dniem tygodnia. a poganie poświęcają czci słońca, i co do dnia poprzedzającego szabat, cesarz Konstantyn zarządził, aby wtedy wszyscy wolni byli od sądów i od innych zajęć urzędowych i czcili Boga przez nabożeństwa i modły. a szanował ów dzień Pański dlatego, że tego właśnie dnia Chrystus zmartwychwstał, a ten drugi dlatego, że w tym dniu Chrystus został ukrzyżowany” („Historia Kościoła” I:8,22; cytat za „Dzień Święty” H. Pietras SJ, Kraków 1992, s. 130).
+
+Konstantyn Wielki (zm. 337) - „Wszyscy sędziowie i ludność miejska oraz wszelkiego rodzaju rzemieślnicy mają wstrzymać się od pracy w czcigodnym dniu słońca. Jednakże ludność wiejska może swobodnie i bez przeszkód zajmować się uprawą roli, ponieważ często się tak zdarza, że w innym dniu nie da się tak dogodnie zasiać zboża czy obrobić winnicy; nie może więc przepaść dogodna okazja dana przez niebieską Opatrzność” („Cesarz Konstantyn do A. Helpidiusza [prefekta Rzymu] z 3 III 321. Kodeks Justyniana III:12,2 [529]”; cytat za „Dzień Święty” H. Pietras SJ, Kraków 1992, s. 127).
+
+„Jak ze wszech miar niegodne było w czcigodnym, z powodu oddawanego kultu, dnia słońca zajmować się rozpatrywaniem sporów i kłótni procesujących się stron, tak miłe i chwalebne jest w dzień ten wypełniać przyrzeczenia. Dlatego wszyscy otrzymują pozwolenie na dokonywanie emancypacji [Przypis: oficjalny akt wyzwolenia syna spod władzy ojca] i wyzwalania niewolników w dniu świętym, i nie zakazuje się podejmowania związanych z tym czynności” („Cesarz Konstantyn do A. Helpidiusza [prefekta Rzymu] z 3 VII 321. Kodeks Teodozjański 2:8,1 [438]”; cytat za „Dzień Święty” H. Pietras SJ, Kraków 1992, s. 127).
+
+<img src="./img/march/diessolis.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
