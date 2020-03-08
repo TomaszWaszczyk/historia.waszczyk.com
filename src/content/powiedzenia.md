@@ -2591,6 +2591,14 @@ Kryzys to skutek.
 
 Rewolucja to brak historycznej refleksji.
 
+Aut Inveniem Viam, Aut Faci
+
+"It is purpose that created us, purpose that connects us, purpose that pulls us, that guides us, that drives us. It is purpose that defines us."
+
+"Aut Caesar aut nihil"
+
+W obecnych czasach ludzie znają cenę wszystkiego i jednocześnie nie znają wartości niczego.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
