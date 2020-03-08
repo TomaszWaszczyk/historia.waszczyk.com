@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+<img src="./img/march/dzien-kobiet.jpg"/><br><br>
+
+> "Female workers, take the rifle!" Soviet poster, 1918
+
 ### 1968
 
 Studenci Uniwersytetu Warszawskiego zorganizowali wiec, który stał się początkiem tak zwanych "wydarzeń marcowych"czyli kryzysu politycznego powstałego w kręgach Polskiej Zjednoczonej Partii Robotniczej, a mającego podłoże antysemickie.

@@ -2583,6 +2583,8 @@ W każdym systemie można logicznym można udowodnić tylko to co tkwi w jego za
 
 Tam gdzie idzie kapitał, tam podąża konflikt.
 
+Nie mam poglądów politycznych, mam tylko gospodarcze.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
