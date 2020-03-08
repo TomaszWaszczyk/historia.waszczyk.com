@@ -2585,6 +2585,10 @@ Tam gdzie idzie kapitał, tam podąża konflikt.
 
 Nie mam poglądów politycznych, mam tylko gospodarcze.
 
+Okrągłe rocznice są nonsensem, wynikają z przypadkowego stosowania systemu dziesiętnego. (https://pl.wikiquote.org/wiki/Stefan_Kisielewski)
+
+Kryzys to skutek.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

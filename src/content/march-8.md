@@ -28,6 +28,14 @@ Po ponownym otwarciu tych kierunków 70 osób nie uzyskało zgody na kontynuowan
 
 <img src="./img/march/wydarzenia_marcowe.jpg"/><br><br>
 
+### 1940
+
+Władze III Rzeszy wprowadziły obowiązek noszenia przez polskich robotników zatrudnionych na robotach w Niemczech specjalnych opasek z literą "P".
+Przypomnijmy, że przymusowy nabór do pracy w Niemczech organizowały w Polsce niemieckie urzędy pracy ( Arbeitsamty). Za uchylanie się od tak zwanej branki groziły surowe kary, łącznie z wywiezieniem najbliższej rodziny do obozu pracy lub obozu koncentracyjnego, konfiskatą mienia, aż do kary śmierci włącznie.
+Grafika: Niemiecki plakat propagandowy namawiający Polki do wyjazdu do pracy w Rzeszy.
+
+<img src="./img/march/niemcy.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

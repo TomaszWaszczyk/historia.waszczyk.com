@@ -682,6 +682,7 @@ Myślenie lateralne
 ersatz
 namiastka jakiejś rzeczy lub podróbka, coś zastępczego, gorszej jakości
 
+Pieniędza szczęścia nie dają, ale każdy chce to sprawdzić.
 
 ---
 
