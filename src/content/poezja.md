@@ -8,7 +8,31 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
-##### Kornel Filipowicz, wiersz z tomu "Powiedz to słowo", 1984
+### Bieda
+
+Choć jestem lekarzem
+I o niczym innym nie marzę
+Pieniędzy brakuje
+Nawet, kiedy nie wariuję
+
+Powiecie: „jak zwykle kłamie!”
+Konowale bogaty, Ty chamie!
+Lecz, gdy moja działalność ruszyła
+Zatrudnienie znacznie utrudniła
+
+Jestem więc bez pracy
+Bo zarządcy tacy
+Wolą pracować w spokoju
+Niż potrzebnym znoju
+
+Morał z tego taki
+Lepiej bądź nijaki
+Nie walcz o poprawy
+Pier... wszystkie sprawy.
+
+B. Fiałek
+
+### Kornel Filipowicz, wiersz z tomu "Powiedz to słowo", 1984
 
 > W państwie totalitarnym
 > Wolność

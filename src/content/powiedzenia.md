@@ -2589,6 +2589,8 @@ Okrągłe rocznice są nonsensem, wynikają z przypadkowego stosowania systemu d
 
 Kryzys to skutek.
 
+Rewolucja to brak historycznej refleksji.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -147,6 +147,10 @@ Nick Szabo’s 1994 article “Formalizing and securing relationships on public 
 Your browser does not support the video tag.
 </video>
 
+---
+
+https://pl.wikipedia.org/wiki/Wojna_o_Falklandy-Malwiny
+
 ### 1977
 
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)

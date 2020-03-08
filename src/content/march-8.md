@@ -13,6 +13,12 @@ draft: false
 
 > "Female workers, take the rifle!" Soviet poster, 1918
 
+### 2009
+
+Zmarł w wieku 70 lat znany kardiochirurg profesor Zbigniew Religa. Był twórcą nowoczesnej polskiej transplantoligii. W 1985 roku w klinice w Zabrzu dokonał pierwszego w historii polskiej medycyny udanego przeszczepu serca. Był także ministrem zdrowia w rządzie Kazimierza Marcinkiewicza
+
+<img src="./img/march/religa.jpg"/><br><br>
+
 ### 1968
 
 Studenci Uniwersytetu Warszawskiego zorganizowali wiec, który stał się początkiem tak zwanych "wydarzeń marcowych"czyli kryzysu politycznego powstałego w kręgach Polskiej Zjednoczonej Partii Robotniczej, a mającego podłoże antysemickie.
