@@ -2,6 +2,8 @@
 
 http://polishhistory.pl
 
+http://www.muzeumwp.pl/emwpaedia/wykrywacz-min-typu-polskiego.php
+
 https://oll.libertyfund.org/pages/hayek-a-bibliography-of-his-writings
 
 https://sigillumauthenticum.blogspot.com/
