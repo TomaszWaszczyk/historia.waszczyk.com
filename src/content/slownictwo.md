@@ -679,6 +679,10 @@ kacyk
 Myślenie lateralne
 (ang. lateral thinking, lub myślenie w bok[1]) – termin wprowadzony w roku 1967 przez Edwarda de Bono i oznaczający nowe spojrzenie na sytuację (kreatywność), dostrzeżenie nowych możliwości (nowe idee), przeformułowanie problemu dające szansę rozwiązania go nowymi metodami.
 
+ersatz
+namiastka jakiejś rzeczy lub podróbka, coś zastępczego, gorszej jakości
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

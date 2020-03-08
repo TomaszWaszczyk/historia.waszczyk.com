@@ -1,12 +1,28 @@
 ---
 layout: post
 title: 7 marca
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/march/emanuel.jpg
 author: Tomasz Waszczyk
 date: 2019-03-07T10:00:00.000Z
 tags:
   - Warszawa
 ---
+
+### 2013
+
+ukazało się polskie wydanie książki ,,Ocalały. Auschwitz, marsz śmierci i walka o wolność'' - autorstwa Sama Pivnika.
+
+Sam Pivnik ocalał ze świata, którego już nie ma. Mógł zginąć kilkanaście razy, ale dzięki szczęściu, sile i determinacji przeżył i mógł opowiedzieć swoją nadzwyczajną historię.
+W dniu jego trzynastych urodzin, 1 września 1939 roku, nazistowskie Niemcy najechały na Polskę, a wraz z tym wydarzeniem życie Pivnika zmieniło się nieodwracalnie. Przeżył będzińskie getto, a potem przez sześć miesięcy pracował jako więzień na osławionej rampie w obozie Auschwitz-Birkenau, gdzie dokonywano selekcji ludzi z kolejnych transportów, kierując niektórych do obozu, a innych wprost do komór gazowych.
+Po tych traumatycznych doświadczeniach trafił do obozu przy kopalni Fürstengrube (dzisiaj kopalnia „Wesoła”). Przeżył morderczy „marsz śmierci” po obozach w głębi upadającej III Rzeszy i jest jednym z niewielu, którzy wyszli cało z ataku samolotów RAF na statek więzienny Cap Arcona, o którym sądzono mylnie, że przewozi uciekających esesmanów. W końcu dotarł do Londynu.
+Teraz Sam Pivnik, już po osiemdziesiątce, opowiada, jak wyratował się z najbardziej niebezpiecznych i przerażających opresji wojennych.
+
+Poniżej fragment zaczerpnięty z tejże książki, opisujący egzekucję niedoszłych uciekinierów z obozu pracy przy kopalni Furstengrube:
+,,Przyszła niedziela. Chrześcijański szabat. (...) Wczesnym popołudniem kazano nam ustawić się na placu, jak do apelu. Szubienica pięła się w szare niebo(...) Przed szubienicą stał rząd krzeseł. Cyrk - przedstawienie urządzone ku uciesze esesmanów. (...) Od strony bramy odezwał się warkot silników i nadjechał konwój samochodów SS - z chorągiewkami ze swastyką. Mężczyźni, którzy z nich wysiedli, nosili srebrne epolety wyższych oficerów z Auschwitz. Zaczęło się długie salutowanie i strzelanie obcasami w pruskim stylu (...) W roli perfekcyjnego gospodarza występował Schmidt. Uśmiechał się i kiwał głową, jakby prowadził jakieś garden party. Znałem tych niedoszłych uciekinierów. Trzech z nich przyjechało wraz ze mną z Auschwitz. Patrzyłem, jak wyprowadzają ich z wartowni; mieli związane ręce i puste spojrzenia. Był wśród nich Leon z Francji; beztroski Blockaltester Maurice z Belgii i mój kolega Natan, przedwojenny gangster z Łodzi. Był jeszcze czwarty więzień, którego imienia już nie pamiętam (...) Teraz cała czwórka wyglądała na muzułmanów (...) Przez ostatnie dni przeszli przez istne piekło bicia. Z poprzecznej belki zwisały cztery stryczki z szorstkiego konopnego sznura. Pod każdym stało zwykłe, drewniane krzesło, a z boku stała drabina. Schmidt i jego goście zajęli miejsca. (...) Prowadzący show - Unterscharfuhrer Anton Lukoschek bez wątpienia chciał zrobić wrażenie na swych przełożonych. Stanął przed nami z jedną ręką założoną za plecy i drugą wyciągniętą przed siebie, z wycelowanym palcem wskazującym. Powiedział, że potrzebuje pięciu z nas. Obrzucił nas morderczym spojrzeniem i wyliczał szczekliwie. W końcu palec wskazał na mnie. Spojrzeliśmy po sobie. Wszyscy byliśmy jeszcze nastolatkami. Wszyscy się znaliśmy. Wiedzieliśmy na czym polegało życie w Fürstengrube.
+A teraz mieliśmy się stać ,,plutonem egzekucyjnym'' - niczym jakaś Einsatzgruppen. Nie mieliśmy na to najmniejszej ochoty, najmniejszej motywacji - i żadnej alternatywy. - Ty - powiedział Lukoschek do jednego z nas - założysz im pętle na szyje. A wy (...) na mój rozkaz wykopiecie spod nich te krzesła. Esesmani postawili skazańców na krzesłach. Lukoschek wskazał chłopakowi, którego wybrał, drabinę. - Właź na górę i załóż im stryczki. Reszta ma stanąć przed krzesłami. - Zrobiłem, jak mi kazano. Stanąłem przed Mauric'em, tym Belgiem. Nie mogłem na niego patrzeć. Przeniosłem wzrok na Leona, stojącego na lewo, i obserwowałem pętlę zaciśniętą się na jego szyi. W straszliwej ciszy tych sekund słyszałem, jak łapczywie łapie powietrze, desperacko walczy o każdy oddech. Kiedy Maurice załkał cicho, wbiłem wzrok w ziemię, a potem spojrzałem na krzesło - patrzyłem na wszystko tylko nie na człowieka, którego za chwilę miałem zamordować. Jeden ze skazańców wzniósł jakiś polski okrzyk wojenny (...) Widziałem jak Lukoschek czeka na na sygnal od Schmidta. Wśród widzów nie było żadnych rozmów, żadnej reakcji. - Dobra. - szczeknął Lukoschek do chłopaka stojącego przed Leonem. -Ty pierwszy! Widziałem jak noga tego chłopaka unosi się i uderza w krzesło, ale to ledwie się zachwiało. Unterscharfuhrer pouczył go , że musi to zrobić mocniej, i chłopak kopnął ponownie, ale znów za słabo - stopy Leona wciąż tkwiły na krześle. Słyszałem jak wstrzymal oddech z przerażenia, ale tym razem chłopak z całych sił przyłożył w nogi krzesła. Lina wydała lekki trzask i napięła się, a krzesło spadło z rusztowania. Stopy Leona zatrzepotały jeszcze w desperackiej próbie znalezienia podparcia. Szczękę miał zaciśniętą, a wybałuszone oczy patrzyły dziko gdzieś w dal. Trwały to sekundy, ale mnie wydawało się, że minęły lata. Wtedy Lukoschek wycelował palcem we mnie (...) spojrzałem w górę. Bóg wie, dlaczego to zrobiłem, ale spojrzałem prosto w twarz Maurice'a. Po policzkach spływały mu łzy. (...) Usłyszałem jak mówi: ,,Długiego życia...'' Inni dostrzegli w tym ostatni dumny gest odważnego człowieka, ale ja usłyszałem szept skierowany tylko do mnie - do głupiego, naiwnego szczeniaka, któremu kazano skrócić czyjeś życie. Schyliłem się i wyszarpnąłem krzesło spod jego nóg. Stopy umierającego tańczyły w powietrzu, raz po raz kopiąc mnie w ramię. Potem przyszła kolej na Natana i tego mężczyznę od gołębi. Z nimi poszło gorzej. (...) Natan i człowiek od kurczaków dusili się długie minuty. Kiedy widzowie z pierwszego rzędu podnieśli się, nie zwracając uwagi na wiszące ciała, nam kazano wrócić do szeregu. Tymczasem goście przeszli do budynku administracyjnego, gawędząc o tym i owym. Zapewne spodziewali się sznapsa - w końcu tłukli się taki kawał drogi z Auschwitz. Zasłużyli na kielicha. Odwróciliśmy się od ludzi, których właśnie zabiliśmy i wróciliśmy do naszych baraków(...) twarz Maurice'a do dziś pojawia się w moich snach. ,,Długiego życia...''.
+(źródło cytatu: Sam Pivnik, Ocalały, 176-179 s.)
+
+<img src="./img/march/ocalaly.jpg"/><br><br>
 
 ### 1984 - Founded BlackBerry, Waterloo, Canada
 
@@ -15,6 +31,26 @@ BlackBerry Limited is a Canadian multinational company specialising in enterpris
 ### 1949
 
 Został zamordowany Hieronim Dekutowski: https://pl.wikipedia.org/wiki/Hieronim_Dekutowski
+
+---
+
+w Warszawie został zamordowany major Wojska Polskiego Hieronim Dekutowski ps. Zapora. Żołnierz Polskich Sił Zbrojnych na Zachodzie, cichociemny, dowódca oddziałów partyzanckich Armii Krajowej (AK), Delegatury Sił Zbrojnych na Kraj (DZS) oraz Zrzeszenia Wolność i Niezawisłość (WiN). Żołnierz podziemia
+antykomunistycznego. Odznaczony: Krzyżem Srebrnym Orderu Wojennego Virtuti Militari, Krzyżem Wielkim Orderu Odrodzenia Polski
+(Pośmiertnie), Krzyżem Walecznych. Wpadł 16 września 1947 roku zadenuncjowany przez swojego zastępcę Stanisława Wnuka. Od 1 czerwca 1948 roku był brutalnie przesłuchiwany. 3 listopada tego samego roku jego los podzieliło 6 jego współpracowników.
+15 listopada sędzia Józef Badecki wydał na niego 7 krotny wyrok śmierci. Matka Dekutowskiego bezskutecznie interweniowała u samego Bieruta.
+Wyrok wykonano 7 marca 1949 roku oprócz Dekutowskiego stracono również sześciu jego podkomendnych. W chwili śmierci, pomimo tego, że miał tylko 30 lat, wyglądał jak starzec z siwymi włosami, wybitymi zębami, połamanymi rękami, nosem i żebrami oraz zerwanymi paznokciami. Jego ostatnie słowa
+brzmiały: „Przyjdzie zwycięstwo! Jeszcze
+Polska nie zginęła!” Miejsce pochówku Zapory długo nie było znane lecz kilkuletnie poszukiwania zostały zwieńczone sukcesem w 2012 roku. Szczątki Zapory znaleziono podczas prac ekshumacyjnych na terenie Kwatery na Łączce, na warszawskich Powązkach.
+
+<img src="./img/march/zapora.jpg"/><br><br>
+
+### 1945
+
+W Milanówku został aresztowany przez NKWD generał August Fieldorf "Nil". Aresztowanie było dziełem przypadku, a sam aresztowany posiadał wtedy nazwisko Walenty Gdanicki, co sprawiło, że Rosjanie nawet nie zdawali sobie sprawy kto trafił w ich ręce. Fieldorf trafił do jednego z obozów pracy na Uralu, gdzie przebywał do roku 1947. Po powrocie ze zesłania osiedlił się w Białej Podlaskiej.
+Poniżej przedstawiam fragment wspomnień Janiny Fieldorf- wdowy po generale:
+" Po dwu i pół letnim pobycie, Emil, ciężko chory na dystrofię, wraca do Warszawy. 26 października 1947 roku wysiada opuchnięty, z gorączką na dworcu w Warszawie. Nie wie do kogo się udać, gdzie jest jego rodzina. I oto na szczęście spotyka swojego byłego podoficera z Trok. Prawie omdlałego ten zacny człowiek zabiera do siebie, najtroskliwiej się nim opiekuje i leczy. Emil bowiem miał zapalenie płuc. Dzięki tej troskliwej pielęgnacji przychodzi do zdrowia i udaje się do Krakowa".
+
+<img src="./img/march/nil.jpg"/><br><br>
 
 ### 1944
 
@@ -38,6 +74,29 @@ W tej chwili wystrzeliłem, mierząc z Visa prosto w serce. Strzał był celny. 
 7 marca 1941 roku kolaborujący z Niemcami aktor Julian Karol Sym (znany lepiej jako Igo Sym) został zastrzelony w swym mieszkaniu przy ulicy Mazowieckiej 10 w Warszawie z wyroku Wojskowego Sądu Specjalnego ZWZ. Akcję wyrokową przeprowadziła 3-osobowa grupa specjalna ZOM pod dowództwem podporucznika Rogolińskiego ps. ,,Szary''. Na początku wojny Igo Sym pomógł zorganizować zasadzkę, w której Niemcy pojmali ukrywającą się Hankę Ordonównę. W czasie okupacji niemieckiej został dyrektorem tzw. Theater der Stadt Warschau i otrzymał koncesję na T. Komedia i kino Helgoland (Polonia). W 1940 podjął się werbunku polskich aktorów do antypolskiego filmu propagandowego ,,Heimkehr''. Film opowiadał o prześladowanej przez Polaków mniejszości niemieckiej, której z pomocą przychodzi kanclerz Rzeszy Adolf Hitler. Po śmierci Igo Syma Niemcy zamordowali 21 osób, aresztowali i wysłali do KL Auschwitz m. in. Leona Schillera i Stefana Jaracza, rozesłano również listy gończe za Dobiesławem Damięckim i Ireną Górską.
 
 <img src="./img/march/sym.jpg"/><br><br>
+
+### 1913
+
+W Hanaczowie w województwie tarnopolskim urodził się Kazimierz Wojtowicz (zdjęcie) podporucznik Armii Krajowej, dowódca obrony Hanaczowa przed napadami Ukraińskiej Powstańczej Armii, za pomoc ludności żydowskiej odznaczony medalem Sprawiedliwy Wśród Narodów Świata.
+Był absolwentem Szkoły Podoficerskiej 14. Pułku Ułanów Jazłowieckich we Lwowie. W czasie wojny obronnej we wrześniu 1939 roku, już w stopniu wachmistrza walczył koło Zbąszyna pod Kutnem. Brał również udział w walkach w Warszawie, za co został odznaczony Krzyżem Walecznych.
+Po upadku wojny obronnej wyjechał do Lwowa, gdzie jako członek Służby Zwycięstwu Polski udzielał się w konspiracji. Działał na rzecz ludności polskiej i żydowskiej Hanaczowa, którą chronił przed wywózkami na Syberię. W czerwcu 1941 roku przeprowadził udaną akcję odbicia polskich jeńców wojennych z rąk NKWD, przed wywozem do łagrów i niechybną śmiercią. 10 kwietnia 1944 roku dał się poznać jako doskonały dowódca obrony Hanaczowa przed bandą UPA. W decydującej fazie walki poprowadził kontratak, który przyczynił się do niepowodzenia upowskich planów. Za czyn ten został awansowany do stopnia podporucznika, a w czerwcu 1944 roku odznaczony czterokrotnie Krzyżem Walecznych.
+Po wojnie, aż do roku 1989 był obiektem zainteresowania Urzędu Bezpieczeństwa Publicznego, NKWD i Służby Bezpieczeństwa. Zmarł w styczniu 1996 roku.
+W roku 1942 wystąpił do ludności Hanaczowa z inicjatywą obrony ukrywających się w jego okolicach Żydów.
+W roku 1993 za ratowanie Żydów Kazimierz Wojtowicz wraz z braćmi – Alojzym i Antonim (pośmiertnie) został odznaczony medalem Sprawiedliwy wśród Narodów Świata.
+
+<img src="./img/march/wojtowicz.jpg"/><br><br>
+
+### 1909
+
+W Dębicy urodził się Ryszard Siwiec (zdjęcie)-żołnierz Armii Krajowej, filozof, absolwent Uniwersytetu Jana Kazimierza we Lwowie.
+8 września 1968 roku, nie mogąc pogodzić się z udziałem oddziałów Wojska Polskiego w interwencji na Czechosłowację dokonał samospalenia podczas centralnych uroczstości dożynkowych zorganizowanych na Stadionie X lecia.
+W swoich ostatnich słowach w gescie rozpaczy napisał testament, w którym czytamy:
+" Ludzie, w których może jeszcze
+tkwi iskierka ludzkości, uczuć ludzkich,
+opamiętajcie się! Usłyszcie mój krzyk, krzyk szarego, zwyczajnego człowieka, syna narodu, który własną i cudzą wolność ukochał ponad wszystko, ponad własne życie, opamiętajcie się!
+Jeszcze nie jest za późno!".
+
+<img src="./img/march/siwiec.jpg"/><br><br>
 
 ---
 
