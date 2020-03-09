@@ -32,7 +32,16 @@ W odpowiedzi władze rozwiązały sześć
 kierunków studiów, m.in. ekonomię, filozofię i socjologię. Z listy studentów skreślono 34 osoby.
 Po ponownym otwarciu tych kierunków 70 osób nie uzyskało zgody na kontynuowanie studiów.
 
+Przypomnę, że przez Polską przetoczyła się obrzydliwa kampania antysemicka. Gomułka podzielił Polaków na trzy kategorie  nacjonalistów, kosmopolitów oraz tych którzy uznali Polskę za jedyną ojczyznę. Przyczyn wydarzeń doszukiwano się w spisku Izraela i RFN - teoria wroga zewnętrznego. Rozpętano kampanię nacjonalistyczną, wymieroną w elity polskiego narodu - studentów, pracowników wyższych uczelni. Imiennie atakowano Janusza Szpotańskiego, Stefana  Kisielewskiego, Pawła Jasienicę- ten ostatni praktycznie został skazany na  śmierć cywilną. Organizowano obrzydliwe spektakle nienawiści - Śląsk pogruchocze kości mącicielom, jak głoszono na wiecach organizowanych przez Gierka, rozwiązano wydziały Ekonomii i Filozofii, cały trzeci rok na Wydziale  Matematyczno-Fizycznym oraz psychologię na Wydziale Pedagogicznym UW. Na  mocy tej decyzji 1616 osób przestało być studentami. Z PZPR wyrzucono ponad 8 tysięcy osób.Jako jedyni z władz centralnych protestowali przeciw tej politycznej breji Adama Rapacki i Edward Ochab.W efekcie tych wydarzeń z Polski wyjechało  od 13 do 20 tys osób.Aby uzyskać wówczas pozwolenie na wyjazd, najpierw należało zrzec się polskiego obywatelstwa.Polskę opuścili wówczas Bronisław Baczko, Zygmunt Bauman, Włodzimierz Brus, Aleksander Ford, Jan Kott, Leszek Kołakowski, Krzysztof Pomian, Arnold Słucki, Witold Wirpsza, Stanisław Wygodzki. Wyjechały też za granicę osoby zatrudnione w aparacie  bezpieki i sądownictwa w latach 40-tych i 50-tych XX wieku.
+DO 1969 roku  roku Polska spostrzegana była na międzynarodowej arenie jako kraj antysemicki.
+Dopiero w 1988 roku można było pisać oficjalnie o wydarzeniach marcowych.
+Symbolem tych wydarzeń na zawsze pozostanie Dworzec Gdański w Warszawie, skąd przyszli emigranci udawali się w podróż jedną stronę.
+
 <img src="./img/march/wydarzenia_marcowe.jpg"/><br><br>
+
+<img src="./img/march/syjon.jpg"/><br><br>
+
+<img src="./img/march/syjon1.jpg"/><br><br>
 
 ---
 
