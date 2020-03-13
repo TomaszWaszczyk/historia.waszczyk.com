@@ -2,6 +2,8 @@
 
 http://polishhistory.pl
 
+http://otworzksiazke.pl/ksiazka/kronika_kryzysow_gospodarczych/strona/35/
+
 https://cczytam.blogspot.com/
 
 http://www.muzeumwp.pl/emwpaedia/wykrywacz-min-typu-polskiego.php

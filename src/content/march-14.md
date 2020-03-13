@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 marca
+title: 14 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
 date: 2018-03-07T10:00:00.000Z

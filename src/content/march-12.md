@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 marca
+title: 12 marca
 image: img/march/pokoj.jpg
 author: Tomasz Waszczyk
 date: 2019-03-12T10:00:00.000Z

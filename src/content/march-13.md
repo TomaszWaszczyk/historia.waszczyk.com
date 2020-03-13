@@ -3,7 +3,7 @@ layout: post
 title: 13 marca
 image: img/march/corona.jpeg
 author: Tomasz Waszczyk
-date: 2018-03-13T10:00:00.000Z
+date: 2019-03-13T10:00:00.000Z
 tags:
   - Polska
 ---
@@ -16,7 +16,7 @@ Corona wirus
 
 <img src="./img/march/corona2.jpeg"/><br><br>
 
-<img src="./img/march/korona.jpeg"/><br><br>
+<img src="./img/march/korona.jpg"/><br><br>
 
 ### 1962
 
