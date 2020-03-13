@@ -2599,6 +2599,12 @@ Aut Inveniem Viam, Aut Faci
 
 W obecnych czasach ludzie znają cenę wszystkiego i jednocześnie nie znają wartości niczego.
 
+Caedite eos. Novit enim Dominus qui sunt eius.
+
+Zagranie złej nuty jest bez znaczenia. Granie bez pasji jest niewybaczalne!
+
+Gdy jesteś niewydolny w czasie pokoju, nie łudź się, że pokonasz kryzys.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
