@@ -2605,6 +2605,8 @@ Zagranie złej nuty jest bez znaczenia. Granie bez pasji jest niewybaczalne!
 
 Gdy jesteś niewydolny w czasie pokoju, nie łudź się, że pokonasz kryzys.
 
+https://pl.wikiquote.org/wiki/Bogus%C5%82aw_Wolniewicz
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
