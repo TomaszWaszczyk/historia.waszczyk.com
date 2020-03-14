@@ -9,6 +9,8 @@ tags:
 draft: false
 ---
 
+https://en.wikipedia.org/wiki/Pi_Day
+
 ### 2020 - Barany chodzą stadami. Orły latają samotnie
 
 <img src="./img/march/agenda.png"/><br><br>
@@ -21,7 +23,7 @@ draft: false
 
 ### 1964
 
-1964 roku poeta Antoni Słonimski złożył w kancelarii ówczesnego premiera PRL list protestacyjny przeciwko cenzurze. Podpisane pod nim osobistości polskiej kultury i literatury wyrażały w nim zaniepokojenie o losy polskiego słowa pisanego. 
+Poeta Antoni Słonimski złożył w kancelarii ówczesnego premiera PRL list protestacyjny przeciwko cenzurze. Podpisane pod nim osobistości polskiej kultury i literatury wyrażały w nim zaniepokojenie o losy polskiego słowa pisanego.
 Oto treść tego dokumentu:
 " Ograniczenia przydziału
 papieru na druk książek i czasopism oraz zaostrzenie cenzury prasowej stwarza sytuację zagrażającą rozwojowi kultury narodowej.

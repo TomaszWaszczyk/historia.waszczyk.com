@@ -12,6 +12,10 @@ tags:
 
 https://pl.wikipedia.org/wiki/Felicjan_S%C5%82awoj_Sk%C5%82adkowski
 
+### 1815
+
+https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

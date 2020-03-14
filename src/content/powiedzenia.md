@@ -2607,6 +2607,11 @@ Gdy jesteś niewydolny w czasie pokoju, nie łudź się, że pokonasz kryzys.
 
 https://pl.wikiquote.org/wiki/Bogus%C5%82aw_Wolniewicz
 
+Qualis rex, talis grex
+- Jaki król, taka trzoda
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -108,6 +108,8 @@ https://papers.ssrn.com
 
 https://www.gbl.waw.pl/
 
+### Sztuka
+
 https://zbiory.mnk.pl
 
 https://pamiec.pl/
