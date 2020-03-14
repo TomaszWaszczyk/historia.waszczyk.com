@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 14 marca
-image: img/march/agenda.png
+image: img/march/trump.jpeg
 author: Tomasz Waszczyk
 date: 2019-03-14T10:00:00.000Z
 tags:
@@ -16,6 +16,8 @@ draft: false
 <img src="./img/march/agenda2.png"/><br><br>
 
 <img src="./img/march/agenda3.png"/><br><br>
+
+<img src="./img/march/trump.jpeg"/><br><br>
 
 ### 1964
 
