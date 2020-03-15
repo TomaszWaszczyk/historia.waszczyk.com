@@ -9,6 +9,13 @@ tags:
 draft: false  
 ---
 
+### 1942
+
+Fragment wspomnień urodzonego w Płocku Hermana Kruka (zdjęcie) żydowskiego bibliotekarza, kronikarza wileńskiego getta.
+20 stycznia 1942 Tej niedzieli, tu w getcie utworzony został Związek Literatów i Artystów. Już teraz w Związku zarejestrowano 20 pisarzy  żydowskich, 22 artystów scenicznych, 16 muzyków i śpiewaków oraz malarzy. Poza tym istnieje lista 15 rodzin pozostałych po wywleczonych siłą pisarzach i artystach. Zadania związku : samopomoc i pobudzenie do artystycznej twórczości w getcie, opracowanie kroniki wprowadzonych żydowskich pisarzy, artystów i intelektualistów, zbieranie ich zagubionej twórczości.
+
+<img src="./img/january/kruka.jpg"/><br><br>
+
 ### 1797
 
 generał Jan Henryk Dąbrowski (grafika) wydał odezwę do Polaków zachęcającą ich do wstąpienia w szeregi tworzących się we Włoszech Legionów Polskich.

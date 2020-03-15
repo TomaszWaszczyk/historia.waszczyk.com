@@ -3,7 +3,7 @@ layout: post
 title: "Sport"
 author: Tomasz Waszczyk
 tags: ["Sport"]
-image: img/art/strzeminski.jpg
+image: img/sport/motion.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
@@ -12,7 +12,7 @@ draft: false
 
 1. Leżymy na macie trzymając w obu rękach piłkę, unosimy obie nogi i wyknujemy ruchy piłką do podłoża, raz w prawo raz w lewo.
 
-2.  Po robieniu brzucha nalezy polozyc sie na materac i na rekach uniesc sie na 20 sek.
+2. Po robieniu brzucha nalezy polozyc sie na materac i na rekach uniesc sie na 20 sek.
 
 3. Pompki na piłce
 

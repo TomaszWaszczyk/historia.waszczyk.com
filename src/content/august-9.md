@@ -5,9 +5,14 @@ image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
 date: 2018-08-09T10:00:00.000Z
 tags:
-  - Historia
   - Rozbiory
 ---
+
+### 1945
+
+Nagasaki, 20 minut po zrzuceniu bomby Fat Man z samolotu B-29 Bockscar 9 sierpnia 1945.
+
+<img src="./img/august/fatman.jpg"/><br><br>
 
 ### 1864
 
