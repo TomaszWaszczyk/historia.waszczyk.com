@@ -2610,7 +2610,7 @@ https://pl.wikiquote.org/wiki/Bogus%C5%82aw_Wolniewicz
 Qualis rex, talis grex
 - Jaki król, taka trzoda
 
-
+When you are fearfull, you are vulnerable.
 
 ---
 

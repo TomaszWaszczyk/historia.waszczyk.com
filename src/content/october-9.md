@@ -8,6 +8,17 @@ tags:
   - Historia
 ---
 
+### 2019
+
+Turcja rozpoczęła ofensywę w syryjskim Kurdystanie, otrzymawszy wcześniej zielone światło od USA. Amerykańskie wojska zeszły z drogi inwazji, by zapewnić sobie bezpieczeństwo. Kurdowie byli jeszcze przed chwilą kluczowym sojusznikiem USA przeciwko Państwo Islamskiemu. Teraz, zrobiwszy swoje, mogą odejść.
+Tak niestety działa realna polityka, gdy zasoby zaprzyjaźnionych imperiów się kurczą, nie starczając już do panowania na wszystkich frontach. Kurdowie stracili 11 tys. ludzi w wojnie z Państwem Islamskim. Liczyli na sojuszniczą wdzięczność, można też powiedzieć, że wierzyli w "kapitał krwi". Tak jak my wielokrotnie w historii, zwłaszcza podczas II wojny światowej. Niestety, do dziś trudno się w Polsce przebić z krytyką tych idei i opartej na nich polityki.
+Sojusz z USA jest nam fundamentalnie potrzebny i oby był jak najmocniejszy. Ale musi być oparty na chłodnej kalkulacji, przemyślanej strategii i wspólnocie interesów, nie na miłych frazesach i romantycznych złudzeniach. Tak samo jak wszystkie inne sojusze.
+Walka, poświęcenie życia za ojczyznę - są czasem konieczne i zawsze godne najwyższego uznania. Ale muszą być częścią racjonalnej kalkulacji i strategii, inaczej oscylują między krwawą loterią a samobójstwem. Na tym polega wielka odpowiedzialność polityków.
+Obyśmy nigdy więcej nie opierali polityki państwa na takich złudzeniach jak nasi przodkowie i dzisiejsi Kurdowie.
+Na zdjęciach cywile uciekający z bombardowanych przez Turków kurdyjskich miast. Publikuję je w ślad za tweetem red. Jarosława Kociszewskiego.
+
+<img src="./img/march/kurdowie.jpg"/><br><br>
+
 ### 1989
 
 https://de.wikipedia.org/wiki/Wir_sind_ein_Volk

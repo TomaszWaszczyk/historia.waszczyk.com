@@ -25,6 +25,14 @@ Efekty rządów Stalina do dziś widoczne są w całej Europie.
 
 <img src="./img/march/stalin.jpg"/><br><br>
 
+### 1946
+
+"Od Szczecina nad Bałtykiem po Triest nad Adriatykiem przecina kontynent żelazna kurtyna".
+Powyższy cytat to fragment przemówienia premiera Wielkiej Brytanii Winstona Churchilla (zdjecie) wygłoszonego 5 marca 1946 roku w Fulton w Stanach Zjednoczonych.
+Churchill odniósł się w ten sposób do kwestii sowieckiej dominacjii nad krajami Europy Wschodniej.
+
+<img src="./img/march/winston.jpg"/><br><br>
+
 ### 1940
 
 Stalin podpisał rozkaz zezwalając na rozstrzelanie Polskich oficerów w Katyniu

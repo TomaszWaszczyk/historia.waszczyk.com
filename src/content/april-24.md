@@ -9,6 +9,10 @@ tags:
 draft: true
 ---
 
+### 2018
+
+<img src="./img/april/gospodarka.jpg"/><br><br>
+
 ### 1949
 
 ---

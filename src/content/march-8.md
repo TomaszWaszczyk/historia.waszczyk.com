@@ -19,6 +19,49 @@ Zmarł w wieku 70 lat znany kardiochirurg profesor Zbigniew Religa. Był twórc�
 
 <img src="./img/march/religa.jpg"/><br><br>
 
+### 1979
+
+Przedsiębiorstwo Philips zaprezentowało płytę kompaktową.
+Dzisiaj obchodzimy szczególne urodziny! Dokładnie 41 lat temu 8 marca 1979 roku - narodziła się płyta kompaktowa (COMPACT DISC). Aż trudno w to uwierzyć. W ciągu tych 41 lat, nieprzerwanie przez co najmniej 3 dekady, płyty CD towarzyszyły niemal każdemu człowiekowi na świecie. To nie przesada, technologia płyt CD to jedno z rozwiązań najdłużej utrzymujących się na rynku.
+Ówcześnie, 8 marca 1979 roku podczas konferencji prasowej Joop Sinjou, szef CD Lab w Philipsie, zaprezentował pierwszy w historii cyfrowy dysk audio o średnicy 115 mm (1 godzina odtwarzania) oraz odtwarzacz PHILIPS "Pinkeltje", czyli prototyp odtwarzacza wykorzystującego nazwę i logo Compact Disc. Zbudowano 10 takich prototypów "Pinkeltje" Philipsa z wykorzystaniem prototypowego mechanizmu laserowego CDM-0.
+W tym samym czasie firma Sony prowadząc podobne badania, zaproponowała zapis danych na krążku o średnicy 30 cm, co odpowiadało ok. 2,5-godzinnemu nagraniu. Płyta CD była nadal dopracowywana we współpracy firm Philips (znanej wówczas jako Royal Philips Electronics) i Sony. Obie firmy podpisały porozumienie także w 1979 roku. Sony i Philips utworzyły wspólny zespół inżynierów do zaprojektowania nowej cyfrowej płyty audio. Po roku eksperymentów i dyskusji, standard CD-DA Red Book został opublikowany w 1980 roku.
+Dodajmy, że Philips rozpoczął prace nad tą technologią już w 1974 roku, ale podstawy technologii zapisu na nośniku optycznym opracował James T. Russell już pod koniec lat 60-tych, zanim jeszcze ludzka stopa stanęła na powierzchni Księżyca.
+Niemniej dopiero w wyniku współpracy między SONY i PHILIPS ustalono nowy standard cyfrowego dysku optycznego o średnicy 120 mm, który znamy dzisiaj jako Compact Disc. Inne firmy również pracowały nad własnym formatem płyt. W 1981 roku powstał m. in. prototyp cyfrowego dysku audio SHARP z płytką 135 mm (dodajmy, że istniał też prototyp SONY Goronta, który wykorzystywał płyty CD 120 mm).
+Pierwsze publiczne prezentacje odbyły się w Saizburgu w kwietniu 1981 roku, gdzie zarówno firma PHILIPS, jak i SONY zaprezentowały swoje prototypy odtwarzające ten sam dysk CD 120 mm. Ciekawostką jest fakt, iż pierwsze płyty gramofonowe z końca XIX wieku miały 12,5 cm średnicy.
+Obie firmy przez lata spierały się o to, jaki rozmiar, kształt i technologię powinna obsługiwać płyta CD. Ostatecznie stanęło na 74 minutach muzyki.
+Dlaczego 74 minuty? Wielu świadków tamtych wydarzeń twierdzi, że taki rozmiar wymusił sam Norio Ōga (dyrektor generalny Sony Corporation w latach 1982–1995) po to, żeby dysk pomieścił całą IX Symfonię Beethovena, na co nalegał austriacki dyrygent Herbert von Karaja. Ōga był jednym z "ojców płyty kompaktowej" i jednym z głównych twórców Playstation. Zaprzeczył temu później współtwórca systemu Kees Immink, ale nie ma pewności kto ma rację.
+Wiadomo na pewno, że uzgodniona przez oba koncerny wersja płyty kompaktowej została zaprezentowana w kwietniu 1981 roku przez tych trzech panów: Joopa Sinjou (PHILIPS), Herberta von Karajana (dyrygent) i Akio Moritę (SONY). Prezentujemy tę chwilę i te postaci na załączonym zdjęciu.
+Grubość zaprezentowanej wtedy płyty CD wynosiła 1,2 milimetra i wirowała z prędkością około 500 obr./min na wewnętrznej stronie dysku.
+Pierwszą testową płytą było nagranie "Eine Alpensinfonie" Richarda Straussa. Pierwsze płyty kompaktowe zostały wytłoczone na skalę przemysłową w sierpniu 1982 roku. Była to płyta zespołu ABBA "The Visitors". Premiera tej płyty CD miała miejsce 17 sierpnia 1982 r. w Langenhagen, w fabryce firmy PolyGram, należącej do Philipsa. Natomiast pierwszą masowo sprzedawaną płytą CD był album Billy'ego Joela "52nd Street". Trafił on do sklepów w Japonii w październiku 1982 roku.
+Kiedy kolejne płyty CD dotarły na półki sklepowe w listopadzie 1982 roku, dostępnych było już 150 tytułów. Albumy ABBY i Billy'ego Joela były wśród nich, dołączyły do nich także liczne tytuły muzyki poważnej. Na zdjęciu zespół ABBA i ich pierwsza płyta CD podczas premiery.
+Pierwszym odtwarzaczem CD, przeznaczonym do sprzedaży detalicznej, był ówcześnie bardzo modny Sony CDP-101 oferowany za szaloną cenę 730 dolarów (równowartość dzisiejszych 1750 dolarów). Było to postrzegane jako zbyt kosztowne, by przeciętny konsument mógł go kupić, ale był to pierwszy przenośny, wytrzymały odtwarzacz CD, jaki kiedykolwiek widział świat.
+Płyty CD zostały wydane po raz pierwszy w Japonii, a do marca 1983 r. trafiły do Stanów Zjednoczonych i Europy. W tym czasie na płycie kompaktowej znalazło się ponad 1000 tytułów, a rewolucja cyfrowa była już w toku. Płyty CD audio kosztowały wtedy 15 dolarów (obecnie równowartość 35 dolarów).
+Pomimo wysokiej ceny, w latach 1983-1984 i w samych Stanach Zjednoczonych, sprzedano ponad 400 000 odtwarzaczy CD - głównie Sony.
+Jeszcze w 1985 roku Dire Straits, jeden z największych zespołów na świecie w tym czasie, wydał swój album "Brothers in Arms" na kompakcie tylko w celu promowania nowego formatu. Jednak w rezultacie tego posunięcia, była to pierwsza płyta, która kiedykolwiek sprzedała się jednorazowo w nakładzie ponad miliona egzemplarzy.
+To był punkt zwrotny dla skromnego jeszcze dysku CD. Płyta CD oznaczała przejście od technologii analogowej do dźwięku cyfrowego i utorowała drogę do rozwoju muzyki rozrywkowej. Nad sukcesem płyty kompaktowej zaważył też ogromny przyrost danych w ostatnich latach XX wieku. Standardowe nośniki, tj. dyskietka czy dysk twardy, miały zbyt małą pojemność, więc coraz częściej wybierano płytę CD.
+Do 1988 roku sprzedaż płyt CD w Stanach Zjednoczonych przewyższyła sprzedaż płyt winylowych, a do roku 1992 sprzedaż płyt CD przewyższyła sprzedaż nagranych kaset muzycznych.
+W ciągu następnych 20 lat sprzedano 200 miliardów płyt CD, a jednocześnie technologia szybko ewoluowała, aby pasować do nowych celów, takich jak wideo.
+Sukces tej kompaktowej płyty został zdyskontowany w szczególności przez firmy Philips i Sony, które wspólnie uzgodniły i opracowały kompatybilny sprzęt. Zunifikowana konstrukcja dysku CD pozwoliła konsumentom kupić dowolną płytę lub odtwarzacz od dowolnej firmy i pozwoliła płycie CD na dominację na domowym rynku muzycznym bez żadnych przeszkód.
+Pierwszą polską płytę kompaktową pt. "Chopin-Tausig-Wieniawski" (symbol WCD-001) wydał w styczniu 1988 r. WIFON. Zawierała ona nagrania koncertu fortepianowego e-moll op.11 Fryderyka Chopina oraz koncert fortepianowy op.20 Józefa Wieniawskiego w wykonaniu Orkiestry Symfonicznej Filharmonii Bałtyckiej pod dyrekcją Wojciecha Rajskiego. Pierwszym polskim albumem kompaktowym z muzyką rozrywkową była płyta z 1988 r. pt. „The Best of Urszula & Budka Suflera”.
+Pomimo tego, że płyty CD zdobywały popularność na całym świecie, wiele zespołów nadal wydawało swoje utwory w wielu formatach (kasety magnetofonowe, płyty winylowe i płyty CD) aż do drugiej połowy lat 90.
+Co ciekawe, pierwsze płyty CD audio, cechowała bardzo wysoka trwałość zapisu. Płyty muzyczne nagrane ponad 20 lat temu nadal można używać bez obaw.
+Płyta CD spotkała się z tradycyjną techniką komputerową już w 1991 roku, kiedy to wynaleziono format CD-i. Płyta CD-i została zaprojektowana do przechowywania wideo, tekstów, animacji i innych treści interaktywnych, które można odtwarzać za pomocą kompatybilnego odtwarzacza. W ciągu roku dostępnych było ok. 50 tytułów w formacie CD-i.
+Płyta Video CD wystartowała w 1994 roku, wydawane przez współzałożyciela Sony. Mało kto słyszał o Video CD, ponieważ lepszy format - DVD - szybko zdobył większą popularność.
+Digital Versatile Disc wygrał wojnę formatową przeciwko Video CD i kilku innym formatom w 1995 roku, aby stać się najpopularniejszym sposobem dystrybucji płyt wideo. Został wymyślony przez firmy Philips, Sony, Toshiba i Panasonic i ostatecznie zabił skromną taśmę VHS, tak jak CD zabiła przed nią analogowy dźwięk.
+Zaletą dysków była bardzo duża pojemność (odpowiednik około 450 dyskietek 3,5 cala 1,44 MB), a zarazem wygoda korzystania.
+Tymczasem ludzie w domach chcieli nagrywać sami CD. Zatem w 1997 r. na rynek trafiła pierwsza płyta CD-RW do wielokrotnego zapisu. Ponownie pojawił się problem ceny. Po tym, gdy współzałożyciel formatu, czyli Philips, wypuścił w tym samym roku nagrywarkę płyt CD-RW, dyski do wielokrotnego zapisu były sprzedawane w cenie 5,45 EUR za sztukę.
+Formaty stopniowo ewoluowały i nagrywalne płyty CD zostały zastąpione nagrywalnymi płytami DVD.
+Następnie wszedł na rynki światowe najnowocześniejszy (do dzisiaj) format płyt Blu-ray, które, mimo kilkudziesięciokrotnie większej pojemności, są potomkami tradycyjnych płyt kompaktowych. Nośniki te, podobnie jak pierwsze płyty CD, mają 12 cm średnicy.
+Sprzedaż płyt CD zaczęła spadać w 2000 roku ze względu na rosnące piractwo oraz rosnącą popularność nowego formatu cyfrowego znanego jako MP3.
+Wytwórnie płytowe odnotowały znaczny spadek sprzedaży, a w 2003 r. wiele z nich poparło wsparcie pomysłu Steve'a Jobsa i firmy Apple. Pomysł polegał na scentralizowanym sklepie, w którym można by było sprzedawać muzykę i pobierać ją na komputer użytkownika. W ciągu pierwszych 24 godzin od otwarcia usługi, sklep iTunes Store, sprzedał prawie 300 000 utworów, w bardzo krótkim czasie uzyskując wynik ponad 1 miliard piosenek.
+Przez cały ten czas płyty CD przeżywały jesień swojego życia, podobnie jak sklepy płytowe, które zbudowały swój model biznesowy na CD.
+Od kilku lat i to stało się przeszłością. Serwisy streamingowe, takie jak Spotify, Apple Music czy Tidal zastąpiły jakikolwiek obrót plikami mp3. Efekt ten spotęgowały także wielkie platformy internetowe, takie jak Youtube czy Facebook. Sprzedaż płyt CD spada, streaming rośnie lawinowo, powracają płyty winylowe.
+Tymczasem, głównie dzięki szybkiemu rozwojowi serwisów streamingowych, rynek muzyczny ponownie rośnie, w dodatku coraz szybciej, by wg prognoz Goldman Sachs z grudnia 2018 roku - już za 6 lat osiągnąć swój rekordowy poziom z 1999 roku. Zaś za kolejne 10 lat ta rekordowa wartość - podwoi się.
+Dzisiaj płyty CD znikają z rynku, jednak niektórzy obserwatorzy rynku muzycznego wieszczą powrót płyt kompaktowych w przyszłości i to z hukiem!
+Być może dzisiaj wieczorem wrócicie do domu, odkopiecie swoje ulubione płyty CD i dacie im zabrzmieć tak, jak za "starych, dobrych czasów". Ja tak uczynię!
+
+<img src="./img/march/cd.jpg"/><br><br>
+
 ### 1968
 
 Studenci Uniwersytetu Warszawskiego zorganizowali wiec, który stał się początkiem tak zwanych "wydarzeń marcowych"czyli kryzysu politycznego powstałego w kręgach Polskiej Zjednoczonej Partii Robotniczej, a mającego podłoże antysemickie.
@@ -88,6 +131,16 @@ Przypomnijmy, że przymusowy nabór do pracy w Niemczech organizowały w Polsce 
 Grafika: Niemiecki plakat propagandowy namawiający Polki do wyjazdu do pracy w Rzeszy.
 
 <img src="./img/march/niemcy.jpg"/><br><br>
+
+### 1938
+
+W przemówieniu do Narodowego Stowarzyszenia Ewangelików prezydent USA Ronald Reagan nazwał ZSRR „imperium zła”.
+Te dwa słowa określające Związek Sowiecki wypowiedziane 36 lata temu przez prezydenta USA Ronalda Reagana zelektryzowały cały świat.
+Nic nie wskazywało na to, że 8 marca 1983 r. na Narodowym Zgromadzeniu Ewangelików w Orlando na Florydzie, padnie określenie, które zyska sławę podobną do Churchillowskiej „żelaznej kurtyny”. Po raz pierwszy Zachód usłyszał tak jednoznacznie negatywne określenie Związku Radzieckiego i to z ust jednego z najważniejszych polityków tamtych czasów. Reagan powiedział m.in.:
+„To oni mówią o wyższości państwa, o jego wyższości nad jednostką i przewidują, że państwo obejmie władzę nad całym światem. To oni koncentrują na sobie całe zło tego świata. Więc kiedy dyskutujecie o zamrożeniu potencjałów nuklearnych, postarajcie się uniknąć grzechu pychy, która mogłaby was popchnąć do stwierdzenia, że obie strony tego sporu mają rację, że – ignorując fakty i historię – zignorujecie agresywne działania imperium zła i stwierdzicie, że wyścig zbrojeń jest po prostu nieporozumieniem, a nie walką prawdy z kłamstwem i dobra ze złem”.
+Słowa prezydenta USA cytowały na drugi dzień gazety na wszystkich kontynentach. Historycy uważają dziś, że był to jeden z najważniejszych gestów, który pomógł zakończyć zimną wojnę.
+
+<img src="./img/march/reagan.jpg"/><br><br>
 
 ---
 

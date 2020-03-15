@@ -25,6 +25,12 @@ Dzień Jedności Narodowej, ros. День народного единства�
 
 Święto to miało w zamyśle władz zastąpić przypadającą na 7 listopada rocznicę wybuchu rewolucji październikowej. Zmiany nazwy i okazji świętowanego wydarzenia dokonano 12 grudnia 2004.
 
+### 1576
+
+Katolickie wojska hiszpańskie dokonały rzezi protestanckiej Antwerpii. Wydarzenie to przeszło do historii jako Hiszpańska Furia.
+
+<img src="./img/november/furia.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
