@@ -16,6 +16,10 @@ tags:
 
 https://pl.wikipedia.org/wiki/Magda_Goebbels
 
+### 1932
+
+https://en.wikipedia.org/wiki/Donald_Kagan
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

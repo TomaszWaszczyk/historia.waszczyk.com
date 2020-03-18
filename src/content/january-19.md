@@ -28,6 +28,14 @@ Tym wydanym 19 stycznia 1945 roku rozkazem generał Leopold Okulicki rozwiązał
 Formacja ta o charakterze konspiracyjnym powstała 14 lutego 1942 roku na mocy rozkazu Naczelnego Wodza Polskich Sił Zbrojnych generała Władysława Sikorskiego o przemianowaniu Związku Walki Zbrojnej na Armię Krajową.
 Rozwiązanie Armii Krajowej podyktowane było coraz trudniejszą sytuacją po przegranym powstaniu warszawskim oraz obawami o bezpieczeństwo działających w niej żołnierzy. Sowiecki wywiad przy pomocy komunistycznej Polskiej Partii Robotniczej i jej zbrojnej organizacji Gwardii Ludowej (przemianowanej na Armię Ludową) w czasie wojny zgromadzili bogatą dokumentację o polskim podziemiu patriotycznym. Po wkroczeniu do Polski, Rosjanie aresztowali i zesłali do gułagów w ZSRR blisko 50 tysięcy członków Armii Krajowej. Sam Okulicki zaś został podstępnie uprowadzony i zamordowany w Moskwie.
 
+### 1902
+
+David Olère urodził się 19 stycznia 1902 r. w Warszawie zmarł 21 sierpnia 1985 r. pod Paryżem. Studiował w Akademii Sztuk Pięknych w Warszawie. W 1918 r. wyjechał do Berlina, a następnie do Paryża, gdzie osiadł już na stałe. Należał do tzw. szkoły paryskiej. Pracował dla różnych wytwórni filmowych (tworzył scenografie, kostiumy i plakaty reklamowe) m.in. Paramount Pictures, Fox, Gaumont.
+20 lutego 1943 r. ze względu na żydowskie pochodzenia został aresztowany przez policję francuską i umieszczony w obozie Drancy. Stamtąd 2 marca deportowano go do niemieckiego nazistowskiego obozu koncentracyjnego i zagłady Auschwitz, gdzie oznaczono go numerem 106 144. Przez cały okres pobytu w obozie pracował w Sonderkommando, specjalnej grupie roboczej zmuszonej przez Niemców do obsługi krematoriów i komór gazowych.
+"David Olère jest jedynym więźniem Sonderkommando, który swoje traumatyczne przeżycia w cieniu kominów krematoryjnych przelał na papier i płótna. Stąd ich całkowicie unikatowa wartość, jako dokumentów ilustrujących dzieje Zagłady. Pochodzą od naocznego świadka i ukazują zarówno codzienność pracy Sonderkommando, jak i siłę traumy oraz wolę życia mimo wszystko osoby, która przeszła przez najciemniejsze z obozowych doświadczeń."
+
+<img src="./img/january/olere.jpg"/><br><br>
+
 ### 1863
 
 Powstał Tymczasowy Rząd Narodowy – centralny organ władz rozpoczętego 22 stycznia powstania styczniowego.

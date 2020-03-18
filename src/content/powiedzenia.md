@@ -2612,6 +2612,16 @@ Qualis rex, talis grex
 
 When you are fearfull, you are vulnerable.
 
+https://en.wikipedia.org/wiki/Sisu
+
+"Czy wiecie, co jedynie sprawia mi przyjemność? Patrzeć, jak spływają do mnie dywidendy." 
+John D. Rockefeller
+"Giełda bez dywidend to chora giełda która pasie spekulantów, na której to wszyscy tracą w tym same spółki." 
+Benjamin Graham
+„Mój ulubiony horyzont inwestycyjny to nieskończoność”. 
+Warren Buffett
+"Zyski płyną od aktywnych do cierpliwych
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

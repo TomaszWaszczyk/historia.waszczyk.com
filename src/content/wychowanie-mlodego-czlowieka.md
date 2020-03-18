@@ -64,6 +64,8 @@ draft: false
 
 * Bajki Kwantowe: Seria 1 – Kamil Hajduk
 
+* Baby Loves Quantum Physics! (Baby Loves Science) by Ruth Spiro (Author), Irene Chan (Illustrator)
+
 * https://www.rigb.org/families
 
 ### Programowanie = szkoła myślenia

@@ -31,6 +31,44 @@ Premier Morawiecki zapewnia, że:
 
 7. ...wypłaty 500+ nie są w najmniejszym stopniu zagrożone...
 
+---
+
+First 0 interest, then QE Infinity.
+
+Then negative rates and currency controls
+
+Then cash limits and helicopter money
+
+Then e-coin and cash ban
+
+None of it will work...
+
+---
+
+Federal Reserve slashes rates to zero, restarts QE: The Federal Reserve made an emergency announcement Sunday afternoon by announcing that it would be cutting interest rates to zero for the first time since the financial crisis.
+
+The central bank said it will use its “full range of tools” to battle the economic impacts of the novel coronavirus and announced quantitative easing in the form of at least $700 billion of asset purchases. It also encouraged banks to provide credit to the economy by eliminating reserve requirements and allowing the financial firms to tap into capital and liquidity buffers.
+
+In a global effort, the Fed also announced standing U.S. dollar liquidity swap line arrangements in coordination with the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, and the Swiss National Bank. 
+
+“The Federal Reserve is prepared to use its full range of tools to support the flow of credit to households and businesses and thereby promote its maximum employment and price stability goals,” the Fed said in a statement.
+
+The Fed said the coronavirus outbreak “harmed communities and disrupted communities in many countries,” adding that the U.S. labor market still appeared “strong” as the U.S. economy rose at a “moderate rate.”
+
+But the Fed on Sunday slashed rates by 100 basis points, less than two weeks after it had already made an impromptu 50 basis point cut. 
+
+“The Committee expects to maintain this target range until it is confident that the economy has weathered recent events and is on track to achieve its maximum employment and price stability goals.”
+
+The Fed also resumed the crisis-era policy of large-scale asset purchases by committing to Treasury purchases of at least $500 billion and agency mortgage-backed securities of at least $200 billion “over coming months.”
+
+The central bank was scheduled to hold a Federal Open Market Committee meeting on March 17-18 with a policy announcement on March 18. In the face of accelerating cases of the coronavirus around the world, the Fed pulled the decision forward.
+
+The decision was voted on by all members of the FOMC with the exception of Cleveland Fed President Loretta Mester, who supported all the actions but preferred only a 50 basis point cut to a target range of between 0.5% and 0.75%.
+
+### 2019
+
+https://en.wikipedia.org/wiki/2019%E2%80%9320_Hong_Kong_protests
+
 ### 1989
 
 Weszło w życie nowe prawo dewizowe, legalizujące prywatny obrót walutami obcymi w kantorach walutowych.

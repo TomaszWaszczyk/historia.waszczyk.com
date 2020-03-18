@@ -126,6 +126,10 @@ https://en.wikipedia.org/wiki/Deindustrialisation_by_country
 
 https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
+### 2004
+
+https://en.wikipedia.org/wiki/Electronic_benefit_transfer
+
 ### 2000
 
 https://en.wikipedia.org/wiki/David_Lyon_%28sociologist%29 - Electronic Eye: The Rise of Surveillance Society: David Lyon
@@ -139,6 +143,10 @@ The separation between deposit and investment banking has been removed: https://
 ### 1994
 
 Nick Szabo’s 1994 article “Formalizing and securing relationships on public networks”
+
+### 1983
+
+https://pl.wikipedia.org/wiki/Costco
 
 ### 1982
 
@@ -294,8 +302,7 @@ Fakt ten obala jakiekolwiek przesłanki, że globalny rząd jest przychylny, hum
 
 Naziści, którzy tchnęli życie w przeszłe systemy globalnego autorytaryzmu są wykorzystywani do utworzenia obecnego światowego rządu. Ich dorobek został przywłaszczony przez elity, które okazały się bardziej cierpliwe w dążeniu do narzucenia światu dyktatury. Niemniej jednak ostateczny program pozostaje ten sam - rząd światowy, za zgodą społeczną lub przez podbój, którego jesteśmy świadkami.
 
-
-"To Schacht, nie Owen Young, był autorem koncepcji, która urzeczywistniła się jako Bank Rozrachunków Międzynarodowych BIS. Szczegóły zostały wypracowane na konferencji, której przewodniczył Jackson Reynolds, „jeden z ważniejszych nowojorskich bankierów”, a w której uczestniczyli też Melvin Traylor z First National Bank of Chicago, sir Charles Addis, wcześniej z korporacji banków Hong Kongu i Szanghaju (bank Brytyjski), oraz wielu bankierów francuskich i niemieckich10. BIS był instytucją kluczową z punktu widzenia sprawnego wdrożenia Planu Younga jako miejsce umożliwiające prowadzenie międzynarodowej polityki walutowej. 
+"To Schacht, nie Owen Young, był autorem koncepcji, która urzeczywistniła się jako Bank Rozrachunków Międzynarodowych BIS. Szczegóły zostały wypracowane na konferencji, której przewodniczył Jackson Reynolds, „jeden z ważniejszych nowojorskich bankierów”, a w której uczestniczyli też Melvin Traylor z First National Bank of Chicago, sir Charles Addis, wcześniej z korporacji banków Hong Kongu i Szanghaju (bank Brytyjski), oraz wielu bankierów francuskich i niemieckich10. BIS był instytucją kluczową z punktu widzenia sprawnego wdrożenia Planu Younga jako miejsce umożliwiające prowadzenie międzynarodowej polityki walutowej.
 
 Schacht poddał także Youngowi pomysł, który już po II wojnie światowej zaowocował powołaniem Międzynarodowego Banku Odbudowy i Rozwoju IBRD (znanego także jako Bank Światowy)."
 
