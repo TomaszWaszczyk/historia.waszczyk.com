@@ -1,16 +1,18 @@
 ---
 layout: post
-title: 7 marca
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+title: 19 marca
+image: img/march/sejm.jpg
 author: Tomasz Waszczyk
-date: 2018-03-07T10:00:00.000Z
+date: 2019-03-19T10:00:00.000Z
 tags:
-  - Historia
-draft: true
+  - Polska
+draft: false
 ---
 
-### 
+### 2020
+
+<img src="./img/march/sejm.jpg"/><br><br>
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

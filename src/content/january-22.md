@@ -30,6 +30,14 @@ Za datę końca powstania styczniowego przyjmuje się aresztowanie generała Rom
 
 <img src="./img/january/powstaniestyczniowe.jpg"/><br><br>
 
+Powstańcy styczniowi w II RP byli traktowani niemal jak święci. III RP żołnierzy walczących o wolność Polski potraktowała po macoszemu.
+Jeżeli młody chłopak poszedł na powstanie, mając 18 lat, to w momencie odzyskania niepodległości miał lat 73. Na terytoriach Polski, które ostatecznie weszły w skład II Rzeczypospolitej, znalazło się około 3700 powstańców styczniowych. W roku 1923 było ich blisko dwa tysiące, w roku 1933 – 258, a przed wybuchem II wojny światowej – 52. Ostatni, Feliks Bartczuk, zmarł 9 marca 1946 r. w zniewolonym przez komunistów kraju. Miał ponad 100 lat.
+
+Józef Dragun - Weteran Powstania Styczniowego 1863 r.
+Fotografia z 1929 roku:
+
+<img src="./img/january/jozef.jpg"/><br><br>
+
 ---
 
 ### 1632

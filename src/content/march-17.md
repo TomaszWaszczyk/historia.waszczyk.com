@@ -11,6 +11,14 @@ draft: false
 
 ### 2020
 
+- W USA zapowiedzieli pieniądze z helikoptera dla wszystkich
+
+- Polska RPP zapowiedziała skup obligacji z rynku
+
+- Merkel powiedziała, że można rozważyć emisję wspólnego długu strefy euro
+
+---
+
 To jedna z najgorszych wiadomości od 1989 roku. Bank centralny  obniżając siłę nabywczą pieniądza, co sprowadza się de facto do obłożenia naszych pieniędzy haraczem nie tylko robi nam krzywdę, dodatkowo kreuje pieniądze z powietrza, czyli podnosi inflację. Powoływanie się na inne banki centralne jest to jakąś żałosną ironią. Gołym okiem widać skutki procederu dodruku pieniądza przez FED w USA. Wczoraj giełda miała rekordowym spadek, a właściwie krach. W ciągu 3 ostatnich tygodni Wall Street straciła więcej niż zyskała w ciągu ostatnich trzech latach pompowania płynności (bańki spekulacyjnej) przy pomocy drukowania pieniędzy. Poza tym upodabnianie się polskiego banku centralnego do innych takich banków w innych krajach powinno być poprzedzone upodabnianiem się polskiej gospodarki, prawa, zasobów, pieniądza, tradycji i innymi cechami. Sam bank centralny to nie wszystko, tym bardziej że rząd  zamiast dbać o naród i gospodarkę, dba o banki, co się odbywa kosztem obniżenia poziomu naszego życia. 17 marca 2020 roku skończył się w Polsce wolny rynek i wrócił socjalizm. 
 Jan Fijor
 
