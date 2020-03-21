@@ -8,6 +8,17 @@ tags:
   - Stanisław Maczek
 ---
 
+### 2020
+
+Aż do XIX wieku w analizach ekonomicznych nie brano pod uwagę faktu, że konsument odnosi inne korzyści z konsumpcji jednostki dobra jeżeli posiada tego dobra niewiele, a inne jeżeli poziom jego konsumpcji jest znacząco wyższy. Ta obserwacja doprowadziła do sformułowania prawa malejącej użyteczności krańcowej, zgodnie z którym korzyść krańcowa każdej kolejnej konsumowanej jednostki dobra jest mniejsza od korzyści krańcowej poprzedniej jednostki dobra.
+Opisanie tego zjawiska pozwoliło wyjaśnić tzw. paradoks wody i diamentu, czyli dlaczego woda, która jest niezbędna do życia, jest tania, podczas gdy diamenty są bardzo drogie, choć można się bez nich obejść?
+Ten paradoks ma jeszcze inne oblicze. Na pewno często spotykacie się z tezą neoluddystów twierdzących, że postępująca automatyzacja będzie skutkowała katastrofalnymi skutkami społecznymi. Brzmi to mnie więcej tak: "Roboty zabiorą nam pracę i nie będziemy mieli wynagrodzeń potrzebnych do zaspokajania naszych potrzeb. Co prawda automatyzacja od czasów rewolucji przemysłowej zwiększyła jakość naszego życia, ale tym razem będzie inaczej"
+Tu właśnie wracamy do prawa malejącej użyteczności krańcowej. Automatyzacja zwiększa efektywność produkcji zalewając rynek większą liczbą produktów lub szybciej wykonywanych usług. To naturalnie wpływa na zwiększenie podaży dóbr i spadek cen (nota bene gdyby nie złodziejska polityka banków centralnych w tandemie z rosnącymi podatkami) obserwowalibyśmy spadki cen, a nie systematyczny wzrost cen (niektóre branże jednak rozwijają się tak szybko, że nawet w obliczu inflacji ceny niektórych produktów spadają). W warunkach totalnej automatyzacji proces zmniejszania się kosztów produkcji byłby tak znaczący, że dostęp do owoców pracy automatów byłby w zasięgu nawet najbiedniejszych. Ludzie mogliby skupić się na realizacji wyższych potrzeb, np. wychowaniu własnych dzieci, rozwoju duchowym i intelektualnym, sztuce, graniu w gry live na youtube, podtrzymywaniu relacji itd. 
+Reasumując życie na poziomie zapewniającym godną egzystencję nie wymaga posiadania pracy. Kult pracy widoczny jest chociażby w skupianiu się na statystykach poziomu zatrudnienia. Paradoksalnie uważa się, że większy odsetek bezrobotnych jest negatywnym zjawiskiem. Nikt nie patrzy na to z drugiej strony gdzie brak pracy wynika z faktu, że ktoś nie musi pracować na przysłowiowym etacie, gdyż ma zaspokojone potrzeby na akceptowalnym przez siebie poziomie. 
+Mieliśmy już system społeczno-gospodarczy, który wymagał aby każdy miał pracę lub miejsca, w których praca miała czynić wolnym bez względu jak bezsensowne działania ktoś miał wykonywać. Miarą rozwoju cywilizacyjnego jest odsetek ludzi, którzy pracować nie muszą. Bardzo często nawet w świecie biznesu sukces definiuje się, nie jako liczba cyferek na koncie firmy, ale czy organizatorzy biznesu mają odrobinę czasu wolnego do dyspozycji.
+
+<img src="./img/october/utility.jpg"/><br><br>
+
 ### 2008
 
 Z linii montażowej Zakładów Samochodowych Jelcz S.A zjechał ostatni autobus Jelcz. Był to model M083C, który pojechał do Krakowa wozić pasażerów tamtejszego MPK. Ostatni autobus, który wyjechał z fabryki, był niskopodłogowy, klasy midi. Miał drzwi otwierane do środka.

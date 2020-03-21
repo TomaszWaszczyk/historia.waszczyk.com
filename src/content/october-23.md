@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 1951
+
+Do prezesa Sądu Wojewódzkiego miasta Warszawy Ilii Rubinowa wpłynęło pismo z wnioskiem o prowadzenie rozprawy przeciwko generałowi Fieldorfowi (zdjęcie)  przy drzwiach zamkniętych. Jego autorem był wicedyrektor Departamentu Specjalnego Prokuratury Generalnej Władysław Dymant, z zawodu ... ślusarz i górnik, były żołnierz Armii Czerwonej, członek Związku Patriotów Polskich, absolwent Szkoły Politycznej Polskiej Partii Robotniczej w Wałbrzychu.
+
+<img src="./img/october/fieldorf.jpg"/><br><br>
+
 ### 1937
 
 https://pl.wikipedia.org/wiki/Karol_Modzelewski "niewolnictwo państwowe"

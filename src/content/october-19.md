@@ -12,6 +12,14 @@ tags:
 
 Zamordowano księdza Jerzego Popiełuszkę.
 
+<img src="./img/october/popieluszko.jpg"/><br><br>
+
+''Prośmy Chrystusa Pana, abyśmy zachowali godność dziecka Bożego na każdy dzień; byśmy w życiu naszym na co dzień kierowali się sprawiedliwością; by nasze codzienne życie było przepełnione prawdą; abyśmy w naszym codziennym życiu okazywali męstwo w walce o wartości prawdziwie chrześcijańskie; byśmy byli wolni od leku, zastraszania, ale przede wszystkim od żądzy odwetu i przemocy" - jest to fragment kazania wygłoszonego przez księdza kapelana NSZZ „Solidarność”Jerzego Popiełuszkę (na zdjęciu) w dniu 19 października 1984 roku w kościele pw. Świętych Polskich Braci Męczenników w Bydgoszczy. Było to ostatnie kazanie, jakie wygłosił w swoim życiu. W drodze powrotnej do Warszawy ksiądz Jerzy został uprowadzony przez oficerów Samodzielnej Grupy „D” Departamentu IV MSW, którzy przebrani w mundury milicjantów zatrzymali auto, którym poruszał się ksiądz. Po zmuszeniu Popiełuszki do opuszczenia auta, skatowali go i wrzucili do bagażnika. Aby uniemożliwić mu jakąkolwiek możliwość ruchu i próbę oswobodzenia skrępowali mu nogi i ręce sznurkiem.  Esbecy porwali księdza Jerzego Popiełuszkę razem z jego osobistym kierowcą, czyli Waldemarem Chrostowskim. Jednak Chrostowskiemu udało się wyskoczyć z pędzącego samochodu i uciec. Oprawcy zatrzymali się przy tamie włocławskiej i  jeszcze żywego księdza wrzucili w worku, który uprzednio obciążyli kamieniami, do Wisły
+Prawdopodobnie 13 września 1984 roku w Warszawie odbyło się spotkanie w czasie którego Wojciech Jaruzelski miał powiedzieć do Czesława Kiszczaka: "Załatw to, niech on nie szczeka".
+19.10.1984 roku w miejscowości Górsk na trasie z Torunia do Warszawy oficerowie MSW: Grzegorz Piotrowski, Leszek Pękala i Waldemar Chmielewski wykonali polecenie. Czwartym, chociaż nie bezpośrednim katem był Adam Pietruszka. Jerzy Popiełuszko miał 37 lat.Ogłoszenie ks. Jerzego Popiełuszki błogosławionym Kościoła katolickiego odbyło się 6 czerwca 2010 w Warszawie na placu Piłsudskiego.
+
+<img src="./img/october/popieluszko2.jpg"/><br><br>
+
 ### 1938
 
 Herb Wrocławia – ustanowiony przez nazistów. Użycie go przez kontrowersyjną stację telewizyjną wywołało skandal

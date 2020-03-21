@@ -687,6 +687,10 @@ Pieniędza szczęścia nie dają, ale każdy chce to sprawdzić.
 at will
 https://worldpopulationreview.com/states/at-will-employment-states/
 
+bajać - opowiadać bajki
+
+https://pl.wikipedia.org/wiki/Cymelia
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

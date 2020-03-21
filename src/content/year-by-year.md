@@ -130,6 +130,10 @@ https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
 https://en.wikipedia.org/wiki/Electronic_benefit_transfer
 
+### 2003
+
+Jesienią 2013 roku, chiński cesarz ogłasza rozpoczęcie programu „Pasa i Drogi” , którego projekty infrastrukturalne w następnych latach finansowane zostają w całości z funduszy pochodzących z dumpingu papierów UST o świetlanym ratingu AAA. Dla wszystkich rozeznanych w sytuacji stało się jasne, że chiński reżim, będący podówczas największym pożyczkodawcą US, zaprzestał gromadzenia długu US w sytuacji, kiedy ten z roku na rok przyrasta w zawrotnym tempie biliona $.
+
 ### 2000
 
 https://en.wikipedia.org/wiki/David_Lyon_%28sociologist%29 - Electronic Eye: The Rise of Surveillance Society: David Lyon
