@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2020
+
+> Raport 21 marca 2020: Już 452 osób zachorowało w Polsce na koronawirusa. Pięć z nich zmarło. Rząd zdecydował o zamknięciu szkół do Świąt Wielkanocnych. Na terenie Polski wprowadzono stan epidemii. - To trudna decyzja, ale ważna, żeby nie doszło do dalszego rozprzestrzeniania koronawirusa - stwierdził w piątek wieczorem premier Mateusz Morawiecki. Podwyższono karę za złamanie kwarantanny z 5 tys. zł do 30 tys. zł. Za nami najtragiczniejsza doba od początku epidemii we Włoszech. W ciągu 24 godzin na koronawirusa zmarło tam 627 osób.
+
+<img src="./img/march/usdpln_2020-03-21.png"/><br><br>
+
 ### 1980
 
 Na Rynku Głównym w Krakowie były żołnierz Armii Krajowej Walenty Badylak dokonał samospalenia. Była to manifestacja przeciwko przemilczaniu przez władze PRL zbrodni katyńskiej.
