@@ -16,6 +16,8 @@ https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska
 
 https://pl.wikipedia.org/wiki/Roman_Damian_Sanguszko
 
+Księżna Helena Jabłonowska z Reyów
+
 ### Książki
 
 * Arystokracja, Miller Marek

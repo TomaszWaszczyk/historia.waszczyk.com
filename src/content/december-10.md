@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2019
+
+<img src="./img/december/goldman.jpeg"/><br>
+
 ### 1942
 
 Ppełniący obowiązki ministra spraw zagranicznych RP Edward Raczyński przedstawił aliantom szczególowy raport o Holokauście stworzony na podstawie dokumentów, które do Londynu przywiózł Jan Karski. Rząd Polski na Uchodźctwie liczył w ten sposób na to, że alianci, a zwłaszcza Stany Zjednoczone zareagują na to, co zostało im przekazane. Niestety skończyło się na niedowierzaniu w to, co opisał Karski i braku jakiejkolwiek reakcji. Raport Karskiego był pierwszym tego typu opisującym tragiczną sytuację nie tylko Żydów w Polsce, ale i w całej Europie. Trzeci punkt noty Raczyńskiego brzmiał:

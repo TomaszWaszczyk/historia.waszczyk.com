@@ -2618,9 +2618,11 @@ https://en.wikipedia.org/wiki/Sisu
 John D. Rockefeller
 "Giełda bez dywidend to chora giełda która pasie spekulantów, na której to wszyscy tracą w tym same spółki." 
 Benjamin Graham
-„Mój ulubiony horyzont inwestycyjny to nieskończoność”. 
+„Mój ulubiony horyzont inwestycyjny to nieskończoność”.
 Warren Buffett
 "Zyski płyną od aktywnych do cierpliwych
+
+„Wolność jest najlepszą, naj- tańszą, najskuteczniejszą sztuką rządzenia i gospodarowania" – pisał Ferdynand Zweig.
 
 ---
 

@@ -5,8 +5,7 @@ image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
 date: 2018-05-12T10:00:00.000Z
 tags:
-  - Historia
-  - Goebells
+  - Piłsudski
 ---
 
 ### 1926

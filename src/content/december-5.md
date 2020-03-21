@@ -54,6 +54,20 @@ wskazując kandydaturę prof. Ignacego
 Mościckiego, wybranego następnie przez
 Sejm. Jednak jeszcze w tym samym roku został Generalnym Inspektorem Sił Zbrojnych oraz aż do 1928 roku premierem. W 1935 roku zdiagnozowano u niego nowotwór żołądka. Zmarł 12 maja 1935 roku.
 
+Mit Piłsudskiego:
+
+- „Legenda Piłsudskiego" Irena Pannenkowa
+
+- "Mit Piłsudskiego" - Giertych Maciej
+
+- https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Zag%C3%B3rski_(genera%C5%82)
+
+- https://pl.wikipedia.org/wiki/Miejsce_Odosobnienia_w_Berezie_Kartuskiej
+
+W Szwecji podobno nie uczą podobno historii.
+
+Korfanty, Dmowski, Sikorski, gen. Rozwadowski, Józef Dowbor Muśnicki to przeciwnicy Piłsudskiego.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
