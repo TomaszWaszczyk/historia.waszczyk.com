@@ -19,6 +19,24 @@ Na zdjęciach cywile uciekający z bombardowanych przez Turków kurdyjskich mias
 
 <img src="./img/march/kurdowie.jpg"/><br><br>
 
+Szyszko Szyszką, wybory wyborami, ale jest sprawa naprawdę ważniejsza. Dosłownie kilka godzin temu turecka armia przypuściła atak na tereny północnej Syrii.
+Znajdują się one obecnie pod administracją Kurdów związanych z partią polityczną o nazwie PYD (Partia Unii Demokratycznej - to jej barwy mam na profilowym) i są określane jako Rożawa. To właśnie Rożawa, rękami swoich żołnierzy z Powszechnych Jednostek Ochrony (YPG) i żołnierek z Kobiecych Jednostek Ochrony (YPJ), ma zasługę dla całego świata, gdyż pokonała Państwo Islamskie (ISIS). Nie bez pomocy, ale bez tych dzielnych ludzi i ich poświęcenia ISIS miałoby się świetnie do tej pory.
+Kilka dni temu Donald Trump dał prezydentowi Turcji Erdoganowi zielone światło do napaści na Rożawę. Ta niepoczytalność i zwykły debilizm Trumpa jest krytykowana od lewa do prawa w Stanach. Ta decyzja to hańba, to zdrada, to wystawienie milionów ludzi na ogromne zagrożenie, pierwsze jej ofiary już zresztą są.
+Ktoś może pomyśleć, że w sumie co z tego? Kolejny konflikt gdzieś na końcu świata, co mnie to obchodzi? Nie wartościując niczyjego cierpienia i życia trzeba zauważyć, że różnica polega na tym, iż autonomiczna Rożawa oprócz tego, że wytłukła i więzi szalenie niebezpiecznych dla całego świata islamskich fundamentalistów z ISIS, za co wszyscy powinniśmy być dozgonnie wdzięczni, to jeszcze niesie na Bliskim Wschodzie idee i wartości, które mogłyby tam zaprowadzić w końcu trochę porządku i spokoju. A porządek i spokój na Bliskim Wschodzie oznacza zmniejszenie fali uchodźców do Europy. Zaczynacie trybić?
+Rożawa wprowadza jako standard takie idee jak równouprawnienie kobiet oraz zakaz poligamii, swobodę wyznania, równość wszystkich grup etnicznych, zakaz tortur i kary śmierci. Opiera się na zasadach demokracji bezpośredniej i ideach feministycznych (np. każdy urząd główny jest dwuczłonowy, obejmuje go na równych zasadach mężczyzna i kobieta). Nie tylko na tle tego regionu są to idee niezwykle progresywne i wnoszące wysokie standardy.
+Co zaś stoi za Turcją Erdogana? Turcja Erdogana to zwierzęcy nacjonalizm, fanatyczny i równocześnie instrumentalnie traktowany islam, militaryzm, zamordyzm i drwina z  demokracji, to imperialistyczne (póki co w skali regionu) zapędy. To popieranie dżihadystów, religijnych maniaków zdolnych do każdej zbrodni: niewolenia kobiet, gwałcenia dzieci, obcinania głów. Turcja oficjalnie i bez cienia żenady wspiera islamskie, fundamentalne bojówki. Zaś turecką agresję na Rożawę oficjalnie poparła Al Kaida (!).
+Rozważcie sami po czyjej stronie w tym konflikcie należy stanąć. Zastanówcie się dlaczego należy się tą sprawą interesować, dlaczego to jest ważne. Wiele zrobić nie możemy, ale przynajmniej nie bądźmy obojętni. Tyle możemy, to wręcz nasz, jako ludzi, obowiązek.
+
+<img src="./img/march/usa.jpg"/><br><br>
+
+---
+
+Andreessen Horowitz Leads $300 Million Investment in RigUp Financing brings the valuation of the startup aimed at energy contractors to $1.9 billion
+
+RigUp Inc., which operates a marketplace for contract workers in the energy sector, surged to a $1.9 billion valuation with a new infusion of capital, according to a person familiar with the situation.
+
+Andreessen Horowitz led the $300 million Series D financing in the Austin, Texas-based startup, using its recently formed late-stage fund.
+
 ### 1989
 
 https://de.wikipedia.org/wiki/Wir_sind_ein_Volk

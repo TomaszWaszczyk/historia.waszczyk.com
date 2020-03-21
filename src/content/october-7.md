@@ -9,6 +9,12 @@ tags:
 draft: true
 ---
 
+### 2019
+
+Spowiedź przedsiębiorcy. "Płacę podatki, odprowadzam ZUS, nie uciekam z tego kraju, który traktuje mnie jak złodzieja" - Każdego miesiąca wystawiam fakturę na 14 tysięcy złotych. Ktoś by powiedział: ten to ma dużo, nie ma co narzekać. Tyle, że miesiąc w miesiąc oddaję państwu siedem tysięcy. VAT, podatek dochodowy i ZUS. Jak mam się czuć jeśli osoba, która posiada czwórkę dzieci i pracuje na czarno, dostaje od państwa tyle samo? To jest rażąca niesprawiedliwość - mówi Tomek, właściciel jednoosobowej firmy.
+
+Prowadzę działalność od 2005 roku, obraziłem Rzeczpospolitą Polską następującymi grzechami: uczciwie pracuję, zarabiam, odprowadzam podatki, nadal tu mieszkam. Wielu moich znajomych wyjechało, by zmienić rezydencję podatkową, nie chcą oddawać państwu 50 proc. tego, co sami wypracują.
+
 ### 1952
 
 Rodzi się Władimir Władimirowicz Putin. Putin szpicel KGB IV kategorii w Dreźnie. Damski bokser z legitymacją STASI
