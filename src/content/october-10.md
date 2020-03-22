@@ -29,6 +29,43 @@ Ludzkie działanie miało 4 wydania amerykańskie i zostało przetłumaczone na 
 
 https://en.wikipedia.org/wiki/Atlas_Shrugged
 
+### 1956
+
+" Nie obrażajcie się panowie, że
+my wam tylko ofiarujemy
+miejsca w rządzie, takie jakie
+sami uważamy za możliwe.
+Myśmy bowiem gospodarze(...).
+Władzy raz zdobytej nie oddamy
+nigdy (...). Władzy nie oddamy
+dlatego, aby naród polski nie
+spotkała nowa zguba, jaka mu
+grozi w wypadku fałszywej linii
+politycznej, którą próbuje
+narodowi narzucić reakcja (...).
+Zniszczymy wszystkich
+bandytów reakcyjnych, bez
+skrupułów. Możecie jeszcze
+krzyczeć, że leje się krew narodu
+polskiego, że NKWD rządzi
+Polską, lecz to nie zawróci nas z
+drogi."
+
+Autorem tych słów jest Władysław Gomułka (zdjęcie),który 21.X.1956 roku został w miejsce Edwarda Ochaba I sekretarzem Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej.
+Okres jego rządów oceniany jest jako czas siermiężnego socjalizmu,kiedy to nie dbano o potrzeby zwykłych ludzi i skutecznie uniemożliwiano otwarcie się Polski na zachód. Dopiero wydarzenia marca 1968 roku sprawiły ,że pozycja Gomułki zaczęła słabnąć.
+Jednak prawdziwym gwozdziem do trumny okazał się być grudzień 1970 roku,kiedy to władza zdecydowała o drastycznych podwyżkach cen,co wywołało masowe niepokoje społeczne,które Gomułka zaczął tłumić przy użyciu wojska i milicji.
+17 grudnia 1970 robotnicy zrozumieli, że władza się nie ugnie i przerwali strajk. Wtedy padł rozkaz strzelania do ludzi idących do pracy.
+Zginęło 45 osób, 1165 zostało rannych.
+Symbolem śmierci stał się młody Janek
+Wiśniewski.
+Po tych wydarzeniach na stanowisku I
+sekretarza, Gomułkę zastąpił Gierek.
+Przegranym grudnia 1970 w sensie politycznym
+był Moczar, który nie objął stanowiska I
+sekretarza.
+
+<img src="./img/october/gomulka.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
