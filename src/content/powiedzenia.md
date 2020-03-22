@@ -2626,6 +2626,8 @@ Warren Buffett
 
 Hard times like this either make us or break us.
 
+"Filantrop to człowiek, który publicznie zwraca bliźniemu drobną cząstkę tego, co mu ukradł prywatnie". Julian Tuwim.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
