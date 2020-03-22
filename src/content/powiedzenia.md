@@ -2624,6 +2624,8 @@ Warren Buffett
 
 „Wolność jest najlepszą, naj- tańszą, najskuteczniejszą sztuką rządzenia i gospodarowania" – pisał Ferdynand Zweig.
 
+Hard times like this either make us or break us.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
