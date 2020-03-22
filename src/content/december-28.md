@@ -55,6 +55,48 @@ Obławę na Majchrzaka zorganizowała grupa operacyjna UB i MO w sile dwudziestu
 
 ### 1944
 
+Węgry wypowiedziały wojnę III Rzeszy - czyli o narodowym instynkcie samozachowawczym, z którego powinniśmy czerpać lekcję, słów kilka.
+
+Każdy średnio zainteresowany historią wie, że Węgry miały sojusz z Niemcami podczas II WŚ. Jak to się dzieje, że podczas wojny, sojusznik zostawił swojego partnera (będącego w coraz większej potrzebie) i wypowiedział mu wojnę? Przecież tak się nie robi. To cios co najmniej poniżej pasa, trzeba walczyć do ostatniej kropli krwi, ostatniego żołnierza!
+Właśnie, że tak się robi. To się po prostu nazywa REALPOLITIK- czyli prowadzi się politykę wyrachowaną (rachować = kalkulować) w oparciu o kalkulację swoich sił i interesów własnego narodu, aby zapewnić własnemu państwu egzystencję tak długo, jak się tylko da, narażając je na MINIMALNE ryzyko. 
+WĘGRZY, MIMO SOJUSZU Z NIEMCAMI:
+ nie ulegli presji i nie zgodzili się na deportację żydów pochodzenia węgierskiego do obozów zagłady, chociaż silnie naciskał na to sam Hitler
+ nie ulegli presji i nie zgodzili się na przemarsz wojsk niemieckich podczas kampanii wrześniowej przeciwko Polsce w 1939 roku
+ mimo coraz większych nacisków, Węgrzy nie brali udziału w Planie Barbarossa i ataku na ZSRR w roku 1941
+ zrobiły to dopiero w roku 1943, wysyłając swoje 3 armie (200 tysięcy żołnierzy) na front wschodni, wypełniając swój obowiązek sojuszniczy wobec Niemiec. Jednak zrobili to dopiero, gdy byli totalnie pod presją ze strony Hitlera. 
+ gdy sytuacja na froncie wschodnim zaczęła się zmieniać i oczywiste było, że to alianci wygrają II WŚ, Węgrzy szybko odkochali się w Hitlerze i inteligentnie zaczęli rozmawiać z aliantami o tym, że chcą zmienić stronę sojuszu  
+ Znacznie bardziej wyczerpane 4 latami wojny na wielu frontach Niemcy, w marcu 1944 roku wprowadziły swoje wojska na Węgry 
+ to było jedyne, co w tamtym czasie mogli zrobić, mimo tego, że niemiecki wywiad doskonale wiedział, że Węgrzy negocjują warunki przejścia do obozu aliantów. 
+[ CZYLI COŚ W STYLU - wiesz, że Twoja żonka flirtuje z kimś młodszym, silniejszym i fajniejszym, ale nie bardzo masz już co z tym zrobić, sam jesteś stary, słaby i niedołężny, jedyne co, to możesz przyglądać się temu, odciągając nieuchronny rozwód w czasie. ]
+ Niemcy nawet nie walczyli z Węgrami, po oni nie stawiali im oporu (po co walczyć i wykrwawiać się na kimś, kto i tak zaraz ma upaść?) 
+ Niemcy rozpoczęli masową wywózkę żydów do obozów zagłady. Było to dopiero w kwietniu 1944, czyli 5 lat później, niż miało to miejsce w Polsce. Trwało to zaledwie pół roku.
+ W październiku 1944 roku Rosjanie wkraczają na terytorium Węgier
+ W listopadzie 1944 roku Miklós Horthy poddaje Rosjanom wojsko węgierskie
+ W grudniu 1944 roku Węgry już oficjalnie wypowiadają Niemcom Wojnę  Bezczelni! 
+ Niemieckie jednostki walczą o utrzymanie Budapesztu w ciężkim, 3-miesięcznym oblężeniu miasta 
+ W całym 1944 roku reszta sojuszników Niemiec: Rumunia, Bułgaria, Finlandia - również przeszły na stronę aliantów 
+PODSUMOWUJĄC, WĘGRZY:
+ nie pchali się do konfliktu z najpotężniejszymi agresorami Europy u szczytu ich potęgi. 
+ balansowali między sojuszami, będąc przy tym, kto jest w danym momencie silniejszy.
+ nie wykrwawiali swojego narodu, gdy było to bez sensu.
+ robili wszystko, co mogli, aby w otwarty konflikt zbrojny wejść możliwie jak najpóźniej - stało się to dopiero w 1943 roku.
+ robili co mogli, aby nie prowadzić wojny na własnym terytorium. De facto największa bitwa na Węgrzech toczyła się podczas oblężenia Budapesztu i trwała 3 miesiące (grudzień '44 - luty '45). 
+ nie dali zniszczyć tysięcy węgierskich wsi przez Niemców, którzy nie robili też nalotów na dziesiątki węgierskich miast - po prostu nie mieli czym, było już za późno, to nie były te same Niemcy, co w 1939. 
+ stracili zaledwie 6% swojej populacji (500 tysięcy osób), mimo faktu, że przez 90% czasu, w jakim rozgrywała się II WŚ, byli sojusznikami Niemiec. Polska straciła podczas II WŚ niemal 20% swojej populacji. 
+BALANSOWANIE 
+Czyli Realpolitik w wykonaniu Węgier i innych sojuszników Niemiec, takich jak Finlandia, Rumunia i Bułgaria! Balansowanie po stronie tych, którzy mają przewagę. 
+Tego niestety zabrakło ministrowi Beckowi i naszym przywódcom w 1939 roku, w momencie, gdy nadeszła najważniejsza chwila w historii naszego kraju, co należy przypominać.
+To skończyło się wymazaniem Polski z map świata na kolejne 6 lat, śmiercią 5 milionów obywateli naszego kraju, pozostawieniem kolejnych milionów za nowo ustanowionymi granicami, czy komunizmem na kolejne 50 lat. Podsumowując - skończyliśmy najgorzej jak się dało. 
+Podpowiem: w 1934 roku mieliśmy pakt o nieagresji z Niemcami. Co więcej - do stycznia 1939 roku - nie ma jakichkolwiek udokumentowanych materiałów o tym, jakoby Niemcy chciały najechać nasz kraj. Niemcy u szczytu swojej potęgi widziały nas jako swojego sojusznika, a Hitler chciał zabezpieczyć swoje plecy, przygotowując się do wojny z Francją. Następnie Polska miała mu posłużyć w walce z Rosją.
+Do stycznia 1939 roku. 
+Wtedy to nastąpił zwrot w naszej polityce zagranicznej i minister Beck uwierzył w papierowy sojusz z Francją i Wielką Brytanią. Jak to się skończyło, wszyscy wiemy. 
+CO PAMIĘTAMY OBECNIE?
+Po latach komunistycznej indoktrynacji, powojennym pokoleniom został zaszczepiony pogląd, że tak się musiało stać  że II WŚ musiała rozpocząć się od Polski, itd.. Otóż, nie musiała.  
+Mogliśmy zachować zdecydowanie więcej instynktu samozachowawczego jako naród. Nie zachowaliśmy, dlatego pamiętajmy o tym, jak wyglądało to u innych, w tym samym czasie. 
+Można było inaczej. 
+
+---
+
 Nocą z 28 na 29 grudnia 1944 roku we wsi Łozowa banderowcy z sotni „Burłaky” dowodzeni przez Iwana Semczyszyna "Czarnego" oraz chłopi ukraińscy z SKW obrabowali i spalili gospodarstwa polskie oraz zamordowali 92 Polaków, 13 Ukraińców i 1 Rosjanina.
 Ofiarami tej strasznej zbrodni padły głównie kobiety i dzieci.
 Po kilku godzinach napastnicy zostali zaskoczeni przez nadciągających żołnierzy radzieckich. W tej sytuacji banderowcy zostali zmuszeni do przerwania napaści i wycofania się do lasu.

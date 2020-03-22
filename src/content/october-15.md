@@ -9,7 +9,17 @@ tags:
 draft: true
 ---
 
-### 
+### 1981
+
+Fabryka Samochodów Małolitrażowych w Bielsku Białej.  wyprodukowała milionowy egzemplarz samochodu Fiat 126p. Nastąpiło to po 8 latach i 4 miesiącach od rozpoczęcia produkcji tego pojazdu
+
+<img src="./img/october/fiat.jpg"/><br><br>
+
+### 1939
+
+W lesie koło wsi Bratian w okolicach Nowego Miasta Lubawskiego członkowie niemieckiego Selbstschutzu dokonali mordu na 150 przedstawicielach polskiej inteligencji. Polaków, więzionych wcześniej w aresztach Selbstschutzu w Nowym Mieście Lubawskim, których rozstrzelano i pochowano w czterech zbiorowych mogiłach. Wśród zamordowanych były dwie kobiety.
+
+<img src="./img/october/bratian.jpg"/><br><br>
 
 ---
 

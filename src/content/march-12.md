@@ -9,20 +9,24 @@ tags:
 draft: false
 ---
 
+### 2019
+
+Australia cuts benchmark interest rate to record low 0.25% Australia’s central bank has cut its benchmark interest rate to a record low 0.25%, seeking to ease the cost of credit.
+
 ### 1948
 
 Fragment książki Aleksandry Pietrowicz pod tytułem "Życie pod lupą bezpieki"
-"12 marca 1948 r. p.o. naczelnik Wydziału III Wojewódzkiego Urzędu 
-Bezpieczeństwa Publicznego w Poznaniu, ppor. Stanisław Cozaś, przedstawił 
-plan werbunku Edwarda Serwańskiego (zdjęcie), pracownika Sekcji Dokumentacyjnej 
+"12 marca 1948 r. p.o. naczelnik Wydziału III Wojewódzkiego Urzędu
+Bezpieczeństwa Publicznego w Poznaniu, ppor. Stanisław Cozaś, przedstawił
+plan werbunku Edwarda Serwańskiego (zdjęcie), pracownika Sekcji Dokumentacyjnej
 Instytutu Zachodniego w Poznaniu1
-. Plan ten został zatwierdzony następnego 
-dnia przez dyrektora Departamentu III MBP, ppłk. Jana Tataja2. Werbunek 
-Serwańskiego miał być ważnym punktem w prowadzonej od jesieni 1947 r. 
+. Plan ten został zatwierdzony następnego
+dnia przez dyrektora Departamentu III MBP, ppłk. Jana Tataja2. Werbunek
+Serwańskiego miał być ważnym punktem w prowadzonej od jesieni 1947 r.
 przez Departament III MBP oraz wydziały III wybranych WUBP sprawy roz-
-pracowania obiektowego o kryptonimie „Alfa”. Celem jej było rozpoznanie oraz 
-zlikwidowanie „antydemokratycznej i antyrządowej” działalności prowadzonej 
-przez działaczy organizacji „Ojczyzna”, organizacji „Mała Propaganda” oraz 
+pracowania obiektowego o kryptonimie „Alfa”. Celem jej było rozpoznanie oraz
+zlikwidowanie „antydemokratycznej i antyrządowej” działalności prowadzonej
+przez działaczy organizacji „Ojczyzna”, organizacji „Mała Propaganda” oraz
 Instytutu Środkowo-Europejskiego."
 
 <img src="./img/march/pietrowicz.jpg"/><br><br>
