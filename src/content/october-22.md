@@ -9,6 +9,10 @@ tags:
 draft: true
 ---
 
+### 2004
+
+https://pl.wikipedia.org/wiki/Pomara%C5%84czowa_rewolucja
+
 ### 1951
 
 Władze wydały dekret o dowodach osobistych. Dokument ten regulował dotychczasowe przepisy dotyczące dowodów, ujednolicał je, a przede wszystkim wprowadzał obowiązek ich posiadania. 

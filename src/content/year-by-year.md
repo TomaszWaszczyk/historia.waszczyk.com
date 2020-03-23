@@ -245,6 +245,8 @@ https://en.wikipedia.org/wiki/Schuman_Declaration
 
 https://pl.wikipedia.org/wiki/Historia_Indii - niedpodległość Indii względem Wielkiej Brytani
 
+https://en.wikipedia.org/wiki/Pax_Europaea
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.
@@ -276,6 +278,8 @@ https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)
 ### 1932
 
 Wörgl was the site of the "Miracle of Wörgl" during the Great Depression. It was started on July 31, 1932, with the issuing of "Certified Compensation Bills", a form of local currency commonly known as Stamp Scrip, or Freigeld.
+
+https://pl.wikipedia.org/wiki/Wielki_g%C5%82%C3%B3d_na_Ukrainie
 
 ### 1930
 

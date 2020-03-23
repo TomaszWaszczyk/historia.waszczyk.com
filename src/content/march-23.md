@@ -11,7 +11,7 @@ draft: false
 
 ### 2020 - Fed Unleashes Unprecedented Measures to Shore Up Reeling Economy (like infinite QE??)
 
-#### Federal Reserve announces extensive new measures to support the economy
+## Federal Reserve announces extensive new measures to support the economy
 
 The Federal Reserve is committed to using its full range of tools to support households, businesses, and the U.S. economy overall in this challenging time. The coronavirus pandemic is causing tremendous hardship across the United States and around the world. Our nation's first priority is to care for those afflicted and to limit the further spread of the virus. While great uncertainty remains, it has become clear that our economy will face severe disruptions. Aggressive efforts must be taken across the public and private sectors to limit the losses to jobs and incomes and to promote a swift recovery once the disruptions abate.
 
@@ -97,6 +97,12 @@ A wy się martwiliście o spustoszenie jakiego wirus dokona w gospodarce?
 W Paryżu zmarła Alina Margolis-Edelman, polska lekarz pediatra i działaczka humanitarna żydowskiego pochodzenia. Pierwowzór Ali z Elementarza Mariana Falskiego. Kawaler Orderu Uśmiechu. Prywatnie żona Marka Edelmana. Urodziła się w Łodzi w rodzinie żydowskiej, jako córka lekarza i działacza społecznego Aleksandra Margolisa (1887–1939) i Anny z domu Markson (1892–1986). W czasie II wojny światowej Alina Margolis przebywała w warszawskim getcie, gdzie była pielęgniarką w szpitalu dziecięcym.  Swoje wspomnienia z dnia codziennego w getcie, a także wspomnienia z pobytu po ,,aryjskiej'' stronie spisała na kartach książki pt. ,,Tego, co mówili, nie powtórzę...'' Była uczestniczką Powstania w getcie warszawskim , a także w Powstania warszawskiego - w tym ostatnim działała w oddziale ,,Bakcyl" (Sanitariat Okręgu Warszawskiego Armii Krajowej). Odznaczono ją Krzyżem Walecznych za męstwo i odwagę. Po wojnie została lekarzem pediatrą, pracowała m.in. w II Klinice Pediatrycznej w Łodzi. Była twórczynią programu leczenia cukrzycy u dzieci, a potem dziecięcej nefrologii. W 1968 po wydarzeniach marcowych i rozpętanej kampanii antysemickiej nie pozwolono jej na kontynuację pracy naukowej, odrzucając rozprawę habilitacyjną, dotyczącą teorii typów cukrzycy. Wyjechała do Francji. Poświęciła się działalności humanitarnej m.in. współtworząc polską sekcję francuskiej organizacji charytatywnej Lekarze Świata. Pracowała na statkach-szpitalach, wyławiających na morzu Południowochińskim uciekinierów z komunistycznego Wietnamu, a także w szpitalach w Salwadorze, Czadzie, Afganistanie oraz Bośni i Hercegowinie, gdzie podczas wojny domowej współtworzyła m.in. ośrodek wsparcia dla ofiar gwałtów. Była również współzałożycielką Biura Pomocy Inicjatywom Społecznym. Po wybuchu stanu wojennego w Polsce w 1981 roku organizowała pomoc dla opozycji demokratycznej. Dziesięć lat później z jej inicjatywy zarejestrowana została w Warszawie Fundacja Dzieci Niczyje - organizacja, której celem jest chronienie dzieci przed przemocą i niesienie pomocy tym dzieciom, które zostały skrzywdzone. Od 2011 osobom pomagającym krzywdzonym dzieciom przyznaje się nagrodę im. Aliny Margolis-Edelman.
 
 <img src="./img/march/alina.jpg"/><br><br>
+
+### 1941
+
+W niemieckim obozie koncentracyjnym Auschwitz-Birkenau został zamordowany inżynier mechanik Tadeusz Tański - syn Czesława, absolwent warszawskiej Szkoły Handlowej oraz paryskiej Ecole d'Electricite Industriel de Paris, światowej sławy konstruktor samochodów, silników spalinowych samochodowych i lotniczych (w 1916 roku skonstruował największy na świecie lotniczy silnik 12-cylindrowy o mocy 520 KM z układem cylindrów w kształcie litery ,,H'' przeznaczony dla wodnopłatowców zwalczających okręty podwodne). Inżynier Tański był konstruktorem pierwszego polskiego samochodu pancernego o nazwie Ford FT-B. Samochody tej marki, wyprodukowane w ilości 20 sztuk, brały udział w wojnie polsko-bolszewickiej w 1920 roku. Trzy lata później opracował konstrykcję pierwszego polskiego samochodu osobowego o nazwie CWS T-1. W czasie okupacji hitlerowskiej inżynier zaangażował się w działalność konspiracyjną. 3 lipca 1940 roku został aresztowany przez Niemców w ramach Akcji AB i uwięziony na Pawiaku, a następnie został przetransportowany do KL Auschwitz-Birkenau, gdzie zginął.
+
+<img src="./img/march/tanski.jpg"/><br><br>
 
 ---
 

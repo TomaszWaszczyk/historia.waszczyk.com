@@ -154,6 +154,8 @@ draft: false
 
 * https://hummuseconomicus.pl/dzieci-jako-dobra-publiczne/
 
+* The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
+
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 
