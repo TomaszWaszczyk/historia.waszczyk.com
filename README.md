@@ -24,6 +24,8 @@ https://ciekawostkihistoryczne.pl/2015/04/26/mamy-prawo-do-wszystkich-polek-sowi
 
 https://biblehub.com/ecclesiastes/1-9.htm
 
+https://martyrologiawsipolskich.pl/mws/
+
 Muzeum Historii Medycyny WUM
 
 http://www.digitalhistory.uh.edu/era.cfm?eraID=6&smtID=1
