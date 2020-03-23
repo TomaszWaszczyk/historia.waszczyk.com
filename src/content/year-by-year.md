@@ -18,6 +18,10 @@ https://en.wikipedia.org/wiki/Technological_utopianism
 
 https://pl.wikipedia.org/wiki/Problem_roku_2038
 
+### 2030
+
+Agenda 2030: https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???

@@ -9,6 +9,10 @@ tags:
 
 ---
 
+### 1994
+
+https://en.wikipedia.org/wiki/Bielefeld_Conspiracy
+
 ### 1968
 
 Karol Kot - był pierwszym powojennym mordercą, który wzbudził masowy lęk. Nazywano go Wampirem z Krakowa. Jednak on nie wyglądał na wampira, lecz na zwykłego, przeciętnego chłopca. Atakował kobiety, zanim jeszcze skończył 18 lat.
