@@ -98,6 +98,12 @@ W Paryżu zmarła Alina Margolis-Edelman, polska lekarz pediatra i działaczka h
 
 <img src="./img/march/alina.jpg"/><br><br>
 
+### 1942
+
+Zatwierdzony został tzw Generalny Plan Budowy Obozu Koncetracyjnego w Majdanku. Plan ten był efektem wizyty Heinricha Himmlera w Lublinie w lipcu 1941 roku, kiedy to powierzył on dowódcy SS i policji w dystrykcie lubelskim Odilowi Globocnikowi zadanie zbudowania obozu „dla 25-50 tys. więźniów, którzy byliby wykorzystywani w warsztatach oraz na budowach SS i policji”. Obóz miał stanowić rezerwuar darmowej siły roboczej dla realizacji planów budowy imperium germańskiego na Wschodzie. Wspomniana koncepcja zakładała i jeńców. Tym samym Majdanek miał się stać największym obozem w okupowanej Europie.
+
+<img src="./img/march/majdanek.jpg"/><br><br>
+
 ### 1941
 
 W niemieckim obozie koncentracyjnym Auschwitz-Birkenau został zamordowany inżynier mechanik Tadeusz Tański - syn Czesława, absolwent warszawskiej Szkoły Handlowej oraz paryskiej Ecole d'Electricite Industriel de Paris, światowej sławy konstruktor samochodów, silników spalinowych samochodowych i lotniczych (w 1916 roku skonstruował największy na świecie lotniczy silnik 12-cylindrowy o mocy 520 KM z układem cylindrów w kształcie litery ,,H'' przeznaczony dla wodnopłatowców zwalczających okręty podwodne). Inżynier Tański był konstruktorem pierwszego polskiego samochodu pancernego o nazwie Ford FT-B. Samochody tej marki, wyprodukowane w ilości 20 sztuk, brały udział w wojnie polsko-bolszewickiej w 1920 roku. Trzy lata później opracował konstrykcję pierwszego polskiego samochodu osobowego o nazwie CWS T-1. W czasie okupacji hitlerowskiej inżynier zaangażował się w działalność konspiracyjną. 3 lipca 1940 roku został aresztowany przez Niemców w ramach Akcji AB i uwięziony na Pawiaku, a następnie został przetransportowany do KL Auschwitz-Birkenau, gdzie zginął.
