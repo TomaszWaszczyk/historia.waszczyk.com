@@ -340,6 +340,10 @@ WWI was possible because using inflation and central banking, the state wasn't l
 
 Bitcoin will return us to pre-war la belle epoque.
 
+### 1918
+
+https://pl.wikipedia.org/wiki/Pandemia_grypy_w_latach_1918%E2%80%931919
+
 ### 1917
 
 Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdziernikowa
