@@ -43,6 +43,14 @@ Nacjonalizacja banku na Cyprze i pozbawienie akcjonariuszy oraz właścicieli de
 
 <img src="./img/march/cypr.png"/><br><br>
 
+### 1995
+
+Papież Jan Paweł II ogłosił encyklikę „Evangelium Vitae”, o wartości i nienaruszalności ludzkiego życia.
+Napisał w niej między innymi:
+"Znaczna część opinii publicznej usprawiedliwia przestępstwa przeciw życiu w imię prawa do indywidualnej wolności i wychodząc z tej przesłanki domaga się nie tylko ich niekaralności, ale wręcz aprobaty państwa dla nich, aby móc ich dokonywać z całkowitą swobodą, a nawet korzystając z bezpłatnej pomocy służby zdrowia. Wszystko to prowadzi do głębokich przemian w sposobie patrzenia na życie i na relacje między ludźmi. Fakt, że prawodawstwo wielu państw, oddalając się nawet od fundamentalnych zasad swych konstytucji, nie tylko nie karze tego rodzaju praktyk wymierzonych przeciw życiu, ale wręcz uznaje je za całkowicie legalne, jest niepokojącym przejawem, a zarazem jedną z istotnych przyczyn poważnego kryzysu moralnego: czyny jednomyślnie uważane niegdyś za przestępcze i w powszechnym odczuciu moralnym niedopuszczalne, zyskują stopniowo społeczną aprobatę"
+
+<img src="./img/march/evangeliumvitae.jpg"/><br><br>
+
 ### 1957
 
 Władze Polski i Związku Radzieckiego podpisały porozumienie o drugiej fali wysiedleń Polaków z Kresów Wschodnich.
