@@ -13,6 +13,8 @@ draft: false
 
 W Mennicy Polskiej sztabki złota wykupione.
 
+Dzisiejsze notowania ceny złota osiągnęły (jak dotąd) poziom ok. 1695 dol za uncję. Wzrost ceny od wczoraj wynosi ponad 120 dolarów. Krajowi, ale i europejscy hurtownicy i dealerzy złota bulionowego ograniczyli, a niektórzy nawet zawiesili biznes w związku z brakami bulionu. Okres oczekiwania na dostawę srebra sięga już 3 miesięcy i ciągle się wydłuża. Za rosnącym popytem nie nadążają - i to jest bardzo dziwne - ceny metali szlachetnych. Ceny oderwały się od fundamentów, jak się powszechnie podejrzewa, wskutek interwencji potentatów bankowych, którzy walczą ze wzrostem popytu na złoto. Jak wiadomo, złoto jest jedynym skutecznym antidotum na inflację, która z kolei jest narzędziem w rękach bankowości centralnej pozwalającym na osłabianie siły nabywczej pieniądza, a tym samym deprecjonowanie oszczędności i kapitału obywateli. Szczególnie energiczną akcję deprecjonowania pieniądza (dolara) prowadzi amerykański FED. Wzrost ceny złota zaczyna ujawniać fiasko tej polityki monetarnej. Dolar od rana traci na wartości.
+
 ---
 
 Tomasz Wróblewski (WEI): Do spięcia budżetu może zabraknąć nawet 50 mld zł. To byłby jeden z najgorszych wyników jakie mieliśmy. Mieliśmy bardzo ambitny budżet. Rzeczywiście wydawało się, że będzie on zrównoważony, ale on był ambitny przy dość ambitnych założeniach, którego wzrost był gdzieś na poziomie prawie 4 proc. Wiemy już, że tego nie będzie. Z pierwszych szacunków, jakie do nas docierają i które są przygotowywane wynika, że może do spięcia budżetu może zabraknąć nawet 50 mld zł. To byłby jeden z najgorszych wyników jakie mieliśmy. Przypomnę, że w 2016 r. brakowało ok.43-44 mld zł i to był bardzo trudny rok, jeżeli chodzi o wychodzenie polskiego budżetu, także tutaj musimy się przygotować na trudny okres
@@ -161,6 +163,14 @@ zamordowane lub przewiezione na pobliski Majdanek.
 W czasie likwidacji getta wysadzono 17 wieczną Synagogę Maharama. Był to typowy dla hitlerowców psychologiczny sposób rozprawiania się z Żydami.
 
 <img src="./img/march/lublin.jpg"/><br><br>
+
+### 1914
+
+W Mazurkach koło Baranowicz na Białorusi urodziła się Krystyna Krahelska (zdjęcie) -poetka, żołnierz Armii Krajowej,uczestniczka powstania warszawskiego ,a także autorka tekstów wielu powstańczych utworów, w tym "Hej, chłopcy, bagnet na broń".
+Swego rodzaju ciekawostką dotyczącą Krystyny Krahelskiej jest fakt, że to jej twarz jest twarzą warszawskiej Syrenki. Na pomysł wykorzystania jej twarzy wpadła autorka tego pomnika Ludwika Nitchowa.
+Krystyna Krahelska zmarła drugiego dnia powstania warszawskiego w wyniku trzykrotnego postrzelenia w klatkę piersiową podczas ratowania rannego kolegi.
+
+<img src="./img/march/krahelska.jpg"/><br><br>
 
 ### 1794
 
