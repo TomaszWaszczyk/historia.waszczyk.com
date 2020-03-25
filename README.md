@@ -18,6 +18,8 @@ https://www.sbc.org.pl
 
 https://computerhistory.org
 
+https://muzeum1939.pl/irena-sendlerowa-m2wswirtualnie/aktualnosci/3264.html
+
 http://e-historie.pl
 
 https://ciekawostkihistoryczne.pl/2015/04/26/mamy-prawo-do-wszystkich-polek-sowieckie-gwalty-nad-wisla/

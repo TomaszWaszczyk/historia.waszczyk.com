@@ -17,6 +17,12 @@ Doniesienia wydają się potwierdzać, że mamy stan wyjątkowy de facto, bez wp
 
 <img src="./img/march/korona2.jpeg"/><br><br>
 
+---
+
+<img src="./img/march/mempool.png"/><br><br>
+
+<img src="./img/march/mempool2.png"/><br><br>
+
 ## Historia inflacji
 
 ▪️ 1815 rok – Rosja nasila inflacyjną eksploatację podbitych terytoriów, kontynuując dodruki rubli asygnacyjnych. Pozyskuje w ten sposób środki na finansowanie polityki imperialnej w Europie i Azji. Pierwsze 10 milionów papierowych rubli wyemitowała caryca Katarzyna II w 1769 roku. W 1815 roku ich suma dochodzi już do 760 milionów. W Królestwie Polskim "świeże" banknoty jako pierwsi zawsze otrzymują żołnierze ze stacjonujących carskich garnizonów.

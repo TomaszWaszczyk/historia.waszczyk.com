@@ -2630,6 +2630,8 @@ Hard times like this either make us or break us.
 
 Ludzie stają się racjonalni kiedy już nic innego nie pozostaje.
 
+W okopach nie ma ateistów.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

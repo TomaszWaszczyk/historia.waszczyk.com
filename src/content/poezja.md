@@ -122,3 +122,32 @@ https://pl.wikipedia.org/wiki/Sylvia_Plath
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+
+<!-- "W dupie mam Polskę i jebać za grosze.
+Anglia czy Niemcy tam się wynoszę.
+Liczą się funty, liczy się euro, 
+Spieprzam na zachód tam tego pełno. 
+   Mijają lata, wieśniak jest Panem, 
+   Choć na zachodzie ma przejebane. 
+   Niby ma euro, funty, dolary, 
+   Lecz przed innymi, wciąż będzie szary. 
+Inny zarabia trzy razy więcej, 
+A Polak w gównie tapla swe ręce. 
+Bo chociaż z Polski uciekł z przed laty, 
+To pokazuje, że jest bogaty. 
+   I teraz popatrz Drogi Rodaku, 
+   Jak Ty kurewsko boisz się piachu. 
+   Nie chcesz już euro, nie chcesz dolara, 
+   I czemu każdy tak z Was spierdala?! 
+Tydzień wakacji i trzy dni święta, 
+Myślisz że tutaj nikt nie pamięta. 
+A teraz czekasz na samoloty, 
+Byś mógł do Polski wrócić z powrotem. 
+   Grunt pod nogami zaczął się palić, 
+   Nie jesteś skory by zachód chwalić. 
+   Kiedy już ludzi wywożą w workach, 
+   To Ty narzekasz że stoisz w korkach. 
+Kiedy ostatnio bliskich widziałeś, 
+Na dwa tygodnie bana im dałeś. 
+A kiedy wszystko wróci do normy, 
+Ty znów spierdolisz, spakujesz torby.." -->
