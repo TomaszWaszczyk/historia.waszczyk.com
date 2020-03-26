@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/march/enemployment.gif"/><br><br>
 
+That is the highest number of initial jobless claims in history, since the Department of Labor started tracking the data in 1967. The previous high was 695,000 claims filed in the week ending October 2, 1982.
+
 ---
 
 Banko-nalizacja - nie mylić z nacjonalizacją.
