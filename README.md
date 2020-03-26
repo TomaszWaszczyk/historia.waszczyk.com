@@ -2,6 +2,8 @@
 
 http://polishhistory.pl
 
+https://spacer.muzeum1939.pl/pl/
+
 http://otworzksiazke.pl/ksiazka/kronika_kryzysow_gospodarczych/strona/35/
 
 https://cczytam.blogspot.com/

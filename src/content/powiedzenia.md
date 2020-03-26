@@ -2632,6 +2632,8 @@ Ludzie stają się racjonalni kiedy już nic innego nie pozostaje.
 
 W okopach nie ma ateistów.
 
+Wolność bez pieniędzy to niewola w nędzy.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
