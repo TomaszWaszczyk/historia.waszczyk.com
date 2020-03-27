@@ -87,4 +87,11 @@ PS Wiele z powyższych sformułowań można przypiąć do zawodu pielęgniarki i
 
 ---
 
+Przed II wojną światową w Niemczech panował narkotykowy szał. Firma Temmler wprowadziła na rynek Pervitin, czyli metamfetaminę, która była dostępna dla każdego jako panaceum na całe zło tego świata.
+Idąc za ciosem – powstały pralinki z metamfetaminą, a każda czekoladka zawierała 14 mg mety – czyli jakieś pięć razy więcej niż było w zwykłej tabletce Pervitinu. „Pralinki Hildebranda zawsze cieszą” – tak zachwalał slogan zakładu cukierniczego Mother’s Little Helper. Śmiała rekomendacja dziennego spożycia pralinek przez producenta zakładała spożycie od 3 do 9 pralinek dziennie. Zachwalano produkt również w ten sposób, że w porównaniu z kofeiną  jest całkiem bezpieczny. Zażywając czekoladki z metą można było łatwiej uporać się z pracami domowymi, a prócz tego traciło się kilogramy, gdyż Pervitin był również reklamowany jako środek na odchudzanie.
+@czekoada – co Ty na takie pralinki?
+Zdjęcie i informacje o pralinkach pochodzą z książki „Trzecia Rzesza na haju – narkotyki w hitlerowskich Niemczech”.
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/medicine.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

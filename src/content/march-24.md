@@ -178,8 +178,6 @@ Po obiedzie na ulicach żydowskich bicie Żydów z wybijaniem szyb. Rodzaj pogro
 
 Adam Czerniaków, Dziennik, 24 III 1940 r. [1]
 
-
-
 W marcu 1940 r. delegacja przedstawicieli Żydowskiej Samopomocy Społecznej wezwana została do władz niemieckich w Krakowie [2]. Spotkanie dotyczyć miało szerokiego zakresu spraw związanych z sytuacją materialną ludności żydowskiej, lecz jednym z głównych tematów poruszanym przez delegację były wydarzenia mające miejsce w tym czasie w Warszawie. Jak relacjonował w swoim dzienniku w zapisie z 27 III 1940 r. przewodniczący delegacji, prezes warszawskiego Judenratu, Adam Czerniaków: opowiedziałem o pogromach w Warszawie, których nie było od 1880 r. [3]. Pomimo wagi, jaką przypisywali pogromowi jego świadkowie, wydarzenia, do których doszło na ulicach Warszawy w czasie świąt wielkanocnych 1940 r. pozostały do niedawna nieomal zapomniane: nieobecne zarówno we wspomnieniach, jak i w literaturze naukowej. Było to spowodowane przede wszystkim ich umiejscowieniem czasowym. Pomimo dramatyzmu jego wydarzeń, doświadczenie pogromu wielkanocnego zostało w ciągu kilku miesięcy wyparte ze świadomości warszawskich Żydów i obserwatorów ich losu, przez doświadczenie gettoizacji, a potem Zagłady. Pamięć o wydarzeniach pogromu wielkanocnego przywrócił dopiero 60 lat później Tomasz Szarota, który zrekonstruował jego przebieg we wnikliwym artykule umieszczonym w zbiorze poświęconym pogromom w okupowanej Europie [4].
 
 W żydowskich relacjach z pierwszego roku okupacji niemieckiej w Warszawie pojawia się czasem określenie tego okresu jako „nieustającego pogromu.” W grudniu 1940 r., miesiąc po zamknięciu getta warszawskiego, jeden ze współpracowników Podziemnego Archiwum Getta Warszawskiego (Archiwum Ringelbluma) zapisał: W żydowskiej martyrologii nie było jeszcze takiego wypadku żeby pogrom trwał tak długo. Zwykle pogrom trwa dzień, kilka dni, miesiąc. Teraz trwa on bez końca” [5]. Już od października 1939 r. Żydów którzy znaleźli się w okupowanej Warszawie dotknęły pierwsze zarządzenia niemieckie sygnalizujące dalszy kurs polityki antyżydowskiej. Obejmowały one wszystkie grupy społeczne i prowadziły do szybko postępującej pauperyzacji społeczności żydowskiej, z równoczesnym oddzieleniem jej od społeczności polskiej. Obok przemocy sankcjonowanej prawnie, w Żydów uderzały też indywidualne akty przemocy ze strony Niemców: publiczne bicie, szykany, rabunek mienia.
@@ -224,6 +222,84 @@ używać będę. Tak mi Panie Boże dopomóż i
 niewinna męka Syna Jego.
 
 <img src="./img/march/kosciuszko.jpg"/><br><br>
+
+" Ja, Tadeusz Kościuszko, przysięgam w
+obliczu Boga całemu Narodowi Polskiemu, iż
+powierzonej mi władzy na niczyj prywatny
+ucisk nie użyję, lecz jedynie dla obrony
+całości granic, odzyskania samowładności
+Narodu i ugruntowania powszechnej wolności
+używać będę".
+"Księża będą zawsze wykorzystywać
+ciemnotę i przesądy ludu. Będą posługiwać
+się religią jak maską, pod którą kryje się
+obłuda i zbrodniczość ich poczynań."
+Tak w liście do Adama Czartoryskiego w 1814 roku pisał zmarły 15.10.1817 roku generał Tadeusz Kościuszko.
+Urodził się 4 lutego 1746 roku w rodzinie pułkownika armii litewskiej.
+W 1755 roku razem z bratem Józefem rozpoczął naukę w Kolegium Pijarów w Lubieszowie.
+W 1769 roku, zachęcony przez wspomnianego już Adama Czartoryskiego wyjechał na studia do Paryża. W 1775 roku powrócił do Polski,by wkrótce wyjechać do Drezna,gdzie starał się o posadę na dworze saskim. Po bezskutecznych staraniach powrócił do Paryża,gdzie dowiedział się o wojnie amerykańsko -brytyjskiej.
+Kościuszko w Paryżu zatrzymał się na krótko,
+gdzie przypuszczalnie zgłosił się do znanego
+pisarza francuskiego , Pierre Augustina de
+Beaumarchais . Prawdopodobnie już w
+czerwcu wyruszył w daleką podróż do
+Ameryki. Liczne niebezpieczeństwa, które
+przeżył w czasie żeglugi, tak opisywały
+Nowiny z 16 kwietnia 1777: Losy szczęścia
+dziwnej Opatrzności Bożej zrządziły, że
+uwolniwszy od nurtów morskich przez rozbity
+okręt W. J. Mci Pana Kościuszkę, obywatela
+kraju naszego z W. K. Litewskiego, będącego
+przedtem u Kadetów (...) z pięcistał nominowany
+na inżyniera armii amerykańskiej . Wkrótce po
+przybyciu do Filadelfii, 24 września 1776
+otrzymał zadanie opracowania fragmentu
+ufortyfikowania miasta (rejon rzeki Delaware).
+Następnie pracował przez całą zimę 1776 roku
+przy fortyfikowaniu Filadelfii.
+Walczył w oddziale dowodzonym przez generała Horatio Gatesa.
+W uznaniu zasług, Tadeusz Kościuszko
+uchwałą Kongresu awansowany został 13
+października 1783 na generała brygady armii
+amerykańskiej. Otrzymał też specjalne
+podziękowanie, nadanie gruntu (około 250 ha)
+oraz znaczną sumę pieniędzy, która miała być
+wypłacona w terminie późniejszym, w
+rocznych ratach. Kiedy Kongres wypłacił mu
+zaległe pobory w 1798, mimo trudnej sytuacji
+finansowej natychmiast przeznaczył te
+pieniądze na wykupienie wolności i
+kształcenie Murzynów. Całą resztę swojego
+amerykańskiego majątku Kościuszko powierzył
+Jeffersonowi , który był wykonawcą jego
+testamentu o wyraźnie abolicjonistycznym
+wyrazie.
+W 1784 roku wrócił do Polski,by brać aktywny udział w życiu politycznym,co 12.10.1789 roku zostało podsumowane nominacją na generała.
+24 marca 1794 na rynku krakowskim złożył
+narodowi uroczystą przysięgę i objął formalnie
+przywództwo insurekcji jako Najwyższy
+Naczelnik Siły Zbrojnej Narodowej.
+Ja, Tadeusz Kościuszko, przysięgam w obliczu
+Boga całemu Narodowi Polskiemu, iż
+powierzonej mi władzy na niczyj prywatny ucisk
+nie użyję, lecz jedynie jej dla obrony całości
+granic, odzyskania samowładności Narodu i
+ugruntowania powszechnej wolności używać
+będę. Tak mi Panie Boże dopomóż i niewinna
+męka Syna Jego.
+W latach 1798–1815 mieszkał w Breville pod
+Paryżem u Piotra Zeltnera i wziął udział w
+tworzeniu Legionów Polskich . W roku 1799 (17
+października i 6 listopada) spotykał się z
+Napoleonem . Kościuszko był przeciwnikiem
+wiązania sprawy polskiej z Napoleonem,
+któremu nie ufał.
+Tadeusz Kościuszko zmarł 15.10.
+1817 r. w Solurze, w domu Zeltnera, i został
+pochowany w pobliskim Zuchwilu . Zgodnie z
+testamentem wydobyte z ciała serce
+Kościuszki zostało umieszczone w urnie i
+przekazane Emilii Zeltner, córce Franciszka
 
 https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 

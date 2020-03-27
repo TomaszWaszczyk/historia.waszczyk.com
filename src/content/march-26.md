@@ -36,6 +36,13 @@ Chyba trzeba będzie zacząć mówić głośno jak jest naprawdę, nie bać się
 
 ---
 
+Według sygnałów docierających do Naczelnej Izby Lekarskiej od lekarzy z całej Polski, Sanepid nakazuje nie wykonywać testów u pacjentów pełnoobjawowych w kierunku koronawirusa, mimo wykluczenia innych przyczyn ich stanu zdrowia. Samorząd lekarski poddaje w wątpliwość takie wytyczne od osób, które w przeciwieństwie do lekarzy, nie mają kompetencji, aby oceniać konieczność lub brak konieczności wykonywania u naszych pacjentów testów na SARS-CoV-2.
+W piśmie podkreślono, że pełnoobjawowy pacjent, odsyłany bez wykonania testu na SARS-Cov-2 – bo nie pozwala na to Sanepid – nie jest obejmowany kwarantanną i może szerzyć zakażenie w lokalnej populacji.
+WHO traktuje Polskę, podobnie jak Włochy i Hiszpanię, jako kraj lokalnej transmisji. Obecne rekomendacje ECDC oraz konsultanta krajowego w dziedzinie chorób zakaźnych prof. dr hab. n. med. Andrzej Horbana i Prezesa Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych prof. Robert Flisiaka (z 15.03.2020 r.) wskazują jednoznacznie na konieczność wykonywania testów u wszystkich pacjentów z objawami, a dane o przebywaniu za granicą lub o kontakcie z chorym na koronawirusa nie mają w takiej chwili znaczenia.
+Prezes NRL domaga się odpowiedzi dlaczego GIS wydaje rekomendacje tak odmienne od rekomendacji i stanowisk międzynarodowych, tym samym oceniając tego typu postępowanie, jako prowadzące do nasilenia rozprzestrzeniania się epidemii w Polsce.
+
+---
+
 > Kiedy to piszę jest 2.30 w nocy, nie mogę spać. Właśnie siedząc na 31,5h dyżurze w szpitalu skończyłem 34 lata. Jestem lekarzem z tytułem doktora nauk medycznych. Jestem pracownikiem naukowo-dydaktycznym na jednym z uniwersytetów medycznych. Ukończyłem szkolenie specjalizacyjne z radiologii i diagnostyki obrazowej. Nie mogę zostać specjalistą, bo Minister Zdrowia odwołał na czas bliżej nieokreślony egzaminy specjalizacyjne… Ale dziś nie o tym.
 > Chciałem Wam pokazać jak wygląda aktualnie życie medyków od kuchni. Jeśli ktoś będzie chciał, to dość łatwo sprawdzi, gdzie pracuję, ale dla ułatwienia nakreślę rys realiów – nasz zakład diagnostyki obrazowej składa się z 1 RTG, 1 TK, 1 USG oraz pracowni badań naczyniowych. Badania MR obstawia prywatna firma, która po pierwszym potwierdzonym w szpitalu przypadku COVID-19 zamknęła pracownię do odwołania… To było 2 tygodnie temu.
 > W pierwszym tygodniu straciliśmy większość zespołu niemedycznego – panie rejestratorki, panie piszące wyniki i ogarniające organizację całego backendu. Głównie wyszła kwestia opieki nad dziećmi, co dla mnie jest zrozumiałe. Na szczęście po kilku dniach kierownictwo szpitala zorientowało się i przysłało nam posiłki, aktualnie wszystko zaczyna wracać do normy.

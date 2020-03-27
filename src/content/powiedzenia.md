@@ -2634,6 +2634,8 @@ W okopach nie ma ateistów.
 
 Wolność bez pieniędzy to niewola w nędzy.
 
+Zrobiłem co mogłem, kto potrafi niech zrobi lepiej.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

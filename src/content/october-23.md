@@ -15,6 +15,20 @@ Do prezesa Sądu Wojewódzkiego miasta Warszawy Ilii Rubinowa wpłynęło pismo 
 
 <img src="./img/october/fieldorf.jpg"/><br><br>
 
+### 1943
+
+"Skorzystajmy z Grossaktion dla
+wykańczania również Polaków. W getcie
+zginęło i będzie nadal ginęło bardzo wielu
+Żydów. Wszędzie poniewierają się tam trupy,
+więc gdy dojdzie do tego jeszcze kilka
+tysięcy Polaków, to i tak nikt niczego nie
+będzie mógł sprawdzić"
+Takie słowa według relacji samego Jurgena Stroopa wypowedział Ludwig Hahn-szef niemieckiej policji bezpieczeństwa.
+23.X.1943 roku właśnie w ruinach warszawskiego getta Niemcy zabili 300 przywiezionych tu dzień wcześniej z warszawskiej Pragi zakładników.
+
+<img src="./img/october/grossaction.jpg"/><br><br>
+
 ### 1937
 
 https://pl.wikipedia.org/wiki/Karol_Modzelewski "niewolnictwo państwowe"

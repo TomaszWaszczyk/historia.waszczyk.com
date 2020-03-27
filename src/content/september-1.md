@@ -43,6 +43,16 @@ Fragment wystąpienia Adolfa Hitlera w niemieckim parlamencie z dnia 1 września
 > takich incydentów granicznych, dziś w nocy było ich 14, w tym 3 całkiem poważne.
 > Dlatego też zostałem zmuszony do podjęcia decyzji, aby prowadzić rozmowy z Polską w tym samym języku, w jakim Polacy rozmawiają z nami.
 
+Wojska niemieckie zgodnie z planem Fall Weiss uderzyły na Polskę na całej 1600 km długości polsko-niemieckiej granicy oraz z terytorium Moraw i Słowacji. Prezydent Rzeczypospolitej Polskiej Ignacy Mościcki wezwał naród do obrony wolności i niepodległości kraju.
+
+Założeniem planu Fall Weiss było okrążenie i zniszczenie Wojska Polskiego na zachód od linii Wisły nie później niż w czternastym dniu od uderzenia Wehrmachtu. Wojsko polskie pokrzyżowało jednak niemieckie plany.
+
+Już w pierwszych dniach września udało się Niemcom przełamać polskie linie obronne i zająć Kujawy, część Wielkopolski i Śląsk. Na północy główne siły polskie, skoncentrowane w rejonie Mławy i na Pomorzu, zostały 1–3 września rozbite, a Armia Modlin, atakowana przez niemiecką 3 Armię podczas bitwy pod Mławą, zmuszona była wycofać się na linię rzek Wisły i Narwi.
+
+Broniły się Westerplatte, Gdynia, Kępa Oksywska i Hel – aż do 2 października. Warszawa skapitulowała 28 września.
+
+Również Armia Poznań pod dowództwem gen. Tadeusza Kutrzeby i Armia Pomorze pod dowództwem gen. Władysława Bortnowskiego cofnęły się aż za linię Warty i tam w okolicy Kutna nad rzeką Bzurą w dniach 9-18 września stoczyły jedną z największych bitew kampanii wrześniowej. Starły się z niemiecką 8 Armią dowodzoną przez gen. Johannesa Blaskowitza i 10 Armią gen. Waltera von Reichenau z Grupy Armii Południe. Gen. Kutrzeba postanowił wykorzystać to, że Wehrmacht zachowywał się dość biernie wobec wojsk Armii Poznań i zaatakował skrzydło 8 Armii niemieckiej. Planował on atak na pozycje niemieckie już parę dni wcześniej – 4 i 5 września podczas rozwinięcia natarcia 8 Armii na linię rzek Warta i Widawka na pozycje Armii Łódź. Nie zgadzał się na to Naczelny Wódz, ale pozycja obronna Armii Łódź została przełamana, zaś gen. Kutrzeba podtrzymał swoją propozycję zwrotu zaczepnego wobec wojsk niemieckich zmierzających bez istotnej osłony z lewej flanki w kierunku Warszawy. Do powodzenia operacji w początkowej fazie ataku według planów gen. Kutrzeby miał się przyczynić także czynnik psychologiczny, czyli chęć do walki z wrogiem żołnierzy Armii Poznań, która dotychczas tylko się wycofywała nie biorąc udziału w walkach na froncie.
+
 ---
 
 O tej godzinie 4.45 niemiecki pancernik szkolny "Schleswig Holstein" oddał strzał w kierunku Składnicy Tranzytowej na Westerplatte, a samoloty Legionu Condor zrzuciły na Wieluń pierwsze bomby. Niemcy przypuścili również atak na budynek Poczty Polskiej w Wolnym Mieście Gdańsk, zbombardowali Oksywie, Puck i Hel. 7 września 1939 roku Wermacht dotarł do Warszawy.
