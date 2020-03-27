@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-### 2020
+### 2020 - Rule of Fear
 
 Aplikacja "Kwarantanna domowa" autorstwa Ministerstwa Cyfryzacji jednak - wbrew dotychczasowym zapowiedziom - będzie obowiązkowa: nad takim rozwiązaniem pracuje właśnie Sejm.To zły pomysł: wątpliwy konstytucyjnie (art. 51.2), zwłaszcza przy aplikacji, której kodu nie znamy!
 
