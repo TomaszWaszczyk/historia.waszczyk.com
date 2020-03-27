@@ -24,6 +24,29 @@ Z czasów służby Putina w Dreźnie to nie jedyne sensacje. Kto by się spodzie
 
 <img src="./img/october/ausweiss.jpg"/><br>
 
+### 1944
+
+O godzinie 13:30 więźniowie Sonderkommando pracujący w krematorium IV wszczęli Powstanie w Auschwitz II Birkenau. Więźniowie uzbrojeni w łomy, kamienie, siekiery i granaty domowej produkcji zaatakowali esesmanów, a następnie wykorzystując niewielką ilość przemyconego prochu z fabryki amunicji Weichsel-Union-Metallwerke wysadzili w powietrze część krematorium IV. Kilku członków Sonderkommando zdołało zbiec do pobliskich lasów i dotrzeć do wioski Rajsko. W tym samym czasie wybuchło Powstanie w krematorium II - członkowie Sonderkommando żywcem spalili esesmanów w piecu krematoryjnym. Ostatecznie Powstanie upadło. W czasie walk życie straciło 250 więźniów Sonderkommando. Ci, którzy zdołali zbiec, zostali pojmani i zgładzeni przez rozstrzelanie. Ich los podzielili również ci, którzy byli podejrzewani o udział w wybuchu Powstania. Łącznie po stłumieniu Powstania esesmani rozstrzelali 200 osób. Straty po stronie niemieckiej wynosiły trzech poległych esesmanów. Zamieszanie, które zaistniało w obozie po wybuch Powstania ocaliło pewną część więźniów, która czekała na śmierć w komorze gazowej znajdującej się w krematorium V.
+Plany wszczęcia Powstania snute były już od czerwca. Na czele Powstania miał stanąć Jakow Kamiński, przywódca obozowego podziemia. Ostatecznie esesmani dowiedzieli się o tych planach, a Jakow Kamiński został zamordowany.
+Motywy wybuchu Powstania przedstawił Laurence Rees, wybitny angielski dziennikarz w swojej książce ,,Auschwitz - Naziści i ,,ostateczne rozwiązanie'': ,,Więźniowie Sonderkommanda uznali, że muszą działać, kiedy ogłoszono, że potrzebni są ,,ochotnicy'' dla Ottona Molla, jednego z najgorszych esesmanów w krematoriach, który niedawno wyjechał, by objąć stanowisko komendanta podobozu w Gliwicach. Wszyscy wiedzieli, że to podstęp, ponieważ ostatnia grupa więźniów, którzy mieli ,,pojechać'' na Majdanek, została zamordowana przez esesmanów i spalona w krematorium II. Następnego ranka pozostali członkowie Sonderkommanda rozpoznali niedopalone ciała swoich towarzyszy i stracili ostateczne złudzenia co do losu, jaki gotowali im hitlerowcy(...).''
+Foto: KL Auschwitz II-Birkenau. Krematorium IV w trakcie budowy. Fotografia wykonana w lutym 1943 roku przez SS. (żródło fotografii Archiwum Państwowego Muzeum Auschwitz-Birkenau)
+
+<img src="./img/october/bunt.jpg"/><br>
+
+### 1918
+
+Rada Regencyjna Królestwa Polskiego czyli organ zastępujący w Polsce monarchię ogłosiła niepodległość Polski.
+Wydarzenie to zapoczątkowało szereg zmian i reform w strukturach władzy polegających na przejęciu urzędów i stanowisk po władzach zaborczych. Kulminacyjnym wydarzeniem tego procesu przemian było przekazanie przez tę samą Radę dnia 11 listopada 1918 roku zwierzchnictwa nad armią Józefowi Piłsudskiemu i powierzenie mu misji stworzenia rządu.
+
+<img src="./img/october/monitor.jpg"/><br>
+
+### 1884
+
+W Brandenburgu pod Berlinem, w rodzinie kultywującej polskie tradycje, sięgające XVI wieku, urodził się admirał Józef Unrug. W latach 1925-1939 był dowódcą polskiej floty wojennej, w czasie kampanii 1939 r. dowodził obroną Wybrzeża.
+Prochy zmarłego w 1973 r. we Francji admirała i jego żony zostały w październiku ub. roku sprowadzone do Polski i pochowane w Gdyni.
+
+<img src="./img/october/unrug.jpg"/><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

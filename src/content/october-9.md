@@ -27,7 +27,7 @@ Rożawa wprowadza jako standard takie idee jak równouprawnienie kobiet oraz zak
 Co zaś stoi za Turcją Erdogana? Turcja Erdogana to zwierzęcy nacjonalizm, fanatyczny i równocześnie instrumentalnie traktowany islam, militaryzm, zamordyzm i drwina z  demokracji, to imperialistyczne (póki co w skali regionu) zapędy. To popieranie dżihadystów, religijnych maniaków zdolnych do każdej zbrodni: niewolenia kobiet, gwałcenia dzieci, obcinania głów. Turcja oficjalnie i bez cienia żenady wspiera islamskie, fundamentalne bojówki. Zaś turecką agresję na Rożawę oficjalnie poparła Al Kaida (!).
 Rozważcie sami po czyjej stronie w tym konflikcie należy stanąć. Zastanówcie się dlaczego należy się tą sprawą interesować, dlaczego to jest ważne. Wiele zrobić nie możemy, ale przynajmniej nie bądźmy obojętni. Tyle możemy, to wręcz nasz, jako ludzi, obowiązek.
 
-<img src="./img/march/usa.jpg"/><br><br>
+<img src="./img/october/usa.jpg"/><br><br>
 
 ---
 
@@ -40,6 +40,18 @@ Andreessen Horowitz led the $300 million Series D financing in the Austin, Texas
 ### 1989
 
 https://de.wikipedia.org/wiki/Wir_sind_ein_Volk
+
+### 1980
+
+Czesław Miłosz otrzymał Literacką Nagrodę Nobla  za “bezkompromisową wnikliwość w ujawnianiu zagrożenia człowieka w świecie pełnym gwałtownych konfliktów”.
+
+### 1948
+
+W Berlinie porwany został, a następnie osadzony w więzieniu na Mokotowie Tadeusz Bejt były żołnierz Armii Krajowej, uczestnik Powstania Warszawskiego , kurier KG AK, agent do zadań specjalnych.
+Bejt organizował granicy polsko-niemieckiej, a także przerzuty z kraju na Zachód osób ściganych przez służby bezpieczeństwa i rodzin pozostających za granicą oficerów 2. Korpusu gen. Władysława Andersa.
+18 listopada 1948 roku warszawski Wojskowy Sąd Rejonowy pod przewodnictwem pułkownika Józefa Badeckiego (zdjęcie) skazał go na karę śmierci, którą wykonano 11 lutego 1949 roku.
+
+<img src="./img/october/bejt.jpg"/><br><br>
 
 ### 1944
 
@@ -56,6 +68,16 @@ Opuściły Warszawę ostatnie oddziały AK, zabezpieczające ewakuację ludnoś
 ### 1921
 
 https://pl.wikipedia.org/wiki/Tadeusz_R%C3%B3%C5%BCewicz
+
+### 1621
+
+Pod Chocimiem zawarto układ pokojowy kończący toczące się od ponad miesiąca walki między wojskami polsko-kozackimi dowodzonymi przez Jana Karola Chodkiewicza i Piotra Konaszewicza Sahajdacznego, a armią turecko-tatarską pod wodzą sułtana Osmana II.
+
+<img src="./img/october/chocim.jpg"/><br><br>
+
+### 1610
+
+Polacy zdobyli Kreml. Rosja przestała istnieć jako suwerenne państwo. Dowództwo nad nimi Żółkiewski oddał w ręce Aleksandra Gosiewskiego. Mennica moskiewska rozpoczęła bicie srebrnych kopiejek z imieniem nowego cara Władysława Zygmuntowicza.
 
 ---
 
