@@ -17,6 +17,12 @@ Aplikacja "Kwarantanna domowa" autorstwa Ministerstwa Cyfryzacji jednak - wbrew 
 
 ---
 
+Gowin:
+
+> W najbliższych nie tylko miesiącach, ale sądzę że nabliższych kilku latach my zwolennicy wolnego rynku musimy sie pogodzić z tym, że zakres swobody konkurencji i skala interwencji państwa w gospodarkę będzie znacznie większa.
+
+---
+
 Nie rozumiem tego pomysłu i nawet jego głębszej idei, ale nie chciałbym podejrzewać, że to gra pod wybory, choć niestety, ale wydaje się, że jednym celem władzy jest utrzymanie się u władzy.
 Niemniej te rozwiązania, to gaszenie problemów ekonomicznych benzyną. Wprowadzając ceny maksymalne podstawowych produktów żywnościowych rząd spowoduje brak ich dostępności.
 Prostym językiem, żadnemu piekarzowi nie będzie opłacało się piec chleba po 5zł gdy koszty produkcji przy szalejącej inflacji wzrosną np. do 20zł.

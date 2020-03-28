@@ -84,6 +84,47 @@ Pier... wszystkie sprawy.
 
 B. Fiałek
 
+### Gotowy zestaw, nie zawiera baterii
+
+Składa się z powłoki skórnej, skóra naturalna
+W niektórych egzemplarzach napięta,
+W niektórych wiotka,
+Zazwyczaj jednak całkiem ładna.
+
+Pod skórą mięso,
+Nazwane czulej: mięśnie.
+Tych w zależności od modelu
+Zestaw różnie mieści.
+
+Pod mięśniami różne instrumenty,
+Zwane także organami.
+Sympfonia dźwięków
+Wspomagana krwiobiegami.
+
+I jeszcze parę innych dziwnych rzeczy,
+Ciężko je w instrukcji opisać,
+Tworzący instrukcję się męczył.
+Bo dla przykładu,
+Mogłoby być wszystko jasne: mózg to mięsień?
+Ale jak się okazało,
+W tym nibymięśniu zawarł się umysł jeszcze.
+I o nim instrukcji nie sposób napisać,
+Każdy umysł inny, nieseryjny wychodzi,
+A w instrukcji nie wolno zmyślać.
+I to samo z sercem,
+A jakże, także,
+Ale zaczęli go rysować inaczej,
+Niż wygląda wszakże
+I się "pokrzaczyło",
+Raz serce boli, zawala się zawałem,
+Raz w nim miło...
+
+Gotowy zestaw, całkiem ładny,
+Tylko nie zawiera baterii
+Ani ładowarki.
+Skąd je wziąć? Nie jestem pewien...
+Niech każdy sam to rozważy.
+
 ### Kornel Filipowicz, wiersz z tomu "Powiedz to słowo", 1984
 
 > W państwie totalitarnym
