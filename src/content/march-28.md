@@ -30,6 +30,24 @@ Są tam 3 takie przypadki: stan wojenny; stan wyjątkowy; stan klęski żywioło
 Będą wybory. Będzie władza. Będą pieniądze. Tylko, co będzie dalej? Kawałek dalej będzie art. 86 pkt. 1(2) tej samej ustawy. Trzeba będzie przecież coś zrobić z restrykcjami nałożonymi na finanse publiczne, kiedy dług znajduje się w przedziale 55%-60% PKB.
 A co będzie jeszcze dalej? A, to już mniej więcej wiadomo...
 
+### 1996
+
+W sądzie w Gdańsku rozpoczął się proces oskarżonych o sprawstwo kierownicze śmierci 44 osób w grudniu 1970 roku.
+Na ławie oskarżonych zasiedli: generał armii Wojciech Jaruzelski – szef MON
+Kazimierz Świtała – szef MSW
+Stanisław Kociołek – wicepremier rządu PRL
+generał broni Tadeusz Tuczapski – wiceszef MON generał broni Józef Kamiński – dowódca Pomorskiego Okręgu Wojskowego
+generał brygady Stanisław Kruczek – dowódca 8. Dywizji Zmechanizowanej
+generał brygady Edward Łańcucki – dowódca 16. Dywizji Pancernej
+podpułkownik Mirosław Wiekierka – dowódca 3. Batalionu 55. Pułku Zmechanizowanego
+major Wiesław Gop – dowódca plutonu 10 Pułku Wojsk Obrony Terytorialnej
+pułkownik Władysław Łomot – dowódca 32. Pułku Zmechanizowanego
+podpułkownik Bolesław Fałdasz – zastępca Łomota ds. politycznych
+pułkownik MO Karol Kubalica – komendant Szkoły Podoficerskiej MO w Słupsku.
+Obrońcy Jaruzelskiego, Świtały i Kociołka złożyli wniosek o umorzenie sprawy, gdyż osoby te „nie podlegają orzecznictwu sądów karnych”, tylko Trybunałowi Stanu. Niespełna miesiąc później Sąd Wojewódzki w Gdańsku w sprawie Grudnia 70 umorzył postępowanie przeciwko Jaruzelskiemu i Świtale, odmówił umorzenia sprawy Kociołka. Prokurator, oskarżyciele posiłkowi oraz obrońca Kociołka wnieśli zażalenie do Sądu Apelacyjnego.
+
+<img src="./img/march/1970.jpg"/><br><br>
+
 ### 1921
 
 W Słaboszowie urodził się Jerzy Bielecki - jeden z pierwszych więźniów niemieckiego obozu koncentracyjnego i zagłady Auschwitz-Birkenau (numer 243), żołnierz Armii Krajowej, Sprawiedliwy wśród Narodów Świata (tytuł przyznany 27 czerwca 1985 roku). Honorowy Obywatel Izraela.

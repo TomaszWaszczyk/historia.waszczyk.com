@@ -11,3 +11,6 @@ tags:
 ### 1928
 
 Rodzi się ojciec propagandy PRL: https://pl.wikipedia.org/wiki/Maciej_Szczepa%C5%84ski
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

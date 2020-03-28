@@ -695,6 +695,12 @@ https://pl.wikipedia.org/wiki/Cymelia
 
 https://pl.wikipedia.org/wiki/Idempotentność
 
+banking cartel
+
+information cartel
+
+infoentermeint
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
