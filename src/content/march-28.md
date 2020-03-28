@@ -11,15 +11,23 @@ draft: false
 
 ### 2020
 
-Chiny
+Pandemia zrodziła się w Chinach, ale kiedy zachód zatrzymał swoje gospodarki, kraje  takie jak:
 
-Korea Południowa
+- Chiny
+- Korea Południowa
+- Singapur
+- Japonia
+- Tajwan
 
-Singapur
+Już swoje gospodarki w pełni uruchomili, dlatego kiedy małe firmy w Europie zostaną zamknięte kraje powyższe zostaną znacznie mocniej zintegrowane z europejskimi łańcuchami dostaw.
 
-Japonia
+---
 
-Tajwan
+<img src="./img/march/lekarze2.jpg"/><br><br>
+
+---
+
+<img src="./img/march/morawiecki.jpg"/><br><br>
 
 ---
 
@@ -47,6 +55,33 @@ pułkownik MO Karol Kubalica – komendant Szkoły Podoficerskiej MO w Słupsku.
 Obrońcy Jaruzelskiego, Świtały i Kociołka złożyli wniosek o umorzenie sprawy, gdyż osoby te „nie podlegają orzecznictwu sądów karnych”, tylko Trybunałowi Stanu. Niespełna miesiąc później Sąd Wojewódzki w Gdańsku w sprawie Grudnia 70 umorzył postępowanie przeciwko Jaruzelskiemu i Świtale, odmówił umorzenia sprawy Kociołka. Prokurator, oskarżyciele posiłkowi oraz obrońca Kociołka wnieśli zażalenie do Sądu Apelacyjnego.
 
 <img src="./img/march/1970.jpg"/><br><br>
+
+### 1979
+
+Instytut Pamięci Narodowej Bohaterów i Męczenników Holocaustu Yad Vashem przyznał doktor Helenie Szlapak medal Sprawiedliwy wśród Narodów Świata, jako dowód uznania, że narażając własne życie ukrywała w czasie okupacji niemieckiej Chanę Orbach , Helenę Goldman oraz Irenę Leinkram, jak również służyła pomocą innym Żydom, którzy byli prześladowani, i którym groziła śmierć z rąk hitlerowskiego okupanta. 
+Dr Helena Szlapak pracowała jako lekarz domowy Ubezpieczalni Społecznej w Krakowie oraz jako lekarz fabryczny. Specjalizowała się w ginekologii i położnictwie. Włączyła się w działalność Gwardii Ludowej Polskiej Partii Socjalistycznej oraz w działalność Patronatu – organizacji niosącej pomoc więźniom osadzonym w więzieniu przy ul. Montelupich w Krakowie.
+Dr Szlapak należała także do tzw. sieci przyoświęcimskiej, która przekazywała grypsy do i z obozu, przemycała lekarstwa oraz cyjankalia. Dla przygotowujących się do ucieczki z obozu dostarczano także peruki pochodzące z jednego z krakowskich teatrów. „Sieć przyoświęcimska”, którą stworzył i którą długo dowodził Adam Rysiewicz, znalazła szersze poparcie i w marcu 1943 r. przeobraziła się w Komitet Pomocy Więźniom Obozów Koncentracyjnych. W jego skład weszli: hrabina Teresa Estreicher-Lasocka, dr med. Helena Szlapak, Adam Rysiewicz i Wojciech Jekiełek.
+Swoje mieszkanie przy ul. Garbarskiej 12 dr Szlapak udostępniała na potrzeby spotkań działaczy PPS, kolportażu prasy podziemnej, fałszowania dokumentów i ukrywania osób zagrożonych. Dzięki jej sprytowi i zapobiegliwości udało się ukryć i bezpiecznie przechować wszystkie grypsy i fotografie pochodzące z obozu Auschwitz-Birkenau, w tym zdjęcia stosów zwłok palonych w Birkenau. Dokumenty w szczelnie zamkniętych puszkach zostały zakopane w grządkach przydomowego ogródka przy ul. Salwatorskiej, gdzie mieszkała siostra Heleny Szlapak, matka Józefa Cyrankiewicza.
+Dr Helena Szlapak współpracowała z Radą Pomocy Żydom „Żegota” opiekując się Żydami pozostającymi w ukryciu. Organizowała dla nich konsultacje i pobyty w szpitalu, a także fałszywe dokumenty. W jej mieszkaniu znajdowała się skrzynka kontaktowa, dzięki której ukrywający się Żydzi mogli się kontaktować.
+Po wojnie dr Szlapak działała w Towarzystwie Świadomego Macierzyństwa i przez wiele lat była honorową przewodniczącą oddziału krakowskiego.
+Bibliografia
+Kłodziński Stanisław, Dr Helena Szlapak, Oświęcim Przegląd Lekarski, 1985
+Grynberg Michał, Księga sprawiedliwych, Warszawa 1993
+źródło artykułu: http://www.sprawiedliwi.org.pl/pl/family/696,szlapak-helena/
+
+<img src="./img/march/helenie.jpg"/><br><br>
+
+### 1943
+
+W areszcie Gestapo na Pawiaku Niemcy zakatowali na śmierć kaprala Huberta Lenka (zdjęcie) harcmistrza, członka Szarych Szeregów, żołnierza Armii Krajowej, uczestnika słynnej Akcji pod Arsenałem.
+Trafił do więzienia za sprawą aresztowania przez volksdeutcha Ernesta Sommera, na którym w lipcu 1943 roku Kedyw Armii Krajowej wykonał wyrok śmierci.
+Hubert Lenk miał 19 lat. Miejsca jego pochówku nigdy nie odnaleziono. Jego nazwisko zostało wyryte na Mogile Symbolicznej w Kwaterze Batalionu „Zośka” na Cmentarzu Wojskowym na Powązkach.
+
+<img src="./img/march/lenka.jpg"/><br><br>
+
+### 1929
+
+Zostało w Polsce wprowadzone kapłaństwo kobiet. Pierwsza tego typu uroczystość konsekracyjna odbyła się w kościele Mariawitów pod wezwaniem Miłosierdzia i Miłości w Płocku. Pierwszą kobietą wyniesioną do sakry biskupiej była 39 letnia siostra Izabela Wiłucka. Od tego czasu z tytułem arcykapłanki wchodziła w skład zarządu Starokatolickiego Kościoła Mariawitów obok biskupów: Jakuba Próchniewskiego, Filipa Feldmana i Bartłomieja Przysieckiego.
 
 ### 1921
 
