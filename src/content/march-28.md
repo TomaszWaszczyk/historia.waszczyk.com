@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 28 marca
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/march/morawiecki.jpg
 author: Tomasz Waszczyk
 date: 2019-03-28T10:00:00.000Z
 tags:
