@@ -56,6 +56,8 @@ The Federal Reserve will continue to use it full range of tools to support the f
 
 ---
 
+## UBI w Niemczech
+
 Mało kto zwrócił uwagę na listopadową decyzję niemieckiego Sądu Najwyższego w Karlsruhe. I pewnie nawet sami sędziowie nie wiedzą, że nie mniej ni więcej tylko zalegalizowali pierwszy w historii Minimalny Dochód Gwarantowany (UBI). Nie żaden eksperyment, żadne tam intelektualne harce, ale pierwszy powszechny dochód – gwarantowana płaca minimalna, którą otrzymywać może każdy Niemiec, niezależnie od czy szuka pracy, czy się od niej miga. Średnio, jakieś 1120 euro miesięcznie.
 
 Rzecz teraz robi się głośna w związku z rozmaitymi przymiarkami do zapewnienia bezpieczeństwa finansowego Niemcom w dobie pandemii. Okazuje się, że nic już nie trzeba robić, niczego nie trzeba zmieniać w przepisach. Zgodnie z nowym prawem i tak każdemu Niemcowi należy się wypłata.

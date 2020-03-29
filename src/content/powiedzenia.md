@@ -2636,6 +2636,8 @@ Wolność bez pieniędzy to niewola w nędzy.
 
 Zrobiłem co mogłem, kto potrafi niech zrobi lepiej.
 
+"Przeciwności losu uczą mądrości, powodzenie ją odbiera"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

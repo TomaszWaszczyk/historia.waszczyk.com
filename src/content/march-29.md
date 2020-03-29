@@ -16,6 +16,8 @@ tags:
 
 <img src="./img/march/szwajcaria3.jpeg"/><br><br>
 
+<img src="./img/march/cenzura.jpg"/><br><br>
+
 ---
 
 ## German state finance minister Thomas Schäfer found dead..
