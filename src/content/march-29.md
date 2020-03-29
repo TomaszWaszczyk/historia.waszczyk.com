@@ -8,6 +8,14 @@ tags:
   - Katyn
 ---
 
+### 2020 - użyteczność społeczna w praktyce
+
+<img src="./img/march/szwajcaria.jpeg"/><br><br>
+
+<img src="./img/march/szwajcaria2.jpeg"/><br><br>
+
+<img src="./img/march/szwajcaria3.jpeg"/><br><br>
+
 ### 1943
 
 W Katyniu rozpoczęły się prace ekshumacyjne mające na celu ustalenie przyczyny śmierci polskich żołnierzy, policjantów i przedstawicieli innych środowisk inteligenckich.

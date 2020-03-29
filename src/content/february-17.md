@@ -1,13 +1,20 @@
 ---
 layout: post
-title: 2 lutego
+title: 17 lutego
 image: img/february/merkle.jpg
 author: Tomasz Waszczyk
-date: 2018-02-02T10:00:00.000Z
+date: 2019-02-17T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Coronavirus
+draft: false
+---
+
+### 2020
+
+WHO:
+
+"...extremely cautious using term pandemic"
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

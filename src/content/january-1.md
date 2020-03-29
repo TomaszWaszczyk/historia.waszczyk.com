@@ -12,6 +12,12 @@ tags:
 
 > No dobre rozpoczęcie nowego roku i dekady przypominamy, że przez najbliższe 9 lat (a właściwie nieco ponad 8) czekają nas 3 halvingi bitcoina. Roczna inflacja w bitcoinie na koniec tego dziesięciolecia będzie wynosiła około 0,45% a nagroda za blok 1,5625 BTC
 
+---
+
+WHO
+
+“No clear evidence of human-to-human transmission of coronavirus"
+
 ### 1988
 
 1988 władze komunistyczne zakończyły wieloletnią akcję zagłuszania Radia Wolna Europa.

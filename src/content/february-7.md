@@ -3,10 +3,17 @@ layout: post
 title: 7 lutego
 image: img/february/merkle.jpg
 author: Tomasz Waszczyk
-date: 2018-02-07T10:00:00.000Z
+date: 2019-02-07T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Coronavirus
+draft: false
+---
+
+### 2020
+
+WHO:
+
+"Masks don't necessarily protect you"
 
 ---
 

@@ -88,6 +88,12 @@ To nie był pierwszy taki eksperyment. Podobne programy odpalane były w Stanach
 
 A wy się martwiliście o spustoszenie jakiego wirus dokona w gospodarce?
 
+---
+
+WHO:
+
+Treating #COVID19 w/ #Hydroxychloroquine could cause a drug shortage
+
 ### 2009
 
 > The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China
