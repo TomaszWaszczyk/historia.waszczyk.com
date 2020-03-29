@@ -2638,6 +2638,10 @@ Zrobiłem co mogłem, kto potrafi niech zrobi lepiej.
 
 "Przeciwności losu uczą mądrości, powodzenie ją odbiera"
 
+"Naród rodzi się stoikiem, umiera epikurejczykiem" - Will Durant, amerykański historyk, filozof i pisarz, współautor 11-tomowej "Historii cywilizacji"
+
+"Things will get worse before getting better"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -33,6 +33,19 @@ Tomasz Wróblewski (WEI): Do spięcia budżetu może zabraknąć nawet 50 mld z�
 
 ---
 
+## Interwencja rządu
+
+Po interwencji polskiego rządu, 24. marca 2020r., weszła w życie decyzja o zawieszeniu sprzedaży środków ochrony indywidualnej i produktów dezynfekcyjnych na terytorium Polski. Taką informację podał na swojej stronie portal Alibaba – Alibaba International to holding będący jednym z największych przedsiębiorstw na świecie.
+Ta decyzja jest mieczem obosiecznym.
+Z jednej strony to przeciwstawienie się nieuczciwej chęci dorobienia się na tragedii poprzez kupowanie znacznych ilości środków ochrony osobistej i produktów dezynfekcyjnych oraz następowa spekulacja (w celu osiągnięcia maksymalnego zysku).
+Z drugiej jednak strony, to uniemożliwienie zakupu potrzebnych środków uczciwym przedsiębiorcom, którzy prowadzą np. działalność medyczną.
+Tak więc w najbliższym czasie możemy spodziewać się zawieszania działalności kolejnych prywatnych placówek zdrowotnych, a jak doskonale wiemy, z powodu skrajnej niewydolności publicznego systemu opieki zdrowotnej, udział sektora prywatnego w ochronie zdrowia jest bardzo duży.
+Mając na uwadze fakt, że choroba wywoływana przez koronawirusa (COVID-19) nie jest jedyną na świecie, takie reglamentacje mogą wpłynąć bardzo negatywnie na zdrowie i życie obywateli.
+A na to wszystko rzecznik Ministerstwa Zdrowia powiedział, żeby nie zgłaszać informacji o brakach środków ochrony indywidualnej do resortu zdrowia, bo zostaną zasypani pismami i e-mailami. Bareja nie wymyśliłby lepszej sceny.
+B. Fiałek
+
+---
+
 The world economy has never shut down this fast. In the U.S., virus-related layoffs are expected to be measured in the millions and soon. For insight into what's coming, we found someone with responsibilities over the economy now and who helped pull the U.S. out of the Great Recession of 2008. That person is Neel Kashkari, president of the Federal Reserve Bank of Minneapolis. In 2008, he was the Treasury official in charge of the $700 billion rescue of the financial system. We met Kashkari this past Thursday for an eye-opening look at the stock market freefall, the near-freeze in the bond markets and a prediction for this economic emergency.
 
 Neel Kashkari: Millions of people are gonna lose their jobs. And that's what's so scary about this.
