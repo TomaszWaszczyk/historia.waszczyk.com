@@ -79,6 +79,12 @@ Wojna w Hiszpanii stała się idealnym poligonem doświadczalnym dla wielu pańs
 
 https://en.wikipedia.org/wiki/Lavrentiy_Beria
 
+### 1848
+
+Z inicjatywy Adama Mickiewicza w Rzymie powstała formacja wojskowa zwana Legionem Mickiewicza.
+Akt zawiązania Legionu podpisało w Rzymie oprócz Adama Mickiewicza 13 osób. Byli wśród nich dawny oficer napoleoński ppłk Siodołkowicz, towiańczyk Geitz (Gierycz) i jego kuzyn Niesiołowski oraz dziesięciu studiujących w Rzymie młodych artystów polskich. Wraz z tym dokumentem zatwierdzono Skład zasad, będący wyraźnym programem rewolucyjno-demokratycznym polskich emigrantów skupionych wokół Mickiewicza. W Składzie zasad, napisanym w duchu religijnym, manifestowano chęć wprowadzenia swobód demokratycznych, wysuwano hasła równouprawnienia kobiet, narodowości i wyznań, proponowano zasadę wybieralności urzędników, jednakowego podziału ziemi oraz podkreślano rolę współpracy narodów słowiańskich.
+Legion był polską formacją wojskową stworzoną w okresie rewolucyjnych wydarzeń, zwanych Wiosną Ludów. Mickiewicz pragnął pomóc Włochom w walce o wyzwolenie ich kraju, impulsem do działania stało się wypędzenie Austriaków z Mediolanu 18 marca 1848. Oddział polski stawił się w stolicy Lombardii już 1 maja. Legion uczestniczył w kilku starciach z Austriakami, wspierał Karola Alberta, króla Piemontu i Sardynii, pomagał Giuseppemu Mazziniemu poprzez udział w obronie republikańskiego Rzymu. Wkrótce, po uczestnictwie w rewolucji węgierskiej, oddział polski został rozbity.
+
 ### 1790
 
 Został podpisany Traktat Przyjaźni i Przymierza Między Prusami, a Rzeczpospolitą zwany w skrócie Traktatem Polsko-Pruskim lub Sojuszem Zaczepno- Odpornym.

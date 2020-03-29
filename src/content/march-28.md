@@ -38,6 +38,31 @@ Są tam 3 takie przypadki: stan wojenny; stan wyjątkowy; stan klęski żywioło
 Będą wybory. Będzie władza. Będą pieniądze. Tylko, co będzie dalej? Kawałek dalej będzie art. 86 pkt. 1(2) tej samej ustawy. Trzeba będzie przecież coś zrobić z restrykcjami nałożonymi na finanse publiczne, kiedy dług znajduje się w przedziale 55%-60% PKB.
 A co będzie jeszcze dalej? A, to już mniej więcej wiadomo...
 
+---
+
+## Pod osłoną nocy większość polityczna w Sejmie uchwaliła ekspresowo zmianę Kodeksu wyborczego, polegającą na możliwości głosowania korespondencyjnego przez wybrane grupy osób
+
+Lista naruszeń prawa jest długa:
+1. Naruszenie zasady trzech czytań - nie można w jeden dzień przegłosować tak istotnej zmiany Kodeksu wyborczego, zgłoszonej jako poprawka już w trakcie procesu legislacyjnego. 
+(Art. 119 Konstytucji: "Sejm rozpatruje projekt ustawy w trzech czytaniach").
+2. Naruszenie zasady wydłużonego trybu pracy nad kodeksami - nie było możliwości przeanalizować i przedyskutować tak istotnej kwestii ustrojowej, jaką jest sposób głosowania w wyborach, określony w Kodeksie wyborczym. Czas, jaki powinien upłynąć, to co najmniej 14 dni od momentu wniesienia projektu do Sejmu.
+(Art. 123 Konstytucji: "Rada Ministrów może uznać uchwalony przez siebie projekt ustawy za pilny, z wyjątkiem [...] ustaw dotyczących wyboru Prezydenta Rzeczypospolitej, [,...], a także kodeksów"; art. 89 ust. 2 regulaminu Sejmu: "Pierwsze czytanie projektu zmian kodeksu lub projektu zmian przepisów wprowadzających kodeks może się odbyć nie wcześniej niż czternastego dnia od doręczenia posłom druku projektu").
+3. Naruszenie określonej w Konstytucji i potwierdzonej przez Trybunał Konstytucyjny zasady, że nie zmienia się reguł gry w czasie gry. Zgodnie z zasadą demokratycznego państwa prawnego, istotne zmiany dotyczące procesu wyborczego mogą być wprowadzone najpóźniej 6 miesięcy przed wyborami.
+(orzeczenia TK o sygn. K 31/06, Kp 3/09, K 9/11)
+4. Naruszenie zasady równości wobec prawa przez nieuzasadnione uprzywilejowanie osób objętych kwarantanną czy izolacją w związku z koronawirusem i pokrzywdzenie innych osób, między innymi chorych na inne choroby, których udział w wyborach jest tak samo utrudniony, a nie będą one mogły głosować korespondencyjnie. 
+(Art. 32 ust. 1 Konstytucji: "Wszyscy są wobec prawa równi. Wszyscy mają prawo do równego traktowania przez władze publiczne").
+5. Naruszenie zasady, że wybory są powszechne. Z oczywistych względów podporządkowanie się zaleceniom medycznym, by pozostać w domu (#zostanwdomu) i nie narażać innych na zagrożenie zarażenia koronawirusem, ograniczy prawo wyborcze dla setek tysięcy obywateli, którzy będą zmuszeni do głosowania stacjonarnego z narażeniem własnego zdrowia. 
+(art. 127 Konstytucji: "Prezydent Rzeczypospolitej jest wybierany przez Naród w wyborach powszechnych, równych, bezpośrednich i w głosowaniu tajnym.")
+6. Naruszenie zasady wyłaniania władzy przez Suwerena. Większość obywateli nie może wziąć bezpiecznie udziału w procesie wyborczym, a została pozbawiona prawa do głosowania korespondencyjnego.
+(Art. 4 Konstytucji: "Władza zwierzchnia w Rzeczypospolitej Polskiej należy do Narodu. Naród sprawuje władzę przez swoich przedstawicieli lub bezpośrednio").
+Oprócz tego chodzi także o konstytucyjne oszustwo, polegające na świadomym niewprowadzeniu stanu nadzwyczajnego, mimo że faktycznie mamy w Polsce stan nadzwyczajny (nadzwyczajny tryb pracy Sejmu, zakaz zgromadzeń, restrykcje w przemieszczaniu się, zamknięte sklepy, kina, siłownie, ograniczenia swobody praktyk religijnych). 
+A w stanie nadzwyczajnym nie można w ogóle przeprowadzać wyborów!
+(Art. 228 ust. 7 Konstytucji: "W czasie stanu nadzwyczajnego oraz w ciągu 90 dni po jego zakończeniu [...] nie mogą być przeprowadzane wybory do Sejmu, Senatu, organów samorządu terytorialnego oraz wybory Prezydenta Rzeczypospolitej, a kadencje tych organów ulegają odpowiedniemu przedłużeniu [...]").
+To wszystko oznacza, że WYBORY BĘDĄ NIELEGALNE - podkreślałem w TVN24. 
+W komentarzach znajdziecie namiary na moją poranną rozmowę telefoniczną na antenie (przed godz. 8) oraz więcej analiz i wypowiedzi prawniczych.
+
+---
+
 ### 1996
 
 W sądzie w Gdańsku rozpoczął się proces oskarżonych o sprawstwo kierownicze śmierci 44 osób w grudniu 1970 roku.
