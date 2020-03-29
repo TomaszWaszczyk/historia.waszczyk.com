@@ -46,6 +46,8 @@ Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monet
 
 https://en.wikipedia.org/wiki/Green_New_Deal
 
+Monako jako pierwsze państwo objęte chińskim 5G.
+
 ---
 
 #### August

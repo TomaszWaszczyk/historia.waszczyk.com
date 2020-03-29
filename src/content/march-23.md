@@ -94,6 +94,12 @@ WHO:
 
 Treating #COVID19 w/ #Hydroxychloroquine could cause a drug shortage
 
+---
+
+## Niemcy z 350 mld euro nowego długu
+
+Z punktu widzenia rynków finansowych zdecydowanie bardziej szokujące od naszych rozwiązań jest to, co wymyślono w Niemczech. Według niemieckiej prasy rząd w Berlinie ma dziś na posiedzeniu przyjąć spory pakiet pomocowy. Kluczowe dla rynków jest to, że ma on być w większości sfinansowany długiem, co w przypadku Niemiec oznacza radykalne zerwanie z dotychczasową polityką nadwyżek budżetowych i ograniczania emisji nowych obligacji.
+
 ### 2009
 
 > The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China

@@ -5,10 +5,10 @@ image: img/march/katyn.jpg
 author: Tomasz Waszczyk
 date: 2019-03-29T10:00:00.000Z
 tags:
-  - Katyn
+  - Katyń
 ---
 
-### 2020 - użyteczność społeczna w praktyce
+### 2020 - indeks użyteczności społecznej w praktyce
 
 <img src="./img/march/szwajcaria.jpeg"/><br><br>
 
