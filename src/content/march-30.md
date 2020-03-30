@@ -117,4 +117,4 @@ gazowego . Warto dodać, że Łukasiewicz jest także wynalazcą równie rewoluc
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-29.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-30.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
