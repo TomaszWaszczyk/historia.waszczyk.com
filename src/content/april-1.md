@@ -5,8 +5,21 @@ image: img/april/Executive_Order_6102.jpg
 author: Tomasz Waszczyk
 date: 2018-04-01T10:00:00.000Z
 tags:
-  - Historia
+  - Polska
 ---
+
+### 2020
+
+Banki obecnie (oprócz dwóch pekao są i Alior) wprowadzają wymóg 20% wkładu własnego pod kredyty hipoteczne
+Wszystkie banki od 01.04.2020 o ile nie już podnoszą marże.
+
+1. Utrata pracy przez ludzi
+2. Droższy kredyt
+3. Trudniej dostępny kredyt
+4. Więcej nieruchomosci na rynku
+5. Mniej klientów
+
+Przecena nieruchomości niedługo.
 
 ### 1949
 

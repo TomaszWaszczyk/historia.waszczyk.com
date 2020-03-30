@@ -43,7 +43,7 @@ A co będzie jeszcze dalej? A, to już mniej więcej wiadomo...
 ## Pod osłoną nocy większość polityczna w Sejmie uchwaliła ekspresowo zmianę Kodeksu wyborczego, polegającą na możliwości głosowania korespondencyjnego przez wybrane grupy osób
 
 Lista naruszeń prawa jest długa:
-1. Naruszenie zasady trzech czytań - nie można w jeden dzień przegłosować tak istotnej zmiany Kodeksu wyborczego, zgłoszonej jako poprawka już w trakcie procesu legislacyjnego. 
+1. Naruszenie zasady trzech czytań - nie można w jeden dzień przegłosować tak istotnej zmiany Kodeksu wyborczego, zgłoszonej jako poprawka już w trakcie procesu legislacyjnego.
 (Art. 119 Konstytucji: "Sejm rozpatruje projekt ustawy w trzech czytaniach").
 2. Naruszenie zasady wydłużonego trybu pracy nad kodeksami - nie było możliwości przeanalizować i przedyskutować tak istotnej kwestii ustrojowej, jaką jest sposób głosowania w wyborach, określony w Kodeksie wyborczym. Czas, jaki powinien upłynąć, to co najmniej 14 dni od momentu wniesienia projektu do Sejmu.
 (Art. 123 Konstytucji: "Rada Ministrów może uznać uchwalony przez siebie projekt ustawy za pilny, z wyjątkiem [...] ustaw dotyczących wyboru Prezydenta Rzeczypospolitej, [,...], a także kodeksów"; art. 89 ust. 2 regulaminu Sejmu: "Pierwsze czytanie projektu zmian kodeksu lub projektu zmian przepisów wprowadzających kodeks może się odbyć nie wcześniej niż czternastego dnia od doręczenia posłom druku projektu").
