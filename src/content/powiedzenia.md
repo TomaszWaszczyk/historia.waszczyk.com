@@ -2646,6 +2646,8 @@ Jeśli coś można zrobić dzisiaj, to wartość byłaby jeszcze większa, gdyby
 
 Jan Zamoyski: "Takie będą Rzeczypospolite jakie ich młodzieży chowanie".
 
+even a dead cat bounce once
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
