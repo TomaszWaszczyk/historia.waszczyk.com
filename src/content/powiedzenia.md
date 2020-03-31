@@ -2642,6 +2642,10 @@ Zrobiłem co mogłem, kto potrafi niech zrobi lepiej.
 
 "Things will get worse before getting better"
 
+Jeśli coś można zrobić dzisiaj, to wartość byłaby jeszcze większa, gdybyś to zrobił wczoraj.
+
+Jan Zamoyski: "Takie będą Rzeczypospolite jakie ich młodzieży chowanie".
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

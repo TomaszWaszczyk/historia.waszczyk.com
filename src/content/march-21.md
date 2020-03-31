@@ -48,6 +48,14 @@ Tu miał być jakiś slogan z sarkastycznym komentarzem, ale sprawa sama się ko
 
 <img src="./img/march/zus.jpg"/><br><br>
 
+### 2018
+
+#### Bitcoin will become the world’s single currency, Twitter chief says Jack Dorsey
+
+Bitcoin will overtake the dollar in importance as it becomes the single global currency of the internet within a decade, Jack Dorsey, one of Silicon Valley’s leading entrepreneurs, has said.
+
+Despite recent weakness in the value of bitcoin and concerns that it cannot currently process transactions fast or cheaply enough to act as a currency, Mr Dorsey, who is chief executive of both Twitter and the payments company Square, believes that bitcoin will overcome these obstacles and will be used to buy everyday items such as coffee.
+
 ### 1980
 
 Na Rynku Głównym w Krakowie były żołnierz Armii Krajowej Walenty Badylak dokonał samospalenia. Była to manifestacja przeciwko przemilczaniu przez władze PRL zbrodni katyńskiej.
