@@ -703,6 +703,9 @@ infoentermeint
 
 moral compas
 
+stupor
+zaburzenie psychiczne objawiające się znacznym zahamowaniem ruchowym i ograniczeniem reakcji na bodźce zewnętrzne; osłupienie, drętwica
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

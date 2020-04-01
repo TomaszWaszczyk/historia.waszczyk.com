@@ -36,11 +36,25 @@ Zatem mamy rozleniwiony, głęboko przez lata udziecinniony salariat z nowymi do
 
 ---
 
+Zawieszenie wypłat 13. emerytury, tymczasowa redukcja 500 plus, uwolnienie przedsiębiorców od ciężarów finansowych, powstrzymanie spirali zatorów płatniczych oraz dostarczenie przedsiębiorstwom dodatkowej płynności przez system bankowy – to postulaty trzynastu profesorów i doktorów ekonomii, m.in. byłych członków Rady Polityki Pieniężnej, którzy podpisali się pod drugim już wspólnym apelem do rządu o jak najszybsze podjęcie skutecznych działań osłonowych dla polskiej gospodarki.
+
+Ekonomiści zaznaczają, że „nieuchronne staje się wyraźne zwiększenie długu publicznego – nominalnie i w relacji do PKB”. Ich zdaniem potrzeby finansowe państwa w 2020 r. mogą sięgnąć 130-150 mld zł.
+
+Dodają, że Polskę czeka zasadnicza nowelizacja ustawy budżetowej. „Trzeba jej dokonać po wnikliwym przeglądzie wszystkich wydatków budżetowych, aby ograniczyć poziom wydatków, które nie są w tym roku niezbędne. W szczególności na okres co najmniej 3 lat (2020-2022) trzeba zrezygnować z reguły przeznaczania na wydatki wojskowe 2 proc. PKB. Niezbędne będzie także zawieszenie na ten okres części sztywnych wydatków socjalnych (w szczególności dotyczy to 13. emerytury i ograniczenia wypłaty 500+ do poziomu sprzed jej rozszerzenia)” – tłumaczą.
+
 <!-- <object data="./documents/april/Alert-Gospodarczy-2-OEES.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="./documents/april/Alert-Gospodarczy-2-OEES.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object> -->
+
+---
+
+Nie ma w "tarczy antykryzysowej" żadnych przepisów, które regulowałyby kwestię wakacji kredytowych dla osób, które stracą źródło utrzymania na skutek kryzysu. Banki zobowiązały się jedynie przez prezydentem do tego, by udzielać ich na 3 miesiące. Na własnych warunkach - i zarabiając na tym.
+
+Tak zwana "tarcza antykryzysowa" w żaden sposób nie pomoże osobom prywatnym czy małym przedsiębiorcom, którzy na skutek kryzysu wywołanego przez epidemię COVID-19 utracą dochody i nie będą dawali rady spłacać kredytów. Ustawodawca odsyła nas tu do banków, które na prośbę prezydenta Andrzeja Dudy zgodziły się łaskawie odraczać spłatę rat na trzy miesiące. Oczywiście nie za darmo. Banki będą na tym zarabiać, koszty zawieszenia rat poniosą zaś sami kredytobiorcy.
+
+Tymczasem według większości szacunków w najbliższych miesiącach bezrobocie w Polsce może wzrosnąć z obecnych ok. 5,5 proc. do ok 10 proc. Zaznaczmy tu, że prognozy te dotyczą przede wszystkim osób zatrudnionych na umowy o pracę. Według wyliczeń firmy Personnel Service utrata pracy może czekać aż 2 mln ludzi – w tym także tych zatrudnionych na umowy cywilnoprawne lub samozatrudnionych. Wciąż nie do oszacowania jest liczba tych pracowników, samozatrudnionych i mikroprzedsiębiorców, którzy wprawdzie zachowają źródło utrzymania, ale ich dochody znacząco lub drastycznie spadną.
 
 <img src="./img/april/xkom.png"/><br><br>
 
@@ -121,6 +135,10 @@ Jestem córką medyków, moi rodzice, moi bliscy, moi znajomi będą leczyć Was
 To z czym mamy do czynienia teraz, czyli niesprawny system, brak pracowników, podstawowego sprzętu, i wiele, wiele innych problemów, jest to wynik zaniedbań nie tylko tego rządu, ale również wszystkich poprzednich, jest to wynik zaniedbań, które trwały i trwają już kilkadziesiąt lat! Uwierzcie mi, wiem co mówię bo obserwuje to przez 27 lat z domu, w którym słucham o absurdach i zaniedbaniach w tym zakresie, a także z doświadczenia własnego jako pacjentki, bo ze względu na moją chorobę i wrodzoną pierdołowatość, od urodzenia raz na jakiś czas odwiedzam przybytek zwany szpitalem. Może gdy minie ta pandemia zaczniemy walczyć o to co najważniejsze i najbardziej istotne czyli o życie naszych bliskich i nasze, a także o godną śmierć.
 
 <img src="./img/april/caban.jpg"/><br><br>
+
+---
+
+Koronawirus nie pozostaje bez wpływu na wiele rynków. Wprowadzony przez rząd stan zagrożenia epidemicznego wiąże się z zakazem najmu krótkoterminowego, przez co w Warszawie do odwołania nie może działać Airbnb. Jednak spłaty kredytów nie zostały zawieszone przez państwo jak we Włoszech, a czynsze wciąż trzeba płacić, podczas gdy epidemia wydaje się nie odpuszczać. Właściciele mogą być pozbawieni dochodów jeszcze przez miesiące. Na portalach ogłoszeniowych błyskawicznie pojawiły się mieszkania na wynajem długoterminowy, które jeszcze niedawno były dostępne na Airbnb. Aby sprawdzić, ile takich ogłoszeń zostało opublikowanych, porównaliśmy główne zdjęcie ofert na Airbnb sprzed kilku miesięcy ze zdjęciami z ogłoszeń wynajmu mieszkań dostępnych na otodom i Gumtree.
 
 ### 1981
 
