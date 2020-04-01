@@ -10,6 +10,10 @@ tags:
 
 ### 2020
 
+Usunięty ćwierk
+
+<img src="./img/april/twit.png"/><br><br>
+
 Banki obecnie (oprócz dwóch pekao są i Alior) wprowadzają wymóg 20% wkładu własnego pod kredyty hipoteczne
 Wszystkie banki od 01.04.2020 o ile nie już podnoszą marże.
 
@@ -19,7 +23,26 @@ Wszystkie banki od 01.04.2020 o ile nie już podnoszą marże.
 4. Więcej nieruchomosci na rynku
 5. Mniej klientów
 
-Przecena nieruchomości niedługo.
+Przecena nieruchomości ± 20% powinna wystąpić w ~Q420, natomiast kierunkiem właściwym dla XAU to $2000.
+
+Rząd w dobie kryzysu nie będzie dyscyplinował Suwerena ale przede wszystkim w niego wpompuje pieniądze. Szkoda tylko, że zgodnie z art. 220ust.2 Konstytucji RP tym faktycznym suwerenem nie są Polacy ale banki komercyjne, bo tylko od nich Rząd może pożyczać pieniądze po kryzysie (zakaz od NBP) przez co mają instrumenty trzymania Państwa za twarz. Dyscyplinować więc będzie poddanych i przed poddanymi będzie udawał, że:
+
+1. To oni są suwerenem, a nie siłą roboczą, której zwyczajnie się nie oplaca tracić zbyt wiele,
+2. Dając pieniądze faktycznemu Suwerenowi daje im.
+3. Tarcza jest dla nich, a nie po to, aby suweren rzekomy jakoś dotrwał do czasu, gdy wraz z majątkiem stanie się łupem Suwerena prawdziwego.
+Dlatego niebawem będzie wysyp zadłużonych i Ci dzisiejsi mogą się wtedy nie dopchać do nas o pomoc (jeśli rzecz jasna będzie miał kto pomagać jeśli długo będzie strasznie źle).
+
+Zatem mamy rozleniwiony, głęboko przez lata udziecinniony salariat z nowymi domami na kredyt, jednocześnie bardzo biedny, z drugiej strony mamy otoczenie banków komercyjnych u którego ten salariat jest zakredytowany, dlatego aż niemożliwym wydaje się scenariusz gdzie kapitał instytucjonalny nie pokusi się przejąć przecenionych aktywów zagubionego w rzeczywistości salariatu spychając go do obszary prekariatu.
+
+---
+
+<!-- <object data="./documents/april/Alert-Gospodarczy-2-OEES.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./documents/april/Alert-Gospodarczy-2-OEES.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object> -->
+
+<img src="./img/april/xkom.png"/><br><br>
 
 ---
 
@@ -99,6 +122,21 @@ To z czym mamy do czynienia teraz, czyli niesprawny system, brak pracowników, p
 
 <img src="./img/april/caban.jpg"/><br><br>
 
+### 1981
+
+Władze PRL wprowadziły reglamentowaną sprzedaż wyrobów mięsnych.
+Uchwałę w tej sprawie podjęto już 28 lutego 1981 roku, realizując w ten sposób 11 postulat strajkujących pracowników Stoczni Gdańskiej z sierpnia 1980 roku, który brzmiał:
+" Wprowadzić na mięso i przetwory kartki – bony żywnościowe (do czasu opanowania sytuacji na rynku)."
+Uchwała szczegółowo precyzowała ile mięsa i wędlin mogą nabyć przedstawiciele poszczególnych grup zawodowych.
+
+<img src="./img/april/kartki.jpg"/><br><br>
+
+### 1962
+
+58 lat temu po raz pierwszy można było usłyszeć Program Trzeci Polskiego Radia. Pomysł powołania do życia tej stacji zrodził się w głowie ówczesnego prezesa Komitetu do Spraw Radia i Telewizji Włodzimierza Sokorskiego. Początkowo zasięg Trójki był ograniczony i obejmował województwa : mazowieckie, opolskie i katowckie, a i sama oferta programowa również nie była adresowana do zbyt szerokiej grupy słuchaczy, ponieważ była ona dosyć odbiegająca od standardowego - łatwego w odbiorze programu radiowego. Serwowano tu od początku muzykę młodzieżową wywodzącą się z nurtu nowej ery big - beatu i alternatywy. Do dziś jedną z najbardziej kojarzonych z tym programem audycji jes Lista Przebojów Trójki.
+
+<img src="./img/april/trojka.jpg"/><br><br>
+
 ### 1949
 
 Helena Wolińska – w rzeczywistości to Fajg Minga Danielak, przyszła na świat w Warszawie w 1919 roku. Okrutna stalinowska prokurator. To ona jako prokurator Naczelnej Prokuratury Wojskowej, w listopadzie 1950 roku usankcjonowała aresztowanie szefa Kedywu AK generała Augusta Emila Fieldorfa, który stał się ofiarą stalinowskiego "mordu sądowego".
@@ -109,6 +147,24 @@ Faktyczna możliwość osądzenia zbrodni stalinowskich zaistniała dopiero po 1
 
 Źródło: Tadeusz Płużański, Lista oprawców, Wikipedia, W. Brytania: zmarła stalinowska prokurator Helena Wolińska, której ekstradycji domagał się od lat Polski sąd [w:] Gazeta Prawna z 28.11.2008.
 Fotografia z Wikipedii. : Helena Wolińska (1919-2008) - prokurator wojskowy w powojennej komunistycznej Polsce w randze pułkownika podpułkownik, zaangażowany w próby pokazowe reżimu stalinowskiego w latach 50. XX wieku
+
+### 1902
+
+W Sankt Petersburgu urodził się Józef Mackiewicz (zdjęcie) pisarz, publicysta, żołnierz Armii Krajowej, zajadły antykomunista. Znienawidzony przez Rosjan do tego stopnia, że ich agentura uwikłała go w donosicielstwo i zdradę stanu na korzyść Niemiec, co omal nie skończyło się jego śmiercią. Pod koniec 1942 roku został skazany na karę śmierci przez sąd specjalny Armii Krajowej. Życie zawdzięcza tylko temu, że jego niedoszły kat, oficer wywiadu AK Sergiusz Piasecki odmówił wykonania wyroku, komendant Okręgu Wileńskiego AK podpułkownik Aleksander Krzyżanowski uniewinnił go.
+W maju 1943 roku na zaproszenie Niemiec i za zgodą polskich władz podziemnych brał udział w pracach ekshumacyjnych w Katyniu. Po powrocie z miejsca kaźni polskich oficerów udzielił wywiadu Gońcowi Codziennemu pt "Widziałem na własne oczy". W roku 1944 w wydawanym przez siebie piśmie "Alarm" przestrzegał przed kolejną, tym razem sowiecką okupacją.
+W 1945 roku Józef Mackiewicz został oczyszczony z zarzutu kolaboracji z hitlerowcami przez sąd koleżeński
+Stowarzyszenia Dziennikarzy Polskich . W Rzymie ukazał się też reportaż J. Mackiewicza o mordzie w Ponarach.
+Mackiewicz był autorem pierwszej publikacji na temat zbrodni w Katyniu wydanej w języku angielskim The Katyn Wood Murders.
+Jego twórczość, chociaż ogromna, do dziś nie jest zbyt szeroko znana, głównie z tego względu, że jej publikacje powstrzymywały przez lata ekipy rządzące.
+Chcąc poznać jego poglądy i twórczość warto sięgnąć po takie pozycje jak "Nie trzeba głośno mówić", "W cieniu krzyża", "Watykan w cieniu czerwonej gwiazdy" czy "Zbrodnia bez sądu i kary".
+W 1971 roku prezydent RP na Uchodźstwie August Zaleski odznaczył go Krzyżem Komandorskim
+Orderu Polonia Restituta.
+Zmarł 31 stycznia 1985 roku.
+Tak mówił o nim Czesław Miłosz:
+
+"Mrukliwy, z tych, których trochę krzywy nos zagląda w kieliszek, w maciejówce, często w samodziale i długich butach, mógłby uchodzić za szaraczkowego szlachcica prosto ze wsi. Lubił nocą popijać w wileńskich restauracjach"
+
+<img src="./img/april/mackiewicz.jpg"/><br><br>
 
 ### 1901
 

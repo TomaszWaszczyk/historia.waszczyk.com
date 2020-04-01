@@ -60,6 +60,38 @@ obrońców królestwa bez kresu i miasta popiołów
 
 Bądź wierny Idź
 
+### Władysław Szlengel , Nasz Przegląd, 1.04.39 r.
+
+Prima Aprilis
+
+boki zrywać panowie...
+uczta prawdziwa panowie...
+spojrzałem panowie mili
+gdy gazeciarz pismo mi dawał
+wiedziałem - prima aprilis
+więc na kawale - kawał...
+z nagłówków chichotał nonsens -
+ze szpalt szaleństwo drwiło -
+i żartu dobry kąsek
+więc nic mnie nie zdziwiło:
+że Fuhrer i Duce niszczeniem traktatów
+chcą gwarantować pokój światu
+że ofiara przychodzi prosić przemoc -
+że wolność swą ludzie oddają niemo -
+że kraj swój obcym rzucają pod stopy
+że znowu zmienia się mapa Europy -
+że znowu się Żydom grunt gdzieś zapalił
+że ledwie spoczęli znów trzeba dalej
+że przez twarde pigułki z Essen
+ludzie w Niemczech nie mają zu essen...
+że dał się bezczelnie wywieść w pole
+stary i mądry lis z parasolem...
+że wszystkie ludzkie umowy na nic
+że giną że płoną słupy granic
+czytałem spokojnie brednie gazety
+prima aprilis! gniewać się?! Nietakt!
+a potem spostrzegłem niestety że to... wczorajsza gazeta
+
 ### Bieda
 
 Choć jestem lekarzem
