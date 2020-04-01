@@ -14,8 +14,7 @@ Usunięty ćwierk
 
 <img src="./img/april/twit.png"/><br><br>
 
-Banki obecnie (oprócz dwóch pekao są i Alior) wprowadzają wymóg 20% wkładu własnego pod kredyty hipoteczne
-Wszystkie banki od 01.04.2020 o ile nie już podnoszą marże.
+Banki obecnie (oprócz dwóch PEKAO SA i Alior) wprowadzają wymóg 20% wkładu własnego pod kredyty hipoteczne oraz podnoszą marże.
 
 1. Utrata pracy przez ludzi
 2. Droższy kredyt
@@ -32,7 +31,7 @@ Rząd w dobie kryzysu nie będzie dyscyplinował Suwerena ale przede wszystkim w
 3. Tarcza jest dla nich, a nie po to, aby suweren rzekomy jakoś dotrwał do czasu, gdy wraz z majątkiem stanie się łupem Suwerena prawdziwego.
 Dlatego niebawem będzie wysyp zadłużonych i Ci dzisiejsi mogą się wtedy nie dopchać do nas o pomoc (jeśli rzecz jasna będzie miał kto pomagać jeśli długo będzie strasznie źle).
 
-Zatem mamy rozleniwiony, głęboko przez lata udziecinniony salariat z nowymi domami na kredyt, jednocześnie bardzo biedny, z drugiej strony mamy otoczenie banków komercyjnych u którego ten salariat jest zakredytowany, dlatego aż niemożliwym wydaje się scenariusz gdzie kapitał instytucjonalny nie pokusi się przejąć przecenionych aktywów zagubionego w rzeczywistości salariatu spychając go do obszary prekariatu.
+Zatem mamy rozleniwiony, głęboko przez lata udziecinniony salariat z nowymi domami na kredyt, jednocześnie bardzo biedny, z drugiej strony mamy otoczenie banków komercyjnych u którego ten salariat jest zakredytowany, dlatego aż niemożliwym wydaje się scenariusz gdzie kapitał instytucjonalny nie pokusi się przejąć przecenionych aktywów zagubionego w rzeczywistości salariatu spychając go w obszary prekariatu.
 
 ---
 
