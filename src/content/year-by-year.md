@@ -454,6 +454,10 @@ Konfederacja należy do najbardziej kontrowersyjnych wydarzeń w historii Polski
 
 Publikacja Władysława Konopczyńskiego, ujawniająca skomplikowaną sieć intryg politycznych, intencje obcych dworów i postępującą zależność Stanisława Augusta od Rosji, została wydana w kraju po raz pierwszy w latach 1936-1938. Autor uważał ją za dzieło swojego życia.
 
+### 1721
+
+https://en.wikipedia.org/wiki/Mississippi_Company
+
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking

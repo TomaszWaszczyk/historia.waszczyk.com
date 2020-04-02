@@ -26,7 +26,7 @@ Przecena nieruchomości ± 20% powinna wystąpić w ~Q420, natomiast kierunkiem 
 
 Rząd w dobie kryzysu nie będzie dyscyplinował Suwerena ale przede wszystkim w niego wpompuje pieniądze. Szkoda tylko, że zgodnie z art. 220ust.2 Konstytucji RP tym faktycznym suwerenem nie są Polacy ale banki komercyjne, bo tylko od nich Rząd może pożyczać pieniądze po kryzysie (zakaz od NBP) przez co mają instrumenty trzymania Państwa za twarz. Dyscyplinować więc będzie poddanych i przed poddanymi będzie udawał, że:
 
-1. To oni są suwerenem, a nie siłą roboczą, której zwyczajnie się nie oplaca tracić zbyt wiele,
+1. To oni są suwerenem, a nie siłą roboczą, której zwyczajnie się nie opłaca tracić zbyt wiele,
 2. Dając pieniądze faktycznemu Suwerenowi daje im.
 3. Tarcza jest dla nich, a nie po to, aby suweren rzekomy jakoś dotrwał do czasu, gdy wraz z majątkiem stanie się łupem Suwerena prawdziwego.
 Dlatego niebawem będzie wysyp zadłużonych i Ci dzisiejsi mogą się wtedy nie dopchać do nas o pomoc (jeśli rzecz jasna będzie miał kto pomagać jeśli długo będzie strasznie źle).

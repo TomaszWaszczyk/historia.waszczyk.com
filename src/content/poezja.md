@@ -8,6 +8,13 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### C.K. Norwid
+
+“Ogromne wojska i bitne generały
+Policje jawne, tajne i dwupłciowe
+Przeciwko komu się tak pojednały?
+Przeciwko kilku myślom, co nie nowe”
+
 ### Przesłanie Pana Cogito
 
 Idź dokąd poszli tamci do ciemnego kresu

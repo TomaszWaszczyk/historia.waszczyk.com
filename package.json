@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
+  "name": "notati-historyczne",
   "description": "Notatki historyczne Tomka",
   "version": "0.0.0",
   "private": true,
-  "author": "Tomasz Waszczyk <tomasz at waszczyk dot com domain",
+  "author": "Tomasz Waszczyk <tomasz at waszczyk dot com",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
