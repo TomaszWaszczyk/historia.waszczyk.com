@@ -6,7 +6,7 @@ author: Tomasz Waszczyk
 date: 2019-04-03T10:00:00.000Z
 tags:
   - Inflacja
-draft: true
+draft: false
 ---
 
 ### 2020
@@ -51,6 +51,24 @@ Paul Krugman powiedział kiedyś, że produktywność może nie jest najważniej
 <img src="./img/april/gdp.png"/><br><br>
 
 Obecne przekonanie, że rząd musi chronić wszystkie firmy, miejsca pracy i dochody za wszelką cenę (czyli cenę zadłużenia na dziesiątki lat), może przetrwać, gdy minie sama pandemia, albo wręcz nasilać się – powrócą stare postulaty nacjonalizacji przestarzałych firm i pojawią się nowe dotyczące dochodu podstawowego. Jeśli politycy będą w stanie obronić miejsca pracy i jako takie dochody w czasie kryzysu, to wiele osób może zastanawiać się, dlaczego w ogóle musimy pracować, jeżeli możemy drukować?
+
+### 1940
+
+Wyruszył z likwidowanego obozu w Kozielsku pierwszy transport do Katynia wiozący polskich jeńców stalinowskich.
+Codziennie z obozu wywożonych było
+kilkuset jeńców, których po wydaniu ostatniej racji żywnościowej ładowano do pociągu pod eskortą żołnierzy. Charakterystyczną rzeczą było to, że przewożono ich zawsze w kierunku
+zachodnim - chodziło o stworzenie złudzenia, że jadą do domu. Po przybyciu do pobliskiej stacji kolejowej jeńców przeładowywano do autobusu, który przewoził ich na miejsce kaźni. Mordów dokonywano strzałem w potylicę na terenie ośrodka wypoczynkowego NKWD. Polaków zabijano do połowy maja 1940 roku.
+W egzekucjach zginęło łącznie ponad 22 000 osób. Była to połowa kadry oficerskiej
+polskiego wojska. Zbrodnia ta nie miała
+precedensu w dziejach Polski.
+
+<img src="./img/april/katyn.jpg"/><br><br>
+
+### 1921
+
+Po zakończeniu wojny polsko-bolszewickiej marszałek Józef Piłsudski (zdjęcie) wydał rozkaz demobilizacji i przejścia Wojska Polskiego na pokojowy etat. Na mocy tego samego rozkazu zlikwidowane zostało Naczelne Dowództwo oraz dowództwa frontów i armii.
+
+<img src="./img/april/pilsudski.jpg"/><br><br>
 
 ---
 

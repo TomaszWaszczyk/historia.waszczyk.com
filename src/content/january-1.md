@@ -18,6 +18,10 @@ WHO
 
 “No clear evidence of human-to-human transmission of coronavirus"
 
+### 2017
+
+<img src="./img/others/gielda.png"/><br><br>
+
 ### 1988
 
 1988 władze komunistyczne zakończyły wieloletnią akcję zagłuszania Radia Wolna Europa.

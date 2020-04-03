@@ -22,6 +22,12 @@ draft: false
 
 <img src="./img/others/sport/swimmer.gif"/>
 
+<img src="./img/others/sport/5-seriach-po-15-powtórzeń.gif"/>
+
+<img src="./img/others/sport/exercies.gif"/>
+
+<img src="./img/others/sport/waga.png"/>
+
 <img src="./img/others/sport/cwiczenia1.jpg"/>
 
 ---
