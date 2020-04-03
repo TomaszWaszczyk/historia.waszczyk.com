@@ -177,6 +177,8 @@ https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
 https://en.wikipedia.org/wiki/Metamodernism
 
+https://pl.wikipedia.org/wiki/List_59
+
 ### 1974
 
 Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
@@ -315,7 +317,7 @@ BIS jest po prostu ogromnym funduszem globalnego rządu, przez który przetacza
 
 Fakt, że naziści byli ściśle zaangażowani w działalność globalnego banku centralnego, który jest obecnie reklamowany jako podstawa potęgi gospodarczej rządu światowego jest przerażające. Za każdym razem, gdy poznajemy historyczne korzenie światowego rządu, okazuje się, że naziści odegrali główną rolę w tworzeniu i administrowaniu instytucji, które dzisiaj mają na celu wprowadzenie zarządzania globalnego.
 
-Podobnie jak w przypadku instytucji, które złożyły się na powstanie Unii Europejskiej, nazistowskie odciski palców widoczne są wszędzie, podobnie z planami zmierzającymi w kierunku globalnej władzy, niszczącej państwa narodowe i ich suwerenność. 
+Podobnie jak w przypadku instytucji, które złożyły się na powstanie Unii Europejskiej, nazistowskie odciski palców widoczne są wszędzie, podobnie z planami zmierzającymi w kierunku globalnej władzy, niszczącej państwa narodowe i ich suwerenność.
 Fakt ten obala jakiekolwiek przesłanki, że globalny rząd jest przychylny, humanitarny i służy ludzkości. Centralizacja władzy w rękach nielicznych z natury jest niedemokratyczna, elitarna, i na niekorzyść zwykłych ludzi.
 
 Naziści, którzy tchnęli życie w przeszłe systemy globalnego autorytaryzmu są wykorzystywani do utworzenia obecnego światowego rządu. Ich dorobek został przywłaszczony przez elity, które okazały się bardziej cierpliwe w dążeniu do narzucenia światu dyktatury. Niemniej jednak ostateczny program pozostaje ten sam - rząd światowy, za zgodą społeczną lub przez podbój, którego jesteśmy świadkami.

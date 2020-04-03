@@ -9,7 +9,9 @@ tags:
 draft: true  
 ---
 
-###  
+### 1937
+
+https://pl.wikipedia.org/wiki/Andrzej_Czechowicz
 
 ---
 

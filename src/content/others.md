@@ -60,6 +60,12 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * https://pl.wikipedia.org/wiki/Karol_Modzelewski mówił o "niewolnictwie państwowym"
 
+### Zasady wojny
+
+https://pl.wikipedia.org/wiki/Carl_von_Clausewitz
+
+https://pl.wikipedia.org/wiki/Erich_von_Manstein
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

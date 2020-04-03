@@ -67,6 +67,10 @@ Główną przyczyną tak drastycznego polskiego posunięcia była zadeklarowana 
 
 <img src="./img/march/lemki.jpg"/><br><br>
 
+### 1910
+
+https://pl.wikipedia.org/wiki/Zygmunt_Szendzielarz
+
 ### 1894
 
 W Vicksburgu w stanie Missisipi rozpoczęto sprzedaż Coca-Coli w butelkach.
