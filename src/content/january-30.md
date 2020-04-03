@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2020
+
+https://pl.wikipedia.org/wiki/Brexit
+
 ### 1909
 
 https://pl.wikipedia.org/wiki/Henryk_Magnuski

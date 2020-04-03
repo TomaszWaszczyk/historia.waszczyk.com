@@ -2650,6 +2650,26 @@ even a dead cat bounce once
 
 oksymoron: rząd walczy z inflacją
 
+By dojść do tego, czym nie jesteś, musisz iść przez to, czym nie jesteś. Gdy zatrzymasz się nad czymś, przestajesz dążyć do wszystkiego. Albowiem by dojść całkowicie do wszystkiego, musisz zaprzeć się siebie całkowicie we wszystkim. A gdy dojdziesz do posiadania wszystkiego, masz to posiadać, nie pragnąc niczego. - Święty Jan od Krzyża
+
+---
+
+Pewnego razu osioł wpadł do studni i zaczął głośno ryczeć, wzywając pomocy. Na jego krzyki przybiegł właściciel i rozłożył ręce – przecież nie da się wyciągnąć osła ze studni.
+
+Wówczas gospodarz pomyślał: „Mój osioł jest już stary i niewiele życia mu zostało, a ja i tak chciałem kupić nowego, młodego osła. Ta studnia całkiem już wyschła i już dawno chciałem ją zasypać oraz wykopać nową. Czemuż by więc nie upiec dwóch pieczeni przy jednym ogniu – zasypię starą studnię i jednocześnie pochowam osła”.
+
+Niewiele myśląc, zaprosił swych sąsiadów, wszyscy zgodnie chwycili za łopaty i zaczęli wrzucać ziemię do studni. Osioł od razu zrozumiał, co jest grane, i zaczął głośno ryczeć, ale ludzie nie zwracali uwagi na jego krzyk rozpaczy i milcząc, wrzucali ziemię do studni.
+
+Jednak osiołek bardzo szybko umilkł. Kiedy gospodarz zajrzał do studni, ujrzał następujący widok: każdy kawałek ziemi, który spadał na grzbiet osiołka, ten strząsał i udeptywał. Po jakimś czasie, ku powszechnemu zdziwieniu, osiołek znalazł się na powierzchni i wyskoczył ze studni!”.
+
+Jaki stąd morał?
+
+„W naszym życiu zdarza się wiele różnych nieprzyjemności i w przyszłości możesz przyciągać do siebie coraz to nowe. I za każdym razem, kiedy spadnie na Ciebie kolejna gruda, pamiętaj, że możesz strząsnąć ją i właśnie dzięki niej wznieść się nieco wyżej. W ten sposób stopniowo zdołasz wydostać się z najgłębszej studni problemów”
+
+Vitaliy Gibert
+
+---
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
