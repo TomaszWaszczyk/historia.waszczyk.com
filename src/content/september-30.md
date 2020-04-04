@@ -22,6 +22,14 @@ Jednym z zamordowanych był 50-letni Wojska Polskiego, mjr Straży Granicznej, �
 
 <img src="./img/september/braziulewicz.jpg"/><br><br>
 
+### 1655
+
+W czasie potopu szwedzkiego zakończyła się trwająca 10 dni bitwa pod Nowym Dworem Mazowieckim. Wojska szwedzkie, dowodzone przez Gustawa Otto Stoenbecka pokonały wojska Rzeczpospolitej Obojga Narodów, na czele których stał wojewoda płocki Jan Kazimierz Krasiński.
+Strary polskie wyniosły około 300 zabitych. Brak jest danych na temat strat szwedzkich.
+Grafika; Erik Dahlbergh, Bitwa pod Nowym Dworem 1655.
+
+<img src="./img/september/dwor.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-30.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -6,8 +6,19 @@ author: Tomasz Waszczyk
 date: 2018-10-01T10:00:00.000Z
 tags:
   - Historia
-  - Giełda
 ---
+
+### 2019
+
+Chiny zaprezentowały DF-41 - broń, o której mówi się, że można by jej użyć w "dzień Sądu Ostatecznego". Chińczycy pochwalili się budzącym respekt uzbrojeniem podczas wielkiej parady z okazji 70-lecia rządów komunistycznych.
+
+Chińska broń budzi strach. Dongfeng-41 (DF-41) to międzykontynentalny pocisk balistyczny, który właśnie został po raz pierwszy pokazany publicznie. Po wystrzeleniu z pojazdu silnikowego rakiety nuklearne mogą polecieć na odległość nawet 15 tys. kilometrów.
+
+Żadna inna rakieta na świecie nie ma tak dużego zasięgu. Amerykańskie rakiety nuklearne mają zasięg o kilka tysięcy kilometrów mniejszy od DF-41.
+
+Prędkość 25 razy większa od prędkości dźwięku. Pocisk lata z prędkością 25 machów, czyli ponad 30 tys. kilometrów na godzinę. Do USA jest w stanie dotrzeć w niecałe pół godziny. Jednocześnie w cele w USA mogłoby uderzyć dziesięć takich pocisków - informuje The Sun.
+
+<img src="./img/october/bron.jpg"/><br><br>
 
 ### 1907
 

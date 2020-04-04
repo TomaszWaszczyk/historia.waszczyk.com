@@ -18,6 +18,12 @@ Project Silica is developing the first-ever storage technology designed and buil
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz
 
+### 1943
+
+Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
+
+<img src="./img/september/obwieszczenie.jpg/><br><br>
+
 ### 1939 - Polska jako "państwo sezonowe" - Saisonstadt
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
