@@ -33,7 +33,7 @@ Nasze państwo z dykty i paździerza ma w sobie jeszcze tyle siły i woli, by da
 
 Na zdjęciu ZUS w Świdnicy. Jedno zdjęcie wyraża więcej niż 1000 słów.
 
-<img src="./img/april/tarcza.jpg/><br><br>
+<img src="./img/april/tarcza.jpg"/><br><br>
 
 ---
 
