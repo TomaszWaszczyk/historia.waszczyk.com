@@ -92,6 +92,23 @@ Ludzie zaakceptują wówczas i przyjmą bez walki to, co jest przyczyną złej p
 
 dlatego KORONAWIRUS I PROPAGANDA – są dla nich „zbawianiem” lub nawet …OSTATNIĄ DESKĄ RATUNKU UTRZYMANIA SWOJEJ POZYCJI …. w tym niesprawiedliwym układzie świata ….
 
+### 1950
+
+Odbył się próbny lot pierwszego polskiego śmigłowca BŻ -1 GIL.
+Maszynę skonstruowaną w Głównym Instytucie Lotnictwa w Warszawie pilotował jej twórca Bronisław Żurakowski.
+Mimo, iż testowano go przez 10 lat, ze względu na kilka wypadków i sporą awaryjność nigdy nie wszedł do produkcji.
+W drugiej połowie lat osiemdziesiątych jedyny jego egzemplarz został odrestaurowany i przekazany do Muzeum Lotnictwa Polskiego w Krakowie.
+
+<img src="./img/april/smiglowiec.jpg"/><br><br>
+
+### 1943
+
+Apel dowódcy Armii Polskie na Wschodzie generała Władysława Andersa z dnia 4 kwietnia 1943 roku:
+"Obowiązkiem żołnierza Polaka jest nie tylko zwyciężać w walce orężnej, musi on także w miarę możliwości i sił, przygotować się do walki, jaka nastąpi, a której uniknąć nie możemy, do walki równie ciężkiej i bezwzględnej, do walki ekonomicznej. Stworzenie sobie możliwości szybszej odbudowy ograbionego przez wrogów Kraju będzie oznaką gotowości do tych przyszłych zmagań. Osiągniemy to przez oszczędzanie dzisiaj i zachowanie tych oszczędności do czasu powrotu do Kraju. Odłożenie pieniędzy w formie oszczędności będzie miało kapitalny wpływ na kształtowanie się cen na obsługującym nas rynku, w wyniku czego, drogą mniejszego wysiłku finansowego, będziemy mogli osiągnąć lepsze warunki egzystencji. Samodzielny Referat Oszczędności Żołnierzy" w Szefostwie Intendentury Armii. Uwzględniono również oszczędności składane w rublach sowieckich na terenie ZSRR. "Przy ustalaniu form oszczędzania oraz warunków lokowania zaoszczędzonych kapitałów poleciłem kierować się jedynie i wyłącznie dobrem oszczędzającego żołnierza.
+Wzywam żołnierzy wszystkich stopni Armii Polskiej na Wschodzie do wzięcia udziału we wspólnym wysiłku, zmierzającym do odbudowy naszego gospodarstwa narodowego przez czynne przystąpienie do akcji oszczędnościowej"
+
+<img src="./img/april/anders.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
