@@ -708,6 +708,12 @@ zaburzenie psychiczne objawiające się znacznym zahamowaniem ruchowym i ogranic
 
 https://pl.wikipedia.org/wiki/Brzytwa_Ockhama
 
+Grow Rich In Your Sleep
+
+homogenizacja władzy
+
+neoliberalizm państwo jest łupem
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

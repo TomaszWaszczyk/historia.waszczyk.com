@@ -16,6 +16,10 @@ Umiera https://pl.wikipedia.org/wiki/W%C5%82adimir_Bukowski
 
 https://en.wikipedia.org/wiki/1948_Donora_smog
 
+### 1946
+
+https://en.wikipedia.org/wiki/Wolfgang_Streeck
+
 ### 1939
 
 Funkcjonariusze gestapo aresztowali i uwięzili na Pawiaku prezydenta Warszawy Stefana Starzyńskiego.

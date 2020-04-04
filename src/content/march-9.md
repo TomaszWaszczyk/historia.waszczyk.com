@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 1995
+
+https://en.wikipedia.org/wiki/Edward_Bernays
+
 ### 1953
 
 1953 roku czyli dwa dni od ukazania się i 4 dni po śmierci Józefa Stalina weszła w życie uchwała, na mocy której nazwę miasta Katowice zmieniono na Stalinogród, a województwo katowickie przemianowano na stalinogrodzkie.

@@ -9,6 +9,10 @@ tags:
 draft: true
 ---
 
+### 1859
+
+https://pl.wikipedia.org/wiki/John_Dewey (zakładał, że ludzie uzywają mózgu) vs https://pl.wikipedia.org/wiki/Walter_Lippmann (zakładał, że ludzie są apatyczni)
+
 ### 1939
 
 Rozpoczęła się w Wielkopolsce niemiecka operacja "Tanneberg"-działanie na szeroką skalę wymierzone w likwidację polskich elit przywódczych. Koncepcja tej akcji eksterminacyjnej powstała razem z planem ataku na Polskę. Na liście osób skazanych na zagładę znalazło się 61 tysięcy przedstawicieli różnych warstw polskiego społeczeństwa, począwszy od księży, polityków ,ludzi kultury, a skończywszy na przedsiębiorcach i byłych powstańcach. 

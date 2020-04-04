@@ -13,6 +13,12 @@ draft: true
 
 FORTRAN II
 
+- first class functions
+
+- higher order functions
+
+- lexical closure
+
 ---
 
 https://en.wikipedia.org/wiki/Wardley_map

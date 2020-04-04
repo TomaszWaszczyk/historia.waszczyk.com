@@ -38,6 +38,8 @@ Written by Rhythm@Twitter
 
 <img src="./img/year-by-year/interest-rates-decline-boe.jpg"/><br><br>
 
+Wolfgank Streeck - End of Democrasy (https://en.wikipedia.org/wiki/Wolfgang_Streeck)
+
 ### 2019
 
 Rozmowy w Polsce o implementacji MMT: https://en.wikipedia.org/wiki/Modern_Monetary_Theory (https://en.wikipedia.org/wiki/Post-Keynesian_economics)
@@ -465,6 +467,10 @@ https://en.wikipedia.org/wiki/Mississippi_Company
 https://en.wikipedia.org/wiki/Fractional-reserve_banking
 
 Modern Commercial Credit System
+
+### 1604
+
+https://pl.wikipedia.org/wiki/Dymitriady
 
 ### 1400
 

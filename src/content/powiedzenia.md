@@ -2670,6 +2670,16 @@ Vitaliy Gibert
 
 ---
 
+Politykę robi się z mapą w ręku.
+
+Słaby król ma na głowie kupę złota, futra i perły i co chwilę kazał przycinać komuś głowę aby pokazać swoją władzę, pradziwie potężni robią wszystko, aby swoją potęgę ukryć
+
+Elity to ci którzch socjologii nikt nie odważy się analizować.
+
+https://pl.wikiquote.org/wiki/Walter_Lippmann
+
+Coś do powiedzenia będziemy mieli dopiero wtedy kiedy zrozumiemy, że nie mamy nic do powiedzenia : https://en.wikipedia.org/wiki/Wolfgang_Streeck - debt-state
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
