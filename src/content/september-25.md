@@ -15,6 +15,13 @@ Zostało otwarte Beijing Daxing International Airport w pekińskiej dzielnicy Da
 
 <img src="./img/september/lotnisko.jpg"/><br><br>
 
+### 1939
+
+Poniższy tekst to relacja jednego ze świadków dalszego bombardowania Warszawy 25 września 1939 roku przez niemieckie lotnictwo. Obserwatorem był sam Adolf Hitler.
+„Straszny był dzień 25-go września. Lotnicy niemieccy latali tak nisko, że zdawało się, że zaczepią o dachy. Trzysta bombowców bez przerwy waliło w miasto, a po wyczerpaniu ładunków wracało do bazy po nowy zapas. Cała Warszawa się paliła. Ludzie biegali z domu do domu, szukając możliwie spokojnego miejsca w tym morzu płomieni, przeskakując przez trupy i gruzy, z tobołkami w ręku. Przez cały dzień i noc 25-go września trwała ta wędrówka od schronu do schronu i z mieszkania do mieszkania. Jeszcze względnie najbezpieczniej było w mieszkaniach parterowych”
+
+<img src="./img/september/bombardowanie.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

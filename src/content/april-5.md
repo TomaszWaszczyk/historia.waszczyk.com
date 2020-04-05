@@ -24,6 +24,32 @@ Broker postanowił pójść za ciosem i rozpoczął akcję #inwestujzdomu mając
 
 - Poprzez szereg działań komunikacyjnych chcemy pokazać klientom, jak wiele mają możliwości inwestowania dzięki naszym platformom. Zależy nam, aby nawet w tym trudnym czasie, mogli wygodnie korzystać z naszych usług przez całą dobę, bez konieczności wychodzenia z domu – wskazuje Jacek Taraśkiewicz, dyrektor BM Alior Banku.
 
+---
+
+Jeśli rząd nie przypomni sobie o dużych firmach, bezrobocie może sięgnąć 25 proc. – uważa znany inwestor giełdowy, który kontroluje grupę Boryszew.
+
+- Przyjęta przez rząd i procedowana właśnie przez parlament tarcza antykryzysowa nie pomoże dużym polskim firmom które mają kłopoty. Ponieważ nie przewidziano dla nich praktycznie żadnego wsparcia, pracę mogą stracić setki tysięcy pracowników. Jeśli te podmioty nie dostaną państwowej pomocy, wkrótce grozi nam ogromne bezrobocie, sięgające nawet 20-25 proc. – mówi Roman Karkosik, przedsiębiorca kontrolujący giełdową grupę Boryszew, jedną z największych w kraju firmę z branży automotive.
+
+Właśnie sektor motoryzacyjny może być jednym z poszkodowanych przez pandemię. Wiele międzynarodowych koncernów z tej branży praktycznie z dnia na dzień przestało działać. Tymczasem polscy producenci podzespołów i części samochodowych, którzy dostarczają swoje produkty tym właśnie światowym firmom odpowiada z około 8 proc. krajowego PKB i ponad 20 proc. naszego eksportu (ponad 30 mld EUR). Ten sektor zatrudnia w Polsce około 150 tys. osób.
+
+- Ponieważ od 1,5 tygodnia stoją wszystkie zakłady produkujące samochody w Europie i nie wiadomo, kiedy zostaną uruchomione, także nasze spółki dostarczające im części są unieruchomione. Pracownicy zostali w domach i czekają na wypłaty, a my czekamy na taką pomoc, jaką dostały tego typu spółki na zachodzie. Bez niej będziemy musieli albo zwolnić załogi, albo zamknąć zakłady, co zresztą na jedno wychodzi – twierdzi Roman Karkosik.
+
+W jego opinii zaproponowany przez władze pakiet pomaga tylko w części problemów, z jakimi borykają się małe firmy, a duże pozostawione praktycznie samym sobie. Konsekwencje pozostawienia tarczy w takim kształcie tego będą dla rządzących ogromne.
+
+Zdaniem Romana Karkosika w pakiecie brakuje następujących elementów:
+
+- Przy zatrzymaniu produkcji państwo powinno wziąć na siebie koszty pracownicze. W Niemczech dla naszych spółek z sektora automotive rząd dofinansowuje od 60 proc. tego typu kosztów, we Francji i Hiszpanii pomoc sięga nawet 100 proc.
+
+- Duże firmy powinny otrzymać „wakacje podatkowe” oraz zwolnienia ze składek ZUS. W ostateczności konieczne jest wydłużenie terminów płatności. Propozycje dla dużych firm nie powinny być gorsze niż te, które otrzymały małe.
+
+- Należy utrzymać limity kredytów bankowych i automatycznie przedłużyć linie kredytowe dla spółek w terminie od 6 do 12 miesięcy.
+
+- Konieczne jest rozwiązanie problemu z ubezpieczeniem transakcji handlowych. Kooperanci mają coraz większe problemy z płynnością i to w całej Europie (coraz trudniej o gwarancje i limity ubezpieczeniowe).
+
+- Procedury pomocowe dla dużych firm powinny być proste, a formalności ograniczone do minimum.
+
+Kontrolowana przez Romana Karkosika grupa Boryszew to zatrudnia łącznie około 8 tys. pracowników, z czego w Polsce około 3,2 tys. Działa nie tylko w segmencie motoryzacyjnym, ale także metalurgicznym oraz chemicznym.
+
 ### 1933
 
 <https://en.wikipedia.org/wiki/Executive_Order_6102>

@@ -171,6 +171,10 @@ Your browser does not support the video tag.
 
 https://pl.wikipedia.org/wiki/Wojna_o_Falklandy-Malwiny
 
+### 1980
+
+https://en.wikipedia.org/wiki/Medicaid
+
 ### 1977
 
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)
@@ -357,6 +361,14 @@ https://pl.wikipedia.org/wiki/Pandemia_grypy_w_latach_1918%E2%80%931919
 ### 1917
 
 Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdziernikowa
+
+### 1916
+
+Wprowadzenie w USA 16 poprawki - podatku dochodowego - IRS.
+
+### 1913
+
+Utworzenie FED
 
 ## 1904
 

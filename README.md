@@ -6,6 +6,8 @@ https://spacer.muzeum1939.pl/pl/
 
 https://muzeumslaskie.pl/pl/wyszukiwarka-zbiorow/
 
+http://orbis.stanford.edu/
+
 http://otworzksiazke.pl/ksiazka/kronika_kryzysow_gospodarczych/strona/35/
 
 https://cczytam.blogspot.com/
