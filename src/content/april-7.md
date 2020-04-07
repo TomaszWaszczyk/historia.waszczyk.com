@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 kwietnia
-image: img/april/april/adamsolski.jpg
+image: img/april/adamsolski.jpg
 author: Tomasz Waszczyk
 date: 2019-04-07T10:00:00.000Z
 tags:
