@@ -24,6 +24,8 @@ Broker postanowił pójść za ciosem i rozpoczął akcję #inwestujzdomu mając
 
 - Poprzez szereg działań komunikacyjnych chcemy pokazać klientom, jak wiele mają możliwości inwestowania dzięki naszym platformom. Zależy nam, aby nawet w tym trudnym czasie, mogli wygodnie korzystać z naszych usług przez całą dobę, bez konieczności wychodzenia z domu – wskazuje Jacek Taraśkiewicz, dyrektor BM Alior Banku.
 
+<img src="./img/april/szkola-tvp.jpeg"/><br><br>
+
 ---
 
 Jeśli rząd nie przypomni sobie o dużych firmach, bezrobocie może sięgnąć 25 proc. – uważa znany inwestor giełdowy, który kontroluje grupę Boryszew.

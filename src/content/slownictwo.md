@@ -714,6 +714,15 @@ homogenizacja władzy
 
 neoliberalizm państwo jest łupem
 
+petryfikacja
+1. «utrwalenie (się) czegoś w określonej formie niepodatnej na zmiany»
+2. «proces przemiany w kamień»
+3. «wzmacnianie i uszczelnianie gruntu budowlanego przez wstrzykiwanie jakiegoś utwardzacza»
+
+fading power - zanikająca siła
+
+https://pl.wikipedia.org/wiki/Appeasement
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -2680,6 +2680,8 @@ https://pl.wikiquote.org/wiki/Walter_Lippmann
 
 Coś do powiedzenia będziemy mieli dopiero wtedy kiedy zrozumiemy, że nie mamy nic do powiedzenia : https://en.wikipedia.org/wiki/Wolfgang_Streeck - debt-state
 
+https://www.azquotes.com/author/23858-Samuel_Hahnemann
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

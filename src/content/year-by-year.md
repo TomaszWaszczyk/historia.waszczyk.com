@@ -474,6 +474,10 @@ Publikacja Władysława Konopczyńskiego, ujawniająca skomplikowaną sieć intr
 
 https://en.wikipedia.org/wiki/Mississippi_Company
 
+### 1697 - czasy saskie przed rozbiorami
+
+https://pl.wikipedia.org/wiki/Historia_Polski_(1697%E2%80%931763)
+
 ### 1668
 
 https://en.wikipedia.org/wiki/Fractional-reserve_banking

@@ -92,6 +92,50 @@ Ludzie zaakceptują wówczas i przyjmą bez walki to, co jest przyczyną złej p
 
 dlatego KORONAWIRUS I PROPAGANDA – są dla nich „zbawianiem” lub nawet …OSTATNIĄ DESKĄ RATUNKU UTRZYMANIA SWOJEJ POZYCJI …. w tym niesprawiedliwym układzie świata ….
 
+---
+
+Zastanawialiście się, jak to było, że kraj, który był ogromny jak pół Europy, w sto lat się zwinął? Zastanawialiście się, jak to się stało, że gówniane mini państewko niemieckie, narodowy kocioł pod Habsburgami i zacofana, komicznie wręcz zacofana, barbarzyńska Rosja potrafiła Polaczków na ponad sto lat wziąć za pysk i na smyczy do budy przypiąć? Zastanawialiście, się dlaczego po 7 lat odzyskania niepodległości, Polaczki znowu miały autorytaryzm, obozy koncentracyjne? Zastanawialiście się, dlaczego kampania wrześniowa padła w dwa tygodnie, a większość elit, w tym generalicja, po prostu, za przeproszeniem, spierdoliła? Albo zrobili debilne powstanie, które skończyło się taką rzezią, że Stalinowi lata by zajęło takie wypatroszenie polskiej młodzieży? Zastanawialiście się?
+
+To teraz już wiecie. Teraz macie przedsmak tego, czym są polskie elity rządowe.
+
+W momencie, gdy wszystko się wali, ludzie płaczą, błagają pomoc, gdy z dnia na dzień tracą pracę, maja kredyty, ci robią wszystko, wszystko, co robią, to knują. Nic innego ich nie obchodzi, tylko jak tu ograć, okraść, na czym się wzbogacić i kogo oszwindlić.
+
+W momencie, gdy lekarze błagają o maseczki, ci blokują kupno ich w Chinach, blokują samolot od Owsiaka. A po co? A po to, żeby narodowe czempiony, do których powsadzali pociotków i kuzynów, mogły se fotki w TV Pereiera robić. Jak bardzo trzeba być zdemoralizowanym, żeby ryzykować życie lekarzy i pielęgniarek, bo trzeba zrobić fotkę podejścia do lądowania?
+
+Co szósty zakażony to ktoś z personelu szpitalnego. Tak, tego personelu, na który szczuli jak naziści na Żydów, a teraz nawet odmówili im podwyżki na czas epidemii. Bo Senat śmiał to zgłosić. Co chwila pada cały oddział do kwarantanny. I co? 
+
+I najpierw zastraszają, prześladują, zwalniają z pracy tak, że personel medyczny boi się już z dziennikarzami pod nazwiskiem mówić. A potem włazi wiceminister zdrowia i wyzywa lekarzy, że to ich wina, że nie przestrzegają procedur.
+
+Jakich, kurwa, procedur, jak wysyłacie po pinć na krzyż maseczek na szpital? Jakich procedur, jak fejs zalany jest błaganiami o pomoc?
+
+Sklepiki na 3 osoby zamknięte, ale markety budowalne przez tygodnie otwarte, kościoły otwarte, parki otwarte. A potem sobie order do pyska wsadzają i krzyczą, jacy są najlepsi z najlepszych.
+
+Jak zrobili akcję Lot do domu, to nawet po 6 tysi od ludzi ściągali, chociaż UE robi dofinansowanie na 75%. Jak robili kwarantannę to tak, że domownicy mogli bez przeszkód wychodzić, więc roznosili tego wirusa szybciej niż Kaczyński się moczy na myśl, że właaaadza właaaadza będzie ciągle w jego rękach.
+
+Na cholerę nam Twoja władza, jak zaraz wszystko może pójść z dymem?
+
+Patrzcie na Merkelową, patrzcie na premiera Włoch i Francji na polityków, którzy, jak to politycy, masę w życiu zrobili złego, czasami nawet bardzo złego. Ale patrzcie, jak działają w obliczu katastrofy, jak rozumieją, bo ktoś im do łba wbił, nie wiem, może społeczeństwo, że teraz nie czas jest na gierki. Teraz jest czas na służbę.
+
+A teraz patrzcie na Kaczyńskiego, który, gdy ludzie cali przestraszeni o własną przyszłość i ze łzami w oczach, wynurza się i mówi, ale o co Wam wszystkim chodzi, przecież można iść normalnie do sklepu, nie przesadzajcie. Wszystko działa. Robimy wybory. Facet, którego od 20 lat partia-matka wozi, karmi i przewija, w momencie tsunami gospodarczego, zamkniętych granic, walącego się biznesu i świata pracy, wojska na ulicach, bredzi coś o konstytucji, którą na oczach milionów podcierał się non stop przez ostatnie lata. I tylko knuje, knuje, jak kogo oszwindlić bez względu na cenę życia ludzkiego. Jak bardzo trzeba gardzić własnym narodem, jak bardzo trzeba mieć życie tych wszystkich listonoszy, seniorów kompletnie w rzyci. Odjedź, starcze, uwolnij ten kraj od siebie, bo zaraz przez Ciebie trupy będziemy tu liczyć w tysiącach.
+
+A za nim ciągnie, niczym muchy do gówna, cała ta zgraja politycznych przydupasów, dla których najważniejsze jest by ze stołu pańskiego coś spadło i by się mogli nażreć. Bo w życiu czymś pożytecznym się nie zajmowali.
+
+I żaden się nie sprzeciwi, żaden. Każdy kilo w majtkach i przestraszony. A teraz wyobraźcie sobie tych wszystkich przydupasów, jak przychodzi do nich Gestapo albo NKWD? Jak oni się jednemu Kaczyńskiemu boją w oczywistej sprawie postawić. Gdzie Wam to tych wszystkich powstańców, gdzie Wam do tych wszystkich wyklętych, zgrajo kundli z podwiniętym ogonem. Wszystko, co potraficie to tylko merdać i aportować.
+
+Mają przykład Czech z maseczkami. To biorą przykład wyborczy z Bawarii. Z tej Bawarii, która od 60 lat ma korespondencyjne wybory. Wcześniej z tej Bawarii podobno mieli ściągać jakieś reparacje, a skończyło się tak, że Saksonia robi testy Polakom z Dolnego Śląska. Tak, Niemcy oprócz siebie, testują także Polaków. Bo w Polsce testów przez tygodnie nie było, a połowę ich robi prywatna spółka na uniwersyteckim sprzęcie, gdyż tak Szumowski był przygotowany, gdy ze stoku cały uśmiechnięty zjeżdżał i śmiał się, że grypa jest groźniejsza.
+
+A teraz cały w strachu boi się nawet mruknąć, że szaleniec u władzy powinien se wybory odpuścić i wreszcie zająć się społeczeństwem, które przerażone o własnej jutro.
+
+Wiecie, co powiedział Pinkas – Główny Inspektor Sanitarny w kraju, na komisji senackiej, gdy go senatorka w LUTYM spytała o epidemie w Chinach: Żeby se pograła w Chińczyka. W Chińczyka, hehe, rozumiecie, w Chińczyka!
+
+Biorą przykład z Bawarii, ale oczywiście nie ten o tym, jak pieniądze obywatelom teraz dawać, bo jeśli lada moment kilka milionów ludzi nie będzie miało pieniędzy, to co do garnka włożą? Cała Europa robi wszystko, by przelać jak najwięcej kasy. Cała. Nawet USA neoliberała Trumpa to samo. Tylko Polska mówi, ojdobrze przesuniemy Wam ZUS. Albo może nawet zwiesimy, ale tylko jak udokumentujecie straty powyżej 50%. Jaki ZUS, jaki ZUS, jak z dnia nadzień idą zwolnienia po kilkaset osób na zakład.
+
+Pięć lat pierdolili, pięć lat o kraju mlekiem i miodem płynącym. Pięć lat, o najlepszych wynikach, o budżecie bez deficytu. I się, za przeproszeniem, zesrali już w pierwszym miesiącu tąpnięcia. Ile osób ma zemrzeć z braku kasy na leki, ile osób ma się zapożyczyć u mafii lichwiarskiej? Ile ma być samobójstw, żeby do Waszego pustego łba dotarło, że teraz jest czas na pomoc? Nie wiem, nazwijcie se je matkoboskowe, jarkowe, 1000+,ale teraz jest czas na bezpośrednią pomoc finansową dla każdego obywatela. Na duży deficyt i przelewanie kasy bezpośrednio na konto. Już nawet neoliberalny Financial Times o tym pisze.
+
+Nie ja, nie my, ale historia was oceni. Tak jak oceniła Smoleńsk, mimo setek pomników, jako jeden wielki polaczkowy rozpierdolnik, aż sami musieliście ze wstydu pochować te wszystkie dojne komisje. Bo ludzie już wiedzą, co tam się stało. Nawet Wasi wyborcy wiedzą, więc taktycznie milczą. Tak samo historia oceni to, jak się zachowaliście w trakcie narodowego dramatu. I Wy już to wiecie. Dlatego tak panicznie boicie się wyborów za rok. Bo wtedy wyjdzie, jak koszmarnie daliście dupy i żaden Kurski tego nie przykryje.
+
+Jesteście hańbą, największą hańbą rządów po 1989 roku. Jeszcze żaden rząd tak kompletnie nie odwrócił się od społeczeństwa w tak krytycznym momencie. I to tylko po to by się nażreć i nażreć władzy.
+
 ### 1950
 
 Odbył się próbny lot pierwszego polskiego śmigłowca BŻ -1 GIL.
