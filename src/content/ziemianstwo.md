@@ -22,6 +22,10 @@ Księżna Helena Jabłonowska z Reyów
 
 * Arystokracja, Miller Marek
 
+* Miałam szczęśliwe życie, Branicka-Wolska Anna
+
+* Żurakowska - Skarby, Pożegnanie domu
+
 ### Linki
 
 http://www.ziemianie.org.pl/dziedzictwo/tradycja-i-historia/

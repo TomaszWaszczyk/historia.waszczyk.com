@@ -23,6 +23,10 @@ Już od dłuższego czasu widać coraz bardziej aktywny kapitał chiński na ter
 
 ---
 
+Na aukcji obligacji i bonów skarbowych rząd polski(?) chciał sprzedać papiery wartościowe za 7mld PLN, jednak strona popytowa pozwoliła skupić jedynie 5mld PLN. Co to oznacza? Oznacza to to, że kapitał instytucjonalny nie jest zainteresowany skupowaniem polskich papierów, to rzadkie wydarzenie oznaczające, że w oczach inwestorów Polska nie jest dobrym miejscem do lokowania kapitału.
+
+---
+
 <img src="./img/april/cnbccovid.png"/><br><br>
 
 Media masowego przekazu sugerują scenariusz V.

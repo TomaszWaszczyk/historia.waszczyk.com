@@ -66,6 +66,10 @@ https://pl.wikipedia.org/wiki/Carl_von_Clausewitz
 
 https://pl.wikipedia.org/wiki/Erich_von_Manstein
 
+### Żydzi, jude, Jewish
+
+https://pl.wikipedia.org/wiki/Sefardyjczycy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
