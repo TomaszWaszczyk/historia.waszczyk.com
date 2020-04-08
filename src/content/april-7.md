@@ -96,6 +96,69 @@ Na tym pamiętnik się urywa...
 
 <img src="./img/april/adamsolski.jpg"/><br><br>
 
+### 1952
+
+Prezydent Rzeczypospolitej Polskiej Bolesław Bierut tak pisał w liście do Józefa Stalina:
+"Towarzysze, niemal codziennie z zachwytem
+podziwiamy najwspanialszy prezent, jaki
+dostaliśmy od przyjaciół Rosjan. Tak, tak to
+Pałac Kultury i Nauki - symbol PRL-u i perła
+stolicy. Partia rozpoczyna akcję edukacyjno -
+propagandową , mającą przybliżyć obywatelom
+czasy, w których to socjalizm triumfował nad
+karłami reakcji. A cóż innego lepiej symbolizuje
+radziecką potęgę niż Pałac Kultury."
+
+<img src="./img/april/bierut.jpg"/><br><br>
+
+### 1950
+
+W Londynie w wieku 49 lat zmarł na zawał serca Anatol Krakowiecki (zdjęcie) pisarz, dziennikarz więzień sowieckich obozów.
+Pochodził z Podgórza w województwie małopolskim. W wieku 17 lat zgłosił się na ochotnika do Wojska Polskiego. W okresie drugiej Rzeczpospolitej pracował jako dziennikarz Ilustrowanego Kuryera Codziennego. Współpracował z kabaretami i teatrzykami rewiowymi oraz czasopismami podróżniczo-geograficznymi.
+Znaczący wpływ na jego dalsze losy miała sowiecka agresja na Polskę w dniu 17 września 1939. Trzy tygodnie po wkroczeniu Sowietów podjął próbę przekroczenia granicy polsko-węgierskiej. Został aresztowany przez NKWD 7 października 1939 roku. Został wywieziony do obozu na Kołymie, z którego na mocy zawartego w lipcu 1941 roku polsko-radzieckiego układu Sikorski-Majski wyszedł na wolność 12 kwietnia 1942 roku. Po tym okresie podjął służbę w tworzonych na terenie Związku Radzieckiego Polskich Siłach Zbrojnych na Wschodzie pod dowództwem generała Władysława Andersa. Z formacją tą, jako propagandysta przeszedł cały szlak bojowy. W roku 1946 zamieszkał w Wielkiej Brytanii.
+Był autorem wielu książek, utworów scenicznych i poezji lirycznej. Jego najsłynniejszym dziełem jest wydana w roku 1950 "Książka o Kołymie", w której spisał swoje doświadczenia z czasów zsyłki.
+Tak w niej między innymi pisał:
+
+"Pakują do wagonu trzydziestu sześciu ludzi. Jednego, Więckowiaka, byłego komendanta posterunku policji musimy wnieść. Ma opuchnięte nogi – cały jest opuchnięty.
+
+W wagonie stoi wmontowany piecyk. Na ten piecyk z nadzieją kierują się uradowane oczy (nie tylko dlatego, że będzie ciepło…).
+
+W naszym wagonie jest tylko kilku skazanych. Reszta, to więźniowie „śledczy”. My już uważamy się za załatwionych, oni będą tułać się od więzienia do więzienia, od śledztwa do śledztwa w poszukiwaniu wyroku. W innych krajach przestępcę wiezie się na miejsce przestępstwa, ażeby łatwiej było przeprowadzić śledztwo. Tutaj „przestępcę” wywozi się z „miejsca przestępstwa” – też żeby było łatwiej przeprowadzić śledztwo. Bodaj czy nie jesteśmy od nich szczęśliwsi, my „skazani”. Chyba tak? Nasze oczy skazańców szukają luk, wypatrują szpar, rozglądają się gorączkowo dookoła.
+
+– Uciekać!
+
+Oto jest myśl, która przeszywa większość umysłów. Tutaj jako sprzymierzeńcy dołączają się przestępcy kryminalni, których ?świat” odnosił się do nas kilka godzin temu tak wrogo. (…)
+
+Nie wiem – skąd wzięło się to żelazo? Wiele takich tajemnic otaczać mnie będzie w przyszłości. Dość, że żelazo jest! Na podłodze, pod dolnymi narami, leży młody człowiek. Inny młody człowiek trzyma żelazo w piecyku. Żelazo jest wreszcie rozpalone, czerwone, sypie iskry, potem wędruje pod nary. Za chwilę słychać syk i dym unosi się w powietrze. Teraz trzeba czekać aż dym się rozpłynie, dopiero wówczas żelazo można powtórnie zagłębić w podłogę wagonu.
+
+A tu pociąg stuka na zwrotnicach i może zatrzymać się? Zaś foszty drewniane, stanowiące podłogę wagonu, są bardzo grube. Ciężka, mozolna i niebezpieczna praca! W wagonie nie ma chyba nikogo, kto nie zdawałby sobie sprawy z tego, co się dzieje. Są jednak tacy, którzy nie chcą widzieć, nie chcą słyszeć. Zaczynają ostrożnie szemrać, że ?dym gryzie w oczy” ? i od tego momentu nabrzmiewa protest. (…)
+
+<img src="./img/april/krakowiecki.jpg"/><br><br>
+
+---
+
+Sąd w Warszawie wydał wyrok kary śmierci na Stanisława Skalskiego. Skalski był największym asem myśliwskim polskiego lotnictwa. Na swoim koncie miał udział w prawie wszystkich bitwach lotniczych, w których brali udział Polacy. Oficjalnie zestrzelił 18 niemieckich samolotów. Po wojnie przebywał na emigracji, ale w 1947 roku wrócił do Polski. 4 czerwca 1948 roku został aresztowany przez UB. Zarzucono mu szpiegostwo na szkodę Polski. Wydaną na niego karę śmierci zamieniono 1951 roku na dożywocie, a w 1956 roku uniewinniono go. Zmarł 12 listopada 2004 roku w wieku 89 lat.
+
+<img src="./img/april/skalski.jpg"/><br><br>
+
+### 1943
+
+Powstała Polska Armia Ludowa ( nie mylić z Armią Ludową). Była to lewicowa organizacja zbrojna o charakterze konspiracyjnym licząca kilka tysięcy żołnierzy. W jej skład wchodziła Milicja Ludowa i ta część Korpusu Ochrony Pogranicza, która nie podporządkowała się Armii Krajowej.
+PAL działała głównie w Warszawie i
+województwie warszawskim oraz w Lublinie
+i województwach lubelskim, łódzkim i
+kieleckim. Jej działalność koncentrowała
+się głównie na sabotażu kolejowym i
+propagandzie. Została rozwiązana w 1945 roku.
+
+<img src="./img/april/polskaarmialudowa.jpg"/><br><br>
+
+### 1938
+
+Ówczesny Sejm RP przyjął Ustawę o ochronie Imienia Józefa Piłsudskiego. Dokument ten powstał bardzo szybko, bo prace nad nim rozpoczęły się już 17 lutego 1938 roku. Ustawa była nie tylko wyrazem kultu zmarłego marszałka, ale przede wszystkim rodzajem cenzury zapobiegającej próbom szkalowania jego imienia.
+
+<img src="./img/april/pilsudski2.jpg"/><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2012
+
+https://en.wikipedia.org/wiki/Cicada_3301
+
 ### 2010
 
 W wieku 92 lat zmarł generał Tadusz Edward Góra (zdjęcie)-legendarny pilot RAF i szybownik.

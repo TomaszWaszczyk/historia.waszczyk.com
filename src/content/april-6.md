@@ -81,4 +81,70 @@ tysięcy zabrał strach."
 
 ---
 
+Historia się powtarza. Ludzie, pod wpływem fałszywej nauki wtłaczanej im w szkołach myślą, że Republika Weimarska (państwo niemieckie powstałe po I wojnie światowej) oraz III Rzesza to 2 osobne byty. Z prawnego punktu widzenia było to dokładnie to samo państwo demokratyczne o nazwie Deutsches Reich (Rzesza Niemiecka). Wszystkie działania Hitlera były prawnie umocowane w konstytucji oraz innych prawach. Jak więc nastąpiło to przejście do totalitaryzmu? W nocy z 27 na 28 lutego 1933 został podpalony Reichstag. W odpowiedzi na poczucie zagrożenia u Niemców prezydent Hindenburg wprowadził dekret "o ochronie narodu i państwa", który wprowadził stan wyjątkowy. Ten stan wyjątkowy, sukcesywnie przedłużany do 1945, dał Hitlerowi podstawy do likwidacji wszelkich przejawów wolności w Niemczech.
+
+Można się zastanawiać jak doszło do tego, że, w imię obrony przed urojonym zagrożeniem naród Niemiecki zgodził się na oddanie wszystkich swoich wolności. Jeśli ktoś tego nie rozumie - dokładnie ta sama historia powtarza się dziś w Polsce. W imię walki z koronawirusem Polacy ochoczo godzą się na oddanie swojej podstawowej wolności i wprowadzanie państwa policyjnego. Każde wyjście z domu jest zagrożone mandatem wystawianym na podstawie arbitralnej decyzji napotkanych policjantów. Wysokość kar jest absurdalna, zwłaszcza w stosunku do zarobków. Powody jeszcze bardziej aburdalne - biegając po lesie w celu poprawy kondycji jesteśmy przestępcami. Staliśmy się więźniami własnych domostw. I, tak jak w III Rzeszy, funkcjonujemy w stanie wyjątkowym, w miarę potrzeb sukcesywnie i bez końca przedłużanym.
+
+Na zdjęciu płonący Reichstag.
+
+<img src="./img/april/reichstag.jpg"/><br><br>
+
+### 1990
+
+Na mocy ustawy podjętej przez rząd Tadeusza Mazowieckiego po 45 latach przestała istnieć Milicja Obywatelska. W jej miejsce powołano nową służbę o nazwie Policja Państwowa.
+
+### 1945
+
+Ministerstwo Bezpieczeństwa Publicznego powołało tzw. Centralne Obozy Pracy. Powstały one na terenach jenieckich obozów niemieckich. Obozy stworzono w Warszawie, Krzesimowie, Potulicach i Jaworznie. Trafiali do nich głównie Ukraińcy schwytani podczas akcji "Wisła".
+Na zdjęciu obóz pracy w Jaworznie.
+
+<img src="./img/april/obozy.jpg"/><br><br>
+
+### 1939
+
+W Londynie polski minister spraw zagranicznych Józef Beck (zdjęcie) podpisał układ, który miał być gwarancją bezpieczeństwa Polski i sojuszem na wypadek wojny z Niemcami. Układ ten stał się podstawą do głównego układu sojuszniczego, który podpisano 25 sierpnia 1939 roku, a który był odpowiedzią na pakt Ribbentrop- Mołotow.
+Układy polskie z Wielką Brytanią stały się dla Hitlera pretekstem do wypowiedzenia 28 kwietnia polsko-niemieckiego układu o nieagresji z 1934 roku.
+
+<img src="./img/april/beck.jpg"/><br><br>
+
+### 1917
+
+USA przystąpiły do I wojny światowej.
+
+I wojna światowa zdziesiątkowała Europę i pozostawiła po sobie głębokie blizny. Każdego roku we Francji archeolodzy wykopują broń, rzeczy osobiste oraz szczątki żołnierzy, którzy walczyli i zginęli na polu bitwy. Są wśród nich Francuzi, Brytyjczycy, Niemcy, ale także Amerykanie, którzy przybyli do Francji w latach 1917-1918, by walczyć ramię w ramię z aliantami. Te wszystkie wykopaliska rzucają nowe światło na mało znany rozdział historii. Dlaczego Amerykanie zdecydowali się przekroczyć Atlantyk i walczyć przeciwko Niemcom? I w jaki sposób USA ukształtowało swą własną przyszłość poprzez włączenie się w ten konflikt?
+
+W 1917 roku francuskie i angielskie oddziały od trzech lat grzęzły w okopach, wyczerpane i dręczone głodem. Ich sytuacja pogarszała się z każdym miesiącem. Wojna z perspektywy frontu zachodniego wydawała się nie mieć końca, a morale żołnierzy dawno osłabło. Wtedy jednak pojawił się cień szansy na to, że historia tego okrutnego konfliktu może się zmienić niemalże z dnia na dzień – Ameryka przystąpiła do wojny.
+
+Żołnierze amerykańscy, wyruszając za ocean myśleli, że będzie to wielka, ale krótka przygoda. Wkrótce jednak przekonali się, że walki na zachodnim froncie niosą za sobą cierpienie, ból i masową rzeź, bez konkretnej perspektywy zwycięstwa. Badania szczątków żołnierzy niemieckich odnalezione na cmentarzu w miejscowości Boult-sur-Suippe we Francji potwierdzają, że działania zbrojne w tamtym okresie były bardzo brutalne.
+
+Co skłoniło Prezydenta Stanów Zjednoczonych Woodrowa Wilsona, by wysłać rzesze rodaków na śmierć, choć początkowo sprzeciwiał się udziałowi USA w konflikcie? 7 maja 1915 roku luksusowy transatlantyk Lusitania z ponad 2 tys. pasażerów na pokładzie, w tym Amerykanami, został storpedowany przez niemieckiego U-boota. Rok później na wyspie Black Tom w Jersey City w Stanach Zjednoczonych doszło do eksplozji, która, jak ustalił wywiad, była efektem ataku terrorystycznego, przeprowadzonego przez niemieckich agentów. Po wprowadzeniu przez Niemcy tzw. nieograniczonej wojny podwodnej, polegającej na zatapianiu wszystkich obcych jednostek znajdujących się na ich wodach oraz przechwyceniu przez Brytyjczyków zaszyfrowanego telegramu, w którym Niemcy proponowały Meksykowi sojusz przeciw Stanom Zjednoczonym, cierpliwość Wilsona i amerykańskiej opinii publicznej się skończyła. 
+
+Armia amerykańska była mała i niedoświadczona, należało więc zasilić jej szeregi nowymi rekrutami. Jednak niewielu obywateli amerykańskich chciało dobrowolnie iść na wojnę. Nie pomogła nawet szeroko zakrojona kampania. W końcu na skutek wydanego przez prezydenta aktu, setki tysięcy żołnierzy zostało zwerbowanych do wojska i wyruszyło do Francji, by wesprzeć aliantów. Doświadczyli najgorszego. W ciągu zaledwie siedmiu miesięcy 53 tys. z nich zginęło, 234 tys. zostało rannych, a 4,5 tys. zaginęło.
+
+Bez udziału Amerykanów I wojna światowa mogła zakończyć się zupełnie inaczej. Oni okazali się być niekwestionowanymi rzemieślnikami zwycięstwa sił alianckich i podnieśli swój kraj do rangi wiodącej siły militarnej i gospodarczej.
+
+<img src="./img/april/usa.jpg"/><br><br>
+
+### 1807
+
+Powstała Legia Polsko-Włoska. Składała się ona z polskich jeńców służących w armii pruskiej,którzy trafili do francuskiej niewoli w 1806 roku. W jej skład weszli również żołnierze, którzy służyli jeszcze w stworzonych wcześniej Legionach Polskich we Włoszech. Legia składała się z 3 pułków piechoty i 1 jazdy pod ogólnym dowództwem gen. Józefa Grabińskiego. Licząca ok. 7 000 ludzi jednostka została 31 marca 1808r. przeformowana w Legię Nadwiślańską na żołdzie francuskim i wysłana za Pireneje na toczącą się tam eojnę z Hiszpanią i Portugalią, zaś gen. Grabiński zrezygnował z dowództwa.
+W dekrecie napoleońskim czytamy:
+" My Napoleon, cesarz Francuzów postanowiliśmy i stanowimy co następuje:
+
+- Utworzony będzie pułk polskich lansjerów (...)
+utrzymywany będzie ze skarbu cesarskiego i ma składać się z 4 szwadronów po 300 ludzi (...) łącznie 1200 lansjerów,
+- Legia Polska piesza również płatna ze skarbu
+cesarskiego, będzie podniesiona do 6 batalionów w trzech pułkach po 9 kompanii w batalionie i po 150 ludzi w kompanii, łącznie 8100 ludzi i 100 w sztabie,
+- Obie polskie formacje mają być skoncentrowane z zakładami we Wrocławiu pod kontrolą i nadzorem
+ks. Hieronima (...),
+- Dyrektor wojny w Warszawie (...) skieruje do
+Wrocławia dla skompletowania tych pułków rekrutów z Polski (...) oraz przyśle do ks.
+Hieronima listę nazwisk oficerów dla tej nowej
+formacji uwzględniając na niej tych Polaków, którzy dawniej służyli w Legiach Włoskich i Naddunajskiej
+(...)”.
+
+<img src="./img/april/legiapolsowloska.jpg"/><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

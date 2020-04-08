@@ -118,6 +118,10 @@ Michael Casey, co-author of the 2018 book "The Truth Machine: The Blockchain and
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
+### 2012
+
+https://liberprimus.org/
+
 ### 2009
 
 > The desirable goal of reforming the international monetary system is to create an internation reserve currency that is disconnected from individual nations and is able to remain stable in the long run, thus removing the inherent deficiencies caused by using credit-based national currencies. - Dr Zhou Xiaochuan, Governor of the Poeple's Bank of China
@@ -159,6 +163,10 @@ Nick Szabo’s 1994 article “Formalizing and securing relationships on public 
 ### 1983
 
 https://pl.wikipedia.org/wiki/Costco
+
+### 1984
+
+https://en.wikipedia.org/wiki/Cyberpunk
 
 ### 1982
 

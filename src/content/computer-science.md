@@ -21,6 +21,10 @@ FORTRAN II
 
 ---
 
+https://en.wikipedia.org/wiki/Cyberpunk
+
+https://liberprimus.org/ 3301 https://en.wikipedia.org/wiki/Cicada_3301
+
 https://en.wikipedia.org/wiki/Wardley_map
 
 https://en.wikipedia.org/wiki/David_Chaum
