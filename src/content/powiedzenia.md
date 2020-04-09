@@ -2682,6 +2682,10 @@ Coś do powiedzenia będziemy mieli dopiero wtedy kiedy zrozumiemy, że nie mamy
 
 https://www.azquotes.com/author/23858-Samuel_Hahnemann
 
+Niemoc rodzi przemoc.
+
+Ofiarą wojny jest na pierwszym miejscu prawda.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

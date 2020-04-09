@@ -30,6 +30,10 @@ Zagłuszanie RWE prowadzono poza granicami Polski. Główne zagłuszarki o mocy 
 Podobnych sprytnych modyfikacji było do roku 1988 jeszcze bardzo dużo.
 Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
+### 1967
+
+https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik
+
 ### 1941
 
 1941 roku w Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
@@ -227,6 +231,10 @@ Zmarł 2 października 2009 roku w Warszawie.
 ### 1918
 
 https://en.wikipedia.org/wiki/Hyperinflation
+
+### 1915
+
+https://pl.wikipedia.org/wiki/J%C3%B3zef_%C5%9Awiat%C5%82o
 
 ### 1860
 

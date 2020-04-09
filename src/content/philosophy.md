@@ -9,6 +9,8 @@ tags:
   - Filozofia
 ---
 
+Stoicyzm
+
 <https://pl.wikipedia.org/wiki/Si_vis_pacem,_para_bellum>
 
 <https://www.princeton.edu/~achaney/tmve/wiki100k/docs/Brainwashing.html>

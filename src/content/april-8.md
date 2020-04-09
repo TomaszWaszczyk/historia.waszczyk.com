@@ -11,7 +11,7 @@ draft: false
 
 ### 2020
 
-RPP zaskoczyła i obniżyła stopy. Raty kredytów będą mniejsze.
+RPP "zaskoczyła" i obniżyła stopy. Raty kredytów będą mniejsze.
 
 Wbrew przewidywaniom ekonomistów, Rada Polityki Pieniężnej podczas środowego posiedzenia obniżyła stopy procentowe. Główna stopa referencyjna została obniżona z 1,0 proc. do 0,5 proc.
 
@@ -21,7 +21,7 @@ Bełkot:
 > Taki ruch ze strony RPP ma z jednej strony ulżyć kredytobiorcom w trudnym czasie epidemii koronawirusa. Z drugiej, tani kredyt ma stymulować konsumentów i firmy do wydawania pieniędzy i inwestowania, co pobudziłoby gospodarkę do wzrostu.
 > Trzy tygodnie temu, 17 marca, Rada Polityki Pieniężnej (RPP) ogłosiła obniżki stóp procentowych - pierwszy raz po pięciu latach przerwy. Główna stawka w banku centralnym spadła wtedy z 1,5 do 1 proc.
 
-Czekamy na negatywne stopy procentowe.
+Czekamy na negatywne stopy procentowe oraz prawdopodobnie problemy z płynnością niektórych banków.
 
 ---
 
