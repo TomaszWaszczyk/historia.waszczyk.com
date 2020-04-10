@@ -120,6 +120,10 @@ Distinguished Flying Cross (październik 1941 oraz wrzesień 1942).
 
 <img src="./img/january/zumbach.jpg"/><br><br>
 
+### 1946
+
+<img src="./img/january/gospodarkanarodowa.png"/><br><br>
+
 ### 1925
 
 Benito Mussolini rozwiązał włoski parlament i ogłosił się dyktatorem.
