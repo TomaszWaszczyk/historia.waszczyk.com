@@ -1,13 +1,26 @@
 ---
 layout: post
 title: 11 kwietnia
-image: img/april/Executive_Order_6102.jpg
+image: img/april/recession.jpeg
 author: Tomasz Waszczyk
 date: 2018-04-11T10:00:00.000Z
 tags:
   - Historia
 draft: false
 ---
+
+### 2020
+
+The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs.
+
+The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.
+
+---
+
+<video width="640" height="480" controls>
+  <source src="./movies/april/yesminister.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2016
 

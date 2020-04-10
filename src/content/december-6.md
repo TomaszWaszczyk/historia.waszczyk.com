@@ -8,6 +8,10 @@ tags:
   - Olszewski
 ---
 
+### 2018
+
+<img src="./img/december/tax.png"/><br><br>
+
 ### 1991
 
 Premierem rządu RP został Jan Olszewski (zdjęcie). Funkcję tę objął po Janie Krzysztofie Bieleckim. Wotum zaufania jego gabinetowi Sejm udzielił 23 grudnia 1991 roku.
