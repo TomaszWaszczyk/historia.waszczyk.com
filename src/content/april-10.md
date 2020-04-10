@@ -10,7 +10,21 @@ tags:
 
 ### 2020
 
+#### Z tarczy antykryzysowej zniknęły kontrowersyjne przepisy
+
+Z rządowego projektu nieoczekiwanie zniknęły przepisy krytykowane przez ekspertów i opozycję. Rozszerzenie zwolnień ze składek ZUS i nowy zasiłek dla rolników w kwarantannie – to najważniejsze założenia nowej tarczy antykryzysowej, którą w środę zajmował się Sejm. Projekt rządowy powstawał w błyskawicznym tempie. Resorty swoje uwagi zgłaszały w weekend, a do parlamentu dokument trafił we wtorek. I zaszły w nim znaczące zmiany. Wyparowały albo znacząco zmieniły się przepisy krytykowane jako groźne dla swobód obywatelskich.
+
+Jednym z kontrowersyjnych pomysłów, które pojawiły się na etapie prac w rządzie, było upowszechnienie przesyłek pocztowych hybrydowych. Już w niedzielę „Rzeczpospolita” alarmowała, że Poczta Polska miałaby otwierać, skanować i wysyłać w formie elektronicznej listy bez zgody adresata. Z projektu wynikało, że miałoby to miejsce m.in. w przypadku przesyłek w postępowaniach administracyjnych, gdzie od daty doręczenia biegną terminy. Z kolei w przypadku m.in. postępowań egzekucyjnych, karnych i karnoskarbowych zgodę na skanowanie listów miałby wyrażać nie adresat, lecz sąd.
+
+---
+
 <img src="./img/april/police_art.jpg"/><br><br>
+
+---
+
+<img src="./img/april/2trillion.jpg"/><br><br>
+
+---
 
 Things to know.
 

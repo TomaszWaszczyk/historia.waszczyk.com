@@ -8,6 +8,54 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### Herbert Zbigniew - Potęga smaku
+
+Pani Profesor Izydorze Dąmbskiej
+Potęga smaku
+
+To wcale nie wymagało wielkiego charakteru
+nasza odmowa niezgoda i upór
+mieliśmy odrobinę koniecznej odwagi
+lecz w gruncie rzeczy była to sprawa smaku
+Tak smaku
+w którym są włókna duszy i cząstki sumienia
+
+Kto wie gdyby nas lepiej i piękniej kuszono
+słano kobiety różowe płaskie jak opłatek
+lub fantastyczne twory z obrazów Hieronima Boscha
+lecz piekło w tym czasie było jakie
+mokrt dół zaułek morderców barak
+nazwany pałacem sprawiedliwości
+samogonny Mefisto w leninowskiej kurtce
+posyłał w teren wnuczęta Aurory
+chłopców o twarzach ziemniaczanych
+bardzo brzydkie dziewczyny o czerwonych rękach
+
+Zaiste ich retoryka była aż nazbyt parciana
+(Marek Tulliusz obracał się w grobie)
+łańcuchy tautologii parę pojęć jak cepy
+
+dialektyka oprawców żadnej dystynkcji w rozumowaniu
+składnia pozbawiona urody koniunktiwu
+
+Tak więc estetyka może być pomocna w życiu
+nie należy zaniedbywać nauki o pięknie
+
+Zanim zgłosimy akces trzeba pilnie badać
+kształt architektury rytm bębnów i piszczałek
+kolory oficjalne nikczemny rytuał pogrzebów
+
+Nasze oczy i uszy odmówiły posłuchu
+książęta naszych zmysłów wybrały dumne wygnanie
+
+To wcale nie wymagało wielkiego charakteru
+mieliśmy odrobinę niezbędnej odwagi
+lecz w gruncie rzeczy była to sprawa smaku
+Tak smaku
+który każe wyjść skrzywić się wycedzić szyderstwo
+choćby za to miał spaść bezcenny kapitel ciała
+głowa
+
 ### C.K. Norwid
 
 “Ogromne wojska i bitne generały
@@ -231,3 +279,7 @@ Kiedy ostatnio bliskich widziałeś,
 Na dwa tygodnie bana im dałeś. 
 A kiedy wszystko wróci do normy, 
 Ty znów spierdolisz, spakujesz torby.." -->
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>

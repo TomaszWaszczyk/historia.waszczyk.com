@@ -2688,6 +2688,10 @@ Ofiarą wojny jest na pierwszym miejscu prawda.
 
 The wise man is neither raised up by prosperity nor cast down by adversity; for always he has striven to rely predominantly on himself, and to derive all joy from himself. - Seneca
 
+Człowiek zachodu jest wypełniony dokońca wyłącznie samym sobą. Benedykt XVI
+
+https://pl.wikiquote.org/wiki/Krzysztof_Habich
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
