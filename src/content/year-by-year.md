@@ -22,6 +22,10 @@ https://pl.wikipedia.org/wiki/Problem_roku_2038
 
 Agenda 2030: https://en.wikipedia.org/wiki/Sustainable_Development_Goals
 
+The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs.
+
+The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???
