@@ -67,6 +67,10 @@ Na terenie całej Polski został wprowadzony stan wojenny. Oto treść zarządze
 
 ---
 
+Za komuny Jaroszewicz na Westerplatte jechał jedną delegacją a Gierek drugą delegacją. Kaczyński jedną, Tusk drugą.
+
+---
+
 ![Sojusznicy](./img/september/gerstenberg.png)
 
 Sojusznicy? Attache wojskowy Ambasady Niemiec w Polsce ppłk. von Gerstenberg (drugi z lewej) w asyście polskich wojskowych na tle Grobu Nieznanego Żołnierza, 17 kwietnia 1938 r. Zdjęcie ze stron Wrzesień 1939.

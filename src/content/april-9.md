@@ -36,6 +36,10 @@ Ministerstwo Rozwoju pracuje nad projektem krajowej karty płatniczej. Wiceminis
 
 <img src="./img/april/scam.png"/><br><br>
 
+### 1945
+
+Dietrich Boenhoeffer, Admiral Canaris and others got killed by the Nazis in a six hours long matrydom. They died in their imperturbable believe in freedom as the highest value. The German constitution has been built on their principles.
+
 ### 1942
 
 W Biuletynie Informacyjnym ukazało się wezwanie Delegatury Rządu RP na Kraj "Do polskich robotników miarodajnych"

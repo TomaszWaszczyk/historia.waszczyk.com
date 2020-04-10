@@ -2686,6 +2686,8 @@ Niemoc rodzi przemoc.
 
 Ofiarą wojny jest na pierwszym miejscu prawda.
 
+The wise man is neither raised up by prosperity nor cast down by adversity; for always he has striven to rely predominantly on himself, and to derive all joy from himself. - Seneca
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
