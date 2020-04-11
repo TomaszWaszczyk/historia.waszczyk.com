@@ -22,6 +22,8 @@ The megatrend of the 2020s will be (in addition to broad adoption of the above) 
 Your browser does not support the video tag.
 </video>
 
+---
+
 ### 2016
 
 #### Volk und Wahrheit
