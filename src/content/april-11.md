@@ -3,9 +3,9 @@ layout: post
 title: 11 kwietnia
 image: img/april/recession.jpeg
 author: Tomasz Waszczyk
-date: 2018-04-11T10:00:00.000Z
+date: 2019-04-11T10:00:00.000Z
 tags:
-  - Historia
+  - Cryptography
 draft: false
 ---
 
@@ -54,7 +54,17 @@ Das ist auch eine Erklärung dafür, wie es sein kann, dass seit zwanzig Jahren 
 
 Niemand steht auf und sagt: Ich bin Faschist. Offensichtlich stimmt da was nicht. Sind Recep Tayyip Erdogan, Angela Merkel und Wladimir Putin gleichermaßen Demokraten? Ist Donald Trump ein Demokrat, weil er sich zur Wahl stellen will? Wahlen sind eben nur eine notwendige, keine hinreichende Bedingung der Demokratie.
 
-Und manchmal sind die Leute, die nach mehr Demokratie rufen, dieselben, die sie in Wahrheit zerstören wollen. 
+Und manchmal sind die Leute, die nach mehr Demokratie rufen, dieselben, die sie in Wahrheit zerstören wollen.
+
+### 1940
+
+Z rozkazu Hitlera nazwa miasta Łódź została zmieniona na Litzmannstadt. Uhonorowano i uczczono w ten sposób pamięć hitlerowskiego polityka i dowódcy walk o Łódź w czasie 1 wojny światowej Karla Litzmanna.
+
+<img src="./img/april/litzmannstadt.jpg"/><br><br>
+
+### 1939
+
+Adolf Hitler podpisał tzw plan "Fall Weiss". Była to strategia ataku na Polskę, która zakładała rozpoczęcie wojny bez jej wcześniejszego wypowiedzenia. ''Fall Weiss'' sprowadzał się do uderzenia na Polskę z trzech kierunków: główne uderzenie Wehrmachtu wzdłuż zachodniej granicy Polski, uderzenie z północy, a więc z terenu Prus Wschodnich i Pomorza oraz uderzenie z południa - z terenu zależnej od Niemiec Słowacji.
 
 ---
 
