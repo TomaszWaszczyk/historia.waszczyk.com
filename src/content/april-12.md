@@ -83,7 +83,7 @@ The first cooperative human space flight project between the United States and t
 
 Since 1993, the U.S. and Russia have worked together on a number of other space flight projects. The Space Shuttle began visiting the Russian Mir space station in 1994, and in 1995 Norm Thagard became the first U.S. astronaut to take up residency on Mir. Seven U.S. astronauts served with their Russian counterparts aboard the orbiting Mir laboratory from 1995 to 1998. The experience gained from the Mir cooperative effort, as well as lessons learned, paved the way for the International Space Station.
 
-In-orbit construction on the Station began in November 1998, and it has been staffed non-stop with international crews since November 2000. The first Station crew, made up of U.S. commander Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, was launched on board a Russian Soyuz spacecraft. The crew returned to Earth on the Space Shuttle Discovery in March 2001. 
+In-orbit construction on the Station began in November 1998, and it has been staffed non-stop with international crews since November 2000. The first Station crew, made up of U.S. commander Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, was launched on board a Russian Soyuz spacecraft. The crew returned to Earth on the Space Shuttle Discovery in March 2001.
 
 ---
 
