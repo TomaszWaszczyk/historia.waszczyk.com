@@ -56,6 +56,10 @@ Stacjonujący w Siedlcach garnizon rosyjski w sile 1000 ludzi pod dowództwem pu
 
 <img src="./img/february/wegrow.jpg"/><br>
 
+### 1826
+
+https://en.wikipedia.org/wiki/Walter_Bagehot
+
 ### 382
 
 Cesarz wschodniej części Imperium Rzymskiego Teodozjusz I Wielki osiedlił w Tracji Gotów jako sprzymierzeńców Rzymu (Foederati).

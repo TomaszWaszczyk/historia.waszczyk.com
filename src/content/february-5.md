@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2019
+
+<img src='./img/february/5g.png'><br><br>
+
 ### 1982
 
 W Świdniku odbyła się pierwsza z z tak zwanych " manifestacji spacerowych". Ta bardzo osobliwa forma protestu, polegająca na ostentacyjnym wychodzeniu z domu o godzinie 19.30 czyli w porze nadawania Dziennika Telewizyjnego była wyrazem dezaprobaty społcznej wobec poczynań komunistycznej propagandy telewizyjnej. W kolejnch dniach protest ten przybrał formę ogólokrajową.

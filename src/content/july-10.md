@@ -5,8 +5,12 @@ image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
 date: 2018-07-10T10:00:00.000Z
 tags:
-  - Source
+  - Germany
 ---
+
+### 1947
+
+https://en.wikipedia.org/wiki/Morgenthau_Plan
 
 ### 1943
 

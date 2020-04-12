@@ -293,6 +293,12 @@ https://en.wikipedia.org/wiki/Bancor
 
 https://en.wikipedia.org/wiki/Operation_Bernhard - próba wyparcia pieniądza!!
 
+### 1938
+
+<img src='./img/year-by-year/unemployed1938.png'><br><br>
+
+<img src='./img/year-by-year/unemployed1938_2.png'><br><br>
+
 ### 1937
 
 https://pl.wikipedia.org/wiki/Strajk_ch%C5%82opski_(1937)

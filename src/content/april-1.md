@@ -41,11 +41,7 @@ Ekonomiści zaznaczają, że „nieuchronne staje się wyraźne zwiększenie dł
 
 Dodają, że Polskę czeka zasadnicza nowelizacja ustawy budżetowej. „Trzeba jej dokonać po wnikliwym przeglądzie wszystkich wydatków budżetowych, aby ograniczyć poziom wydatków, które nie są w tym roku niezbędne. W szczególności na okres co najmniej 3 lat (2020-2022) trzeba zrezygnować z reguły przeznaczania na wydatki wojskowe 2 proc. PKB. Niezbędne będzie także zawieszenie na ten okres części sztywnych wydatków socjalnych (w szczególności dotyczy to 13. emerytury i ograniczenia wypłaty 500+ do poziomu sprzed jej rozszerzenia)” – tłumaczą.
 
-<!-- <object data="./documents/april/Alert-Gospodarczy-2-OEES.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./documents/april/Alert-Gospodarczy-2-OEES.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object> -->
+<a href="./documents/april/Alert-Gospodarczy-2-OEES.pdf" target="_blank">Alert gospodarczy</a>
 
 ---
 

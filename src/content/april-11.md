@@ -38,7 +38,7 @@ Macht ihn das verdächtig? Glaubt dieser EU-Politiker nicht an die Demokratie? "
 
 #### Mehr Wahlen sorgen nicht für mehr Gerechtigkeit
 
-Man kann Wagenknecht hier bei ihren Experimenten mit dem Populismus zusehen. Aber Vorsicht: 
+Man kann Wagenknecht hier bei ihren Experimenten mit dem Populismus zusehen. Aber Vorsicht:
 
 !!!
 
