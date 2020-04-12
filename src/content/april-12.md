@@ -71,6 +71,22 @@ Przygotowując zwłoki do kremacji Shalom Nagar nie wiedział, że u uduszonej o
 
 <img src="./img/april/eichmann.jpg"/><br><br>
 
+---
+
+<img src='./img/april/yurig_.jpg'><br><br>
+
+April 12 was already a huge day in space history twenty years before the launch of the first shuttle mission. On that day in 1961, Russian cosmonaut Yuri Gagarin (left, on the way to the launch pad) became the first human in space, making a 108-minute orbital flight in his Vostok 1 spacecraft. Newspapers like The Huntsville Times (right) trumpeted Gagarin's accomplishment.
+
+Mercury astronaut Alan Shepard became the first American in space less than a month later.
+
+The first cooperative human space flight project between the United States and the Soviet Union took place in 1975. The Apollo-Soyuz Test Project was designed to test the compatibility of rendezvous and docking systems for American and Soviet spacecraft and to open the way for future joint manned flights.
+
+Since 1993, the U.S. and Russia have worked together on a number of other space flight projects. The Space Shuttle began visiting the Russian Mir space station in 1994, and in 1995 Norm Thagard became the first U.S. astronaut to take up residency on Mir. Seven U.S. astronauts served with their Russian counterparts aboard the orbiting Mir laboratory from 1995 to 1998. The experience gained from the Mir cooperative effort, as well as lessons learned, paved the way for the International Space Station.
+
+In-orbit construction on the Station began in November 1998, and it has been staffed non-stop with international crews since November 2000. The first Station crew, made up of U.S. commander Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, was launched on board a Russian Soyuz spacecraft. The crew returned to Earth on the Space Shuttle Discovery in March 2001. 
+
+---
+
 ### 1861
 
 Rozpoczyna się ostrzał Fortu Sumter w Karolinie Południowej, pierwsze starcie inicjujące wojnę secesyjną.
