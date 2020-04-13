@@ -14,6 +14,15 @@ tags:
 
 A staggering $976.7B 3-week expansion in M2 money supply has brought its YoY growth rate to a record 14.57%, which has increased by 10.71pp in less than one year. This dramatic acceleration is unprecedented.
 
+---
+
+<video width="640" height="480" controls>
+  <source src="./movies/april/obywateliawceluratowaniabudzetu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 1951
 
 Ginie <https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Dziemieszkiewicz>
