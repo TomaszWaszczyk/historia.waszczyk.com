@@ -120,6 +120,8 @@ https://papers.ssrn.com
 
 https://www.gbl.waw.pl/
 
+http://www.skorupski.com/polski.php
+
 ### Sztuka
 
 https://zbiory.mnk.pl
