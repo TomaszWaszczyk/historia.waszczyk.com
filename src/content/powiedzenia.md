@@ -2692,6 +2692,9 @@ Człowiek zachodu jest wypełniony dokońca wyłącznie samym sobą. Benedykt XV
 
 https://pl.wikiquote.org/wiki/Krzysztof_Habich
 
+„Żeby głosić kłamstwo potrzeba systemu. Żeby głosić prawdę wystarczy jeden człowiek.”
+Kardynał Stefan Wyszynski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
