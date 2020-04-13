@@ -1,12 +1,18 @@
 ---
 layout: post
 title: 13 kwietnia
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/april/m2supply2020.jpg
 author: Tomasz Waszczyk
-date: 2018-04-13T10:00:00.000Z
+date: 2019-04-13T10:00:00.000Z
 tags:
-  - Historia
+  - M2 Supply
 ---
+
+### 2020
+
+<img src="./img/april/m2supply2020.jpg"><br><br>
+
+A staggering $976.7B 3-week expansion in M2 money supply has brought its YoY growth rate to a record 14.57%, which has increased by 10.71pp in less than one year. This dramatic acceleration is unprecedented.
 
 ### 1951
 

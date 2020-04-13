@@ -12,7 +12,7 @@ https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 
 https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska
 
-### Przedtawiciele
+### Przedstawiciele
 
 https://pl.wikipedia.org/wiki/Roman_Damian_Sanguszko
 
@@ -53,6 +53,22 @@ Historia ta jest bardzo pouczająca. Dowodzi tego, że polska kultura jest niezw
 formy polskiej państwowości zrobiły wiele, by do polskości zniechęcać. Wspieranie polskiej kultury przez II i III RP, nie mówiąc już o PRL-u, było nieskuteczne. Przygniatająca jest statystyka, ile niemieckich i francuskich rodzin spolonizowało się w wieku XIX, a ile w wieku XX.
 
 Dedykuję tę historię wszystkim tym, którzy sądzą, że wspieranie przez państwo kultury może spowodować, że coś dobrego narodzi się dla tej kultury.
+
+### Walczyli
+
+To jedynie garstka 🇵🇱️Wielkich Polaków🇵🇱 Bohaterów zamordowanych przez komunistyczne bestie..
+A dziś trwa walka trzeciego pokolenia UB z trzecim pokoleniem AK🇵🇱️
+Od lewej.
+
+🇵🇱️Rotmistrz Witold Pilecki - „Oświęcim przy nich to była igraszka"
+🇵🇱️Gen. August Emil Fieldorf "Nil" - „Pamiętaj, abyś nie prosiła ich o łaskę! zabraniam tego"
+🇵🇱️Łukasz Ciepliński "Pług" - „Odbiorą mi tylko życie. A to nie najważniejsze. Cieszę się, że będę zamordowany jako katolik za wiarę świętą, jako Polak za Polskę"
+🇵🇱Zygmunt Szendzielarz "Łupaszko" - Nie jesteśmy żadną bandą, tak jak nas nazywają zdrajcy i wyrodni synowie naszej ojczyzny. My jesteśmy z miast i wiosek polskich. My chcemy, by Polska była rządzona przez Polaków oddanych sprawie i wybranych przez cały Naród, a ludzi takich mamy, którzy i słowa głośno nie mogą powiedzieć, bo UB wraz z kliką oficerów sowieckich czuwa. Dlatego też wypowiedzieliśmy walkę na śmierć lub życie tym, którzy za pieniądze, ordery lub stanowiska z rąk sowieckich, mordują najlepszych Polaków domagających się wolności i sprawiedliwości.
+🇵🇱Danuta Siedzikówna "Inka" - "Powiedzcie mojej babci, że zachowałam się jak trzeba."
+🇵🇱Jan Rodowicz "Anoda"
+🇵🇱Stanisław Kasznica "Wąsowski"
+🇵🇱Romulad Rajs "Bury" - „Ja jestem Polak i katolik, a wy jesteście pieski stalinowskie!"
+🇵🇱Zdzisław Badocha "Żelazny"
 
 ---
 
