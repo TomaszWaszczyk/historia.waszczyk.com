@@ -1,16 +1,14 @@
 ---
 layout: post
 title: 15 kwietnia
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/april/chinacurrency.jpeg
 author: Tomasz Waszczyk
-date: 2018-04-15T10:00:00.000Z
+date: 2019-04-15T10:00:00.000Z
 tags:
-  - Historia
+  - Central Bank Digital Currency
 ---
 
 ### 2020
-
----
 
 After years of research China is trialing a test interface (a wallet) for the country's Central Bank Digital Currency (aka DC/EP).
 
