@@ -3,23 +3,27 @@ layout: post
 title: 14 kwietnia
 image: img/april/obligacje.png
 author: Tomasz Waszczyk
-date: 2018-04-14T10:00:00.000Z
+date: 2019-04-14T10:00:00.000Z
 tags:
-  - Historia
+  - Obligacje
 draft: false
 ---
 
 ### 2020
 
-The Financial Stability Board has just launched their consultations on global stablecoins.
+#### The Financial Stability Board has just launched their consultations on global stablecoins
 
 That's a very much needed initiative at the global policy level. Earlier this year I have had a great opportunity to meet with the FSB working group on stablecoins in Singapore, and now we all can see the first results of their hard work.
 
 ---
 
+Widzimy obligacje przedwojennie które nie zostały wykupione, aktualnie Polska również emituje obligacje reklamując je "pewnym zyskiem" w otoczeniu gdzie dług Państwa z roku na rok rocznie.
+
 <img src="./img/april/obligacje.png"><br><br>
 
-<img src="./img/april/obligacje2.png><br><br>
+<img src="./img/april/obligacje2.png"><br><br>
+
+<img src="./img/april/polishdebt.png"><br><br>
 
 https://tradingeconomics.com/poland/government-debt
 

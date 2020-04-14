@@ -16,6 +16,13 @@ Zaginął w tajemniczych okolicznościach z niedzieli na poniedziałek czyli z 2
 Śledztwo prowadzone przez milicję i Urząd Bezpieczeństwa było czystą fikcją. O dokonanie tej zbrodni oskarżono oddział partyzancki Żelaznego pod dowództwem Edwarda Badochy, brata Zdzisława Badochy, zamordowanego przez UB. Jednak słabe dowody zmusiły władze do odwołania tych oskarżeń.
 Po latach udało się ustalić, że sprawcami mordu na księdzu Szczepańskim byli dwaj funkcjonariusze Powiatowego Urzędu Bezpieczeństwa Publicznego w Lubartowie. Jeden z nich przyzał się do tego na łożu śmierci.
 
+### 1946
+
+Na fotografii Józef Bik- jednen z najlepiej znanych funkcjonariuszy komunistycznego aparatu bezpieczeństwa, oficer śledczy Urzędu Bezpieczeństwa, kierownik Wydziału Śledczego Wojewódzkiego Urzędu Bezpieczeństwa Publicznego w Gdańsku i Katowicach. Był jednym z dwóch ubeków, obok podpułkownika Jana Wołkowa, którzy znęcali się, a następnie w bezpośredni sposób przyczynili się do wydania wyroku śmierci na sanitariuszkę V Brygady Wileńskiej Armii Krajowej Danutę Siedzikównę ps "Inka".
+3 września 1946 roku (w dniu 18 urodzin "Inki") Józef Bik został oficerem śledczym Sekcji II Wydziału Śledczego w centrali Ministerstwie Bezpieczeństwa Publicznego w Warszawie. Do Warszawy jechał jako ceniony specjalista od „bandytyzmu”, odznaczony w ciągu jednego tylko roku (1946) Srebrnym Krzyżem Zasługi, Złotym Krzyżem Zasługi i Krzyżem Kawalerskim Orderu Odrodzenia Polski. W roku 1948 został ponowie odznaczony Złotym Krzyżem Zasługi.
+
+<img src="./img/september/bik.jpg"><br><br>
+
 ### 1939
 
 Rządy Francji i Wielkiej Brytanii wypowiedziały wojnę Trzeciej Rzeszy.
