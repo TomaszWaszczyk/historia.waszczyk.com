@@ -29,6 +29,10 @@ https://tradingeconomics.com/poland/government-debt
 
 ---
 
+<img src="./img/april/firmyzrecesji.jpg"><br><br>
+
+---
+
 ### 1950
 
 Podpisane zostało porozumienie między rządem komunistycznym, a Episkopatem Polski w sprawie zagwarantowania nauczania religii i funkcjonowania Katolickiego Uniwersytetu Lubelskiego.
