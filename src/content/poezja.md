@@ -8,6 +8,48 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### Konstanty Ildefons Gałczyński, Zima z wypisów szkolnych
+
+Któż to tak śnieżkiem prószy z niebiosów?
+Dyć oczywiście pan wojewoda;
+módl się, dziecino, z całą krainą -
+niech Bóg mu siły doda;
+śnieżku naprószył, śnieżek poruszył
+dobry pan wojewoda.
+
+A któż na szybach maluje kwiaty,
+czy mróz, czy mróz, dziecino?
+Nie, to rączuchną dla siebie, żabuchno,
+starosta ze starościną;
+srebrzyste prążki, listki, gałązki
+dla ciebie, dziwna dziecino.
+
+A któż te śliczne zawiesił sople
+za oknem u okapu?
+Czy może także mróz niedobry
+swą fantastyczną łapą?
+Bie, moje złoto, to referenci,
+podkierownicy, nadasystenci
+nocą nie spali, hurra! wołali,
+sople poprzyklejali.
+
+Hej, tam w Warszawie jest pan minister
+siwy i taki miły,
+przez okno rzuca spojrzenia bystre,
+bo chce, by dla ciebie były
+zimą sopelki, śniegi i lody:
+wszystkie zimowe wygody.
+
+Jeżeli tedy sanki usłyszycz
+i dzwonki ich tajemnicze,
+wiedz: to minister w skupionej ciszy
+nacisnął taki guziczek,
+że gwiazdki dzwonią i gwiazdki lśnią
+nad miastem i nad wsią.
+
+Konstanty Ildefons Gałczyński
+1936
+
 ### Herbert Zbigniew - Potęga smaku
 
 Pani Profesor Izydorze Dąmbskiej

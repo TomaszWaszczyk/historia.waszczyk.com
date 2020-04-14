@@ -23,6 +23,16 @@ Your browser does not support the video tag.
 
 ---
 
+'Jak wygląda sytuacja w szpitalach relacjonuje dr n. med. Tomasz Ozorowski, szef zespołu kontroli zakażeń i szef sztabu kryzysowego, czyli zespołu ds. COVID-19 jednego z poznańskich szpitali, konsultant wojewódzki mikrobiologii:
+
+Odprawa Sztabu Kryzysowego, której nie zapomnę: "Nie mamy masek, nie mamy rękawic, kończą się testy. Kiedy będą?!" – dyrektor szpitala dzwoni przy wszystkich do koordynatora, którego wyznaczył nam minister. "Nie wiem. Przepraszam. Nie, nie wiem, nie wiem, nie wiem. Sorry" – słyszymy. Dociera do nas, że możemy już liczyć tylko na siebie, że "góra" już dawno nas wystawiła. Zapada 10 minutowa cisza. Każdy próbuje przetworzyć w głowie ten komunikat. Ciszę przerywa ordynator: "Mam w domu maszynę do szycia".
+
+To przełom. Ok, jesteśmy sami, ale ruszamy. Decyzja została podjęta – ogarniamy się sami. Bo żadnej pomocy z zewnątrz nie będzie. Telefony do ministra, wojewody, marszałka nic nie dadzą. Wreszcie do nas dociera. Ordynator oddziału chorób wewnętrznych, Lekarz Roku 2019 i jej mąż szyją maski dla całego szpitala. Ordynator onkologii dzwoni do swojej krawcowej. Wszyscy obdzwaniamy znajomych. Uruchamia się słynna polska oddolna inicjatywa.
+
+Kolejna odprawa: na stole lądują spawalnicze przyłbice od znajomego hutnika, część zespołu łączy się na Skype, pokazuje własnoręcznie uszyte maski. Czy chronią? Chronią naszą psychikę.'
+
+---
+
 ### 1951
 
 Ginie <https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Dziemieszkiewicz>

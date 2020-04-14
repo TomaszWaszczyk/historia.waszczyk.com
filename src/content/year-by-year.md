@@ -26,6 +26,14 @@ The megatrend in cryptography of the 2010s was elliptic curves, pairings and gen
 
 The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.
 
+---
+
+* Ceny mięsa z powodu kryzysu ekologicznego powinny rosnąć.
+
+* Ceny wody powinny rosnąć z powodu kryzysu ekologicznego.
+
+---
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???
@@ -204,6 +212,10 @@ Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
 ### 1973
 
 https://pl.wikipedia.org/wiki/Kryzys_naftowy
+
+### 1972
+
+https://pl.wikipedia.org/wiki/Granice_wzrostu_(raport_Klubu_Rzymskiego)
 
 ### 1971
 

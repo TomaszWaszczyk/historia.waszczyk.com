@@ -28,6 +28,10 @@ Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
 
+(4.45 rano wojska niemieckie zgodnie z planem Fall Weiss uderzyły na Polskę na całej 1600 km długości polsko-niemieckiej granicy oraz z terytorium Moraw i Słowacji. Prezydent Rzeczypospolitej Polskiej Ignacy Mościcki wezwał naród do obrony wolności i niepodległości kraju.
+
+Założeniem planu Fall Weiss było okrążenie i zniszczenie Wojska Polskiego na zachód od linii Wisły nie później niż w czternastym dniu od uderzenia Wehrmachtu. Wojsko polskie pokrzyżowało jednak niemieckie plany.)
+
 Nalot przeprowadzono nagle, bez wypowiedzenia wojny Polsce przez III Rzeszę.
 
 Bombardowanie trwało do 27 września 1939. Bomby były zrzucane celowo na szpitale i cmentarze, a niemieckie samoloty latały bardzo nisko nad miastem, by móc ostrzeliwać ludzi z karabinów maszynowych. W samym tylko nalocie dywanowym przeprowadzonym 25 września zginęło ok. 10 tys. mieszkańców, 35 tys. zostało rannych.

@@ -9,6 +9,16 @@ tags:
 draft: true
 ---
 
+### 1939
+
+,,Nigdy nie zapomnę 23 września, Dnia Pokuty w 1939 roku. Niemcy rozmyślnie wybrali to żydowskie święto na bombardowanie żydowskiej dzielnicy. W trakcie bombardowania miało miejsce dziwne zjawisko meteorologiczne: w samym środku jasnego, słonecznego dnia zaczął padać gęsty śnieg i grad. Na chwilę bombardowanie zostało przerwane, a Żydzi interpretowali ten śnieg jako specjalny akt boskiej interwencji; nawet najstarsi nie pamiętali czegoś podobnego. Ale później tego samego dnia wróg nadrabiał stracony czas ze zdwojoną siłą.''
+(źródło: Mary Berg, Dziennik z getta warszawskiego)
+
+<img src="./img/april/heinkel.jpg"><br><br>
+
+Foto:
+Niemieckie bombowce Heinkel He 111 – zrzucają bomby na Warszawę, Wrzesień 1939
+
 ### 1889
 
 https://pl.wikipedia.org/wiki/Walter_Lippmann

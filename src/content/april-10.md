@@ -76,6 +76,12 @@ So then what?
 
 Buy Bitcoin -->
 
+---
+
+<img src="./img/april/bezgotowki.png"><br><br>
+
+---
+
 ### 1870
 
 https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Lenin
