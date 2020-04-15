@@ -8,9 +8,20 @@ tags:
   - Source
 ---
 
-### Getting Started
+### 1949
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+Wpisywało się w szerszy kontekst komunistycznego planu podporządkowania sobie świata, a także w opresyjną ideologię, na którą składały się m.in. szpiegomania, zastraszanie obywateli, stosowanie odpowiedzialności zbiorowej❓
+
+Noc z 16 na 17 lipca 1949 r. stała się dla wielu mieszkańców Elbląga początkiem życiowego dramatu. Pożar hali nr A20 Zakładów Mechanicznych im. Karola Świerczewskiego oznaczał dla nich aresztowania, wyroki sądowe i więzienną gehennę.
+
+⚠️ #WładzeKomunistyczne szybko uznały, że za pożar odpowiadają francuscy szpiedzy. Tyle wystarczyło, żeby przeprowadzić masową akcję represji wobec Elblążan, niemających często żadnego związku z „Zamechem”. Podejrzanym mógł zostać każdy, nie tylko reemigranci z Francji.
+
+Tak zwana #SprawaElbląska z czasów stalinowskich przez cały #PRL była dumą bezpieki z wykrycia „szpiegów” i „sabotażystów”. Nie przeszkadzał fakt uniewinnienia w 1956 r. większości z torturowanych oskarżonych. Jeszcze dziś według prawa niektórzy są szpiegami....
+
+<img src="./img/july/elblag.jpg"><br><br>
+
+<img src="./img/july/elblag2.jpg"><br><br>
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

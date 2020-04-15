@@ -19,3 +19,11 @@ Powstała wskutek tego fala uderzeniowa miała spowolnić niemieckie natarcie, k
 Epow wykonał rozkaz. Wybuch 20 ton materiałów wybuchowych wyrwał w zaporze dziurę o długości ok. 135 metrów. Ale wysadzenie Dnieprostroju nie zatrzymało żołnierzy Hitlera. Spowodowało natomiast ogromne straty w ludności cywilnej, które do dziś są trudne do oszacowania.
 
 Według niektórych historyków fala powodziowa zabrała ze sobą nawet 120 tysięcy ludzi zamieszkujących brzegi Dniepru.
+
+### 1920
+
+<img src="./img/august/withdraw.jpg"><br><br>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

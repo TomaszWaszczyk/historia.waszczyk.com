@@ -221,6 +221,10 @@ Krystyna Krahelska zmarła drugiego dnia powstania warszawskiego w wyniku trzykr
 
 <img src="./img/march/krahelska.jpg"/><br><br>
 
+### 1812
+
+https://en.wikipedia.org/wiki/Leopold_Stanis%C5%82aw_Kronenberg
+
 ### 1794
 
 Tadeuszowi Kościuszce powierzono funkcję Najwyższego Naczelnika i polecono mu zorganizować rząd powstańczy – Radę Najwyższą Narodową . W trakcie uroczystości Kościuszko złożył następującą

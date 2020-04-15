@@ -9,7 +9,16 @@ tags:
 draft: true  
 ---
 
-###  
+### 1942
+
+Lotnictwo radzieckie zbombardowało okolice warszawskiego Dworca Głównego przy Alejach Jerozolimskich 38/46.
+Przypomnijmy, że obiekt ten istniał w latach 1933-1944, kiedy to został zburzony po upadku Powstania Warszawskiego.
+
+<img src="./img/august/dworzecaleje.jpg"><br><br>
+
+### 1794
+
+Podczas insurekcji kościuszkowskiej wybuchło pierwsze z powstań wielkopolskich. Do największych wystąpień przeciwko zaborcy pruskiemu doszło w Brześciu Kujawskim. Oddział dowodzony przez ksztelana brzesko-kujawskiego Dionizego Mniewskiego przypuścił atak na stacjonujący tam garnizon pruski, który po krótkiej walce został rozbrojony. Następnego dnia sukesem zakończyły się walki powstańcze o Włocławek, gdzie udało się przechwycić jadący z Warszawy transport broni dla wojsk pruskich. W ciągu kilku dni powstanie ogarnęło większość Wielkopolski: dawne województwa brzesko-kujawskie, część inowrocławskiego, kaliskiego, sieradzkiego, gnieźnieńskiego i poznańskiego. Zaskoczone zrywem siły pruskie nie były w stanie go stłumić. Utrzymały się jedynie większe garnizony pruskie między innymi w Poznaniu.
 
 ---
 

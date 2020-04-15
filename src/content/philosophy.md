@@ -17,6 +17,8 @@ https://pl.wikipedia.org/wiki/Janusz_Sytnik-Czetwerty%C5%84ski
 
 <https://www.princeton.edu/~achaney/tmve/wiki100k/docs/Brainwashing.html>
 
+https://en.wikipedia.org/wiki/Michel_Foucault
+
 Artur Schopenhauer mówił że bez zdrowia człowiek nie może byc szczęśliwy.
 
 Mądrości syraha

@@ -21,6 +21,10 @@ W lesie koło wsi Bratian w okolicach Nowego Miasta Lubawskiego członkowie niem
 
 <img src="./img/october/bratian.jpg"/><br><br>
 
+### 1926
+
+https://en.wikipedia.org/wiki/Michel_Foucault
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

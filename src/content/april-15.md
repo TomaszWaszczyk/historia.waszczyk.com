@@ -46,6 +46,20 @@ W środę (8 kwietnia) przyjął on projekt nowelizacji ustawy o stosunkach gosp
 
 Niechciane przejęcia nie są jednak jedynym problemem w tej sferze, które spędzają sen z oczu niemieckiemu ministrowi gospodarki Peterowi Altmaierowi. Jak zwraca uwagę specjalista od przejęć Kai Lucks, obcy inwestorzy wolą w obecnej sytuacji unikać afiszowania się i zwiększają swoje wpływy w przedsiębiorstwach poprzez dokupywanie akcji. Giełdowa wartość motoryzacyjnego olbrzyma Daimlera jest np. obecnie o około połowę niższa niż przed rokiem. Li Shufu, szef chińskiego holdingu samochodowego Geely, i państwowy koncern BAIC jeszcze przed kryzysem mieli odpowiednio po około 10 proc. i 5 proc. akcji producenta Mercedesa. Również rząd Kuwejtu ma udziały w Daimlerze."
 
+---
+
+### Skarby Mariusza Dzi. - 10 Reichsfening
+
+<img src="./img/april/reichfening.jpeg"><br><br>
+
+<img src="./img/april/reichfening2.jpeg"><br><br>
+
+---
+
+<img src="./img/april/morawiecki-zadluzenie.png"><br><br>
+
+---
+
 ### 2018
 
 https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mostek
@@ -53,6 +67,60 @@ https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mostek
 ### 1989
 
 https://pl.wikipedia.org/wiki/Protesty_na_placu_Niebia%C5%84skiego_Spokoju_w_1989
+
+### 1972
+
+Rozpoczęto budowę Huty Katowice. Decyzję o jej budowie podjął we wrześniu 1971 roku osobiście sam ówczesny pierwszy sekretarz KC PZPR Edward Gierek.
+Skutkiem tej decyzji, nie licząc rozpoczęcia
+15 kwietnia 1972 budowy samego zakładu,
+były późniejsze ogromne zmiany struktury
+gospodarczej i społecznej na skalę całego
+kraju . Oprócz zupełnego przeobrażenia
+zagłębiowskiego regionu, polegającego
+zarówno na poważnych zmianach
+urbanistycznych jak i wielkiej fali migracji
+ludności (szczególnie z terenów wschodniej
+Polski), równocześnie rozpoczęto realizację
+innych, wielkich inwestycji centralnych,
+takich jak budowa Linii Hutniczej
+Szerokotorowej wraz z taśmociągiem
+transportowym rudy żelaza, czy
+dziesiątków zakładów pomocniczych.
+Wymiernej, sumarycznej wartości pieniężnej
+tej decyzji nigdy nie ustalono. Pierwszym dyrektorem tego zakładu został Kazimierz Budzyński. Natomiast honorowym pierwszym pracownikiem.. Leonid Breżniew
+
+<img src="./img/april/hutaktw.jpg"><br><br>
+
+### 1967
+
+Stocznia Gdańska otrzymała imię Włodzimierza Lenina. Fakt ten ogłosił przybyły z Warszawy członek Biura Politycznego, sekretarz Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej Zenon Kliszko.
+Oficjalnie nadanie stoczni imienia Lenina było spełnieniem rzekomego postulatu samej załogi. Mniej oficjalna wersja na temat opinii pracowników mówi, że fakt ten został skwitowany przez nich wieloma niecenzuralnymi słowami.
+
+<img src="./img/april/stocznia.jpg"><br><br>
+
+### 1943
+
+Premier Wielkiej Brytanii Winston Churchill (zdjęcie) w rozmowie z generałem Władysławem Sikorskim, odnoszącej się do kwestii Zbrodni Katyńskiej stwierdził:
+> Są rzeczy, które, choć wiarygodne, nie nadają się do tego, by mówić o nich publicznie.
+Ten sam polityk pewien czas później spotkał się z radzieckim ambasadorem w Londynie Majskim. Padły wtedy kolejne słowa w tej sprawie:
+>Nawet jeśli wersja niemiecka jest prawdziwa to i tak nie zmieni to stanowiska Londynu wobec Moskwy albowiem „na wojnie wszystko się zdarza".
+
+<img src="./img/april/churchil.jpg"><br><br>
+
+### 1886
+
+1886 roku w Krakowie urodził się Tadeusz Kutrzeba.
+Był synem Tomasza Kutrzeby-kapitana armii austriackiej. W wieku 10 lat rozpoczął naukę w szkole realnej w Fischau koło Wiener Neustadt.
+W 1903 roku zdał egzamin maturalny w Państowym Gimnazjum Realnym w Wiedniu,by później zostac studentem Wojskowej Akademii Technicznej w Mödling koło Wiednia. W latach 1906-10 służył w 9 Krakowskim Batalionie Saperów. Od 1910 roku studiował w Akademii Sztabu Generalnego w Wiedniu i ukończył wyższy kurs inżynierii.W 1911 roku został porucznikiem. Podczas służby w Sarajewie był świadkiem zamachu na księcia Ferdynanda. W czasie pierwszej wojny światowej służył na fronie włoskim i rosyjskim. W kwietniu 1920 jako szef sztabu 3 Armii
+uczestniczył w wyprawie wojsk polskich na Kijów. Podczas odwrotu sprawował od czerwca do sierpnia funkcję szefa sztabu
+Frontu Południowo-Wschodniego. W czasie bitwy warszawskiej kierował sztabem Frontu Środkowego, a następnie od sierpnia
+do stycznia 1921 został szefem sztabu nowo utworzonej 2 Armii, która uczestniczyła w walkach o Białystok i pościgu za wojskami sowieckimi w kierunku na Grodno i Lidę . W tym czasie awansował do stopnia podpułkownika.
+16 marca 1927 r. Prezydent RP Ignacy Mościcki na wniosek Ministra Spraw Wojskowych, Pierwszego Marszałka Polski
+Józefa Piłsudskiego awansował go na generała brygady ze starszeństwem z 1 stycznia 1927 r. i 3. lokatą w korpusie
+generałów. W czasie wojny obronnej w 1939 roku przeszedł cały szlak jako dowódca Armii "Poznań". W czasie bitwy nad Bzurą dowodził połączynymi Armiami "Poznań " i "Pomorze". To także on z upoważnienia dowódcy Armii "Warszawa" Julisza Rómmla podpisał 28 września 1939 roku Akt Kapitulacji Stolicy. Trafił do niemieckiej niewoli. Przebywał w obozach : Hohnstein,Königstein i Murnau. Organizował tam tajne kursy oficerskie. Z niewoli wyszedł w 1945 roku . Wkrótce wyjechał do Londynu,gdzie między innymi uczestniczył w organizowaniu Instytutu Władysława Sikorskiego. Zmarł na raka 8 stycznia 1947 roku w Londynie.
+Generał Tadeusz Kutrzeba był jednym z najbardziej wykształconych polskich wyższych dowódców. Zyskał opinię jednego z najwybitniejszych sztabowców II Rzeczypospolitej.
+
+<img src="./img/april/kutrzeba.jpg"><br><br>
 
 ---
 
