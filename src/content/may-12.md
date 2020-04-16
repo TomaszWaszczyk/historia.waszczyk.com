@@ -18,4 +18,8 @@ https://en.wikipedia.org/wiki/Joseph_Rochefort
 
 ---
 
+https://pl.wikipedia.org/wiki/Porozumienie_Centrum
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-12.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

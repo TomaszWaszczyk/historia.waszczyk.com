@@ -102,7 +102,9 @@ Oficjalnie nadanie stoczni imienia Lenina było spełnieniem rzekomego postulatu
 
 Premier Wielkiej Brytanii Winston Churchill (zdjęcie) w rozmowie z generałem Władysławem Sikorskim, odnoszącej się do kwestii Zbrodni Katyńskiej stwierdził:
 > Są rzeczy, które, choć wiarygodne, nie nadają się do tego, by mówić o nich publicznie.
+
 Ten sam polityk pewien czas później spotkał się z radzieckim ambasadorem w Londynie Majskim. Padły wtedy kolejne słowa w tej sprawie:
+
 >Nawet jeśli wersja niemiecka jest prawdziwa to i tak nie zmieni to stanowiska Londynu wobec Moskwy albowiem „na wojnie wszystko się zdarza".
 
 <img src="./img/april/churchil.jpg"><br><br>

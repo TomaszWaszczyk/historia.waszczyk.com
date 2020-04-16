@@ -64,6 +64,18 @@ Monako jako pierwsze państwo objęte chińskim 5G.
 
 ---
 
+George Tritch's strategy from 1872 has a 91% hit rate.
+
+His 150 year old strategy correctly identified the (near) peaks of 1929, 1999, 2007 and 2020.
+
+Despite technology, progress and regulations market cycles don't change much.
+
+Human nature never changes.
+
+<img src="./img/year-by-year/cycles.jpeg"><br><br>
+
+---
+
 #### August
 
 China, the European Union, and the United States are now emerging as the main competitors for global leadership in AI. Indeed, China, which achieved success in the Internet economy in part by shutting out U.S. firms, has clearly stated its ambition of achieving dominance in AI—both to increase its competitiveness in industries that have traditionally been vital to the U.S. and EU economies, and to expand its military power.

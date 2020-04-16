@@ -733,6 +733,13 @@ scholastyka
 1. «średniowieczna filozofia chrześcijańska, charakteryzująca się wywodzeniem prawd z dogmatów religijnych»
 2. «formalistyczne rozumowanie odwołujące się do autorytetów i dogmatów, bezwartościowe naukowo»
 
+good point - słuszna uwaga
+
+utracjusz
+człowiek lekkomyślnie wydający pieniądze; hulaka; lekkoduch
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
