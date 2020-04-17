@@ -13,9 +13,9 @@ tags:
 Rządy Polski i Wielkiej Brytanii podpisały status organizacyjny i operacyjny na mocy którego Polskie Siły Zbrojne pod względem operacyjnym podlegać miały dowództwu brytyjskiemu.
 Umowa formalizowała pobyt polskich żołnierzy na terenie Wielkiej Brytanii.
 
-### 5 sierpnia
+### 1772
 
-1772 W Petersburgu podpisany został traktat rozbiorowy nazywany pózniej pierwszym rozbiorem Polski.
+W Petersburgu podpisany został traktat rozbiorowy nazywany pózniej pierwszym rozbiorem Polski.
 Austria otrzymała całą południową Polskę
 po Zbrucz ze Lwowem, ale bez Krakowa (83
 tys. km² oraz 2,7 mln mieszkańców). Przy
@@ -48,3 +48,7 @@ Studiował medycynę na Uniwersytetach w Würzburgu i Berlinie.
 Był asystentem w Instytucie Badań Raka w Heidelbergu oraz w Zakładzie Higieny Uniwersytetu w Zurychu. W czasie I wojny światowej zwalczał epidemię tyfusu plamistego w Serbii. W czasie okupacji hitlerowskiej został przesiedlony do warszawskiego getta, gdzie nielegalnie zajmował się leczeniem chorych na tyfus. W lipcu 1942 roku uciekł z getta i ukrywał się pod fikcyjnym nazwiskiem. Po wyparciu żołnierzy Wehrmachtu z Lublina w 1944 rozpoczął wykłady na UMCS. W 1950 został nominowany do nagrody Nobla w dziedzinie medycyny za wyjaśnienie zagadki zjawiska konfliktu serologicznego między matką a płodem. W 1952 utworzył we Wrocławiu Instytut Immunologii i Terapii Doświadczalnej PAN, którego został dyrektorem. Profesor zmarł 7 marca 1954 roku we Wrocławiu. Pozostawił po sobie blisko 400 prac naukowych, które mają olbrzymie znaczenie w dziedzinie biologii, medycyny, a także w prawie (w kwestii ustalenia ojcostwa).
 
 <img src="./img/august/hirszfeld.jpg"><br><br>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

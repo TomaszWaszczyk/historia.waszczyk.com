@@ -60,6 +60,59 @@ Niechciane przejęcia nie są jednak jedynym problemem w tej sferze, które spę
 
 ---
 
+### Żyżyński (RPP): NBP mógłby kupować akcje
+
+Dalsze obniżki stóp procentowych nie są wykluczone, ale na tę chwilę podjęte przez RPP działania są raczej wystarczające – powiedział PAP Biznes członek RPP Jerzy Żyżyński. Ekonomista liczy na szybkie odbicie wzrostu PKB i po krótkim okresie stymulacji gospodarki w okresie normalizacji,postuluje powrót stóp na dawne poziomy.
+
+<img src="./img/april/zazynski.jpg"><br><br>
+
+rpp„Przestrzeń do dalszego cięcia stóp procentowych jest niewielka. Zawsze byłem zwolennikiem posiadania bufora w polityce monetarnej, co okazało się w obecnej sytuacji bardzo przydatne. Nie jestem za tym, by stopa procentowa spadła do zera, utrudniłoby to prowadzenie polityki monetarnej. Jestem przeciwny temu, by pieniądz był dostępny za darmo” – powiedział Żyżyński.
+
+„Gdy gospodarka wróci do normalnego działania, jeszcze przez chwilę będzie można ją stymulować niskim kosztem pieniądza, ale później trzeba wrócić ze stopami na wyższe poziomy. Mam nadzieję, że będziemy mogli to uczynić względnie szybko. Wydaje się, że referencyjna stopa na poziomie 1,50 proc. jest optymalna dla polskiej gospodarki w normalnym trybie funkcjonowania. Jak tylko będzie to możliwe, będę głosować za podwyżkami stóp” – dodał.
+
+RPP obniżyła główną stopę procentową w Polsce od 17 marca łącznie o 100 pb, w dwóch krokach po 50 pb. Prezes NBP Adam Glapiński powiedział w ubiegłym tygodniu, że bank centralny w ramach swojego mandatu zrobi wszystko, by uratować polską gospodarkę.
+
+Zdaniem ekonomisty, dalsze obniżki stóp byłyby możliwe, gdyby gospodarka „nie odbijała”, pomimo wdrażanej do tej pory stymulacji. Na tę chwilę Żyżyński uważa jednak, że dotychczasowe działania RPP są wystarczające, przy czym Rada „bacznie obserwuje”, jakie będą skutki stymulacji fiskalnej i monetarnej.
+
+„Liczę na szybką odbudowę gospodarki i raczej nie widzę potrzeby dalszego cięcia stóp. Tani pieniądz dla firm będzie potrzebny jeszcze przez pewien czas, żeby rozkręcić akcję kredytową. Gospodarka przecież nie traci mocy produkcyjnych, tylko je wstrzymuje” – powiedział.
+
+„Trzeba reagować stosownie do okoliczności. Rząd zareagował bardzo szybko, dzięki czemu epidemia nie przebiega tak ostro jak na przykład we Włoszech. W ramach swojego mandatu i przy zachowaniu niezależności w działaniach, NBP dostosowuje się do sytuacji jaka jest wynikiem antykryzysowej polityki rządu” – dodał.
+
+Żyżyński uważa, że bez obniżek stóp procentowych kondycja banków mogłaby być gorsza.
+„Banki bardziej ucierpiałyby na tym, gdyby ich klienci, którzy są w trudnej sytuacji z powodu utraty dochodów, nie byli w stanie spłacać kredytów. Tylko obniżka stopy procentowej może im to umożliwić - chodzi o ograniczenie skali niespłacanych kredytów. Oczywiście cięcie stóp pogarsza wyniki i kondycję banków, ale bez tych obniżek mogłyby one mieć jeszcze większe problemy. Gdy gospodarka wróci na swoje tory, stopy procentowe powinny wrócić do poprzednich poziomów, co odbuduje też sytuację banków” – powiedział.
+
+Żyżyński wyklucza spadek stopy referencyjnej poniżej zera.
+
+„Ujemne nominalne stopy procentowe to jest pewna nienormalność. Kiedyś mówiono, że to jest niemożliwe, choć rzeczywistość zweryfikowała takie tezy w niektórych systemach finansowych. Jestem przeciwnikiem cięcia stopy referencyjnej w Polsce tak, by nominalnie spadła poniżej zera. W Polsce nie miałoby to sensu, nie widać także takiej potrzeby” – powiedział.
+
+„Sytuacja, w której deponent dopłaca do złożonego depozytu dopuszczalna jest według mnie w specyficznych okolicznościach i przy specyficznych rodzajach wkładów, na przykład gdy deponent chce w wyjątkowy sposób upewnić się o bezpieczeństwo swoich środków – tak działają banki na przykład w Szwajcarii” – dodał.
+
+Spośród członków RPP po raz pierwszy możliwość obniżenia stopy referencyjnej poniżej zera dopuściła w ostatnim wywiadzie dla PAP Biznes Grażyna Ancyparowicz.
+
+Żyżyński wskazał, że NBP może kontynuować podjęte działania i dostosowywać je do okoliczności. Wśród instrumentów, które mógłby jeszcze wykorzystać NBP wskazał skup obligacji korporacyjnych na rynku wtórnym i skup akcji spółek na rynku regulowanym, również wtórnym.
+
+„Rada i zarząd NBP uruchomiły na razie wszystkie narzędzia, którymi dysponujemy – obniżyliśmy stopy procentowe, rozpoczęliśmy skup aktywów, oferujemy kredyt wekslowy. To jest luzowanie ilościowe na miarę naszych możliwości, a skala naszych możliwości nie jest tak duża jak na zachodzie Europy w tym sensie, że tamtejszy rynek finansowy jest dużo głębszy i bardziej rozwinięty. Źle przeprowadzona transformacja ustrojowa skutkuje tym, że w polska gospodarka nie ma zbyt wielu zasobów finansowych. Odnosząc się do dalszych działań banku centralnego, możemy kontynuować podjęte działania i dostosowywać je do okoliczności” – powiedział.
+
+„W instrumentarium NBP, dotychczas niewykorzystywanym, znajduje się jeszcze skup obligacji korporacyjnych na rynku wtórnym, ale papiery te musiałyby być odpowiedniej jakości lub posiadać gwarancje Skarbu Państwa. Teoretycznie NBP mógłby ponadto skupować akcje spółek na rynku regulowanym, również mówimy o rynku wtórnym. NBP przeprowadzał analizy na ten temat” – dodał.
+
+Członkini RPP Grażyna Ancyparowicz powiedziała we wtorek PAP Biznes, że NBP poważnie rozważa rozpoczęcie na rynku wtórnym skupu obligacji korporacyjnych, które mają rating inwestycyjny lub gwarancję rządową.
+
+Ekonomista poinformował, że do tej pory Rada nie rozmawiała o strategii wyjścia z ultra-luźnej polityki. Prace analityczne na ten temat trwają i jest zresztą za wcześnie, by o tym rozmawiać.
+
+Żyżyński liczy na ok. 4-proc. odbicie wzrostu gospodarczego w 2021 r., po niezbyt głębokiej recesji w 2020 r., która może oznaczać również krótki epizod deflacji.
+
+„Obawy o pojawienie się w Polsce recesji w bieżącym roku są uzasadnione, ale być może spadek tempa wzrostu PKB nie będzie głęboki. W 2021 r. liczę jednak na szybkie odbicie w gospodarce i ok. 4-proc. tempo wzrostu. Luzowanie polityki monetarnej przez NBP stanowi mocne wsparcie dla tej prognozy. Wystąpienie recesji może wiązać się z deflacją w 2020 r., gorzej, gdybyśmy popadli w stagflację, jednak później sytuacja powinna wracać do normalności, a inflacja będzie zmierzać w kierunku celu” – powiedział.
+
+Niska stopa oszczędności gospodarstw domowych w Polsce może ograniczać w ocenie Żyżyńskiego przestrzeń do odbicia konsumpcji.
+
+Międzynarodowy Fundusz Walutowy prognozuje, że PKB Polski w 2020 r. spadnie o 4,6 proc., a w 2021 r. odbije o 4,2 proc.
+
+„Trudno obecnie przewidzieć jakie będą konsekwencje ograniczenia aktywności w gospodarce w związku z koronawirusem, również dla wskaźników makroekonomicznych, choć oczywiście stopa bezrobocia wzrośnie, a tempo wzrostu PKB obniży się. Nie mamy jednak wiarygodnych prognoz, sytuacja zmienia się zbyt szybko” – podsumował.
+
+„Złoty nie osłabił się do tej pory tak mocno, jak zakładały najczarniejsze prognozy. 4,55 za euro to niecałe 10 proc. deprecjacji od początku roku, a ja obawiałem się większego osłabienia, okazało się, że moje obawy były mocno przesadzone. Ale pamiętajmy, że i przed kryzysem złoty przez cały czas był sporo, ok. 40 proc. słabszy od swojego parytetu siły nabywczej, więc jego dalsze osłabienie nie byłoby pożądane. Tym niemniej, pogorszenie perspektyw dla gospodarki i luzowanie NBP, jak widać, nie wpływa mocno negatywnie na polską walutę, co jest korzystne dla naszej bardzo importochłonnej gospodarki i może wskazywać na oczekiwania szybkiego jej odbicia po tym kryzysie” – powiedział Żyżyński.
+
+---
+
 ### 2018
 
 https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mostek

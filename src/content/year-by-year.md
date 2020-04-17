@@ -400,6 +400,8 @@ https://pl.wikipedia.org/wiki/Mi%C4%99dzynarod%C3%B3wka_Komunistyczna
 
 https://pl.wikipedia.org/wiki/Pandemia_grypy_w_latach_1918%E2%80%931919
 
+Gdyby nie wybuchła I Wojna Światowa, to Polska w roku 1918 na pewno nie odzyskałaby niepodległości. Gdyby dwaj najważniejsi gwaranci naszego rozczłonkowania państwowego i naszego zniewolenia narodowego nie skoczyli sobie do gardeł w morderczym boju Polska nie odzyskałaby niepodległości – podkreśla w specjalnym komentarzu z okazji 100. rocznicy odzyskania przez Polskę niepodległości Jerzy Wolak
+
 ### 1917
 
 Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdziernikowa
@@ -473,6 +475,39 @@ https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski
 ### 1811
 
 https://pl.wikipedia.org/wiki/Friedrich_Krupp_AG
+
+### 1806
+
+W 1806 roku Napoleona witano go na ziemiach polskich jak prawdziwego zbawiciela. Polacy dołączali do jego wojsk, mając nadzieję, że doprowadzi do odtworzenia niezależnej Rzeczpospolitej. Nie mogli być w większym błędzie – w świecie Napoleona nie było miejsca na żadne sentymenty.
+
+Napoleon, podobnie jak większość Europejczyków, w zasadzie współczuł Polakom, którzy utracili swój kraj. Podczas swej pierwszej kampanii włoskiej poznał wartość wielu polskich oficerów, a szczególnie swego adiutanta, Sułkowskiego.
+
+
+Kiedy zdał sobie sprawę, że wśród wziętych do niewoli austriackich żołnierzy są Polacy przymusowo wcieleni do wojska przez Austriaków i gotowi z nimi walczyć, stworzył Legiony Polskie, które biły się po stronie Francuzów. Ale kiedy przestali mu oni być potrzebni, bez skrupułów wysłał ich na San Domingo, gdzie większość z nich straciła życie.
+
+Jeszcze w marcu 1806 roku kazał Fouchému umieszczać w prasie artykuły opisujące rosyjskie okrucieństwa i akty przemocy wobec Polaków — zapewne tylko po to, by postawić w niezręcznej sytuacji Rosję, z którą negocjował wówczas traktat.
+
+Napoleon w Poznaniu
+Liczni Polacy wcieleni do armii pruskiej również uciekali do Francuzów, więc stworzył z nich 1. Legię Północną, dowodzoną przez generała Józefa Zajączka, który służył pod nim we Włoszech i w Egipcie (około tysiąca pięciuset Polaków wcielono do legionu, złożonego z irlandzkich powstańców 1798 roku, sprzedanych przez brytyjski rząd królowi Prus do pracy w kopalniach, a następnie przymusowo wcielonych do pruskiej armii).
+
+24 września [1806 roku] Napoleon polecił Eugeniuszowi oddelegować wszystkich polskich oficerów sztabowych służących w armii włoskiej do legii Zajączka. Niecały tydzień po przybyciu do Berlina, 3 listopada, napisał do przebywającego w Paryżu Fouchégo, każąc mu przysłać do pruskiej stolicy Tadeusza Kościuszkę, powszechnie szanowanego przywódcę polskiego powstania 1794 roku, oraz wszystkich innych Polaków, jakich znajdzie w Paryżu.
+
+17 września, dwa dni przed spotkaniem z poznańskimi delegatami, polecił rozpuszczać pogłoski, że zamierza odtworzyć polskie państwo. Talleyrand był zwolennikiem tego pomysłu i sondował reakcję Austrii, usiłując się dowiedzieć, czy byłaby skłonna zrezygnować z Galicji w zamian za bogatszą pruską prowincję, czyli Śląsk.
+
+Wielka Armia maszerowała już wtedy przez ziemie polskie na spotkanie nadchodzących Rosjan, więc 25 listopada Napoleon opuścił Berlin, by do niej dołączyć. 27 listopada wjechał do rzęsiście iluminowanego na jego cześć Poznania. Był witany jak zbawca, a młodzi ludzie zjeżdżali się z okolicznych wsi w nadziei, że będą mogli walczyć za swój kraj pod jego dowództwem.
+
+„Powierzchowni i nieodpowiedzialni”
+Murat, który dotarł następnego dnia do Warszawy, donosił mu, że „nigdy nie widział tak silnego ducha narodowego”. Mieszkańcy zapraszali oficerów i żołnierzy do swoich domów, częstując ich potrawami i napojami. „Wszyscy Polacy proszą o broń, przywódców i oficerów” — pisał do cesarza.
+
+Następnego dnia, po rozmowach z kilkoma warszawiakami, wyraził przekonanie, że są oni gotowi stanąć do walki i zaakceptują każdego władcę, jakiego zechce dla nich wybrać. Prosił więc o instrukcje dotyczące sposobu ich traktowania.
+
+Napoleon odpisał mu z Poznania, zapewniając go, że Polacy są powierzchowni i nieodpowiedzialni, zakazując składania jakichkolwiek obietnic. „Daj im do zrozumienia, że nie przychodzę po to, by błagać o tron dla któregoś z moich bliskich, bo nie brakuje mi tronów, które mogę zaoferować moim krewnym” — ostrzegał Murata, który według krążących już po Paryżu plotek miał zostać następnym królem Polski.
+
+Zawsze ubierał się fantazyjnie i nigdy nie nosił regulaminowych mundurów, preferując ozdobione  lampasami obcisłe bryczesy z koźlej skóry, haftowane kaftany i wywijane pirackie buty, ale kiedy zobaczył tradycyjny szlachecki polski strój, poznał inny wymiar ekstrawagancji. Sprawił sobie własną wersję polskiego ubioru i nosił odtąd obszywane futrem aksamitne kaftany z rozciętymi, obszernymi rękawami oraz futrzane czapki w najróżniejszych kolorach.
+
+„Wyglądał tak majestatycznie jak aktor usiłujący zagrać króla” — stwierdziła Anna Potocka, przyznając jednak, że zostałby zaakceptowany, gdyby objęcie przezeń tronu oznaczało niepodległość kraju.
+
+Napoleon nie zamierzał wiązać sobie rąk przed rozstrzygnięciem „ważkich kwestii”, będących rezultatem jego zwycięstwa nad Prusami. Zachęcał Polaków do wstępowania w szeregi swoich wojsk, ale w rozmowach z miejscowymi osobistościami nie wykraczał za bardzo poza żądania dostaw dla swojej armii. 2 grudnia wziął udział w balu wydanym przez miejscową szlachtę z okazji rocznicy jego koronacji, ale oznajmił jego organizatorom, że powinni nosić buty z ostrogami, a nie pończochy i lakierki (…).
 
 ### 1800
 

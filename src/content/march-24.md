@@ -221,6 +221,10 @@ Krystyna Krahelska zmarła drugiego dnia powstania warszawskiego w wyniku trzykr
 
 <img src="./img/march/krahelska.jpg"/><br><br>
 
+### 1897
+
+https://en.wikipedia.org/wiki/Wilhelm_Reich
+
 ### 1812
 
 https://en.wikipedia.org/wiki/Leopold_Stanis%C5%82aw_Kronenberg

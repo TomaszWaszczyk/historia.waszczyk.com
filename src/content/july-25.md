@@ -20,6 +20,10 @@ Tysiące Żydów wywieziono na roboty przymusowe do pobliskiego obozu
 
 <img src="./img/july/pogromy.jpg"><br><br>
 
+### 1926
+
+https://en.wikipedia.org/wiki/Tad_Szulc
+
 ### 1894
 
 https://pl.wikipedia.org/wiki/Gavrilo_Princip

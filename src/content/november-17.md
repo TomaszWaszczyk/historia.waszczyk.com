@@ -16,6 +16,18 @@ Konwoje w Polsce.
 
 Opinia: Polska akumuluje/zmienienia miejsce trzymania złota.
 
+### 2018
+
+Dzisiaj w nocy miała miejsce kolejna regulacja trudności kopania Bitcoina. Trudność spadła o 7,39%. Tak duży spadek mocy obliczeniowej ostatni raz odnotowany był 23.01 2013 roku ( -8,64% ) i była to kontynuacja spadków mocy obliczeniowych po bańce z 2011 roku. zmieściłem zdjęcie
+
+Nieco mniejsze spadki mocy obliczeniowych Bitcoina ale wciąż znaczne ( 6,14 %) mieliśmy w styczniu 2015 roku czyli na samym dnie spadku z 2014 roku który potem po paru miesiacach jeszcze raz zbliżył się do tego poziomu jednak była to jednodniowa świeczka i szybki ruch ceny.
+
+Osobiście uważam iż w związku z tak znacznym spadkiem moc obliczeniowa zaraz powróci korzystając z w sumie 10% rabatu będącym wynikiem ostatnich 3 regulacji trudności. Warto jednak zauważyć iż gdy tak się nie stanie bo cena BTC np spadnie do poziomu 1000 USD tak jak głoszą prognozy wszystkich hejterów i płaczków wypisujących mi na pv i w komentarzach z fejkowych kont to może mieć to ciekawe konsekwencje. Spadek BTC do 1000 USD lub niżej oznaczał by konieczność spadku trudności kopania o około 80% do nawet 90%. W praktyce oznaczało by to wyłączenie milionów urządzeń pobierających energię równowartości kilka elektrowni jądrowych. Skupienie wszystkich BTC w obiegu (około 17 mln sztuk jednak 50% z tego zalicza się do zamrożonych BTC u hodlerów lub w jest po prostu zgubiona ) przy tak niskich wycenach dało by śmieszną kwotę poniżej 17 MLD dolarów . Śmieszną dlatego gdyż sam Bitmain w 2017 roku zaksięgował ok 4-5 MLD USD zysku netto. Dzisiaj jak wiadomo Bitmain nie jest już aż tak konkurencyjny ze swoimi koparkami. Mimo iż wypuścił on niedawno nowe koparki oparte na chipach 7nm to wiemy iż konkurencja nie śpi i dostać możemy tak samo lub nawet bardziej wydajne koparki od konkurencji płacąc za nie również w Bitcoinach. Wiem że w okresie bessy każdy odmienny pogląd wydaje się być śmieszny i coraz częściej mi się za to od Was obrywa no ale cóż. To nie jest porada inwestycyjna, rynek wszystko zweryfikuje, nie podaję dat, nie naganiam ale gdy wszyscy w grudniu kupowali bo był szał tak dzisiaj wszyscy sprzedają... wydaje mi się to trochę analogiczna sytuacja w drugą stronę. W przeciwieństwie do kupna i wypłaty środków z giełdy gra na spadki kosztuje znacznie większe prowizje przy odpowiednio dużych dźwigniach i potrafi ona zaboleć.
+
+<img src="./img/november/halving1.jpg"><br><br>
+
+<img src="./img/november/halving2.jpg"><br><br>
+
 ### 1999
 
 W wieku 78 lat zmarła Zinaida Giring szpieg Zrzeszenia Wolność i Niezawisłość w Wojewódzkim Urzędzie Bezpieczeństwa Publicznego w Białymstoku, sekretarka zastępcy szefa białostockiego UB majora Józefa Pluty.
