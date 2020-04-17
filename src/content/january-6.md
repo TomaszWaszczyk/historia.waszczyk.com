@@ -9,6 +9,12 @@ tags:
 draft: false  
 ---
 
+### 2015
+
+Od 1 stycznia obowiązuje nowy podatek paliwowy. Chodzi o tzw. opłatę zapasową, która może spowodować wzrost cen paliw od 4 do 6 groszy na litrze.
+
+Ceny ropy naftowej na światowych rynkach surowcowych są najniższe od lat. W efekcie mniej pieniędzy na stacjach benzynowych zostawiają kierowcy. Od lipca do końca tego roku, kiedy ceny ropy zaczęły gwałtownie spadać, paliwo potaniało o 91 groszy, a ceny oleju napędowego o 80 groszy na litrze.
+
 ### 1942
 
 Radzieckie ministerstwo spraw zagranicznych wysłało do wszystkich państw, z którymi utrzymywało stosunki dyplomatyczne opis bestialstw niemieckich dokonanych na terytorium ZSRR. Co ciekawe Rosjanie oprócz Litwy, Łotwy i Estonii wymienili tam również zajęte przez siebie terytoria Polski.

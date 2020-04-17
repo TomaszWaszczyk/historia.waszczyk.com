@@ -13,7 +13,7 @@ draft: false
 
 #### Ministerstwo Finansów
 
-Ministrowie uciekają z resortu finansów. Na ich miejsce 28-latek (Piotra Patkowski) i zapalona harcerka
+Ministrowie uciekają z resortu finansów. Na ich miejsce 28-latek (Piotr Patkowski) i zapalona harcerka
 
 <img src="./img/april/konieczabawy.png"><br><br>
 
@@ -26,6 +26,16 @@ W środę na konferencji prasowej premier Mateusz Morawiecki mówił: - Na pewno
 Tymczasem dzień wcześniej, we wtorek, z resortu odszedł wiceminister Leszek Skiba, który odpowiadał m.in. za politykę makroekonomiczną i legislację podatkową. Skiba, który w resorcie pojawił się w 2015 r., został właśnie wiceprezesem Banku Pekao SA.
 
 W środę z kolei odszedł Tomasz Słaboszowski, również wiceminister i zastępca szefa Krajowej Administracji Skarbowej. Na swoje stanowisko został powołany jeszcze przez ministra finansów Mariana Banasia.
+
+### 1991
+
+,,Jeszcze dziś tkwi w nas pamieć o Numerze 77, który bił Niemców jak chciał'' Borowski T, U nas w Auschwitzu.
+
+17 kwietnia 1991 roku w Bielsku-Białej zmarł Tadeusz Pietrzykowski ps. ,,Teddy - Żelazna Pięść'' - bokser, trener, nauczyciel wychowania fizycznego, podchorąży WP, jeden z pierwszych więźniów niemieckiego obozu koncentracyjnego Auschwitz (nr obozowy 77), bokserski Mistrz Wszechwag obozu koncentracyjnego Auschwitz.
+
+Karierę bokserską rozpoczął w klubie Legia Warszawa, gdzie trenował pod okiem mistrza Feliksa Stamma. W 1937 roku wywalczył tytuł mistrza Warszawy w wadze koguciej. Po wybuchu II wojny światowej uczestniczył jako podchorąży Centrum Wyszkolenia Kawalerii w Grudziądzu w obronie Warszawy. Wiosną 1940 roku próbował przedostać się do Francji i wstąpić do formowanych tam wojsk polskich, niestety został aresztowany przez Niemców i osadzony w więzieniu w Tarnowie, skąd został 14 czerwca tego samego roku, deportowany z pierwszym transportem więźniów do KL Auschwitz. Do historii przeszedł przede wszystkim jako Mistrz Wszechwag obozu koncentracyjnego Auschwitz. Ważący 40 kg Pietrzykowski pokonał m.in. cięższego o 30 kg. byłego zawodowego mistrza Niemiec w wadze średniej Waltera Düninga. W nagrodę za zwycięską walkę otrzymał pół bochenka chleba, kostkę margaryny oraz przydział do pracy w komandzie ,,Tierpfleger''. Szacuje się, że Pietrzykowski stoczył w Auschwitz od 40 do 60 walk. W 1943 został deportowany do KL Neuengamme, gdzie trzymał numer obozowy 17955. Wyzwolenia doczekał 15 kwietnia 1945 roku w obozie Bergen-Belsen. Po wyzwoleniu wstąpił do 1 Dywizji Pancernej gen. Stanisława Maczka, gdzie zajmował się organizacją zajęć sportowych wśród żołnierzy.
+
+<img src="./img/april/pietrzykowski.jpg"><br><br>
 
 ### 1940
 
