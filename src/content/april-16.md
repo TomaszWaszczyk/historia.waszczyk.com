@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 16 kwietnia
-image: img/april/Executive_Order_6102.jpg
+image: img/april/donotworry.png
 author: Tomasz Waszczyk
 date: 2019-04-16T10:00:00.000Z
 tags:
@@ -111,11 +111,20 @@ Wyrok wykonano 24 lutego 1953 roku
 
 <img src="./img/april/fieldorf.jpg"><br><br>
 
+### 1945
+
+Na wzgórzach Seelow rozpoczęła się pierwsza bitwa na terenie Niemiec, w której udział wzięło 78 550 żołnierzy 1 Armii Wojska Polskiego. Polacy walczyli w szeregach 1 Frontu Białoruskiego dowodzonego przez Gieorgija Żukowa.
+Przeciwko tym liczącym ponad milion żołnierzy siłom stanęło 91 tysięcy żołnierzy niemieckich 9 Armii pod dowództwem Theodora Bussego.
+Ofensywa rozpoczęła się 16 kwietnia nad ranem od masowego ostrzału niemieckich pozycji z dział i katiusz, który prowadzono od godziny 3 do 5. Było to największe przygotowanie artyleryjskie w historii wojny, wykorzystano wówczas około 8900 dział i katiusz. Po 4 dniach ciężkich walk niemiecka wschodnia linia frontu przestała istnieć i droga do Berlina została otwarta.
+W czasie walk zginęło 33 000 żołnierzy radzieckich i 2 300-5 000 żołnierzy polskich, po stronie niemieckiej 12 000 zabitych.
+
+<img src="./img/april/seelow.jpg"><br><br>
+
 ### 1944
 
 Chodaczków Wielki. Tam Polaków spalono w stodołach
-16 kwietnia 1944 r. 4. Pułk Policji SS, złożony z ukraińskich ochotników, a dowodzony przez Niemców, dokonał masowej zbrodni w Chodaczkowie Wielkim. To miejscowość w byłym województwie tarnopolskim. W wyniku bestialskiego, masowego mordu, śmierć ponieść mogło nawet ponad 800 Polaków. Część z nich zginęła w straszliwych mękach. Zostali spaleni żywcem w stodołach ( więcej niż jednej) w tej miejscowości. 
-Wieś Chodaczków przed wojną liczyła ponad 2800 mieszkańców. Od 1943 roku funkcjonowała tam polska samoobrona mająca na celu obronę przed bandami UPA. W kwietniu 1944 front niemiecko-sowiecki zbliżył się w okolice miejscowości Wieś została zajęta ukraińskimi ochotnikami z 4. Pułku SS złożonej z Ukraińców. 
+16 kwietnia 1944 r. 4. Pułk Policji SS, złożony z ukraińskich ochotników, a dowodzony przez Niemców, dokonał masowej zbrodni w Chodaczkowie Wielkim. To miejscowość w byłym województwie tarnopolskim. W wyniku bestialskiego, masowego mordu, śmierć ponieść mogło nawet ponad 800 Polaków. Część z nich zginęła w straszliwych mękach. Zostali spaleni żywcem w stodołach ( więcej niż jednej) w tej miejscowości.
+Wieś Chodaczków przed wojną liczyła ponad 2800 mieszkańców. Od 1943 roku funkcjonowała tam polska samoobrona mająca na celu obronę przed bandami UPA. W kwietniu 1944 front niemiecko-sowiecki zbliżył się w okolice miejscowości Wieś została zajęta ukraińskimi ochotnikami z 4. Pułku SS złożonej z Ukraińców.
 Ukraińska policja po dotarciu do Chodaczkowa rozpoczęła podpalanie zabudowań i eksterminację polskich mieszkańców wsi. Byli zabijani tylko dlatego, że byli Polakami. Wiele ofiar zostało zagnanych do stodół i spalonych żywcem. Ludzie krzyczeli z bólu, strachu i rozpaczy.  Zanim pochłonął ich ogień musieli wiele wycierpieć. Jak bardzo, tego nawet nie jesteśmy w stanie sobie wyobrazić. Nie były to jedyne miejsca kaźni naszych rodaków.  Do domów wrzucano granaty. Zabijano każdego kto uciekał. Nieważne, czy była to kobieta, mężczyzna czy dziecko.  Wiele polskich mieszkańców zginęło w bestialskich sposób zamęczonych. Ukraińcy przed śmiercią ich  maltretowali i okrutnie znęcali  się. Źródła podają, że zginęło od 250 do 862 osób. Ofiary pochowano w zbiorowej mogile przy ruinach kościoła rzymsko-katolickiego.
 Do dziś większość Ukraińców tam mieszkających, a będących świadkami,  czy sprawcami zrzuca winę tylko na Niemców. Wiadomo, że mordów dopuszczali się Ukraińcy, często mieszkańcy tej miejscowości. Miejscowi Ukraińcy nie chcą mówić ,bo pewnie niejednemu sprawcy, czy świadkowi zbrodni śnią się mordowani polscy sąsiedzi, pewnie krzyki palonych żywcem ludzi, niektórzy w swoich sumieniach słyszą do teraz.
 Wielu z mieszkańców Chodaczkowa Wielkiego, którym udało się ujść z rąk ukraińskich oprawców z życiem,  po wojnie osiedliło się w Gajkowie pod Wrocławiem. Cmentarz w Chodaczkowie Wielkim jest porządkowany w ramach akcji „Mogiłę pradziada ocal od zapomnienia„.
@@ -132,6 +141,22 @@ Ciekawostką jest fakt, że głównym inspiratorem włączenia do śledztwa insp
 Jeszcze tego samego dnia Niemiecki Czerwony Krzyż otrzymał odpowiedź od prezydenta MCK Maxa Haubera, który stwierdził, że udział ekspertów MKCK w pracach ekshumacyjnych w Katyniu będzie możliwy jedynie wtedy, kiedy z wnioskiem zwrócą się wszystkie zainteresowane strony. Dzień później reprezentujący w Genewie Polski Czerwony Krzyż Stanisław Radziwiłł złożył w MCK oficjalną notę Rządu RP w Londynie zawierającą żądanie powierzenia neutralnej komisji zbadanie sprawy śmierci polskich oficerów w Katyniu.
 
 <img src="./img/april/katyn2.jpg"><br><br>
+
+### 1746
+
+II powstanie jakobickie: armia brytyjska pokonała wojska jakobickie w bitwie pod Culloden.
+
+Rozegrana 16 lipca 1746 roku bitwa na rozległych wrzosowiskach Culloden była ostatnią bitwą na głównym lądzie Wielkiej Brytanii, a zarazem całkowitą i ostateczną porażką jakobitów w walce o powrót na tron dziedziców dynastii Stuartów. Bonnie Prince Charlie w 1745 roku stacjonując w Glenfinnan zebrał wokół siebie sporą grupę szkockich górali wspierających restaurację Stuartów i ruszył do walki z wojskami hanowerskimi, które okupowały Szkocję. Armia Karola szybko odbiła Perth i Edynburg, po czym miała uderzyć na Londyn. W tym czasie książę liczył na wsparcie Francuzów, którzy także chcieli usunąć z brytyjskiego tronu króla Jerzego II. Miał też nadzieję, że do walki włączą się angielscy jakobici.
+
+Karol dotarł z wojskiem do Anglii 8.XI.1745 roku, zdobywając Carliste i Manchester. Czwartego grudnia armia zatrzymała się w Derby. Jak się okazało, zarówno Francuzi, jak i angielscy sprzymierzeńcy, nie kwapili się do pomocy szkockim rebeliantom. Według źródeł, narada wojskowa księcia Karola z doradcami, odbyła się tego dnia na piętrze budynku, który dziś służy jako pub. Wbrew wcześniejszym planom, książę za namową generałów, postanowił powrócić do Szkocji, by tam stworzyć wielką armię z rosnących zastępów jakobitów. Legendy głoszą, że król Jerzy II chciał już ustąpić z tronu na rzecz młodego Stuarta, jednak nie pozostał na poparcie tej teorii żaden ślad historyczny.
+
+Jakobici zawrócili do Szkocji 6 grudnia. Tymczasem armia angielska, na wieść o odwrocie wojsk Karola, zaczęła się zbroić i podążać ich śladem. W lutym 1746 roku książę osiadł w Inverness, a Anglicy pod dowództwem księcia Cumberland, zwanego Rzeźnikiem - swoje siły rozmieścili w Aberdeen i Dunkeld. Armia jakobicka opuściła Inverness w kwietniu, pozostawiając tam większość zapasów i wybierając na miejsce starcia bezleśne terenu wrzosowiska Culloden.
+
+15 kwietnia 1746 roku rzeźnik Cumberland obchodził hucznie swoje 25-te urodziny. Całe wojsko angielskie piło za jego zdrowie w miejscowości Nairn. Jakobici tkwili więc na wrzosowiskach, czekając na nadejście przeciwnika. Kiedy stało się jasne, że Anglicy są zbyt pijani by walczyć, jeden z generałów szkockich wysunął myśl, by ruszyć na Nairn i zaskoczyć wojsko Cumberlanda. Tak też zrobili. Jednak po całonocnym marszu, o świcie 16 kwietnia, armia szkocka była wciąż ponad 3 km od Nairn. Dowódcy jakobitów postanowili więc powrócić na wrzosowiska, około 16 km od miejsca, do którego dotarli. Anglicy szybko dogonili armię księcia Karola i do konfrontacji doszło około godziny 11. Armia angielska w liczbie około 8810 żołnierzy miała przewagę zbrojeniową i liczebną nad Szkotami. O ile z Inverness wyruszyło ich blisko 5400, o tyle część rozpierzchła się w poszukiwaniu jedzenia, część zasnęła zmęczona całonocnym marszem, a ci, którzy pozostali na polu walki mieli za sobą 30 km spacer i pustkę w brzuchu. Zatem nie dziwi nikogo, że już po godzinie bitwa została ostatecznie zakończona. Straty angielskie wynosiły 59 zabitych i 259 rannych, a Szkoci stracili około 1250 żołnierzy, tyle samo było rannych, a 558 wzięto do niewoli.
+
+Po bitwie rozpoczęły się prześladowania Szkotów, w tym słynne zakazy ubierania się w klanowe kilty i gry na dudach tereny wrzosowiska podlegają opiece National Trust for Scotland. W lipcu otwarto tam nowoczesne centrum informacji turystycznej z interaktywnymi pokazami bitwy. Poszczególne miejsca godne uwagi są bardzo dobrze oznakowane. Nieopodal pola walki wznosi się ponadto kurhan ku czci zabitych jakobitów (Memorial Cairn) i chatka Lanach Cottage, w której po bitwie spalono żywcem 30 jakobitów.
+
+<img src="./img/april/jakobinie.jpg"><br><br>
 
 ---
 

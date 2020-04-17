@@ -2698,6 +2698,9 @@ Kardynał Stefan Wyszynski
 Fakt społeczny jest zawsze zewnętrzny, powszechny i przymusowy.
 Bronisław Geremek
 
+"If people let the government decide what foods and what medicines they take, their bodies will soon be in as sorry a state as are the souls of those who live under tyranny."
+~ Thomas Jefferson
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

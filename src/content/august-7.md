@@ -9,6 +9,10 @@ tags:
   - Rozbiory
 ---
 
+### 1975
+
+W nocy z 7 na 8 sierpnia 1975 roku w chińskiej prowincji Henan doszło do katastrofy zapory Banqiao. Przerwanie tej ogromnej konstrukcji, spowodowane potężnymi ulewami, wywołało falę powodziową o szerokości 10 kilometrów, która pochłonęła kilkadziesiąt tysięcy ludzkich istnień. Tragedia ta była przez lata ukrywana przez komunistyczne władze w Pekinie.
+
 ### 1944
 
 Zakończyła się trwająca rzeź Woli, podczas której Niemcy wymordowali od 40 tys. do 60 tys. mieszkańców warszawskiej dzielnicy. Mordowano kobiety, dzieci, starców i mężczyzn. Egzekucje na Woli trwały jeszcze do 12 sierpnia. Szczególnym okrucieństwem wsławiła się brygada SS Oskara Dirlewangera.

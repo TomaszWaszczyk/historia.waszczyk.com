@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1 sierpnia
+title: 26 sierpnia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2018-08-26T10:00:00.000Z
 tags:
   - 
 draft: true  
@@ -15,4 +15,4 @@ The full implementation of Agenda 21, the Programme for Further Implementation o
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

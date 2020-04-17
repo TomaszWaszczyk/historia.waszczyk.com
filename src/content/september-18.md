@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 4 września
+title: 18 września
 image: img/septmeber/indeks.png
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2018-09-18T10:00:00.000Z
 tags:
   - 
 draft: true
@@ -50,4 +50,4 @@ Przegrana Polaków oznaczała wielkie straty dla Polski i powrót władzy krzyż
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
