@@ -29,6 +29,10 @@ Tak o swoim ojcu mówił później papież Jan Paweł drugi:
 
 <img src="./img/february/wojtylasenior.jpg"/><br><br>
 
+### 1918
+
+https://pl.wikipedia.org/wiki/Traktat_brzeski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

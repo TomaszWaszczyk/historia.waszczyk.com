@@ -8,6 +8,82 @@ tags:
   - Historia
 ---
 
+<!-- ### 2017
+
+W RAMACH ODKŁAMYWANIA HISTORII, ale i odświeżania pamięci :)
+
+"31 sierpnia 2017 pan Tadeusz Zając z Katowic napisał w swoim poście.
+
+Tadeusz Zając:
+A kto – z młodych wykształconych, z dużych miast – wie, że kiedyś w Polsce produkowano generatory elektryczne dla największych elektrowni?
+Że produkowano turbiny o mocy 500 MW, — a przymierzano się do turbin 1500 MW?
+Że połowa chińskich, indyjskich, indonezyjskich, greckich i tureckich, libijskich i irackich elektrowni — wyposażona była / jest nie w amerykańskie, czy niemieckie — a w polskie turbiny?
+Że produkowano u nas śmigłowce, samoloty tłokowe i odrzutowe, że produkowano 40.000 ciężarówek, że wytapiano 20 mln ton stali, że byliśmy na 2 miejscu – za Japonią – w produkcji statków rybackich, a te zdobywały Błękitną Wstęgę Atlantyku w tej kategorii?
+Że nasze zestawy audio – radio, wzmacniacz, głośniki, gramofon, magnetofon Radmoru — biły amerykańskie i japońskie?
+Że nasze sprężarki chłodnicze kupowało wiele krajów świata? Że już w latach 50-tych nasz Star był napędzany gazem LPG — i miał nim chłodzone nadwozie?
+Kto pamięta, że pierwszy PC komputer powstał w Erze – przed ZX Spectrum?
+Że wybudowano:
+• Trasę Warszawa-Katowice (Gierkówka, niecałe 300 km – jedna z nielicznych dziś dróg dwujezdniowych o tej długości w Polsce);
+• Trasę Łazienkowską wraz z drogami dojazdowymi w Warszawie;
+• Dwujezdniową drogę Tuszyn-Łódź;
+• Szpital „Centrum Zdrowia Dziecka”;
+• Szpital „Centrum Zdrowia Matki Polki”;
+• Rafinerię ropy naftowej w Gdańsku;
+• Odlewnię żeliwa w Koluszkach;
+• Zakłady Dziewiarskie „Kalina” w Lodzi;
+• Zakłady produkcji dywanów „Dywilan” w Lodzi;
+• Zakłady odzieżowe „Cotex”;
+• Zakład produkcji profili giętch w Bochni;
+• Zakłady przetwórstwa owocowo-warzywnego w Leżajsku i Lipsku;
+• Hutę miedzi w Głogowie;
+• Produkcja blach walcowanych na zimno w Hucie im. Lenina ( obecnie ArcelorMittal Poland S.A. Oddział w Krakowie);
+• Płocką Fabrykę Maszyn Żniwnych (wyd. 2,5 tys. sztuk kombajnów zbożowych BIZON);
+• Zakłady mleczarskie w Węgrowie, Ciechanowie, Chodzieży, Zabrzu;
+• Produkcja autobusu Jelcz w Kowarach;
+• Zakłady mięsne w Ostródzie, Sokołowie Podlaskim, Zielonej Górze;
+• Port Północny i nafto-port (mieliśmy wtedy własne tankowce);
+• Zakład kineskopów kolorowych na licencji amerykańskiej w Piasecznie (wtedy jedyny zakład w Europie produkujący tej klasy sprzęt);
+• Produkcja układów scalonych i półprzewodników w Naukowo-Produkcyjnym
+• Centrum Półprzewodników CEMI w Warszawie,
+• 11 elektrowni (w tym największa, Kozienice I – o mocy 1200 MW; po 1989 r. – zero elektrowni) – i wiele, wiele innych.
+• W latach 70′ oddawano do użytku ok. 300 tys. mieszkań rocznie, a obecnie ok. 1/3 tej liczby, w latach 90-tcyh jeszcze mniej;
+• W latach 1970-75 płace wzrosły o 40%;
+• W dekadzie 1970-80 – wzrost PKB o ok. 80% (po 1989 r. potrzeba było na taki sam wyczyn 20 lat);
+• Spożycie mięsa na głowę było wyższe niż dziś, mięsa nie myto i nie nasączano (Constar);
+• 1982 (rok kryzysu wywołanego przez „Solidarność” finansowaną przez CIA);
+• Od tego roku mierzy się w Polsce liczbę osób żyjących poniżej minimum socjalnego na 24 %, obecnie – powyżej 60%!
+• We wrześniu 1980 r. (kiedy Gierek odchodził) zadłużenie Polski w Klubach Paryskim i Londyńskim wynosiło ok. 17,6 miliardów dolarów. Na osobę (615 USD) było ono mniejsze niż na Węgrzech (836 USD) lub Jugosławii (856 USD).
+Pod względem zadłużenia byliśmy na 12-13 miejscu w świecie — co odpowiadało naszej ówczesnej produkcji.
+Przypominam, że Polska posiadała wówczas rezerwy walutowe w wysokości ok. 1,3 mld USD — 4 mld USD w surowcach i półfabrykatach, jak również blisko miliardową nadwyżkę eksportu nad importem (wartość eksportu w 1980 to ok 10 mld USD; bilans handlowy pogorszył się po strajkach „S”).
+Dług Gierka został prawie całkowicie spłacony w roku 2009.
+Gierek, kiedy rządził, mieszkał w rządowych willach (które przy niektórych dzisiejszych chałupach wyglądały jak psia buda). Po internowaniu mieszkał w domku typu klocek w Ustroniu. Jeździł maluchem 126p kupionym na talon. Żył tylko z emerytury belgijskiej za okres przepracowany w tamtejszych kopalniach.
+Proste pytania dla tych, którzy dostają piany na ustach, kiedy pada słowo ROSJA.
+Które przedsiębiorstwa kupiła Rosja lub Rosjanie w Polsce za bezcen, a następnie zlikwidowała przez tzw. wrogie przejęcia? Może w Łodzi? Na Śląsku, w Starachowicach?
+Kto doprowadził armię Polską do ruiny, tak że w tej chwili mamy zaledwie parę tysięcy żołnierzy zdolnych do walki?
+Czy to w Moskwie powstają prawa zakazujące w Polsce wędzenia mięsa?
+Kto limituje nam połowy ryb, produkcję mleka, cukru, etc.?
+Czy to Rosja kontroluje handel w Polsce przez 12 największych sieci handlowych?
+Ktoś może dać przykład — kiedy Rosjanie przez podstawione osoby wykupują ziemie na zachodzie Polski?
+A może ktoś zna jakieś rosyjskie, lichwiarskie banki w kraju nad Wisłą?
+Kto zlikwidował całe nasze gałęzie przemysłu takie jak stocznie, elektronika, hutnictwo, zbrojeniówkę?
+A może Putin nałożył na nas haracz za emisję dwutlenku węgla, przez co prąd kosztuje Polaka dwa razy więcej tyle, co wcześniej?
+Czy Rosja w Polsce propaguje demoralizację, niszczy rodzinę, patriotyzm młodzieży, gryzie katolików?
+Rosja nie pozwala budować dróg tak, jak chcemy, ze względu na dwa żółwie przechadzające się od sadzawki do sadzawki?
+Czy Rosjanie planują masowe osadnictwo na ziemiach polskich?
+Czy Rosjanie roszczą pretensje do 1/3 polskiego terytorium?
+Czy Rosja wspiera naszych wrogów takich jak banderowcy?
+Czy żąda od nas wysyłania kontyngentów wojskowych do Afganistanu, na Bliski Wschód czy ostatnio Afryki przy okazji niszcząc nasze interesy i powiązania handlowe?
+Czy Rosja narzuca nam swojego rubla, czy ktoś inny – euro?
+Czy Rosja zmusiła do emigracji około 4 milionów, głównie młodych ludzi po 1989 roku?
+Czy to Rosja kazała nam podpisach w 2006 roku traktat lizboński, który de facto zlikwidował suwerenność Polski?
+Pytania można mnożyć – bagaż historyczny stosunków polsko-rosyjskich jest ciężki jak cholera – ale każdy powinien zrozumieć proporcje.
+Los Ukrainy jest ważny — ale jeszcze ważniejsze jest to, co LEŻY w INTERESIE POLSKI a CO NIE – czasem się o tym zapomina…
+Co do zakładów, to można wymienić jeszcze setki innych, w zależności z jakiego fragmentu Polski się pochodzi, bo po prostu było tego całkiem sporo.
+Jeśli wszystko to było nieopłacalne – to niech mi ktoś wyjaśni, z czego dokładano do interesu — skoro do czasów Gierka nikt nie brał ani grosza pożyczek? I podobno sponsorowaliśmy ZSRR i KDLe… normalnie perpetuum mobile.
+A Potem Wałęsa przeskoczył przez płot i się skończyło..."
+
+Edward Gierek mąż stanu, ur. 6.01.1913, zmarł 29.07.2001 -->
+
 ### 2016
 
 Koniec prezydentury https://pl.wikipedia.org/wiki/Dilma_Rousseff

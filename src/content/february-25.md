@@ -9,6 +9,42 @@ tags:
 draft: false
 ---
 
+### 1862
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_G%C5%82%C4%85bi%C5%84ski_(polityk)
+
+Stanisław Głąbiński był jednym z najbardziej wpływowych polityków endecji w dwudziestoleciu międzywojennym. Wiosną 1939 roku opublikował swoje wspomnienia polityczne, które z konieczności musiał zakończyć na maju 1926 roku. W latach trzydziestych cenzura nie pozwalała na swobodną krytykę sanacji i Piłsudskiego. Dlatego dopiero w październiku 1939 roku Głąbiński napisał suplement do wspomnień obejmujący lata 1926-39.
+
+Poniżej zamieszczam niektóre cytaty z tego suplementu.
+
+"Zamach stanu uzasadniał Piłsudski i jego otoczenie koniecznością ścigania szujów, złodziei i morderców, zagnieżdżonych rzekomo w rządzie, i przeprowadzenie sanacji moralnej. Wprawdzie dowodów na te łajdactwa nie znalazł, mimo to cel tak wzniosły i tak zrozumiały znalazł poklask u szerokich warstw".
+
+"Nic też nie odkrywa tak jaskrawo i tak dosadnie bankructwa moralnego piłsudczyzny, jak ten fakt, że to samo tak piękne i żywotne hasło w ciągu ich rządów bladło stopniowo w oczach społeczeństwa, a w końcu stało się przedmiotem niemal powszechnego pośmiewiska i wzgardy. Sami zwolennicy sanacji moralnej przestali posługiwać się tym hasłem, aby nie wywoływać wrogiej reakcji u słuchaczy. Dla ogółu społeczeństwa hasło takie, głoszone przez grupę ludzi splamionych bezprawnymi i fałszywymi wyborami, demagogicznymi obiecankami, metodami policyjnymi, łapownictwem i obdzieraniem skarbu publicznego, stało się cyniczną prowokacją i szydzeniem z obywateli".
+
+"[wpływowy sanator] powiedział mi <<Po cóż mamy walczyć ze sobą, gdy możemy łatwo się porozumieć. Jest w Polsce przecież tyle posad do obsadzenia, że wystarczy ich dla nas i dla was. Proszę więc zastanowić się nad tym, czy nie moglibyśmy się porozumieć i zawiesić walki wzajemnej?>>".
+
+"Zrazu zadowalano się zwalnianiem endeków i ludzi podejrzanych o nieprawomyślność (...). Gdy to nie wystarczało, trzeba było otwierać posady zupełnie niepotrzebne (...). Tak zdezorganizowano administrację państwową, powiększono koszta administracyjne monopolów i przedsiębiorstw państwowych, obciążono niezmiernie budżet emerytur państwowych i kolejowych, aby nasycić głodnych próżniaków, zwiększając szeregi sanacji i entuzjastycznych wielbicieli wskrzesiciela Polski".
+
+"Piłsudski objął władzę w okresie najpomyślniejszej koniunktury w Polsce i wierzył w to, a tak samo wierzyli jego mamelucy, że tak będzie zawsze, tak musi być, skoro on, ich prorok, rządzi w państwie. Rok 1926 zakończył się pomyślnie pod względem finansowym a jeszcze pomyślniej pod względem gospodarczym".
+
+"Mając zupełnie oddane sobie i uległe otoczenie, skarżył się później, że ma wrażenie, iż naród polski jest narodem idiotów".
+
+"Sądownictwo polskie zostało pozbawione niezależności sędziowskiej przez kilkakrotne "reorganizacje", dowolne pensjonowanie i przenoszenie sędziów, wstrzymywanie awansów i wykonywanie terroru ze strony przełożonych".
+
+"Prokuratoria państwowa utraciła również samodzielność, stała się służebną ideologii sanacyjnej".
+
+"Zabrano się najpierw do zmiany konstytucji celem stworzenia podstawy prawnej dla całego systemu. Przez dziesięć lat dyskutowano w swoich kołach, projektowano i projekty ucinano, aby zadowolić Piłsudskiego, dla którego przeznaczono stanowisko prezydenta Rzeczypospolitej , odpowiedzialnego tylko przed Bogiem i historią. Ale zaledwie zdołano taki projekt konstytucji opracować i uchwalić, Piłsudski zmarł".
+
+"Chełpiła się sanacja przy każdej sposobności swoimi dziełami, przeważnie urojonymi, jak np. budową portu w Gdyni, utworzeniem silnej armii, mocarstwowym stanowiskiem państwa, stabilizacją waluty, Centralnym Okręgiem Przemysłowym, planem połączenia Wisły z Dnieprem i Morzem Czarnym".
+
+"Największą chlubą sanacji było podniesienie Polski do godności mocarstwa".
+
+"Jakaś mania wielkości, szał prawdziwy opętał tych ludzi, którzy wmawiali w siebie i drugich, że Piłsudski zbawił Polskę i podniósł ją do pierwszorzędnej potęgi mocarstwowej".
+
+"Doczekaliśmy się najstraszliwszej katastrofy politycznej państwa i narodu (X 1939). Niech powszechne potępienie sprawców tego losu będzie nauką i przestrogą na zawsze przed podobnymi próbami na przyszłość".
+
+Tym zdaniem Stanisław Głąbiński zakończył swoje wspomnienia. Półtora roku później zmarł w sowieckim więzieniu w Charkowie. Patrząc na obecne rządy trzeba powiedzieć, że wbrew nadziejom Głąbińskiego nie wyciągnęliśmy żadnej nauki z upadku II RP. A co gorsza, historia sanacji nie stała się ostrzeżeniem. Stała się podręcznikiem rządzenia.
+
 ### 1831
 
 Powstanie listopadowe: wojska powstańcze odniosły zwycięstwa w bitwach pod Białołęką i o Olszynkę Grochowską.

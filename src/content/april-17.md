@@ -11,9 +11,15 @@ draft: false
 
 ### 2020
 
+#### Otwarta prywatyzacja państwa
+
+Narodowy Bank Polski skupił na czwartkowym przetargu obligacje skarbowe za 30,7 mld zł. W ciągu miesiąca NBP wydał już na aukcjach obligacji państwowych prawie 50 mld zł i realnie obniża rynkowe oprocentowanie obligacji. Na każdej kolejnej aukcji przeznacza coraz więcej wykreowanych sztucznie pieniędzy, żeby pomóc w ten sposób w finansowaniu deficytu budżetu państwa. Dług państwa na koniec 2019 roku wynosił 973 mld zł, czyli NBP ma w swoim portfelu obligacje stanowiące już 5,01 proc. tego długu. ING łącznie NBP przejmie papiery za 170 mld zł, czyli w banku znajdzie się około 17 proc. państwowego zadłużenia. W skali ostatniego miesiąca, czyli od początku bezpośredniego udziału NBP w aukcjach, złoty osłabił się jednak względem euro o 2 proc., do franka o 2,7 proc., a dolara - o aż 4,8 proc.
+
+NBP finansuje dług państwa to jest nielegalne. Te operacje nie maja na celu zwiększenia płynności (skup od innych banków to OOT), tylko pokrycie bieżących wydatków
+
 #### Ministerstwo Finansów
 
-Ministrowie uciekają z resortu finansów. Na ich miejsce 28-latek (Piotr Patkowski) i zapalona harcerka
+Ministrowie uciekają z resortu finansów. Na ich miejsce 28-latek (Piotr Patkowski) i zapalona harcerka (Anna Chałupa - nowa wiceminister finansów i wiceszefowa Krajowej Administracji Skarbowej. Jak podają media, jest harcerką i absolwentką ekonomii, a w 2018 roku Marian Banaś powołał ją na dyrektora Izby Administracji Skarbowej we Wrocławiu.)
 
 <img src="./img/april/konieczabawy.png"><br><br>
 
