@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 kwietnia
-image: img/april/Executive_Order_6102.jpg
+image: img/april/getto.jpg
 author: Tomasz Waszczyk
 date: 2019-04-19T10:00:00.000Z
 tags:
