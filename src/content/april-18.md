@@ -174,6 +174,25 @@ Może wtedy ktoś zrozumie, że milioner nigdy nie będzie dbał o majątek bied
 
 Znów bogaci będą tanio kupować działki i inne nieruchomości, które będą im sprzedawać biedni. Następnie za 10 lat biedni odkupią je od bogatych po znacznie wyższych cenach i historia się powtórzy. Wtedy zacznie się kolejny kryzys."
 
+<details><summary>Felieton: Czy państwo może zbankrutować?</summary><br>
+Nieważne, czy mówimy o przedsiębiorstwie, gospodarstwie domowym, czy rządzie – instytucja, która nie jest w stanie spłacić zaciągniętych długów, staje się bankrutem i basta. A więc odpowiedź na pytanie w tytule powinna być krótka – tak. Tyle że bankructwo kraju wygląda zupełnie inaczej niż upadłość firmy.
+Grecy, nie zważając na widmo bankructwa kraju, protestują przeciw planom oszczędnościowym rządu Papandreu Do bankructwa dochodzi wówczas, gdy w kasie państwa brakuje pieniędzy, a  nikt już nie chce ich pożyczyć. Najczęściej dzieje się tak wtedy, gdy kraj w przeszłości wydawał więcej, niż zarabiał, i wpadł w pułapkę zadłużenia. Może odmówić spłat całego zadłużenia, a może to zrobić tylko w odniesieniu do jakiejś jego części. Ale nie zmienia to faktu, że  państwo staje się bankrutem.
+
+Detonatorem kryzysu są zazwyczaj wydarzenia, które gwałtownie pogarszają sytuację finansową dłużnika: w  wypadku firmy jest to recesja, a w wypadku państw – wojny, rewolucje albo poważne zawirowania finansowe. Ale to nie detonator jest przyczyną katastrofy. Grecja stanęła dziś na skraju bankructwa z powodu prowadzonej przez 30 lat nieodpowiedzialnej polityki budżetowej tolerującej corocznie nadmierne deficyty budżetowe i wzrost długu publicznego.
+
+Różnica między sytuacją państwa i firmy polega na tym, że w  razie nadmiernych długów państwo może dodrukować pieniądze i próbować uregulować zobowiązania za ich pomocą. Wówczas najprawdopodobniej wybuchnie hiperinflacja, a zadłużenie zostanie spłacone pieniądzem całkowicie bezwartościowym. Nie da się jednak tak postąpić w odniesieniu do tej części długu, którą zaciągnięto w walutach obcych. Dlatego jeśli dochodzi do kryzysu, zazwyczaj chodzi o bankructwo częściowe, dotyczące długu zagranicznego.
+
+Bankructwo firmy i państwa to niby to samo, ale  wiąże się z zupełnie innymi konsekwencjami. Przede wszystkim zbankrutowanego państwa nie można ani zlikwidować, ani przeprowadzić licytacji jego mienia. Pozostają więc środki nacisku pośredniego –  finansowy ostracyzm, odcięcie od nowych źródeł kredytu, żądanie, aby za  cały import kraj płacił z góry gotówką. Konsekwencje gospodarcze takich poczynań są dla kraju bankruta niezwykle bolesne. Prowadzą zazwyczaj do  ciężkiego kryzysu gospodarczego państwa i drastycznego spadku poziomu życia jego obywateli. Zazwyczaj też zmuszają dany kraj do podjęcia prób wynegocjonowania z wierzycielami choćby częściowej, rozłożonej na raty spłaty zadłużenia. Dzięki temu może on zostać na nowo wpuszczony na  międzynarodowe rynki finansowe.
+
+Historia bankructw państw sięga tysięcy lat. Choć pierwsze znane przypadki odnotowano w starożytnej Grecji (co tworzy ładną klamrę z  czasami dzisiejszymi), problem ten rozplenił się dopiero w XVI i XVII wieku, kiedy zwrotu swoich długów kilkakrotnie odmówiły najbogatsze państwa ówczesnej Europy – Hiszpania i Francja. Za każdym razem powodem były niemożliwe do sfinansowania wydatki militarne. W ciągu ostatnich 200 lat historycy gospodarczy doliczyli się setek wypadków całkowitego lub częściowego bankructwa krajów. Tylko Paragwaj odmówił spłaty swoich długów siedmiokrotnie, Argentyna sześć razy, a Turcja cztery.
+
+Często mieliśmy również do czynienia z epidemiami bankructw. W czasie wielkiego kryzysu na początku lat 30. ubiegłego wieku zobowiązania przestało regularnie spłacać 21 państw, a podczas rekordowego kryzysu zadłużeniowego z początku lat 80. – ponad 30 (w tym również Polska). Wśród najsłynniejszych bankructw warto wymienić dwukrotny upadek finansowy Rosji – całkowitą odmowę spłaty carskich długów przez bolszewików oraz odmowę wykupu przez rząd rosyjski części wyemitowanych obligacji w roku 1998.
+
+Bankructwo kraju to straszliwy cios zadany jego gospodarce. Finansowy parias oczywiście nadal żyje, ale płaci za to  wieloma latami ciężkiego kryzysu. Grecy, choć jak mogą, protestują przeciwko planom oszczędnościowym rządu, zrobiliby lepiej, pomagając mu w opanowaniu sytuacji. A Polacy powinni uważnie się temu przyjrzeć, by  za 10 czy 20 lat nie znaleźć się dokładnie tam, gdzie dziś jest Grecja.
+
+Witold M. Orłowski
+</details>
+
 ### 1989
 
 Odbyło się spotkanie przewodniczącego NSZZ Solidarność Lecha Wałęsy z generałem Czesławem Kiszczakiem. W jego trakcie podjęta została decyzja o powołaniu Komisji Porozumiewawczej- organu, którego zadaniem miało być czuwanie nad realizacją porozumień zwartych podczas zakończonych 5 kwietnia 1989 roku obrad Okrągłego Stołu. Tego samego dnia w Sejmie doszło do pierwszego po ponad siedmiu latach spotkania Lecha Wałęsy z gen. Wojciechem Jaruzelskim.

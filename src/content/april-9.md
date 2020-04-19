@@ -75,6 +75,10 @@ Na początku lat 70-tych XX wieku stworzył najlepszy minikomputer (K-202) na ś
 
 <img src="./img/april/karpinski.jpg"/><br><br>
 
+### 1835
+
+Zbudował prywatne państwo i mordował masowo ludzi: https://pl.wikipedia.org/wiki/Leopold_II_Koburg
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

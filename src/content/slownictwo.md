@@ -738,7 +738,7 @@ good point - słuszna uwaga
 utracjusz
 człowiek lekkomyślnie wydający pieniądze; hulaka; lekkoduch
 
-
+I haven't landed yet - jeszcze nie skumałem/zrozumiałem
 
 ---
 
