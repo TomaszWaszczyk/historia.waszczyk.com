@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20 kwietnia
-image: img/april/Executive_Order_6102.jpg
+image: img/april/fed.png
 author: Tomasz Waszczyk
 date: 2019-04-20T10:00:00.000Z
 tags:
@@ -12,6 +12,10 @@ draft: true
 ### 2020
 
 <img src="./img/april/lekarzewniosek.jpg"><br><br>
+
+---
+
+<img src="./img/april/fed.png"><br><br>
 
 ---
 
