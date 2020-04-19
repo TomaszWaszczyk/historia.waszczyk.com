@@ -15,6 +15,8 @@ draft: false
 
 ---
 
+Bez komentarza.
+
 <img src="./img/april/lusztyn.png"><br><br>
 
 ---
@@ -41,7 +43,7 @@ Dzisiaj jest najlepszy moment żeby to zrozumieć.
 
 Ten post podzielę na dwie części. Jeśli ktoś próbując przebrnąć przez część I stwierdzi, że właśnie przepalają mu się zwoje w mózgu, niech od razu przejdzie do części II, zanim zrezygnuje z czytania całości.
 
-`Część I`
+#### Część I
 
 Rząd ogłosił, że w najbliższym czasie obdarzy polskie przedsiębiorstwa zawrotną kwotą 100 mld zł, w celu ratowania gospodarki.
 
@@ -73,7 +75,7 @@ Gdzie tutaj jest kradzież, o której pisałem na początku, skoro wszystko jest
 
 O tym właśnie będzie część II.
 
-Część II.
+#### Część II
 
 Jeśli zrozumiałeś część I to znaczy, że należysz do 1% społeczeństwa i jesteś ekonomistą, albo przynajmniej pasjonatem ekonomii.
 
@@ -108,7 +110,7 @@ Jak to się ma do obecnej sytuacji w Polsce?
 
 Polski Fundusz Rozwoju jest spółką akcyjną, której właścicielem jest skarb państwa, ale nie jest jednostką budżetową, czyli jej długi nie obciążają budżetu państwa.
 
-PFN emituje obligacje wartości 100 mld zł, chociaż nie posiada majątku wartości 100 mld zł.
+PFR emituje obligacje wartości 100 mld zł, chociaż nie posiada majątku wartości 100 mld zł.
 
 Jeśli więc te obligacje sprzeda bankom, to znaczy że pieniądze, które otrzyma od banków są „pustymi” pieniędzmi, ponieważ nie stoi za nimi żadna realna wartość, żadna praca ani żaden realny majątek, który jest efektem wykonanej pracy.
 
@@ -164,7 +166,7 @@ Nikt nie pyta co rząd zrobił z pieniędzmi, które zabierał jako podatki?
 
 Niedługo Morawiecki znów wyjdzie na mównicę i powie, że wszyscy będą musieli ponieść ciężar tego kryzysu. To znaczy, WY wszyscy. Nie ONI wszyscy. Wmówi wam, że niedługo potem będziecie milionerami. Będzie miał rację. Zapomni tylko dodać, że będziecie jeszcze bardziej biedni.
 
-Kto jest złodziejem?
+#### Kto jest złodziejem?
 
 Wystarczy sprawdzić, kto się będzie bogacił wtedy, kiedy inni będą biednieć.
 

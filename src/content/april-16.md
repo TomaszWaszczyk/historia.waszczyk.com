@@ -102,6 +102,8 @@ Na pierwszej sesji notowanych było pięć firm: Tonsil, Próchnik, Krosno, Kabl
 
 Dzisiaj żadna ze spółek, która notowana była na pierwszej sesji, nie jest już obecna na GPW. Rynek w ciągu 29 lat przebył jednak bardzo długą drogę. Dzisiaj warszawska giełda jest największym rynkiem w Europie Środkowo – Wschodniej. Na głównym rynku notowane są 444 spółki, a ich łączna kapitalizacja to ponad 800 mld zł. Warszawa pod względem kapitalizacji firm, a także obrotów rynkowych wyraźnie przebija m.in. giełdę wiedeńską, z którą przez lata rywalizowała o prym w Europie Środkowo – Wschodniej.
 
+<img src="./img/april/gpw.jpg"><br><br>
+
 ### 1952
 
 Po sfingowanym procesie opartym na wymuszonych i fałszywych zeznaniach byłych podwładnych został skazany na karę śmierci generał August Emil Fieldorf "Nil".

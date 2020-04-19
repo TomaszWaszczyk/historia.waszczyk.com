@@ -220,6 +220,12 @@ Na wyspie Alcatraz w zatoce San Francisco otwarte zostało jedno z najcięższyc
 
 <img src="./img/january/alcatras.jpg"/><br><br>
 
+### 1927
+
+<img src="./img/january/bieda_galicyjska.jpg"><br><br>
+
+https://en.wikipedia.org/wiki/Poverty_in_Austrian_Galicia
+
 ### 1919
 
 1919 roku w Homlu urodził się Marek Edelman (zdjęcie)- polski lekarz kardiolog, działacz polityczny, jeden z przywódców powstania w gettcie warszawskim. W czasie okupacji był żołnierzem Żydowskiej Organizacji Bojowej. W czasie Powstania Warszawskiego walczy w podporządkowanym Armii Ludowej plutonie ŻOB na Starym Mieście. W roku 1951 ukończył studia na Akademii Medycznej w Łodzi, gdzie mieszkał prawie do końca życia. W latach 70 tych był współpracownikiem Komitetu Obrony Robotników. Był jednym z sygnatariuszy tzw "Listu 101"-protestu skierowanego do władz PRL przeciwko zmianom w konstytucji. W latach 80 tych był działaczem Solidarności. W 1983 odmówił władzom PRL udziału w Honorowym Komitecie Obchodów 40-leciaPowstania w Getcie, natomiast SB uniemożliwiła mu udział w obchodach. W roku 1988 przewodniczył Komisji ds. Mniejszości Narodowych w ramach Komitetu Obywatelskiego przy Lechu Wałęsie .

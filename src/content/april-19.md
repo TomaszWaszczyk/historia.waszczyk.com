@@ -39,6 +39,12 @@ Benoît i austriackiego Karla Reviczkyego, którzy zamierzali przeprowadzić leg
 
 <img src="./img/april/rozbior.jpg"><br><br>
 
+### 1770
+
+Kapitan James Cook po raz pierwszy dostrzegł wybrzeże Australii.
+
+W 1770 r. do wschodnich wybrzeży Australii dotarł James Cook - słynny brytyjski podróżnik. Sporządził on dokładne mapy i opisał roślinność. Jako odkrywca, ogłosił tę część kontynentu posiadłością Korony Brytyjskiej i nazwał Nową Południową Walią. Początkowo Anglia wykorzystywała nową posiadłość wyłącznie jako kolonię karną. W 1788 przywieziono tu pierwszych skazańców i założono pierwsze osiedle, Sydney. Z czasem zakładano kolejne, niezależne od siebie kolonie. Przez kolejne blisko 100 lat zsyłano tu więźniów i przestępców.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
