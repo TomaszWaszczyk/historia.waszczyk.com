@@ -176,6 +176,15 @@ Może wtedy ktoś zrozumie, że milioner nigdy nie będzie dbał o majątek bied
 
 Znów bogaci będą tanio kupować działki i inne nieruchomości, które będą im sprzedawać biedni. Następnie za 10 lat biedni odkupią je od bogatych po znacznie wyższych cenach i historia się powtórzy. Wtedy zacznie się kolejny kryzys."
 
+<!-- Owszem sprytnie wyjaśnia na czym polega inflacja natomiast całkowicie gubi, jak przychodzi do działań banku centralnego naszego czy Niemiec.
+Po pierwsze: rząd może pieniądze pożyczyć zwiększając dług publiczny albo może również je wydrukować nie zwiększając długu. I owszem techniczne rzecz biorąc krótkoterminowo wychodzi na to samo, jeśli NBP skupuje obligacje od PFR a ten od rządu, ale długoterminowo nie.
+W księgach rządowych jest deficyt, czyli nie zmieniła się całkowita ilość pieniądza na rynku. Ten deficyt rząd będzie musiał kiedyś spłacić, czyli to, co wydrukowało na poczet ratowania firm, ale też nas artystów, będzie musiało wydobyć z rynków finansowych i "wrzucić je do niszczarki". Jak to zrobi? Prawdopodobnie zwiększy podatki dla Google'a, dla najbogatszych, może opodatkuje bardziej banki, nie wiem. W każdym razie własnie po to, by nie było inflacji,w którymś momencie będzie musiał ściągać pieniądze z rynku.
+Po drugie: pakiet stymulacyjny jest koniecznością. Firmy mają zatory, muszą spłacać podwykonawców a nie mają przychodu. Jeśli się nie pomoże firmom i ludziom to wszystko pada jak domino. Upadek jednej firmy powoduje upadek innych firm. Dlatego rząd trochę w ciemno dolewa gotówki wszystkim po trochu, po to, żeby obieg pieniądza cały czas istniał.
+Z pieniędzmi jest jak z obiegiem wody. Woda spływa rzekami do mórz, potem paruje a potem spływa. W tym momencie obieg został zatrzymany przez pandemię, dlatego państwo dolewa wody do rzeki a jak ocean się zacznie przelewać będzie jej nadmiar zabierać.
+Po trzecie: nieprawdą jest, że rząd Niemiec ma jakieś mityczne oszczędności, które Polska przejadała. Oba nasze kraje mają bardzo niskie zadłużenie a rząd którego nie lubimy doprowadził do zbilansowania wydatków i przychodów pierwszy raz w dziejach III i IV RP. Wszystkie kraje się teraz zadłużają: Niemcy, Wielka Brytania, Stany, Dania, Francja, Włochy. Po prostu tak się działa: antykoniunkturalnie. -->
+
+---
+
 <details><summary>Felieton: Czy państwo może zbankrutować?</summary><br>
 Nieważne, czy mówimy o przedsiębiorstwie, gospodarstwie domowym, czy rządzie – instytucja, która nie jest w stanie spłacić zaciągniętych długów, staje się bankrutem i basta. A więc odpowiedź na pytanie w tytule powinna być krótka – tak. Tyle że bankructwo kraju wygląda zupełnie inaczej niż upadłość firmy.
 Grecy, nie zważając na widmo bankructwa kraju, protestują przeciw planom oszczędnościowym rządu Papandreu Do bankructwa dochodzi wówczas, gdy w kasie państwa brakuje pieniędzy, a  nikt już nie chce ich pożyczyć. Najczęściej dzieje się tak wtedy, gdy kraj w przeszłości wydawał więcej, niż zarabiał, i wpadł w pułapkę zadłużenia. Może odmówić spłat całego zadłużenia, a może to zrobić tylko w odniesieniu do jakiejś jego części. Ale nie zmienia to faktu, że  państwo staje się bankrutem.

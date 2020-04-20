@@ -25,6 +25,10 @@ W czasie wywiadu powtórzył też wcześniejsze zapewnienie o tym, że rząd nie
 
 ---
 
+<img src="./img/april/oil2020.png"><br><br>
+
+---
+
 <img src="./img/april/lekarzewniosek.jpg"><br><br>
 
 ---
