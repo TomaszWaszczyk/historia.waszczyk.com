@@ -15,7 +15,7 @@ W wieku 91 lat zmarła w Warszawie Maria Wittek (zdjęcie) pierwsza w historii W
 W roku 1917 wstąpiła do służby w Polskiej Organizacji Wojskowej. Trzy lata później, jako żołnierz Ochotniczej Legii Kobiet brała udział w obronie Lwowa za co otrzymała Krzyż Srebrny Orderu Wojennego Virtuti Militari.
 W czasie drugiej wojny światowej pełniła służbę, jako komendantka główna Kobiecych Batalionów Pomocniczej Służby Wojskowej, a następnie, jako komendantka Wojskowej Służby Kobiet przy Komendzie Głównej Związku Walki Zbrojnej – Armii Krajowej. Była uczestniczką Powstania Warszawskiego. Po wojnie, w roku 1949 trafiła na kilka miesięcy do aresztu. Po wyjściu z więzienia pracowała, jako kioskarka. Była pomysłodawczynią stworzenia Komisji Historii Kobiet przy Towarzystwie Miłośników Historii w Warszawie. 2 maja 1991 roku jako pierwsza kobieta w historii Wojska Polskiego została mianowana przez Prezydenta RP Lecha Wałęsę na stopień generała brygady.
 
-<img src="./img/aprtil/mariawittek.jpg"><br><br>
+<img src="./img/april/mariawittek.jpg"><br><br>
 
 <img src="./img/april/israel.jpg"><br><br>
 
