@@ -744,7 +744,7 @@ węzłowisko symboliczne
 
 wise money
 
-
+a contrario
 
 ---
 

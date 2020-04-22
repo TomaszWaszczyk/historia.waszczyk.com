@@ -29,6 +29,15 @@ Mamy to samo co za PO, tylko bardziej. Mieszanka wybuchowa władzy i wiary we w�
 
 Mentzen
 
+---
+
+Holenderski bank centralny (DNB) jest otwarty na cyfrową walutę banku centralnego (CBDC) Unii Europejskiej. Oficjalnie przyznano to w 45-stronicowym raporcie opublikowanym 21 kwietnia.
+Holenderski bank centralny „jest gotów odegrać wiodącą rolę”
+
+Bank przyznał, że „jest gotów odegrać wiodącą rolę” w procesie emisji CBDC UE. Oczekuje się, że euro w cyfrowej wersji sprawi, że płatności transgraniczne będą szybsze i tańsze dla wszystkich państw członkowskich. Holandia chce być poligonem doświadczalnym w tym procesie.
+
+Co ciekawe w raporcie wskazano Librę Facebooka jako potencjalne zagrożenie dla stabilności monetarnej i przyznano, że „jest to powód, przez który DNB i inne banki centralne rozważają obecnie wydanie własnej waluty cyfrowej”.
+
 ### 1953
 
 W Poznaniu zmarł na atak serca Jan Czochralski - profesor Politechniki Warszawskiej, metalurg, chemik i metaloznawca, twórca prac dotyczących głównie otrzymywania monokryształów i rekrystalizacji metali. Wynalazca stopu, z którego wykonywano panewki do produkcji ślizgowych łożysk kolejowych. Odkryta przez niego metoda otrzymywania monokryształów, nazwana od jego nazwiska metodą Czochralskiego, wyprzedziła o kilkadziesiąt lat swoją epokę i umożliwiła rozwój elektroniki. Dziś wszelkie urządzenia elektroniczne zawierają układy scalone, diody i inne elementy z monokrystalicznego krzemu, otrzymywanego właśnie metodą Czochralskiego.
