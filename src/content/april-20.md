@@ -11,6 +11,8 @@ draft: false
 
 ### 2020 - Oszczędności Polaków są bezpieczne – twierdzi prezes Polskiego Funduszu Rozwoju
 
+Wystawca opcji PUT ponosi mniejsze ryzyko niż wystawca opcji CALL. Gdyż cena nie może spaść poniżej zera. Okazuje się, że podałem nieprawdę ;)
+
 #### Oszczędności Polaków nie są zagrożone
 
 Borys udzielił wywiadu Radiu Zet. Przyznał, że PFR, aby sfinansować 100-mln program pomocy, będzie teraz emitować obligacje. Nie jest jasne, czy trafią one do inwestorów indywidualnych. – Nie wykluczamy takiej emisji – dodał. Oprócz tego dowiedzieliśmy się, że oprocentowanie obligacji byłoby na poziomie 2 proc. rocznie. – Ale to nie jest sięganie po oszczędności – podkreślił.

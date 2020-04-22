@@ -24,6 +24,16 @@ Grafika przedstawia ulicę Mickiewicza w Czortkowie.
 
 <img src="./img/january/czortakowie.jpg"/><br><br>
 
+### 1935
+
+W Warszawie zmarł gen. Bolesław Jaźwński. W wojnie 1920 dowódca 11 Dywizji Piechoty, od 1920 do 1926 szef Wojskowego Instytutu Geogr. W przewrocie majowym opowiedział się po stronie rządowej. Więziony bez wyroku sądu i bez postawionych zarzutów.
+
+<img src="./img/april/jazwinski.jpeg"><br><br>
+
+### 1874
+
+https://pl.wikipedia.org/wiki/Wincenty_Witos
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-21.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
