@@ -17,6 +17,8 @@ draft: true
 
 <img src="./img/april/battery2.jpeg"><br><br>
 
+More: https://patents.google.com/patent/WO2020060606A1/
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

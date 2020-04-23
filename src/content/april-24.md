@@ -27,6 +27,33 @@ Gdy naczelnik ogłaszał 4k płacy minimalnej w 2024 roku to wieszano na nim psy
 
 <img src="./img/april/mierzeje2.jpg"><br><br>
 
+---
+
+> pandemia Covid19
+> kryzys finansowy
+> drukarki robią brrr
+> kryzys klimatyczny
+> poważny problem suszy
+> płonie Australia, a w Polsce Biebrzański Park Narodowy
+> Wielka Brytania nie jest członkiem Unii Europejskiej
+> zduszenie gospodarki
+> ujemna cena ropy
+> drukarki robią brr
+> woda będzie droższa niż złoto?
+> część rolników jeszcze nie została rozliczona za ostatnią suszę
+> obowiązkowe zasłanianie ust i nosa
+> milenialsi stoją w kolejkach
+> Nowy Jork sparaliżowany
+> informacje wywiadowcze "nie potwierdzają i nie zaprzeczają" doniesieniom o słabym stanie zdrowia Kima.
+> Coronabond dla ratowania gospodarki włoskiej
+> social media zżerane przez fake newsy
+> nie wyciągamy wniosków z poprzednich kryzysów
+> sektor usług na potężnym kredycie
+> Akcmann w zysku
+> 3 612% w marcu, 4 144% w I kwartale tego roku. Tyle zarobił Black Swan Protection Protocol Fund.
+
+Brakuje jeszcze lądowania ufo.
+
 ### 2018
 
 <img src="./img/april/gospodarka.jpg"/><br><br>
