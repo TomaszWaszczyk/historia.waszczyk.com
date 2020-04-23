@@ -28,6 +28,12 @@ The megatrend of the 2020s will be (in addition to broad adoption of the above) 
 
 ---
 
+Change definition of government:
+
+https://en.wikipedia.org/wiki/Quadratic_voting
+
+---
+
 * Ceny mięsa z powodu kryzysu ekologicznego powinny rosnąć.
 
 * Ceny wody powinny rosnąć z powodu kryzysu ekologicznego.
