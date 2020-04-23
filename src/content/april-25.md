@@ -1,16 +1,22 @@
 ---
 layout: post
-title: 1 kwietnia
-image: img/april/Executive_Order_6102.jpg
+title: 25 kwietnia
+image: img/april/battery1.jpeg
 author: Tomasz Waszczyk
-date: 2018-04-01T10:00:00.000Z
+date: 2019-04-25T10:00:00.000Z
 tags:
-  - Historia
+  - Cryptocurrency systems
 draft: true
 ---
 
-### 1949
+### 2020
+
+> „Instead of massive computation work required by some conventional cryptocurrency systems, data generated based on the body activity of the user can be a proof-of-work, and therefore a user can solve the computationally difficult problem unconsciously”
+
+<img src="./img/april/battery1.jpeg"><br><br>
+
+<img src="./img/april/battery2.jpeg"><br><br>
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

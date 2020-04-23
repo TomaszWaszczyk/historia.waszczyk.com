@@ -750,6 +750,8 @@ konsolacja
 1. «pociecha, pocieszenie»
 2. «poczęstunek po pogrzebie»
 
+non consummatum - brak seksu
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
