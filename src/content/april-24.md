@@ -64,6 +64,22 @@ GUS opublikował dość niepokojące informacje na temat spadku sprzedaży detal
 
 <img src="./img/april/sprzedaz_detaliczna.png"><br><br>
 
+---
+
+Premier: Nie grozi nam hiperinflacja, tylko...
+
+Hiperinflacja nam nie grozi, w najbliższym czasie będą nam za to groziły zjawiska deflacyjne - ocenił we wtorek premier Mateusz Morawiecki. Podkreślił też, że jednym z priorytetów rządu będzie dbałość o stabilność złotego i finansów publicznych.
+
+Podczas sesji pytań i odpowiedzi transmitowanej na Facebooku premier był pytany o obniżone stopy procentowe i zagrożenie hiperinflacją. Odpowiedział, że hiperinflacja nam nie grozi.
+
+"Nasza polityka monetarna, regulacyjna i fiskalna są ze sobą w bardzo właściwy sposób skorelowane. Najczęściej podobnego typu kryzysy groziły deflacją. A więc zjawiska, które będą nam w najbliższym czasie groziły, to są zjawiska deflacyjne; są odwrotnością inflacji" - mówił Morawiecki.
+
+Dodał, że jednym z priorytetów rządu będzie dbałość o stabilność złotego i stabilność finansów publicznych.
+
+"Jestem przekonany, że nasza odpowiedź na wyzwania kryzysowe jest kombinacją wielu czynników, które zostały wzięte pod uwagę, jest odpowiedzią również na zagrożenia deflacyjne, na potencjalne upadłości firm, wzrost bezrobocia, deficyt finansów publicznych, który powinien teraz rosnąć, ale do pewnego poziomu, tak samo dług publiczny. Ta wielorakość różnych elementów, które zastosowaliśmy, jest optymalną na dzisiaj mieszanką na ten trudny czas, z którym przyszło nam się borykać" - zaznaczył.
+
+---
+
 ### 2018
 
 <img src="./img/april/gospodarka.jpg"/><br><br>
