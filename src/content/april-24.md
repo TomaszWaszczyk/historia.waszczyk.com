@@ -80,6 +80,10 @@ Dodał, że jednym z priorytetów rządu będzie dbałość o stabilność złot
 
 ---
 
+Filozof o pandemii koronawirusa: To punkt zwrotny historii. Globalny kapitalizm jest spalony, już nie wróci.
+
+---
+
 ### 2018
 
 <img src="./img/april/gospodarka.jpg"/><br><br>
