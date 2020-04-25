@@ -9,7 +9,9 @@ tags:
 draft: true
 ---
 
-### 1949
+### 1943
+
+Z niemieckiego obozu Auschwitz uciekł rotmistrz Witold Pilecki. Pilecki do obozu trafił dobrowolnie, aby dowiedzieć się o nim jak najwięcej i zorganizować konspirację.
 
 ---
 
