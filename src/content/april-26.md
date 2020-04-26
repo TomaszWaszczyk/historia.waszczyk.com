@@ -11,11 +11,13 @@ draft: false
 
 ### 2020
 
-No i zaczął się szybki zjazd po równi pochyłej. Najgorsze przed nami. Mamy zarazę koronowirusa, a jesteśmy już traktowani jak trędowaci.
+Polski rząd persona non grata na obchodach 14 lipca. Prezydent Francji wycofał zaproszenie z okazji dnia Bastylii, ale najgorsze dopiero przed nami.
+
 Narodzie kochany, czas wybrać: cywilizacja wschodu (Putin, Orban, Erdogan...) czy cywilizacja zachodu, o której niegdyś marzyliśmy i za którą nasi ojcowie przelewali krew?
+
 Nadchodzi czas decyzji.
 
-https://gazetaplus.pl/polski-rzad-persona-non-grata-na-obchodach-14-lipca-prezydent-francji-wycofal-zaproszenie-z-okazji-dnia-bastylii-ale-najgorsze-dopiero-przed-nami/
+> Macrona rozsierdziło podpisanie przez Andrzeja Dudę ustawy kagańcowej, zaraz po zakończeniu wizyty francuskiego przywódcy. Teraz dochodzą nowe elementy. Francuska korespondentka niemieckiego dziennika Frankfurter Allgemeine Zeitung (FAZ), pisze na łamach gazety, że Francuzom nie podoba się zmiana w ostatniej chwili prawa wyborczego w Polsce i parcia za wszelką cenę do majowych wyborów. FAZ przypomina, że Francja nie zdecydowała się na przeprowadzenie drugiej tury wyborów samorządowych i przeniosła je na bliżej nieokreślony czas.
 
 ### 1945
 
