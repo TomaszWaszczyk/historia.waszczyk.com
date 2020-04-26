@@ -296,6 +296,12 @@ Formalne zerwanie stosunków dyplomatycznych przez Moskwę z polskim rządem na 
 
 <img src="./img/april/katyn3.jpg"><br><br>
 
+### 1942
+
+W Warszawie, harcmistrz podporucznik Armii Krajowej Jan Bytnar ps. ,,Rudy'' dokonał przeróbki napisu na szyldzie przed głównym biurem werbunkowym Arbeitsamtu (Urzędu Pracy) przy ulicy Nowy Świat 68. Napis, zachęcający Polaków do wyjazdów na roboty do Niemiec brzmiał "Jedź z nami do Niemiec!". Bytnar dokonał przeróbki, która brzmiała „Jedźcie sami do Niemiec!!”. Za czyn, którego dopuścił się Bytnar groziła wówczas kara śmierci.
+
+<img src="./img/april/bytnar.jpg"><br><br>
+
 ### 1915
 
 I wojna światowa: desant brytyjski wraz z oddziałami Australian and New Zealand Army Corps (ANZAC) wylądował na tureckim półwyspie Gallipoli.

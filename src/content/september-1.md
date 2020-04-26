@@ -14,6 +14,10 @@ The demand for long-term data storage is reaching unprecedented levels. By 2023,
 
 Project Silica is developing the first-ever storage technology designed and built from the media up, for the cloud. We are leveraging recent discoveries in ultrafast laser optics to store data in quartz glass by using femtosecond lasers, and building a completely new storage system designed from scratch around this technology. This opens up an incredibly exciting opportunity to challenge and completely re-think traditional storage system design, and to co-design the future hardware and software infrastructure for the cloud.
 
+### 2019
+
+<img src="./img/september/pieniadze.jpg"><br><br>
+
 ### 1992
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz

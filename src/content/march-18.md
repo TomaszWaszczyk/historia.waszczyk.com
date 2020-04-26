@@ -52,6 +52,24 @@ I jeszcze trzeba było się umartwiać.
 
 Właśnie. No, więc może dziś nie aż tak, ale trzeba zdać sobie sprawę z tego, że żyjemy w świecie, który nie jest koniecznie nam przyjazny. I w tym świecie będziemy musieli żyć. Warto z tego wyciągnąć wnioski; pomyśleć o sensie życia a wierzący – o sensie Boga. Może to trochę głupie rady, aby bardziej zająć się życiem duchowym, ale tak jest. Warto też zająć się stosunkami wzajemnymi, między ludźmi. Nawet miłość wymaga, żeby się o nią troszczyć i starać. Teraz ludzie siedzą z dziećmi w blokach, w małych mieszkaniach, to potrzebują ze sobą utrzymywać dobre stosunki. I odnaleźć w nich radość. Innymi słowy, trzeba skupić się na swojej postawie wobec świata i zastanowić się, co my robimy na tej ziemi. Nie bać się, nie roznosić fałszywych wiadomości, nie pisać, że psy i koty roznoszą koronawirusa – to mnie doprowadza do szału, bo to jest nieprawda. Zamiast zajmować się sensacjami, lepiej zająć się trochę sobą. Na ogół nie mamy na to czasu, a teraz – jest na to czas. Pomyślmy o sobie.
 
+### 2019 - China performs first 5G-based remote surgery on human brain
+
+A patient suffering from Parkinson's disease has received China's first 5G-based remote surgery with a deep brain stimulation (DBS) implant, according to local media.
+
+Chinese PLA General Hospital (PLAGH), with the help of China Mobile and Huawei 5G technology, carried out the operation on Saturday.
+
+Conducted by Ling Zhipei, chief physician of the First Medical Center of the Beijing-based PLAGH and Department of Neurosurgery of PLAGH's Hainan Hospital, the surgery lasted for about three hours.
+
+Ling started the operation at 9:00 a.m. in Sanya City, manipulating the surgical instruments 3,000 kilometers away in Beijing with micron precision on a computer through a 5G network, and successfully implanted the DBS at the optimal target site.
+
+"I feel good," said the patient after the surgery.
+
+"I take turns working in Beijing and Hainan, and the operation took place during my Hainan rotation. A patient with Parkinson's in Beijing needed surgery and couldn't fly to Hainan," said Ling.
+
+"The 5G network has solved problems like video lag and remote control delay experienced under the 4G network, ensuring a nearly real-time operation. And you barely feel that the patient is 3,000 kilometers away."
+
+In the future, high-quality and high-level experts from superior hospitals will be able to operate remotely and directly on patients in remote areas through remote surgery, completing operations which were previously difficult to finish at the grassroots-level hospitals, Ling added.
+
 ### 2014
 
 Władimir Putin podpisał traktat o przyjęciu Krymu i Sewastopola do Federacji Rosyjskiej.
