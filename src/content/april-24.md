@@ -110,6 +110,12 @@ Był laureatem Nagrody Literackiej im. Władysława Reymonta "za twórczość ca
 Marek Niedźwiecki poprowadził pierwsze notowanie Listy Przebojów Programu Trzeciego.
 Wygrała wówczas piosenka I’ll find My Way Home duetu Jon and Vangelis. Drugie miejsce zajęła piosenka O! Nie rób tyle hałasu zespołu Maanam, która w następnym notowaniu zdobyła pierwsze miejsce.
 
+### 1960
+
+Lekarz, który postanowił nie opatentowywać swojej szczepionki, aby wszystkie firmy farmaceutyczne mogły ją produkować i zaoferować dzieciom na całym świecie. Albert Bruce Sabin urodził się w 1906 w Białymstoku, w tradycyjnej rodzinie żydowskiej. W 1921 wraz z rodziną wyemigrował do Stanów Zjednoczonych, gdzie kształcił się na New York University. 24 kwietnia 1960 jako pierwszy na świecie zastosował szczepionkę, która całkowicie unicestwiała wirusa polio powodującego chorobę Heinego-Medina. Szczepienia na ogromną skalę przeprowadził na terenie ZSRR za zgodą Nikity Chruszczowa. Wyizolowanie szczepionki jak i wiele innych dokonań przyniosło Albertowi Sabinowi ogromną sławę i międzynarodowy rozgłos. Wyrazami uznania było przyznanie mu 40 doktoratów honoris causa przez uczelnie na całym świecie, a także wiele innych wyróżnień i nagród. Albert Sabin zrezygnował z pieniędzy patentowych umożliwiając szeroką produkcję szczepionki i udostępnienie jej także biednym krajom na całym świecie (w latach 1959–1961 miliony dzieci na różnych kontynentach zostały zaszczepione, co skutecznie zahamowało zachorowania na polio). Pochodzący z Polski żydowski lekarz powiedział: "Wielu nalegało na opatentowanie szczepionki, ale nie chciałem. Jest to mój dar dla wszystkich dzieci na świecie". Taki był testament Alberta Sabina z Białegostoku...
+
+<img src="./img/april/sabin.jpg"><br><br>
+
 ### 1945
 
 https://pl.wikipedia.org/wiki/Larry_Tesler

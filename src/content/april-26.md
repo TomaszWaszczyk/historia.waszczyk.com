@@ -35,6 +35,29 @@ Stosunki Vichy z aliantami dalekie były od przyjacielskich. Brytyjskie poparcie
 
 Z niemieckiego obozu Auschwitz uciekł rotmistrz Witold Pilecki. Pilecki do obozu trafił dobrowolnie, aby dowiedzieć się o nim jak najwięcej i zorganizować konspirację.
 
+Witold Pilecki, obawiając się dekonspiracji, a także pragnąc, jako naoczny świadek przekazać prawdę o KL Auschwitz, zbiegł z obozu w nocy z 26 na 27 kwietnia 1943 roku. Uciekał wraz z Janem Redzejem (nr 5430) i Edmundem Ciesielskim (nr 12969).
+Pilecki rozpoczął tworzenie obozowego ruchu oporu w Auschwitz, który nazwano Związek Organizacji Wojskowej. Jego raporty, przy pomocy Komendy Głównej ZWZ-AK trafiały do aliantów na Zachód. Były to jedne z pierwszych relacji "bezpośredniego świadka", które szczegółowo opisywały przemysłowe okrucieństwo i zezwierzęcenie Niemców. W śmiałych planach Pileckiego było także wywołanie w obozie powstania, a ten zbrojny akt buntu wobec oprawców miał być wsparty z zewnątrz działaniami partyzantów. Tych śmiałych planów jednak KG ZWZ-AK nigdy nie wprowadziła w życie. Pilecki zdecydował się na ucieczkę z Auschwitz pod wpływem coraz liczniejszych aresztowań wśród członków obozowego ruchu oporu. Choć Niemcy nigdy nie wpadli na jego trop, ryzyko wsypy był bardzo duże. Uciekając we trzech podczas nocnej zmiany z oświęcimskiej piekarni, która znajdowała się poza drutami obozu, szli wzdłuż torów kolejowych, doszli do Soły oraz do Wisły. Znaleźli tam łódkę i przepłynęli nią. Poznali księdza i dostali od niego posiłek, a także przewodnika. Dotarli do Bochni przez Tyniec, okolice Wieliczki i Puszczę Niepołomicką. Tam też się ukrywali u rodziny Oborów. Gdy ruszyli dalej, dostali się do Nowego Wiśnicza i tam też Witold znalazł Tomasza Serafińskiego, który to skontaktował go z oddziałami Armii Krajowej. Przedstawił im wtedy projekt ataku na obóz. Plan ten jednak nie został zaakceptowany, ponieważ uznano go za nierealny, gdyż samych SS- manów było około siedem tysięcy. 11 listopada 1943 roku Pileckiego awansowano go na rotmistrza.
+
+<img src="./img/april/redzej.jpg"><br><br>
+
+### 1960
+
+W Nowej Hucie doszło do
+starć w obronie krzyża. 19 lat później,
+podczas swojej I pielgrzymki do Ojczyzny,
+papież odprawiając mszę św. w Mogile,
+nawiązał do wydarzeń związanych z budową
+kościoła w Nowej Hucie w latach 60.
+Walka z Kościołem.
+Nowa Huta miała być sztandarowym
+projektem budownictwa socjalistycznego. Było to pierwsze w historii Polski „miasto bez
+Boga", zbudowane rozmyślnie bez kościoła. W tym miejscu, pomyślanym jako robotnicza
+przeciwwaga dla inteligenckiego Krakowa,
+wychować miano „nowego człowieka" - homo
+sovieticus.
+
+<img src="./img/april/sovietikus.jpg"><br><br>
+
 ### 1986
 
 Doszło do katastrofy w elektrowni atomowej w Czarnobylu koło Prypeci na północy Ukrainy.
@@ -60,6 +83,32 @@ Najbardziej dotkniętymi obszarami była Ukraina i Białoruś, które zdecydowa�
 Śledztwo w sprawie katastrofy w Czarnobylu zostało oficjalnie zakończone, z wynikiem, że to personel elektrowni nie przestrzegał odpowiednich przepisów bezpieczeństwa. Dyrektor elektrowni Wiktor Briuchanow i naczelny inżynier Nikołaj Fomin zostali skazani na 10 lat pozbawienia wolności, zastępca naczelnego inżyniera ds. bloków III i IV Anatolij Diatłow na 5 lat, kierownik drugiego działu reaktorowego A. Kowalenko i kierownik zmiany B. Rogożkin na 3 lata i inspektor Państwowego Dozoru Jądrowego J. Łauszkin na 2 lata. Początkowo zakładano że proces odbędzie się w Moskwie ale dla dodania większej dramaturgii całego procesu jak i jego rozgłosy postanowiono że proces odbędzie się w Czarnobylu. Katastrofa elektrowni jądrowej zapoczątkowała zmiany w zasadach bezpieczeństwa energetyki jądrowej oraz zapisała nowy rozdział w historii ludzkości.
 
 <img src="./img/april/czarnobyl.jpg"><br><br>
+
+### 1940
+
+W lesie w okolicach wsi Szawjcaria (obenie dzielnica Suwałk ) Niemcy rozstrzelali 13 członków Tymczasowej Rady Ziemi Suwalskiej-pierwszej na Suwalszczyźnie organizacji konspiracyjnej.
+Zamordowani zamierzali przeprowadzić zamach na niemieckie kino Filmia przy ulicy Kościuszki 82. Plany te nie powiodły się na skutek denuncjacji jednego z członków grupy, Zygmunta Majchrzaka, byłego podoficera Korpus Ochrony Pogranicza i współpracownika
+Abwehry. 16 listopada 1939 roku wszyscy konspiratorzy zostali aresztowani. 10 kwietnia 1940 roku gestapowski sąd doraźny skazał wszystkich na śmierć przez rozstrzelanie.
+Na zdjęciu tablica pamiątkowa znajdująca się na zbiorowej mogile, w której pochowano suwalskich konspiratorów.
+
+<img src="./img/april/denuncjacja.jpg"><br><br>
+
+---
+
+W KL Sachsenhausen zamordowany został ksiądz Stanisław Kubista (zdjęcie) wykładowca gimnazjalny, redaktor pisma "Posłaniec Józefa Świętego", współorganizator Muzeum Etnograficznego eksponatów z Chin, Brazylii i Nowej Gwinei, błogosławiony Kościoła Katolickiego.
+Pochodził z Kostuchnej w województwie śląskim. W czasie pierwszej wojny światowej uczestniczył w walkach na Froncie Francuskim. Święcenia kapłańskie otrzymał w roku 1927. Do niemieckiego aresztu trafił już na początku drugiej wojny światowej w wyniku aresztowania przez Gestapo w dniu 27 października 1939 roku. W lutym 1940 roku przetransportowany został do obozu przejściowego Zivilgefangenenlager Neufahrwasser w okolicach Stutthofu. 9 kwietnia 1940 roku znalazł się w Sachsenhausen, gdzie otrzymał numer obozowy 21154. Beatyfikowany przez papieża Jana Pawła II w Warszawie 13 czerwca 1999 w grupie 108 polskich męczenników.
+Miał 43 lata.
+
+<img src="./img/april/kubista.jpg"><br><br>
+
+---
+
+W Katyniu zamordowany został Karol Stanisław Szymański (zdjęcie) doktor medycyny, psychiatra, podporucznik Wojska Polskiego, lekarz 26. Pułku Piechoty, w roku 1932 odznaczony Krzyżem Kawalerskim Orderu Polonia Restituta za wybitne zasługi oddane medycynie polskiej.
+W czasie wojny obronnej we wrześniu 1939 roku służył w szpitalu w Łodzi, a następnie w Lublinie. Do sowieckiej niewoli trafił prawdopodobnie w październiku tego samego roku. Został osadzony w obozie w Kozielsku, a następnie w Katyniu, gdzie zamordowano go od razu po przywiezieniu. Miał 45 lat.
+
+<img src="./img/april/szymanski.jpg"><br><br>
+
+---
 
 ### 1886
 
