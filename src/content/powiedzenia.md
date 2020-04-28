@@ -2707,6 +2707,11 @@ https://pl.wikipedia.org/wiki/O_tempora,_o_mores!
 
 Lubimy ludzi, którzy bez wahania mówią to, co myślą, pod warunkiem, że myślą to samo co my.
 
+“I think there is a world market for maybe five computers.”
+Thomas Watson, president of IBM, 1943
+
+Maximus fluvius ex fontibus minimis crescit.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
