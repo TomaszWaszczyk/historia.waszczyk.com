@@ -21,4 +21,11 @@ Protesters returned on Tuesday, setting two banks on fire and smashing their fac
 
 ---
 
+Japonia dołącza do krajów ze skupem obligacji no-limit. Tu jednak warto dodać, że to nie jest wielka nowość i Japończycy są dodatkowo prekursorami skupowania np. ETF czy REITów:
+
+"Warto dodać, że jeszcze długu przed kryzysem Japonia była jednym z największych, o ile nie największym eksperymentatorem monetarnym (np. poprzez wspomniane kupowanie jednostek funduszy ETF, grupujących akcje notowane na giełdzie w Tokio), zaś stopy procentowe w tym kraju należały i wciąż należą do najniższych na świecie.
+W amerykańskich mediach nie brak opinii, że w czasie obecnego kryzysu, tak jak po upadku Lehman Brothers, świat zachodni może skorzystać z japońskich doświadczeń – ostatecznie znane z USA i Europy programy luzowania ilościowego (QE) wzorowane były na programie uruchomionym w Japonii już na przełomie wieków."
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-29.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
