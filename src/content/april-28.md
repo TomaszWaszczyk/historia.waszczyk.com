@@ -49,4 +49,18 @@ Komuniści pozwolili jednak młodym na spotkanie w dniu 5 września 1948 roku, k
 
 ---
 
+### 1947
+
+O godzinie 4 nad ranem rozpoczęła się Akcja „Wisła” - akcja militarna wymierzona w struktury UPA i Organizacji Ukraińskich Nacjonalistów ( deportacją objęto również tereny, na których UPA nie działała i nie było ofiar wśród ludności polskiej np. zachodnią część Beskidu Niskiego) oraz akcja przesiedleńcza dokonana w celu usunięcia wybranych grup ludności, m.in. Ukraińców, Bojków, Dolinian i Łemków, jak również rodzin mieszanych polsko-ukraińskich z terenów Polski południowo-wschodniej (Rzeszowszczyzna i Lubelszczyzna) na tzw. Ziemie Odzyskane. Przeprowadzona została m.in. przez formacje wojskowe PRL. Od maja 1947 r. zaczęto osadzać w Centralnym Obozie Pracy w Jaworznie pierwsze osoby wysiedlone w ramach akcji ''Wisła'', co do których istniało podejrzenie współpracy z UPA. W Centralnym Obozie Pracy osadzono bez wyroku sądowego 3871 osób, w tym kobiety, dzieci i starców oraz przedstawicieli duchowieństwa greckokatolickiego i prawosławnego. W wyniku panujących warunków oraz stosowanych w czasie przesłuchań tortur 162 z nich zmarły. Większość Ukraińców zwolniono z obozu do końca 1948 roku. Przedstawicieli duchowieństwa zwolniono nieco później, bo na początku 1949 roku. W trakcie podróży na nowe miejsce osiedlenia zmarło co najmniej 27 osób. Dane wojskowe mówią o 663 zabitych i skazanych na śmierć członków UPA. Z działalności sądu Grupy Operacyjnej „Wisła” wynika, że na śmierć skazano 173 osoby. Senat Rzeczypospolitej Polskiej wydał uchwałę z dnia 3 sierpnia 1990 r., w której potępił akcję Wisła. W uchwale czytamy: ''Komunistyczne władze przystępując do likwidacji oddziałów Ukraińskiej Powstańczej Armii dokonały wówczas przymusowych przesiedleń ludności w większości ukraińskiej. W ciągu trzech miesięcy wysiedlono z rodzinnych miejsc około 150 tysięcy osób, pozbawiając je majątku, siedzib i świątyń. Przez wiele lat uniemożliwiano im, a potem utrudniano powroty.Senat Rzeczypospolitej Polskiej potępia akcję „Wisła”, w której zastosowano – właściwą dla systemów totalitarnych – zasadę odpowiedzialności zbiorowej.'' Mniejszość ukraińska w Polsce na Kongresie Ukraińców Polski w 1997 r. opublikowała „Posłanie do Polaków”, w którym czytamy: „Ciężko doświadczeni przez historię Ukraińcy w Polsce dobrze rozumieją cierpienie i ból niewinnych ofiar ostatniej wojny i okresu powojennego. W sposób szczególny odczuwamy ból Polaków, którzy ucierpieli z rąk ukraińskich. Czcimy pamięć poległych, a rodzinom tych, którzy doznali niesprawiedliwości, wyrażamy głębokie współczucie i ludzką solidarność. Przyłączamy się do ukraińskich głosów, które mówią: Przebaczamy i prosimy o przebaczenie”.
+
+<img src="./img/april/wisla.jpg"><br><br>
+
+### 1939
+
+Adolf Hitler przemawiając w Reichstagu wypowiedział zawartą 26 stycznia 1934 roku deklarację polsko-niemiecką o niestosowaniu przemocy.
+
+<img src="./img/april/brakprzemocy.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-28.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
