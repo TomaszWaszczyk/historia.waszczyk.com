@@ -14,6 +14,10 @@ Liczba bezrobotnych w USA przekroczyła 30 milionów.
 
 Liczba osób poszukujących pracy w Niemczech wzrosła o blisko 400 tysięcy.
 
+---
+
+<img src="./img/may/1maja-dystans.jpg"><br><br>
+
 ### 2004
 
 Polska stała się pełnoprawnym członkiem Unii Europejskiej.

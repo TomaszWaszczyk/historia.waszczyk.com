@@ -2712,6 +2712,8 @@ Thomas Watson, president of IBM, 1943
 
 Maximus fluvius ex fontibus minimis crescit.
 
+“People don't have ideas. Ideas have people.” — Carl Jung
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

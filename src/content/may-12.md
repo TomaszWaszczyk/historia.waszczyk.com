@@ -1,12 +1,16 @@
 ---
 layout: post
 title: 12 maja
-image: img/may/glass-act.jpg
+image: img/may/halving.png
 author: Tomasz Waszczyk
 date: 2018-05-12T10:00:00.000Z
 tags:
-  - Piłsudski
+  - Bitcoin
 ---
+
+### 2020
+
+<img src="./img/may/halving.png"><br><br>
 
 ### 1926
 
