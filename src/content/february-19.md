@@ -27,6 +27,10 @@ Był on nie tylko znanym wynalazcą, ale także jednym z przywódców powstania 
 
 <img src="./img/february/lukasiewicz.jpg"/><br><br>
 
+### 1812
+
+https://pl.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

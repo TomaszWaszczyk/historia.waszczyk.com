@@ -54,4 +54,12 @@ Taylor Gerring
 
 ---
 
+### Cryptography
+
+DO you know SGX is bad?
+Yeah, there were some problems and they got patched finally. I'm a fan of cryptographic based technology like ZKP and MPC, but when dealing with a lot of non critical data, TEE can work pretty well. So in short, it's the threat model that matters 
+Always, the threat model matters.
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/computer-science.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

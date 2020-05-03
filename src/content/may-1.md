@@ -38,6 +38,10 @@ W dniach 7-8 czerwca 2003 roku odbyło się w Polsce ogólnonarodowe referendum,
 
 Piśmiennictwo: Oficjalna strona Prezydenta RP.
 
+### 1991
+
+https://en.wikipedia.org/wiki/Centesimus_annus
+
 ### 1982
 
 Na warszawskim Starym Mieście miała miejsce wielotysięczna demonstracja zorganizowana przez Niezależny Samorządny Związek Zawodowy Solidarność. Kolejna tego typu demonstracja odbyła się dwa dni później.

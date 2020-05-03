@@ -56,6 +56,28 @@ Mr Wachowiec is pessimistic about the future of the Supreme Court's independence
 
 <!-- Telefon do Smoka (vide 2 lutego) zapytać czy robi coś ciekawego.. -->
 
+---
+
+### Deutsche Bank : Cost of negative interest rates to German households
+
+
+
+For many, the nominal interest rate is an easy indicator to grasp and they use it to make comparisons over time and across countries. However, inflation-adjustedrates are a more accurate indicator to identify the real returns and the impact of negative rates on household portfolios.
+
+Cash and deposits account for 40% of Germans' financial assets. In Q1 2019, real returns on these stood at -1.2%.Claims on insurance schemes accounted for 37% of the total financial assets, with real returns of 1% in 2019, down from 3% in 2014.
+
+Germans lost around EUR 150 in real terms in 2019 per person due to negative rates on their cash and deposits, compared to the 1991-2014 average. The aggregate loss including claims on insurance for a representative household was roughly EUR 540 per year. The perception that negative rates punish German savers is therefore not unfounded but actually not that unusual when looking at real rates. The richest 10% of Germans hold 60% of the financial wealth (alt- hough deposits and life insurances make up a smaller share of their portfolios) and probably have significantly higher losses.
+
+Bank lending and deposits of households in Q4 2019
+
+In 2019, net lending to private households in Germany reached a new record of EUR 59.5 bn (+4.8% yoy). Mortgages saw a record increase of EUR 53 bn (5.3% yoy). In Q4, new mortgages of EUR 15.4 bn accounted for almost the entire credit growth. At EUR 6.8 bn (3.9% yoy) in 2019 as a whole, consumer lending lagged significantly behind the previous three years and slumped to EUR 46 m in Q4.
+
+Deposits rose by EUR 41.1 bn in the seasonally strong final quarter. In the full year 2019, private households added a net amount of EUR 111 bn to their bank accounts, a bit more than in the previous years. However, the annual growth rate fell slightly to 5.0% on account of base effects.
+
+In 2020, mortgage growth is likely to slump, even stagnate. The driving forces of excess demand and low interest rates should continue to support the market. But the corona virus pandemic causes significant uncertainty and will probably lead to a reduction in household income and possibly to bottlenecks in the issuance of building permits.
+
+Cost of negative interest rates to German households
+
 ### 1952
 
 Wprowadzono reglamentację mydła, proszków do prania, cukru i cukierków.

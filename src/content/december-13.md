@@ -11,6 +11,18 @@ draft: false
 
 ### 2019
 
+#### Outcome WRC 2019 for 5G Spectrum
+
+<img src="./img/december/wrc192.jpg"><br><br>
+
+In total, 17.25 GHz of new spectrum has been identified for IMT, in addition to the 1.9 GHz IMT spectrum already available before WRC-19.
+
+Out of this number, 14.75 GHz (i.e., 85% of total IMT spectrum) result harmonized worldwide Quite impressive numbers.
+
+Let's see how successful FR2 with mmwave frequencies will be in practice with all its challenges. 
+
+---
+
 Szwedzka prokuratura zwróciła się do Sądu Rejonowego w Goeteborgu z wnioskiem o wydanie polskim władzom byłego stalinowskiego sędziego Stefana Michnika. Sąd ma wkrótce podjąć decyzję w tej sprawie - potwierdziła w piątek PAP w szwedzkiej Prokuraturze Krajowej.
 
 Jak przekazała Ann-Sofie Adolfsson, wiceszefowa administracji wydziału ds. zwalczania przestępczości międzynarodowej Prokuratury Krajowej, wniosek został w czwartek wysłany do sądu w Goeteborgu. Nie ustalono jeszcze daty posiedzenia.

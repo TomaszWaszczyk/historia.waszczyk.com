@@ -760,6 +760,10 @@ https://pl.wikipedia.org/wiki/Entropia_(teoria_informacji)
 
 https://en.wikipedia.org/wiki/Retail_apocalypse
 
+https://en.wikipedia.org/wiki/Agorism
+
+anomia
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

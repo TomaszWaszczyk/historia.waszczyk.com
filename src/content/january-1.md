@@ -34,6 +34,10 @@ Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
 https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik
 
+### 1949
+
+https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model
+
 ### 1941
 
 1941 roku w Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.

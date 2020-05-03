@@ -16,6 +16,16 @@ Wyrok na dziewczynce wykonano 28 sierpnia w gdańskim więzieniu przy ul. Kurkow
 
 <img src="./img/august/inka.jpg"><br><br>
 
+### 1944
+
+"Plunderers will be shot!"
+
+Lt. Stanisław "Agaton" Jankowski at a city market on Kazimierza Wielkiego Square poses with the sign in German and Polish.
+
+Warsaw Uprising, August 3, 1944. Photo credit: Stefan "Kubuś" Bałuk
+
+<img src="./img/august/plunders.jpg"><br><br>
+
 ### 1863
 
 W czasie powstania styczniowego pod Lipnem w województwie kujawsko-pomorskim oddział powstańczy powiatu płockiego pod dowództwem Tadeusza Kopytki został zaskoczony przez kozaków podczas transportu broni z terenu Prus.Mimo znacznej liczebnej przewagi wroga powstańcy zdobyli się na atak, który poskutkował całkowitym rozbiciem oddziału kozackiego.
