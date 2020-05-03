@@ -758,6 +758,8 @@ https://pl.wikipedia.org/wiki/Paradoks_dnia_urodzin
 
 https://pl.wikipedia.org/wiki/Entropia_(teoria_informacji)
 
+https://en.wikipedia.org/wiki/Retail_apocalypse
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -2714,6 +2714,10 @@ Maximus fluvius ex fontibus minimis crescit.
 
 “People don't have ideas. Ideas have people.” — Carl Jung
 
+Przez trupa białej Polski na Berlin. - Tuchaczewski - 1920
+
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

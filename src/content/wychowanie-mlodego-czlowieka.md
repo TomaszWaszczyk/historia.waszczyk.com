@@ -68,6 +68,11 @@ draft: false
 
 * https://www.rigb.org/families
 
+<video width="640" height="480" controls>
+  <source src="./movies/wychowanie-mlodego-czlowieka/wujek-sknerus.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Programowanie = szkoła myślenia
 
 * https://www.codingame.com/start

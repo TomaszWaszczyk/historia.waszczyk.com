@@ -11,6 +11,10 @@ draft: false
 
 ### 2020
 
+Umiera Stefan Hambura
+
+---
+
 <details><summary>Polish state becoming authoritarian, top judge Gersdorf says</summary>
 <br>
 The outgoing head of Poland's Supreme Court says the nationalist ruling Law and Justice Party (PiS) is moving the country towards an authoritarian state.

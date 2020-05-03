@@ -81,6 +81,22 @@ Plan zakładał postawienie w stan gotowości bojowej 3/4 sił zbrojnych, dzięk
 
 <img src="./img/april/stachiewicz.jpg"><br><br>
 
+### 1921
+
+Wszedł w życie traktat ryski- porozumienie między Polską, Rosją i Ukrainą kończące wojnę polsko- bolszewicką.
+Ostatecznie w wyniku rokowań granice II
+Rzeczypospolitej na wschodzie kończyły się niemal w granicach drugiego zaboru. Polska zyskała część zachodniej Białorusi (bez Mińska) i Ukrainy. Na północy jej rubieże wyznaczała Dźwina, a na południu Zbrucz i Dniestr.
+W Rydze reprezentanci Rosji Sowieckiej
+zobowiązali się do wypłacenia Polsce
+odszkodowania w wysokości 30 mln rubli w złocie. Nigdy zapisów tych nie zrealizowali.
+Praktycznie (poza nielicznymi wyjątkami) na papierze pozostały również zobowiązania zwrotu zagrabionych dóbr kultury. Podobnie jak ustalenia dotyczące praw Polaków zamieszkujących państwo sowieckie.
+Powrócić do ojczyzny zdołało zaledwie ponad milion rodaków. Resztę – ponad 1,5 mln –spotkał tragiczny los – wysiedlenia, prześladowania, katorga, głód i śmierć.
+W Rydze wielkim przegranym okazał się
+marszałek Józef Piłsudski, któremu nie udało się zrealizować federalistycznych planów względem Ukrainy, Białorusi i Litwy. Zdaniem prof. Józefa Szaniawskiego: „Traktat ryski
+został zawarty wbrew Piłsudskiemu. Wbrew temu co się sądzi, wcale nie miał pełnej władzy”.
+
+<img src="./img/april/ryski.jpg"><br><br>
+
 ### 1918
 
 Poniższy tekst to treść manifestu Żydowskiej Socjaldemokratycznej Partii Robotniczej Poalej -Sjon, działającej w Polsce w latach 1905-1950 z dnia 30 kwietnia 1918 roku (pisownia oryginalna):
