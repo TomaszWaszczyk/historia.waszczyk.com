@@ -53,6 +53,20 @@ Przez ostatnich 50 lat szybki postęp w nauce spowodował rosnącą przepaść p
 
 <img src="./img/may/chomsky.jpg"><br><br>
 
+### 1945
+
+Został aresztowany Hans Frank.
+W obliczy zbliżającej się do Krakowa Armii Czerwonej generalny gubernator okupowanych ziem polskich Hans Frank uciekł do Bawarii. Został on aresztowany  4 maja 1945 roku w bawarskiej miejscowości Neuhaus am Schliersee.  Zatrzymania dokonał  porucznik amerykańskiego wywiadu wojskowego Walter Stein.  Frank próbował popełnić samobójstwo podcinając sobie żyły, ale przy okazji uszkodził ścięgna przez co jego lewa dłoń została sparaliżowana. Amerykanom przekazał swój 38 tomowy dziennik,  który był świadectwem popełnianych zbrodni i stał się głównym dowodem w  procesie Norymberskim.
+18 sierpnia 1942 Hans Frank zanotował w nim: „Ten jedyny w swoim rodzaju dokument pracy będzie po wsze czasy świadectwem, z jaką powagą przystąpiłem do powierzonego mi zadania, oraz z jaką gorliwością wypełniali swe zadania wszyscy moi cenni współpracownicy”. Innym razem napisał -"wodzu melduję że dziś znowu zgładziłem ponad 100 tysięcy ludzi" lub "gdy nastąpi ostateczne zwycięstwo chcę zrobić z Polaków Żydów oraz z wszystkiego innego co się tu kręci siekaninę".
+Podczas procesu w Norymberdze Frankowi przedstawiono zarzutu zbrodni przeciw pokojowi, zbrodni wojennych i przeciw ludzkości, znęcania się nad ludnością cywilną oraz rabunku własności publicznej i prywatnej. Dowodów jego działalności było aż nadto. 1 października 1946 roku został wydany wyrok. Sędziom Trybunału Norymberskiego zajęło to  mniej niż 20 minut, wszyscy byli jednomyślni- kara śmierci! Wyrok przez powieszenie wykonał sierżant John C. Woods . Tego samego dnia co egzekucja zwłoki niemieckiego zbrodniarza zostały spalone, a jego prochy  rozrzucone z samolotu.  Hans Frank w chwili śmierci miał 46 lat.
+Leszek Admaczewski w książce –W królestwie Hansa Franka. Sensacje z Generalnego Gubernatorstwa”- Prowadzi czytelników na tajne narady dygnitarzy hitlerowskich, zagląda za kulisy przygotowań do zamachów Armii Krajowej na Franza Kutscherę oraz Hansa Franka i Wilhelma Koppego. Odwiedza schrony dwóch kwater Führera zbudowanych w Generalnym Gubernatorstwie. Próbuje także ustalić, czy Adolf Hitler mógł gościć w klasztorze jasnogórskim w Częstochowie. Porusza też losy skarbów kultury oraz testy rakiet V-2. .
+
+### 1834
+
+Otwarto warszawską Cytadelę- carski areszt wybudowany na rozkaz cara Mikołaja I. Projektantem tego obiektu był Iwan Dehn. Budowa ruszyła w 1832 roku. Sprowadzono w tym celu do Warszawy robotników z Rosji. Początkowo nosiła ona nazwę Cytadeli Aleksandrowskiej. Cytadela miała być skutecznym narzędziem służącym do zastraszania i inwigilacji warszawskiego ruchu niepodległościowego. Co prawda oficjalna data jej otwarcia to 1834 rok,ale prace nad jej rozbudową i modernizacją trwały jeszcze przez 40 lat.
+
+<img src="./img/may/cytadela.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
