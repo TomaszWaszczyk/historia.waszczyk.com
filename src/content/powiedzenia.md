@@ -2718,6 +2718,8 @@ Przez trupa białej Polski na Berlin. - Tuchaczewski - 1920
 
 You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
 
+Actions speak louder than words.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

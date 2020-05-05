@@ -60,8 +60,6 @@ Mr Wachowiec is pessimistic about the future of the Supreme Court's independence
 
 ### Deutsche Bank : Cost of negative interest rates to German households
 
-
-
 For many, the nominal interest rate is an easy indicator to grasp and they use it to make comparisons over time and across countries. However, inflation-adjustedrates are a more accurate indicator to identify the real returns and the impact of negative rates on household portfolios.
 
 Cash and deposits account for 40% of Germans' financial assets. In Q1 2019, real returns on these stood at -1.2%.Claims on insurance schemes accounted for 37% of the total financial assets, with real returns of 1% in 2019, down from 3% in 2014.

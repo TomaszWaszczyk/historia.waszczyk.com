@@ -5,7 +5,7 @@ image: img/may/chomsky.jpg
 author: Tomasz Waszczyk
 date: 2019-05-04T10:00:00.000Z
 tags:
-  - Goebells
+  - Hans Frank
 draft: false
 ---
 
@@ -60,6 +60,10 @@ W obliczy zbliżającej się do Krakowa Armii Czerwonej generalny gubernator oku
 18 sierpnia 1942 Hans Frank zanotował w nim: „Ten jedyny w swoim rodzaju dokument pracy będzie po wsze czasy świadectwem, z jaką powagą przystąpiłem do powierzonego mi zadania, oraz z jaką gorliwością wypełniali swe zadania wszyscy moi cenni współpracownicy”. Innym razem napisał -"wodzu melduję że dziś znowu zgładziłem ponad 100 tysięcy ludzi" lub "gdy nastąpi ostateczne zwycięstwo chcę zrobić z Polaków Żydów oraz z wszystkiego innego co się tu kręci siekaninę".
 Podczas procesu w Norymberdze Frankowi przedstawiono zarzutu zbrodni przeciw pokojowi, zbrodni wojennych i przeciw ludzkości, znęcania się nad ludnością cywilną oraz rabunku własności publicznej i prywatnej. Dowodów jego działalności było aż nadto. 1 października 1946 roku został wydany wyrok. Sędziom Trybunału Norymberskiego zajęło to  mniej niż 20 minut, wszyscy byli jednomyślni- kara śmierci! Wyrok przez powieszenie wykonał sierżant John C. Woods . Tego samego dnia co egzekucja zwłoki niemieckiego zbrodniarza zostały spalone, a jego prochy  rozrzucone z samolotu.  Hans Frank w chwili śmierci miał 46 lat.
 Leszek Admaczewski w książce –W królestwie Hansa Franka. Sensacje z Generalnego Gubernatorstwa”- Prowadzi czytelników na tajne narady dygnitarzy hitlerowskich, zagląda za kulisy przygotowań do zamachów Armii Krajowej na Franza Kutscherę oraz Hansa Franka i Wilhelma Koppego. Odwiedza schrony dwóch kwater Führera zbudowanych w Generalnym Gubernatorstwie. Próbuje także ustalić, czy Adolf Hitler mógł gościć w klasztorze jasnogórskim w Częstochowie. Porusza też losy skarbów kultury oraz testy rakiet V-2. .
+
+---
+
+<img src="./img/may/rosjanie.jpg"><br><br>
 
 ### 1834
 
