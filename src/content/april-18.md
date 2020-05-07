@@ -204,6 +204,19 @@ Bankructwo kraju to straszliwy cios zadany jego gospodarce. Finansowy parias ocz
 Witold M. Orłowski
 </details>
 
+---
+
+### Policyjne zakupy w czasie pandemii: wozy wypadowe i 30 milionów sztuk amunicji
+
+Polska policja ogłosiła w ostatnim czasie kilka dużych przetargów.
+Jak informuje Radio Zet, zakończono już postępowanie dotyczące zakupu pięciu armatek wodnych, co będzie kosztować prawie 20 milionów złotych. Te pojazdy wykorzystywane są przy okazji różnego rodzaju imprez masowych czy manifestacji.
+
+Komenda Główna Policji planuje też zakup 30 milionów sztuk amunicji. Według ekspertów ma to być "liczbą niesłychaną, przewyższającą dotychczasowe zamówienia dwu-, a nawet trzykrotnie".
+
+Policja wymienia również część floty tzw. wozów wypadowych, używanych przez oddziały prewencji. Mieszczą one 7 funkcjonariuszy z pełnym wyposażeniem: hełmami, kaskami, bronią czy tarczą. Samochody powinny być wyposażone m.in. w nawigację, zestaw głośnomówiący czy kamerę cofania.
+
+Termin składania ofert na dostawę samochodów minął kilka dni temu. Firmy chcące dostarczyć amunicję (według informatorów Radia Zet specyfika zamówienia wskazuje na konkretnego producenta) mają czas do końca kwietnia.
+
 ### 1989
 
 Odbyło się spotkanie przewodniczącego NSZZ Solidarność Lecha Wałęsy z generałem Czesławem Kiszczakiem. W jego trakcie podjęta została decyzja o powołaniu Komisji Porozumiewawczej- organu, którego zadaniem miało być czuwanie nad realizacją porozumień zwartych podczas zakończonych 5 kwietnia 1989 roku obrad Okrągłego Stołu. Tego samego dnia w Sejmie doszło do pierwszego po ponad siedmiu latach spotkania Lecha Wałęsy z gen. Wojciechem Jaruzelskim.

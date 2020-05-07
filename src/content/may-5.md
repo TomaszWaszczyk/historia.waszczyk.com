@@ -13,6 +13,16 @@ draft: false
 
 Trump and the Fed are edging closer to negative interest rates—something legendary investor Warren Buffett has warned could have "extreme consequences"..
 
+The coronavirus pandemic and the lockdowns put in place to slow its spread have ravaged the U.S. economy—with the Fed and the Trump administration pumping a staggering $6 trillion in to the system since March and taking interest rates back to record lows to keep it on its feet.
+
+---
+
+Federalny Trybunał Konstytucyjny Niemiec orzekł, iż program zakupu papierowych aktywów przez Europejski Bank Centralny w ramach programu PSPP (w ilości ponad 2bln euro począwszy od 2015 roku) odbył się z pogwałceniem mandatu ECB.
+
+"W oparciu o odpowiedzialność za integrację europejską Rząd Federalny i Bundestag mają obowiązek podjąć aktywne kroki przeciwko PSPP w obecnej formie."
+
+<img src="./img/may/ecb.png"><br><br>
+
 ---
 
 Sondaże
@@ -30,6 +40,29 @@ Na mocy tego dokumentu, który powstał na bazie korespondencji z 25 listopada 1
 Na Ukraińskiej Liście Katyńskiej figuruje 726 oficerów Wojska Polskiego (218 oficerów służby stałej i 10 podoficerów, 380 oficerów rezerwy i pospolitego ruszenia oraz 118 oficerów w stanie spoczynku), 746 policjantów i 24 wyższych funkcjonariuszy Policji Państwowej, 24 funkcjonariuszy Straży Więziennej i 4 naczelników więzień. Ponadto 7 generałów, 26 pułkowników i 46 podpułkowników Wojska Polskiego (wśród oficerów byli obrońcy Lwowa 1939, 74 ziemian, 46 nauczycieli, 70 inżynierów, 15 lekarzy, 174 prawników (w tym 2 sędziów Sądu Najwyższego), 19 starostów, 91 urzędników, a także kilkuset obywateli II RP narodowości żydowskiej i ukraińskiej.
 
 <img src="./img/may/bykownia.jpg"><br><br>
+
+### 5 maja 39 lat temu zmarł w Belfaście Boby Sands członek IRA (Irlandzkiej Armii Republikańskiej) Odszedł po 66 dniowym strajku głodowym w wieku 27 lat
+
+Bobby Sands był lidrem strajku głodowego 1981 w Belfaście.
+Strajk był protestem przeciwko odebraniu członkom IRA I działaczom ruchu republikańskiego statusu więźnia politycznego.
+
+Strajk rozpoczął się 1 marca 1981, kiedy to Bobby Sands odmówił przyjęcia posiłku. Do strajku wkrótce dołączyli też inni więźniowie, aby nadać mu większe znaczenie.
+Strajk głodowy skoncentrował się na 5 postulatach;
+1. Prawo do nie noszenia więziennych uniformów
+2. Prawo do odmowy pracy w więzieniu
+3. Prawo do swobodnego zrzeszania się z innymi więźniami oraz organizowania zajęć edukacyjnych i rekreacyjnych;
+4. Prawo do jednej wizyty, jednego listu i jednej paczki tygodniowo
+5. Prawo do wcześniejszego zwolnienia, które zostało utracone w skutek protest
+
+Pomimo rozgłosu ten strajk nie mógł się zakończyć sukcesem bowiem na czele Rządu Jej Królewskiej Mości stała “Żelazna Dama” (Margaret Thatcher), którastwierdziła iż; “„przestępstwo jest przestępstwem, i nie jest to kwestia polityki”.
+
+Sands zmarł 5 maja 1981 w szpitalu więzienia Maze bo 66 dniowym strajku głodowym.
+
+Po śmierci Sands został okrzyknięty męczennikiem “irlandzkiego ruchu republikanskiego”. Wiadomość o jego śmierci doprowadziłą do wielu zmieszek społecznych na terenie Irlandii Północnej. Jego pogrzeb zgroamdził ponad 100 tysięcy osób.
+
+Po tym jak kolejnych 9 więźniów zagłodziło się na śmierć, w obliczu wzrastającej nienawiści po obu stronach granicy oraz przy rozszerzającym się niepokoju, zdecydowano się na przywrócenie pewnych uprawnień więźniom będącym byłymi członkami grup paramilitarnych – takich m.in. jak IRA, jednak nigdy nie otrzymali statusu więźniów politycznych.
+
+Na podstawie tych wydarzeń w 2008 powstał wielokrotnie nagradzany film Głód (Hunger) w reżyserii Steve’a McQueena
 
 ### 1950
 
