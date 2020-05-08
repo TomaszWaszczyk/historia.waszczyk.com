@@ -82,6 +82,10 @@ Po 22 latach zakończono w Fabryce Samochodów Osobowych produkcję samochodu FS
 
 <img src="./img/march/fso.jpg"/><br><br>
 
+### 1910
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Sojczy%C5%84ski
+
 ### 1888
 
 W Londynie zmarł Jan Józef Baranowski - polski wynalazca, ekonomista, finansista, poliglota i powstaniec listopadowy 1830–31.

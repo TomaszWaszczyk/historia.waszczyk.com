@@ -13,6 +13,12 @@ tags:
 
 Powieszono Eli Cohena https://en.wikipedia.org/wiki/Eli_Cohen
 
+### 1935
+
+Adolf Hitler wziął udział we mszy żałobnej za duszę zmarłego Józefa Piłsudskiego. Msza odbyła się w katedrze św. Jadwigi w Berlinie. Z tyłu za kanclerzem III Rzeszy siedział m.in. Joseph Goebbels. Na zdjęciu widać symboliczną trumnę Józefa Piłsudskiego. W tym samym czasie trwał również pogrzeb Piłsudskiego w Krakowie.
+
+<img src="./img/may/pogrzeb.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

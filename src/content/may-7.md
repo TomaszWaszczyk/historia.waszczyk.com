@@ -15,7 +15,11 @@ draft: false
 
 ---
 
+> Paul Tudor Jones: “The best profit-maximizing strategy is to own the fastest horse... If I am forced to forecast, my bet is it will be Bitcoin.”
+
 <img src="./img/may/tudor.png"><br><br>
+
+<img src="./img/may/tudor2.png"><br><br>
 
 ### 1967
 

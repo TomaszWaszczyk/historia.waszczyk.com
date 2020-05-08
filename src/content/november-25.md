@@ -26,6 +26,10 @@ Jego celem było wyszukanie najcenniejszych dzieł sztuki, które miały trafić
 W jednym ze swoich raportów wysłanych do Martina Bormana Posse pisał:
 " Potwierdza się, że oprócz znanych nam już w Niemczech dzieł sztuki pierwszej jakości (np. ołtarz Wita Stwosza i obrazy na drzewie Hansa Kulmbacha z kościoła Mariackiego w Krakowie, obrazy Rafaela, Leonarda da Vinci i Rembrandta ze zbiorów Czartoryskich oraz kilka dzieł z Muzeum Narodowego w Warszawie), nie ma tu zbyt wiele, co by wzbogaciło niemieckie zasoby wielkiej sztuki... Chciałbym zaproponować zarezerwowanie trzech najważniejszych obrazów z Muzeum Czartoryskich: Rafaela, Leonarda i Rembrandta, znajdujących się obecnie w Kaiser-Friedrich-Museum w Berlinie, dla muzeum Führera w Linzu"
 
+---
+
+<a href="./documents/november/zeszytyoswiecimskie2.pdf" target="_blank">Alert gospodarczy</a>
+
 ### 1944
 
 W Częstochowie, w wyniku wewnętrznych porachunków w szeregach Narodowych Sił Zbrojnych zastrzelony został szef Wywiadu Okręgu kapitan Stanisław Żak.

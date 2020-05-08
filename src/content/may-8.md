@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 8 maja
-image: img/may/glass-act.jpg
+image: img/may/fed.jpeg
 author: Tomasz Waszczyk
-date: 2018-05-08T10:00:00.000Z
+date: 2019-05-08T10:00:00.000Z
 tags:
   - TVP
 draft: false
@@ -11,7 +11,13 @@ draft: false
 
 ### 2020
 
+Czekamy na chińską cyfrową walutę "backed by gold".
+
+---
+
 <img src="./img/may/kupujpolskie.jpg"><br><br>
+
+<img src="./img/may/angst.jpeg"><br><br>
 
 ---
 

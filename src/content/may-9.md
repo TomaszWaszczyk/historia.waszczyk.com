@@ -1,16 +1,18 @@
 ---
 layout: post
-title: 1 maja
-image: img/may/glass-act.jpg
+title: 9 maja
+image: img/may/
 author: Tomasz Waszczyk
-date: 2018-05-01T10:00:00.000Z
+date: 2019-05-09T10:00:00.000Z
 tags:
   - Goebells
-draft: true
+draft: false
 ---
 
-### 
+### 2020
+
+https://en.wikipedia.org/wiki/Victory_Day_(9_May)
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

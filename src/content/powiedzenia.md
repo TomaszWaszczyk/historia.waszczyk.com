@@ -2720,6 +2720,8 @@ You never change things by fighting the existing reality. To change something, b
 
 Actions speak louder than words.
 
+https://pl.wiktionary.org/wiki/bellum_omnium_contra_omnes
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
