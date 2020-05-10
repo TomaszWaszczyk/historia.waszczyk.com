@@ -11,7 +11,13 @@ draft: false
 
 ### 2020
 
+Protesty przedsiębiorców w Polsce oraz protesty w Niemczech dotyczące 'social distancing'
+
+---
+
 https://en.wikipedia.org/wiki/Victory_Day_(9_May)
+
+<img src="./img/may/victory.jpeg"><br><br>
 
 ### 2013
 

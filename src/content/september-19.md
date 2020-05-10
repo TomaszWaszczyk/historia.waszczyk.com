@@ -1,16 +1,18 @@
 ---
 layout: post
-title: 4 września
-image: img/septmeber/indeks.png
+title: 19 września
+image: img/septmeber/
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2018-09-19T10:00:00.000Z
 tags:
   - 
 draft: true
 ---
 
-### 
+### 2019
+
+http://xxpzhp.umcs.lublin.pl/
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

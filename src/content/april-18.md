@@ -254,6 +254,10 @@ Na zdjęciu uroczystość przyłączenia Litwy Środkowej do Polski.
 
 <img src="./img/april/zeligowski.jpg"><br><br>
 
+### 1916
+
+https://pl.wikipedia.org/wiki/Witold_Kula - rozpoczął dziedzinę taką jak: historia gospodarcza
+
 ### 1518
 
 Na Wawelu odbył się ślub króla Zygmunta I Starego z drugą żoną Boną Sforzą i jej koronacja na królową Polski.

@@ -22,6 +22,10 @@ WHO
 
 <img src="./img/others/gielda.png"/><br><br>
 
+### 1990
+
+Plan Balcerowicza
+
 ### 1988
 
 1988 władze komunistyczne zakończyły wieloletnią akcję zagłuszania Radia Wolna Europa.
@@ -33,6 +37,10 @@ Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 ### 1967
 
 https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik
+
+### 1952
+
+https://pl.wikipedia.org/wiki/Pierwsza_Konferencja_Metodologiczna_Historyk%C3%B3w_Polskich
 
 ### 1949
 
