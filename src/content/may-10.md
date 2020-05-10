@@ -35,24 +35,43 @@ Wydarzenie to od dawna jest przedmiotem badań i rozważań naukowców,budzi kon
 Konspiracyjny dziennik popołudniowy Dzień Warszawy opublikował wiersz Juliana Tuwima pod tytułem "Lekcja"
 
 Ucz się, dziecko, polskiej mowy:
+
 To przed domem - to są groby,
+
 Małe groby, wielki cmentarz,
+
 Taki jest twój elementarz.
+
 Ustawiły się w szeregu
+
 Czarne krzyże w brudnym śniegu.
+
 Na Warszawie mrok żałoby,
+
 Ucz się pięknej polskiej mowy.
+
 Pod zwaloną kamienicą
+
 Leży upiór z upiorzycą,
+
 Wyją żółte upiorzęta...
+
 Zapamiętasz... Zapamiętam
+
 Nocą gniewnie przez sen krzyczysz,
+
 Straszne ptaki w niebie liczysz,
+
 Rano - w ziemi rozoranej
+
 Szukasz piąstki oderwanej.
+
 Ucz się mogił, gruzów ucz się.
+
 Z upiorami siądź przy uczcie.
+
 W świat potężny, w świat plugawy
+
 Pieśń warszawskich dzieci zawyj!
 
 <img src="./img/may/tuwim.jpg"><br><br>
