@@ -11,7 +11,21 @@ draft: false
 
 ### 2020
 
+"O ponad 40 proc. spadł udział miasta w podatku PIT, a o 52 proc. w podatku CIT" - poinformował stołeczny ratusz.
+
+Zdaniem prezydenta miasta Rafała Trzaskowskiego tak duży i nagły spadek jest "całkowicie niezrozumiały". "Dlatego wspólnie z innymi samorządami będziemy domagać się od rządu pilnych wyjaśnień" - podkreślił.
+
+---
+
 <img src="./img/may/bialek.jpg"><br><br>
+
+---
+
+Fun fact on Bitcoin - there are less BTC in existence (max. 21 million) than USD millionaires in the world (2019: 47 million).
+
+---
+
+> "By wprowadzić dyktaturę konieczne jest odczlowieczenie mas, by jeden czlowiek został ich boskim panem.Myslenie i dzialanie, najbardziej charakterystyczne cechy czlowieka jako takiego, stałybyby się wyłącznym przywilejem jednej osoby" - L.von Mises
 
 ### 1978
 
@@ -75,6 +89,29 @@ W świat potężny, w świat plugawy
 Pieśń warszawskich dzieci zawyj!
 
 <img src="./img/may/tuwim.jpg"><br><br>
+
+---
+
+W 1933 obiecał Niemcom; „Dajcie mi 10 lat a nie rozpoznacie Niemiec!”
+Faktycznie...
+
+10 Maja 1943 roku, kanclerz Rzeszy Adolf Hitler, przedłużył na czas nieokreślony Akt Upoważniający z 1933, potwierdzający dekrety nadane w tymże akcie 23 Marca 1933 przez Reichstag.
+Akt Upoważniający został stworzony wedle konstytucji i podpisany przez prezydenta Rzeszy Paula Von Hindenburga jako akt stanu wyjątkowego po pożarze Reichstagu w Lutym 1933 roku.
+W ciągu jednego posiedzenia 23 Marca zniesiono prawo wypowiadania się, publikacji, krytyki władzy, wolności głoszenia przekonań politycznych i działania i przynależności związków zawodowych.
+W ciągu jednej nocy, Rzesza stała się państwem policyjnym z władzą dyktatorską.
+Przedłużenie Aktu 10 Maja 1943 nastąpiło nielegalnie, albowiem Führer nigdy nie zwołał posiedzenia Reichstagu co było niezbędne do jego zalegalizowania, i sam sobie przekazał władzę całkowitą.
+Akt został unieważniony przez władze okupacyjne 20 września 1945, pozbawiając w ten sposób legalnie władzy prezydenta Rzeszy Admirała Dönitza, i nie ma dziś podobnego zapisu w konstytucji Niemieckiej; ażeby podobna sytuacja nigdy już nie miała miejsca.
+Czy Reichstag i wszyscy ludzie poszli by w 1943 za Hitlerem równie ochoczo co w 1933?
+Raporty Głównego Urzędu Bezpieczeństwa Rzeszy wydziału III Służby Bezpieczeństwa SD wywiadu wewnętrznego, mogą wskazywać, ze gdyby mieli wybór nie byłoby to aż tak jasne. Na początku stycznia 43’ zaczęto odnotowywać pierwsze poważne niepokoje społeczne, niezadowolenie, i obawy. Po katastrofie Stalingradzkiej, kapitulacji Afryki i codziennych bombardowaniach, ciężko było znaleść w Niemczech kogokolwiek nie dotkniętego jeszcze wojną, kogoś kto nie straciłyby kogoś z przyjaciół bądź znajomych, lub samej rodziny.
+Tak czy owak, Fuhrer jeszcze przez 2 lata sprawował swój urząd, bynajmniej nie obalony przez własne społeczeństwo.
+
+<img src="./img/may/hitler1.jpg"><br><br>
+
+<img src="./img/may/hitler2.jpg"><br><br>
+
+<img src="./img/may/hitler3.jpg"><br><br>
+
+<img src="./img/may/volks.jpg"><br><br>
 
 ### 1941
 
