@@ -39,6 +39,8 @@ Wojskowa Rada Ocalenia Narodowego, na czele z gen. Wojciechem Jaruzelskim, wprow
 Dziś #Lewica (postkomuniści i neokomuniśći) próbuje relatywizować tą zbrodnię. Jedno z ich głównych haseł brzmi "przywrócimy emerytury" funkcjonariuszom aparatu represji z PRLu.
 Liczba ofiar reżimu Jaruzelskiego pozostaje nieznana. W latach 1981–1982 władze komunistyczne przetrzymywały w specjalnie utworzonych obozach dla internowanych 9736 osób. Niejednokrotnie dochodziło w nich do wypadków znęcania się psychicznego i fizycznego nad internowanymi. Komitet Helsiński odnotował 93 przypadki zgonów w latach 1981 - 1989. Komisja Rokity ustaliła 122 przypadki śmiertelne, z czego blisko 90 z udowodnionym poszlakowo udziałem funkcjonariuszy aparatu represji. IPN mówi o blisko 100 osobach zamordowanych w czasie trwania reżimu Jaruzelskiego.
 
+https://13grudnia81.pl/
+
 ---
 
 Rada Państwa na polecenie w Rady Ocalenia Narodowego podjęła uchwałę o wprowadzeniu stanu wojennego na całym terytorium Polskiej Rzeczpospolitej Ludowej. To posunięcie władz komunistycznych spowodowane było rosnącym niezadowoleniem społecznym,a także przybieraniem na sile opozycji, której głównym ośrodkiem był stworzony w 1980 roku Niezależny Samorządny Związek Zawodowy "Solidarnośc".

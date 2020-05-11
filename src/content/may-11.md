@@ -44,9 +44,21 @@ Your browser does not support the video tag.
 
 > Jak się krzyczało co tydzień o końcu demokracji i państwa prawa, to nie dziwota, że teraz - kiedy realnie ten koniec nadchodzi - nikogo to nie rusza.
 
+### 1997
+
+Garri Kasparow poddał mecz z Deep Blue.
+Po raz pierwszy w historii komputer pokonał aktualnego Mistrza Świata 3½–2½.
+Mimo, że Kasparow "odegrał się" blaszanemu przyjacielowi, do dziś to wydarzenie jest jednym z kamieni milowych w szachach.
+
 ### 1995
 
 The signatories to the Non-Proliferation Treaty (NPT) met in New York City for the Review Conference and decided, by consensus, to extend the treaty indefinitely and without conditions.
+
+### 1982
+
+Miał 19 lat. Za wpięty w ubranie opornik - symbol sprzeciwu wobec władz PRL – został 𝘀𝗸𝗮𝘁𝗼𝘄𝗮𝗻𝘆 𝗽𝗿𝘇𝗲𝘇 𝗽𝗮𝘁𝗿𝗼𝗹 𝗭𝗢𝗠𝗢. Piotr Majchrzak trafił do szpitala nieprzytomny z obrażeniami czaszki. Zmarł tydzień później. Rodzinę, która na własną rękę próbowała dociec prawdy zastraszano. Oficjalne śledztwo w sprawie pobicia z 11 maja 1982 roku zostało umorzone „z powodu niewykrycia sprawców przestępstwa”❗
+
+<img src="./img/may/majchrzak.jpg"><br><br>
 
 ### 1919
 
