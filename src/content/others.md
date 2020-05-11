@@ -10,6 +10,8 @@ draft: false
 
 ### Linki
 
+0. <a href="https://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
+
 1. <a href="https://historia.waszczyk.com/maps" target="_blank">Mapy</a>
 
 2. <a href="https://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
@@ -20,13 +22,11 @@ draft: false
 
 5. <a href="https://historia.waszczyk.com/dictionary" target="_blank">Słowników terminów historycznych</a>
 
-6. <a href="https://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
+6. <a href="https://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
 
-7. <a href="https://historia.waszczyk.com/ziemianstwo" target="_blank">Ziemiaństwo polskie</a>
+7. <a href="https://historia.waszczyk.com/sport" target="_blank">Sport</a>
 
-8. <a href="https://historia.waszczyk.com/sport" target="_blank">Sport</a>
-
-9. <a href="https://historia.waszczyk.com/religion" target="_blank">Religia</a>
+8. <a href="https://historia.waszczyk.com/religion" target="_blank">Religia</a>
 
 https://www.werandaweekend.pl/sprawdzone-miejsca/muzea/te-muzea-odwiedzisz-bez-wychodzenia-z-domu
 

@@ -109,6 +109,8 @@ Your browser does not support the video tag.
 
 * Neural Networks for Babies - Chris Ferrie
 
+* https://www.kiwico.com/
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
