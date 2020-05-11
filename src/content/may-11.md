@@ -21,6 +21,8 @@ Mimo pandemii Sejm pracuje nad przepisami o tzw. konfiskacie prewencyjnej forsow
 
 ---
 
+### Joanna Franaszek (SGH) rapuje o rzeczywistości (bo mówić już ciężko)
+
 <video width="640" height="480" controls>
   <source src="./movies/may/DnP.mp4" type="video/mp4">
 Your browser does not support the video tag.
