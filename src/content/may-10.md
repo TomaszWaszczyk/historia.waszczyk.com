@@ -17,6 +17,45 @@ Zdaniem prezydenta miasta Rafała Trzaskowskiego tak duży i nagły spadek jest 
 
 ---
 
+Stało się coś, czego jeszcze nie było. Nie odbyły się zarządzone wybory prezydenckie. Odebrano nam prawo do wyboru prezydenta. Zlikwidowano możliwość realizacji podstawowego prawa obywatelskiego.
+
+Sprawców tej sytuacji musi spotkać odpowiedzialność karna. O tym innym razem.
+
+Jednocześnie wieczorem Państwowa Komisja Wyborcza wydała uchwałę "w sprawie twierdzenia braku możliwości głosowania na kandydatów w wyborach Prezydenta Rzeczypospolitej Polskiej".
+
+Dokument ten też nie ma precedensu.
+
+PKW stwierdza, że nie było dziś możliwości głosowania na kandydatów (no fakt, nie było takiej możliwości). Wyprowadza jednak z tego wniosek, że skutki tej sytuacji są równoważne jak "w przypadku braku kandydatów" (art. 293 § 3 Kodeksu wyborczego).
+
+Zauważmy, że PKW nie stwierdza, czy kandydaci byli czy nie, lecz pisze, jakie są skutki innej sytuacji faktycznej - są one takie jak gdyby nie było kandydatów.
+
+Co istotne, w art. 293 Kodeksu wyborczego określone są 2 sytuacje, w których PKW mogłaby wydać tego typu uchwałę:
+
+- gdy głosowanie miałoby być przeprowadzone tylko na jednego kandydata,
+- w przypadku braku kandydatów.
+
+O żadnej z tych sytuacji nie ma mowy w treści uchwały! A sytuacja faktyczna była przecież taka, że kandydaci w tych wyborach byli...
+
+Czyli PKW stwierdziła coś, co jest nieistotne z punktu widzenia przytoczonego przepisu i nie stwierdziła zaistnienia stanu faktycznego, o jakim mówi ten przepis.
+
+W uchwale jest też mowa o tym, jakie są dalej idące "skutki" tego, że nie można było głosować na kandydatów. Te "skutki" to możliwość zarządzenia nowych wyborów, co określa art. 293 § 2 k.w.: "Marszałek Sejmu ponownie zarządza wybory nie później niż w 14 dniu od dnia ogłoszenia uchwały Państwowej Komisji Wyborczej w Dzienniku Ustaw".
+
+Niestety, PKW nie ma żadnej kompetencji, by przesądzać, jakie są skutki podjętej przez siebie uchwały. Stwierdzenie to jest niewiążące dla Marszałka Sejmu, tym bardziej, że w uchwale nie została wskazana żadna okoliczność faktyczna, która uzasadniałaby zaktualizowanie się kompetencji do zarządzenia nowych wyborów prezydenckich.
+
+Teraz Marszałek Sejmu musi sama ocenić, czy w zaistniałym stanie faktycznym zachodzą przesłanki do zarządzenia nowych wyborów. Zachodzą, jeśli był tylko 1 kandydat albo nie było żadnego. Oczywiście żadna z tych sytuacji nie nastąpiła, bo kandydaci byli. Żadnej z tych sytuacji nie stwierdziła też PKW.
+
+Decyzja Marszałek obciąża ją i tylko ją za ewentualne zarządzenie wyborów bez podstawy prawnej. "Podkładka" wydana przez PKW nie ma w tym zakresie znaczenia prawnego.
+
+Odebranie nam możliwości głosowania na kandydatów w sytuacji, gdy kandydaci ci byli wskazani i gotowi do udziału w wyborach, nie aktualizuje żadnej nowej kompetencji Marszałka. Nie jest to bowiem ani sytuacja 1 kandydata, ani sytuacja braku kandydatów, o których mówi Kodeks wyborczy. Rozpisanie nowych wyborów nie jest możliwe.
+
+Ta uchwała jest po prostu nie na temat.
+
+Słowem: obiektywnie rzecz biorąc uchwała PKW wypełniła "pakt" polityczny Jarosława Kaczyńskiego i Jarosława Gowina. Przypomnijmy, że chodziło w nim o jak najszybsze rozpisanie nowych wyborów.
+
+Prawnie jest to jednak krok bezskuteczny.
+
+---
+
 <img src="./img/may/bialek.jpg"><br><br>
 
 ---
