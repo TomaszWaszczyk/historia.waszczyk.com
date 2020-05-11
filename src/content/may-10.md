@@ -11,6 +11,10 @@ draft: false
 
 ### 2020
 
+ W weekend weszło w życie nowe rozporządzenie w sprawie przekazywania danych spisu wyborców gminnej obwodowej komisji wyborczej oraz operatorowi wyznaczonemu w związku z przeprowadzeniem wyborów na Prezydenta RP.
+
+---
+
 "O ponad 40 proc. spadł udział miasta w podatku PIT, a o 52 proc. w podatku CIT" - poinformował stołeczny ratusz.
 
 Zdaniem prezydenta miasta Rafała Trzaskowskiego tak duży i nagły spadek jest "całkowicie niezrozumiały". "Dlatego wspólnie z innymi samorządami będziemy domagać się od rządu pilnych wyjaśnień" - podkreślił.
