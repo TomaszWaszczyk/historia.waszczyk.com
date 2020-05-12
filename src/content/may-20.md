@@ -5,7 +5,6 @@ image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
 date: 2018-05-20T10:00:00.000Z
 tags:
-  - Historia
   - Glass-Steagall
 ---
 

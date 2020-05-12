@@ -5,7 +5,6 @@ image: img/june/nalog.png
 author: Tomasz Waszczyk
 date: 2018-06-28T10:00:00.000Z
 tags:
-  - Historia
   - Ekonomia
 ---
 

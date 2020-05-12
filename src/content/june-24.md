@@ -3,7 +3,7 @@ layout: post
 title: 24 czerwca
 image: img/june/radom.jpg
 author: Tomasz Waszczyk
-date: 2018-06-06T10:00:00.000Z
+date: 2018-06-24T10:00:00.000Z
 tags:
   - 
 draft: true

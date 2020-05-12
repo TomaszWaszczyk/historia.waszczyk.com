@@ -8,6 +8,8 @@ https://adst.org/
 
 https://13grudnia81.pl/
 
+http://www.biblia.deon.pl/
+
 http://polishhistory.pl
 
 https://spacer.muzeum1939.pl/pl/

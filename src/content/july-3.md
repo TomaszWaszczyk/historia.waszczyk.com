@@ -10,4 +10,4 @@ tags:
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-3.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

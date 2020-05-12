@@ -1,16 +1,20 @@
 ---
 layout: post
-title: 1 maja
-image: img/may/glass-act.jpg
+title: 28 maja
+image: img/may/
 author: Tomasz Waszczyk
-date: 2018-05-01T10:00:00.000Z
+date: 2019-05-28T10:00:00.000Z
 tags:
-  - Goebells
+  - 
 draft: true
 ---
 
-### 
+### 1914
+
+Zamach dokonany przez Gavrilo Principa na arcyksięcia Franciszka Ferdynanda. Iskra, która podpaliła lont
+
+<img src="./img/may/principa.jpg"><br><br>
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-28.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
