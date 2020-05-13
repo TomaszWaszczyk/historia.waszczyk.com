@@ -2724,6 +2724,10 @@ https://pl.wiktionary.org/wiki/bellum_omnium_contra_omnes
 
 Burza w szklance wody.
 
+"Historia jest dla narodów tym, czym charakter dla poszczególnych ludzi" - Henry Kissinger
+
+Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

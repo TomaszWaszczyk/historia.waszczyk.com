@@ -87,6 +87,12 @@ Przerwana nauka i wiążąca się z tym bezpośrednio sprawa wywozu do Niemiec, 
 
 <img src="./img/may/hinkel.jpg"><br><br>
 
+### 1916
+
+Rocznica przywrócenia nazwy Dęblin.
+
+Twierdza Dęblin, nazywana również Iwangorod to zespół obiektów fortecznych wzniesionych przez Rosję w XIX wieku u ujścia Wieprza do Wisły. Pierwszymi osobami, które zwróciły uwagę na dogodne miejsce do budowy twierdzy byli Napoleon Bonaparte i gen. Ignacy Prądzyński. Po upadku powstania listopadowego, na stanowisko namiestnika Królestwa Polskiego powołany został Iwan Paskiewicz, któremu car, obok wielu godności i tytułów, przyznał prawo do przejęcia w dziedziczną własność ziem wchodzących w skład klucza dęblińskiego. Ponadto Skarb Królestwa Polskiego obciążony został przez Rosję wysoką kontrybucją pieniężną, obowiązkiem utrzymania armii okupacyjnej oraz kosztami rozbudowy twierdzy  w Modlinie i budowy w Dęblinie, którą to miejscowość, w związku  z imieniem nowego właściciela, przemianowano na Iwangorod. 
+
 ### 1901 roku urodził się Witold Pilecki
 
 Rodzina Pileckich pochodzi z okolic Nowogródczyzny. W wyniku represji za udział w Powstaniu Styczniowym, część majątku uległa konfiskacie, a młodzi Pileccy zmuszeni do szukania pracy na stanowiskach rządowych rosyjskiego imperium. Ojciec Witolda, Julian Pilecki po ukończeniu studiów w Instytucie Leśnym w Petersburgu, przyjął posadę leśnika na północy Rosji w Karelii. Po wstąpieniu w związek małżeński z Ludwiką Osiecimską zamieszkali w Ołońcu. Tam urodziło się im pięcioro dzieci: Maria, Józef /zmarł w wieku 5 lat/, Witold, Wanda i Jerzy. W tym czasie rodzina Pileckich co roku wyjeżdżała na kilka tygodni do Sukurcz oraz na Mohylowszczyznę dla podtrzymania więzi rodzinnych a także dla pogłębiania znajomości języka polskiego i historii kraju przodków. Niski poziom nauczania w miejscowych szkołach i rusycyzmy w mowie małych Pileckich wpłynęły na decyzję rodziców o konieczności wyjazdu młodzieży z Ołońca. Ze względów materialnych, Julian Pilecki nadal pracował w Zarządzie Lasów Państwowych w Ołońcu, na stanowisku starszego rewizora, natomiast Ludwika Pilecka wraz z dziećmi w 1910 r. zamieszkała w Wilnie. Witold rozpoczął naukę w szkole handlowej - tzw. gimnazjum komercyjnym. Po rozpoczęciu nauki związał się też z nielegalnie działającym skautingiem.
@@ -201,6 +207,10 @@ Maria Skłodowska-Curie została pierwszą w 650 letniej historii paryskiej Sorb
 Wiele osób nie chciało do tego dopuścić, ponieważ paryska prasa oskarżała ją o liczne romanse. Wiele z tych oskarżeń nigdy się nie potwierdziło. Na jej niekorzyść przemawiało również to, że pochodziła z Polski, co w okresie panującej wtedy we Francji ksenofobii nie mogło dobrze jej wróżyć. Skłodowską w niektórych kręgach traktowano jako osobę co najmniej podejrzaną. Jednak władze Sorbony nie miały wyjścia. Skłodowska była już wtedy osobą bardzo znaną. Była laureatką Nagrody Nobla za odkrycie nowych pierwiastków. Odrzucenie jej wywołałoby w świecie naukowym skandal.
 
 <img src="./img/may/curie.jpg"><br><br>
+
+> Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
+
+---
 
 ### 1863
 
