@@ -10,6 +10,8 @@ https://13grudnia81.pl/
 
 http://www.biblia.deon.pl/
 
+https://poszukiwania.ipn.gov.pl/bbp/artykuly
+
 http://polishhistory.pl
 
 https://spacer.muzeum1939.pl/pl/

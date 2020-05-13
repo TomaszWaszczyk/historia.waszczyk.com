@@ -28,6 +28,10 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
 
+<img src="./img/art/plakat_wojenny.jpg"><br><br>
+
+---
+
 ### The Cantillon Effect at the time of the King of France Louis XV
 
 <img src="./img/art/cantillion.jpg"><br><br>

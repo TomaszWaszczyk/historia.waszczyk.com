@@ -8,9 +8,17 @@ tags:
   - Radio Wolna Europa
 ---
 
+### 2023
+
+Prawdopodobnie wchodzi w życie prawo na Ukrainie o możliwości kupowania przez osoby prawne gruntów.
+
 ### 2020
 
 > No dobre rozpoczęcie nowego roku i dekady przypominamy, że przez najbliższe 9 lat (a właściwie nieco ponad 8) czekają nas 3 halvingi bitcoina. Roczna inflacja w bitcoinie na koniec tego dziesięciolecia będzie wynosiła około 0,45% a nagroda za blok 1,5625 BTC
+
+---
+
+Pod wpływem MFW Ukraina ugina się i zaczyna liberalizację handlem ziemią. Patrz rok 2023.
 
 ---
 

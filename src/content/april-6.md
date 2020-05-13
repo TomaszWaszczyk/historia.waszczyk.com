@@ -45,6 +45,10 @@ Setki profesorów związanych z Yale University wystosowało list do Białego Do
 
 ---
 
+FED nalega na transakcje REPO w większości lokalnych banków centralnych.
+
+---
+
 #### Propaganda
 
 <img src="./img/april/sukcesy.jpg"/><br><br>

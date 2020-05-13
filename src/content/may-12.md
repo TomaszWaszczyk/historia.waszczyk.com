@@ -10,6 +10,12 @@ tags:
 
 ### 2020
 
+USA zaraportowało rekordowy deficyt budżetowy. 738 miliardów dolarów.
+
+<img src="./img/may/deficyt_usa.jpg"><br><br>
+
+---
+
 <img src="./img/may/halving.png"><br><br>
 
 <img src="./img/may/halving.jpg"><br><br>
