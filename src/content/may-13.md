@@ -67,6 +67,22 @@ W rocznicę objawień fatimskich, doszło do zamachu na życie papieża Jana Paw
 
 <img src="./img/may/jp2.jpg"><br><br>
 
+### 1946
+
+W Poznaniu studenci Uniwersytetu Poznańskiego i Akademii Handlowej zorganizowali demonstrację sprzeciwu wobec władzy. Przczyną protestu poznańskich studentów były działania władz państwowych, które doprowadziły do dramatycznych wydarzeń w Łodzi, Krakowie, gdzie również aresztowano studentów tamtejszych uczelni i Włocławku, gdzie krwawo stłumiono prostesty sprzeciwiające się odwołaniu święta 3 maja.
+1500 poznańskich studentów przeszło przez plac Cyryla Ratajskiego, plac Wolności, ulice Święty Marcin, Wały Batorego i ul. Fredry. Na placu Mickiewicza demonstracja została otoczona przez konne oddziały milicji. Aresztowano ponad 600. Władze postawiły zarzuty kilku osobom, wobec których zastosowały kilkumiesięczne areszty i pozbawienie prawa do udziału w głosowaniach. Jednak prawdziwych organizatorów protestu nigdy nie udało się ustalić.
+Protesty z roku 1946 zaowocowały ponadto stworzeniem instrukcji rozpraszania demonstracji, którą po raz pierwszy wcielono w życie podczas wyborów w 1947 roku.
+
+<img src="./img/may/akademiahandlowa.jpg"><br><br>
+
+### 1940
+
+Fragment pamiętnika Anny Hinel (zdjęcie) zamordowanej w wieku 19 lat w KL Auschwitz Birkenau harcerki i działaczki konspiracji niepodległościowej.
+
+Przerwana nauka i wiążąca się z tym bezpośrednio sprawa wywozu do Niemiec, używam celowo tego wyrazu „wywóz” ponieważ lepiej on maluje sytuację niż „wyjazd na przymusowe roboty”. Tak, wywóz ludzi, tak jak wywóz bydła na odkrytych platformach i gonionych, wyłapywanych na ulicach, zabijanych i zakłuwanych bagnetami przy każdej próbie ucieczki. Granica wieku od 16 do 25 lat zaznaczona w odpowiednim ogłoszeniu nie jest wcale przestrzegana. Widziałam ludzi powyżej lat 50 i dzieci poniżej 14 ciągniętych do zakrytych wozów dziwnie podobnych do karawanów przynajmniej w moich oczach. Krążą pogłoski o morderczych transfuzjach krwi, dokonywanych na dzieciach, które to wypadki kończą się w większej części śmiercią ofiar. Wypijają z nas krew dosłownie. Dobrze, że nie jestem okazem kwitnącego zdrowia. Nędzny wygląd też czasem się przyda, ale z drugiej strony szepcą sobie na ucho takie okropne wieści o samym wywozie, że robi mi się na przemian to zimno to gorąco, gdy myślę o tym. W ogóle ogarnia mnie to okropny zwierzęcy strach przed mającym nastąpić nieszczęściem, to znów obojętność, jakby to wszystko zupełnie mnie nie dotyczyło. Mówią, że wszystko zależy od losu szczęścia i przypadku. Więc cała moja przyszłość zależy tylko i jedynie od przypadku, więc mało znaczące głupstewko zadecyduje o moim życiu?
+
+<img src="./img/may/hinkel.jpg"><br><br>
+
 ### 1901 roku urodził się Witold Pilecki
 
 Rodzina Pileckich pochodzi z okolic Nowogródczyzny. W wyniku represji za udział w Powstaniu Styczniowym, część majątku uległa konfiskacie, a młodzi Pileccy zmuszeni do szukania pracy na stanowiskach rządowych rosyjskiego imperium. Ojciec Witolda, Julian Pilecki po ukończeniu studiów w Instytucie Leśnym w Petersburgu, przyjął posadę leśnika na północy Rosji w Karelii. Po wstąpieniu w związek małżeński z Ludwiką Osiecimską zamieszkali w Ołońcu. Tam urodziło się im pięcioro dzieci: Maria, Józef /zmarł w wieku 5 lat/, Witold, Wanda i Jerzy. W tym czasie rodzina Pileckich co roku wyjeżdżała na kilka tygodni do Sukurcz oraz na Mohylowszczyznę dla podtrzymania więzi rodzinnych a także dla pogłębiania znajomości języka polskiego i historii kraju przodków. Niski poziom nauczania w miejscowych szkołach i rusycyzmy w mowie małych Pileckich wpłynęły na decyzję rodziców o konieczności wyjazdu młodzieży z Ołońca. Ze względów materialnych, Julian Pilecki nadal pracował w Zarządzie Lasów Państwowych w Ołońcu, na stanowisku starszego rewizora, natomiast Ludwika Pilecka wraz z dziećmi w 1910 r. zamieszkała w Wilnie. Witold rozpoczął naukę w szkole handlowej - tzw. gimnazjum komercyjnym. Po rozpoczęciu nauki związał się też z nielegalnie działającym skautingiem.
@@ -174,6 +190,13 @@ Gubernator generalny Hans Frank stwierdził:
 Więźniów wysyłanych z Generalnej Guberni do obozów koncentracyjnych w Rzeszy powinno się albo dostarczyć nam z powrotem, abyśmy mogli objąć ich akcją AB, albo zlikwidować na miejscu."
 
 <img src="./img/may/hfrank.jpg"><br><br>
+
+### 1906
+
+Maria Skłodowska-Curie została pierwszą w 650 letniej historii paryskiej Sorbony kobietą z tytułem profesora fizyki. Miała wtedy 38 lat.
+Wiele osób nie chciało do tego dopuścić, ponieważ paryska prasa oskarżała ją o liczne romanse. Wiele z tych oskarżeń nigdy się nie potwierdziło. Na jej niekorzyść przemawiało również to, że pochodziła z Polski, co w okresie panującej wtedy we Francji ksenofobii nie mogło dobrze jej wróżyć. Skłodowską w niektórych kręgach traktowano jako osobę co najmniej podejrzaną. Jednak władze Sorbony nie miały wyjścia. Skłodowska była już wtedy osobą bardzo znaną. Była laureatką Nagrody Nobla za odkrycie nowych pierwiastków. Odrzucenie jej wywołałoby w świecie naukowym skandal.
+
+<img src="./img/may/curie.jpg"><br><br>
 
 ### 1863
 
