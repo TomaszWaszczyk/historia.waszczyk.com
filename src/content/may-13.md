@@ -61,6 +61,10 @@ It did, however, stress the pandemic would severely hit corporate cash flow. It 
 
 In the financial stability section of its report, the central bank warned that if high-street lenders failed to provide credit to their business customers, they might see a short-term benefit in reduced losses, but would cause more companies to fail and unemployment to rise another 2 percentage points, ultimately leading to larger losses.
 
+---
+
+Powell: There will be NO negative interest rates.
+
 ### 1981
 
 W rocznicę objawień fatimskich, doszło do zamachu na życie papieża Jana Pawła II. Był to pierwszy przypadek w historii, kiedy przeprowadzono zamach na życie następcy świętego Piotra. Sprawcą zamachu był turecki fanatyk Mehmet Ali Agca, który już wcześniej miał kłopoty z prawem i był winny pozbawienia życia tureckiego dziennikarza. Kule dosięgły papieża i trafiły go w brzuch i rękę. Życie papieża ocalili lekarze i pielęgniarki z kliniki Gemelli. Po zamachu papież powiedział - ,,Modlę się za brata, który zadał mi cios, i szczerze mu przebaczam''. Jan Paweł II nigdy nie powrócił do pełnej sprawności. Do dzisiaj nie wiadomo kto był zleceniodawcą zamachu na życie Jana Pawła II. Istnieje wiele domysłów na ten temat. Sam zamachowiec wyznał w swojej książce, że za zleceniem stał Ajatollah Chomeini. Władze Watykanu zaprzeczają tym rewelacjom, a książkę Agcy określają mianem kłamstwa. Prawdopodobnie za zamachem na papieża stali przedstawicielekomunistycznego reżimu.
