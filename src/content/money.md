@@ -5,12 +5,12 @@ author: Tomasz Waszczyk
 tags: ["Powiedzenia", "Sentecje", "Cytaty"]
 image: img/demo4.jpg
 date: "2012-08-20T15:11:55.000Z"
-draft: true
+draft: false
 ---
 
 ### Psucie pieniądza
 
-Pierwsi Piastowie
+- Pierwsi Piastowie
 
 Od zarania dziejów politycy (tak, wiemy, że to pojęcie nie było znane w X w., ale chyba nikt nie ma wątpliwości, że Mieszko I był politykiem) manifestowali swoją władzę za pomocą pieniądza, a konkretnie emisji swojej waluty. Nie inaczej było w przypadku zamierzchłej przeszłości Polski. Emisję pierwszej polskiej monety – srebrnego denara – datuje się na 980 r. Mieszko I wyemitował tylko 15 tys. sztuk nowego pieniądza o łącznej wadze 22 kg. Pokazuje to na jedno – mimo faktu, że na polskich ziemiach kwitł handel (głównie niewolnikami), nie było na nich dużej dostępności kruszcu. Inna sprawa, że kruszcu nie było w Europie dużo aż do odkrycia Ameryki.
 
@@ -176,3 +176,87 @@ Emisji kiepskiego pieniądza towarzyszyło zadłużanie księstwa. W 1811 r. def
 To jednak nie wszystko. Napoleon na mocy układu w Bayonne przejął też długi mieszkańców zaboru pruskiego, które ci byli winni królowi Prus. Mówimy o kwocie rzędu 40 mln franków – na tamte czasy gigantycznej (stąd „bajońskie sumy”). Władca Francji „podarował” ten dług Księstwu Warszawskiemu, w zamian zażądał „tylko” natychmiastowej spłaty 50 proc. wartości długu. Z pozoru był to świetny interes. Gdyby Francja ostatecznie wygrała swoje wojny Polacy zarobiliby na czysto 20 mln franków.
 
 Co stało się później? Przekonacie się za tydzień. Podpowiemy tylko – pieniądz bynajmniej nie zaczął zyskiwać na wartości…
+
+### Ratujmy złoto!
+
+Kolejne ekipy rządzące nie wykorzystały w pełni koniunktury gospodarczej lat 30. i źle przygotowały polską armię. W tle zbliżała się zaś II wojna światowa.
+
+1 września 1939 r. III Rzesza napadła na Polskę. Wybuchła II wojna światowa. To wiemy wszyscy. Przyjrzyjmy się jednak temu, co działo się w tym okresie w kwestii polskiej waluty.
+
+2 września Sejm uchwalił specjalne kredyty dla rządu. Poza tym wojna była spodziewana już od pewnego czasu. Z tego też powodu już w lipcu wywieziono część złota Banku Polskiego do paru miast: Siedlec, Brześcia, Zamościa i Lublina. Spójrzcie na mapę. Wszystkie te miasta są zlokalizowane we wschodniej części kraju (Brześć znajduje się dziś na terenie Białorusi). Dlaczego? Otóż pokazuje to, że polskie władze nie spodziewały się ataku ze strony ZSRR, który dopiero 17 września (zresztą pakt Ribbentrop – Mołotow podpisano 23 sierpnia, zaś złoto – jak wspomnieliśmy – rozmieszczano w lipcu).
+
+II wojna światowaWraz z wybuchem wojny podjęto decyzję dot. przewiezienia kruszcu poza granice Polski. I w tym momencie rozpoczyna się istna odyseja. W nocy z 4 na 5 września z Warszawy wywieziono 38 ton złota. Trafiło ono do Lublina, gdzie składowano już część sztab. Już jednak 7 września przetransportowano je do Łucka, czyli jeszcze bardziej w kierunku południowo-wschodnim. Niedługo potem złoto trafiło do Śniatynia przy granicy z Rumunią. W kraju pozostało 3,8 ton, którymi miał dysponować rząd. My zajmiemy się jednak głównymi 38 tonami.
+
+Rumunia teoretycznie była sojusznikiem Polski (zresztą co ważne, przez długie lata nasz kraj łączyły też dobre stosunki dyplomatyczne z III Rzeszą i przez to w latach 30. można było wnioskować, że Polska znajdzie się w grupie państw takich jak właśnie Węgry, Włochy czy Rumunia) i pozwoliła przewieźć transport złota do portu w Konstancy (do dziś na terenie Rumunii). Tam miał czekać statek. Pociąg z kruszcem dotarł na miejsce 15 września. Statku jednak nie było, zaś Niemcy zaczęli naciskać na Rumunów, by ci zablokowali transport. Dalsza historia przypomina film sensacyjny. Niemal w ostatniej chwili do portu wpłynął statek, który zabrał majątek Banku Polskiego do Turcji. Stamtąd ładunek trafił do Bejrutu, który podlegał wtedy pod Francję. Na początku października skarb znalazł się w Nevers w centralnej Francji.
+Dalsza odyseja
+
+To nie koniec tej historii. Jak wiecie II wojna światowa trwała dalej, a właściwie dopiero się zaczynała. W maju 1940 r. Niemcy zaatakowali Francję. Złoto ponownie trzeba było transportować. Tym razem miało trafić do USA. I leżało tam długo i szczęśliwie? No, niestety nie… Kapitan okrętu, na którym się znalazło, w pewnym momencie zmienił kurs i przetransportował złoto do Casablanci. Kolaboracyjny rząd Vichy, który przejął już władzę na ziemiach francuskich, rozkazał przewieść je do Senegalu, który także był podległy Francji. Stamtąd przewieziono je na obrzeża Sahary. Tam przebywało w swoistym areszcie rządu Vichy.
+
+O kruszec rozpoczęły się dyplomatyczne boje. Nim do nich jednak doszło, próbowano złoto odbić siłą. W tym czasie polski rząd na uchodźstwie, na czele którego stał Władysław Sikorski (jeśli uważnie czytacie nasz cykl, pamiętacie, że pojawił się już w naszej historii), przeniósł się już z Francji do Wielkiej Brytanii. Tam zainterweniował u Brytyjczyków w sprawie dot. polskiego złota. Anglicy przypuścili atak z morza na port w Dakarze, ale zostali odparci. Zresztą, jak wiecie, kruszcu już tam nie było…
+
+złotoPozostała więc wspomniana dyplomacja. Francja zaproponowała, że zamiast polskiego złota odda Polakom swoje złoto, które jednak znajdowało się na terenie Kanady. Nie zgodzili się na to Brytyjczycy, którzy faktycznie położyli już ręce na francuskim kruszcu. Wtedy Polacy postanowili zrobić coś, na co na pewno nie wpadlibyście w wojennych warunkach. Wytoczyli Francuzom proces sądowy w USA. Jeśli w tym momencie chcieliście popukać się w czoło, zaskoczymy was: to miało sens. Francuzi posiadali bowiem konta w USA. W razie wygranej, można było więc owe rachunki zająć.
+
+Ostatecznie jednak polski rząd podpisał umowę o współpracy z emigracyjnymi władzami Francji w Wielkiej Brytanii. Zgodnie z nią, jeśli ci „nasi” Francuzi uzyskaliby dostęp do złota, mieli je oddać Polakom.
+
+Gdy w 1942 r. alianci wylądowali w Afryce i rozpoczęli walki z Niemcami, odżyły nadzieje na odzyskanie skarbu Banku Polskiego. I faktycznie, w styczniu 1944 r. złoto powróciło do Polaków. Przetransportowano je do Nowego Jorku i Londynu.
+
+Ok, teraz już na pewno wszystko szczęśliwie się zakończyło – odetchnęliście zapewne z ulgą. Otóż… nie! Na konferencji w Teheranie, a później w Jałcie, ustalono bowiem, że powojenna Polska ma co prawda powrócić na mapy, ale miała stać się państwem-satelitą ZSRR, które od 1941 r. prowadziło już wojnę z III Rzeszą. Powstało pytanie: komu oddać kruszec: władzom emigracyjnym czy podległym komunistom ze Związku Sowieckiego? Do tej kwestii jeszcze wrócimy…
+Tymczasem na ziemiach polskich…
+
+W tle opisanych wydarzeń na polskich ziemiach trwała okupacja ze strony Niemiec i ZSRR. Nie będziemy dokładnie opisywać tutaj represji, które spadły na Polaków w tym okresie, bowiem jest to dobrze udokumentowane i opisane w innych miejscach. Mało mówi się o aspekcie ekonomicznym okupacji. I to tym właśnie się zajmiemy.
+
+Wielkopolska, Pomorze i Śląsk wcielono do Niemiec, więc zaczęła tam obowiązywać marka niemiecka. Na części polskich ziem utworzono Generalne Gubernatorstwo (GG). Jego istnienie wpisuje się w trend tworzenia quazi-polskich państwowości. Wcześniej w XIX w. Napoleon utworzył Księstwo Warszawskie, po jego upadku na kongresie pokojowym w Wiedniu postanowiono zorganizować tzw. Kongresówkę, czyli Królestwo Polskie, które de facto podlegało Rosji. Teraz na polecenie władz z Berlina utworzono wspomniane Generalne Gubernatorstwo.
+
+15 grudnia 1939 r. Niemcy otworzyli Bank Emisyjny w Krakowie. W związku z faktem, że polskie złoto odbywało wtedy swoje zagraniczne wojaże, które opisaliśmy wcześniej, władze Generalnego Gubernatorstwa nie miały inne wyjścia jak poeksperymentować na polskich ziemiach z walutą fiducjarną. Wyemitowało „pustą” walutę dla Polaków, która nie miała jakiegokolwiek oparcia o cokolwiek. Z jednej strony był to jednak – choć w szerszym kontekście zabrzmi to makabrycznie – interesujący eksperyment ekonomiczny. Cały rynek poddano kontroli władz, GG odizolowano od rynków zewnętrznych, zaś walutę podparto jeszcze autorytetem Feliksa Młynarskiego, polskiego ekonomisty i byłego współpracownika Grabskiego. Na banknotach znalazły się polskie napisy, portret bacy, krakowskie zabytki i podpis Młynarskiego.
+
+„Młynarki” są związane z czarną legendą tego zasłużonego ekonomisty. Niesłusznie, bowiem on sam był wielkim patriotą, ale i pragmatykiem. W kolejnych latach – jeszcze w czasie okupacji – w czasie nagonki na warszawiaków po Powstaniu Warszawskim Gestapo zaaresztowało jego córkę. Brat trafił do Auschwitz i tam zginął. Sam Młynarski, choć współpracował z Niemcami,  nie czerpał z tego profitów. Otrzymywał wręcz głodowe karki na żywność.
+
+### Ratujmy złoto!
+
+Kolejne ekipy rządzące nie wykorzystały w pełni koniunktury gospodarczej lat 30. i źle przygotowały polską armię. W tle zbliżała się zaś II wojna światowa.
+
+1 września 1939 r. III Rzesza napadła na Polskę. Wybuchła II wojna światowa. To wiemy wszyscy. Przyjrzyjmy się jednak temu, co działo się w tym okresie w kwestii polskiej waluty.
+
+2 września Sejm uchwalił specjalne kredyty dla rządu. Poza tym wojna była spodziewana już od pewnego czasu. Z tego też powodu już w lipcu wywieziono część złota Banku Polskiego do paru miast: Siedlec, Brześcia, Zamościa i Lublina. Spójrzcie na mapę. Wszystkie te miasta są zlokalizowane we wschodniej części kraju (Brześć znajduje się dziś na terenie Białorusi). Dlaczego? Otóż pokazuje to, że polskie władze nie spodziewały się ataku ze strony ZSRR, który dopiero 17 września (zresztą pakt Ribbentrop – Mołotow podpisano 23 sierpnia, zaś złoto – jak wspomnieliśmy – rozmieszczano w lipcu).
+
+II wojna światowaWraz z wybuchem wojny podjęto decyzję dot. przewiezienia kruszcu poza granice Polski. I w tym momencie rozpoczyna się istna odyseja. W nocy z 4 na 5 września z Warszawy wywieziono 38 ton złota. Trafiło ono do Lublina, gdzie składowano już część sztab. Już jednak 7 września przetransportowano je do Łucka, czyli jeszcze bardziej w kierunku południowo-wschodnim. Niedługo potem złoto trafiło do Śniatynia przy granicy z Rumunią. W kraju pozostało 3,8 ton, którymi miał dysponować rząd. My zajmiemy się jednak głównymi 38 tonami.
+
+Rumunia teoretycznie była sojusznikiem Polski (zresztą co ważne, przez długie lata nasz kraj łączyły też dobre stosunki dyplomatyczne z III Rzeszą i przez to w latach 30. można było wnioskować, że Polska znajdzie się w grupie państw takich jak właśnie Węgry, Włochy czy Rumunia) i pozwoliła przewieźć transport złota do portu w Konstancy (do dziś na terenie Rumunii). Tam miał czekać statek. Pociąg z kruszcem dotarł na miejsce 15 września. Statku jednak nie było, zaś Niemcy zaczęli naciskać na Rumunów, by ci zablokowali transport. Dalsza historia przypomina film sensacyjny. Niemal w ostatniej chwili do portu wpłynął statek, który zabrał majątek Banku Polskiego do Turcji. Stamtąd ładunek trafił do Bejrutu, który podlegał wtedy pod Francję. Na początku października skarb znalazł się w Nevers w centralnej Francji.
+Dalsza odyseja
+
+To nie koniec tej historii. Jak wiecie II wojna światowa trwała dalej, a właściwie dopiero się zaczynała. W maju 1940 r. Niemcy zaatakowali Francję. Złoto ponownie trzeba było transportować. Tym razem miało trafić do USA. I leżało tam długo i szczęśliwie? No, niestety nie… Kapitan okrętu, na którym się znalazło, w pewnym momencie zmienił kurs i przetransportował złoto do Casablanci. Kolaboracyjny rząd Vichy, który przejął już władzę na ziemiach francuskich, rozkazał przewieść je do Senegalu, który także był podległy Francji. Stamtąd przewieziono je na obrzeża Sahary. Tam przebywało w swoistym areszcie rządu Vichy.
+
+O kruszec rozpoczęły się dyplomatyczne boje. Nim do nich jednak doszło, próbowano złoto odbić siłą. W tym czasie polski rząd na uchodźstwie, na czele którego stał Władysław Sikorski (jeśli uważnie czytacie nasz cykl, pamiętacie, że pojawił się już w naszej historii), przeniósł się już z Francji do Wielkiej Brytanii. Tam zainterweniował u Brytyjczyków w sprawie dot. polskiego złota. Anglicy przypuścili atak z morza na port w Dakarze, ale zostali odparci. Zresztą, jak wiecie, kruszcu już tam nie było…
+
+złotoPozostała więc wspomniana dyplomacja. Francja zaproponowała, że zamiast polskiego złota odda Polakom swoje złoto, które jednak znajdowało się na terenie Kanady. Nie zgodzili się na to Brytyjczycy, którzy faktycznie położyli już ręce na francuskim kruszcu. Wtedy Polacy postanowili zrobić coś, na co na pewno nie wpadlibyście w wojennych warunkach. Wytoczyli Francuzom proces sądowy w USA. Jeśli w tym momencie chcieliście popukać się w czoło, zaskoczymy was: to miało sens. Francuzi posiadali bowiem konta w USA. W razie wygranej, można było więc owe rachunki zająć.
+
+Ostatecznie jednak polski rząd podpisał umowę o współpracy z emigracyjnymi władzami Francji w Wielkiej Brytanii. Zgodnie z nią, jeśli ci „nasi” Francuzi uzyskaliby dostęp do złota, mieli je oddać Polakom.
+
+Gdy w 1942 r. alianci wylądowali w Afryce i rozpoczęli walki z Niemcami, odżyły nadzieje na odzyskanie skarbu Banku Polskiego. I faktycznie, w styczniu 1944 r. złoto powróciło do Polaków. Przetransportowano je do Nowego Jorku i Londynu.
+
+Ok, teraz już na pewno wszystko szczęśliwie się zakończyło – odetchnęliście zapewne z ulgą. Otóż… nie! Na konferencji w Teheranie, a później w Jałcie, ustalono bowiem, że powojenna Polska ma co prawda powrócić na mapy, ale miała stać się państwem-satelitą ZSRR, które od 1941 r. prowadziło już wojnę z III Rzeszą. Powstało pytanie: komu oddać kruszec: władzom emigracyjnym czy podległym komunistom ze Związku Sowieckiego? Do tej kwestii jeszcze wrócimy…
+Tymczasem na ziemiach polskich…
+
+W tle opisanych wydarzeń na polskich ziemiach trwała okupacja ze strony Niemiec i ZSRR. Nie będziemy dokładnie opisywać tutaj represji, które spadły na Polaków w tym okresie, bowiem jest to dobrze udokumentowane i opisane w innych miejscach. Mało mówi się o aspekcie ekonomicznym okupacji. I to tym właśnie się zajmiemy.
+
+Wielkopolska, Pomorze i Śląsk wcielono do Niemiec, więc zaczęła tam obowiązywać marka niemiecka. Na części polskich ziem utworzono Generalne Gubernatorstwo (GG). Jego istnienie wpisuje się w trend tworzenia quazi-polskich państwowości. Wcześniej w XIX w. Napoleon utworzył Księstwo Warszawskie, po jego upadku na kongresie pokojowym w Wiedniu postanowiono zorganizować tzw. Kongresówkę, czyli Królestwo Polskie, które de facto podlegało Rosji. Teraz na polecenie władz z Berlina utworzono wspomniane Generalne Gubernatorstwo.
+
+15 grudnia 1939 r. Niemcy otworzyli Bank Emisyjny w Krakowie. W związku z faktem, że polskie złoto odbywało wtedy swoje zagraniczne wojaże, które opisaliśmy wcześniej, władze Generalnego Gubernatorstwa nie miały inne wyjścia jak poeksperymentować na polskich ziemiach z walutą fiducjarną. Wyemitowało „pustą” walutę dla Polaków, która nie miała jakiegokolwiek oparcia o cokolwiek. Z jednej strony był to jednak – choć w szerszym kontekście zabrzmi to makabrycznie – interesujący eksperyment ekonomiczny. Cały rynek poddano kontroli władz, GG odizolowano od rynków zewnętrznych, zaś walutę podparto jeszcze autorytetem Feliksa Młynarskiego, polskiego ekonomisty i byłego współpracownika Grabskiego. Na banknotach znalazły się polskie napisy, portret bacy, krakowskie zabytki i podpis Młynarskiego.
+
+„Młynarki” są związane z czarną legendą tego zasłużonego ekonomisty. Niesłusznie, bowiem on sam był wielkim patriotą, ale i pragmatykiem. W kolejnych latach – jeszcze w czasie okupacji – w czasie nagonki na warszawiaków po Powstaniu Warszawskim Gestapo zaaresztowało jego córkę. Brat trafił do Auschwitz i tam zginął. Sam Młynarski, choć współpracował z Niemcami,  nie czerpał z tego profitów. Otrzymywał wręcz głodowe karki na żywność.
+
+---
+---
+---
+
+### Podatki
+
+Brytyjczycy w 1798 roku, gdy Izba Gmin wprowadziła podatek dochodowy. Przejściowo. Na wojnę z Francją. Uznali - jak pisze Alvin Rabushka - że to "ciężar zbyt ohydny, by nakładać go na człowieka, gdyż ujawnia stan jego finansów urzędnikowi podatkowemu".
+
+Dlatego w 1802 roku - po pokoju w Amiens - go zlikwidowano. Ale potem znów przywrócono. I znów zlikwidowano i znów przywrócono. Zabawny był premier William Gladstone, który w opozycji domagał się jego likwidacji, a jak powracał do władzy - podatek dochodowy powracał razem z nim.
+
+Początkowo płacili go tylko bogaci. Opodatkowano dochody powyżej 60 funtów rocznie, a średni dochód roczny wynosił wówczas 20 funtów. Przez kolejne lata podatkiem obejmowano coraz więcej stanów faktycznych i prawnych, i podwyższano stawki podatkowe. Teraz płacić mają go wszyscy - nawet biedni. Muszą składać na siebie donosy - zwane eufemistycznie "deklaracjami" lub "zeznaniami" - nawet jak nie mają nic do zapłacenia.
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/money.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -772,6 +772,8 @@ zwierzę uczepione skały pędzące 10k/h przez kosmos - człowiek
 
 homo oeconomicus
 
+https://pl.wikipedia.org/wiki/Akolita
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

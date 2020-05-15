@@ -2728,6 +2728,8 @@ Burza w szklance wody.
 
 Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
 
+„O wiele łatwiej jest oszukać ludzi, niż przekonać ich, że zostali oszukani” - Mark Twain
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

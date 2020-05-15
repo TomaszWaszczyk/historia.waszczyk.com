@@ -5,11 +5,16 @@ image: img/1-08.jpeg
 author: Tomasz Waszczyk
 date: 2018-08-01T10:00:00.000Z
 tags:
-  - Historia
   - Powstanie warszawskie
 ---
 
-1944 https://pl.wikipedia.org/wiki/Powstanie_warszawskie
+### 2018
+
+<a href="./documents/august/KomunikatdlaklientowI-UPS.pdf" target="_blank">Komunikat dla klientow I-UPS.pdf</a>
+
+### 1944
+
+ https://pl.wikipedia.org/wiki/Powstanie_warszawskie
 
 ️Przysięga Armii Krajowej:
 

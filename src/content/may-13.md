@@ -65,6 +65,12 @@ In the financial stability section of its report, the central bank warned that i
 
 Powell: There will be NO negative interest rates.
 
+---
+
+Dworzec główny w Bern, Szwajcaria, w każdym biletomacie można kupić Bitcoin
+
+<img src="./img/may/bern.jpg"><br><br>
+
 ### 1981
 
 W rocznicę objawień fatimskich, doszło do zamachu na życie papieża Jana Pawła II. Był to pierwszy przypadek w historii, kiedy przeprowadzono zamach na życie następcy świętego Piotra. Sprawcą zamachu był turecki fanatyk Mehmet Ali Agca, który już wcześniej miał kłopoty z prawem i był winny pozbawienia życia tureckiego dziennikarza. Kule dosięgły papieża i trafiły go w brzuch i rękę. Życie papieża ocalili lekarze i pielęgniarki z kliniki Gemelli. Po zamachu papież powiedział - ,,Modlę się za brata, który zadał mi cios, i szczerze mu przebaczam''. Jan Paweł II nigdy nie powrócił do pełnej sprawności. Do dzisiaj nie wiadomo kto był zleceniodawcą zamachu na życie Jana Pawła II. Istnieje wiele domysłów na ten temat. Sam zamachowiec wyznał w swojej książce, że za zleceniem stał Ajatollah Chomeini. Władze Watykanu zaprzeczają tym rewelacjom, a książkę Agcy określają mianem kłamstwa. Prawdopodobnie za zamachem na papieża stali przedstawicielekomunistycznego reżimu.

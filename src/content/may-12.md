@@ -16,6 +16,12 @@ USA zaraportowało rekordowy deficyt budżetowy. 738 miliardów dolarów.
 
 ---
 
+Właśnie padła Stadnina w Janowie Podlaskim. Byłem tam wielokrotnie, pomagając przy organizacji pokazów i aukcji koni.
+
+150 lat tradycji i dumy narodowej nie zniszczyli ani Moskale, ani faszyści, ani komuniści. Przyszli barbarzyńscy staliniści z PiS i rozjebali w 4 lata.
+
+---
+
 <img src="./img/may/halving.png"><br><br>
 
 <img src="./img/may/halving.jpg"><br><br>

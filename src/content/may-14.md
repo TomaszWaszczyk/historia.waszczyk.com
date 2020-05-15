@@ -32,6 +32,35 @@ Także dobrze by było rozumieć amerykańskiego sojusznika i jego historię, a 
 
 ---
 
+Co jeszcze ukryto w tarczy?
+
+Najpierw wersja skomplikowana:
+
+- "Art. 39 Tarczy Antykryzysowej zmienił treść artykułu 19 ust. 1 ustawy o Służbie Więziennej, przyznając tej formacji prawo do stosowania broni umożliwiającej obezwładnianie osób za pomocą energii elektrycznej (np. paralizatorów typu taser). Funkcjonariusze Służby Więziennej mogą teraz używać broni elektrycznej w przypadkach określonych w art. 11 pkt 1–6, 8, 9 i 11–14 ustawy o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2019 r., poz. 2418), czyli m.in.
+
+1. do wyegzekwowania zachowania zgodnie z wydanym poleceniem,
+2. do pokonania oporu – biernego i czynnego,
+3. do przeciwdziałania autoagresji,
+4. do ochrony i przeciwdziałania naruszeniu porządku lub bezpieczeństwa publicznego;
+5. do przeciwdziałania niszczeniu mienia;
+6. do zapewnienia bezpieczeństwa konwoju lub doprowadzenia;
+
+Zmiana ta jest ukryta w art. 39 ustawy z 31 marca 2020 r. (o zmianie specustawy z 2 marca o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, Dz. U. z 2020 r., poz. 568)".
+
+Choć właściwie wystarczyłoby zostawienie pierwszego punktu.
+
+A teraz wersja prosta. Możnaby ustalić prawo mówiące po prostu:
+
+- "Służba Więzienna ma prawo uzyć paralizatora kiedy tylko poczuje taką ochotę.
+
+---
+
+### NBP wypuszcza właśnie nowe złote monety
+
+<img src="./img/may/zlotemonety.jpeg"><br><br>
+
+---
+
 ### Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant
 
 The government just got even more power to spy on your internet habits as millions remain quarantined at home.
@@ -71,6 +100,51 @@ Układ Warszawski przyczynił się do umocnienia pojałtańskiego porządku mię
 <img src="./img/may/uklad_warszawski.jpg"><br><br>
 
 <img src="./img/may/uklad_warszawski1.jpg"><br><br>
+
+### 1919
+
+W czasie wojny polsko-
+ukraińskiej rozpoczęła się ofensywa wojsk polskich w Galicji Wschodniej.
+Natarcie rozwijało się pomyślnie, oddziały
+polskie, z wyjątkiem pozycji wokół Lwowa, nie
+natrafiły na poważniejszy opór nieprzyjaciela.
+Słabe liczebnie, niedostatecznieuzbrojone
+oddziały UAG unikały walki. Z dnia na dzień
+polska ofensywa nabierała tempa. Na Wołyniu
+oddziały gen. Iwaszkiewicza poważnie
+zachwiały południowym skrzydłem frontu UAG.
+Broniący tego odcinka frontu III Korpus UAG
+nie wytrzymał polskiego uderzenia. Nastąpił
+chaotyczny odwrót, między wycofującymi się
+jednostkami powstawały luki. Uzyskana przez
+stronę polską przewaga pozwalała na
+kontynuowanie szybkich działań ofensywnych.
+
+<img src="./img/may/wojnaukraina.jpg"><br><br>
+
+### 1867
+
+Pozostanie wśród nas duchem swych czynów, bo te czyny żyją i wywołują go przed oblicze stęsknionego narodu, który łaknie wspaniałych wzorów życia, który w każdym wieku musi mieć swych wielkich mężów, obrazy godnego
+życia..."
+Stefan kard. Wyszyński, 1951
+Tymi słowami Wyszyński określił urodzonego 14 maja 1867 w Krasiczynie kardynała Adama Sapiehę.
+Był on absolwentem Instytutu Katolickiego w Lille oraz Uniwersytetu Jagiellońskiego. W 1890 roku.
+rozpoczął studia teologiczne na Uniwersytecie w Innsbrucku, które od 1892 roku kontynuował we Lwowie.
+1 października 1893 roku przyjął święcenia kapłańskie. Po ukończeniu studiów teologicznych krótko pracował w parafii w Jazłowcu, skąd w 1895 roku wyjechał po dalszą naukę do Rzymu. Rok później na Papieskiej Akademii Kościelnej uzyskał stopień doktora obojga praw. Jednocześnie kształcił się w dziedzinie dyplomacji w Kościelnej Akademii Szlacheckiej. Do kraju powrócił w 1897 roku.
+Przez kolejne cztery lata był wicerektorem lwowskiego Seminarium Duchownego, a następnie wikariuszem parafii św. Mikołaja we Lwowie. W 1905 roku został wezwany do Rzymu, gdzie objął godność szambelana papieskiego.
+8 listopada 1911 roku cesarz Franciszek Józef wyznaczył go na ordynariusza krakowskiego.
+Sakrę biskupią przyjął z rąk Piusa X w Kaplicy Sykstyńskiej 7 grudnia 1911 roku Jako Biskup aktywnie działał na rzecz ofiar I wojny światowej, zakładając Książęco – Biskupi Komitet Pomocy dla Dotkniętych Klęską Wojny. Po zakończeniu wojny ks. biskup
+Sapieha pozostawał gorącym zwolennikiem niezależności Kościoła polskiego, wspierając ideę postawienia na jego czele biskupa warszawskiego, jako prymasa.
+Po odzyskaniu niepodległości przez Polskę został wybrany senatorem z listy
+Chrześcijańskiego Związku Jedności
+Narodowej, jednak mandat złożył po zaledwie kilku miesiącach (9 marca 1923 r.), wobec papieskiego zakazu sprawowania funkcji publicznych przez hierarchów kościelnych. W
+1925 r., kiedy diecezję krakowską podniesiono do rangi archidiecezji, został mianowany arcybiskupem.
+W czasie okupacji wykazał się bardzo niezłomną postawą godnie zastępując przebywającego wtedy we Francji prymasa Hlonda. To on również był inicjatorem powstania "Tygodnika Powszechnego",którego pierwsze wydanie ukazało się marcu 1945 roku. 18 lutego 1946 roku otrzymał kapelusz kardynalski. W PRL – u wciąż stał na pozycjach niepodległościowych. Był jednym z inicjatorów listów protestacyjnych Episkopatu Polski,
+potępiających represje władz wobec polskiego Kościoła.
+Ks. kard. Adam książę Sapieha zmarł 23 lipca 1951 r. Został pochowany w krypcie pod katedrą wawelską. Za swoją działalność niepodległościową, duszpasterską i społeczną był wielokrotnie nagradzany. W 1936 r. został odznaczony Orderem Orła Białego, otrzymał też doktoraty honorowe Uniwersytetu
+Jagiellońskiego (1926 r.) oraz KUL (1949 r.).
+
+<img src="./img/may/sapieha.jpg"><br><br>
 
 ### 1772
 
