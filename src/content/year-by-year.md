@@ -305,6 +305,8 @@ https://pl.wikipedia.org/wiki/Historia_Indii - niedpodległość Indii względem
 
 https://en.wikipedia.org/wiki/Pax_Europaea
 
+Wynaleziono wskaźnik PKB - Produkt Krajowy Brutto
+
 ### 1949
 
 A rush to retrieve gold from the bank before the Communist victory, Shanghai, 1949.

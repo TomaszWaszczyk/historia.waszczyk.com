@@ -48,6 +48,10 @@ Po wysiedleniu Polaków, Niemcy jeszcze tego samego dnia osiedlili nowych niemie
 Polski ruch oporu urządzał akcje odwetowe np. nocą z 9 na 10 grudnia polska partyzanta spaliła kilka gospodarstw zajętych przez kolonistów. W odwecie Niemcy wymordowali prawie całą ludność Kitowa, 168 osób - w tym kobiety i dzieci. Jednak partyzanci nie zaprzestali działań co w połączeniu z oporem stawianym ze strony polskich wysiedleńców (np. ludzie celowo niszczyli swój majątek) spowodowało zatrzymanie akcji wysiedleńczej. Partyzanci Batalionów Chłopskich, Armii Krajowej, Gwardii Ludowej oraz oddziały partyzantki radzieckiej atakowały niemieckie siły. Głośnym echem odbiły się bitwy pod Wojdą, Zaborecznem, Różą, Lasowcami lub potyczki w Bondyrzu Kaczorkach Trzepiecinach. Do Berlina dotarła informacja, że na Zamojszczyźnie wybuchło powstanie. Od kul partyzantów poległo wielu kolonistów, część w obawie przed partyzantami uciekła do Szczebrzeszyna i Suchowoli.
 Po wojnie do opuszczonych wiosek powracali nieliczni ocaleli rdzenni mieszkańcy. Część gospodarstw obsadzono repatriantami z terenów, które po wojnie znalazły się poza granicami Polski.
 
+### 1940
+
+<img src="./img/november/jesse.png"><br><br>
+
 ### 1939
 
 W Brześciu nad Bugiem odbyła się wspólna konferencja Gestapo i NKWD na której debatowano nad metodami zwalczania polskiej konspiracji niepodległościowej. Opracowywano również system przepływu informacji między III Rzeszą, a ZSRR, metody eliminacji polskiej klasy przywódczej i inteligencji oraz działania mające na celu germanizację i wynarodowienie Polaków.

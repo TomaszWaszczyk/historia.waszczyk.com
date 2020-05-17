@@ -9,7 +9,15 @@ tags:
 draft: true
 ---
 
-### 
+### 2020
+
+Shell obcina dywidendę.
+
+Niedźwiecki odchodzi z Trójki.
+
+### 1709
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Po%C5%82taw%C4%85 mróz pokonał Szwedów z Rosją, po tej bitwie Rosja zaczęła dominować na wschodzie - również w Polsce
 
 ---
 

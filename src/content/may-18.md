@@ -1,13 +1,16 @@
 ---
 layout: post
 title: 18 maja
-image: img/may/glass-act.jpg
+image: img/may/skladki.jpg
 author: Tomasz Waszczyk
 date: 2018-05-18T10:00:00.000Z
 tags:
-  - Historia
   - Mossad
 ---
+
+### 2020
+
+<img src="./img/may/skladki.jpg"><br><br>
 
 ### 1965
 
