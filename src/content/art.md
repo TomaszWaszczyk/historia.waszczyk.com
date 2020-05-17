@@ -36,6 +36,12 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 <img src="./img/art/cantillion.jpg"><br><br>
 
+### Назначили народы-братья Над вражьим городом свидание - 1941
+
+<img src="./img/art/naznatchili.jpg"><br><br>
+
+<img src="./img/art/meetingberlin.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

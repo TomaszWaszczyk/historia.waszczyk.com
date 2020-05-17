@@ -10,6 +10,10 @@ tags:
 
 ### 2020
 
+<img src="./img/may/tarcza4.jpg"><br><br>
+
+---
+
 USA zaraportowało rekordowy deficyt budżetowy. 738 miliardów dolarów.
 
 <img src="./img/may/deficyt_usa.jpg"><br><br>
@@ -72,6 +76,15 @@ Należę do tych ocalonych, którzy znali Irenę Sendlerową od wielu dziesięci
 Słaba i schorowana była niezwykle duchem silna, dzielnie znosiła rodzinne kłopoty, dotknęło Ją nieszczęście największe: śmierć syna. W każdej sytuacji pokazywała niezwykłą ludzką klasę. Dotrwała do późnej starości, żyła dokładnie dziewięćdziesiąt osiem lat i trzy miesiące (bez trzech dni). My wszyscy, tutaj zebrani, opłakujemy Jej odejście, opłakujemy szczerze, świadomi, jak wielką ponieśliśmy stratę. Chciałbym jednak - wbrew zwyczajom obowiązującym w mowach nad grobem wygłaszanych - zakończyć akcentem optymistycznym. Nie tylko wyrażę przekonanie, że wielkie dzieło Ireny Sendlerowej pozostanie w pamięci na zawsze i przejdzie do historii, bo to wątpliwości nie ulega, chciałbym wyrazić radość, że była z nami tak długo, że opuściła nasz ziemski padół, dożywszy wieku sędziwego.''
 
 <img src="./img/may/sendlerowa.jpg"><br><br>
+
+### 1982
+
+W Fatimie podczas pielgrzymki dziękczynnej miała miejsce druga próba dokonania zamachu na życie papieża Jana Pawła II. Tym razem atakującym był Hiszpan Juan Fernandez Krohn (zdjęcie) były ksiądz lefebrysta wyrzucony z Bractwa świętego Piusa X za nieposłuszeństwo i problemy psychiczne.
+O próbie dokonania tego zamachu mówił w filmie "Świadectwo" kardynał Stanisław Dziwisz:
+"Dziś mogę to powiedzieć, do tej pory utrzymywaliśmy to raczej w dyskrecji. On poranił Ojca Świętego. Niemniej w ten sposób, że Ojciec Święty mógł zakończyć całe nabożeństwo. Dopiero gdy wrócił do pokoju, widzieliśmy, że sutanna jest zakrwawiona, że go jednak tym nożem poranił”.
+Za próbę zamordowania Jana Pawła II Krohn został skazany na 6 lat więzienia.
+
+<img src="./img/may/atak.jpg"><br><br>
 
 ### 1970
 
