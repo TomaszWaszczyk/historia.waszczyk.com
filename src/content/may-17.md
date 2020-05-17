@@ -26,6 +26,37 @@ Gandhi pocieszyłby nas: „patrząc na historię świata widzimy, iż tyrani, j
 Dodam od siebie, że warto im w upadku pomóc. Zaczynając od niezgody na ich szaleństwo.
 I nie zaszkodzi pamiętać: w Portugalii Rewolucja Goździków, która obaliła dyktatora, też zaczęła się od włączonej w radiu piosenki Paola de Carvalho.
 
+---
+
+[Pedagogika wstydu](https://pl.wikipedia.org/wiki/Pedagogika_wstydu)
+
+---
+
+<details><summary>Wieloletni dziennikarz Trójki Polskiego Radia - Marek Niedźwiecki odchodzi z publicznej rozgłośni. Decyzja jest protestem w związku z aferą dotyczącą piosenki Kazika Staszewskiego "Twój ból jest lepszy niż mój'.</summary>
+
+O decyzji Niedźwieckiego poinformował w mediach społecznościowych kompozytor Zbigniew Preisner.
+
+- Wczoraj w Programie Trzecim Polskiego Radia wydarzyła się historia, która nawet w najgorszych czasach PRL byłaby nie do pomyślenia. Kazik ze swoją piosenką „Twój ból jest lepszy niż mój“ wygrał notowanie Listy przebojów Marka Niedźwieckiego. Kilka godzin później tak zwany redaktor naczelny Trójki Tomasz Kowalczewski ogłosił, że redakcja unieważniła głosowanie, informując, że „wprowadzono piosenkę spoza listy, nadto dokonano manipulacji przy liczeniu głosów oddawanych na poszczególne piosenki, co zafałszowało wynik końcowy“.
+Miarka się przebrała!
+
+Marek Niedźwiecki jest kolejną osobą, która dzisiaj odeszła z Trójki. Nasza Trójka już nie istnieje.
+Nie możemy się dać zniewolić tej bolszewickiej polityce, musimy bronić naszej wolności, inaczej zostanie nam „zniewolony umysł”" - oświadczył Preisner na swoim Facebookowym profilu.
+
+***
+
+Oświadczenia wydali dzisiaj także muzycy; "Organek" oraz Dawid Podsiadło.
+
+Organek: "Z ogromnym żalem i smutkiem informujemy, iż zespół ØRGANEK zawiesza współpracę z Trójka - Program 3 Polskiego Radia na czas nieokreślony. Trójka była naszym domem od samego początku istnienia zespołu, dzięki niej mogliśmy przeżyć wiele wzruszeń i radości. Niegdyś gwarant jakości i wolności artystycznej, dziś, na naszych oczach staje się symbolem dewastacyjnej polityki obecnych władz Polskiego Radia.
+
+Bezpośrednim powodem naszej decyzji jest usunięcie piosenki "Twój ból jest lepszy niż mój" Kazika z ostatniego notowania LP3. Zwalnianie niezależnie myślących dziennikarzy, polityczna ingerencja w ramówkę, atmosfera nagonki i zastraszenia oraz cenzura, to standardy mediów reżimowych z krajów niedemokratycznych.
+
+Nigdy się na to nie zgodzimy. Czekamy aż wróci NASZA Trójka. NO PASARAN".
+
+Dawid Posiadło: "Trudno bez emocji patrzeć na kolejny przykład demolowania kultury. Trójka miała zawsze specjalne miejsce w moim sercu, a o istnieniu kultowej listy słyszałem od urodzenia. Muzyczna redakcja Trojki od początku bardzo wspierała mnie i moją twórczość, za co zawsze będę wdzięczny.
+
+Ale jeżeli na dzisiejszej antenie PR3, polityka jest ważniejsza niż muzyka, jeżeli piosenka powoduje powrót najgorszych komunistycznych praktyk, które znam tylko z książek i opowieści, to myślę, że moje utwory też nie powinny być grane na tej antenie, dopóki twórcza wolność słowa nie wróci na fale Trójki".
+</details>
+
 ### 1989
 
 Sejm PRL przyjął pakiet ustaw o gwarancjach wolności sumienia i wyznania oraz o stosunku państwa do Kościoła katolickiego.
