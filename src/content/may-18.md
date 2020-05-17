@@ -5,12 +5,16 @@ image: img/may/skladki.jpg
 author: Tomasz Waszczyk
 date: 2018-05-18T10:00:00.000Z
 tags:
-  - Mossad
+  - Digital Dollar
 ---
 
 ### 2020
 
 <img src="./img/may/skladki.jpg"><br><br>
+
+---
+
+<a href="./documents/may/usdollar.pdf" target="_blank">US Digital Dollar</a>
 
 ### 1965
 
