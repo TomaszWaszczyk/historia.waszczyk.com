@@ -14,6 +14,14 @@ tags:
 
 ---
 
+> Jan Paweł II (1925_2005): "Historia uczy, że demokracja bez wartości łatwo się przemienia w jawny lub zakamuflowany totalitaryzm." (Centesimus annus 46).
+
+<br>
+
+> Jan Paweł II (1925-2005): "Interweniując bezpośrednio i pozbawiając społeczeństwo odpowiedzialności, państwo opiekuńcze powoduje utratę ludzkich energii i przesadny wzrost publicznych struktur". (Centesimus annus 48)
+
+---
+
 <details><summary>Szef amerykańskiego banku centralnego udzielił obszernego wywiadu, w którym odniósł się do obecnej i przyszłej kondycji amerykańskiej gospodarki. Padła także odpowiedź na pytanie „Czy Fed drukuje pieniądze?”.</summary>
 
 W emitowanym przez stację CBS popularnym programie publicystycznym „60 minutes” Jerome Powell, stojący na czele amerykańskiego banku centralnego, poruszył szereg wątków związanych z trwającym kryzysem. Poniżej przedstawiamy najważniejsze z nich.

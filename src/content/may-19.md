@@ -6,7 +6,7 @@ author: Tomasz Waszczyk
 date: 2019-05-19T10:00:00.000Z
 tags:
   - Monte Cassino
-draft: false
+draft: true
 ---
 
 ### 1944
