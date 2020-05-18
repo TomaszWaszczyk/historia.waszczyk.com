@@ -44,4 +44,10 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
 
+Propaganda żydowska
+
+<img src="./img/art/propaganda-zydowska.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
