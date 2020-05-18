@@ -52,6 +52,12 @@ Paul Krugman powiedział kiedyś, że produktywność może nie jest najważniej
 
 Obecne przekonanie, że rząd musi chronić wszystkie firmy, miejsca pracy i dochody za wszelką cenę (czyli cenę zadłużenia na dziesiątki lat), może przetrwać, gdy minie sama pandemia, albo wręcz nasilać się – powrócą stare postulaty nacjonalizacji przestarzałych firm i pojawią się nowe dotyczące dochodu podstawowego. Jeśli politycy będą w stanie obronić miejsca pracy i jako takie dochody w czasie kryzysu, to wiele osób może zastanawiać się, dlaczego w ogóle musimy pracować, jeżeli możemy drukować?
 
+---
+
+### 2016
+
+https://en.wikipedia.org/wiki/Panama_Papers
+
 ### 1940
 
 Wyruszył z likwidowanego obozu w Kozielsku pierwszy transport do Katynia wiozący polskich jeńców stalinowskich.
