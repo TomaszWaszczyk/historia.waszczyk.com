@@ -2732,6 +2732,10 @@ Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
 
 Believing in God is less about the scientifically untestable idea that some omnipotent creator exists. It’s more about not being arrogant enough to reject there’s something more we can’t fully understand. And there is some wisdom in these ancient stories we ignore at our peril.
 
+Jan Paweł II (1925_2005): "Historia uczy, że demokracja bez wartości łatwo się przemienia w jawny lub zakamuflowany totalitaryzm." (Centesimus annus 46).
+
+Jan Paweł II (1925-2005): "Interweniując bezpośrednio i pozbawiając społeczeństwo odpowiedzialności, państwo opiekuńcze powoduje utratę ludzkich energii i przesadny wzrost publicznych struktur". (Centesimus annus 48)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
