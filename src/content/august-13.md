@@ -5,8 +5,12 @@ image: img/august/Union_of_Krewo.jpg
 author: Tomasz Waszczyk
 date: 2018-08-13T10:00:00.000Z
 tags:
-  - Historia
+  - Nixon shock
 ---
+
+### 1971
+
+https://en.wikipedia.org/wiki/Nixon_shock
 
 ### 1899
 

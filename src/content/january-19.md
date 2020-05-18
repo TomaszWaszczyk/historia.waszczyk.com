@@ -20,6 +20,10 @@ Tak o odbudowie Zamku mówiła inżynier architekt Irena Oborska:
 
 <img src="./img/january/zamek.jpg"/><br><br>
 
+### 1946
+
+https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Trybuna%C5%82_Wojskowy_dla_Dalekiego_Wschodu
+
 ### 1945
 
 Żołnierze Armii Krajowej! Daję Wam ostatni rozkaz. Dalszą swą pracę i działalność prowadźcie w duchu odzyskania pełnej niepodległości Państwa i ochrony ludności polskiej przed zagładą. Starajcie się być przewodnikami Narodu i realizatorami niepodległego Państwa Polskiego. W tym działaniu każdy z Was musi być dla siebie dowódcą,

@@ -10,6 +10,10 @@ tags:
 
 ### 2020
 
+> Piszę to do znudzenia: nie ma takiej tandety intelektualnej, której byśmy sobie z Zachodu nie sprowadzili. Tam jest cenzura, to będzie i u nas – jasno oświecona, postępowa, wolnościowa i tolerancyjna - Dariusz Matuszak.
+
+---
+
 <details><summary>Szef amerykańskiego banku centralnego udzielił obszernego wywiadu, w którym odniósł się do obecnej i przyszłej kondycji amerykańskiej gospodarki. Padła także odpowiedź na pytanie „Czy Fed drukuje pieniądze?”.</summary>
 
 W emitowanym przez stację CBS popularnym programie publicystycznym „60 minutes” Jerome Powell, stojący na czele amerykańskiego banku centralnego, poruszył szereg wątków związanych z trwającym kryzysem. Poniżej przedstawiamy najważniejsze z nich.

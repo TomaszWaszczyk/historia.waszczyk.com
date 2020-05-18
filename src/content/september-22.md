@@ -13,6 +13,10 @@ draft: true
 
 Po 27 latach zakończono produkcję Fiata 126 p czyli popularnego "malucha". Samochód ten produkowany na włoskiej licencji powstawał w fabrykach w Tychach i Bielsku Białej, a austriacka wersja w fabryce Steyra. W Polsce powstało 3 318 674 egzemplarzy tego samochodu.
 
+### 1985
+
+https://en.wikipedia.org/wiki/Plaza_Accord
+
 ### 1953
 
 W trakcie pokazowego procesu władze komunistyczne skazały na 12 lat więzienia biskupa Dziecezji Kieleckiej Czesława Kaczmarka (zdjęcie). Został on aresztowany razem z Danilewiczem, autorem raportu o pogromie kieleckim 20 stycznia 1951 roku. Postawiono mu zarzut szpiegostwa na rzecz Stanów Zjednoczonych oraz Stolicy Apostolskiej, faszyzacji życia społecznego, nielegalnego handlu walutami i kolaboracji. Prawdziwym powodem aresztowania był jednak raport o pogromie kieleckim, w który Danilewicz wysunął oskarżenie w obec NKWD, jako służby, która miała go inspirować. Za pomocą procesu oraz Ruchu Księży Patriotów, a także grupy sprzyjających dziennikarzy wśród których czynnie udzielał się przyszły premier Tadeusz Mazowiecki, władze poróbowały skompromitować samego biskupa jak i instytucję Kościoła w Polsce.

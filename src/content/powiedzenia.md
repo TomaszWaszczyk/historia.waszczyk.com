@@ -2730,6 +2730,8 @@ Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
 
 „O wiele łatwiej jest oszukać ludzi, niż przekonać ich, że zostali oszukani” - Mark Twain
 
+Believing in God is less about the scientifically untestable idea that some omnipotent creator exists. It’s more about not being arrogant enough to reject there’s something more we can’t fully understand. And there is some wisdom in these ancient stories we ignore at our peril.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
