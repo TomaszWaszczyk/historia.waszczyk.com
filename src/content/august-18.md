@@ -24,6 +24,18 @@ Według niektórych historyków fala powodziowa zabrała ze sobą nawet 120 tysi
 
 <img src="./img/august/withdraw.jpg"><br><br>
 
+### 1918
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Amiens
+
+Brytyjczycy w 1798 roku, gdy Izba Gmin wprowadziła podatek dochodowy. Przejściowo. Na wojnę z Francją. Uznali - jak pisze Alvin Rabushka - że to "ciężar zbyt ohydny, by nakładać go na człowieka, gdyż ujawnia stan jego finansów urzędnikowi podatkowemu".
+
+Dlatego w 1802 roku - po pokoju w Amiens - go zlikwidowano. Ale potem znów przywrócono. I znów zlikwidowano i znów przywrócono. Zabawny był premier William Gladstone, który w opozycji domagał się jego likwidacji, a jak powracał do władzy - podatek dochodowy powracał razem z nim.
+
+Początkowo płacili go tylko bogaci. Opodatkowano dochody powyżej 60 funtów rocznie, a średni dochód roczny wynosił wówczas 20 funtów. Przez kolejne lata podatkiem obejmowano coraz więcej stanów faktycznych i prawnych, i podwyższano stawki podatkowe. Teraz płacić mają go wszyscy - nawet biedni. Muszą składać na siebie donosy - zwane eufemistycznie "deklaracjami" lub "zeznaniami" - nawet jak nie mają nic do zapłacenia.
+
+Władza lubi wiedzieć o nas jak najwięcej. Służy temu progresja podatkowa. Bo gdyby podatek był proporcjonalny mógłby być pobierany u źródła  - jak "podatek Belki" od "zysków kapitałowych" Dlaczego podatek od "zysków z pracy" pracowników nie może być pobierany przez pracodawców tak samo jak jest pobierany przez banki od ich klientów? Właśnie z powodu inwigilacji. Oczywiście tego się głośno nie mówi.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

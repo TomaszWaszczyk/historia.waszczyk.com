@@ -33,6 +33,12 @@ Sondaże
 
 <img src="./img/may/zimna-wojna.jpg"><br><br>
 
+---
+
+### 2018
+
+Pięciometrowy pomnik Karola Marksa odsłonięty w Trewirze. To podarek od Chin.
+
 ### 1994
 
 Zastępca szefa Służby Bezpieczeństwa Ukrainy generał Andrij Chomicz przekazał na ręce zastępcy prokuratora generalnego RP Stefana Śnieżko Ukraińską Listę Katyńską- dokument zawierający dane blisko 3500 obywateli polskich zamordowanych przez NKWD w miejscach egzekucji na terenie Ukrainy.

@@ -91,6 +91,14 @@ Na tym pamiętnik się urywa...
 
 <img src="./img/march/stalinn.jpg"/><br><br>
 
+---
+
+Marsz przez instytucje
+
+https://pl.wikipedia.org/wiki/Rudi_Dutschke
+
+---
+
 ### 1913
 
 W Hanaczowie w województwie tarnopolskim urodził się Kazimierz Wojtowicz (zdjęcie) podporucznik Armii Krajowej, dowódca obrony Hanaczowa przed napadami Ukraińskiej Powstańczej Armii, za pomoc ludności żydowskiej odznaczony medalem Sprawiedliwy Wśród Narodów Świata.

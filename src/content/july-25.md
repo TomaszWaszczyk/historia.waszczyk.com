@@ -8,6 +8,10 @@ tags:
   - 
 ---
 
+### 1968
+
+https://pl.wikipedia.org/wiki/Humanae_vitae
+
 ### 1941
 
 Pogromy lwowskie w 1941 to dwa pogromy ludności żydowskiej Lwowa, jakie miały miejsce latem 1941 r., po ataku Niemiec na ZSRR i rozpoczęciu okupacji miasta przez III Rzeszę.
