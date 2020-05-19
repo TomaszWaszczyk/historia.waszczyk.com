@@ -2736,6 +2736,61 @@ Jan Paweł II (1925_2005): "Historia uczy, że demokracja bez wartości łatwo s
 
 Jan Paweł II (1925-2005): "Interweniując bezpośrednio i pozbawiając społeczeństwo odpowiedzialności, państwo opiekuńcze powoduje utratę ludzkich energii i przesadny wzrost publicznych struktur". (Centesimus annus 48)
 
+Leadership is the calmness under stress.
+
+Żadne drzewo nie jest mocne ani odporne na burze, jeżeli często nie wstrząsają nim wichury, i właśnie pod nękającym naporem burzy nabiera siły i jeszcze mocniej korzeniami utwierdza się w ziemi. Słabe są drzewa, które wzrosły na słonecznych dolinach.
+Seneka
+
+Nobody has a right to complain.
+
+By dostać więcej od życia, dawaj więcej od siebie.
+H. Jackson Brown, Jr
+
+Wszystko, co doskonałe, dojrzewa powoli.
+Arthur Schopenhauer
+
+Dużo ludzi nie wie, co z czasem robić. Czas nie ma z ludźmi tego kłopotu.
+Magdalena Samozwaniec
+
+Spróbuj zapalić małą świeczkę, zamiast przeklinać ciemność
+Konfucjusz
+
+Tylko najlepsze jest wystarczająco dobre.
+
+Wznoś się po każdym upadku, padniesz trupem albo urosną Ci skrzydła.
+Maria von Ebner-Eschenbach
+
+Mamy tyle niezależności ile oszczędności.
+
+Don’t be afraid of making decisions. You can’t be paralyzed with fear or failure or you will never push yourself.
+
+Think globally, not just domestically.
+
+Śniadanie jedz sam, obiad z przyjacielem, kolajcę oddaj wrogowi.
+
+Rób to, co robisz, tak dobrze, by ludzie chcieli zobaczyć to ponownie i przyprowadzić swoich przyjaciół.
+
+Jeśli jest coś, co możesz zrobić, albo ci się śni, że możesz, zacznij to robić. W śmiałości tkwi geniusz, potęga i magia.
+Johann Wolfgang von Goethe
+
+Jeśli nie umiesz latać, biegnij. Jeśli nie umiesz biegać, chodź. Jeśli nie umiesz chodzić, czołgaj się. Ale bez względu na wszystko, posuwaj się naprzód!
+Martin Luter King
+
+Umysł, raz rozciągnięty przez nową ideę, nigdy nie powraca do swoich poprzednich rozmiarów.
+
+Nic nie może powstrzymać osoby z odpowiednim nastawieniem mentalnym przed osiągnięciem jej celu. Nic na ziemi nie może pomóc osobie ze złym nastawieniem mentalnym.
+
+You have to apply yourself each day to becoming a little better. By applying yourself to the task of becoming a little better each and every day over a period of time, you will become a lot better.
+
+Warto, nie raz i nie dwa, spokojnie spojrzeć na swoje życie i zdecydować, na czym zależy nam bardziej niż na czymkolwiek innym, co robilibyśmy, gdyby nie istniały żadne ograniczenia. A następnie powoli zacząć to robić.
+Robert Krool
+
+“Dobrzy matematycy widzą analogie między twierdzeniami, lepsi między teoriami, ale najlepsi widzą analogie między analogiami.” (Stefan BANACH)
+
+Kto myśli o problemach – ma problemy. Kto myśli o rozwiązaniach – ma rozwiązania. (Nikolaus B. Enkelmann)
+
+Poznaj samego siebie a stanie przed tobą otworem cały świat.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
