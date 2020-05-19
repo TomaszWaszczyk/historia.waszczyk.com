@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 19 maja
-image: img/may/
+image: img/may/szarecki.jpg
 author: Tomasz Waszczyk
 date: 2019-05-19T10:00:00.000Z
 tags:
   - Monte Cassino
-draft: true
+draft: false
 ---
 
 ### 1944
@@ -16,7 +16,7 @@ Kilka słów o polskim personelu medycznym ratującym życie żołnierzy pod Mon
 Melchior Wańkowicz - Monte Cassino
 (Fragment książki)
 
-,,Teraz pracujemy z Polakami. Jest wielce zabawne czasem, jak się próbujemy porozumieć. Mimo to są bardzo pomocni i nic nie jest dla nich trudnością. Wierz mi, że oni wkładają serce i duszę w swą pracę i są przejęci myślą o walce wspólnie z angielskimi chłopakami. Oni mieli dwie sekcje chirurgiczne, wielu z nich zginęło i to jest powodem, że jesteśmy z nimi razem.''
+>Teraz pracujemy z Polakami. Jest wielce zabawne czasem, jak się próbujemy porozumieć. Mimo to są bardzo pomocni i nic nie jest dla nich trudnością. Wierz mi, że oni wkładają serce i duszę w swą pracę i są przejęci myślą o walce wspólnie z angielskimi chłopakami. Oni mieli dwie sekcje chirurgiczne, wielu z nich zginęło i to jest powodem, że jesteśmy z nimi razem.
 
 Korpus Polski bijący się o Monte Cassino miał na każdym szczeblu sanitarnym od GPO w górę oficera transfuzyjnego. Korpus miał dwie czołówki transfuzyjne, rozporządzające składnicami-chłodnicami. Krew w butelce jest dobra tylko przez 3 tygodnie. Co dzień przed punktami pobierającymi krew w dalekiej mglistej Anglii stoją kolejki brytyjskich dziewcząt bezinteresownie oddających swoją krew. Co dzień z angielskiego Blood Bank we Włoszech przyjeżdżał do polskich czołówek transfuzyjnych łazik, z termosem zawierającym butelki ,,Bristol''.
 
