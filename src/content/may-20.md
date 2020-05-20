@@ -19,6 +19,8 @@ Mamy fatalną politykę monetarną (m. in. kreacja sztucznego pieniądza i zani�
 Your browser does not support the video tag.
 </video>
 
+<img src="./img/may/usasupply.jpeg"><br><br>
+
 ### 1922
 
 Z inicjatywy profesora Ignacego Mościckiego powstał Instytut Chemii Przemysłowej we Lwowie. Była to pierwsza w Polsce placówka naukowa związana z przemysłem chemicznym. Instytut figurował pod nazwą Chemiczny Instytut Badawczy (w skrócie ChIB). W 1926 roku, siedziba Instytutu została przeniesiona do Warszawy.
