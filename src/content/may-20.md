@@ -10,6 +10,14 @@ tags:
 
 ### 2020
 
+WIBID Over Night = 0,01%
+
+Wyglada jakby banki miały nadmiar gotówki, która parzy w ręce.
+
+Zastanawiające!
+
+<img src="./img/may/wibid.png"><br><br>
+
 Mamy fatalną politykę monetarną (m. in. kreacja sztucznego pieniądza i zaniżanie stóp proc.), obciążenia fikalne kurczącego się sektora prywatnego, ogromne wydatki państwa, dług publiczny, ograniczenia i problemy regulacyjno - administracyjne, a do tego obłąkańczą redystrybucję.
 
 ---
