@@ -27,6 +27,20 @@ W czasie wywiadu powtórzył też wcześniejsze zapewnienie o tym, że rząd nie
 
 ---
 
+### Morawiecki: grozi nam deflacja, Premier boi się deflacji
+
+– Hiperinflacja nam nie grozi, w najbliższym czasie będą nam za to groziły zjawiska deflacyjne – ocenił wczoraj premier Mateusz Morawiecki. – Nasza polityka monetarna, regulacyjna i fiskalna są ze sobą w bardzo właściwy sposób skorelowane. Najczęściej podobnego typu kryzysy groziły deflacją. A więc zjawiska, które będą nam w najbliższym czasie groziły, to są zjawiska deflacyjne, są odwrotnością do inflacji – dodał.
+
+Jak sam przyznał rząd będzie walczył teraz o stabilność złotego:
+
+> „Jestem przekonany, że nasza odpowiedź na wyzwania kryzysowe jest kombinacją wielu czynników, które zostały wzięte pod uwagę, jest odpowiedzią również na zagrożenia deflacyjne, na potencjalne upadłości firm, wzrost bezrobocia, deficyt finansów publicznych, który powinien teraz rosnąć, ale do pewnego poziomu, tak samo dług publiczny. Ta wielorakość różnych elementów, które zastosowaliśmy, jest optymalną na dzisiaj mieszanką na ten trudny czas, z którym przyszło nam się borykać.”
+
+Czy ta walka zakończy się sukcesem? Ciężko wyrokować, ale jednego możemy już już pewni: lepiej już było, zaś przed nami ciężkie czasy…
+
+Podczas sesji pytań i odpowiedzi transmitowanej na Facebooku premier Mateusz Morawiecki przyznał, że Polsce grozi deflacja. Możliwe więc, że politycy staną przed przeciwnikiem o wiele bardziej przebiegłym niż inflacja…
+
+---
+
 <img src="./img/april/oil2020.png"><br><br>
 
 ---

@@ -14,7 +14,7 @@ Mamy fatalną politykę monetarną (m. in. kreacja sztucznego pieniądza i zani�
 
 ---
 
-<video width="640" height="480" controls autoplay>
+<video width="640" height="480" controls loop>
   <source src="./movies/may/brrr.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
