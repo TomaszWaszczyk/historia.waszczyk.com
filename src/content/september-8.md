@@ -9,6 +9,14 @@ tags:
 draft: true
 ---
 
+### 1948
+
+Chyba rzadko się o tym wspomina, ale FAKTY są takie, że proklamowana 8 września 1948 roku, Koreańska Republika Ludowo-Demokratyczna (KRLD) jest najdłużej egzystującym komunistycznym państwem świata i istnieje już ponad 71 lat.
+
+Przeżyła tym samym ZSRR (1922-1991) o dwa lata.
+
+<img src="./img/september/krld.jpeg"><br><br>
+
 ### 1939
 
 Już w pierwszych dniach września udało się Niemcom przełamać polskie linie obronne i zająć Kujawy, część Wielkopolski i Śląsk. Na północy główne siły polskie, skoncentrowane w rejonie Mławy i na Pomorzu, zostały 1–3 września rozbite, a Armia Modlin, atakowana przez niemiecką 3 Armię podczas bitwy pod Mławą, zmuszona była wycofać się na linię rzek Wisły i Narwi.

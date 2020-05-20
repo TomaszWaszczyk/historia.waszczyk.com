@@ -22,6 +22,17 @@ tags:
 
 ---
 
+W Chinach rozpoczął się pilotaż reformy sądownictwa, w którym m.in.:
+
+- sądy mogą dokonywać przesłuchań przez internet
+- mogą przeprowadzić nawet cały proces online (jeśli strony o to wniosą), w tym dostarczenie dokumentów online itp.
+
+---
+
+Okazuje się, że bonwakacyjny to podatek pobierany od pracodawcy, który... nie jest jednorazowy w związku sytuacją koronawirusa, ale ma być stosowany co rok i do tego systematycznie wzrastać! Dlaczego obecna władza tak nie lubi przedsiębiorców?
+
+---
+
 <details><summary>Szef amerykańskiego banku centralnego udzielił obszernego wywiadu, w którym odniósł się do obecnej i przyszłej kondycji amerykańskiej gospodarki. Padła także odpowiedź na pytanie „Czy Fed drukuje pieniądze?”.</summary>
 
 W emitowanym przez stację CBS popularnym programie publicystycznym „60 minutes” Jerome Powell, stojący na czele amerykańskiego banku centralnego, poruszył szereg wątków związanych z trwającym kryzysem. Poniżej przedstawiamy najważniejsze z nich.

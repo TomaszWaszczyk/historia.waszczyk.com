@@ -17,6 +17,12 @@ Worst auto sales since 1983, in the depth of the early 1980's recession.
 
 <img src="./img/may/nuklearny.jpg"><br><br>
 
+### 1983
+
+Zmarł 19-letni maturzysta,poeta Grzegorz Przemyk.Został skatowany przez milicjantów na komisariacie-bito tak,że nie było obrażeń zewnętrznych.W szpitalu lekarze odkryli,że otrzewną chłopca wypełniały 2 l brązowej treści płynnej-kał,ropa,krew.Przemyk był bity fachowo.
+
+<img src="./img/may/przemyk2.jpeg"><br><br>
+
 ### 1953
 
 W więzieniu Urzędu Bezpieczeństwa przy ulicy Rakowieckiej w Warszawie zamordowany został Dionizy Sosnowski "Zbyszek" (zdjęcie) radiotelegrafista, kapral podchorąży zrzeszenia Wolność i Niezawisłość, tajny agent w szeregach Związku Młodzieży Polskiej. Zwerbowany przez UB do udziału w operacji "Cezary" czyli pozorowanym przez Ministerstwo Bezpieczeństwa Publicznego stworzeniu struktur V Komendy WiN. Aresztowany przez UB w ramach likwidacji operacji "Cezary" po powrocie z Monachium, gdzie brał udział w zorganizowanym przez Delegaturę Zagraniczną WiN kursie radiotelegrafistów z elementami szkolenia dywersyjnego. Odznaczony Brązowym Krzyżem Zasługi z Mieczami. 18 lutego 1953 roku został skazany na karę śmierci przez skład sędziowski Wojskowego Sądu Rejonowego w Warszawie pod przewodnictwem pułkownika Mieczysława Widaja. Miał 24 lata.

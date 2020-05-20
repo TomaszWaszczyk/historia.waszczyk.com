@@ -21,6 +21,18 @@ Mimo pandemii Sejm pracuje nad przepisami o tzw. konfiskacie prewencyjnej forsow
 
 ---
 
+I am reading a book on the history of the VisaPayment network (formerly BankAmericard) and I can't stop seeing parallels with crypto
+
+1) Memes
+
+Dee Hock, the founding father of Visa knew he had to do first get people accustomed to electronic payments
+
+"Think of it as money"
+
+<img src="./img/may/moneyvisa.jpeg"><br><br>
+
+---
+
 ### Joanna Franaszek (SGH) rapuje o rzeczywistości (bo mówić już ciężko)
 
 <video width="640" height="480" controls>

@@ -111,6 +111,12 @@ Piśmiennictwo: bitwawarszawska.pl
 
 <img src="./img/may/rozwadowski.jpg"><br><br>
 
+### 1634
+
+Na rozkaz namiestnika cesarza Ferdynanda III - Sebastiana von Rostocka podczas wojny polsko- szwedzkiej zostało doszczętnie spalone miasto Oława.
+Spalono 1333 domy.
+Była to kara za to, że mieszkańcy nie chcieli złożyć przysięgi na wierność cesarzowi
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
