@@ -2791,6 +2791,8 @@ Kto myśli o problemach – ma problemy. Kto myśli o rozwiązaniach – ma rozw
 
 Poznaj samego siebie a stanie przed tobą otworem cały świat.
 
+Przyjaciół ma tylko powodzenie.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

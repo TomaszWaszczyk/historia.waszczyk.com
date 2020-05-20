@@ -26,6 +26,8 @@ Właśnie padła Stadnina w Janowie Podlaskim. Byłem tam wielokrotnie, pomagaj�
 
 ---
 
+### Bitcoin’s Halving Is Nothing Like Quantitative Tightening
+
 <img src="./img/may/halving.png"><br><br>
 
 <img src="./img/may/halving.jpg"><br><br>
