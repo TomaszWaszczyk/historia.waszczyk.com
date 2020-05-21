@@ -9,6 +9,28 @@ tags:
 draft: false
 ---
 
+### 1967
+
+Egipt rozpoczął remilitaryzację półwyspu Synaj po wycofaniu na jego żądanie międzynarodowych sił pokojowych UNEF.
+
+Dużą rolę w rozpoczęciu konfliktu miało ZSRR. Dnia 13 maja 1967 przewodniczący Prezydium Rady Najwyższej Związku Socjalistycznych Republik Radzieckich Nikołaj Podgorny przekazał egipskiemu wiceprezydentowi Anwar Sadatowi fałszywą depeszę o rzekomej o koncentracji 12 izraelskich brygad przy granicy z Syrią. Jednocześnie Związek Radziecki zapewniał o pomocy wojskowej, która będzie przekazana dla Syryjczyków. Jak wynika z późniejszych dokumentów informacje radzieckie były całkowicie pozbawione podstaw, w tym czasie na granicy przebywały zaledwie dwie brygady izrealskie.
+
+Wprowadzeni w błąd Egipcjanie byli przekonani, że Izrael przygotowuje się do inwazji na Syrię. Dlatego reakcja Egiptu była natychmiastowa i zdecydowana. 14 maja prezydent Gamal Abdel Naser zarządził mobilizację egipskiej armii i rozpoczęto przerzucanie wojsk na Półwysep Synaj. 30 maja 1967 zawiązało się porozumienie wojskowe Egiptu i Jordanii. Armia jordańska została podporządkowana Egiptowi. Jednocześnie Irak, Kuwejt, Tunis, Sudan, Maroko i Algieria zgodziły się skierować swoje wybrane oddziały przeciwko Izraelowi. Po stronie arabskiej opowiedziały się: Pakistan, Indonezja, ZSRR i Chiny.
+
+Dążąc do rozpoczęcia konfliktu 6 maja 1967 szef sztabu egipskiej armii generał Mohammed Fawzy zażądał wycofania międzynarodowych sił pokojowych UNEF z Synaju.
+
+Napisał w liście do dowódcy sił UNEF: "Do twojej wiadomości, wydałem rozkaz wszystkim siłom zbrojnym Egiptu być gotowym do działań przeciwko Izraelowi, który może przeprowadzić agresywne działania przeciwko jakiemukolwiek państwu arabskiemu. Z powodu tego rozkazu nasze wojsko już jest skoncentrowane na Synaju na naszej wschodniej granicy. Przez wzgląd na bezpieczeństwo wojsk ONZ, które stacjonują wzdłuż naszych granic, proszę abyś wydał rozkaz natychmiastowego ich wycofania”. Po opuszczeniu przez wojska UNEF, 19 maja Egipt przystąpił do remilitaryzacji Synaju. Celem była blokada Cieśniny Tirańskiej. Chodziło oczywiście o niedopuszczenie do przepływania statków pod izraelską banderą. Państwo to jednak już wcześniej uznało, że tego typu obostrzenia zostaną uznane za casus beli.
+
+Dla Izraela obrona swobody żeglugi miała charakter nie tylko prestiżowy, ale istotnie stanowiła podstawowy interes narodowy. Izrael jest jedynym, obok Libanu, państwem bliskowschodnim całkowicie pozbawionym złóż ropy. Swoje zapotrzebowanie energetyczne realizowano przez import z Iranu. Rządzący szach Rezda Pahlavi związany był sojuszem z amerykanami. Ze względu na interesy USA na bliskim wschodzie sprzedaż irańskiej ropy odbywała się po preferencyjnych cenach. Zamknięcie cieśniny oznaczało całkowite odcięcie Izraela od strategicznego surowca. Oznaczałoby to katastrofę zarówno dla gospodarki kraju, jak i osłabienie militarnych możliwości. Jeszcze w maju Wielka Brytania i Francja wystosowały deklarację poparcia dla wolnej żeglugi w cieśninie. Państwa te musiały jednak stosować ostrożną retorykę. 28 maja prezydent Naser zagroził zamknięciem Kanału Sueskiego w wypadku interwencji państw trzecich. Liban, Kuwejt, Algieria, Libia zagroziły natomiast wstrzymaniem dostaw ropy do państw zachodnich. Dodatkowo w maju 1967 roku prezydent Francji Charles de Gaulle na spotkaniu z ministrem spraw zagranicznych Izraela Abba Ebanem ostrzegał przed podejmowaniem jakichkolwiek zaczepnych działań militarnych.
+
+Z drugiej strony Syria, a więc pośrednio jej sojusznicy, cieszyła się szerokim wsparciem ZSRR. Po kwietniowym rajdzie samolotów izraelskich Związek Radziecki oskarżył Izrael o chęć zniszczenia prosowieckiego reżimu w Damaszku.
+
+Odpowiedzią izraelską była przeprowadzona w dniach 16-23 maja mobilizacja wojskowa. 1 czerwca premier Izraela Lewi Eszkol utworzył rząd jedności narodowej. W jego skład wszedł nawet Menachem Begin lider prawicy jako minister bez teki. Powołany rząd trzy dni później wydaje decyzję o przeprowadzeniu operacji wojskowej. Atak miał jednocześnie uderzyć w terytoria Egiptu, Syri i Jordani. Konflikt nazwany później Wojną Sześciodniową  stał się nieunikniony.
+
+<img src="./img/may/synaj.jpg"><br><br>
+
+> W PRL- wojna 6-dniowa dała asumpt do rozpoczęcia prześladowań resztek naszej społeczności żydowskiej i do wypędzenia Żydów z kraju (1968/9).
+
 ### 1944
 
 Kilka słów o polskim personelu medycznym ratującym życie żołnierzy pod Monte Cassino.

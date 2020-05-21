@@ -5,7 +5,7 @@ image: img/may/gniadek.png
 author: Tomasz Waszczyk
 date: 2019-05-21T10:00:00.000Z
 tags:
-  - Polska
+  - Ksiądz Jacek Gniadek
 draft: false
 ---
 
@@ -64,6 +64,20 @@ Artysta zmarł 10.10. 1968 roku w sanatorium w Foluszu k. Jasła. Pochowany zost
 Piśmiennictwo: folusz.dps.pl
 
 <img src="./img/may/krynicki.jpg"><br><br>
+
+### 1674
+
+Jan III Sobieski został wybrany królem Polski, panował do 17 czerwca 1696 r. W 1684 r. został odznaczony przez papieża Innocentego XI tytułem fidei defensor (obrońcy wiary), przez Turków bywał nazywany Lwem Lechistanu.
+
+### 1420
+
+Podpisano francusko-angielski traktat w Troyes, który w swoich założeniach miał zakończyć wojnę stuletnią, odsuwając dynastię Walezjuszy od tronu francuskiego i zaprowadzając unię personalną obydwu krajów pod berłem Henryka V Lancastera.
+
+Królowie z dynastii Lancasterów dążyli do odebrania francuskiej korony Walezjuszom, przy czym apogeum sukcesów angielskich władców przypada na panowanie Henryka V, który wstąpił na tron wiosną 1413 r., a zatem najpewniej niedługo po narodzinach bohaterki tej książki. Na mocy traktatu zawartego 21 V 1420 r. w Troyes zapewnił on sobie godność regenta Francji przy obłąkanym królu Karolu VI, otrzymując za żonę jego córkę Katarzynę. Ich potomstwo — jak się wówczas spodziewano — miało w przyszłości połączyć w swym ręku panowanie nad obydwoma tymi królestwami, w czym też upatrywano nadzieję na ostateczne zakończenie toczących się od dziesięcioleci zmagań orężnych, które zniszczenia (nie wspominając o dezorganizacji życia społecznego) przyniosły wprawdzie tylko ziemiom francuskim, będącym areną owych walk, ale i Anglia pogrążała się coraz bardziej w kryzysie ekonomicznym, gdyż prowadzenie długotrwałej wojny wymagało ogromnych nakładów finansowych i zarazem angażowało znaczne siły ludzkie.
+
+Wspomniany tu traktat z Troyes miał zatem położyć kres wyniszczającym walkom i jednocześnie doprowadzić do powstania kolejnej na mapie politycznej Europy potęgi zasadzającej się na unii personalnej odrębnych dotąd monarchii.
+
+<img src="./img/may/troyes.jpg"><br><br>
 
 ---
 
