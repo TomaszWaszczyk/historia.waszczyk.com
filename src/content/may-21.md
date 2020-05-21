@@ -1,15 +1,24 @@
 ---
 layout: post
 title: 21 maja
-image: img/may/glass-act.jpg
+image: img/may/gniadek.png
 author: Tomasz Waszczyk
-date: 2018-05-01T10:00:00.000Z
+date: 2019-05-21T10:00:00.000Z
 tags:
-  - Goebells
-draft: true
+  - Polska
+draft: false
 ---
 
-### 
+### 2020
+
+<img src="./img/may/gniadek.png"><br><br>
+
+### 1945
+
+W Rudzie Różanieckiej zamojskie dowództwo zrzeszenia Wolność i Niezawisłość oraz przedstawiciele Ukraińskiej Powstańczej Armii podpisali porozumienie, które kończyło walki w tym rejonie. W rozmowach pośredniczyli katoliccy i prawosławni duchowni. Rozgraniczone zostały strefy wzajemnych wpływów, ustalone sposoby wzajemnego kontaktowania się oraz przekazywania informacji dotyczących działalności komunistów.
+Na zdjęciu oddział AK-WiN z okręgu lubelskiego.
+
+<img src="./img/may/armia.jpg"><br><br>
 
 ---
 

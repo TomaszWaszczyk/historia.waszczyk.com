@@ -196,13 +196,17 @@ The separation between deposit and investment banking has been removed: https://
 
 Nick Szabo’s 1994 article “Formalizing and securing relationships on public networks”
 
-### 1983
+### 1985
 
-https://pl.wikipedia.org/wiki/Costco
+https://en.wikipedia.org/wiki/Great_Moderation
 
 ### 1984
 
 https://en.wikipedia.org/wiki/Cyberpunk
+
+### 1983
+
+https://pl.wikipedia.org/wiki/Costco
 
 ### 1982
 
