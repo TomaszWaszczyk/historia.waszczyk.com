@@ -96,6 +96,20 @@ Angela Merkel powiedziała „Wir schaffen das”, co znaczy „Damy radę“, �
 
 https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
 
+### 1945
+
+Stefan Banach to jeden z najważniejszych matematyków w historii. Za jego czasów nie było uczonych, którzy nie słyszeliby o Banachu. Prace jego były tłumaczone na najważniejsze języki świata, a on sam w ogromnym stopniu przyczynił się do rozwoju matematyki, jak i jej popularyzacji.
+
+Banach po ukończeniu szkoły, nie studiował matemtyki, lecz uczył się jej sam. Nie dostał się do wojska w czasie I wojny światowej ze względu na wadę wzroku i...leworęczność (a więc lista genialnych leworęcznych się powiększa!). Po spotkaniu na krakowskich Plantach z Hugo Steinhausem, kariera Banacha zaczęła nabierać rozpędu. Banach jest znany z takich pojęć jak: przestrzeń Banacha, algebra Banacha, całka Banacha czy różnych twierdzeń z jego nazwiskiem w nazwie.
+
+Nie możemy zapominać o tym, że Banach prócz tego, że był genialnym matematykiem, to był też spoko człowiekiem. Potrafił tłumaczyć studentom matemtykę w sposób prosty i zrozumiały. W wolnych chwilach kibicował lokalnej Pogoni Lwów i bawił się na imprezach. Te najlepsze nazywano banachaliami!
+
+Banach był tak cennym kąskiem dla wszystkich państw, że propozycje pracy u nich składały chociażby ZSRR i USA. Nawet jeden z delegatów ze Stanów przwiózł czek dla Banacha, na którym widniała "goła jedynka". Banach mógł dopisać tyle "zer", ile chciał w zamian za wyjazd i pracę dla USA. Stefan tylko powiedział, że nie ma takiej ilości zer, dla których mógłby opuścić Lwów!
+
+Gdyby istniał Nobel z matemtyki, to na pewno by go dostał. Mówi się o tym, że przed śmiercią rozmawiał z synem, że chce się zająć fizyką, i że ma pomysły, które przyniosą mu Nagrodę Nobla. Niestety nie doczekał realizacji tych planów. Zmarł 31 sierpnia 1945 roku w swoim ukochanym Lwowie, który w wyniku konferencji jałtańskiej, znajdował się już po radzieckiej stronie.
+
+<img src="./img/august/steinhaus.jpg"><br><br>
+
 ### 1939
 
 18:45 kapitan niemieckiego pancernika ,,Schleswig -Holstein'' Gustav Kleinkamp ponownie otrzymał rozkaz rozpoczęcia ataku na Westerplatte. Datę ataku wyznaczono na dzień 1 września o 4:45 rano.
