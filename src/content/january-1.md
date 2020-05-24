@@ -30,6 +30,12 @@ WHO
 
 <img src="./img/others/gielda.png"/><br><br>
 
+### 2000
+
+Jolanta Gontarczyk vel Lange - zaczyna ruchy feministyczne w Polsce.
+
+Jolanta i Andrzej Gontarczykowie vel Lange - szpiedzy PRLu
+
 ### 1990
 
 Plan Balcerowicza

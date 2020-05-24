@@ -23,6 +23,12 @@ Warszawski Sąd Wojskowy skazał zaocznie na karę śmierci pułkownika Ryszarda
 
 <img src="./img/may/kuklinski.jpg"><br><br>
 
+### 1982
+
+Założone między innymi przez Zbigniewa i Zofię Romaszewskich Radio Solidarność nadało swoją drugą audycję. Pierwsza audycja ukazała się w eterze 12 kwietnia 1982 roku. Ostatnia audycja warszawskiego Radia Solidarność została nadana w dniu 22 czerwca 1989 roku.
+
+<img src="./img/may/radiosolidarnosc.jpg"><br><br>
+
 ### 1945
 
 Popełnił samobójstwo Heinrich Himmler - Reichsfuhrer SS. Z zawodu agronom. Podlegało mu Gestapo oraz obozy koncentracyjne. Ambitny i pozbawiony skrupułów biurokrata i antysemita. Twórca planu germanizacji ziem Polskich i terenów Europy Wschodniej. Główny realizator zagłady biologicznej Żydów.
@@ -70,6 +76,12 @@ Sejm Konwokacyjny przyjął uchwałę o wykluczeniu kandydatur cudzoziemców do 
 Wnioskodawcą nieprzychylnej dla cudzoziemców uchwały był stronnik Stanisława Leszczyńskiego prymas Teodor Potocki. Ustalenia szlachty przekreśliły dążenia Rosji, Austrii i Prus do osadzenia na tronie polskim kandydata z Portugalii.
 
 <img src="./img/may/teodor.jpg"><br><br>
+
+### 1702
+
+W czasie III wojny północej wojska szwedzkie pod dowództwem Karola XII wkroczyły do opuszczonej przez króla Augusta II Warszawy. Szwedzi natychmiast zażądali, by prymas Michał Radziejowski zdetronizował Augusta II, co nie spodobało się szlachcie. Pretekstem do zbrojnego rozwiązana tej sprawy były przedłużające się z Radziejowskim rozmowy, który nie chciał się zgodzić na detronizację. Jedną z głównych bitew tej wojny była bitwa pod Kliszowem (zdj.), która miała miejsce 9 lipca 1702 roku.
+
+<img src="./img/may/szwedzi.jpg"><br><br>
 
 ---
 

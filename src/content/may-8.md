@@ -41,6 +41,22 @@ Warszawski sąd orzekł, że reklama ta poprzez porównanie dyskredytuje konkure
 
 <img src="./img/may/ludwik.jpg"><br><br>
 
+### 1946
+
+https://pl.wikipedia.org/wiki/Dariusz_Przywieczerski (to NIE jest głowa FOZZ - generałem afery była Moskwa)
+
+Jan Boniuk
+
+Janusz Sawicki
+
+Bogusław Kot - Bank Millenium
+
+Centrale Handlu Zagranicznego
+
+Anatol Lawina
+
+Ireneusz Sekuła
+
 ### 1943
 
 Znajdujący się w Warszawie przy ulicy Miłej 18 tzw Bunkier Anielewicza, w którym skryło się 300 członków Żydowskiej Organizacji Bojowej otoczyły połączone oddziały niemieckie i ukraińskie.
