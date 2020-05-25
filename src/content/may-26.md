@@ -1,15 +1,17 @@
 ---
 layout: post
 title: 26 maja
-image: img/may/glass-act.jpg
+image: img/may/austrians.jpeg
 author: Tomasz Waszczyk
-date: 2018-05-26T10:00:00.000Z
+date: 2019-05-26T10:00:00.000Z
 tags:
-  - Goebells
-draft: true
+  - Austrians in 2020
+draft: false
 ---
 
-### 
+### 2020
+
+<img src="./img/may/austrians.jpeg"><br><br>
 
 ---
 
