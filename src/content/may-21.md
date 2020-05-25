@@ -13,6 +13,12 @@ draft: false
 
 <img src="./img/may/gniadek.png"><br><br>
 
+---
+
+Charles Hoskinson
+@IMOK_Charles
+Bitcoin will be dead by 2023 replaced by a PoS coin with treasury governance model. Satoshi was brilliant by 2009 standards but that was 11 years. The sooner we realize this the better.
+
 ### 1945
 
 W Rudzie Różanieckiej zamojskie dowództwo zrzeszenia Wolność i Niezawisłość oraz przedstawiciele Ukraińskiej Powstańczej Armii podpisali porozumienie, które kończyło walki w tym rejonie. W rozmowach pośredniczyli katoliccy i prawosławni duchowni. Rozgraniczone zostały strefy wzajemnych wpływów, ustalone sposoby wzajemnego kontaktowania się oraz przekazywania informacji dotyczących działalności komunistów.

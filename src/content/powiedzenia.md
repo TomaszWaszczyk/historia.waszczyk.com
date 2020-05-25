@@ -2793,6 +2793,10 @@ Poznaj samego siebie a stanie przed tobą otworem cały świat.
 
 Przyjaciół ma tylko powodzenie.
 
+If you have a garden and a library, you have everything you need. — Cicero
+
+"Tyle wiemy o sobie, ile nas sprawdzono"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 1987
+
+Prawdopodobnie zamordowany: https://pl.wikipedia.org/wiki/Franciszek_Blachnicki
+
 ### 1945
 
 Nad Odrą żołnierze 6. Warszawskiego Batalionu Pontowo-Mostowego wbili pierwszy polski słup graniczny na nowej granicy polsko-niemieckiej.

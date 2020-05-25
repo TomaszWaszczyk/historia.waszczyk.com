@@ -13,6 +13,12 @@ draft: false
 
 "W Polsce jeszcze tego nie widać, ale np. w Wielkiej Brytanii zmienia się dyskusja o rynku pracy. Wcześniej podział był na wykwalifikowanych i niewykwalifikowanych pracowników. W tej chwili podział przebiega wzdłuż pojęć „essential” (niezbędni) i „non-essential” (zbędni). I okazuje się, że ci, którzy zarabiają najwięcej, jak traderzy walutowi czy finansiści, należą do tej drugiej grupy. Ich praca nie ma kluczowego znaczenia dla funkcjonowania gospodarki w głębokim kryzysie. Co innego praca śmieciarzy, kasjerów, pielęgniarek, którzy zarabiają znacznie mniej, a bez nich zupełnie byśmy sobie nie poradzili. Zmiana postrzegania ich roli może przynieść wiele dobrego. Młodzi ludzie, zastanawiając się, na jakie studia pójść, będą coraz częściej wybierać te kierunki, które przysłużą się najlepiej społeczeństwu. Każdy przecież chce być w jakiś sposób „niezbędny”. Mam nadzieję, że takie myślenie rozprzestrzeni się na więcej krajów".
 
+---
+
+GUS: Sprzedaż detaliczna (ceny stałe) spadła o 22,9% r/r w kwietniu
+
+Warszawa, 22.05.2020 (ISBnews) - Sprzedaż detaliczna (w cenach stałych) spadła o 22,9% r/r w kwietniu 2020 r., podał Główny Urząd Statystyczny (GUS). W ujęciu miesięcznym odnotowano spadek o 12,3%.
+
 ### 2010
 
 <img src="./img/may/pizzaday.jpg"><br><br>
