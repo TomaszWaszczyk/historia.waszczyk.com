@@ -63,6 +63,10 @@ In the financial stability section of its report, the central bank warned that i
 
 ---
 
+Grupa 70 rosyjskich akademików podpisała protest wobec sposobu, w jaki władze Federacji Rosyjskiej „uczciły” właśnie rocznicę zbrodni katyńskiej. Tym „sposobem” było zdemontowanie tydzień wcześniej tablicy na dawnym więzieniu NKWD w Kalininie, w którym odbyła się trzecia część operacji katyńskiej: zamordowanie ponad 6 tysięcy polskich żołnierzy Korpusu Ochrony Pogranicza i policjantów. Prokuratura rosyjska obecnie „bada legalność” tablicy, która od 1991 roku przypominała prawdę o tej i innych zbrodniach sowieckiego systemu terroru. Znalazło się w rosyjskim świecie akademickim 70 odważnych ludzi, którzy nie dali się zastraszyć nowej fali agresywnego kłamstwa. Wiedzą, że chodzi o prawdę o systemie, który najbardziej zniewolił i wyniszczył samych Rosjan. Dlatego protestują. Nie dali złamać swej duszy strachowi. Piszę o znaczeniu tego ważnego gestu w najnowszym numerze tygodnika „DoRzeczy”:
+
+---
+
 Powell: There will be NO negative interest rates.
 
 ---

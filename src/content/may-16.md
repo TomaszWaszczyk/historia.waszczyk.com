@@ -18,6 +18,10 @@ Karol Kot - był pierwszym powojennym mordercą, który wzbudził masowy lęk. N
 Kot na przestrzeni tych lat zabił dwie osoby, a dziesięć usiłował zamordować. Poza tym był odpowiedzialny za cztery podpalenia. Takie usłyszał zarzuty. Policja trafiła na jego trop dzięki koleżance, której Kot się zwierzał. Na początku czerwca został aresztowany, niewiele wcześniej zdał maturę.
 Gdy uklękła, podszedłem do niej, wyjąłem bagnet i ciosem od dołu dźgnąłem ją silnie w plecy, mierząc na wysokości serca, tak aby cios był śmiertelny - zeznawał po czasie. Kobieta poczuła uderzenie i ukłucie w plecy. Upadając, zdążyła zauważyć wybiegającego młodego chłopaka. Karol Kot wówczas nie miał skończonych 18 lat. Niedoszła ofiara Helena Węgrzyn wyszła z kościoła o własnych siłach. Lekarz stwierdził niewielką ranę ciętą. Próba zabójstwa się nie powiodła, ale dla zwyrodnialca z Krakowa to był dopiero początek. Karol Kot został stracony przez powieszenie 16 maja 1968 roku. Rzekoma sekcja zwłok miała wykazać rozległego guza mózgu.
 
+### 1960
+
+The first laser light was sparked by young US engineer Theodore Maiman, paving the way into the new shining age of a laser in machine tools.
+
 ### 1940
 
 W Krakowie odbyła się konferencja w "sprawie nadzwyczajnych posunięć koniecznych dla zabezpieczenia spokoju i porządku w Generalnym Gubernatorstwie".
