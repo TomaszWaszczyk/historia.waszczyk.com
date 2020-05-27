@@ -19,6 +19,9 @@ Władze centralne próbowały przedłużyć do 5 lipca zakaz spotkań powyżej 1
 Brandenburgia ma już od jutra zezwolić na msze oraz demonstracje z udziałem do 150 osób. Władze landu przygotowują się też do obchodów 30. rocznicy zjednoczenia Niemiec.
 Z kolei Badenia-Wirtembergia zezwoliła od 1 czerwca na organizację imprez urodzinowych i wesel na wolnym powietrzu. Może w nich brać udział do 20 osób. Władze landu zezwoliły od 2 czerwca na otwarcie barów i restauracji. Kolejne kraje związkowe pozwalają również na otwieranie kin.
 
+> Zjednoczenie Niemiec to był projekt dla mediów i biednych ludzi. W rzeczywistości nic takiego nie miało miejsca. (rzeczywistość = kapitał)
+<!-- Relayr - I am not German, I am Bavarian-->
+
 ---
 
 <img src="./img/may/gs.jpeg"><br><br>
