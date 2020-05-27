@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-### 2020 - zdjednoczone czy nie zjednoczone..?
+### 2020 - Niemcy zjednoczone czy niezjednoczone..?
 
 "Bild": Landy zbuntowały się przeciw Merkel
 
