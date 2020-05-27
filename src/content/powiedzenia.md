@@ -2799,6 +2799,8 @@ If you have a garden and a library, you have everything you need. — Cicero
 
 "Łatwiej jest ogłupiać ludzi niż przekonać, że zostali ogłupieni " - Mark Twain
 
+Moje życie opływa w fekaliach. - Damian relay.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

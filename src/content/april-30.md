@@ -15,6 +15,10 @@ Odrodzenie prekariuszy
 
 Po pandemii będzie więcej pracy tymczasowej. Chociaż niemal wszystkie agencje zatrudnienia musiały w ostatnich tygodniach ograniczyć, niekiedy nawet dwucyfrowo, liczbę pracowników tymczasowych, to teraz branża liczy na mocne odbicie.
 
+---
+
+<img src="./img/april/nbp.png"><br><br>
+
 ### 2019
 
 Informuję, że 30.04 2019 jest moim ostatnim dniem pracy i od 1.05.2019 nie będę pracownikiem DI
