@@ -2799,7 +2799,9 @@ If you have a garden and a library, you have everything you need. — Cicero
 
 "Łatwiej jest ogłupiać ludzi niż przekonać, że zostali ogłupieni " - Mark Twain
 
-Moje życie opływa w fekaliach. - Damian relay.
+I hope you great enjoy as much as I did.
+
+Polkadot - host of the party
 
 ---
 

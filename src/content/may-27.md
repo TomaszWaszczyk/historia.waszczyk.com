@@ -21,6 +21,7 @@ Z kolei Badenia-Wirtembergia zezwoliła od 1 czerwca na organizację imprez urod
 
 > Zjednoczenie Niemiec to był projekt dla mediów i biednych ludzi. W rzeczywistości nic takiego nie miało miejsca. (rzeczywistość = kapitał)
 <!-- Relayr - I am not German, I am Bavarian-->
+<!-- Moje życie opływa w fekaliach. - Damian relay. -->
 
 ---
 
