@@ -39,7 +39,7 @@ Tōjō Shōtarō - Admirał Heihachirō Tōgō na mostku flagowego pancernika Mi
 
 Stoczona w dniach 27-28 maja 1905 roku bitwa pod Cuszimą jest jedną z najważniejszych bitew morskich w historii. Miażdżące zwycięstwo Japończyków nie tylko doprowadziło do unicestwienia rosyjskiej floty, ale również sprawiło, że Japonia dołączyła do grona światowych mocarstw. Jednym z istotnych skutków bitwy było również całkowite zrewidowanie dotychczasowych taktyk walki na morzu.
 
-<img src="./img/january/cuszima.jpg"/><br><br>
+<img src="./img/may/cuszima.jpg"/><br><br>
 
 ---
 

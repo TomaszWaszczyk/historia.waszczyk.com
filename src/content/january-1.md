@@ -40,6 +40,8 @@ Jolanta i Andrzej Gontarczykowie vel Lange - szpiedzy PRLu
 
 Plan Balcerowicza
 
+Powstaje Urząd Ochrony Państwa
+
 ### 1988
 
 1988 władze komunistyczne zakończyły wieloletnią akcję zagłuszania Radia Wolna Europa.

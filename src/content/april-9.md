@@ -26,6 +26,14 @@ https://pl.wikipedia.org/wiki/Jadwiga_Emilewicz
 
 ---
 
+> The question is not if but when, history repeats itself "It comes and goes in waves'' - if the perspective is period of 10 50 100 years. I wish/believe that Poland can overcome its "shadows"
+
+---
+
+"9 kwietnia spółka komandytowa Life Science Innovations, w której głównym wspólnikiem jest Szumowski Investments Sp. z o.o. (kiedyś jej wspólnikiem był sam Łukasz Szumowski, ale tuż przed wejściem do rządu przepisał udziały na żonę, z którą ma rozdzielność majątkową), kupiła udziały w startupie BrainScan z Gdyni. Konkretnie 170 udziałów o wartości nominalnej 8,5 tys. zł, które stanowią 24,2 proc. kapitału zakładowego. "Już 27 kwietnia BrainScan dowiedziała się, że otrzyma ponad milion złotych z dotacji z państwowej Agencji Badań Medycznych"
+
+---
+
 #### Mafia
 
 Ministerstwo Rozwoju pracuje nad projektem krajowej karty płatniczej. Wiceminister Tadeusz Kościński w rozmowie z „Forbesem” podczas impact'16 fintech/insurtech zapewnił jednak, że nie chce walczyć z Visą i MasterCardem. Potwierdził przy tym, że pomysł wywołuje także sprzeciw banków. – Indyki nie głosują za świętami. Dlatego muszę przejąć odpowiedzialność za tabelę opłat i prowizji – stwierdził. Nie wykluczył likwidacji opłaty interchange

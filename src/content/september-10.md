@@ -5,8 +5,14 @@ image: img/september/wielun.png
 author: Tomasz Waszczyk
 date: 2018-09-10T10:00:00.000Z
 tags:
-  - Historia
+  - McDonald
 ---
+
+### 1996
+
+Demonstracja przeciwko otwarciu pierwszej w Sankt Petersburgu restauracji sieci McDonald's. W 1992 jak pamiętam otwarli McDonalda w Warszawie na ul. Świętokrzyskiej. Byłem wtedy w wojsku w Zegrzu i koledzy, którzy wyszli na "stałkę" (przepustka stała) przynieśli nam na spróbowanie po hamburgerze. Padł wtedy chyba rekord gości w jednym dniu - coś koło 30.000 ludzi? Drugi raz wracając do domu, na przepustce, zaliczyłem otwarcie McDonalda na Francuskiej w Katowicach - grudzień 1992 - 33.000 ludzi w jeden dzień. Piszę z pamięci- jak ktoś znajdzie dokładniejsze dane to proszę w komentarzach o tym wspomnieć.
+
+<img src="./img/september/mcdonald.jpg"><br><br>
 
 ### 1939
 
