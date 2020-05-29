@@ -76,6 +76,14 @@ Zamach dokonany przez Gavrilo Principa na arcyksięcia Franciszka Ferdynanda. Is
 
 <img src="./img/may/principa.jpg"><br><br>
 
+### 1871
+
+Nastąpił upadek Komuny Paryskiej.
+
+Zakończył się tzw. krwawy tydzień, podczas którego wojska wierne urzędującemu w Wersalu rządowi Ludwika Thiersa stłumiły Komunę Paryską, lewicową rewoltę w stolicy Francji. Jej wybuch w nocy z 17 na 18 marca sprowokował cały ciąg wydarzeń: porażkę w wojnie z Niemcami, upokarzające warunki kapitulacji (m.in. strata Alzacji i niemiecka defilada w centrum Paryża), ale także zapowiedzianą restaurację monarchii, co dla lewicowych ugrupowań reprezentujących tysiące żyjących w nędzy robotników było nie do przyjęcia. Powstańcy opanowali miasto, proklamowali komunę i po wyborach ogłosili nowe władze. Utrzymali Paryż ponad dwa miesiące, a podczas "krwawego tygodnia" wersalczycy rozstrzelali ok. 30 tys. komunardów.
+
+<img src="./img/may/upadekkomuny.jpg"><br><br>
+
 ### 1349
 
 Doszło do wystąpień antyżydowskich we Wrocławiu i Świdnicy. Żydów posądzono o roznoszenie zarazy dżumy. Spalono w tych miastach dzielnice żydowskie , a ocalałych mieszkańców zmuszono do osiedlenia się poza murami miasta. Rok później doszło do pogromu w Złotym Stoku.

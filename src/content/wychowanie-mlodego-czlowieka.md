@@ -75,6 +75,8 @@ Your browser does not support the video tag.
 
 ### Programowanie = szkoła myślenia
 
+* https://scratch.mit.edu/
+
 * https://www.codingame.com/start
 
 * Baw się kodem! Twoja własna gra. CoderDojo Nano - Jurie Horneman, CoderDojo
