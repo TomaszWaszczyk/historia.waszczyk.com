@@ -2,6 +2,8 @@
 
 Przedwojenny 1PLN = 0.17grama XAU
 
+https://fraser.stlouisfed.org/timeline/st-louis-fed-centennial
+
 https://www.aan.gov.pl/
 
 https://adst.org/

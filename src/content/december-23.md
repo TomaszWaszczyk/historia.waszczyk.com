@@ -61,6 +61,10 @@ https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Moczar
 
 https://pl.wikipedia.org/wiki/Jakub_Berman
 
+### 1783
+
+https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-23.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

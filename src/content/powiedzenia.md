@@ -2803,6 +2803,10 @@ I hope you great enjoy as much as I did.
 
 Polkadot - host of the party
 
+"Confidence is silent. Insecurities are loud"
+
+Historia nigdy nie jest przeszła.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

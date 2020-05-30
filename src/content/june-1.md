@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 1 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/
 author: Tomasz Waszczyk
-date: 2018-06-01T10:00:00.000Z
+date: 2019-06-01T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Bitcoin
+draft: false
 ---
+
+### 2020
+
+June has been the BEST month for Bitcoin. Out of its 9 years, 2018 and 2013 were the only years when Bitcoin fell in June.
 
 ### 2009
 

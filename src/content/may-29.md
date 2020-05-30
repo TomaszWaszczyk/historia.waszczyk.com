@@ -26,6 +26,12 @@ Jankowiak: NBP doprowadzi do kryzysu w sektorze bankowym
 
 ---
 
+### 1945
+
+W Siedliskach w województwie podkarpackim miało miejsce lokalne zawieszenie broni pomiędzy przedstawicielami polskiego podziemia antykomunistycznego, a przedstawicielami Ukraińskiej Powstańczej Armii. Jego inicjatorem był dowódca Kompanii D-14 Batalionu D Zgrupowania Warta major Dragan Sotirović (zdjęcie). Do zawarcia formalnego, trwałego porozumienia jednak nie doszło, ale zmniejszyło ono cierpienia polskiej i ukraińskiej ludności cywilnej.
+
+<img src="./img/may/dragon.jpg"><br><br>
+
 ### 1942
 
 Fragment listu Jana Lechonia (zdjęcie) poety i prozaika, współzałożyciela grupy poetyckiej Skamander do Juliana Tuwima z dnia 29 maja 1942 roku:
@@ -40,6 +46,21 @@ W Warszawie bojówka Obozu Narodowego Radykalnego ostrzelała siedzibę Polskiej
 "Warszawska PPS mobilizuje swoje siły. Członkowie partii, OMTUR i ZNMS przystępują do akcji bojowej. Robotnicy czynnie likwidują bojówki oenerowskie. Odbywa się zrywanie „mieczyków Chrobrego” – oznak ONR. Już nie tylko na Woli, Mokotowie czy Pradze, ale na ulicach centrum Warszawy trwają walki. W tym czasie oznaką ruchu socjalistycznego były trzy strzały: Przeciw wojnie, faszyzmowi i nacjonalizmowi. Wszyscy te oznaki nosili w klapie. (…) Na uczelniach razem z nami walczyli towarzysze z „Życia”. Broniliśmy kolegów Żydów, którym kazano zajmować miejsca w audytoriach po lewej stronie".
 
 <img src="./img/may/zis.jpg"><br><br>
+
+### 1920
+
+W czasie wojny polsko-bolszewickiej miała miejsce bitwa pod Wołodarką. Było to zbrojne starcie pomiędzy polską armią, a I Armią Konną Siemiona Budionnego.
+Polacy w sile 44 Pułku Strzelców Kresowych, 16 Pułku Ułanów i części 1 Pułku Ułanów oraz 7 Dywizjonu Artylerii Konnej broniąc okolic Wołodarki, Berezna i Nowofastowa, na które nacierali Rosjanie sformowali silne pojedyncze umocnienia obronne, co okazało się być o wiele lepszą taktyką niż atak na całej linii frontu.
+To wystarczyło,by słabo dowodzona armia sowiecka pogubiła się w swoich działaniach. Polacy odparli żle zorganizowany sowiecki atak ogniem z karabinów maszynowych, a następnie przypuścili szarżę na pozycje wroga. Doszło do walki wręcz z użyciem szabel. Obie strony poniosły ciężkie straty. Dla przykładu polski 3 Szwadron z 1 Pułku Ułanów stracił 30 z 72 żołnierzy i podobną liczbę koni. Mimo to polska szarża odniosła sukces, a po przybyciu posiłków kozacy wycofali się z pola bitwy.
+
+<img src="./img/may/wolodarka.jpg"><br><br>
+
+### 1919
+
+Ukończona została budowa polskiego pociągu pancernego "Danuta". Powstał on bazie zdobytego przez Powstańców Wielkopolskich 17 lutego 1919 roku w bitwie pod Rynarzewem niemieckiego pociągu pancernego Panzerburg 22. Pociąg wchodził początkowo w skład 2. Dywizjonu Pociągu Pancernych Wielkopolskich. W czasie Bitwy Warszawskiej walczył w składzie dywizjonu pociągów pancernych 1. Armii, który wspierał działania 15. Dywizji Piechoty, a następnie został przydzielony do grupy majora Nowickiego 5. Armii działającej na odcinku Ciechanów -Mława.
+W 1924 roku wszedł w skład Dywizjonu Ćwiczebnego Pociągów Pancernych w Jabłonnie, a w październiku 1927 roku w skład 1 Dywizjonu Pociągów Pancernych.9 września 1924 roku pociąg uczestniczył w katastrofie kolejowej pod Pomereczem. Na początku lat 30-tych przeszedł gruntowną modernizację. Wiosną 1939 roku pociąg przydzielono do Dowództwa Okręgu Korpusu nr VIII w Poznaniu. W czasie wojny obronnej wszedł w skład wyposażenia 26. Dywizji Piechoty Armii Poznań. 5 września pociąg razem z II batalionem 37 pułku piechoty wydzielony do obrony Inowrocławia; wieczorem pociąg dotarł do stacji Białe Błota. 16 września 1939 roku jako pociąg nr 11 powstrzymywał koło Jackowic natarcie oddziałów niemieckiego 31 pułku piechoty z 24. Dywizji Piechoty. Tego samego dnia pociąg dostał się pod ostrzał niemieckiej artylerii. Został zmuszony do odwrotu, podczas którego wpadł w zasadzkę, w której niemieckie armaty zniszczyły parowóz. Uszkodzenia te i braki w amunicji przekonały kpt. Korobowicza do opuszczenia pociągu. Tankietki zdołały się wycofać; wagony i czołgi Renault zaminowano pod ostrzałem nieprzyjaciela; pociąg wysadzono w powietrze razem z nacierającą na niego piechota niemiecką. Część załogi dotarła do Warszawy, zasilając załogę prowizorycznego pociągu pancernego na Dworcu Gdańskim.
+
+<img src="./img/may/danuta.jpg"><br><br>
 
 ### 1895
 
