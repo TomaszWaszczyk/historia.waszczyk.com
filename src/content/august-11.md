@@ -5,8 +5,12 @@ image: img/august/Union_of_Krewo.jpg
 author: Tomasz Waszczyk
 date: 2018-08-11T10:00:00.000Z
 tags:
-  - Historia
+  - Brygada Świętokrzyska
 ---
+
+### 1944
+
+https://pl.wikipedia.org/wiki/Brygada_%C5%9Awi%C4%99tokrzyska
 
 ### 1939
 

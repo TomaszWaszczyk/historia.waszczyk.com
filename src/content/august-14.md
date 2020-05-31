@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1980
+
+https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
+
 ## 1936
 
 <a href="https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)" target="_blank">ORP Orzeł</a>

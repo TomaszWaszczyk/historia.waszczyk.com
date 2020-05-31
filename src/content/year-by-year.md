@@ -221,6 +221,8 @@ https://pl.wikipedia.org/wiki/Wojna_o_Falklandy-Malwiny
 
 ### 1980
 
+https://en.wikipedia.org/wiki/Reaganomics
+
 https://en.wikipedia.org/wiki/Medicaid
 
 ### 1977

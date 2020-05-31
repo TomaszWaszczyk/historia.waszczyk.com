@@ -12,6 +12,10 @@ tags:
 
 https://pl.wikipedia.org/wiki/Traktat_wersalski
 
+### 1906
+
+https://pl.wikipedia.org/wiki/Boles%C5%82aw_Soboci%C5%84ski
+
 ### 1651
 
 https://pl.wikipedia.org/wiki/Bitwa_pod_Beresteczkiem

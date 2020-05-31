@@ -61,6 +61,14 @@ nie do ustalenia).
 
 <img src="./img/may/chlor.jpg"><br><br>
 
+### 1911
+
+Titanic został oficjalnie zwodowany przed tysiącami widzów, zgromadzonymi w stoczni Harland and Wolff w Belfaście. Byli wśród nich m. in. amerykański finansjer J. P. Morgan (założyciel amerykańskiej grupy finansowej o tej samej nazwie), właściciel towarzystwa International Mercantile Marine and the Oceanic Steam Navigational Company (IMM) oraz linii The White Star, a także jej prezes Bruce Ismay, wraz z Lordem Williamem Pirrie, byłym burmistrzem Belfastu. Około godziny 12:15, Titanic został spuszczony do specjalnie przygotowanego dla niego basenu wodnego, o nazwie "River Logan".
+
+<img src="./img/may/titanic.jpg"><br><br>
+
+<img src="./img/may/titanic2.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-31.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
