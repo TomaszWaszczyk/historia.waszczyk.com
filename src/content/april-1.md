@@ -161,6 +161,10 @@ Faktyczna możliwość osądzenia zbrodni stalinowskich zaistniała dopiero po 1
 Źródło: Tadeusz Płużański, Lista oprawców, Wikipedia, W. Brytania: zmarła stalinowska prokurator Helena Wolińska, której ekstradycji domagał się od lat Polski sąd [w:] Gazeta Prawna z 28.11.2008.
 Fotografia z Wikipedii. : Helena Wolińska (1919-2008) - prokurator wojskowy w powojennej komunistycznej Polsce w randze pułkownika podpułkownik, zaangażowany w próby pokazowe reżimu stalinowskiego w latach 50. XX wieku
 
+### 1924
+
+https://pl.wikipedia.org/wiki/Reforma_walutowa_W%C5%82adys%C5%82awa_Grabskiego
+
 ### 1902
 
 W Sankt Petersburgu urodził się Józef Mackiewicz (zdjęcie) pisarz, publicysta, żołnierz Armii Krajowej, zajadły antykomunista. Znienawidzony przez Rosjan do tego stopnia, że ich agentura uwikłała go w donosicielstwo i zdradę stanu na korzyść Niemiec, co omal nie skończyło się jego śmiercią. Pod koniec 1942 roku został skazany na karę śmierci przez sąd specjalny Armii Krajowej. Życie zawdzięcza tylko temu, że jego niedoszły kat, oficer wywiadu AK Sergiusz Piasecki odmówił wykonania wyroku, komendant Okręgu Wileńskiego AK podpułkownik Aleksander Krzyżanowski uniewinnił go.

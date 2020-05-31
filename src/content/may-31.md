@@ -1,15 +1,65 @@
 ---
 layout: post
 title: 31 maja
-image: img/may/glass-act.jpg
+image: img/may/chopin.jpg
 author: Tomasz Waszczyk
-date: 2018-05-31T10:00:00.000Z
+date: 2019-05-31T10:00:00.000Z
 tags:
-  - Goebells
-draft: true
+  - Chopin
+draft: false
 ---
 
-### 
+### 2020 - Banki stracą miliardy na niskich stopach. Dla tych mniejszych to zagrożenie
+
+Zamiast wzrostu, ograniczenie akcji kredytowej, prawdopodobne wprowadzenie nowych opłat i likwidacja promocji. Analitycy i ekonomiści czwartkową obniżkę stóp procentowych oceniają krytycznie. Choć kredytobiorcy zaoszczędzą na ratach, to banki może dotknąć kryzys. A to niebezpieczne dla gospodarki.
+
+* Obniżka stóp procentowych to mniejsze raty dla kredytobiorców, ale dla banków konieczność szukania zysków gdzie indziej i robienia oszczędności
+* Pytani ekonomiści i analitycy uważają, że decyzja jest zła. Zysk sektora bankowego spadnie o połowę, a w poważne problemy mogą wpaść mniejsze banki
+* Mechanizmy, które rozpoczęły niskie stopy mogą w Polsce prowadzić do zmniejszenia akcji kredytowej, choć teoretycznie obniżka stóp powinna działać odwrotnie
+
+### 2007
+
+Sąd Okręgowy w Katowicach skazał za popełnienie zbrodni komunistycznej 15 z 17 funkcjonariuszy plutonu ZOMO, którzy 16 grudnia 1981 roku podczas pacyfikacji Kopalni Wujek oddali strzały, wyniku czego śmierć poniosło 9 górników, a 23 odniosło rany. Sąd ustalił, iż to dowódca plutonu specjalnego ZOMO Romuald C. jako pierwszy oddał strzał, a następnie podał komendę "Walimy", co jego podwładni odebrali jednoznacznie. C. Otrzymał wyrok 11 lat pozbawienia wolności, pozostali zomowcy od 2,5 do 3 lat.
+Był to jeden z czterech procesów w tej sprawie. Ostatni miał miejsce w kwietniu 2009 roku. Sąd Najwyższy oddalił wtedy kasacje obrony, uznając je za niezasadne, a wyroki sądów niższych instancji – za zgodne z prawem. Według SN sądy dwóch instancji słusznie uznały, że zomowcy broni użyli bezprawnie, gdyż strzelając, nie byli w bezpośrednim zwarciu z górnikami, oddawali strzały z bezpiecznej odległości, a ich życiu nie groziło bezpośrednie niebezpieczeństwo. SN podkreślił, że obrażenia górników świadczą, że "strzały były mierzone", bo spośród 9 zabitych górników, 4 trafiono w głowę, 1 - w szyję, 2 - w pierś, 2 - w brzuch, a spośród rannych tylko 2 doznało ran od rykoszetów.
+
+<img src="./img/may/kopalniawujek.jpg"><br><br>
+
+### 1942
+
+W getcie krakowskim funkcjonariusze Gminy Żydowskiej, przy pomocy policjantów z Judischer Ordungsdienst przeprowadzili kontrolę tzw kart rozpoznawczych, co stało się bezpośrednim pretekstem do rozpoczęcia wysiedlenia około 5 tysięcy ludzi. Większość z nich trafiła do obozu zagłady w Bełżcu.
+
+<img src="./img/may/judischer.jpg"><br><br>
+
+### 1940
+
+Niemcy wysadzili w powietrze znajdujący się w Warszawskich Łazienkach istniejący od 1901 roku pomnik Fryderyka Chopina. Akt ten był częścią realizacji odezwy gubernatora Warszawy Hansa Franka,który wzywał do zbiórki metali kolorowych na potrzeby niemieckiej armii.
+16-tonowa rzeźba została pocięta palnikami
+na mniejsze części i wywieziona do Rzeszy.
+Większość fragmentów pomnika przetopiono i
+wykorzystano do produkcji amunicji.
+
+<img src="./img/may/chopin.jpg"><br><br>
+
+### 1926
+
+Zgromadzenie Narodowe wybrało Józefa Piłsudskiego na prezydenta Polski, jednak godności tej nie przyjął, argumentując to zbyt małymi prerogatywami prezydenta w konstytucji marcowej. W drugim głosowaniu Zgromadzenie Narodowe wybrało na prezydenta protegowanego przez niego Ignacego Mościckiego.
+
+<img src="./img/may/pilsudskiprezydent.jpg"><br><br>
+
+### 1915
+
+W okolicach Bolimowa i Sochaczewa doszło do wielkiego ataku z wykorzystaniem broni chemicznej. Wojska niemieckie użyły 264 tony ciekłego chloru ,
+wypuszczonego z 12 tysięcy butli
+rozmieszczonych przed linią okopów
+rosyjskich. Ilość ta ponad dwukrotnie
+przewyższała ilość gazu użytą podczas
+ataku gazowego przeprowadzonego w
+kwietniu 1915 roku pod Ypres . W ciągu
+kilkunastu minut zginęło kilka tysięcy
+rosyjskich żołnierzy (dokładna liczba jest
+nie do ustalenia).
+
+<img src="./img/may/chlor.jpg"><br><br>
 
 ---
 
