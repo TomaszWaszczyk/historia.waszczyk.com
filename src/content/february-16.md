@@ -43,6 +43,10 @@ Odzyskanie przez Polskę niepodległości w 1918 r. wzmogło działający tam po
 20 marca 1921 roku został zorganizowany plebiscyt, w którym miały rozstrzygnąć się losy Górnego Śląska.Głosujący za jego przynależnością do Polski byli jednak w mniejszości, więc komisja plebiscytowa zdecydowała, że prawie cały ten obszar należy się Niemcom. Jednak ostatnie powstanie wywarło skuteczny wpływ na zmianę tej decyzji. Blisko 30 procent obszaru plebiscytowego i ponad 40 procent jego ludności znalazło się w granicach Rzeczpospolitej.
 16 lipca 1922 roku w Katowicach odbyła się uroczystość zjednoczenia Śląska z Polską. Wtedy też podpisano Akt Objęcia Górnego Śląska przez Polskę.
 
+### 1893
+
+https://pl.wikipedia.org/wiki/Michai%C5%82_Tuchaczewski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
