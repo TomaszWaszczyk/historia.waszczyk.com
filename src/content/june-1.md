@@ -38,6 +38,14 @@ Tak o rezygnacji Józefa Piłsudskiego z funkcji prezydenta Rzeczpospolitej Pols
 
 <img src="./img/june/moscicki.jpg"><br><br>
 
+### 1863
+
+Na trasie kolejowej między Małkinią, a Czyżewem zdesperowany dróżnik dokonał aktu sabotażu rozkręcając tory,po których miał przejeżdżać pociąg wiozący rosyjskich oficerów.
+Wykorzystał do tego miejsce położone na wysokim nasypie, co spowodowało, że pociąg stoczył się w przepaść.
+W katastrofie zginęło 20 rosyjskich oficerów i 600 żołnierzy.
+
+<img src="./img/june/kolej.jpg"><br><br>
+
 ### 1809
 
 Okupujące do tego czasu Warszawę wojska austriackie pod dowództwem feldmarszałka lejtenanta Ludwiga von Mondeta wobec zdecydowanej ofensywy nacierających od strony Łomży oddziałów generała dywizji Józefa Zajączka ,a także idących od strony Wielkopolski oddziałów generała Jana Henryka Dąbrowskiego zmuszone zostały do ewakuowania się ze stolicy.Jeszcze tego samego dnia informację o tym fakcie potwierdził major Feeder podając tę wiadomość dowódcy załogi przedmieścia praskiego majorowi Józefowi Hornowskiemu.
