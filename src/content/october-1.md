@@ -20,11 +20,9 @@ Prędkość 25 razy większa od prędkości dźwięku. Pocisk lata z prędkości
 
 <img src="./img/october/bron.jpg"/><br><br>
 
-### 1907
+### 1961
 
-<a href="https://en.wikipedia.org/wiki/Panic_of_1907" target="_blank">Panika 1907</a>
-
----
+https://en.wikipedia.org/wiki/Defense_Intelligence_Agency
 
 ### 1949
 
@@ -36,6 +34,10 @@ W sopockim Grand Hotelu miało miejsce podpisanie aktu kapitulacji Rejonu Umocni
 Jeszcze tego samego dnia wieczorem zdecydowano, że wszystkim obrońcom zostanie wypłacony trzymiesięczny żołd. Rozpoczęto również niszczenie akt sądowych i personalnych oraz zakopywanie i zatapianie przez całą noc sprzętu. Już następnego dnia na Hel weszły jednostki niemieckie.
 
 <img src="./img/october/sopot.jpg"/><br><br>
+
+### 1907
+
+<a href="https://en.wikipedia.org/wiki/Panic_of_1907" target="_blank">Panika 1907</a>
 
 ### 1845
 
