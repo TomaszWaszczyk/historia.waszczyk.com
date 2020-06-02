@@ -45,6 +45,8 @@ Lotaryngia i Alzacja od 870 r., a więc od czasu faktycznego zlikwidowania pańs
 
 <img src="./img/february/verdun.jpg"/><br><br>
 
+<img src="./img/february/ferdun2.jpg"><br><br>
+
 ### 1794
 
 Rada Nieustająca na polecenie posła rosyjskiego Osipa Igelströma (grafika), który zastąpił zwolennika zachowania Rzeczypospolitej jako protektoratu rosyjskiego posła Jakoba Sieversa uchwaliła redukcję wojska Rzeczypospolitej o połowę oraz przymusowy werbunek zredukowanych do wojska rosyjskiego i pruskiego. Była to wyraźna prowokacja, która wkrótce spowodowała wybuch Insurekcji Kościuszkowskiej.
