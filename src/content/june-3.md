@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 3 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/oszczednosci.png
 author: Tomasz Waszczyk
-date: 2018-06-03T10:00:00.000Z
+date: 2019-06-03T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Polacy oszczędzają
+draft: false
 ---
 
 ### 2020
@@ -26,6 +26,61 @@ Spadek bezrobocia był charakterystyczny oczywiście nie tylko dla Polski. A zat
 Teraz sytuacja wszędzie zaczyna się odwracać z uwagi na nagły kryzys związany z koronawirusem. Wciąż trudno jest o jakieś wiarygodne prognozy, ale moim zdaniem możemy w tym roku w Polsce zobaczyć dwucyfrowe bezrobocie. Czyli w stosunku do minimum z zeszłego roku możemy zaobserwować dwukrotny wzrost. A to oznacza, że 800 tys - 900 tys naszych rodaków może stracić pracę. Kiedy sytuacja zacznie się znowu poprawiać? Mam nadzieję, że już pod koniec roku. Może być to zresztą ewenement, bowiem ze względu na sezonowość, praca w rolnictwie i w budownictwie, normalnie pod koniec roku bezrobocie w Polsce zawsze rośnie. Ale jeśli mocne odbicie w gospodarce będzie faktem, to efekt tworzenie nowych miejsc pracy zniweluje efekt sezonowy. Oby oczywiście tak się stało. Ale na spadek bezrobocia w okolicę obserwowanego w zeszłym roku będziemy musieli, moim zdaniem, poczekać prawdopodobnie do roku 2022. I to przy sprzyjających wiatrach.
 
 W kwietniu zaobserwowaliśmy także koniec innego, jeszcze dłuższego trendu. Po siedmiu latach spadło bowiem realne wynagrodzenie. Nominalnie wciąż jeszcze wzrosło, o 1,9% rok/rok, ale uwzględniając inflację mamy spadek o 1,4% w ujęciu rocznym. I tu także trudno liczyć na powrót do długookresowego trendu w tym roku. Możemy już także raczej zapomnieć o rządowym projekcie mocnego wzrostu płacy minimalnej. Ale to temat na inny felieton.
+
+---
+
+W ostatnim kwartale 2019 nastąpił najwyższy, w ujęciu rocznym, wzrost stopy oszczędności od kilku lat. Co ważne, wzrost ten nastąpił niemalże wyłącznie dzięki gospodarstwom domowym - sytuacja rzadka w ostatnich latach. W efekcie powyższego, można spodziewać się było spadku udziału spożycia prywatnego w PKB jeszcze przed pojawieniem się pandemii. Dobrą informacją jest budowanie poduszki na odbicie konsumpcji potencjalnie już w przyszłym roku.
+
+<img src="./img/june/oszczednosci.png"><br><br>
+
+---
+
+### 1942
+
+W Warszawie grupy konspiracyjnej Organizacji Młodego Sabotażu "Wawer" zagazowały przy użyciu środków chemicznych 7 kin, uzyskując pożądane efekty- przerwanie seansów i panikę wśród widzów uczęszczających do kin wbrew zakazom podziemia.
+
+<img src="./img/june/apollo.jpg"><br><br>
+
+### 1939
+
+Otwarto Tor wyścigów konnych Służewiec. Na uroczystym otwarciu toru ze strony rządu byli obecni: minister rolnictwa Juliusz Poniatowski, wiceminister spraw wojskowych Aleksander Litwinowicz i naczelnik Wydziału Chowu Koni Witold Pruski. Historyczną pierwszą gonitwę na Torze Służewiec wygrał 3-letni Felsztyn ze Stajni Wierzbno, hodowli Cz. Andrycza i A. Kosakowskiego, dosiadany przez Stefana Michalczyka.
+
+<img src="./img/june/sluzewiec.jpg"><br><br>
+
+### 1932
+
+Dokonano oblotu samolotu RWD-6. Była maszyna polskiej konstrukcji stworzona specjalnie na zawody Challange 1932 przez zespół konstruktorów: Stanisław Rogalski, Stanisław Wigura i Jerzy Drzewiecki w Doświadczalnych Warsztach Lotniczych w Warszawie. Zbudowano trzy egzemplarze tego samolotu.
+Podczas oblotu wspomnianej maszyny nastąpił wypadek samolotu SP-AHM: w czasie lotu z dużą prędkością (pilotował Jerzy Drzewiecki), kilka metrów nad ziemią, doszło do urwania się obu skrzydeł. Kadłub zaś po wykonaniu obrotu wokół osi podłużnej opadł na koła podwozia. W wypadku ciężko ranny został J. Drzewiecki, ale uszedł z życiem. Po modyfikacji systemu przestawiania statecznika poziomego, pozostałe dwa samoloty wysłano jednak na zawody Challenge , pod warunkiem niewykonywania lotów z prędkością maksymalną, z wyjątkiem próby końcowej.
+Na jednej z dwóch pozostałych maszyn załoga w składzie Franciszek Żwirko i Stanisław Wigura zdobyła na trwajacych od 11 do 28 sierpnia 1932 roku zawodach Challange pierwsze miejsce.
+
+<img src="./img/june/rwd6.jpg"><br><br>
+
+### 1890
+
+W Krakowie zmarł Oskar Kolberg - folklorysta, etnograf, muzyk i kompozytor; członek AU; autor monumentalnego dzieła zatytułowanego ,,Lud. Jego zwyczaje, sposób życia, mowa, podania, przysłowia, obrzędy, gusła, zabawa, pieśni, muzyka i tańce'', dającego najpełniejszy opis polskiej kultury ludowej. Spoczął na Cmentarzu Rakowickim w Krakowie.
+
+<img src="./img/june/kolberg.jpg"><br><br>
+
+### 1837
+
+W Berdyczowie założono Związek Ludu Polskiego.
+Związek miał gromadzić broń, rozwijać siatkę konspiracyjną, nawiązywać kontakty konspiracyjne z żołnierzami rosyjskimi oraz przygotowywać przyszłe powstanie. ZLP dążył
+do radykalnej reformy stosunków społecznych na ziemiach polskich, przyznania praw mieszczanom.
+Przewodniczącym ZLP był Szymon Konarski ( grafika).
+Związek dzielił się na oddziały:
+Wołyń - pełnomocnikiem był dr Józef Antoni Beaupré Podole - pełnomocnik Fryderyk Michalski
+Ukraina - pełnomocnictwo pełnił Piotr Borowski.
+W ZLP utworzono stanowiska sekretarzy czyli kierowników organizacji powiatowych.
+Organizację tę rozwiązano po aresztowaniu Konarskiego.
+
+<img src="./img/june/zlp.jpg"><br><br>
+
+### 1460
+
+W czasie wojny trzynastoletniej papież Pius II objął klątwą króla Polski Kazimierza IV Jagiellończyka (grafika) oraz jego poddanych.
+Tak radykalne posunięcie ówczesnej głowy Kościoła Katolickiego było wynikiem nie wpuszczenia do Polski papieskiego legata, który miał podjąć się mediacji między Państwem Zakonu Krzyżackiego, a Koroną Królestwa Polskiego.
+
+<img src="./img/june/kazimierz.jpg"><br><br>
 
 ---
 

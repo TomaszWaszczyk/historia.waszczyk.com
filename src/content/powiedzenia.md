@@ -2807,6 +2807,61 @@ Polkadot - host of the party
 
 Historia nigdy nie jest przeszła.
 
+Primum non nocere.
+
+Ad rem – niektórzy złośliwi mawiają: „Otwórz szafę i mów do rzeczy” (mając oczywiście na myśli „Otwórz usta i mów z sensem”). „Ad rem” znaczy po prostu „do rzeczy”, czyli do sedna sprawy.
+
+Alma Mater – to dosłownie „matka karmicielka”. Wielu z Was z pewnością miało z nią do czynienia. Ta matka karmi wiedzą. Jest to… określenie uczelni wyższych.
+
+Alter ego – czyli „drugie ja”. Każdy z nas, tak jak Dr Jekyll i Mr Hyde, ma dwie strony osobowości – jedną dobrą, drugą złą. Już starożytni w to wierzyli, stąd też określenie na dwie natury człowieka.
+
+Anno Domini, w skrócie A.D. – zapis ten często spotykamy przy datach. Oznacza on „w roku Pańskim”, „roku Pańskiego”.
+
+De facto – to, mówiąc inaczej, „w rzeczywistości”. Czy zauważyliście, że sporo osób chce sobie dodać mądrości i powagi, notorycznie wplatając ten zwrot w swoje wypowiedzi?
+
+Et cetera  (skracane do etc.) – mamy też rodzimy skrót, to po prostu „i tak dalej”.
+
+Ex aequo – każdy zna ten zwrot, ale nie każdy potrafi go zapisać. To, co słyszymy jako „ekzekfo”, zapisujemy właśnie jako „ex aequo”. Wyrażenie to zapisujemy zgodnie z oryginałem, gdyż nie zostało spolszczone. Oznacza ono „na równi, jednakowo”, np. Przyznano dwa trzecie miejsca ex aequo.
+
+Honoris causa – to stopień naukowy nadawany za zasługi (dosłownie „dla zaszczytu”). Uczelnie wyższe nadają ten zaszczytny tytuł wielkim osobistościom, niekoniecznie formalnie wykształconym w danym ośrodku, ale szczególnie zasłużonym dla nauki i kultury. Na przykład doktorami honoris causa Uniwersytetu Warszawskiego są Andrzej Wajda czy Václav Havel.
+
+Idem i ibidem – w pracach naukowych w przypisach często stosuje się zapisy łacińskie, aby nie powielać źródła jednego pod drugim:
+ibidem (skracane do ib., ibid.) = tamże, to samo miejsce;
+idem (skracane do id.) = to samo, ten sam, tenże.
+
+Id est  (skracane do i.e.) – to jest (to znaczy). To też warto znać.
+
+Lege artis – (postępowanie) według prawa, zgodnie z przepisami. Z łaciną sporo do czynienia mają prawnicy i lekarze, czyż nie?
+
+Liberum veto – dosłownie „wolne nie pozwalam”. Podajemy na wypadek, gdyby ktoś nie pamiętał tego ze szkoły. Pojęcie veta jest aktualne.
+Maseczka ochronna za 1 GROSZ
+
+Op. cit., czyli opus citatum – „dzieło cytowane” lub opere citato –„z cytowanego dzieła”). Skrót ten używany jest w przypisach lub cytatach w celu odesłania czytelnika do wcześniej cytowanej pozycji. Pod artykułem podajemy w ramce przykłady zastosowania skrótów op. cit. oraz ibidem.
+
+Pro publico bono /Pro bono publico – Bono to nie tylko wokalista U2, ale również jedna z łacińskich form rzeczownika „dobro”. Cały zwrot oznacza „dla dobra publicznego”. Przykład użycia: Znany prawnik dwa razy w tygodniu udziela porad prawnych pro publico bono.
+
+Sensu largo – w znaczeniu szeroko pojętym, czyli ogólnym.
+
+Sensu stricto – w znaczeniu ścisłym. Uwaga, „ściśle” to po łacinie „stricte” (z „e” na końcu), np. To pojęcie dotyczy stricte językoznawstwa porównawczego.
+
+Sic! – dobrze myślicie, jest to tytuł jednej z płyt zespołu Hey. A słówko to najczęściej zapisywane w towarzystwie wykrzyknika oznacza „tak”, „właśnie” (czytamy je: [s-ik]). Umieszczamy je po wyrazie lub ciągu wyrazów, na który chcemy zwrócić uwagę czytelnika, aby zapewnić go, że cytujemy zgodnie z oryginałem. Przykład użycia: Było tam napisane: „Przed wojną kobiety chodzili [sic!] po bułki do sklepu”.
+
+(Conditio) sine qua non – (warunek) konieczny do spełnienia (dosłownie „bez którego nie”). Uwaga! „Qua” czytamy jako „kwa”, a nie „kła”.
+
+Tabula rasa – czysta karta (dosłownie tabliczka wygładzona). Niektórzy uważają, że na świat przychodzimy właśnie z czystą kartą – bez doświadczenia.
+
+Terra incognita – brzmi to tajemniczo i takie też ma znaczenie: to nieznany, niezbadany ląd lub też nierozpoznana i nowa dla kogoś dziedzina np. w nauce: Język turecki to dla mnie terra incognita.
+
+Vel – albo, czyli – słowo używane przy zestawieniu określeń synonimicznych lub dwu nazwisk tej samej osoby, np. Bolesław Prus vel Aleksander Głowacki (definicja za sjp.pwn.pl).
+
+Vice versa – na odwrót, z drugiej strony.
+
+Vide – zobacz. Tak, tak, słowo „video” pochodzi od łacińskiego „patrzeć, widzieć, zobaczyć”.
+
+Vis maior – jest to coś, na co nie mamy wpływu, czyli siła wyższa.
+
+Votum separatum – dosłownie „zdanie odrębne” (zdanie inne niż popierane przez ogół). Pojęcie z dziedziny prawa.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

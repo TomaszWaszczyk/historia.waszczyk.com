@@ -42,6 +42,12 @@ Plan Balcerowicza
 
 Powstaje Urząd Ochrony Państwa
 
+### 1989
+
+Zniesienie kartek na benzynę, talonów na samochody i kwitów na węgiel. Druga część X Plenum KC PZPR przyjęła "Stanowisko w sprawie pluralizmu politycznego i pluralizmu związkowego". W niewyjaśnionych okolicznościach zostają zamordowani dwaj księża: Stefan Niedzielak z Warszawy i Stanisław Suchowolec z Białegostoku.
+
+Kolejna tura rozmów w Magdalence. Ustalono, że rozmowy okrągłego stołu rozpoczną się 6 lutego w Warszawie. Trwały do 5 kwietnia i zakończyły się popisaniem porozumienia w podstawowych dla kraju kwestiach, w tym o czerwcowych wyborach. Ustalenia okrągłostołowe negatywnie oceniły: KPN, Solidarność Walcząca, Ruch "Wolność i Pokój". Sejm ponownie ustanowił 11 listopada świętem narodowym. Od marca legalny obrót dewizami, powstały pierwsze kantory.
+
 ### 1988
 
 1988 władze komunistyczne zakończyły wieloletnią akcję zagłuszania Radia Wolna Europa.

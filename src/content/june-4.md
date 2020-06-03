@@ -1,17 +1,37 @@
 ---
 layout: post
 title: 4 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/kolejchiny.jpg
 author: Tomasz Waszczyk
-date: 2018-06-04T10:00:00.000Z
+date: 2019-06-04T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Chiny
+draft: false
 ---
 
 ### 2020
 
 <img src="./img/june/orwell.jpg"><br><br>
+
+---
+
+Schemat mapy chińskiej kolej* przypominającej trochę schemat metra, tyle że w wersji kontynentalnej (kto jeździł w Chinach koleją, wie o czym piszę.
+
+Wiele ten schemat może powiedzieć o #Chiny jako kraju i (właściwie) kontynencie.
+
+Aby nie wywoływać niepotrzebnego zdziwienia (iż większość kolei koncentruje się na wschodzie kraju) dołączam mapkę pokazującą gęstość zaludnienia w Chinach i obrazującą rozkład zamieszkania w poszczególnych obszarach kraju.
+
+94% ludności zamieszkuje obszar czerwony (czyli Wschód kraju) a zaledwie 6% obszar pomarańczowy (Zachód)...
+
+*Mowa oczywiście o kolei pasażerskiej.
+
+** Więcej takich (być może oczywistych, a być może jednak, wcale nie tak oczywistych) spostrzeżen i konstatacji, na zajęciach w ramach programu "Biznes chiński" w Akademii Leona Koźmińskiego.
+
+(I a zajęciach na innych uczelniach (i nie tylko uczelniach)).
+
+<img src="./img/june/kolejchiny.jpg"><br><br>
+
+<img src="./img/june/chinyludzie.jpg"><br><br>
 
 ### 1989
 
