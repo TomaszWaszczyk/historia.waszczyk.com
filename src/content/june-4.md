@@ -27,11 +27,17 @@ Aby nie wywoływać niepotrzebnego zdziwienia (iż większość kolei koncentruj
 
 ** Więcej takich (być może oczywistych, a być może jednak, wcale nie tak oczywistych) spostrzeżen i konstatacji, na zajęciach w ramach programu "Biznes chiński" w Akademii Leona Koźmińskiego.
 
-(I a zajęciach na innych uczelniach (i nie tylko uczelniach)).
-
 <img src="./img/june/kolejchiny.jpg"><br><br>
 
 <img src="./img/june/chinyludzie.jpg"><br><br>
+
+---
+
+Negative interest rates could be needed for a ‘V’ recovery, Fed economist says
+
+- Policymakers “will need to consider negative interest rates” in getting the U.S. economy back to health, St. Louis Fed economist Yi Wen said in a paper.
+- Most Fed officials have doubted they would go negative like Japan and parts of Europe.
+- The analysis is not binding in any way on the Fed, and Chairman Jerome Powell recently said he doesn’t see below-zero policy rates as “an appropriate tool.”
 
 ### 1989
 
