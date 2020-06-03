@@ -27,6 +27,16 @@ Z kolei Badenia-Wirtembergia zezwoliła od 1 czerwca na organizację imprez urod
 
 <img src="./img/may/gs.jpeg"><br><br>
 
+---
+
+### 1942
+
+Rozstrzelano na dziedzińcu 11 bloku pod Ścianą Straceń 168 więźniów spośród aresztowanych w dniu 16.04.1942 w Krakowie, w Kawiarni Plastyków artystów, malarzy, aktorów dostarczonych do KL Auschwitz w dniach 24 i 25.04.1942 i oznaczonych numerami 32489-32586 oraz 33091-33190. Rozstrzeliwanych wyprowadzano na dziedziniec po cztery osoby. Każdorazowo blokowy wygłaszał formułę: "Za zamordowanie szefa lotnictwa niemieckiego w Krakowie jesteście skazani na śmierć". Po tej zapowiedzi padały kolejno cztery strzały z broni małokalibrowej. Przy egzekucji byli obecni: szef oddziału politycznego Grabner, kierownik obozu Aumeier i kierownik oddziału zatrudnienia Schwarz.
+
+<img src="./img/may/stracenia.jpg"><br><br>
+
+Źródło: Muzeum Auschwitz
+
 ### 1941
 
 Władze Kraju Warty wprowadziły dla księży zakaz oddawania posług duchownych Niemcom. Nie był to pierwszy tego typu akt prawny zakazujący praktyk religijnych. Wcześniej wprowadzono zakaz używania jezyka polskiego przez dzieci przygotowujące się do pierwszej komunii świętej oraz nakaz usunięcia wszystkich symboli i emblematów religijnych z polskimi napisami.

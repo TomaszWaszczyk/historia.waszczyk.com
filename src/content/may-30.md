@@ -7,6 +7,7 @@ date: 2019-05-30T10:00:00.000Z
 tags:
   - Stopy procentowe
 draft: false
+
 ---
 
 ### 2020
@@ -65,6 +66,23 @@ falowych ataków nieprzyjacielskiego lotnictwa.
 Pierwszy nalot rozpoczął się o 10.25, gdy nastąpił atak 6 Ju 88 z wysokości około 2500 m [2 SM 79 i 8 CR 42]. Rzucono kilkanaście bomb na konwój i eskortę, jednak na szczęście obyło się bez strat.
 
 <img src="./img/may/kujawiak.jpg"><br><br>
+
+### 1918
+
+Powstał Związek Legionistów Polskich- organizacja zrzeszająca byłych żołnierzy Legionów Polskich Józefa Piłsudskiego oraz rodziny tych żołnierzy,a później również wszystkie osoby identyfikujące się z ideą czynu niepodległościowego.
+Pierwszym komendantem tej organizacji został późniejszy marszałek Edward Rydz- Śmigły.
+Po wybuchu II wojny światowej Związek
+Legionistów Polskich został
+zdelegalizowany dekretem generalnego
+gubernatora Hansa Franka, jednakże, wbrew
+często pojawiającym się w różnych
+opracowaniach błędnym informacjom, nie
+zaprzestał swojej działalności, działając
+pod konspiracyjną nazwą "Grupa Oleandry.
+Organizacja ta począwszy od lat 60 tych XX wieku kilka razy była delegalizowana i na nowo powoływana. Ostatnie jej rejestracja miała miejsce 3 sierpnia 1990 roku.
+Związek Legionistów Polskich istnieje do dziś.
+
+<img src="./img/may/zlp.jpg"><br><br>
 
 ### 1901
 
