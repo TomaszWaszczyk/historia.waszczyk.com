@@ -32,6 +32,10 @@ Operacja “Husky” przeprowadzona 10 lipca - 17 sierpnia 1943 zakończyła si�
 
 https://pl.wikipedia.org/wiki/Anatol_Lawina
 
+### 1871
+
+https://pl.wikipedia.org/wiki/Marcel_Proust
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

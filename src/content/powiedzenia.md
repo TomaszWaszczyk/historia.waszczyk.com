@@ -2862,6 +2862,8 @@ Vis maior – jest to coś, na co nie mamy wpływu, czyli siła wyższa.
 
 Votum separatum – dosłownie „zdanie odrębne” (zdanie inne niż popierane przez ogół). Pojęcie z dziedziny prawa.
 
+Prawdziwa podróż odkrywcza nie polega na szukaniu nowych lądów, lecz na nowym spojrzeniu. - Proust
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
