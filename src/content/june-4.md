@@ -15,6 +15,12 @@ draft: false
 
 ---
 
+Powyższe sformułowanie powinno nam przypomnieć, że przez ostatnie półtora stulecia bazę najlepiej rozumieli marksiści. Świadomość tego, że „w ostatecznej instancji” decydujące pozostają czynniki ekonomiczne, była w pewnych momentach historii mocno rozpowszechniona. W wielu krajach Europy Zachodniej narracja komunistyczna stanowiła przez długie dziesięciolecia podstawę grupowej tożsamości klas ludowych – tych samych, które dzisiaj wpadają w nacjonalistyczną hipnozę i głosują na prawicowych populistów. Ta historyczna przemiana została wspaniale opisana przez Didiera Eribona. W „Powrocie do Reims” pisarz przedstawia swoją rodzinę na szerokim tle historii północnofrancuskiego proletariatu i powiada tak: marksizm, który dominował przez długie lata, zwalczał nierówności ekonomiczne i klasowe, a inne walki – zwłaszcza ruchy kulturowe – uznawał za drugorzędne...
+
+<img src="./img/june/maszyna.jpg"><br><br>
+
+---
+
 Schemat mapy chińskiej kolej* przypominającej trochę schemat metra, tyle że w wersji kontynentalnej (kto jeździł w Chinach koleją, wie o czym piszę.
 
 Wiele ten schemat może powiedzieć o #Chiny jako kraju i (właściwie) kontynencie.

@@ -66,6 +66,8 @@ Fragmenty artykułu na Wikipedii, Noc Teczek
 
 ### 1989
 
+Tiananmen Square incident, also called June Fourth incident or 6/4, series of protests and demonstrations in China in the spring of 1989 that culminated on the night of June 3–4 with a government crackdown on the demonstrators in Tiananmen Square in Beijing. Although the demonstrations and their subsequent repression occurred in cities throughout the country, the events in Beijing—especially in Tiananmen Square, historically linked to such other protests as the May Fourth Movement (1919)—came to symbolize the entire incident.
+
 <video width="640" height="480" controls>
   <source src="./movies/june/1989_Manvs.ChinesetankTiananmensquare.mp4" type="video/mp4">
 Your browser does not support the video tag.
