@@ -15,6 +15,10 @@ draft: false
 
 ---
 
+<img src="./img/june/zakladpracy.jpeg"><br><br>
+
+---
+
 Bezrobocie w Niemczech rośnie szybciej od prognoz. Emigranci mają powody do obaw
 
 Nasi emigranci w Niemczech przeżywają obecnie nerwowe chwile. Dotychczasową pewność zatrudnienia zastępuje rosnąca fala bezrobocia. Co więcej, aktywność gospodarcza choć w maju odbiła w górę, to nadal jest na poziomach depresyjnych. Nie tylko w Niemczech, ale i we wszystkich wielkich gospodarkach Unii.
@@ -24,6 +28,28 @@ Nasi emigranci w Niemczech przeżywają obecnie nerwowe chwile. Dotychczasową p
 Pod przykrywką kolejnej tarczy antykryzysowej rząd stara się przeszkodzić firmom działać w warunkach rynkowych i ogranicza napływ kapitału zagranicznego.
 
 Rząd ochoczo wydaje pieniądze na walkę ze skutkami pandemii. Zadłuża się w tym celu na potęgę i nawet chce skorzystać z funduszy pomocowych Unii Europejskiej, którą jeszcze niedawno prezydent nazwał „wyimaginowaną Wspólnotą", a jej flagę prominentni przedstawiciele rządu chowali podczas publicznych wystąpień. Rząd zmienił zdanie, bo lubi pieniądze podatników – nie tylko własnych. A będzie ich w przyszłości potrzebował na spłatę zaciąganych właśnie długów. Zajmuje się też kreacją pieniądza za pomocą operacji pomiędzy Ministerstwem Finansów, NBP, PFR i BGK.
+
+---
+
+Marek Zuber:
+
+> BEZ SENSU
+
+>Rada Polityki Pieniężnej po raz kolejny obniżyła stopy procentowe. Tym razem bez żadnego wcześniejszego sygnału, kompletnie znienacka. Kredytobiorcy się cieszą, ale patrząc na całą gospodarkę, także w szerszym aspekcie na sytuację owych kredytobiorców, to decyzja bez sensu.
+
+> W cywilizowanych krajach, czyli choćby w Stanach Zjednoczonych, Japonii, albo całej strefie euro, bank centralny nie zaskakuje rynków finansowych. Bo i po co miałby to robić? Szeroko rozumiane rynki, będące krwioobiegiem dzisiejszej gospodarki, moją być partnerem dla władzy monetarnej. A właściwie odwrotnie: władza monetarna ma być partnerem dla rynków finansowych. Wbrew rozpowszechnianej po 2008 roku tezie, że uczestnicy owych rynków to w dużej mierze oszuści, którzy tylko czyhają na pieniądze drobnych ciułaczy, bez nich nie ma rozwoju gospodarczego. To na nich poszukiwany jest kapitał na inwestycje, to dzięki nim, można dokonywać wymiany walutowej, czy zabezpieczać się przed różnego rodzaju ryzykami. A dla banków, a system bankowy, chyba nie muszę tego tłumaczyć, stanowi szalenie ważne ogniowo rozwoju, nie tylko przez finansowanie firm, ale także przez możliwość budowania oszczędności, rynek pieniężny jest istotnym elementem zarządzania płynnością. Nawet, jeśli jest zaburzony w związku z różnego rodzaju kryzysami tak, jak to się działo wielokrotnie w ostatnich latach. Bank centralny wchodzi bardzo mocno w system rynków finansowych decydując istotnie o jednym z najważniejszych wyznaczników jego funkcjonowania: o koszcie pieniądza. Na niego właśnie bezpośrednio wpływają decyzje dotyczące stóp procentowych. A ponieważ, co do zasady w cywilizowanym kraju, celem i banku centralnego i uczestników jest rozwój, to brak przewidywalności decyzji władzy monetarnej temu rozwojowi nie służy. I nawet jeśli są tacy, którzy chcą destabilizacji, bo jest ona dla nich szansą na dodatkowy zysk, to z punktu widzenia beneficjentów rynków, czyli po prostu przedsiębiorstw, destabilizacja z pewnością jest czymś złym. I właśnie dlatego w owym cywilizowanym świecie jedna z podstawowych zasad brzmi: nie zaskakiwać. Dotyczy to nie tylko władzy monetarnej, ale w ogóle władzy.
+
+> Ale nie u nas. Po przedostatniej obniżce stóp procentowych, tej po której główna stopa wynosiła 0,5%, z okolic Rady Polityki Pieniężnej ewidentnie napływały sygnały, że dalszych obniżek nie będzie. A pomimo tego w zeszłym tygodniu jednak na taki ruch się zdecydowano. Oczywiście wywołało to totalne zdziwienie. Na pewno taka niesygnalizowana decyzja nie pomogła systemowi bankowemu, który również mierzy się, a mierzył się będzie jeszcze bardziej w następnych miesiącach, z problemem efektów koronawirusa. Jeden z byłych szefów NBP dał do zrozumienia, że ta decyzja była efektem telefonu od któregoś polityka partii rządzącej. Nie mam pojęcia czy tak było, ale z pewnością nie tak powinno zachowywać się odpowiedzialne ciało. Tym bardziej, że po decyzji nie odbyła się konferencja prasowa. Podobno z powodu pandemii, ale, jak widzimy, pandemia nie przeszkadza organizować konferencji prezydentowi, premierowi, czy ministrom. Czy NBP jest bardziej narażony na zarażenie? A brak tej konferencji dodatkowo dolewa oliwy do ognia. Bo obok zaskoczenia samą decyzją mamy jeszcze drugi problem. A mianowicie wskazanie jej sensu.
+
+> Teoretycznie RPP dała do zrozumienia, że stopy można ciąć, bo inflacja spada. To prawda spada, ale jest wciąż powyżej poziomu 2,5% rok/rok, czyli tego, co RPP chciałaby mieć. Oczywiście jak rozumiem, obniżka ma z jednej strony pokazać, ile to NBP nie robi dla walki z kryzysem, a z drugiej, być może, część członków Rady na prawdę wierzy w to, że ta obniżka jest jakimś istotnym elementem pomocy gospodarce. I nam wszystkim. Zakładam, że telefonu od polityków jednak nie było. Chociaż oczywiście nie mam pojęcia, czy nie.
+
+> Problem w tym, że ta obniżka może narobić więcej złego, niż dobrego. Oczywiście potencjalnie może ona oznaczać tańszy kredyt. Bo stopy, a dokładnie jedna, czyli referencyjna, decyduje o stawce WIBOR, będącej podstawą oprocentowanie kredytów. Niby tak. Problem w tym, że tak niskie stopy, przypomnę, ta referencyjna spadła do poziomu 0,1%, wpływają negatywnie np. na zyski wypracowane przez banki. Ja wiem, że sporo Polaków uważa banki za instytucje nie do końca etyczne, ale jeśli system bankowy będzie miał problemy, to odczujemy to wszyscy. A poza tym, co w zasadzie jest już zapowiadane, banki będą próbowały odbić sobie straty gdzie indziej. Choćby podnosząc różnego rodzaju opłaty. Zresztą obniżenie oprocentowanie kredytów też może być fikcją, prawdopodobnie wzrosną bowiem marże. Czyli druga część, obok WIBORU, składająca się na oprocentowanie. Z punktu widzenia klienta nic się więc się zmieni, albo wręcz będzie jeszcze gorzej. Oczywiście mówię tu o nowych kredytach, w przypadku już zaciągniętych rzeczywiście raty będą nieco niższe. Tyle tylko, że np. dla firm dotkniętych koronawirusem problemem jest nie tyle wysokość rat co to, że załamały się przychody. I kilka złotych mniej do zapłacenia niewiele tu zmieni.
+
+> Ale obniżenie stóp wpłynie także na inne kwestie. Choćby na naszą chęć do trzymania pieniędzy w banku. Na razie kolejne obniżki niewiele tu zmieniły, ale nie wiadomo, czy tak będzie dalej. Zresztą już dzisiaj coraz więcej z nas woli trzymać pieniądze na rachunkach bieżących niż na lokatach. A to z jednej strony oznacza dla banków niższy koszt, ale z drugiej mniejszą stabilność jeśli chodzi o posiadane środki.
+
+> Niższe stopy to także relatywnie tańszy złoty. „Ale to pomaga eksportowi” powiedzą zwolennicy obniżki. No tak, tyle tylko, że problemem polskich eksporterów nie jest opłacalność eksportu, tylko załamanie popytu. Słabszy złoty niewiele tu więc pomoże. A słabszy złoty, to droższy import np. paliw. Tych negatywnych aspektów jest więcej.
+
+> Obecna RPP nie po raz pierwszy popełnia błąd. W każdym razie moim zdaniem. Tym razem jednak jest to błąd kompletnie niezrozumiały. W dodatku oznacza działanie wbrew oczekiwaniom rynku. Po prostu ruch bez sensu.
 
 ---
 
