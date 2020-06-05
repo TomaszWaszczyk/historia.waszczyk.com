@@ -780,6 +780,12 @@ pokładziny
 
 https://pl.bab.la/slownik/angielski-polski/punchline
 
+supreme meeting
+
+ultimate goal
+
+way too much - o wiele za dużo
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

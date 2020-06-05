@@ -9,6 +9,28 @@ tags:
 draft: false
 ---
 
+### 2020
+
+<!-- ==================================================================================================================================================================================================================================================
+1) Lista tematow prezentacji wraz z przewidywanym planem powinna byc dostarczona do godziny 17:00 dnia poprzedzajacego spotkanie
+2) Transmisja ze spotkania odbywa sie na slacku - kanal #pdm (potrzeba miec wersje desktop slacka)
+3) Do wyswietlania slajdow na rzutniku uzywamy dedykowanego laptopa z IT, takze glos jest transmitowany za posrednictwem tego laptopa
+4) Osoba, ktora ma pierwsza prezentacje jest odpowiedzialna za sprawdzenie czy sprzet jest na miejsu i zestawienie calosci - w razie braku sprzetu w sali trzeba kontaktowac sie z IT
+5) Mamy dedykowane konto na slacku, ktore powinno byc uzywane na dedykowanym laptopie (iteration.demos@relayr.io/PiatkoweDem0$#)
+6) Prezentowanie slajdow oraz demonstracje odbywaja sie z komputera osoby prezentujacej
+7) Dla usprawnienia przechodzenia miedzy prezentacjami osoby prezentujace powinny byc wczesniej wdzwonione na spotkanie na swoich laptopach z wyciszonym dzwiekiem oraz wyciszonym mikrofonem
+8) Slajdy dotyczace pracy oraz planow na przyszla iteracje poszczegolnych zespolow:
+       a) powinny znajdowac sie w odpowiednim katalogu na google drive przed spotkaniem
+       b) slajdy powinny w jasny sposob okreslac co z poprzedniej iteracji zostalo zrobione a co nie
+       c) w czasie prezentacji nacisk powinien byc polozony na tematy dotyczace produktu jako calosci oraz tematow, ktore maja wplyw na inne zespoly
+       d) na koncu prezentacji jest czas na pytania - w tym momencie istnieje mozliwosc dopytania sie o szczegoly tematow, ktore byly przedstawione skrotowo
+       e) na koncu prezentacji jest tez czas na ostateczny feedback co do planow ze strony pozostalych zespolow
+       f) maksymalny czas na prezentacje to 10 minut - nie liczac pytan (zalecany jest czas krotszy aby wraz z pytaniami zmiescic sie w 10 minutach)
+9) Demonstracje oraz relacje z konferencji nie podlegaja  ograniczeniom z punktu 8
+10) Po spotkaniu do konca dnia wszystkie uaktualnione slajdy powinny znalezc sie w dedykowanym katalogu na google drive
+
+================================================================================================================================================================================================================================================== -->
+
 ### 1982
 
 Z dwudniową wizytą przybył do Moskwy I sekretarz Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej generał Wojciech Jaruzelski.

@@ -3,13 +3,17 @@ layout: post
 title: 5 czerwca
 image: img/june/barchanski.jpeg
 author: Tomasz Waszczyk
-date: 2018-06-05T10:00:00.000Z
+date: 2019-06-05T10:00:00.000Z
 tags:
   - Służba Bezpieczeństwa
 draft: false
 ---
 
 ### 2020
+
+> America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves. - Abraham Lincoln
+
+---
 
 Bezrobocie w Niemczech rośnie szybciej od prognoz. Emigranci mają powody do obaw
 
@@ -27,6 +31,23 @@ Rząd ochoczo wydaje pieniądze na walkę ze skutkami pandemii. Zadłuża się w
 
 <img src="./img/june/zimbabwe-100-trillion-dollar-bill-obverse.jpg"><br><br>
 
+### 2014
+
+Na skwerze im. generała Jana Jura-Gorzechowskiego w Warszawie otworzono pierwszy w Polsce Ogród Sprawiedliwych.
+Co roku sadzi się w nim drzewka dedykowane niezwykłym osobom pochodzącym z Europy i z poza jej granic, którzy ratowali życie innych lub występowali w obronie ludzkiej godności – w czasie nazizmu i komunizmu, ludobójstw, masowych mordów, zbrodni przeciw ludzkości, popełnionych w XX i XXI wieku. Towarzyszące im symboliczne kamienie opatrzone są inskrypcjami wyjaśniającymi za jaki czyn dana osoba została uhonorowana.
+Jako pierwsi w warszawskim Ogrodzie upamiętnieni zostali: Marek Edelman, Magdalena Grodzka-Gużkowska, Jan Karski (na zdjęciu) , siostra Antonia Locatelli, Tadeusz Mazowiecki i Anna Politkowska.
+
+<img src="./img/june/skwer.jpg"><br><br>
+
+### 1999
+
+Rozpoczęła się trwająca do 17 czerwca 7 pielgrzymka papieża Jana Pawła II do Polski.
+Papież złożył wtedy wizytę w Sejmie,a także odwiedził miasta :Gdańsk, Sopot , Pelplin, Elbląg , Licheń ,Bydgoszcz, Toruń, Ełk , Wigry, Augustów, Siedlce, Drohiczyn , Warszawa , Sandomierz , Zamość , Radzymin , Łowicz , Sosnowiec, Kraków, Stary Sącz, Wadowice , Gliwice, Częstochowa .
+Była to najdłuższa pielgrzymka Jana Pawła II do Polski.
+Hasłem przewodnim tej pielgrzymki było hasło "Bóg jest milością".
+
+<img src="./img/june/pielgrzymka.jpg"><br><br>
+
 ### 1992
 
 Noc teczek – sformułowanie używane w publicystyce na określenie wydarzeń nocy z 4 czerwca na 5 czerwca 1992, związanych z odwołaniem rządu Jana Olszewskiego. Przyczyną odwołania była sprawa lustracji życia publicznego w Polsce. Było to jedno z najostrzejszych przesileń w polskiej polityce.
@@ -43,6 +64,13 @@ Sformułowanie noc teczek nie oddaje charakteru tamtych wydarzeń. Teczki, z kt�
 
 Fragmenty artykułu na Wikipedii, Noc Teczek
 
+### 1989
+
+<video width="640" height="480" controls>
+  <source src="./movies/june/1989_Manvs.ChinesetankTiananmensquare.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1982
 
 Esbecy zabili 16-latka, bo ujawnił wstrząsającą prawdę. W trakcie rozprawy sądowej Emil Barchański ujawnił potworne metody SB. Słysząc te słowa, młoda pani prokurator nie wytrzymała nerwowo i zaczęła wrzeszczeć: - Będziesz siedział pięć lat za fałszywe zeznania! O godzinie 11 rano, patrolujący Wisłę ormowiec, natrafił na zwłoki młodego mężczyzny. Ofiara miała rozciętą szyję, język wystawał z ust, a na ciele znajdowało się mnóstwo siniaków. Niebawem wszystko było jasne. Znalezionym denatem był Emil Barchański - nastolatek, który wbrew swym oprawcom i całemu systemowi komunistycznemu, zdecydował się w sądzie, w obecności mediów, opowiedzieć o bestialskich przesłuchaniach, jakie zgotowała mu Służba Bezpieczeństwa.
@@ -50,6 +78,57 @@ Esbecy zabili 16-latka, bo ujawnił wstrząsającą prawdę. W trakcie rozprawy 
 Po tym jak 13. grudnia 1981 roku wprowadzono stan wojenny, Emil Barchański wraz ze swoim kolegą Stefanem Antosiewiczem (ps. Józef), który wówczas był przewodniczącym samorządu uczniowskiego w liceum im. Reja, założyli konspiracyjną organizację Konfederacja Młodzieży Polskiej „Piłsudczycy”. Z biegiem czasu nastolatkowie wciągali do niej znajomych. Celem grupy było organizowanie akcji bezpośrednich. Ich pomysły charakteryzowały się ogromnym ryzykiem. Jeden z nich zakładał obrzucenie koktajlami Mołotowa gmachu Komitetu Centralnego PZPR. Ostatecznie do tego nie doszło. Równie spektakularnym pomysłem, była akcja „Cokół”, której - wedle dzisiejszej wiedzy - plany przedstawił 16-letni wówczas Emil.
 
 <img src="./img/june/barchanski.jpeg"/><br>
+
+### 1944
+
+Jan Karski (zdjęcie) o wizycie w Stanach Zjednoczonych premiera Stanisława Mikołajczyka i zastępcy Szefa Sztabu Armii Krajowej generała Stanisława Tatara 5 czerwca 1944 roku:
+
+"Ilekroć Roosevelt spotykał się ze swym gościem, zapewniał go o swojej sympatii do Polski. Ale zachęcał również do zainicjowania bezpośrednich rozmów ze Stalinem. Stalin, oznajmił prezydent, nie jest imperialistą, ale po prostu realistą. Mikołajczyk powinien odbyć z nim " po prostu ludzką rozmowę". Kiedy Mikołajczyk zapytał, jakie decyzje podjęto w Teheranie w sprawie granic Polski, Roosevelt odparł, że Stalin w ogóle się nie palił do poruszania tego tematu. Ale, niestety, Churchill zaproponował Stalinowi linię Curzona. On sam, Roosevelt, sprzeciwia się sowieckim roszczeniom terytorialnym, nie mógł jednak w tym momencie poprzeć Polski zbyt jawnie".
+
+<img src="./img/june/karski.jpg"><br><br>
+
+---
+
+<img src="./img/june/jozefbeck.jpeg"><br><br>
+
+### 1894
+
+Czyli sto lat po bitwie pod Racławicami odsłonięta została Panorama Racławicka- obraz autorstwa Jana Styki Wojciecha Kossaka i wielu innych malarzy.
+Panorama Racławicka, znajduje się
+obecnie w Muzeum Sztuki we Wrocławiu,
+gdzie wybudowano dla niej specjalny
+pawilon. Obraz prezentowany jest tak, że
+oglądając go, ma się wrażenie
+spoglądania na trójwymiarowe dzieło.
+Wchodząc do sali, której owalne ściany
+są jednocześnie malowidłem, odnosi się
+wrażenie bycia w środku pola bitwy.
+Efekt ten potęgowany jest przez leżące
+na podłodze przed samym płótnem,
+przedmioty związane z tematyką obrazu.
+Spoglądając na Panoramę Racławicką,
+możemy dowiedzieć się, jak wyglądało
+ubranie, uzbrojenie i wyposażenie
+obydwu armii. Obraz przedstawia
+sylwetki koni i walczących na nich
+jeźdźców, działa armatnie i najważniejsze sceny bitwy.
+Ciekawostką jest też fakt, że do namalowania tego obrazu wykorzystano
+czternaście kawałków płótna żaglowego
+sprowadzonego z Belgii, z których każdy
+miał piętnaście metrów długości. Całość
+została zszyta i przymocowana do
+specjalnego rusztowania. Płótno obrazu
+ma sto dwadzieścia metrów długości i
+piętnaście metrów szerokości.
+Malunkiem pokryte jest prawie całe
+płótno, co daje tysiąc osiemset metrów
+kwadratowych obrazu. Na samo
+zagruntowanie płótna, potrzebne było
+siedemset pięćdziesiąt kilogramów
+farby. Wykonanie obrazu, zajęło jego
+twórcom okrągły rok.
+
+<img src="./img/june/raclawice.jpg"><br><br>
 
 ---
 
