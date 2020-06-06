@@ -2864,7 +2864,9 @@ Votum separatum – dosłownie „zdanie odrębne” (zdanie inne niż popierane
 
 Prawdziwa podróż odkrywcza nie polega na szukaniu nowych lądów, lecz na nowym spojrzeniu. - Proust
 
- Be the change you wish to see in the world 
+Be the change you wish to see in the world.
+
+If you are backward you will take a beating.
 
 ---
 
