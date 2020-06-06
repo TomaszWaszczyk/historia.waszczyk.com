@@ -10,7 +10,7 @@ tags:
 
 ### 2020
 
-> Prof Hausner nt naszego ostatniego raportu: “Niebezpiecznie poszerzyło się partyjne władztwo nad polityką kredytową banków”
+> Prof Hausner nt. naszego ostatniego raportu: “Niebezpiecznie poszerzyło się partyjne władztwo nad polityką kredytową banków”
 
 ### 2010
 
@@ -46,6 +46,18 @@ Swego rodzaju ciekawostką związaną z tym wydarzeniem jest historia opisana pr
 ### 1942
 
 https://en.wikipedia.org/wiki/Battle_of_Midway
+
+### 1863
+
+Ostatni naczelnik Warszawy Aleksander Waszkowski (na zdjęciu) przeprowadził akcję w wyniku której powstańcy styczniowi przejęli pieniądze rządowej Kasy Głównej.Część zdobytych pieniędzy wyniesiono jescze tego samego dnia, resztę dwa dni później. W sumie zrabowano
+3,6 mln rubli (prawie 50 % zawartości Kasy Głównej). Papiery wartościowe na oczach zdezorientowanej rosyjskiej warty wynieśli, wciągnięci do konspiracji powstańczej, pracownicy Komisji Przychodów i Skarbu:
+Kasjer Główny Stanisław Janowski, Naczelnik Buchalterii (Księgowości) Stanisław Hebda oraz dwaj woźni Sebastian Bieliński i Mateusz
+Tyszkowski. We wtorek, 9 czerwca, o skoku wiedziało już całe miasto, od tamtej pory w opinii społecznej Królestwo Polskie miało "Komisję
+bez Przychodów i Skarbu".
+Nad zdobyczą kontrolę przejął niejaki Karol Majewski ze stronnictwa Białych, dzięki czemu mógł on objąć władzę nad Rządem Narodowym i zdominować go przez swoich popleczników. Rząd ten utrzymał się od 14.06 do 17.09 1863 roku.
+Organizator akcji Aleksander Waszkowski został aresztowany w grudniu 1864 roku, a następnie w lutym 1865 roku skazany na śmierć przez powieszenie. Miał wówczas 24 lata.
+
+<img src="./img/june/waszkowski.jpg"><br><br>
 
 ---
 

@@ -22,6 +22,14 @@ Project Silica is developing the first-ever storage technology designed and buil
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz
 
+### 1981
+
+Gdańsk, hasło „Telewizja kłamie!” wymalowane przed Halą Olivii w trakcie I Zjazdu NSZZ „Solidarność”. Wykonane bez szablonu olbrzymie kontury to dzieło Zygmunta Błażka z działu propagandowego związku (prywatnie miłośnika liternictwa). Opozycyjne hasła maluje zawsze w biały dzień, przy świadkach, nie zwracając uwagi na milicjantów - gdy ci próbują go legitymować, zamiast dowodu osobistego wyjmuje legitymację Solidarności, tłumacząc, że „jest w pracy”. „Dziennik telewizyjny tak się ma do informacji jak pałka milicyjna do rurki z kremem” – opisuje sytuację w państwowych mediach jeden z delegatów. Kilka miesięcy później, już w trakcie stanu wojennego, na wyjątkowo dowcipny sposób walki z reżimową dezinformacją wpadnie lokalne koło emerytów Solidarności ze Świdnika, inicjując w całym kraju modę na demonstracyjne spacery w okolicach godziny 19:30 - porze emisji Dziennika Telewizyjnego. Komunistyczne władze zareagują wyłączaniem ulicznych latarni oraz masowanym legitymowaniem, a nawet zatrzymaniami spacerowiczów. Wobec niskiej skuteczności takich metod jedynym rozwiązaniem okaże się przesunięcie godziny milicyjnej na 19:00.
+
+<img src="./img/september/telewizja.jpg"><br><br>
+
+Zdjęcie: Leszek Biernacki
+
 ### 1943
 
 Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.

@@ -52,6 +52,10 @@ Ważniejszymi garnizonami były obok Legnicy: Świdnica , Borne Sulinowo, Przemk
 
 <img src="./img/april/sowieci.jpg"/><br><br>
 
+### 1947
+
+Posiada ponad 5% SNB: https://de.wikipedia.org/wiki/Theo_Siegert
+
 ### 1943
 
 W Brzezinie na Wołyniu UPA dokonała mordu na Polakach. Była to druga niestety udana próba najazdu na tę miejscowość. Pierwszą, która miała miejsce tydzień wcześniej skuteczenie odparło 18 przebywających tu rosyjskich partyzantów.
