@@ -47,6 +47,12 @@ Swego rodzaju ciekawostką związaną z tym wydarzeniem jest historia opisana pr
 
 https://en.wikipedia.org/wiki/Battle_of_Midway
 
+---
+
+W Edynburgu zmarł Stanisław Burhardt-Bukacki. Legionista, generał dywizji WP.
+
+<img src="./img/june/bukacki.jpeg"><br><br>
+
 ### 1863
 
 Ostatni naczelnik Warszawy Aleksander Waszkowski (na zdjęciu) przeprowadził akcję w wyniku której powstańcy styczniowi przejęli pieniądze rządowej Kasy Głównej.Część zdobytych pieniędzy wyniesiono jescze tego samego dnia, resztę dwa dni później. W sumie zrabowano

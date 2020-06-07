@@ -9,6 +9,10 @@ tags:
 draft: true  
 ---
 
+### 1971
+
+https://en.wikipedia.org/wiki/Nixon_shock
+
 ### 1920
 
 Linia frontu 15. sierpnia 1920 roku.
