@@ -9,7 +9,9 @@ tags:
 draft: true
 ---
 
-### 
+### 1944
+
+https://pl.wikipedia.org/wiki/George_Junius_Stinney
 
 ---
 

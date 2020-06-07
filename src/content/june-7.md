@@ -13,6 +13,24 @@ draft: false
 
 <img src="./img/june/americame.jpg"><br><br>
 
+<img src="./img/june/dowjones.jpg"><br><br>
+
+Majowe dane z rynku pracy w Stanach były ogromnym zaskoczeniem. Zamiast oczekiwanego wzrostu stopy bezrobocia do 20% z 14,7% w kwietniu BLS poinformowało o spadku wskaźnika do 13,3% i powrocie do pracy w maju 2,5 mln ludzi. Giełda poszła w górę, zyskały obligacje. Trump ogłosił tryumf amerykańskiej gospodarki i swojej administracji.
+Raport BLS objaśnia, co się stało i dlaczego. Program PPP zadziałał szybciej niż sądzono. Entuzjazmu inwestorów nie zmniejszyła świadomość, że 13,3% bezrobotnych, to więcej niż w czasie wielkiej recesji. Tak działa pozytywna niespodzianka.
+Najciekawsze jednak jest to, że na końcu komunikatu BLS (w ramce) znajduje się informacja o "błędzie klasyfikacji" (misclassification error), który zaniżył stopę bezrobocia zarówno w kwietniu, jak i w maju. W kwietniu przekroczyła ona 19%; w maju wyniosła ok. 16,3%, gdyby błędu klasyfikacji nie było. Błąd był następstwem odpowiedzi na stałe pytania w ankiecie, gdzie widnieje kategoria "nieobecnych w pracy z innych powodów", ale wciąż zatrudnionych. W standardowej sytuacji te "inne powody", to urlopy, opieka nad chorymi, itp. Jednak teraz nieobecni w pracy byli ci, którzy siedzieli w domach, już bez pracy, ale formalnie jeszcze bez zwolnienia. BLS nie zmieniło klasyfikacji. Ujawniło jednak błąd. Duża odwaga.
+
+---
+
+Black Lives Matter protesters in Bristol have thrown a statue of a 17th century slave trader into the city's river after pulling it down earlier on Sunday afternoon.
+
+Footage on social media shows demonstrators tearing down a statue of Edward Colston from its plinth during protests in the city centre on Sunday. In a later video, protesters are seen dumping it into the water at Bristol Harbour.
+
+The demonstrations came in response to the killing of George Floyd by police in Minneapolis on 25 May.
+
+The controversial bronze memorial had stood in the centre of Bristol since 1895 and was made by John Cassidy, a sculptor from Manchester, according to Historic England. In recent days, more than 10,000 people signed a petition calling on Bristol City Council to have it removed.
+
+Before it was pulled down, protestor John McAllister, 71, removed the black bin bags hiding the statues.
+
 ---
 
 <!-- Przechodzi ustawa mówiąca o tym, że w polskich służbach mogą i będą służyć cudzoziemcy -->
@@ -21,6 +39,12 @@ draft: false
   <source src="./movies/june/TheWhipsawSong.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+### 1985
+
+Tak, to "Super Mario Bros". Mało kto wie, że pierwsza część sagi była projektowana na... papierze milimetrowym! Każdy piksel postaci czy planszy został najpierw ręcznie narysowany i pokolorowany. Poniżej zdjęcie fragmentu oryginalnego projektu z 1985 r.
+
+<img src="./img/june/mario.jpg"><br><br>
 
 ### 1944
 
@@ -131,6 +155,39 @@ jego i trzy przypadkowe osoby"
 Za próbę zabicia cara Berezowski został skazany na dożywotnie zesłanie do Nowej Kaledonii, gdzie zmarł w 1916 roku.
 
 <img src="./img/june/berezowski.jpg"><br><br>
+
+### 1520
+
+Na tzw. „Polu Złotogłowia”, specjalnie wybudowanym, ogromnym obozie reprezentacyjnym pod Balinghem na skraju angielskich posiadłości wokół Calais, rozpoczęło się trwające do 24 czerwca spotkanie króla Anglii Henryka VIII Tudora z królem Francji Franciszkiem I Walezjuszem.
+
+Kronikarze tamtych czasów opisywali spotkanie władców Francji i Anglii mianem Pola Złotogłowia z powodu niezwykle kosztownych, przetykanych złotem tkanin, które zdominowały dekoracje namiotów, pawilonów i strojów. Spotkanie monarchów miało przebiegać pod znakiem przyjaźni i idei rycerskości, ale każdy pragnął zaprezentować się jako najbogatszy i najpotężniejszy. Rywalizacja była widoczna już na etapie logistycznym całego przedsięwzięcia: obydwie strony obawiały się, że partner nie dotrzyma umowy, chcąc przyćmić drugiego. Pozornie organizowane z zamiarem podkreślenia przyjaźni między obydwiema potęgami, spotkanie nie przyniosło konkretnych politycznych rezultatów. Stało się za to okazją do demonstracji potęgi obydwu dworów poprzez pokaz bogactwa i prawdziwy przepych.
+
+W 1520 roku Henryk dobiegał trzydziestki i zasiadał na angielskim tronie od jedenastu lat. W jego epoce wystawne życie stało się symbolem potęgi, a król rozumiał konieczność posiadania wielkiego dworu. Wzmacnianie pozycji na arenie europejskiej zaczął od pokazu ekstrawagancji oraz wystawności swojego dworu. Organizował rozrywki, turnieje i bankiety, aby pokazać innym władcom, że jest im równy. Albo potężniejszy.
+
+Spotkanie z Franciszkiem było doskonałą okazją do demonstracji siły – w pokojowy sposób. Gdy przygotowania do imprezy w lutym ruszyły pełną parą, zdecydowano między innymi, że stary pałac w Guines nie jest dość luksusowy dla pary królewskiej. Można więc było albo zakwaterować Henryka i Katarzynę w innym miejscu, albo… zbudować nowy. W zaledwie sześć tygodni powstał tymczasowy pałac z ceglanych fundamentów, o wysokości 2,5 m i powierzchni niemal 10 000 m2, z czterema wieżami, stróżówką i wewnętrznym dziedzińcem. Drewniane ściany pomalowano tak, by wyglądały na kamienne, i zaimpregnowano na wypadek niepogody. Do budowy półokrągłych okien na piętrze zużyto ponad 1,5 tys. metrów kwadratowych szkła, a jedne z pałacowych drzwi wyposażono w „dwa pozłacane filary z posągami Kupidyna i Bachusa, z których wypływały strumieniem małmazja i bordo do srebrnych pucharów, a każdy mógł z nich pić”. Do dekoracji wykorzystano najwspanialsze ozdoby z Anglii: srebrno i złoto, jedwabie, gobeliny oraz meble obite złotogłowiem. W kaplicy umieszczono ogromne srebrne organy i złotogłów dodatkowo zdobiony perłami, który okrywał ołtarz. Król wydał ponad 6 tys. funtów na same materiały budowlane konieczne do wzniesienia pałacu, a przecież mógł on pomieścić (wraz z pobliskim zamkiem) jedynie parę królewską i ograniczoną liczbę doradców. Większość gości z Anglii rozlokowano w namiotach i pawilonach, a całe obozowisko liczyło 820 elementów. Żeby wykarmić świtę króla Henryka, potrzeba było ponad 2 tysiące owiec oraz niezliczoną liczbę krów, świń i drobiu.
+
+Druga strona także nie skąpiła grosza. Znani ze swojej fantazji Francuzi postanowili na przykład umieścić w środku obozu złote kule i osobliwe urządzenia, a także złocony posąg św. Michała, z którego pleców spływał błękitny płaszcz w złote kwiaty. W prawej dłoni archanioł trzymał strzałę, a w lewej tarczę z godłem Francji. Członkowie dworu i świty Franciszka przez kilkanaście czerwcowych dni nosili wyłącznie jedwabie, aksamity i złotogłów, klejnotami obwieszano się jak przysłowiowe choinki, a koszty całej imprezy były tak ogromne, że jak czytamy u Morrisa: „Wielu nobilów niosło na plecach swoje zamki, lasy i farmy”.
+
+Henryk VIII przybył na Pole Złotogłowia z niemal czterotysięczną świtą na czele z organizatorem imprezy – kardynałem Wolseyem. Królowi towarzyszyła liczna służba, w tym dwunastu kapelanów, dwunastu sierżantów broni, 200 „najwyższych i najlepszych” gwardzistów, siedemdziesięciu pokojowców, 266 oficerów domostwa i 205 stajennych. Królowej towarzyszyła jej własna świta licząca 1175 osób. W sumie zjawiło się 5172 angielskich gości, do tego niemal trzy tysiące koni. Od każdego z przybyłych oczekiwano, że swoją obecnością będzie reprezentował przepych angielskiej monarchii, więc na podróż nierzadko przeznaczano całe majątki. Pięć dużych statków i kilka mniejszych przepłynęło Kanał wyładowane ludźmi i zapasami. Dwór angielski wydał na jedzenie 8839 funtów, a na wino, piwo i ale kolejne 1568 funtów. Miecze i uzbrojenie pochłonęły ponad tysiąc funtów, a kolejne trzy tysiące poszło na odzież dla ludzi i zbroje dla koni. Jeden z królewskich koni przyozdobiony był przetykanym srebrem aksamitem ze złotymi ozdobami w kształcie dzikiej róży – całkiem przyjemnego kwiatu, jeśli obchodzić się z nim łagodnie, ale uzbrojonego w ostre ciernie, które potrafią pokaleczyć przy nieodpowiednim potraktowaniu. Trudno nie pokusić się o skojarzenie z charakterem samego Henryka.
+
+Po przybyciu do Calais w ostatnim dniu maja Henryk wysłał Wolseya z wizytą do Franciszka. Zawsze gotowy godnie reprezentować swojego władcę, Wolsey podróżował ze świtą liczącą 50 gentlemanów, w karmazynowych aksamitach i złotych łańcuchach. Pierwsze spotkanie władców miało odbyć się konno „na otwartej przestrzeni, nie w otoczeniu (…) pawilonów”. Podkreślano dworski protokół i równość, w tym m.in. to, że „gdy król angielski wchodzi na terytorium króla francuskiego, ma uzyskiwać prymat i vice versa”. Do spotkania doszło w czwartek 7 czerwca. Henryk przybył w towarzystwie 39 szlachciców i gentlemanów, siedmiu biskupów, dwóch książąt, jednego markiza, dziesięciu earlów, 500 członków królewskiej gwardii oraz 2000 żołnierzy kroczących na czele procesji przy dźwiękach trąb. Gdy wreszcie Henryk i Franciszek stanęli twarzą w twarz, objęli się niczym bracia, a następnie „ujęli za ręce i weszli do wspaniałego pawilonu ze złotogłowia, który przygotował angielski król”. Henryk upierał się, żeby stać po lewicy Franciszka, ponieważ spotkanie miało miejsce na angielskiej ziemi, a więc to on był „gospodarzem”. Władcy poprzysięgli przyjaźń i sojusz na spotkaniu, które trwało około godziny. Potem rozpoczęły się zabawy i zawody.
+
+Po spotkaniu władców nadeszła pora potyczek, turniejów rycerskich, zawodów łuczniczych i zapasów, bali maskowych oraz występów minstreli czy nadwornych chórów, a także wystawnych bankietów. Turnieje zapewniały nie tylko rozrywkę, ale również dawały możliwość demonstracji siły. Choć uczestnicy używali stępionej broni i ciężkiej zbroi, aby uniknąć urazów, walki prowadzono na poważnie – liczył się przecież honor monarchii. Już samo pole długości ponad 970 metrów, z ogromnymi widowniami i dwiema prywatnymi komnatami dla władców, było symbolem angielskiego splendoru.
+
+Zgodnie z ówczesnym zwyczajem turniejowym walczono w imię Boże, honorowo i uczciwie. Drzewo Honoru wraz z dwoma innymi, reprezentującymi Anglię i Francję, stanęło na szczycie sztucznego wzniesienia, a na nim zawisły tarcze reprezentujące trzy typy rozgrywek: pojedynek konny na kopie, turniej w otwartym polu oraz zbrojna walka piechurów. Każdy chętny do udziału w rozgrywkach musiał podejść do drzewa i dotknąć odpowiedniej tarczy.
+
+Obaj władcy zgłosili chęć udziału w pojedynku na kopie, ale nie potykali się ze sobą. Starli się za to w zapasach, podczas których drobnej budowy Franciszkowi udało się sprytem rozłożyć wysportowanego i potężnego przeciwnika na łopatki. Gorąca krew Tudorów zawrzała w Henryku – jak to możliwe, że przegrał z tym cherlakiem, który ledwie był w stanie unieść miecz?! Franciszek załagodził gniew Henryka dobrotliwymi słowami, a angielski król zwyciężył później w konkursie łuczniczym, co ostatecznie osłodziło mu porażkę.
+
+Wspaniałe bankiety, maskarady i tańce trwały pomiędzy turniejami, a to stwarzało okazję do kolejnych demonstracji splendoru. Bankiety musiały być wystawne, często trzykrotnie w trakcie zabawy podawano sute dania. Z cukru rzeźbiono królewskie zwierzęta, takie jak lamparty czy gronostaje, albo alegoryczne postaci – Matkę Boską czy Gabriela. Posiłki anonsowali trębacze, a w trakcie ich spożywania gości zabawiano śpiewem i muzyką.
+
+W sobotę 10 czerwca Henryk pojechał bawić się do Ardes, a Franciszek przybył w tym samym celu do Guînes. Angielski król przyozdobiony złotogłowiem wyszywanym klejnotami i ozdobami z czystego złota, ze wspaniałym kołnierzem z klejnotów z pewnością podbił tego dnia mnóstwo serc.
+
+Głównym punktem każdego wieczoru była maskarada, jako że bale maskowe były niezwykle modne w XVI-wiecznej Europie. Organizowano je zgodnie z wybranym motywem, np. romansu średniowiecznego czy mitologii klasycznej. Podczas finałowego balu Henryk pojawił się w przebraniu Herkulesa, przystrojony w koszulę ze srebrnego adamaszku, na głowie miał liście z zielonego adamaszku, na plecach „lwią skórę” ze złotego adamaszku, a za nim podążało „Dziewięć Cnót” ze złotymi brodami przystrojonych w złotogłów.
+
+Ostateczną możliwość prezentacji bogactwa stwarzała ceremonia wręczania nagród. Królowa Katarzyna obdarowała wówczas klejnotami najlepszych francuskich rycerzy, a Franciszkowi podarowała pierścień z diamentem i rubinem. Henryk również obsypał Francuzów klejnotami, złotą zastawą i pieniędzmi. Z kolei królowa Klaudia podarowała Henrykowi lektykę obitą złotogłowiem, a Wolseyowi wysadzany klejnotami krucyfiks. Jak czytamy u Charlesa Millsa, Franciszek pozwolił sobie pewnego dnia na gest wykraczający daleko poza zasady dworskiego protokołu. Wybrał się do Guines niemal bez świty. Wszedł do pałacu, wprawiając w osłupienie gwardzistów, i zwrócił się do nich słowami: „Złóżcie broń, jesteście moimi więźniami”, po czym ruszył do komnaty Henryka, którego zastał śpiącego. Obudził go, deklarując z uśmiechem, że jest jego więźniem, a Henryk ucieszył się z tej „nieoczekiwanej sztuczki”. Władcy wymienili się prezentami i odtąd nie przestrzegali już protokołu.
+Ta wymiana podarków, choć miała uchodzić za dowód braterstwa, była w rzeczywistości niczym więcej jak demonstracją bogactwa. Rywalizacja między Anglią a Francją stopniowo rosła i ostatecznie doprowadziła do wojny, a Pole Złotogłowia przyniosło Henrykowi korzyść wyłącznie jako pokaz jego potęgi. Przyjaźń okazała się nietrwała, bo w ciągu zaledwie miesiąca Henryk zawarł przeciwko Francji sojusz z siostrzeńcem swojej żony, Karolem V, a po pięciu latach w bitwie pod Pawią stanął po stronie cesarza. Franciszek okazał wielkie męstwo na polu bitwy, ale poniósł porażkę i trafił do niewoli. „Wszystko stracone, prócz honoru” – pisał gorzko. Tyle przyszło mu z Pola Złotogłowia.
+
+<img src="./img/june/zlotoglowie.jpg"><br><br>
 
 ### 1494
 
