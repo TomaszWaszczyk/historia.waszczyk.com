@@ -15,6 +15,12 @@ draft: false
 
 ---
 
+<img src="./img/june/1.png"><br><br>
+
+<img src="./img/june/2.png"><br><br>
+
+---
+
 <img src="./img/june/zakladpracy.jpeg"><br><br>
 
 ---

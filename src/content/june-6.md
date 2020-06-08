@@ -41,6 +41,86 @@ One photograph from the era shows a woman standing in a village as two men forci
 Siły alianckie przeprowadziły największy w historii desant. W Operacji Neptune, znanej powszechnie jako lądowanie w Normandii udział wzięły również formacje polskie. Były to Polskie Siły Powietrzne, Polska Marynarka Wojenna i Marynarka Handlowa. W skład sił powietrznych wchodziło 11 polskich dywizjonów (8 myśliwskich i 3 bombowe). Ich zadaniem była osłona powietrzna i eskorta bombowców, wsparcie ogniowe wojsk lądowych i rozpoznanie. Już w pierwszym dniu operacji, jedno z polskich skrzydeł zestrzeliło największą ilość samolotów, a do 25 czerwca 38 samolotów. W skład sił morskich wchodziły między innymi okręty ORP Dragon, ORP Krakowiak, ORP Ślązak. Miały one za zadanie prowadzenie wsparcia desantowego, zaś ORP Błyskawica i ORP Piorun osłaniały floty inwazyjne przed kontratakami floty niemieckiej. Okrętami floty handlowej były MS Batory i MS Sobieski, które transportowały żołnierzy alianckich.
 Swego rodzaju ciekawostką związaną z tym wydarzeniem jest historia opisana przez Stephena Ambrose w książce D Day, w której przytacza wspomnienia żołnierzy lądujących na plaży " Utah". Opowiadali oni, że gdy zamierzali zaatakować umocniony bunkier usłyszeli tylko jeden strzał. Okazało się, że obsadę umocnienia stanowili Polacy, którzy zastrzeli pilnującego ich niemieckiego sierżanta i ochoczo poszli do niewoli.
 
+D-Day godzina po godzinie:
+
+Godz. 5:30
+Rozpoczęcie ostrzału artyleryjskiego plaż. Oddziały amerykańskie lądują pod St. Marcouf.
+
+Godz. 6:00
+Wiadomości o ostrzale docierają do kwatery główniej niemieckiej 7. Armii.
+
+Godz. 6:30
+Godzina H na plażach Omaha i Utah.
+
+Godz. 7:00
+Pierwszy zrzut desantu na Omaha zostaje przygwożdżony ogniem. US Ranngers rozpoczynają atak na Pointe de Hoc.
+
+Godz: 7:30
+Godzina H na plażach Gold i Sword.
+
+Godz. 7:31
+Oddziały amerykańskie z plaży Utah posuwają się w głąb lądu. Godzina H na plaży Juno
+
+Godz. 8:00
+Oddziały amerykańskie przebijają się z Omaha.
+
+Godz. 9:00
+Niemiecki 84.Korpus otrzymuje informacje o desancie.
+
+Godz. 9:30
+Wiadomość o operacji Overlord dostaje się do prasy. Oddziały brytyjskie pokonały 1,5 km od Gold. Brytyjczycy opanowują Hermanaville
+
+Godz. 10:00
+Oddziały amerykańskie wspięły się na stromy brzeg górujący nad Omaha.
+
+Godz. 10:30
+Niemiecka 21. Dywizja Pancerna otrzymuje rozkaz ataku pomiędzy Cean i Beyeux.
+
+Godz. 11:00
+Amerykanie wkraczają do Vierville.
+
+Godz. 11:15
+Oddziały kanadyjskie zdobywają St. Aubin.
+
+Godz. 12:03
+Na mostach na Orne spotykają się komandosi i spadochroniarze aliantów.
+
+Godz.12:15
+Niemieckie czołgi docierają na północ od Cean.
+
+Godz. 12:30
+Brytyjska 185. Brygada Piechoty posuwa się od Sword w głąb lądu.
+
+Godz. 13:00
+Połączenie amerykańskich 4 Dywizji Piechoty i 101 Dywizji Powietrzno-Desantowej pod Pouppeville.
+
+Godz. 13:30
+Oddziały amerykańskie posuwają się od Omaha w głąb lądu.
+
+Godz. 13:35
+Niemiecka 352. Dywizja Pancerna przekazuje wiadomość o zepchnięciu nieprzyjaciela z plaży Omaha do morza.
+
+Godz. 14:00
+Walki na grani Periers, wznoszącej się ponad plażą Sword. Hitler odbywa odprawę w sprawie lądowania aliantów.
+
+Godz. 16:00
+Walka Niemców i Brytyjczyków pomiędzy Villers-le-Sec i Brazenville. Kwatera niemieckiej 7. Armii otrzymuje wiadomość o lądowaniu na Uthah. Amerykańskie czołgi posuwają się od Omaha w głąb lądu. Do akcji wchodzi niemiecka 21. Dywizja Pancerna SS Hitlerjugend oraz Dywizja Pancerna lehr.
+
+Godz. 16:30
+21. Dywizja Pancerna uderza na przyczółek Sword.
+
+Godz. 18:00
+Zatrzymanie marszu Brytyjczyków pod Cean
+
+Godz. 20:00
+Brytyjczycy zajmują Colleville sur Mer.
+
+Godz. 20:10
+Kanadyjczycy zdobywają Taillerville.
+
+Godz. 21:00
+Na odcinku pomiędzy Utah i wschodnim brzegiem Orne lądują szybowce z posiłkami.
+
 <img src="./img/june/dday.jpg"><br><br>
 
 ### 1942

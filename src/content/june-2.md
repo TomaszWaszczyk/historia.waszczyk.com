@@ -55,6 +55,8 @@ Moim zdaniem błędnie myslal ten, kto bral kredyt i zakładał, że sytuacja ma
 
 Skrajnie lewicowy ruch Antifa, odpowiedzialny za falę protestów w USA po zabiciu George'a Floyd'a, Trump chciałby uznać za organizację terrorystyczną. Podczas protestów niektórzy członkowie organizacji spotykają się z neonazistami i grupami białej supremacji. W ponad 20 stanach na ulice została wysłana Gwardia Narodowa. Na wypadek eskalacji przemocy powołano blisko 62.000 rezerwistów.
 
+<img src="./img/june/washington.jpg"><br><br>
+
 <img src="./img/june/postepusa.jpg"><br><br>
 
 Those people who devastated the monument of brigadier general Andrzej Tadeusz Bonawentura Kościuszko do not know that Kościuszko’s last will and testament stipulated that the proceeds of his American estate – granted to him by Congress for his 8-year engagement in the Revolutionary War – be spent on freeing and educating African American slaves. This included those of his friend Thomas Jefferson, who was named as the will's executor. Several years after Kościuszko's death, Jefferson, aged 77, pleaded his inability to execute the will due to age and the numerous legal complexities of the bequest.
