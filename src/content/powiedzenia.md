@@ -2870,6 +2870,8 @@ If you are backward you will take a beating.
 
 To see the future you have to be able to step outside of yourself, forget your past successes and see beyond your current understanding.
 
+Rozumienie jest trudne, dlatego większość ludzi ocenia.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
