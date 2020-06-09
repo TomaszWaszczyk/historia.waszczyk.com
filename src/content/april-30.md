@@ -30,6 +30,12 @@ się w stosunku do mnie w DI Xelion wzorowo. I chyba tylko tyle można na ten te
 <!-- Mój telefon (695333325) zostaje ze mną, a prywatne
 adresy email to: piotrw.kuczynski@gmail.com i piotr.kuczynski@upcpoczta.pl -->
 
+### 2015
+
+https://en.wikipedia.org/wiki/Greek_government-debt_crisis#2015
+
+Przy okazji bankructwa Grecji limit wypłaty gtówki był na poziomie 60€.
+
 ### 1981
 
 Władze wprowadziły kartki na przetwory mięsne, masło, mąkę, ryż oraz kaszę.

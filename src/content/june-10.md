@@ -1,15 +1,17 @@
 ---
 layout: post
 title: 10 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/
 author: Tomasz Waszczyk
-date: 2018-06-10T10:00:00.000Z
+date: 2019-06-10T10:00:00.000Z
 tags:
   - 
 draft: true
 ---
 
-### 
+### 2020
+
+<!-- <img src="./img/june/szumowina.jpg"><br><br> -->
 
 ---
 
