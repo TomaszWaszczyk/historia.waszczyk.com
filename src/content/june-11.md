@@ -30,6 +30,16 @@ Tak będą gotowali tę żabę. Zawsze będą uzasadniali to względami bezpiecz
 
 Totalitaryzm nie będzie wprowadzany przez złowieszczo wyglądających szaleńców, nie powstanie nigdy "ustawa o masowej inwigilacji i zniewoleniu". Totalitaryzm przyjdzie po cichu. Będą go popierać naukowcy, ludzie kultury i celebryci. Będzie przyjęty przez społeczeństwo w warunkach totalnego zobojętnienia i niezainteresowania, a czasem niecierpliwego oczekiwania. Większość nawet nie zwróci na sprawę żadnej uwagi. Nie będzie to nawet element publicznej debaty. To się po prostu stanie, a tak naprawdę to już się po prostu dzieje.
 
+### 1944
+
+Polski okręt wojenny ORP "Orzeł"został oficajalnie uznany za stracony.
+23 maja 1940 roku jednostka ta wyruszyła w swój ostatni rejs, jakim miał być patrol bojowy. "Orzeł" miał powrócić do bazy w Rosyth 8 czerwca 1940 roku, co nigdy nie nastąpiło.
+13 czerwca 1944 roku Kierownictwo Marynarki Wojennej wydało w związku z tą sprawą komunikat następującej treści:
+"Marynarze. Nową ponieśliśmy stratę – w walce z nieprzyjacielem zginął O.R.P. „ORZEŁ” wraz z całą załogą. Dowódca i załoga zapisali jedną z najchlubniejszych kart w historii Polski i legenda o ich czynach przetrwa wieki. Pokolenia przyszłej Polski na tej legendzie wychowywać się będą. Ona scementuje więzy nierozerwalne Narodu z morzem. Dziś O.R.P „Orzeł” jest symbolem wielkości Narodu Polskiego, który mając takich Synów jak Jego Załoga – zginąć nie może. Cześć pamięci bohaterów".
+Okręt do dziś nie został odnaleziony.
+
+<img src="./img/june/orzel.jpg"><br><br>
+
 ### 1942
 
 Generał Władysław Sikorski wygłosił dramatyczny apel do Anglików na falach BBC. Przedstawił niemieckie plany totalnej eksterminacji Żydów i wzywał sprzymierzonych do zadeklarowania, że mordercy zostaną ukarani. Jego przemówienie rozesłane zostało jako nota dyplomatyczna do

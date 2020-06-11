@@ -27,6 +27,12 @@ Niemiecka minister obrony Annegret Kramp-Karrenbauer oraz rzecznik rządu RFN St
 
 <!-- <img src="./img/june/szumowina.jpg"><br><br> -->
 
+### 1943
+
+Artykuł "Masakra na Pawiaku", zamieszczony w 23 numerze Biuletynu Informacyjnego 10 czerwca 1943 roku.
+
+<img src="./img/june/masakra.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
