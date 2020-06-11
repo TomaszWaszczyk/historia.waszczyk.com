@@ -19,6 +19,10 @@ Niemiecka minister obrony Annegret Kramp-Karrenbauer oraz rzecznik rządu RFN St
 
 ---
 
+<img src="./img/june/zapytanie.png"><br><br>
+
+---
+
 <img src="./img/june/balancesheet.png"><br><br>
 
 <!-- <img src="./img/june/szumowina.jpg"><br><br> -->
