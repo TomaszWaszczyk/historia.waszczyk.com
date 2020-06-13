@@ -2872,6 +2872,8 @@ To see the future you have to be able to step outside of yourself, forget your p
 
 Rozumienie jest trudne, dlatego większość ludzi ocenia.
 
+Bismarck: "Ludzie nie powinni widzieć 2 rzeczy. Robienia kiełbasy i polityki"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

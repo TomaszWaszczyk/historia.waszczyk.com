@@ -5,7 +5,7 @@ image: img/june/kolejchiny.jpg
 author: Tomasz Waszczyk
 date: 2019-06-04T10:00:00.000Z
 tags:
-  - Chiny
+  - Chiny, Kennedy
 draft: false
 ---
 

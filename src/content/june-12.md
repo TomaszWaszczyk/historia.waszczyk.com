@@ -13,6 +13,21 @@ draft: false
 
 <img src="./img/june/teatr.jpeg"><br><br>
 
+---
+
+Produkcja w gliwickiej fabryce Opla - na jedną zmianę
+PAP, 12-06-2020
+Po wznowieniu w tym tygodniu produkcji samochodów, gliwicka fabryka Opla pracuje na jedną zmianę, zamiast dwóch, jak przed rozpoczętym w drugiej połowie marca przestojem. Przedłużony został program dobrowolnych odejść, a część załogi będzie czasowo pracować we francuskiej fabryce Grupy PSA.
+To, że produkcja ruszyła tylko na jednej zmianie, wynika przede wszystkim z załamania na rynku sprzedaży nowych samochodów.
+
+---
+
+Central Banks Added Nearly 32 Tons Of Gold To Reserves In April, Led By Turkey
+
+<img src="./img/june/gold.jpeg"><br><br>
+
+---
+
 ### 1999
 
 Poniższy tekst to fragment homilii papieża Jana Pawła II, wygłoszonej w Sandomierzu 12 czerwca 1999 roku.

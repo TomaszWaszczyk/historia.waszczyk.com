@@ -113,6 +113,23 @@ Po tym jak 13. grudnia 1981 roku wprowadzono stan wojenny, Emil Barchański wraz
 
 <img src="./img/june/barchanski.jpeg"/><br>
 
+### 1949
+
+W Warszawie zmarła popełniając samobójstwo Emilia Malessa "Marcysia"- żolnierz AK w stopniu kapitana.
+Swoją służbę rozpoczynała w 1939 roku w Ochotniczej Służbie Kobiet w 19 Wileńskiej Dywizji Piechoty generała Józefa Kwaciszewskiego.
+W latach 1940-45 była dowódcą Wydziału Łącznosci Zagranicznej.
+We wrześniu 1944 roku Emilia Malessa
+została rozkazem Dowódcy L.871/BP z dnia
+22.09.1944 odznaczona Srebrnym Krzyżem
+Orderu Wojennego Virtuti Militari, a
+wcześniej Krzyżem Walecznych.
+3.10.1944roku Bór Komorowski nadał jej
+Złoty Krzyż Zasługi z Mieczami.
+
+W 1947 roku wladze komunistyczne aresztowały ją i skazały w procesie Zarzadu Głównego Zrzeszenia Wolność i Niezawisłość na 2 lata więzienia.
+
+<img src="./img/june/marcysia.jpg"><br><br>
+
 ### 1944
 
 Jan Karski (zdjęcie) o wizycie w Stanach Zjednoczonych premiera Stanisława Mikołajczyka i zastępcy Szefa Sztabu Armii Krajowej generała Stanisława Tatara 5 czerwca 1944 roku:
@@ -124,6 +141,8 @@ Jan Karski (zdjęcie) o wizycie w Stanach Zjednoczonych premiera Stanisława Mik
 ---
 
 <img src="./img/june/jozefbeck.jpeg"><br><br>
+
+W rumuńskim Stăneşti zmarł Józef Beck, polityk sanacyjny, pułkownik Wojska Polskiego; bliski współpracownik Józefa Piłsudskiego; 1932-39 minister spraw zagranicznych; twórca paktu o nieagresji z ZSRR (1932) i deklaracji z Niemcami (1934); po zajęciu przez Niemcy Nadrenii 1936 - zwolennik zbrojnej interwencji polsko-francuskiej; odrzucił trzykrotne niemieckie propozycje sojuszu antyradzieckiego; 5 maja 1939 ujawnił i odrzucił niemieckie roszczenia do Wolnego Miasta Gdańsk i Pomorza; zawarł antyniemieckie traktaty obronne z Wielką Brytanią i Francją. Zmarł w wieku niespełna 50 lat. Jego prochy powróciły do Polski i spoczęły na Cmentarzu Wojskowym na Powązkach (kwatera II C/27 (3/1), w 1991 roku. Na płycie nagrobnej widnieje fragment zaczerpnięty z przemówienia wygłoszonego przez ministra w sejmie RP, w dniu 5 maja 1939 roku: Jest jedna rzecz w życiu narodów i państw, która jest bezcenna. Tą rzeczą jest honor”. Na emigracji Beck spisał pamiętniki, wydane po jego śmierci w 1946 roku pt. Ostatni raport, w których starał się wytłumaczyć swoje polityczne posunięcia.
 
 ### 1894
 

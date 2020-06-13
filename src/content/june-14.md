@@ -35,4 +35,8 @@ Wizyta papieska, której hasłem przewodnim było "Do końca ich umiłował" zak
 
 ---
 
+<img src="./img/june/einstein.jpeg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-14.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
