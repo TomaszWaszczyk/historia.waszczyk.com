@@ -19,6 +19,12 @@ Dziś przypada 90 rocznica urodzin Ryszarda Kuklińskiego.
 
 ---
 
+"By the end of the year, the Fed’s balance sheet is expected to comprise about 40% of the U.S. economy, according to an article at Time. Compare that with 6% in 2007. The Twilight Zone, indeed…"
+
+<img src="./img/june/treasury.jpeg"><br><br>
+
+---
+
 Rząd Francji przeciwny sprowadzeniu przez koncern PSA pracowników z Polski
 PAP, 13-06-2020
 Rząd francuski zaapelował w piątek do koncernu motoryzacyjnego PSA o wycofanie się z zamiaru sprowadzenia kilkuset pracowników z fabryki produkującej Opla Astrę w Gliwicach. Mają oni wzmocnić załogę w fabryce Sevelnord Hordain (północny wschód Francji).
