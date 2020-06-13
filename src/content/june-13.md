@@ -36,6 +36,14 @@ Grupa PSA (Peugeot Société Anonyme, wcześniej PSA Peugeot Citroën) to francu
 
 <img src="./img/june/Ein-Zwei-Millionen-Mark_755px.jpg"><br><br>
 
+---
+
+Facebook. The Inside Story by S. Levy.
+
+<img src="./img/june/facebook.jpg"><br><br>
+
+<img src="./img/june/facebook2.jpg"><br><br>
+
 ### 1992
 
 Pełną gotowość bojową osiągnęła założona 13 lipca 1990 roku jednostka GROM, czyli Grupa Reagowania Operacyjno - Manewrowego im.Cichociemnych Spadochroniarzy Armii Krajowej.

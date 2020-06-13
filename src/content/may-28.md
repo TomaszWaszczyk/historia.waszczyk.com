@@ -84,6 +84,22 @@ Zakończył się tzw. krwawy tydzień, podczas którego wojska wierne urzędują
 
 <img src="./img/may/upadekkomuny.jpg"><br><br>
 
+### 1642
+
+Miały miejsce we Wloszczowej objawienia maryjne.
+Maryja ukazała się w towarzystwie św. Józefa i św. Joachima.
+Matka Boska ukazała się w ubogim, niezamieszkanym domu leżącym przy rynku. Towarzyszyły temu liczne uzdrowienia.
+Zdarzenie zostało opisane i udokumentowane.
+Na podstawie świadectw ludzi, którzy doświadczyli łask i skrupulatnych studiów nad
+nimi, ówczesny Prymas Polski Maciej Łupieński wydał zgodę na wybudowanie w mieście kaplicy, do której w 1646 r. uroczyście
+wprowadzono obraz Matki Bożej
+Włoszczowskiej.
+Obraz przedstawiający Matkę Bożą
+Niepokalanie Poczętą z Dzieciątkiem na ręku, w otoczeniu św. Joachima i św. Józefa sprowadził z Krakowa ks. Jakub Chrostkiewicz kanonik kolegiaty kurzelowskiej. Dwa lata później włoszczowska kaplica została
+konsekrowana, a w jedną z jej ścian wmurowano tablicę upamiętniającą historię objawień.
+
+<img src="./img/may/wloszczowa.jpg"><br><br>
+
 ### 1349
 
 Doszło do wystąpień antyżydowskich we Wrocławiu i Świdnicy. Żydów posądzono o roznoszenie zarazy dżumy. Spalono w tych miastach dzielnice żydowskie , a ocalałych mieszkańców zmuszono do osiedlenia się poza murami miasta. Rok później doszło do pogromu w Złotym Stoku.

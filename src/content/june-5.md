@@ -183,6 +183,18 @@ twórcom okrągły rok.
 
 <img src="./img/june/raclawice.jpg"><br><br>
 
+### 1098
+
+I wyprawa krzyżowa: armia turecka pod wodzą Kurbughi rozpoczęła oblężenie Antiochii, w której jednocześnie krzyżowcy, po zdobyciu miasta 3 czerwca, oblegali bronioną przez Turków cytadelę.
+
+W nocy z 2 na 3 czerwca, w wyniku zdrady Ormianina Firuza, Boemundowi i kilkudziesięciu jego rycerzom udaje się wejść na mury i otworzyć bramy. Wcześniej, pozoruje on odejście od twierdzy, aby teraz wojsko po kryjomu wróciło i zaskoczyło Turków. Miasto zostaje zdobyte a Jaghi Sijan zabity, jednakże część Turków na czele z synem Jaghiego barykaduje się w cytadeli. Boemund bezowocnie próbuje ją zdobyć, w końcu wojownicy wolą wrócić do rabowania miasta. Pijani zwycięstwem mordują wszystkich Turków, także kobiety i dzieci. Teraz przed armią I Krucjaty stoi kolejny problem - w mieście zapasy jedzenia są mizerne, zaś już 7 czerwca Kurbugha dociera pod twierdzę i zaczyna oblężenie Antiochii. Ciekawy może być fakt, przypominający wydarzenia z bitwy pod Grunwaldem - Kurbugha wysyła oblężonym zardzewiały miecz, łuk i włócznię, kpiąc, że przy pomocy takich narzędzi chcą pokonać niezwyciężonych Turków. Po kilku nieudanych próbach szturmu Turcy postanawiają wziąć chrześcijan głodem. Teraz sytuacja krzyżowców jest dramatyczna - w pierścieniu między cytadelą a otaczającymi ich wojskami Kurbughi, bez żywności, bez nadziei na zwycięstwo. Dowódcy postanawiają prosić o pomoc cesarza, jednakże ten, spotykając Stefana z Blois i jego rycerzy, którzy uciekli tuż przed zdobyciem Antiochii, jest pewny, że krzyżowcy ponieśli klęskę, i wraca do Konstantynopola.
+
+I teraz szczęście nie opuszcza wojsk chrześcijańskich. Wieśniak Piotr Bartłomiej twierdzi, że miał widzenie, w którym św. Andrzej wieści im zwycięstwo, a także wskazuje miejsce ukrycia najświętszej relikwii - włóczni, która przebiła bok zmarłego Chrystusa. 14 czerwca, we wskazanym miejscu, czyli katedrze św. Piotra, Piotr Bartłomiej rzeczywiście znajduje zakopaną pod ziemią włócznię. Wydarzenie to pokrzepia krzyżowców. Boemund postanawia wykorzystać wysokie morale rycerstwa i 28 czerwca decyduje się na atak generalny na Kurbughę. Armię dzieli na 6 oddziałów, których dowódcami są: wspólnie Hugon z Vermandois i Robert z Flandrii, Gotfryd z Boulogne, Robert z Normandii, Ademar le Puy w zastępstwie ciężko chorego Rajmunda z Tuluzy, oraz Boemund i Tankred. Chrześcijanie atakują z pasją Turków, nie zważając na strzały czy nawet ogień. Nie wiadomo, jak potoczyłyby się losy I Wyprawy Krzyżowej, gdyby nie fakt, że wojska Kurbughi opuszcza wielu emirów tureckich, obawiających się wzrostu potęgi władcy Mosulu. Wojownicy Kurbughi na ten widok rzucają się do ucieczki, krzyżowcy zaś ruszają ich śladem, mordując wielu nieprzyjaciół. Dowódca cytadeli, widząc porażkę, poddaje się Boemundowi. Antiochia zostaje utrzymana.
+
+Po początkowych sporach o władzę, Antiochię przywłaszcza sobie Boemund, zakładając tym samym Księstwo Antiochii. Reszta wojsk krzyżowców, 3 stycznia 1099 uda się dalej, do Jerozolimy, celu krucjaty, Miasta Grobu Chrystusa.
+
+<img src="./img/june/armiaturecka.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
