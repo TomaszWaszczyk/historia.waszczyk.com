@@ -68,6 +68,19 @@ Prywatne inwestycje sa kluczowe, a tu masakra PiS:
 
 — polityka PiS = etatyzm, klientelizm, nacjonalizacja, panstwowe firmy “czebole” Twarz ze łzami radości
 
+### 1943
+
+W Krakowie, biskupi polscy obradujący podczas zwołanej przez kardynała Adama Sapiehę Konferencji Episkopatu Polski wystosowali memoriał skierowany do gubernatora generalnego Hansa Franka w sprawie "nieludzkiego traktowania Polaków wywożonych na przymusowe roboty do Niemiec". Osobną kwestią poruszoną w tym dokumencie był brak właściwej opieki religijnej.
+
+<img src="./img/june/biskupi.jpg"><br><br>
+
+### 1942
+
+Prawdopodobnie 8 czerwca 1942 roku w Warszawie zamordowany został Henryk Szaro (zdjęcie) znany scenarzysta, reżyser teatralny i filmowy, jeden z pionierów polskiej sztuki filmowej.
+W nocy z ósmego na dziewiąty czerwca 1942 roku został aresztowany razem ze swoim teściem w warszawskim mieszkaniu przy ulicy Pańskiej. Został zastrzelony na ulicy. Miał 42 lata.
+
+<img src="./img/june/szaro.jpg"><br><br>
+
 ### 1794
 
 Miała miejsce w czasie Insurekcji Kościuszkowskiej bitwa pod Chełmem.

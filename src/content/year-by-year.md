@@ -442,6 +442,8 @@ https://en.wikipedia.org/wiki/Protestant_work_ethic
 
 https://en.wikipedia.org/wiki/Gold_Standard_Act
 
+https://en.wikipedia.org/wiki/Human_zoo
+
 ### 1884
 
 https://en.wikipedia.org/wiki/Berlin_Conference
