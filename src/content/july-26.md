@@ -37,6 +37,10 @@ Pytań w stosunku do nowej Bazylei jest wiele. Wiele jest też zarzutów i kontr
 
 https://pl.wikipedia.org/wiki/Podatek_dochodowy_od_os%C3%B3b_fizycznych
 
+### 1948
+
+https://en.wikipedia.org/wiki/Executive_order
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>
