@@ -2874,6 +2874,12 @@ Rozumienie jest trudne, dlatego większość ludzi ocenia.
 
 Bismarck: "Ludzie nie powinni widzieć 2 rzeczy. Robienia kiełbasy i polityki"
 
+“Give so much time to the improvement of yourself that you have no time to criticize others.” Christian D. Larson
+
+Asking these people about Bitcoin is like asking a taxi driver what he thinks about Uber or a horse and buggy manufacturer what he thinks about cars. Their opinions are worth less than nothing.
+
+Mt 5, 33-37: "Niech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi."
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

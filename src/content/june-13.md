@@ -63,6 +63,18 @@ w którym udzielano pomocy. Zaraz podeszły do mnie jakieś kobiety w fartuchach
 
 <img src="./img/june/protesty.jpg"><br><br>
 
+### 1944
+
+Front zachodni: pod Villers-Bocage w Dolnej Normandii pojedynczy czołg Tiger dowodzony przez Michaela Wittmanna zniszczył w ciągu 20 minut 21 pojazdów (czołgów, transporterów opancerzonych i ciężarówek) należących do brytyjskiego 4. Pułku Pancernego County of London Yeomanry.
+
+12 czerwca 1944r słynna brytyjska 7 Dywizja Pancerna , od czasu swoich afrykańskich bojów nazywana “Szczury Pustyni”, ruszyła na południe by przechodząc przez lukę w niemieckiej obronie zająć francuskie miasteczko o dźwięcznej nazwie Villers- Bocage leżące nieopodal Caen. Następnego dnia w godzinach porannych wchodzący w jej skład 4 pancerny pułk County of London Yeomanry przejechał przez miasteczko i zatrzymał się na jego obrzeżu . Postanowiono wypić poranną cap of tee. Filiżankę herbaty pitą w całym Zjednoczonym Królestwie bez względu na czas i okoliczności. Cała 7 DP przywieziona do Europy po okresie walk w Afryce, znana była ze swojego specyficznie nonszalanckiego zachowania i znacznego braku dyscypliny. Zatrzymując się na postój nieopodal stanowisk armii niemieckiej, 4pp CLY nie tylko nie rozpoznał jej położenia, ale nie zastosował żadnych taktycznych zabezpieczeń chroniących go przed atakiem z zaskoczenia.
+
+W tym czasie na wzgórzu 213 nad drogą, którą podążał 4pp CLY odpoczywała część 2 kompanii (z SS Pz. Abt. 101) 101 batalionu czołgów dowodzonej przez SS-Obersturmführera Michaela Wittmanna łącznie 3 Tygrysy i Pantera. Wittman niezwłocznie wykorzystał przewagę swojego stanowiska i zaatakował odpoczywających Anglików. Jak zwykle zrobił to indywidualnie. Pierwszy atak trwał kilka minut. Wittman zniszczył w nim 6 średnich czołgów ,3 lekkie i 12 transporterów opancerzonych. W tym czasie z całej kolumny 4pp CLY odpowiedział mu ogniem czołg majora Arthura Carra dcy pułku i czołg adiutanta regimentu kapitana Pata Daysa. Obie maszyny typu Cromwell , zostały zaraz przez Wittmanna zniszczone. Po 2 godzinach , uzupełnieniu amunicji i wezwaniu pomocy pozostałych Tygrysów Wittman ponowił atak. W drugim ataku zniszczył 4 ciężkie czołgi, 12 średnich i 14 transporterów.Pod koniec ataku czołg Wittmana został trafiony z działa ppanc ,stracił gąsienicę i załoga czołgu musiała salwować się ucieczką , przeciw niemieckim czołgom wystąpili spieszeni pancerniacy z rozbitego 4pp CLY używając do walki groźnych Piatów kal. 57mm, którymi zniszczyli oba towarzyszące Wittmanowi Tygrysy. Po bitwie Michael Wittman otrzymał do swojego Krzyża Rycerskiego ( nr. 71)z Liśćmi dębu –Miecze, kolejny stopień odznaczenia.
+
+W raporcie w którym wystąpiono dla niego o awans na stopień SS- Hauptsturmführera podano, że na swoim koncie posiada obecnie ziszczone:138 czołgów i 136 transporterów opancerzonych. Był to niewątpliwie najlepszy rezultat II wojny światowej.
+
+<img src="./img/june/wittmann.jpg"><br><br>
+
 ### 1942
 
 Między godziną 15.00 a 17.00 z komanda pracującego poza obozem, przy wycinaniu wikliny nad Sołą, uciekło 3 Polaków. Byli to więźniowie: Marian Mykala (nr 1363), Zygmunt Piotrowski (nr 15303) oraz Franciszek Sykosz (nr 15402).

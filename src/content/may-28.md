@@ -108,4 +108,10 @@ Doszło do wystąpień antyżydowskich we Wrocławiu i Świdnicy. Żydów posąd
 
 ---
 
+Moment kapitulacji a w zasadzie przekazania kluczy do bram miasta generałowi Ambrosio Spinoli został uwieczniony przez jednego z najlepszych przedstawicieli malarstwa baroku Diego Velázquez.
+
+<img src="./img/may/spinoli.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-28.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
