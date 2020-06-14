@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1962
+
+https://pl.wikipedia.org/wiki/Sob%C3%B3r_watyka%C5%84ski_II
+
 ### 1944
 
 dr Ludwig Fischer, gubernator tzw. dystryktu warszawskiego, skierował do podległych sobie jednostek administracji telegram, dotyczący wydanego przez Hitlera tzw. Rozkazu nr 2. Oto fragment treści telegramu:

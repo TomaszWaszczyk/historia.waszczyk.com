@@ -595,6 +595,10 @@ https://pl.wikipedia.org/wiki/Johannes_Gutenberg
 
 https://pl.wikipedia.org/wiki/Unia_brzeska
 
+### 1545
+
+https://pl.wikipedia.org/wiki/Sob%C3%B3r_trydencki
+
 ### 1522
 
 <details><summary>Monetae cudendae ratio - Traktat o biciu monety i poglądy ekonomiczne Kopernika (kliknij aby rozwinąć)</summary>

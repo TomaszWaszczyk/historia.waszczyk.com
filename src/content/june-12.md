@@ -36,6 +36,13 @@ Poniższy tekst to fragment homilii papieża Jana Pawła II, wygłoszonej w Sand
 
 <img src="./img/june/jp22.jpg"><br><br>
 
+### 1987
+
+> "Każdy z Was, młodzi Przyjaciele, znajduje też w życiu jakieś swoje Westerplatte, jakiś wymiar zadań, które trzeba podjąć i wypełnić, jakąś słuszną sprawę, o którą nie można nie walczyć, jakiś obowiązek, powinność, od której nie można się uchylić, nie można zdezerterować. Wreszcie, jakiś porządek prawd i wartości, które trzeba utrzymać i obronić, tak jak to Westerplatte. Utrzymać i obronić, w sobie i wokół siebie, obronić dla siebie i dla innych".
+
+Ta myśl, będąca głębokim symbolem wskazuje na potrzebę odkrycia tego, CO jest tym Westerplatte dla każdego z nas. Następny krok to zajęcie zdecydowanej postawy obrony tego bezcennego przyczółka, obrony ze wszystkich sił.
+Każdy ma swoje Westerplatte, i Ty, i ja. Warto więc zapytać samego siebie: Czy już wiesz co jest Twoim Westerplatte, którego masz bronić? Jaka wartość w Twoim życiu zasługuje na to najbardziej? Czy ją znalazłeś i postawiłeś w hierarchii na naczelnym miejscu? Czy wiesz, że to zobowiązuje? Czy postanawiasz być jej wierny i niewzruszenie stawać w jej obronie? Czy i jak będzie to wyglądać w Twoim życiu? Jak będziesz żył z tą najświętszą wartością, z tym Bożym wezwaniem, Twoim powołaniem, które przyjąłeś? Jak będziesz realizował to, do czego Bóg Cię wzywa? Czy jesteś człowiekiem wsłuchanym w Jego głos? Czy chcesz usłyszeć i posłuchać, czyli być posłusznym?
+
 ### 1980
 
 Hasła niezmienne

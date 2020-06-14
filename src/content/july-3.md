@@ -5,8 +5,12 @@ image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
 date: 2018-07-03T10:00:00.000Z
 tags:
-  - Historia
+  - Polska
 ---
+
+### 1989
+
+https://pl.wikipedia.org/wiki/Wasz_prezydent,_nasz_premier
 
 ---
 

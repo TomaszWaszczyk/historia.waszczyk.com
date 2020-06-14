@@ -25,6 +25,10 @@ Na zdjęciu Maria Cetys.
 
 <img src="./img/september/cetys.jpg"><br><br>
 
+### 1920
+
+https://pl.wikipedia.org/wiki/Bitwa_nad_Niemnem
+
 ### 1655
 
 W czasie potopu szwedzkiego rozpoczęła się bitwa pod Nowym Dworem Mazowieckim.
