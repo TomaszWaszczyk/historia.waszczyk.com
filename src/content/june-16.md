@@ -1,12 +1,26 @@
 ---
 layout: post
 title: 16 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/defimarketcapio.png
 author: Tomasz Waszczyk
-date: 2018-06-16T10:00:00.000Z
+date: 2019-06-16T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Deutsche Bank
+draft: false
+---
+
+### 2020
+
+<img src="./img/june/defimarketcapio.png"><br><br>
+
+---
+
+<img src="./img/june/dblowinterest.jpeg"><br><br>
+
+---
+
+<img src="./img/june/pzpr2020.jpg"><br><br>
+
 ---
 
 ### 1944
