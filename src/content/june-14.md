@@ -27,6 +27,10 @@ The catalyst, of course, is the virus. Germany faces a deep recession: manufactu
 
 ---
 
+<img src="./img/june/rozsadek.jpg"><br><br>
+
+---
+
 ### Return of inflation
 
 Deutsche Bank Macro Strategist Oliver Harvey predicts that the combination of unprecedented government stimulus packages, retreating globalisation, the increase in bargaining power of certain sectors of the labour market as well as the need to reduce large debt burdens will bring about the return of inflation.

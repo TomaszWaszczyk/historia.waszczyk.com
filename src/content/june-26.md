@@ -1,15 +1,17 @@
 ---
 layout: post
 title: 26 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/
 author: Tomasz Waszczyk
-date: 2018-06-26T10:00:00.000Z
+date: 2019-06-26T10:00:00.000Z
 tags:
   - 
-draft: true
+draft: false
 ---
 
-### 
+### 1953
+
+https://en.wikipedia.org/wiki/Lavrentiy_Beria
 
 ---
 

@@ -64,6 +64,10 @@ draft: false
 
 * Bajki Kwantowe: Seria 1 – Kamil Hajduk
 
+* https://altenberg.pl/superniania/
+
+* https://lingumi.com/
+
 * Baby Loves Quantum Physics! (Baby Loves Science) by Ruth Spiro (Author), Irene Chan (Illustrator)
 
 * https://www.rigb.org/families

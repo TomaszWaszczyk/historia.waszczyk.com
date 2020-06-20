@@ -32,6 +32,12 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
 
+### 2020
+
+<img src="./img/art/loading.png"><br><br>
+
+---
+
 ### The Cantillon Effect at the time of the King of France Louis XV
 
 <img src="./img/art/cantillion.jpg"><br><br>

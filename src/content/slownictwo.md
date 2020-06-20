@@ -793,6 +793,8 @@ deus ex machina:
 1 : a god introduced by means of a crane (see crane entry 1 sense 3a) in ancient Greek and Roman drama to decide the final outcome
 2 : a person or thing (as in fiction or drama) that appears or is introduced suddenly and unexpectedly and provides a contrived solution to an apparently insoluble difficulty
 
+heads-up - informacyjnie, uwaga na głowy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
