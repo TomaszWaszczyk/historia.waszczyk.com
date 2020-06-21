@@ -34,6 +34,27 @@ W Londynie miało miejsce spotkanie Naczelnego Wodza generała Władysława Siko
 
 <img src="./img/june/londynsikorski.jpg"><br><br>
 
+### 1920
+
+Swoją działalność rozpoczęła Warszawska Spółka Akcyjna Budowy Parowozów.
+Założona ona została przez dwa lwowskie banki -Ziemski Bank Kredytowy i Polski Bank Przemysłowy. Powstanie tej spółki zrodziła również potrzeba wypełnienia warunków umowy z polskim rządem według której w ciągu 10 lat miało powstać 350 parowozów,a około 500 miało zostać poddanych remontowi.
+Fabryka zajmująca 28 500 metrów kwadratowych powierzchni powstała w Warszawie w kwadracie ulic Karolkowej i Kolejowej.
+Z braku własnych konstrukcji, fabryka
+współpracowała początkowo z austriacką firmą Wienner Neustadt (dawniej G. Sigl) z Wiednia . Początkowo w fabryce montowano
+z austriackich części parowozy serii 270, oznaczonej w Polsce jako Tr12. Pierwszy parowóz wyprodukowany w całości w kraju zjechał z lini montażowej w marcu 1924 roku.
+W czasie drugiej wojny światowej zakład ten na potrzeby własnej kolei przejęli Niemcy.Po wojnie budynki Warszawskiej Spółki Akcyjnej Budowy Parowozów zniszczone podczas powstania warszawskiego odbudowano,ale profil produkcyjny fabryki przestawiono na budowę koparek i maszyn budowlanych znanych pod marką "Waryński"
+
+<img src="./img/june/parowozy.jpg"><br><br>
+
+### 1831
+
+Podczas powstania listopadowego miała miejsce bitwa pod Ponarami na Wileńszczyźnie.
+Polski korpus dowodzony przez generała Antoniego Giełguda oraz generała Dezyderego Chłapowskiego (grafika) przypuścił atak na Wilno bronione przez wojska rosyjskie pod dowództwem generała brygady Fabiana von der Osten-Sackena.
+Licząca 25 tysięcy żołnierzy armia carska skutecznie stawiła czoło Polakom, którzy stracili 2 tysiące ludzi. Straty rosyjskie wyniosły około 400 osób.
+Jedną z głównych przyczyn polskiej porażki była zła koordynacja działań. Doprowadziło to do wewnętrzego konfliktu w szeregach polskich, w wyniku którego, oskarżony o nieudolne dowodzenie generał Giełgud zginął zastrzelony 13 lipca 1831 roku przez oficera 7. Pułku Piechoty kapitana Stefana Skulskiego.
+
+<img src="./img/june/chlapowski.jpg"><br><br>
+
 ### 1791
 
 Powołano pierwszego w historii Polski ministra spraw zagranicznych. Został nim Joachim Litawor Chreptowicz ( na zdjęciu). Pełna nazwa sprawowanego przez niego urzędu brzmiała Minister Spraw Zagranicznych Rzeczpospolitej Obojga Narodów.

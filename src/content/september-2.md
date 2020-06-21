@@ -68,6 +68,10 @@ Jedyne znane zdjęcie dokumentujące sowiecki nalot na Warszawę – rozbity bom
 
 <a href="https://pl.wikipedia.org/wiki/Zrzeszenie_Wolno%C5%9B%C4%87_i_Niezawis%C5%82o%C5%9B%C4%87" target="_blank">Zrzeszenie Wolność i Niezawisłość</a>
 
+### 1839
+
+https://en.wikipedia.org/wiki/Henry_George
+
 ## 1655
 
 W czasie potopu szwedzkiego miała miejsce przegrana przez Polaków bitwa pod Sobotą (województwo łódzkie). Szwedzi,którymi dowodził sam król Karol X Gustaw (grafika) już od 31 sierpnia szli na Warszawę,zatrzymując się dzień pózniej w okolicach Kutna. 25 tysięczna armia szwedzka została tu poinformowa,że w znajdującym się 20 km dalej Piątku znajdują się polskie oddziały. Król szwedzki chcąc wykorzystać okazję ruszył do ataku 2 września. Żeby jednak tego dokonać należało się przeprawić przez rzekę Bzurę właśnie w okolicach Soboty. Ten manewr,który miał na celu podejście Polaków od tyłu skutecznie przez pewien czas spowalniała armia konna Aleksandra Koniecpolskiego,która nacierała na przednią straż szwedzką. Zatrzymanie Szwedów nie było jednak tak proste i prób tego dokonywano jeszcze kilkrotnie przy czym za każdym razem z gorszym efektem. Przewaga Szwedów wzrosła jeszcze dodatkowo po tym,jak przybyły im z pomocą kolejne oddziały,co zmusiło Koniecpolskiego do wycofania się.
