@@ -47,6 +47,10 @@ Na zdjęciu scena z Dziadów w inscenizacji Stanisława Wyspiańskiego.
 
 <img src="./img/october/dziady.jpg"/><br><br>
 
+### 1885
+
+https://pl.wikipedia.org/wiki/Karol_Radek
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-31.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -8,6 +8,12 @@ tags:
   - Historia
 ---
 
+### 1967
+
+Poranek po tym, jak Szwecja zmieniła się z jazdy po lewej stronie na jazdę po prawej.
+
+<img src="./img/september/prawoszwecja.jpg"><br><br>
+
 ### 1948
 
 W Wieprzu odnaleziono zwłoki 58 letniego księdza Jana Szczepańskiego (zdjęcie) proboszcza parafii Brzeźnica Bychawska w dekanacie lubartowskim.

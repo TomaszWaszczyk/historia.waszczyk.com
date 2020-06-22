@@ -12,6 +12,8 @@ https://www.aan.gov.pl/
 
 https://omeka.aynrandarchives.org/exhibits/show/letters-of-ayn-rand
 
+http://praxeology.net/FB-PJP-DOI.htm
+
 https://adst.org/
 
 https://13grudnia81.pl/

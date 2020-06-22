@@ -16,6 +16,16 @@ Tymczasem spadkobiercy Hohenzollernów nie kryją, że zamierzają nieco podretu
 
 Nie wiadomo, czy miał na myśli księcia Augusta Wilhelma, syna cesarza, który już w 1930 roku został członkiem SA. Znany jako Prinz Auwi występował na wiecach, spotkaniach i w knajpach nazistowskich, wygłaszając przemówienia, których wartość propagandowa była trudna do przecenienia. Nie był zresztą jedynym Hohenzollernem po stronie Hitlera.
 
+---
+
+Filmy, które będą wkrótce zakazane? Lista jest długa
+20 czerwca 2020, Najwyższy Czas
+„Przeminęło z wiatrem”, kultowy film został tymczasowo usunięty z katalogu HBO Max i oskarżony o „rasistowskie uprzedzenia”. „Variety” sporządził dodatkowo listę „dziesięciu problematycznych filmów”. Są na niej m.in. „Forrest Gump”, „Indiana Jones”, czy „Milczenie owiec”.
+„Archiwa Hollywoodu są pełne filmów, w których można znaleźć przestarzałe przedstawienia rasy, seksualności i niepełnosprawności”. Autor: „nie chodzi o zakazanie ich dystrybucji”, ale o krytyczną ocenę.
+Autor propozycji, Tim Gray uważa np. „Forresta Gumpa” za film „wrogo nastawiony do weteranów Wietnamu, pacjentów chorych na AIDS, osób niepełnosprawnych i działaczy politycznych”. „Indiana Jones i zagubiona świątynia” drwi z Hindusów. Westerny obrażają tubylczych Indian, itd., itp.
+Dostaje się nawet „Pewnego razi w Hollywood” Tarantino, za „idealizację epoki”, która odrzucała „emancypację kobiet, mniejszości i hipisów”. Poprawność polityczna staje się cenzurą …
+Swoją drogą tylko czekać aż jakiś idiota sporządzi podobną listę polskich filmów. Z pewnością będzie „Seksmisja”, „W pustyni i w puszczy”, czy „Vabank”, za słynne „Czy zastałem tego pana Murzyna z psem”
+
 ### 2009
 
 Wyemitowano srebrną monetę kolekcjonerską Czesław Niemen o nominale 10 zł. Była pierwszą monetą z serii Historia polskiej muzyki rozrywkowej, poświęconą postaci Czesława Niemena. Moneta jest klipą o kształcie kwadratowym.
