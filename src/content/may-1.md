@@ -38,6 +38,12 @@ W dniach 7-8 czerwca 2003 roku odbyło się w Polsce ogólnonarodowe referendum,
 
 Piśmiennictwo: Oficjalna strona Prezydenta RP.
 
+---
+
+https://de.wikipedia.org/wiki/Erster_Mai
+
+---
+
 ### 1991
 
 https://en.wikipedia.org/wiki/Centesimus_annus

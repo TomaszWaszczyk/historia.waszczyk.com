@@ -68,6 +68,8 @@ draft: false
 
 * https://lingumi.com/
 
+* Dzieje Polski opowiedziane dla młodzieży, Feliks Koneczny
+
 * Baby Loves Quantum Physics! (Baby Loves Science) by Ruth Spiro (Author), Irene Chan (Illustrator)
 
 * https://www.rigb.org/families

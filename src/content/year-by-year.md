@@ -422,6 +422,8 @@ https://pl.wikipedia.org/wiki/Pandemia_grypy_w_latach_1918%E2%80%931919
 
 Gdyby nie wybuchła I Wojna Światowa, to Polska w roku 1918 na pewno nie odzyskałaby niepodległości. Gdyby dwaj najważniejsi gwaranci naszego rozczłonkowania państwowego i naszego zniewolenia narodowego nie skoczyli sobie do gardeł w morderczym boju Polska nie odzyskałaby niepodległości – podkreśla w specjalnym komentarzu z okazji 100. rocznicy odzyskania przez Polskę niepodległości Jerzy Wolak
 
+https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie
+
 ### 1917
 
 Rewolucja bolszewicka: https://pl.wikipedia.org/wiki/Rewolucja_pa%C5%BAdziernikowa
