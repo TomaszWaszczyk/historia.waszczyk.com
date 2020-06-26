@@ -2880,6 +2880,8 @@ Asking these people about Bitcoin is like asking a taxi driver what he thinks ab
 
 Mt 5, 33-37: "Niech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi."
 
+Mniej czytać nuty, więcej słuchać muzyki.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

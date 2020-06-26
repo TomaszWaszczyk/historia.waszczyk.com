@@ -12,6 +12,17 @@ tags:
 
 https://pl.wikipedia.org/wiki/Humanae_vitae
 
+### 1949
+
+Fragment wspomnień jednego z tajnych współpracowników Urzędu Bezpieczeństwa Publicznego:
+
+"Idąc do UB, nie spodziewałem się uznania kolegów z lasu. Ale obiecano mi, (...), że nie będę musiał walczyć z dawnymi kolegami z lasu. Mam czyste sumienie. Żaden z moich przyjaciół nie ucierpiał przeze mnie. (...) Pod żadnym ze skazanych nie znajdzie pan mojego nazwiska. Ci ludzie szli na szubienicę bez mojej pomocy.
+(...) Rozmowa była grzeczna. Propozycja złożona kulturalnie. Po prostu zwykła rozmowa dwóch dżentelmenów. Wędrujący dał oficerskie słowo, że nie będę musiał pracować przeciwko dawnym kolegom. (...) Nie bito mnie, do niczego nie zmuszano. Otrzymałem propozycję. Dobrowolnie ją przyjąłem. Wciągało mnie ryzyko. Ciągnęła przygoda. Marzyło mi się interesujące życie".
+
+Na zdjęciu funkcjonariusze UB po udanej akcji likwidacji oddziału "Wiarusy" ("Znicz") 25 lipca 1949 roku, osiedle Surówki koło Rabki. Po lewej stronie komunistyczna grupa odgrywająca partyzantów.
+
+<img src="./img/june/wiarusy.jpg"><br><br>
+
 ### 1941
 
 Pogromy lwowskie w 1941 to dwa pogromy ludności żydowskiej Lwowa, jakie miały miejsce latem 1941 r., po ataku Niemiec na ZSRR i rozpoczęciu okupacji miasta przez III Rzeszę.

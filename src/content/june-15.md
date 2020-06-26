@@ -24,6 +24,16 @@ Your browser does not support the video tag.
 
 https://pl.wikipedia.org/wiki/Instrukcja_UOP_nr_0015/92
 
+### 1940
+
+Pierwsi polscy więźniowie osadzeni w dniu poprzednim w KL Auschwitz zostali poddani tzw. kwarantannie. Miała ona na celu sterroryzowanie ich oraz doprowadzanie do psychicznego i fizycznego załamania. Codziennie po apelu porannym wypędzano ich na cały dzień na podwórze. Tam w tumanach kurzy na komendę esesmanów i kapów musieli ćwiczyć "padnij", "powstań", "skacz żabkę", "czołgaj się" itp. Nazywano to "sportem". W przerwach między ćwiczeniami uczono więźniów niemieckich piosenek marszowych, form meldowani i odmeldowania się, sposobu nakładania i zdejmowania czapek na komendę. Towarzyszyło temu bestialskie bicie i maltretowanie więźniów przez esesmanów oraz niemieckich kapów.
+
+Źródło: Kalendarium Muzeum Auschwitz
+Rysunek: praca więźnia KL Auschwitz Tadeusza Myszkowskiego. Jest to karykatura przedstawiająca oznaczonego w obozie numerem 99 Jana Kowalskiego. Obaj więźniowie pochodzili z Zakopanego i byli ze sobą spokrewnieni. Kowalski, zwany w obozie „Dziadkiem”, został aresztowany za wystawianie w lokalu Empire w Zakopanem w 1939 r. karykatur politycznych autorstwa m.in. Myszkowskiego przedstawiających Hitlera i Mussoliniego.
+Właśnie za wykonywanie karykatur Tadeusz Myszkowski został aresztowany i osadzony w obozie Auschwitz. Był on jednym z więźniów przywiezionych do obozu pierwszym transportem polskich więźniów politycznych 14 czerwca 1940 r. Otrzymał numer 593. Źródłem rysunku jest strona internetowa Muzeum Auschwitz.
+
+<img src="./img/june/kwarantanna.jpg"><br><br>
+
 ### 1863
 
 W czasie powstania styczniowego miała miejsce bitwa pod Lututowem. Nie było to niestety zwycięskie dla powstańców starcie z wojskami rosyjskimi.

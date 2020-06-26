@@ -109,6 +109,17 @@ Do dziś nie odnaleziono żadnych planów architektonicznych tej budowli.
 
 ---
 
+### 1939
+
+Sąd polski skazazał na 15 lat więzienia i 200 tysięcy złotych grzywny asa wywiadu majora Jerzego Sosnowskiego (zdjęcie) w latach 1926-1934 kierownika placówki wywiadowczej w Berlinie o kryptonimie IN-3.
+Sosnowskiemu zarzucono, że we wspomnianym okresie współpracował z kontrwywiadem niemieckim, co miało zagrażać interesom Państwa Polskiego, oraz że celowo wprowadzał w błąd wywiad polski, podając fałszywe informacje preparowane przez Niemców.
+W rzeczywistości, zorganizowana przez niego berlińska placówka, najwyższe dowództwo niemieckie , dostarczyła dowodów na nierespektowanie przez Republikę Weimarską postanowień traktatu wersalskiego , która we współpracy z ZSRR od lat 20. XX w. prowadziła wysokobudżetowy program intensywnego rozwoju ofensywnych broni: lotniczych, pancernych i chemicznych, niedozwolonych szkoleń kadry oficerskiej i wspólnych manewrów wojskowych.
+Nie są jasne dalsze losy majora Sosnowskiego. Prawdopodobnie spędził on w więzieniu tylko 3 miesiące. Jedna z wersji mówi, że został on zastrzelony na polecenie Służb Więziennych 17 września 1939 roku przez konwojentów podczas ewakuacji więzienia. Chodziło mianowicie o to, że w razie wybuchu wojny należało zlikwidować wszystkich więźniów, których istnienie mogłoby zagrażać państwu polskiemu.
+
+<img src="./img/may/sosnkowski2.jpg"><br><br>
+
+---
+
 ### 1918
 
 W Paryżu zmarł Bronisław Piłsudski - brat Józefa Piłsudskiego, lingwista, etnograf, zajmujący się ludami i kulturami Dalekiego Wschodu, głównie ludem Ajnów, który obserwował na Sachalinie a później na wyspie Hokkaido. Do dziś Piłsudski uważany jest na świecie za jednego z najważniejszych badaczy tamtych terenów.

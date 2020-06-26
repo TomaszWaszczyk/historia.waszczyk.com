@@ -175,8 +175,9 @@ Your browser does not support the video tag.
 
 * The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
 
-<img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
+* محمدعبد THE MUQADDIMAHAbd Ar Rahman bin Muhammed ibn Khaldun Translated by Franz Rosenthal
 
+<img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 <video width="640" height="50" controls>
   <source src="./img/wychowanie-mlodego-czlowieka/Jak-klasa-społeczna-wpływa-na-styl-wychowawczy.mp3" type="video/mp4">

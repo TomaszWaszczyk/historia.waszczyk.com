@@ -35,6 +35,50 @@ No i wciąż nie wiemy co do nas może przyjść z zewnątrz. Obecne hamowanie g
 
 Na koniec powtórzę zatem to, co napisałem przy okazji publikacji wstępnych danych o PKB w roku 2019. Może nas czekać hamowanie gospodarki przy jednoczesnym wzrośnie inflacji. A to nie jest dobry scenariusz…..
 
+### 2016
+
+<img src="./img/march/seatalteaxl.jpg"><br><br>
+
+<!-- 
+
+Seat Altea samochód samochod auto
+
+Do zobaczenia, obserwować:
+- klimatyzacja
+- czujnik parkowania, biegu wstecznego
+- prawy kierunkowskaz
+- płyn do spryskiwaczy
+- płyn hamulcowy
+- 2 x zimówki
+- Rozrząd wymieniać co 5 lat 
+
+Ubezpieczenie:
+536 422 236 - babka z którą podpisywałem ubezpieczenie 
+
+We dwie osoby kupować samochód
+
+Na zimny silnik
+Umyty
+Spasowanie elementów, luki między drzwiami itp.
+Otwieranie się drzwi
+Progi,
+Sufit
+Zawiasy, elementy 
+Szyby
+Klapa, newralgiczne punkty
+Otworzyc i znaleźć koło
+Elementy przy uszczelkach, białe placki, ryski, elementy łączące, resztki po wypolerowaniu
+
+Silnik (na zimno): znaczki, nity, śruby, pasek rozrządu, połączenia elementów, lepiej żeby był lekko ubrudzony, zbiornik wyrównawczy
+
+wszystko sprawdzić
+
+Parametry pracy silnika - 
+
+Kosztował 7k Euro - 4.1371 - cena euro samochodu
+
+-->
+
 ### 1948
 
 Przed Rejonowym Sądem Wojskowym w Warszawie rozpoczął się proces rotmistrza Witolda Pileckiego i jego towarzyszy: Marii Szelągowskiej, Tadeusza Płużańskiego, Szymona Jamontta-Krzywickiego, Maksymiliana Kauckiego, Jerzego Nowakowskiego, Witolda Różyckiego i Makarego Sieradzkiego. Rotmistrz Pilecki został oskarżony o nielegalne przekroczenie granicy, posługiwanie się fałszywymi dokumentami, brak rejestracji w Rejonowej Komendzie Uzupełnień, nielegalne posiadanie broni palnej, prowadzenie działalności szpiegowskiej na rzecz generała Władysława Andersa oraz przygotowywanie zamachu na grupę dygnitarzy Ministerstwa Bezpieczeństwa Publicznego.

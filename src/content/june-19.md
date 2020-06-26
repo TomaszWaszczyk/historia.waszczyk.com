@@ -9,6 +9,34 @@ tags:
 draft: false
 ---
 
+### 1955
+
+Na Górze Świętej Anny odsłonięto Pomnik Czynu Powstańczego.
+Pierwotnie w miejsu tym znajdował się niemiecki kamieniołom o nazwie Kuthal,z którego wydobywano wapienie.
+W 1934 r. właścicielka tego terenu, hrabina
+von Francken-Sierstorpff z Żyrowej ,
+przekazała dawny kamieniołom NSDAP
+(według innej wersji, nie będąc
+zwolenniczką nazizmu, została do tego
+zmuszona) .
+Nowe niemieckie władze postanowiły uczcić pamięć Niemców poległych w 1921 roku ,więc rozpoczęły przebudowę kamieniołomu na amfiteatr. Nad amfiteatrem wybudowano mauzoleum ku czci 50 Niemców poległych w bitwie o Górę Świętej Anny. Wkrótce później okazało się, że ciężar mauzoleum wybudowanego na skraju kamieniołomu powoduje osuwanie się skał. Pękające
+skały groziły, że pewnego dnia runie w dół, więc już w 1942 r. poproszono geologa Assmanna z Berlina o zaprojektowanie prac ratunkowych.
+W dole amfiteatru wybudowano niewielką
+estradę oraz postument flagowy, a w celu właściwego odwodnienia w ziemi powstał labirynt tuneli, w których mieszkają dzisiaj nietoperze. Dodatkowo wybudowano również trzy drewniane baraki z toaletami.
+Ich resztki przetrwały do czasów
+współczesnych. Architekci Franz Böhmer i Georg Petrich zaprojektowali drewniane
+dwupiętrowe schronisko młodzieżowe ze
+172 miejscami noclegowymi, otwarte 17
+października 1937 r. przez przywódcę
+Hitlerjugend Baldura von Schiracha . Po
+wojnie służyło jako harcówka i dom
+wypoczynkowy, uległo spaleniu ok. 2000
+roku. Obok schroniska powstały też miejsca na obozowiska dla młodzieży.
+Po 1945 roku tym razem już władze polskie postanowiły wybudować w tym miejscu nowy pomnik. Tym razem upamiętniający jednak polskich powstańców. W drodze konkursu wybrano projekt Ksawerego Dunikowskiego.
+Po licznych perturbacjach polityczno- ideologiczno-ekonomicznych nowy pomnik został odsłonięty dopiero po dziesięciu latach od rozpoczęcia jego budowy.
+
+<img src="./img/june/czynpowstanczy.jpg"><br><br>
+
 ### 1943
 
 Po czteromiesięcznych torturach na Pawiaku i w siedzibie Gestapo na Szucha został zamordowany przez Niemców profesor doktor Jan Piekałkiewicz - ekonomista, członek Międzynarodowego Instytutu Statystycznego, działacz ruchu ludowego (od 1926 w PSL "Piast"); w czasie II wojny światowej w SL ,,Roch'', członek CKRL; od 1941 zastępca, a w sezonie 1942/43 Delegat Rządu na Kraj;odpowiedzialny za zatwierdzenie powołania Rady Pomocy Żydom „Żegota”. Pośmiertnie odznaczony Krzyżem Niepodległości Polski Podziemnej z Mieczami oraz Orderem Orła Białego.

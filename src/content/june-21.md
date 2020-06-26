@@ -33,6 +33,16 @@ Przykładami zastosowania tej tezy w rzeczywistości są Pałac Kultury i Nauki 
 
 <img src="./img/june/socrealizm.jpg"><br><br>
 
+### 1945
+
+O godzinie 4.30, zapadł w Moskwie wyrok w procesie pokazowym 16 Polaków, przywódców Polskiego Państwa Podziemnego.
+
+Pokazowy proces toczył się przez cztery dni przed Kolegium Wojskowym Sądu Najwyższego w Moskwie.
+Akt oskarżenia objął: Delegata Rządu na Kraj Jana Stanisława Jankowskiego, Komendanta Sił Zbrojnych na Kraj generała Leopolda Okulickiego, ministrów Krajowej Rady Ministrów: Adama Bienia, Antoniego Pajdaka i Stanisława Jasiukowicza, przewodniczącego Rady Jedności Narodowej Kazimierza Pużaka, a także przywódców stronnictw politycznych: Stronnictwa Ludowego - Kazimierza Bagińskiego i Stanisława Mierzwę, Stronnictwa Narodowego - Zbigniewa Stypułkowskiego i Kazimierza Kobylańskiego, Stronnictwa Pracy - Józefa Chacińskiego i Franciszka Urbańskiego, Stronnictwa Demokratycznego - Eugeniusza Czarnowskiego i Stanisława Michałowskiego oraz tłumacza Józefa Stempler Dąbskiego i Aleksandra Zwierzyńskiego.
+13 oskarżonych skazano na kary więzienia, trwające od 10 lat do 4 miesięcy, trzech uniewinniono. Brytyjski ambasador w Moskwie, pozytywnie ocenił proces, ponieważ nikogo nie skazano na śmierć. Generał Leopold Okulicki, Jan Stanisław Jankowski oraz Stanisław Jasiukowicz umarli w radzieckich więzieniach. Ci, którzy przeżyli, wrócili do Polski Ludowej, lecz wielu z nich zostało ponownie uwięzionych i terroryzowanych przez polskich komunistów.
+
+<img src="./img/june/pokazowo.jpg"><br><br>
+
 ### 1943
 
 Odszyfrowana tajna depesza z 21 czerwca 1943 roku. Na dole odręczne wyjaśnienie Nowaka-Jeziorańskiego:
@@ -63,6 +73,18 @@ W Warszawie urodził się Kazimierz Leski ps. ,,Bradl'' - inżynier, konstruktor
 Niektóre odznaczenia: Order Wojenny Srebrnego Krzyża Virtuti Militari, Krzyż Walecznych (trzykrotnie), Złoty Krzyż Zasługi, Srebrny Krzyż Zasługi z Mieczami
 
 <img src="./img/june/bradl.jpg"><br><br>
+
+### 1768
+
+Miała miejsce tzw. rzeź humańska czyli zbrojne powstanie kozacko-chłopskie na Ukrainie o charakterze antypolskim, antyżydowskim i antykatolickim.
+Rzeź pod przywództwem Maksyma Żeleźniaka i Iwana Gonty zaczęła się od mszy z udziałem Kozaków w Klasztorze Motroninskim, w dzisiejszej wsi Mielniki , w rejonie czehryńskim.
+Jeden z mnichów poświęcił noże, które
+zbrodniarze rozdzielili między siebie, aby"rżnąć wrogów Ukrainy”. Iwan Gonta był wcześniej setnikiem kozackim w służbie Franciszka Salezego Potockiego, który został wysłany, by bronić Humania przed nadciągającym chłopstwem, jednak zdradził i przyłączył się do morderców.
+Po kilkunastogodzinnym szturmie miasto padło. Ludność schroniła się w kościołach, synagodze i ratuszu. Księża katoliccy rozdawali komunię. Rozpoczęła się rzeź. W samej tylko synagodze zamordowano około trzech tysięcy Żydów, obcinano im ręce i uszy. Kolejnymi ofiarami byli księża katoliccy, zakonnicy uniccy i zwykli mieszkańcy. Żeleźniak kazał powiesić na kościelnej wieży "Lacha, Żyda i psa – bo ich wiara jednakowa”.
+Gonta ogłosił się „księciem humańskim”.
+Tylko tego dnia zamordowano 20 tysięcy Polaków i Żydów. Bunt ten został stłumiony dopiero po kilku miesiacach. Szacunkowa liczba wszystkich jego ofiar wynosi około 200 tysięcy.
+
+<img src="./img/june/humanska.jpg"><br><br>
 
 ---
 

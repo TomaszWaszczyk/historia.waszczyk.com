@@ -25,6 +25,13 @@ Foto: Grób Anny Zawadzkiej na Starych Powązkach.
 
 <img src="./img/june/zawadzka.jpg"><br><br>
 
+### 1982
+
+Funkcjonariusze katowickiej Służby Bezpieczeństwa zlikwidowali w Chorzowie 5 -osobową grupę uczniów Policealnego Studium Zawodowego Górnictwa Węglowego, która zajmowała się kolportażem solidarnościowych ulotek.
+Na zdjęciu jedna z ulotek z okresu stanu wojennego.
+
+<img src="./img/june/ulotka.jpg"><br><br>
+
 ### 1944
 
 Armia Czerwona rozpoczęła operację "Bagration", która doprowadziła do całkowitej klęski niemieckiej Grupy Armii „Środek” oraz osiągnięcia przez sowietów linii Wisły.
@@ -75,11 +82,11 @@ Obecnie w Muzeum Adama Mickiewicza znajdują się 152 uratowane lub odrestaurowa
 
 ### 1921
 
-Rada Ligi Narodów przyznała polskim okrętom wojennym prawo pobytu w porcie gdańskim oraz zezwoliła Polsce na założenie naWesterplatte wojskowej składnicy tranzytowej.
+Rada Ligi Narodów przyznała polskim okrętom wojennym prawo pobytu w porcie gdańskim oraz zezwoliła Polsce na założenie na Westerplatte wojskowej składnicy tranzytowej.
 
 Do gdańskiego portu przybijały wtedy okręty z materiałami wojennymi dla polskiej armii. Dostawy miały zostać objęte całkowitą tajemnicą, ujawnienie wartości ich składów mogło bowiem skompromitować stronę polską na arenie międzynarodowej. Dokonać tego mogły osoby, „które zaczęły wścibiać swój nos tam, gdzie nie potrzeba, a przy powszechnym plotkarstwie polskim mogły poważnie zaszkodzić utajnionym dostawom alianckim”. Ponadto ogłoszenie przez Niemców stanowiska o neutralności ich kraju w wojnie polsko-bolszewickiej wykluczało jakąkolwiek inną niż morska drogę transportu pomocy militarnej z Francji. Przy okazji dawało to przyzwolenie pracownikom portu, Niemcom z pochodzenia, na odmawianie pracy przy rozładunku jednostek z dostawami. To z kolei groziło przestojem w dopływie uzbrojenia dla polskiej armii. Długo nie udało się utrzymać tajemnicy, czego skutkiem był sprzeciw dokerów, którzy zorganizowali strajki w porcie. Jeden z nich przypadł na okres od 15 lipca do 24 sierpnia 1920 roku, kiedy to nierozładowany okręt odpłynął z Gdańska. W innych przypadkach, kiedy dokerzy odmówili pracy, rozładunkiem zajmowali się żołnierze alianccy stacjonujący w Gdańsku i strzegący tam porządku. Dopiero we wrześniu 1920 roku, a więc po udanej obronie Warszawy i polskiej kontrofensywie, praca rozładunkowa w porcie gdańskim wróciła do normy.
 
-Niekorzystną sytuację „portową” dla Polski wykorzystał jej rząd, który uzyskał od Reginalda Towera14(Wysokiego Komisarza Ligi Narodów) i generała Richarda Hackinga (dowódcy wojsk sprzymierzonych przebywających w Gdańsku) zgodę na skierowanie do miasta własnego oddziału w celu ochrony transportów broni przeznaczonych dla polskiej armii. 
+Niekorzystną sytuację „portową” dla Polski wykorzystał jej rząd, który uzyskał od Reginalda Towera14(Wysokiego Komisarza Ligi Narodów) i generała Richarda Hackinga (dowódcy wojsk sprzymierzonych przebywających w Gdańsku) zgodę na skierowanie do miasta własnego oddziału w celu ochrony transportów broni przeznaczonych dla polskiej armii.
 
 Sześćdziesięcioosobowy oddział przybyły we wrześniu 1920 roku zajął poniemieckie koszary w Nowym Porcie. Sprzeciwił się temu Senat, który złożył protest na ręce Wysokiego Komisarza Ligi Narodów, ale ten po rozpatrzeniu sporu zadecydował o pozostawaniu polskiego oddziału w Gdańsku, z zastrzeżeniem, iż żołnierze mieli pełnić wartę bez broni. Na to, w sposób naturalny, nie zgodziła się strona polska, argumentując, że z opuszczeniem miasta przez okupacyjne wojska brytyjskie i francuskie istniała potrzeba realnej ochrony polskich składów. W wyniku braku kompromisu sprawę skierowano do Rady Ligi Narodów, która powołała specjalną komisję. W międzyczasie Szymon Askenazy – polski przedstawiciel przy Lidze Narodów – zaproponował, aby wydzielono Polsce na terenie Gdańska specjalne miejsce służące do rozładunku towarów wojskowych. Przychylne Warszawie postanowienia komisji ogłoszono 22 czerwca 1921 roku. Stanowiły one, że Rzeczypospolitej należy się wydzielony teren na obszarze Gdańska, w którym składować można byłoby materiały wojenne, a ochroną trudnić się miał niewielki oddział wartowniczy. Nie sprecyzowano jednak, gdzie to miejsce powinno się znajdować, ani nie ustalono liczby polskich żołnierzy mogących przebywać w Gdańsku. Wobec braku konkretów transporty nadal rozładowywano i przechowywano w porcie.
 

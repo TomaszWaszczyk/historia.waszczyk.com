@@ -10,6 +10,8 @@ draft: false
 
 ### Linki
 
+-1. <a href="https://historia.waszczyk.com/chinese-language" target="_blank">Chinese language</a>
+
 0. <a href="https://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
 
 1. <a href="https://historia.waszczyk.com/maps" target="_blank">Mapy</a>
