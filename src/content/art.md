@@ -60,4 +60,8 @@ Propaganda żydowska
 
 ---
 
+<img src="./img/art/badgovernment.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

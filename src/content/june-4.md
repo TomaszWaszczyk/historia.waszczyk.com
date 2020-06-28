@@ -127,6 +127,14 @@ człowiek, którego dewizą było hasło: „Wola narodu jest moim prawem”, kt
 
 <img src="./img/june/hallenburg.jpg"><br><br>
 
+---
+
+### 1940
+
+https://pl.wikipedia.org/wiki/Operacja_Dynamo
+
+---
+
 ### 1917
 
 We Francji dekretem prezydenta Francji Raymonda Poincárego powstała "Błękitna Armia" generała Józefa Hallera zwana tak od koloru mundurów jakie nosili jej żołnierze.

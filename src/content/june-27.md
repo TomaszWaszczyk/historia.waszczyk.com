@@ -1,15 +1,17 @@
 ---
 layout: post
 title: 27 czerwca
-image: img/june/collaborator.jpeg
+image: img/june/takilajf.jpeg
 author: Tomasz Waszczyk
-date: 2018-06-27T10:00:00.000Z
+date: 2019-06-27T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Segregacja
+draft: false
 ---
 
 ### 2020
+
+<img src="./img/june/takilajf.jpeg"><br><br>
 
 Shell obcina dywidendę.
 
