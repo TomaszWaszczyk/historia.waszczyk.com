@@ -116,6 +116,20 @@ Luty 1938: Monachium, minister propagandy III Rzeszy, Joseph Goebbels, wizytuje 
 
 <img src="./img/june/monachium.jpg"><br><br>
 
+### 1928
+
+> John Nash, a Nobel Prize economist who made significant contributions to game theory such as the Nash Equilibrium and Bargaining Problem, believed that although Keynesian economic policies were, in theory, intended to be for solely noble objectives and general welfare of the people, in practice these policies simply gave governments the ability to literally print money, collecting seigniorage by way of inflation of the money supply. Nash often likened Keynesians to **Bolshevik Communists**, as he saw that both groups gave credence to the notions of a centrally managed system and a lack of transparency surrounding decisions, especially with regards to the nation-state’s currency issuance.
+
+Nash’s Ideal Money proposal, in a nutshell, is an idea that although we cannot design a perfectly stable money, a money that approaches ‘stable’ would also approach a limit that would be comparable to an optimally chosen basket of commodity prices. While an ICPI would be a step on the path towards Nash’s vision of an Ideal Money, pegging a currency to the ICPI is not a solution, as it could fluctuate with major technological breakthroughs, and the subsequent readjustment could also be prone to political pressures.
+
+Currently, global reserve currencies face the Triffin Dilemma, resulting in a conflict of interest between short-term domestic and long-term international objectives, such as a desire to increase inflation to spur economic growth, versus keeping a strong domestic currency with stability of purchasing power. Nash believed that money would be stronger if it were put on a stage of competition where it must compete to survive, and improve itself. Nowadays, however, currencies don’t really compete in a typical way like that which results in better products over time, but rather, they compete in a race to devalue. For Nash, rather than focusing on the utility of money for everyday transactions, of paramount importance was for the global economy to arrive at the same incorruptible value standard.
+
+Bitcoin is seen by some as the catalyst for the evolution of global monetary systems toward something that would resemble in stability to an optimally chosen basket of commodity prices. Some believe that Nash’s writings from 1960’s may have even predicted the emergence of something like Bitcoin. Nash wrote: “Here I am thinking of a politically neutral form of a technological utility. To be quite respectable, in a Gresham-advised sense, money needs only to be as good as other material commodities that might be hoarded.”
+
+https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.
+
+<img src="./img/june/idealmoney.jpeg"><br><br>
+
 ### 1872
 
 W Rudnikach koło Mościsk urodził się Jan Szczepanik (na zdjęciu) - wynalazca zwany "polskim Edisonem" lub "galicyjskim geniuszem".

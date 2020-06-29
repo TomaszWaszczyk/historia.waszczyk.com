@@ -11,6 +11,20 @@ draft: false
 
 ### 1941
 
+Amerykański Kongres ostatecznie przełamał impas w stosunkach Stanów Zjednoczonych z innymi państwami. Uchwalona wówczas ustawa federalna popularnie nazywana Lend-Lease Act zezwalała USA na wspomaganie państw koalicji antyfaszystowskiej pożyczkami, wynajmem, sprzedażą oraz nieodpłatnym przekazywaniem dóbr, w tym surowców, żywności, ropy naftowej oraz sprzętu wojennego. Pierwszymi krajami objętymi programem współpracy zostały Wielka Brytania, Chiny oraz tzw. Wolna Francja powołana do życia przez przeciwników kolaboracyjnej Republiki Vichy utworzonej na nieokupowanych przez Niemców terytoriach francuskich. Po niemieckiej agresji przeciwko Związkowi Radzieckiemu pomocą objęto również ZSRR.
+
+Do końca wojny Stany Zjednoczone przekazały aliantom materiały różnego rodzaju o łącznej wartości przekraczającej 50 mld dolarów, co przy ówczesnej wartości pieniądza stanowi odpowiednik 13-krotności tej sumy dzisiaj. Amerykańska pomoc płynęła szerokim strumieniem do Europy, zwłaszcza do Wielkiej Brytanii (łącznie o wartości ponad 31 mld dolarów) i Związku Radzieckiego (łącznie o wartości blisko 11 mld dolarów), który dzięki wsparciu mógł prowadzić wydatne działania przeciw armii niemieckiej. Przekazywana Moskwie pomoc przekraczała wielkość dóbr produkowanych w Związku Radzieckim, co pokazuje skalę zaangażowania USA oraz wagę wsparcia w kontekście podtrzymania oporu Armii Czerwonej. Warto podkreślić, że także znaczna część sprzętu przekazywanego Brytyjczykom trafiała na front wschodni na mocy porozumień Moskwa-Londyn.
+
+Program został wstrzymany we wrześniu 1945 roku. Część pomocy została spłacona przez zaciągające dług państwa w okresie powojennym, przy czym realna wartość spłaty była wielokrotnie niższa niż wartość amerykańskiej pomocy w latach 1941-45.
+
+Na podstawie pozycji Soviet Lend-Lease Tanks of World War II.
+
+<img src="./img/march/lendlease.jpg"><br><br>
+
+<img src="./img/march/lendlease2.jpg"><br><br>
+
+### 1941
+
 https://pl.wikipedia.org/wiki/Lend-Lease_Act
 
 ### 1609

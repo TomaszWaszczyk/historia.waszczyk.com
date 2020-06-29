@@ -8,6 +8,12 @@ tags:
   - Historia
 ---
 
+### 2014
+
+https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)
+
+<img src="./img/august/fineybanks.png"><br><br>
+
 ### 1989
 
 Lider Solidarnosci Walczącej Kornel Morawiecki (zdjęcie) wystosował list otwarty do premiera Tadeusza Mazowieckiego, w którym apelował o podjęcie zdecydowanych kroków w celu przejęcia państwa i obalenia komunizmu. List kończył się życzeniami, aby za kadencji nowego szefa rządu „rozkład komunizmu następował szybciej niż jego dopasowanie się do nowej sytuacji".

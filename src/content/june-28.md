@@ -5,10 +5,14 @@ image: img/june/nalog.png
 author: Tomasz Waszczyk
 date: 2019-06-28T10:00:00.000Z
 tags:
-  - Ekonomia
+  - Wybory prezydenckie 2020
 ---
 
 ### 2020
+
+<img src="./img/june/alawybory.jpg"><br><br>
+
+---
 
 Uniwersytet Princeton usuwa nazwisko prezydenta Wilsona z nazwy wydziału. Powodem takiej decyzji Uniwersytetu Princeton są rasistowskie decyzje podejmowane przez tego polityka. Woodrow Wilson był prezydentem USA w latach 1913-1921.
 
@@ -37,6 +41,21 @@ Nauczyciel wolności i nadziei (1990-2000)
 
 Lata 90. to okres, w którym Tischner zbiera owoce swoich wcześniejszych zaangażowań i jednocześnie zdobywa ogromna popularność w całej Polsce. Staje się autorytetem nie tylko w sprawach wiary czy filozofii, ale i rodzącej się demokracji, choć on sam stara się przede wszystkim mówić o wolności i relacjach Kościół–państwo. Wyrazem uznania są m.in. doktoraty honorowe Uniwersytetu Łódzkiego i Wyższej Szkoły Pedagogicznej w Krakowie, a także nagrody: im. Jurzykowskiego (1988), im. S. Kisielewskiego (1993) i im. K. Pruszyńskiego (1993). W 1999 roku zostaje kawalerem Orderu Orła Białego. Dużo w tym czasie publikuje, głównie zbiory szkiców i esejów poświęconych problematyce filozoficznej, społecznej i religijnej (Nieszczęsny dar wolności, 1993; Spowiedź rewolucjonisty. Czytając Fenomenologię ducha Hegla, 1993; W krainie schorowanej wyobraźni, 1997; Ksiądz na manowcach, 1999) oraz tomy rozmów (Między Panem a Plebanem – wraz z A. Michnikiem i J. Żakowskim, 1995; Tischner czyta Katechizm – wraz z J. Żakowskim, 1996; Przekonać Pana Boga – wraz z D. Zańko i J. Gowinem, 1999). W 1998 ukazuje się kontynuacja Filozofii dramatu – Spór o istnienie człowieka. Wielkim powodzeniem wśród czytelników cieszą się pisane stylizowaną gwarą podhalańską gawędy filozoficzne Historia filozofii po góralsku (1997). Szeroką popularność przyniosły Tischnerowi także audycje radiowe (m.in. Rozmowy bez pointy z J. Gowinem na antenie Radia Kraków oraz czytana tamże Historia filozofii po góralsku) i programy telewizyjne. Wśród tych ostatnich na uwagę zasługują zwłaszcza cykle Siedem grzechów głównych po góralsku (1995), którego był współscenarzystą, oraz Tischner czyta Katechizm (1996) – rozmowy prowadzone z Jackiem Żakowskim. W ostatnich latach życia ks. Tischner ciężko zachorował na raka krtani. Kolejne operacje i postępy choroby pozbawiły go możliwości mówienia. Mimo to prawie do ostatniej chwili wciąż pisał; z tego czasu pochodzą przejmujące teksty o Bożym Miłosierdziu oraz niewielka książeczka pt. Pomoc w rachunku sumienia.''
 
+### 1956
+
+W Poznaniu w czasie szturmu robotników na gmach Komitetu do spraw Bezpieczeństwa Publicznego zabity został 13-letni Romek Strzałkowski (zdjęcie).
+Był absolwentem Państwowej Szkoły Muzycznej I stopnia imienia Karola Kurpińskiego w Poznaniu.
+Okoliczności jego śmierci to splot wielu kontrowersji i niejasności. Według jednej z wersji, chłopiec zginął podczas demonstracji, w chwili, gdy przejął flagę od rannej tramwajarki Heleny Przybyłek. Inna wersja mówi o tym, że został zabity na terenia bazy transportowej Urzędu Bezpieczeństwa. Trzecia wersja, najbardziej wiarygodna, to zabicie go strzałem z pistoletu na terenie ubeckiej dyspozytorni przez funjcjonariuszkę o pseudonimie Teofila Kowal. Została ona zatrzymana w tym miejcu, a w jej torebce znaleziono pistolet. Jednak i ta wersja nie jest do końca wiarygodna, ponieważ w trakcie śledztwa kobieta wiele razy zmieniała zeznania. Po pewnym czasie Prokuratura Wojewódzka w Poznaniu umorzyła postępowanie w sprawie Kowal i śmierci Strzałkowskiego. Nie pomogły prośby o wznowienie postępowania, kierowane przez rodziców nawet do samego Gomułki.
+Pogrzeb Romka Strzałkowskiego odbył się 2 lipca 1956 r. na cmentarzu junikowskim o godzinie 17.00. Oficjalnie jednak informacje te zostały zmodyfikowane. 1 lipca ukazał się Głos Wielkopolski , w którym zmieniono godzinę pochówku na 8:00, pomijając fakt, iż zmarły był uczniem Szkoły Podstawowej nr 40 w Poznaniu. Dodatkowo zniekształcono cyfry określające wiek. Cyfrę 3 można było odczytać jako 8 (Romek zmarł w wieku trzynastu lat). Fakt ten tłumaczono jako nieumyślny błąd w korekcie.
+
+<img src="./img/june/romek.jpg"><br><br>
+
+### 1930
+
+Międzynarodowy Zjazd Fabrykantów Kakao i Czekolady, z prawej Jan Wedel. Z jednego z takich wyjazdów do Francji właściciel E. Wedel przywozi pomysł na mleczną piankę oblaną czekoladą. „-Jakbyście mieli już wszystko – szczęśliwą rodzinę, piękny dom, samochód, to czego jeszcze by wam brakowało?” – pyta współpracowników. „-Tylko ptasiego mleka” – odpowiada jeden z robotników fabryki i tak powstaje opatentowana nazwa przysmaku. Po wojnie i nacjonalizacji zakładów Wedla komunistyczne władze nie przedłużą ochrony znaku towarowego (patenty to relikt kapitalizmu), a produkcja „Ptichye Moloko” ruszy m.in. w jednej z bratnich fabryk radzieckich. Dopiero w 2014 roku, po skomplikowanej batalii prawnej, E. Wedel odzyska prawa do jednej z najcenniejszych polskich marek - Ptasie Mleczko®.
+
+<img src="./img/june/mleczko.jpg"><br><br>
+
 ### 1919
 
 https://pl.wikipedia.org/wiki/Traktat_wersalski
@@ -48,6 +67,14 @@ https://pl.wikipedia.org/wiki/Boles%C5%82aw_Soboci%C5%84ski
 ### 1651
 
 https://pl.wikipedia.org/wiki/Bitwa_pod_Beresteczkiem
+
+### 1569
+
+W Lublinie została przyjęta międzynarodowa umowa pomiędzy Koroną Królestwa Polskiego,a Wielkim Księstwem Litewskim nazwana od miejsca jej powołania Unią Lubelską.
+Dzisiejsza data to rocznica jej przyjęcia. Podpisanie miało miejsce 1 lipca,a ratyfikacja tej umowy nastąpiła 4 lipca 1569 roku.
+W jej wyniku powstało państwo polsko- litewskie znane jako Rzeczypospolita Obojga Narodów.
+
+<img src="./img/june/unialubelska.jpg"><br><br>
 
 ---
 
