@@ -9,6 +9,14 @@ tags:
 draft: false
 ---
 
+### 2020
+
+Google is planning to move its British users’ accounts out of the control of European Union privacy regulators, placing them under US jurisdiction instead, the company confirmed late on Wednesday.
+
+The shift, prompted by Britain’s exit from the EU, will leave the sensitive personal information of tens of millions with less protection and within easier reach of British law enforcement.
+
+Alphabet Inc’s Google intends to require its British users to acknowledge new terms of service including the new jurisdiction, according to people familiar with the plans.
+
 ### 1846
 
 https://pl.wikipedia.org/wiki/Rze%C5%BA_galicyjska

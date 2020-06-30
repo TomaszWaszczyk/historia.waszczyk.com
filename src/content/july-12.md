@@ -8,7 +8,11 @@ tags:
   - USA
 ---
 
-### Getting Started
+### 1943
+
+https://en.wikipedia.org/wiki/Battle_of_Prokhorovka
+
+### 
 
 <img src="./img/july/buy.jpg"/><br>
 

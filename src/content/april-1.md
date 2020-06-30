@@ -135,6 +135,14 @@ To z czym mamy do czynienia teraz, czyli niesprawny system, brak pracowników, p
 
 Koronawirus nie pozostaje bez wpływu na wiele rynków. Wprowadzony przez rząd stan zagrożenia epidemicznego wiąże się z zakazem najmu krótkoterminowego, przez co w Warszawie do odwołania nie może działać Airbnb. Jednak spłaty kredytów nie zostały zawieszone przez państwo jak we Włoszech, a czynsze wciąż trzeba płacić, podczas gdy epidemia wydaje się nie odpuszczać. Właściciele mogą być pozbawieni dochodów jeszcze przez miesiące. Na portalach ogłoszeniowych błyskawicznie pojawiły się mieszkania na wynajem długoterminowy, które jeszcze niedawno były dostępne na Airbnb. Aby sprawdzić, ile takich ogłoszeń zostało opublikowanych, porównaliśmy główne zdjęcie ofert na Airbnb sprzed kilku miesięcy ze zdjęciami z ogłoszeń wynajmu mieszkań dostępnych na otodom i Gumtree.
 
+---
+
+George Orwell in the house
+
+The CDC today also removed information on its website that detailed how many people in the country had been tested for the virus. It now only displays the number of confirmed cases. CDC has not yet responded to a request for comment.
+
+---
+
 ### 1981
 
 Władze PRL wprowadziły reglamentowaną sprzedaż wyrobów mięsnych.

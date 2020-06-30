@@ -54,6 +54,14 @@ Obecne przekonanie, że rząd musi chronić wszystkie firmy, miejsca pracy i doc
 
 ---
 
+⚠️ "W Rezerwie Federalnej jest nieskończona ilość gotówki..." Neel Kashkari (Fed).
+
+⚠️ Bank of England stwierdził w środę, że [tamtejszy] bank centralny może wpompować nielimitowaną ilość pieniądza w gospodarkę.
+
+⚠️Europejski Bank Centralny stwierdził wprost, że w obronie euro nie ma żadnych limitów.
+
+---
+
 ### 2016
 
 https://en.wikipedia.org/wiki/Panama_Papers

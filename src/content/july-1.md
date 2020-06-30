@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 2020
+
+<img src="./img/july/focus.jpeg"><br><br>
+
 ### 1976
 
 Po 5 latach życia na kredyt, ceny żywności zaczęły drastycznie wzrastać ("70-procentowy wzrost cen produktów").

@@ -8,6 +8,10 @@ tags:
   - Polska
 ---
 
+### 1943
+
+https://pl.wikipedia.org/wiki/Bitwa_na_%C5%82uku_kurskim
+
 ## 1905
 
 https://pl.wikipedia.org/wiki/Czes%C5%82aw_Klimuszko - człowiek którzy przewidział, że w Polsce będą winnice.
