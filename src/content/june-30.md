@@ -5,7 +5,7 @@ image: img/june/samsonowicz.jpg
 author: Tomasz Waszczyk
 date: 2019-06-30T10:00:00.000Z
 tags:
-  - Polska
+  - Inflacja bazowa
 draft: false
 ---
 
@@ -49,6 +49,16 @@ Obejmą one wymianę taboru samochodowego, nabycie i przebudowę nieruchomości,
 Zgodnie z programem modernizacji KAS w ciągu trzech lat resort zakupi ponad 500 pojazdów dla wszystkich 16 izb administracji skarbowej.
 Program modernizacji KAS przewiduje także przeznaczenie 9 mln zł na zakup długiej i krótkiej broni dla funkcjonariuszy.
 Niewykluczone, że ambitne cele MF zostaną zweryfikowane, rząd przymierza się bowiem do nowelizacji budżetu na ten rok.
+
+---
+
+### 1988
+
+Z roku w Warszawie został napadnięty i śmiertelnie pobity prof. Jan Witold Strzelecki. W wyniku doznanych obrażeń zmarł, 11 lipca 1988 roku. Okoliczności zbrodni do tej pory nie zostały wyjaśnione.
+Jan Strzelecki był Powstańcem warszawskim (za zasługi odznaczony Krzyżem Walecznych), działaczem socjalistycznym, naukowcem Instytutu Filozofii i Socjologii PAN, eseistą, taternikiem, narciarzem.
+Należał do aktywnych działaczy demokratycznych. Był członkiem Towarzystwa Kursów Naukowych, uczestnikiem konwersatorium „Doświadczenie i Przyszłość”. Pełnił obowiązki Doradcy Komisji Krajowej NSZZ „Solidarność”. Został internowany w stanie wojennym. W 1987 roku był jednym ze współinicjatorów odrodzenia PPS. 31 sierpnia 2006 roku pośmiertnie został uhonorowany przez Prezydenta RP Lecha Kaczyńskiego Krzyżem Komandorskim Orderu Odrodzenia Polski.
+
+<img src="./img/june/strzelecki.jpg"><br><br>
 
 ---
 
@@ -101,6 +111,18 @@ Na początku lat trzydziestych w otoczeniu przywódcy NSDAP prym wiedli Rudolf H
 E. Röhm był jednym z najwierniejszych popleczników A. Hitlera z czasów organizowania zaplecza NSDAP. Towarzyszył mu od początku lat dwudziestych, wspierając rozlicznymi kontaktami oraz zaangażowaniem w tworzenie nazistowskich bojówek, co niewątpliwie ułatwiło NSDAP dojście do władzy. Mimo nieporozumień światopoglądowych (E. Röhm był homoseksualistą), A. Hitler przymykał oko na standardy życia Parteigenose, doceniając jego oddanie i umiejętności organizacyjne. Dopiero w 1933 roku zwrócił uwagę na zbyt mocne przywiązanie szefa SA do doktryny socjalistycznej, na co E. Röhm replikował oskarżeniem o otaczanie się reakcjonistami, zdradę, marzycielstwo i nikczemność, a także publicznie zapowiadał nową rewolucję. Stwierdził też, całkiem zresztą słusznie, że jakakolwiek polemika z Führerem nie miała najmniejszego sensu, gdyż ten i tak uważał się za wszechwiedzącego. Tego typu opozycja nie miała racji bytu w totalitarnym państwie nazistowskim. 30 czerwca 1934 roku A. Hitler zorganizował wielką czystkę wewnątrz partii nazwaną „Nocą Długich Noży”. Oddani mu funkcjonariusze doprowadzili do schwytania i zlikwidowania najważniejszych dygnitarzy SA, w tym E. Röhma. Oskarżono ich o zdradę i próby obalenia A. Hitlera. Sfabrykowane dowody miały świadczyć o winie SA – organizacja została zepchnięta na dalszy plan, a jej miejsce zajęły wierne H. Himmlerowi SS. Brutalna rozprawa z opozycją objęła także G. Strassera, którego po wcześniejszym aresztowaniu zamordowano w siedzibie Gestapo. W tym samym czasie zginął były kanclerz gen. K. von Schleicher, zastrzelony w drzwiach swojej rezydencji. „Noc Długich Noży” była pierwszym tak krwawym przedsięwzięciem nazistów w drodze do władzy absolutnej. Wymagała również daleko idących manipulacji społeczeństwem, któremu trudno było zrozumieć doniesienia o rzekomej zdradzie Parteigenose E. Röhma.
 
 <img src="./img/june/dlugienoze.jpg"><br><br>
+
+### 1924
+
+W Krakowie zmarł Franciszek Stefczyk - ekonomista. Inicjator zakładania spółdzielczych kas oszczędnościowo-pożyczkowych, znanych później jako Kasy Stefczyka. Przyszły święty Kościoła katolickiego. Pochowany został na Cmentarzu Łyczakowskim.
+
+Biografia:
+
+Franciszek Stefczyk urodził się w Krakowie. Studiował na UJ i w Wiedniu, gdzie zapoznał się z funkcjonowaniem niemieckich kas oszczędnościowo-kredytowych zakładanych przez Fryderyka Raiffeisena. Ideę kas zmaterializował w 1890 r. w Czernichowie, gdzie jako 23-latek rozpoczął pracę w szkole rolniczej. Kasa Oszczędności i Pożyczek w Czernichowie stała się poligonem doświadczalnym spółdzielczości wiejskiej. Jej celem było kształcenie nawyków oszczędzania, gospodarowania, współpracy i samopomocy. Kasa udzielała tanich kredytów, uniezależniając galicyjskich chłopów od lichwy. Należały do niej tylko osoby z najbliższej okolicy, gdzie wszyscy się znali, co powodowało wysoki zwrot pożyczonych pieniędzy. Członkami kas były też osoby biedne, którym rozkładano na raty koszty zakupu udziału w spółce. Świetne wyniki działalności kasy w Czernichowie zaowocowały rozwojem ruchu spółdzielczego w innych dziedzinach, by zatrzymać w społecznościach zyski pośredników. I tak powstały spółdzielczy bazar, umożliwiający sprzedaż płodów rolnych i tanie zakupy, oraz spółdzielcza hurtownia spożywcza. Na wsiach powstawały udziałowe sklepiki, spółdzielnie mleczarskie.
+Organizowane przez dr. Stefczyka kursy dla spółdzielców kształciły fachowców dla prężnie rozwijającego się ruchu spółdzielczego. W czasie 20 lat działalności powstało 1400 kas zrzeszających 145 tys. osób. Główną siedzibę miały w stolicy Galicji - we Lwowie. Zrzeszały Polaków i Ukraińców, pozyskując przychylność władz lokalnych, hierarchii Kościoła katolickiego i prawosławnego. W przeddzień niepodległości Franciszek Stefczyk zwrócił się do udziałowców kas o wsparcie skarbu wojennego. W wyniku zbiórki kasy wyposażyły 2 tys. legionistów. Dr Stefczyk w czasie obrony Lwowa w 1918 r. został jednym z przywódców Polskiego Komitetu Bezpieczeństwa i Ochrony Dobra Publicznego. W 1924 r. na Uniwersytecie Jagiellońskim złożył wniosek o habilitację. Rozpoczętą procedurę przerwała śmierć. Został pochowany na Cmentarzu Łyczakowskim we Lwowie, a jego pogrzeb stał się manifestacją patriotyczną ruchu ludowego.
+Z ideą ruchu ludowego Franciszek Stefczyk utożsamiał się od początku swojej działalności, którą traktował jako służbę człowiekowi i ojczyźnie. W 1907 r. wstąpił do Polskiego Stronnictwa Ludowego, by w następnym roku zostać posłem do Sejmu Krajowego. Jego idee skupiały się wokół solidaryzmu narodowego, według którego każdy stan miałby powinności wobec innych stanów i wobec ojczyzny. W wolnej Polsce został członkiem Stronnictwa Katolicko-Ludowego. Nazwano go apostołem spółdzielczości. Dziś trwają przygotowania do rozpoczęcia prac przygotowawczych do procesu beatyfikacyjnego Franciszka Stefczyka.
+
+<img src="./img/june/stefczyk.jpg"><br><br>
 
 ### 1908
 
@@ -165,6 +187,10 @@ W dzisiejszych czasach teoria względności stała się fundamentem całej wspó
 Rozwinięciem szczególnej teorii względności jest teoria dzisiaj określana mianem Ogólnej Teorii Względności. Teoria ta jest głównie teorią opisującą grawitację, położyła fundamenty pod współczesną kosmologię. To dzięki jej założeniom odkryto przesunięcie ku czerwieni, które dowodzi, że Wszechświat się rozszerza, a także wytłumaczono, w jaki sposób powstają czarne dziury.
 
 Obie teorie względności, szczególna i ogólna przyniosły Einsteinowi międzynarodową sławę, jednak to nie dzięki nim zdobył on nagrodę Nobla, a dzięki wytłumaczeniu efektu fotoelektrycznego. Efekt ten dal ówczesnych fizyków stanowił wielką zagadkę. Einstein wytłumaczył ten efekt dokonując założenia, iż strumień światła jest zbiorem cząstek - fotonów. Okazało się to jak najbardziej słusznym założeniem, a sama hipoteza istnienia fotonów, stanowiła istotną podstawę teorii kwantów.
+
+### 1801
+
+https://pl.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat
 
 ---
 
