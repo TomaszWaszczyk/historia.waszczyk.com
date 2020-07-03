@@ -2,6 +2,8 @@
 
 Przedwojenny 1PLN = 0.17grama XAU
 
+https://czytam.pl/k,ks_865477,Cyfrodziewczyny-Wasielewska-Karolina.html
+
 http://ivrozbiorpolski.pl/
 
 yelita.pl/
@@ -13,6 +15,8 @@ https://www.aan.gov.pl/
 https://omeka.aynrandarchives.org/exhibits/show/letters-of-ayn-rand
 
 http://praxeology.net/FB-PJP-DOI.htm
+
+https://www.1944.pl/zasoby-muzeum.html
 
 https://adst.org/
 

@@ -28,6 +28,10 @@ Central Banks Added Nearly 32 Tons Of Gold To Reserves In April, Led By Turkey
 
 ---
 
+Goldman raises 12-month gold forecast by 11% to $2,000 an ounce
+
+---
+
 ### 1999
 
 Poniższy tekst to fragment homilii papieża Jana Pawła II, wygłoszonej w Sandomierzu 12 czerwca 1999 roku.

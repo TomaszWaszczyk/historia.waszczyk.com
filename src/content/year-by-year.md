@@ -406,6 +406,10 @@ https://pl.wikipedia.org/wiki/Rozku%C5%82aczanie
 
 https://pl.wikipedia.org/wiki/Sanacja
 
+### 1922
+
+https://pl.wikipedia.org/wiki/%C5%BBydzi_w_parlamencie_II_Rzeczypospolitej
+
 ### 1919 (pomyśleć nad dokładnym rokiem)
 
 WWI was possible because using inflation and central banking, the state wasn't limited to it's own savings, but could exhaust the savings of the populace in the war effort. Those conditions still exist today.

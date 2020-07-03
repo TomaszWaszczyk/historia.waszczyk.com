@@ -2884,6 +2884,8 @@ Mniej czytać nuty, więcej słuchać muzyki.
 
 Bezmyślność zabija. Innych. (Stanisław Jerzy Lec)
 
+Dziękuję nic nie kosztuje. ;-)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

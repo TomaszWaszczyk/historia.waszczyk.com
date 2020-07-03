@@ -800,6 +800,10 @@ efemeryczny «krótkotrwały, szybko przemijający»
 
 ezopowy język
 
+https://pl.wikipedia.org/wiki/Prakseologia
+
+money is a sign of poverty
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

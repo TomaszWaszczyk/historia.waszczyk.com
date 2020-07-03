@@ -19,6 +19,10 @@ W czasie drugiej wojny światowej pełniła służbę, jako komendantka główna
 
 <img src="./img/april/israel.jpg"><br><br>
 
+### 1981
+
+<img src="./img/april/lem.jpeg"><br><br>
+
 ### 1943
 
 Wybuchło pierwsze miejskie powstanie zbrojne w okupowanej Europie, czyli powstanie w getcie warszawskim. Było to pierwsze tak duże zbrojne wystąpienie przeciwko okupantowi niemieckiemu podjęte przez Żydowską Organizację Bojową i Żydowski Związek Wojskowy. Słabo uzbrojeni powstańcy stawiali opór dobrze wyszkolonej armii niemieckiej , wspartej czołgami i artylerią. Pomoc bojowcom getta nieśli żołnierze Armii Krajowej, Gwardii Ludowej, Socjalistycznej Organizacji Bojowej, Korpusu Bezpieczeństwa oraz Milicji Ludowej Robotniczej Partii Polskich Socjalistów, aczkolwiek możliwości niesienia pomocy powstańcom przez polskie podziemie były bardzo ograniczone i niewystarczające. Przyczyną zbrojnego oporu była likwidacja getta przeprowadzana przez Niemców i formacje kolaborujące, która zmierzała do fizycznej likwidacji Żydów poprzez wywożenie Żydów do obozów natychmiastowej zagłady.

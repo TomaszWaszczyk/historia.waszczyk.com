@@ -192,6 +192,17 @@ Obie teorie względności, szczególna i ogólna przyniosły Einsteinowi między
 
 https://pl.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat
 
+### 1587
+
+Po śmierci króla Stefana Batorego otwarciem obrad sejmu elekcyjnego w podwarszawskiej Woli rozpoczęła się w Polsce wolna elekcja .W obozach na polu elekcyjnym magnaci zgromadzili własne oddziały sformowane z
+klienteli, jak i zaciągniętych żołnierzy.
+Elektorów podzielono na dwa koła:
+prokonwokacyjne skupione wokół braci
+Zborowskich i kandydatury Maksymiliana Habsburga oraz antykonwokacyjne, zwolenników Jana Zamoyskiego, które nazywane było także czarnym, od kolory szat przywdzianych na znak żałoby po Batorym.
+Elekcja ta zakończyła się 27 grudnia 1587 roku koronacją na Wawelu Zygmunta Wazy.
+
+<img src="./img/june/elekcja.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-30.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
