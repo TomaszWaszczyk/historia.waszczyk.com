@@ -29,6 +29,10 @@ Rozkaz podpułkownika Władysława Liniarskiego (zdjęcie) o utworzeniu Armii Kr
 
 ---
 
+https://de.wikipedia.org/wiki/U_96_(Kriegsmarine)
+
+---
+
 Rozpoczęła się bitwa pancerna o Stargard (Operacja Sonnenwende).
 
 Była to jedna z ostatnich niemieckich prób przejęcia chwilowej inicjatywy na froncie wschodnim, mająca pozwolić w założeniach na lepsze przygotowanie obrony Berlina.

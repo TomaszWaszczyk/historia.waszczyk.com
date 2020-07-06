@@ -1,16 +1,50 @@
 ---
 layout: post
 title: 6 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/haller.jpg
 author: Tomasz Waszczyk
-date: 2018-07-06T10:00:00.000Z
+date: 2019-07-06T10:00:00.000Z
 tags:
-  - Source
+  - Józef Haller
 ---
 
-### Getting Started
+### 2020
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+Permanent layoffs surging faster than 2008 Great Financial Crisis
+
+- 1.6 million permanent layoffs in 4 months
+- 2008-2009 it took 11 months
+
+<img src="./img/july/layoff.jpeg"><br><br>
+
+---
+
+Wlaśnie pod wiele mówiącym tytułem "The Deficit Myth: Modern Monetary Theory and How to Build a Better Economy" ukazala sie prawdziwa biblia wyznawcow MMT, autorstwa dr Stephanie Kelton.
+
+Swoja droga byloby interesujace wiedziec do ilu ekonomicznych autorytetow zwrocilo sie o promocyjny wpis na "skrzydelku" wydawnictwo John Murray, wydawca ksiazki w Wlk. Brytanii.
+
+Bo wsrod 8 zachwyconych glosow ("eye-opening"; "game-changing"; "must-read"; a nawet wprawiajace w lekkie zazenowanie: "The Deficit Myth is simply the most important book I've ever read") NIE MA ANI JEDNEGO PIERWSZOLIGOWEGO EKONOMISTY AKADEMICKIEGO.
+
+Jak na biblie i ksiazke zmieniajaca wszystko co wiemy o polityce fiskalnej, zadluzeniu, a nawet szerzej - o wspolczesnej ekonomii, ten brak zachwyconych pierwszoligowcow jest w swej wymowie druzgocacy.
+
+A nie ma ich tam pewnie dlatego, ze wiekszosc z nich juz dawno rozprawila sie z prawdziwymi mitami gloszonymi przez dr. Kelton. Ich opinie o MMT nie pasowaly wiec na "skrzydelka".
+
+Oczywiscie, zeby wyrobic sobie wlasne zdanie na temat MMT ksiazke Stephanie Kelton trzeba koniecznie przeczytac. Tym bardziej, ze ideologia MMT zaczyna sie intensywnie przesaczac i do polskiej polityki. W nadwislanskiej wersji MMT dlug nie jest problemem. Problemem sa limity tego dlugu.
+
+---
+
+<img src="./img/july/twitter.jpeg"><br><br>
+
+---
+
+### 1920
+
+Rada Obrony Państwa powołała do życia Generalny Inspektorat Armii Ochotniczej, na którego czele stanął generał Józef Haller (zdjęcie).
+Utworzenie tej instytucji spowodowane było coraz trudniejszą sytuacją militarną Polski, a konkretnie rosnącym zagrożeniem ze strony Rosji.
+Działania Hallera jako generalnego inspektora były bardzo skuteczne, ponieważ już 22 lipca 1920 roku wydał on rozkaz o utworzeniu Dywizji Ochotniczej. Stworzyć miał ją z czego, gdyż zaledwie do 30 września 1920 roku na apel o wstąpienie w szeregi nowo powstającej armii odpowiedziało aż 105 tysięcy ochotników.
+
+<img src="./img/july/haller.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
