@@ -121,6 +121,8 @@ Your browser does not support the video tag.
 
 * https://www.kiwico.com/
 
+* https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/
@@ -176,6 +178,16 @@ Your browser does not support the video tag.
 * The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
 
 * محمدعبد THE MUQADDIMAHAbd Ar Rahman bin Muhammed ibn Khaldun Translated by Franz Rosenthal
+
+* https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html
+
+* https://sciencejournal.withgoogle.com/
+
+* https://www.zooniverse.org/
+
+* https://www.desmos.com/calculator
+
+<!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol -->
 
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 

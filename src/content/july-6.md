@@ -10,6 +10,10 @@ tags:
 
 ### 2020
 
+<img src="./img/july/debataprezydencka.jpeg"><br><br>
+
+---
+
 Permanent layoffs surging faster than 2008 Great Financial Crisis
 
 - 1.6 million permanent layoffs in 4 months

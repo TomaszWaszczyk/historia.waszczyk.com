@@ -100,6 +100,12 @@ konsekrowana, a w jedną z jej ścian wmurowano tablicę upamiętniającą histo
 
 <img src="./img/may/wloszczowa.jpg"><br><br>
 
+### 1541
+
+May 28th is the feast of Blessed Margaret Pole (née Plantagenet): English noblewoman, mother of five, widow, Countess of Salisbury, patroness of the New Learning, Governess to Princess Mary Tudor, and martyr of the Henrician persecution—beheaded without trial on this day in 1541.
+
+<img src="./img/may/margaretpole.jpeg"><br><br>
+
 ### 1349
 
 Doszło do wystąpień antyżydowskich we Wrocławiu i Świdnicy. Żydów posądzono o roznoszenie zarazy dżumy. Spalono w tych miastach dzielnice żydowskie , a ocalałych mieszkańców zmuszono do osiedlenia się poza murami miasta. Rok później doszło do pogromu w Złotym Stoku.

@@ -2886,6 +2886,12 @@ Bezmyślność zabija. Innych. (Stanisław Jerzy Lec)
 
 Dziękuję nic nie kosztuje. ;-)
 
+being agnostic = being smart
+
+"It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." - Henry Ford
+
+However, even US Dollar (USD) inflation adds up over time, with $1 in 1900 having the equivalent purchasing power of $28.57 in 2016: that’s a 2,757.23% rate of inflation over 116 years, or an annualized inflation rate of 2.93%.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

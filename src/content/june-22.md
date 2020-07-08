@@ -47,6 +47,8 @@ Zdjęcie przedstawia znaczek pocztowy wydany przez pocztę amerykańską 22 czer
 
 ### 1941
 
+Według propagandy rosyjskiej to pierwszy dzień wojny.
+
 III Rzesza zaatakowała ZSRR wydawało się, że będzie to bardzo szybka kampania, która zakończy się spektakularnym zwycięstwem Niemców. Oprócz zaskoczenia, jakie wywarły na najeźdźcy nowe sowieckie czołgi T-34/76 oraz KW-1 i KW-2, wszystko wydawało się iść zgodnie z planem. Mimo że faktycznie niemieckie czołgi i artyleria miały problemy z niszczeniem tych maszyn, to często dochodziło do bardzo spektakularnych pogromów, których dobrym przykładem jest rozegrana od 23 do 25 czerwca 1941 r. bitwa pancerna pod Rosieniami. To tam miało dojść do niesamowitego wydarzenia, w którym jeden sowiecki KW-2 przez dwa dni ponoć zatrzymał całą niemiecką dywizję pancerną, co jak się okazuje - ma niewiele wspólnego z prawdą.
 
 <img src="./img/june/barbarossa.jpg"><br><br>
