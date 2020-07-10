@@ -13,6 +13,8 @@ draft: true
 
 https://en.wikipedia.org/wiki/Gulf_War
 
+Wygrywa USA: https://pl.wikipedia.org/wiki/Agresja_Iraku_na_Kuwejt
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

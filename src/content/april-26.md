@@ -78,7 +78,7 @@ Strażacy nie zostali poinformowani o niebezpieczeństwie kontaktu z radioaktywn
 
 Eksplozja w Czarnobylu spowodowała wyrzucenie w powietrze substancji promieniotwórczych o 1,5 kilometra. Na tej wysokości wiatr od południowego wschodu przesunął radioaktywną chmurę aż do Skandynawii. Chmura przeleciała nad Skandynawią, po czym ponownie wróciła na Ukrainę. W połowie dnia kierunek wiatru zmienił się na zachodni. Druga skażona chmura przeleciała przez Polskę do Czechosłowacji i dalej do Austrii. Tam odbiła się od Alp i przyleciała z powrotem do Polski.  O ile nam dzisiaj wiadomo, nie ma miejsca na świecie, w którym chmury radioaktywne nie były obecne.
 
-Najbardziej dotkniętymi obszarami była Ukraina i Białoruś, które zdecydowały się na ewakuację niektórych części swoich krajów na stałe z powodu skażenia środowiska. W procesie skażenia dużą rolę odgrywały chmury radioaktywnego izotopu jodu. Ten element ma krótki okres połowicznego rozpadu i stosunkowo szybko po awarii naturalnie uległ rozkładowi do nieszkodliwych elementów. W dzisiejszych czasach  zanieczyszczenie radioaktywne składa się głównie z substancji takich jak stront i cez – a to dlatego, że ich czas tzw. połowicznego rozpadu (czas, gdy ilość pierwiastka zmniejsza się o połowę) wynosi 30,2 lat. Związki te zanieczyszczały środowisko przez następne kilka dekad. Izotopy plutonu i ameryku będą obecne na sąsiadujących terenach elektrowni jeszcze przez kilka tysięcy lat, jednak ich promieniowanie ma znikomy wpływ na ludzkie ciało. 
+Najbardziej dotkniętymi obszarami była Ukraina i Białoruś, które zdecydowały się na ewakuację niektórych części swoich krajów na stałe z powodu skażenia środowiska. W procesie skażenia dużą rolę odgrywały chmury radioaktywnego izotopu jodu. Ten element ma krótki okres połowicznego rozpadu i stosunkowo szybko po awarii naturalnie uległ rozkładowi do nieszkodliwych elementów. W dzisiejszych czasach  zanieczyszczenie radioaktywne składa się głównie z substancji takich jak stront i cez – a to dlatego, że ich czas tzw. połowicznego rozpadu (czas, gdy ilość pierwiastka zmniejsza się o połowę) wynosi 30,2 lat. Związki te zanieczyszczały środowisko przez następne kilka dekad. Izotopy plutonu i ameryku będą obecne na sąsiadujących terenach elektrowni jeszcze przez kilka tysięcy lat, jednak ich promieniowanie ma znikomy wpływ na ludzkie ciało.
 
 Śledztwo w sprawie katastrofy w Czarnobylu zostało oficjalnie zakończone, z wynikiem, że to personel elektrowni nie przestrzegał odpowiednich przepisów bezpieczeństwa. Dyrektor elektrowni Wiktor Briuchanow i naczelny inżynier Nikołaj Fomin zostali skazani na 10 lat pozbawienia wolności, zastępca naczelnego inżyniera ds. bloków III i IV Anatolij Diatłow na 5 lat, kierownik drugiego działu reaktorowego A. Kowalenko i kierownik zmiany B. Rogożkin na 3 lata i inspektor Państwowego Dozoru Jądrowego J. Łauszkin na 2 lata. Początkowo zakładano że proces odbędzie się w Moskwie ale dla dodania większej dramaturgii całego procesu jak i jego rozgłosy postanowiono że proces odbędzie się w Czarnobylu. Katastrofa elektrowni jądrowej zapoczątkowała zmiany w zasadach bezpieczeństwa energetyki jądrowej oraz zapisała nowy rozdział w historii ludzkości.
 
@@ -107,6 +107,12 @@ W Katyniu zamordowany został Karol Stanisław Szymański (zdjęcie) doktor medy
 W czasie wojny obronnej we wrześniu 1939 roku służył w szpitalu w Łodzi, a następnie w Lublinie. Do sowieckiej niewoli trafił prawdopodobnie w październiku tego samego roku. Został osadzony w obozie w Kozielsku, a następnie w Katyniu, gdzie zamordowano go od razu po przywiezieniu. Miał 45 lat.
 
 <img src="./img/april/szymanski.jpg"><br><br>
+
+---
+
+### 1915
+
+https://pl.wikipedia.org/wiki/Traktat_londy%C5%84ski_(1915)
 
 ---
 

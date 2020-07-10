@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Computer science
-image: img/december/kozakiewicz.png
+image: img/others/computer-science/webhistory.gif
 author: Tomasz Waszczyk
 date: 2018-12-25T10:00:00.000Z
 tags:
   - Computer science
-draft: true
+draft: false
 ---
+
+<img src="./img/others/computer-science/webhistory.gif"><br><br>
 
 ### 2013
 

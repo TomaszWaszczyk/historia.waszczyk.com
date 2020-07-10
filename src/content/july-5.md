@@ -14,6 +14,10 @@ Na terenie Korei Północnej Franciszek Gabryszewski wyśrubował swój rekord u
 
 <img src="./img/july/gabreski.jpg"><br><br>
 
+### 1945
+
+https://pl.wikipedia.org/wiki/Polski_Korpus_Przysposobienia_i_Rozmieszczenia
+
 ### 1944
 
 Na terenie Évreux we Francji as myśliwski Franciszek Gabryszewski (znany bardziej jako Francis Gabreski) zestrzelił swój rekordowy 28 niemiecki samolot.

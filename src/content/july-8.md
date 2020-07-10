@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 lipca
-image: img/july/bonawentura.jpg
+image: img/july/tesla.jpeg
 author: Tomasz Waszczyk
 date: 2019-07-08T10:00:00.000Z
 tags:
@@ -11,6 +11,14 @@ tags:
 ### 2020
 
 <img src="./img/july/tesla.jpeg"><br><br>
+
+---
+
+> Presalariat
+
+Zdaniem Hussona intensywna dyskusja na temat nieuchronnej automatyzacji gospodarki to przygotowanie pola do ostatecznego uderzenia w tzw. salariat. Czyli ciągle obowiązujący (choć osłabiony) model pracy opierający się na stałej umowie i realnie istniejącym prawie pracy albo związkach zawodowych. Tymczasem zwolennicy UBI domagają się wejścia w epokę cyfrowego postsalariatu. Mówią, że tak musi wyglądać nasza przyszłość i że nie ma innego wyjścia.
+
+__W praktyce nie będzie to jednak oznaczało postępu, lecz regres. To znaczy powrót do XIX-wiecznych relacji pracy. Czyli do czasów presalariatu. W XXI w. zwanego gospodarką fuszki superelastycznego modelu 24-godzinnej gotowości do podjęcia pracy.__ – Postępowym zwolennikom wystarczającego lub godziwego dochodu w wysokości 1 tys. euro grozi, że posłużą za pożytecznych idiotów przy instalowaniu powszechnego dochodu w faktycznej wysokości 400 euro. Do którego trzeba sobie będzie nieustannie dorabiać, by zachować godność – przestrzega Husson.
 
 ---
 

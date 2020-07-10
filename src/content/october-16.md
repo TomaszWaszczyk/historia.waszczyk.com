@@ -120,6 +120,10 @@ Osadzony jako więzień polityczny – Polak (P.Pole) z numerem 23569, również
 
 <img src="./img/october/karcz.jpg"/><br><br>
 
+### 1853
+
+https://pl.wikipedia.org/wiki/Wojna_krymska
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -35,6 +35,10 @@ Był to początek polskiej prasy konspiracyjnej.
 
 <img src="./img/october/monitor2.jpg"/><br><br>
 
+### 1896
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Tatar
+
 ### 1882
 
 W Tymoszówce (obecnie Ukraina) urodził się Karol Szymanowski (zdjęcie) uważany obok Szopena i Moniuszki za jednego z najwybitniejszych polskich kompozytorów i pianistów.

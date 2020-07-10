@@ -60,6 +60,10 @@ Międzynarodowy Zjazd Fabrykantów Kakao i Czekolady, z prawej Jan Wedel. Z jedn
 
 https://pl.wikipedia.org/wiki/Traktat_wersalski
 
+### 1914
+
+https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand
+
 ### 1906
 
 https://pl.wikipedia.org/wiki/Boles%C5%82aw_Soboci%C5%84ski

@@ -1,12 +1,20 @@
 ---
 layout: post
 title: 10 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/husky.jpg
 author: Tomasz Waszczyk
-date: 2018-07-10T10:00:00.000Z
+date: 2019-07-10T10:00:00.000Z
 tags:
-  - Germany
+  - Gracjan Fróg "Szczerbiec"
 ---
+
+### 1948
+
+Został aresztowany przez łódzki Urząd Bezpieczeństwa Gracjan Fróg "Szczerbiec" (zdjęcie) kapitan piechoty Wojska Polskiego, w czasie wojny obronnej dowódca szwadronu techniczno-gospodarczego 33 Dywizjonu Pancernego Wileńskiej Brygady Kawalerii, żołnierz 6. Wileńskiej Brygady Armii Krajowej, dowódca 3 Wileńskiej Brygady Armii Krajowej.
+Komuniści postawili mu fałszywy zarzut współpracy z Niemcami w zwalczaniu działającej na Wileńszczyźnie partyzantki sowieckiej oraz zarzut prowadzenia działalności konspiracyjnej w ramach Ośrodka Mobilizacyjnego Wileńskiego Okręgu AK mjr Antoniego Olechnowicza ps. „Pohorecki”.
+W wyniku brutalnego śledztwa Wojskowy Sąd Rejonowy w Warszawie 13 lutego 1951 roku skazał go na karę śmierci, którą wykonano 11 maja 1951 w areszcie na Mokotowie.
+
+<img src="./img/july/szczerbiec.jpg"><br><br>
 
 ### 1947
 
