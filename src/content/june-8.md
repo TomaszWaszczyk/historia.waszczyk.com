@@ -68,6 +68,10 @@ Prywatne inwestycje sa kluczowe, a tu masakra PiS:
 
 — polityka PiS = etatyzm, klientelizm, nacjonalizacja, panstwowe firmy “czebole” Twarz ze łzami radości
 
+### 2015
+
+<img src="./img/june/sondaze.jpg"><br><br>
+
 ### 1943
 
 W Krakowie, biskupi polscy obradujący podczas zwołanej przez kardynała Adama Sapiehę Konferencji Episkopatu Polski wystosowali memoriał skierowany do gubernatora generalnego Hansa Franka w sprawie "nieludzkiego traktowania Polaków wywożonych na przymusowe roboty do Niemiec". Osobną kwestią poruszoną w tym dokumencie był brak właściwej opieki religijnej.

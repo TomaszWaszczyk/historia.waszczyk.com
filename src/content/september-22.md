@@ -34,6 +34,10 @@ Jak zwodnicze były to słowa przyszło przekonać się już wkrótce. Warunki t
 
 <img src="./img/september/kapitalacjalwowa.jpg"><br><br>
 
+### 1927
+
+https://pl.wikipedia.org/wiki/Bogus%C5%82aw_Wolniewicz
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

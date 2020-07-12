@@ -8,6 +8,23 @@ tags:
   - Gracjan Fróg "Szczerbiec"
 ---
 
+### 2020
+
+Po wspolnej decyzji Eurogrupy, EBC oraz Danii i po akcetacji programu konwergencji, Bulgaria i Chorwacja weszly do przedsionka strefy euro, przylaczajac sie do ERM 2. Musza tu pozostac, zgodnie z obowiazujacymi wciaz regulacjami, co najmniej 2 lata, przy stabilnych kursach walutowych, zanim beda mogly wprowadzic euro.
+Kurs centralny lewy wobec euro wyniosl 1.95583; kurs chorwackiej kuny 7.53450.
+Oba kraje dolaczyly rownoczesnie do Unii Bankowej, co oznacza - miedzy innymi - przejecie przez EBC od 1 pazdziernika bezposredniego nadzoru nad bankami bulgarskimi i chorwackimi uznanymi za "systemowo wazne".
+Trzymajmy kciuki za przyjaciol z naszego regionu. I gratulacje za odwage, upor i konsekwencje.
+Czy decyzja Bulgarow i Chorwatow ma jakies znaczenie dla walut innych krajow ESW, pozostajacych poza mechanizmem stabilizacji kursowej, wspieranym przez EBC?
+Oczywiscie, ze tak, bo zwieksza tu ryzyko zmiennosci.
+A tak sie sklada, ze w naszym regionie najwiekszym i najbardziej plynnym rynkiem walutowym jest rynek zlotego.
+Czy ktos z polskich politykow zarzekajacych sie na wyprzodki, ze nam sie do euro nie spieszy, ze nam ze zlotym doskonale, ma w ogole na uwadze rosnace ryzyko takich deklaracji?
+
+### 1992
+
+Hanna Suchocka uzyskała poparcie Sejmu, obejmując urząd Prezesa Rady Ministrów, a już dzień później Sejm powołał jej koalicyjny rząd, który tworzyło siedem partii o charakterze centrowym i prawicowym w skład których wchodziły: Unia Demokratyczna, KLD, ZChN, PPG, SLCh, PChD i PSL-PL. Gabinet nowej Pani premier uzyskał również poparcie m.in. posłów NSZZ „Solidarność” oraz Mniejszości Niemieckiej. Rząd został odwołany przewagą jednego głosu 28 maja 1993 w wyniku tzw. niekonstruktywnego wotum nieufności zgłoszonego przez Alojzego Pietrzyka z NSZZ „S”. Funkcję premiera RP Hanna Suchocka sprawowała do października 1993. Była pierwszą w historii kobietą sprawującą urząd premiera RP, a drugą w regionie (po Kazimierze Prunskienė). Jej rząd przyczynił się do opracowania Programu Powszechnej Prywatyzacji, reformy samorządowej, która zakładała m.in. wprowadzenie powiatów i dużych województw, ustawę o restrukturyzacji finansowej przedsiębiorstw i banków, a także wynegocjował Pakt o Przedsiębiorstwie Państwowym w Trakcie Przekształcania.
+
+<img src="./img/july/suchocka.jpg"><br><br>
+
 ### 1948
 
 Został aresztowany przez łódzki Urząd Bezpieczeństwa Gracjan Fróg "Szczerbiec" (zdjęcie) kapitan piechoty Wojska Polskiego, w czasie wojny obronnej dowódca szwadronu techniczno-gospodarczego 33 Dywizjonu Pancernego Wileńskiej Brygady Kawalerii, żołnierz 6. Wileńskiej Brygady Armii Krajowej, dowódca 3 Wileńskiej Brygady Armii Krajowej.

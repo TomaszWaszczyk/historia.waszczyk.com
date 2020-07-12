@@ -12,6 +12,8 @@ tags:
 
 https://pl.wikipedia.org/wiki/Manifest_PKWN
 
+https://pl.wikipedia.org/wiki/Zamach_20_lipca
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

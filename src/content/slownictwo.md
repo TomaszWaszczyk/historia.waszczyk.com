@@ -804,6 +804,12 @@ https://pl.wikipedia.org/wiki/Prakseologia
 
 money is a sign of poverty
 
+a conto - na poczet należności
+
+kamyczek do ogródka = coś dobrego dla kogoś powiedziane
+
+indyferencja = apatia
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

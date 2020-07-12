@@ -34,6 +34,10 @@ Rozkaz Nerona (niem. Nerobefehl ) ukazał się w okresie walk o Zagłębie Ruhry
 
 <img src="./img/march/nerona.jpg"/><br><br>
 
+### 1905
+
+https://pl.wikipedia.org/wiki/Albert_Speer
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

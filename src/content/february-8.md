@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 1996
+
+https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace
+
 ### 1951
 
 W Warszawie został stracony major Zygmunt Szendzielarz ps. Łupaszka. Był on dowódcą 5 Brygady Wileńskiej Armi Krajowej, która walczyła z Niemcami, oddziałami litewskimi współpracującymi z nimi i sowiecką partyzantką. Po wojnie Łupaszka został oskarżony między innymi o działanie na szkodę PRL i współpracę z zachodnim wywiadem.

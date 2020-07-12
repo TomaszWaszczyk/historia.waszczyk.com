@@ -165,6 +165,8 @@ Your browser does not support the video tag.
 
 * Ekonomia w jednej lekcji, Henry Hazlitt
 
+* Bieda. Przewodnik dla dzieci
+
 ### Inne
 
 * https://www.subscribepage.com/kursRIE

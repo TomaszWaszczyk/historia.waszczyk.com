@@ -215,6 +215,8 @@ https://pl.wikipedia.org/wiki/Costco
 Your browser does not support the video tag.
 </video>
 
+https://pl.wikipedia.org/wiki/I_etap_reformy_gospodarczej
+
 ---
 
 https://pl.wikipedia.org/wiki/Wojna_o_Falklandy-Malwiny

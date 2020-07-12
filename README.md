@@ -6,9 +6,13 @@ https://czytam.pl/k,ks_865477,Cyfrodziewczyny-Wasielewska-Karolina.html
 
 https://historykon.pl/kalendarium-historyczne
 
+https://historykon.pl/artykuly/reformacja-w-niemczech-i-jej-nastepstwa
+
 http://ivrozbiorpolski.pl/
 
 yelita.pl/
+
+http://pilsudski.org.uk/archiwa/dokument.php?nrar=709&nrzesp=1&sygn=3&handle=709.238/33 listy Piłsudskiego do Dmowskiego
 
 https://fraser.stlouisfed.org/timeline/st-louis-fed-centennial
 
