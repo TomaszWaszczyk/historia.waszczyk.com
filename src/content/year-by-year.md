@@ -196,6 +196,10 @@ The separation between deposit and investment banking has been removed: https://
 
 Nick Szabo’s 1994 article “Formalizing and securing relationships on public networks”
 
+### 1989
+
+https://pl.wikipedia.org/wiki/Teoria_Deng_Xiaopinga
+
 ### 1985
 
 https://en.wikipedia.org/wiki/Great_Moderation

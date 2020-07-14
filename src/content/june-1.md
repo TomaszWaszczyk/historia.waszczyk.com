@@ -61,6 +61,10 @@ W czasie wojny polsko -rosyjskiej zdymisjonowany został wódz armii litewskiej 
 
 <img src="./img/june/wirtemberski.jpg"><br><br>
 
+### 1780
+
+https://pl.wikipedia.org/wiki/Carl_von_Clausewitz
+
 ### 1765
 
 Król Stanisław August Poniatowski powołał pierwszą na terenie Rzeczpospolitej Obojga Narodów komisję dobrego porządku. Była to Komisja Dobrego Porządku dla Starej i Nowej Warszawy. Do kompetencji tego organu, w skład którego wchodziło od 6 do 14 członków, najczęściej przedstawicieli szlachty należał nadzór nad finansami miejskimi, kontrola działalności cechów rzemieślniczych i gildii kupieckich. Ponadto decydowała ona o planowaniu przestrzennym ich zabudowy, numerowaniu domów, brukowaniu ulic, budowie kanałów.

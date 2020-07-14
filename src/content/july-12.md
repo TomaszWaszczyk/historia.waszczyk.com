@@ -35,6 +35,12 @@ I to o tym są te wybory, a nie o tym czy np. podatki będą niższe czy wyższe
 Glosuj świadomie, zanim będziesz zdziwiony, że ten pierdolnik przyszedł i do nas. Bo przyjdzie na pewno.
 Od Ciebie tylko zależy kiedy.
 
+---
+
+<img src="./img/july/po-II-turze-wyborow-prezydenckich.jpg"><br><br>
+
+---
+
 ### 1981
 
 Rada Ministrów podjęła uchwałę o zmniejszeniu norm kartkowych na mięso i jego przetwory o 20% w sierpniu i wrześniu.

@@ -83,6 +83,10 @@ Na specjalnym medalu wydanym w okazji zdobycia Smoleńska wybito łacińskie sł
 Podsumowując: Imperialna polityka Rzeczypospolitej za 2 pierwszych Wazów, to były działania kolosa na glinianych nogach. Nie rozwiązano żadnych problemów wewnętrznych: podatki, większa stała armia, Kozacy. Doszły nowe problemy: konflikt ze Szwecją, unia brzeska. I wystarczył jeden skrzywdzony Kozak by ten kolos runął z wielkim hukiem (1648-55). Więc ekscytowanie się zajęciem Kremla czy Smoleńska bez szerszego spojrzenia, bez widzenia że za Smoleńsk zapłaciliśmy Królewcem, przypomina mi ekscytowanie się wyczynami czołgu Rudy 102.
 Niestety, z władców elekcyjnych tylko Sobieski miał wizję polityki zagranicznej zgodnej z polską racją stanu (niedoszły podbój Prus elektorskich). Tylko że w ówczesnych realiach ustrojowych nie miał szans na ich realizację. Liberum veto, oligarchia magnacka i pieniądze elektora o to zadbały
 
+### 1215
+
+https://pl.wikipedia.org/wiki/Magna_Charta_Libertatum
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-15.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
