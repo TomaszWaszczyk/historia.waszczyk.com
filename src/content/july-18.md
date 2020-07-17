@@ -3,11 +3,16 @@ layout: post
 title: 18 lipca
 image: img/july/great-fire.jpg
 author: Tomasz Waszczyk
-date: 2018-07-18T10:00:00.000Z
+date: 2019-07-18T10:00:00.000Z
 tags:
-  - Historia
   - Rzym
 ---
+
+### 2020
+
+As you watch the empire (read: culture) crumble, keep in mind that when we talk about The Fall Of Rome - a centuries long process that ended in the Fifth Century AD - we are only talking about The Western Roman Empire.
+
+"Rome" continued for another *thousand years* in Byzantium.
 
 ## 1991
 

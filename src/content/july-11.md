@@ -8,6 +8,16 @@ tags:
   - Niemcy
 ---
 
+### 2020
+
+Minister gospodarki Peter Altmaier zapowiedział, że Niemcy będą obejmować udziały w kolejnych firmach walczących o przetrwanie z powodu kryzysu wywołanego przez pandemię, pisze Reuters.
+
+Altmaier powiedział, że prawdopodobnie kilkadziesiąt firm może pójść śladem Lufthansy, która zgodziła się na wejście państwa do akcjonariatu w zamian za pomoc.
+
+- W tej bardzo ograniczonej liczbie przypadków wykorzystamy możliwości oferowane przez fundusz stabilizacji gospodarczej, w tym objęcie udziałów, gdzie to będzie właściwe – powiedział Altmaier w wywiadzie dla gazety Frankfurter Allgemeine.
+
+Minister gospodarki nie wykluczył także objęcia przez państwo udziałów w strategicznie ważnych firmach, jak było to w przypadku producenta szczepionek CureVac.
+
 ### 2000
 
 Zmarł emisariusz Polskiego Państwa Podziemnego, świadek Zagłady, a po II wojnie światowej profesor Georgetown University. Jan Karski za swoją działalność został uhonorowany najwyższymi odznaczeniami państwowymi – polskim Orderem Orła Białego, dwukrotnie Orderem Virtuti Militari, amerykańskim Medalem Wolności, a także tytułem Sprawiedliwy wśród Narodów Świata.
