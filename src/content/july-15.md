@@ -1,12 +1,16 @@
 ---
 layout: post
 title: 15 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/glapinski.jpg
 author: Tomasz Waszczyk
-date: 2018-07-15T10:00:00.000Z
+date: 2019-07-15T10:00:00.000Z
 tags:
-  - Source
+  - NBP
 ---
+
+### 2020
+
+NBP: Recesja może być znacznie głębsza, niż się spodziewacie
 
 ### 1963
 
