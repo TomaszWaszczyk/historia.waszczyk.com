@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 16 lipca
-image: img/
+image: img/july/inflacja2020.jpeg
 author: Tomasz Waszczyk
 date: 2019-07-16T10:00:00.000Z
 tags:
-  - Source
+  - Polska
 ---
 
 ### 2020

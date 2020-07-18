@@ -9,7 +9,19 @@ tags:
 draft: false
 ---
 
-### 2020
+### 2020 - Pritzker Architecture Prize
+
+Yvonne Farrell and Shelley McNamara, co-founders of Grafton Architects, have been named the 2020 laureates of the Pritzker Architecture Prize.
+
+Farrell and McNamara were awarded the prize "for their integrity in their approach to both their buildings, as well as the way they conduct their practice," said the Pritzker Architecture Prize jury.
+
+The architects are the first recipients from Ireland, although the fourth winner – Kevin Roche – was born in the country. They are the fourth and fifth women to be named winners of the prestigious award.
+
+They follow Zaha Hadid, who was the sole winner in 2004, Kazuyo Sejima, who won alongside Ryue Nishizawa in 2010, and Carme Pigem, who won alongside Rafael Aranda and Ramón Vilalta in 2017.
+
+This year's jury described Farrell and McNamara "pioneers in a field that has traditionally been and still is a male-dominated profession" and "beacons to others as they forge their exemplary professional path".
+
+---
 
 GOSPODARKA HAMUJE, A INFLACJA ROŚCIE
 

@@ -77,6 +77,10 @@ The vote comes at a time when internet usage has skyrocketed, with tens of milli
 
 “Today the Senate made clear that the purpose of the PATRIOT Act is to spy on Americans, no warrants or due process necessary,” Dayton Young, director of product at Fight For the Future, told Motherboard. “Any lawmaker who votes to reauthorize the PATRIOT Act is voting against our constitutionally-protected freedoms, and there’s nothing patriotic about that.”
 
+### 2017
+
+Richard Stallman - American Capitalism has turned into Plutocracy
+
 ### 1983
 
 W Warszawie w wieku 19 lat zmarł Grzegorz Przemyk (zdjęcie)- uczeń XVII Liceum Ogólnokształcącego imienia Modrzewskiego.
