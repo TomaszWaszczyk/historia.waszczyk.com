@@ -81,6 +81,8 @@ Your browser does not support the video tag.
 
 ### Programowanie = szkoła myślenia
 
+* https://shelly.dev/
+
 * https://scratch.mit.edu/
 
 * https://www.tinkercad.com/

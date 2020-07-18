@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+https://en.wikipedia.org/wiki/Brendan_Gregg
+
+Context not control.
+
 <img src="./img/others/computer-science/webhistory.gif"><br><br>
 
 ### 2013

@@ -810,6 +810,10 @@ kamyczek do ogródka = coś dobrego dla kogoś powiedziane
 
 indyferencja = apatia
 
+widoczny zapierdol
+
+gderliwy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

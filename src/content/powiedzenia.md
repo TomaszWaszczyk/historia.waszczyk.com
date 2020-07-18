@@ -2892,6 +2892,8 @@ being agnostic = being smart
 
 However, even US Dollar (USD) inflation adds up over time, with $1 in 1900 having the equivalent purchasing power of $28.57 in 2016: that’s a 2,757.23% rate of inflation over 116 years, or an annualized inflation rate of 2.93%.
 
+https://en.wikipedia.org/wiki/Analysis_paralysis
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

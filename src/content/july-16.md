@@ -1,12 +1,16 @@
 ---
 layout: post
 title: 16 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/
 author: Tomasz Waszczyk
-date: 2018-07-16T10:00:00.000Z
+date: 2019-07-16T10:00:00.000Z
 tags:
   - Source
 ---
+
+### 2020
+
+"Jestem zdegustowana. Ja, symbol Francji, ledwo rozpoznaję moją ojczyznę, którą najechała banda obcych łajdaków zagrażających autentycznemu Francuzowi. Znaczna część Francji nie należy już do Francuzów. To jest paskudne". Po czym jeszcze dodała: "Jestem zniesmaczona i przerażona. Francja jest dziś rządzona przez tchórzy bez jaj. To rząd pantoflarzy, wystraszonych królików, srających w gacie kastratów". Jeden z wiecznych symboli Francji, symboli kina i sexu lat 60'- Brigitte Bardot.
 
 ### 1949
 

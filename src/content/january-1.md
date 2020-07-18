@@ -36,6 +36,10 @@ Jolanta Gontarczyk vel Lange - zaczyna ruchy feministyczne w Polsce.
 
 Jolanta i Andrzej Gontarczykowie vel Lange - szpiedzy PRLu
 
+### 1998
+
+DVD Netflix has been the premier DVD-by-mail rental service. Make your movie list and get Blu-rays and DVDs conveniently delivered to you with free shipping both ways. Most of our subscribers receive their discs within two business days.
+
 ### 1990
 
 Plan Balcerowicza

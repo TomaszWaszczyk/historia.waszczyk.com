@@ -324,6 +324,22 @@ W bogatej biografii Winstona Churchilla kompania o Galipoli jest uważane za ma�
 
 <img src="./img/april/army.jpg"><br><br>
 
+### 1906
+
+27 lat temu, zmarł lekarz, który postanowił nie opatentować swojej szczepionki, aby wszystkie firmy farmaceutyczne mogły ją wyprodukować i zaoferować wszystkim dzieciom na świecie.
+
+Albert Bruce Sabin urodził się w 1906 roku w Białymstoku.
+
+Żydowski lekarz i wirusolog, znany z odkrywania szczepionki przeciwko polio, zrezygnował z pieniędzy patentowych, umożliwiając jej rozprzestrzenienie się dla wszystkich, w tym na biednych.
+
+W latach 1959–1961 miliony dzieci z krajów wschodnich, Azji i Europy zostały zaszczepione: szczepionka przeciw polio zahamowała epidemię.
+
+Powiedział:
+
+„Wielu nalegało na opatentowanie szczepionki, ale nie chciałem. Jest to mój dar dla wszystkich dzieci na świecie”.
+
+I to był jego testament.
+
 ### 1794
 
 W Wilnie został osądzony, a następnie powieszony Szymon Kossakowski (grafika) zdrajca, uczestnik Konfederacji Barskiej, jeden z głównych orędowników zawiazania Konfederacji Targowickiej, samozwańczy hetman polny litewski.
