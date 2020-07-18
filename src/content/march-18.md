@@ -74,6 +74,43 @@ In the future, high-quality and high-level experts from superior hospitals will 
 
 Władimir Putin podpisał traktat o przyjęciu Krymu i Sewastopola do Federacji Rosyjskiej.
 
+### 2003 The Single Largest Bank Heist In History
+
+The only thing worse than a bank heist around $1-billion (USD) is when the person in charge, not of the bank but of the country, commits that theft. Sad, but true; Saddam Hussein, working through his son, Qusay robbed the country’s central bank of the most money ever stolen from any bank.
+
+<img src="./img/march/husajn.jpg"><br><br>
+
+That was just one day before US troops rolled into Baghdad. It’s like he knew the end was nigh.
+
+The total aftermath of the Iraq war is beyond the scope of this blog, but what unfolded during and after the Central Bank robbery is a sad commentary on what was already sad situation.
+
+The craziest thing about the story is that it all went down without a single bullet. They didn’t even need guns to take the money, just the trucks to carry the loot.
+
+In the years that followed the war, money turned up in many places. There was $650-million found in one of Saddam’s palaces.
+
+At the time, officials were unable to determine if that money was part of the billion stolen from the Central Bank. It turned out to be the stash of Saddam’s other son, Uday.
+
+Saddam was of course never going to admit to any theft, nor was he going to cough up any information to help officials trace the missing dough. We will never know, nor will we know exactly how much they took or where it went.
+
+There is a reason to believe that some of it at least, found its way into the hands of US soldiers. Cash discovered in another of Saddam’s palaces also vanished; looted by opportunistic soldiers. The United States convicted over 30 of our service members for theft.
+
+The Central Bank of Iraq looks like a fortress. When the Iraqis took full control of their national finances, after the British handed it over in 1931, they created the National Bank of Iraq to centralize the country’s money.
+
+In 1985 they built the central bank structure in Baghdad, a cube-shaped building made of concrete with almost no windows.
+
+Management of the bank may have been questionable and corrupt, but the building where they kept the cash was impenetrable. The only way a robber could get in was through the front door.
+
+That’s exactly what the thieves did.
+
+They before US troops rolled into Baghdad, three large trucks pulled up in front of the bank. Qusay walked into the bank, then handed a note to the governor of the bank. The note was from daddy. It stated that they needed to relocate the money as a matter of national security.
+
+It didn’t matter. The note could have said, “give it to me.” When the insane leader of a developing nation asks to empty the national vault, it’s because he’s having a good hair day.
+
+Qusay and a friend loaded bag after bag into the three trucks. They left with one-quarter of the bank’s reserves that day without lifting a gun or making a single threat.
+
+Like most bank thieves, they didn’t get away with it. Qusay and Uday paid the most precious price for their roles in Iraq; their lives. So did Saddam. Of course, the heist didn’t have to do with any of that, unless you believe in karma.
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>
