@@ -2894,6 +2894,8 @@ However, even US Dollar (USD) inflation adds up over time, with $1 in 1900 havin
 
 https://en.wikipedia.org/wiki/Analysis_paralysis
 
+A lot of https://www.thefreedictionary.com/ma%C3%B1ana
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

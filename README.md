@@ -12,6 +12,8 @@ http://ivrozbiorpolski.pl/
 
 yelita.pl/
 
+https://www.computerworld.pl/news/SKOK-nieznana-ODRA-1300,123980.html
+
 http://pilsudski.org.uk/archiwa/dokument.php?nrar=709&nrzesp=1&sygn=3&handle=709.238/33 listy Piłsudskiego do Dmowskiego
 
 https://fraser.stlouisfed.org/timeline/st-louis-fed-centennial
