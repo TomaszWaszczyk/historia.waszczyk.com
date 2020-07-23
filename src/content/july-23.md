@@ -40,6 +40,14 @@ Tego samego dnia inny dowódca Frontu Południowego generał Aleksandr Jegorow n
 
 <img src="./img/july/tuchaczewski2.jpg"><br><br>
 
+### 1842
+
+W Przemyślu urodził się Henryk Jordan - profesor położnictwa i ginekologii, społecznik, pionier wychowania fizycznego, twórca ogrodów gier i zabaw dla dzieci zwanych Ogrodami jordanowskimi, a ponad to poseł w Sejmie Galicyjskim, prezes Towarzystwa Lekarskiego Krakowskiego, przewodniczący Towarzystwa Ginekologicznego, dziekan Wydziału Lekarskiego UJ, członek honorowy Towarzystwa Lekarskiego Warszawskiego i Lubelskiego, twórca Towarzystwa Opieki Zdrowia. Zmarł 18 maja 1907 w Krakowie.
+
+Ciekawostka: W 1906 roku profesor Henryk Jordan zrewolucjonizował obyczaje na Wydziale Lekarskim Uniwersytetu Jagiellońskiego promując pierwszą kobietę na doktora medycyny.
+
+<img src="./img/july/jordan.jpg"><br><br>
+
 ### 1792
 
 Stanisław August Poniatowski dołącza do targowicz a patrioci wyjeżdżają z Polski:
