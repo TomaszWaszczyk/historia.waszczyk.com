@@ -85,6 +85,26 @@ Foto: Komendant Piłsudski z osobistym adiutantem porucznikiem Bolesławem Wieni
 
 <img src="./img/july/wieniawa.jpg"><br><br>
 
+### 1878
+
+> Poznaj siebie, zanim zechcesz dzieci poznać. – Zdaj sobie sprawę z tego, do czego sam jesteś zdolny, zanim dzieciom poczniesz wykreślać zakres ich praw i obowiązków – Ze wszystkich sam jesteś dzieckiem, które musisz poznać, wychować i wykształcić przede wszystkim. - Janusz Korczak
+
+22 lipca 1878 lub 1879 roku w rodzinie Józefa i Cecylii Goldszmit w Warszawie urodził się Janusz Korczak (właściwie Henryk Goldszmit) - wybitny pedagog, pediatra, pisarz, dyplomowany lekarz, działacz społeczny i charytatywny. Janusz Korczak był współtwórcą i pierwszym dyrektorem Domu Sierot w Warszawie (1911-42) i sierocińca Nasz Dom, w których wprowadził system wychowania łączący zasadę kierowania dziećmi z zasadą ich samodzielności. Janusz Korczak należał do obrońców praw dzieci. Był popularyzatorem problematyki pedagogicznej. Pisał utwory dla dzieci (,,Król Maciuś Pierwszy''), powieści społeczne, prace pedagogiczne (Jak kochać dziecko) . Przebywając na terenie getta warszawskiego prowadził ,,Pamiętnik''. Od początku okupacji hitlerowskiej Janusz Korczak usilnie zabiegał o pomoc, dary, wsparcie dla dzieci. Odrzucał każdą ofertę ratowania własnego życia, ponieważ nie wyobrażał sobie, aby mógł opuścić swoje sieroty. 5 lub 6 sierpnia 1942 roku zginą razem ze swoimi podopiecznymi (ok. 200 żydowskich dzieci), asystentami i swoją oddaną współpracownicą Stefanią Wilczyńską w obozie zagłady w Treblince. Świadkiem przemarszu Janusza Korczaka i dzieci na Umschlagplatz był, m.in. Emanuel Ringelblum, który wspominał: ,,To nie był marsz do wagonów, to był zorganizowany milczący protest przeciwko morderstwu! (...) Dzieci szły czwórkami. Na przedzie Korczak; patrzył prosto przed siebie i po obu stronach trzymał za rękę dziecko''. Symboliczny kamień upamiętniający Janusza Korczaka i dzieci znajduje się na terenie byłego niemieckiego obozu zagłady w Treblince.
+
+Zachęcam do przeczytania szczegółowej biografii Janusza Korczaka:
+http://2012korczak.pl/zarys
+
+---
+
+Ruszyło w Warszawie pierwsze pogotowie ratunkowe. Powołane ono zostało z inicjatywy hrabiego Konstantego Przeździeckiego i doktora Józefa Zawadzkiego. Wzorowane było ono na modelu austriackim,a konkretnie wiedeńskim,którego natychmiastowe powstanie wymusił pożar Opery Wiedeńskiej.Warszawskie pogotowie ratunkowe swój chrzest bojowy przeszło już w dwa tygodnie później,kiedy to podczas wizyty cara Mikołaja drugiego zorganizowało 20 polowych punktów sanitarnych.
+Pogotowie to niemal od
+założenia prowadziło służbę całodobową, bezpłatnej pomocy ofiarom wypadków udzielali wyłącznie lekarze z odpowiednią praktyką. Po 3 latach działalności Pogotowie
+było już instytucją dobrze zakorzenioną i rozpoznawalną w mieście. Roczna liczba wezwań wynosiła ok. 8 tys., Pogotowie
+Ratunkowe zatrudniało 16 lekarzy i 9
+sanitariuszy, dysponowało taborem 11 koni i 4 powozów.
+
+<img src="./img/july/pogotowie.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

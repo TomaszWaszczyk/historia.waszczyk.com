@@ -1,16 +1,21 @@
 ---
 layout: post
 title: 24 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/hansfrank2.jpg
 author: Tomasz Waszczyk
-date: 2018-07-24T10:00:00.000Z
+date: 2019-07-24T10:00:00.000Z
 tags:
-  - Source
+  - Hans Frank
 ---
 
-### Getting Started
+### 1940
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+W Krakowie gubernator generalny Hans Frank (grafika) podpisał "Rozporządzenie o definicji pojęcia "Żyd" "
+
+"Żydem jest ten, którego co najmniej trzej dziadkowie są pod względem rasowym pochodzenia czysto żydowskiego. Za Żyda uważa się tego, którego dwaj dziadkowie są pod względem rasowym pochodzenia czysto żydowskiego, o ile w dniu 1 września 1939 roku należał do żydowskiej gminy wyznaniowej lub po tym terminie zostaje do niej przyjęty, o ile w chwili wejścia w życie rozporządzenia niniejszego był w związku małżeńskim z Żydem lub po tym terminie w związek taki wchodzi, o ile pochodzi z pozamałżeńskiego obcowania z Żydem i urodzi się po dniu 31 maja 1941 roku".
+
+<img src="./img/july/hansfrank2.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-24.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
