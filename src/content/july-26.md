@@ -3,10 +3,14 @@ layout: post
 title: 26 lipca
 image: img/july/bazyleaiii.jpg
 author: Tomasz Waszczyk
-date: 2018-07-26T10:00:00.000Z
+date: 2019-07-26T10:00:00.000Z
 tags:
   - Bazylea III
 ---
+
+### 2020
+
+<img src="./img/july/brrr.jpeg"><br><br>
 
 ### 2010
 
