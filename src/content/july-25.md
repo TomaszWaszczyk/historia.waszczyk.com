@@ -21,7 +21,7 @@ Fragment wspomnień jednego z tajnych współpracowników Urzędu Bezpieczeństw
 
 Na zdjęciu funkcjonariusze UB po udanej akcji likwidacji oddziału "Wiarusy" ("Znicz") 25 lipca 1949 roku, osiedle Surówki koło Rabki. Po lewej stronie komunistyczna grupa odgrywająca partyzantów.
 
-<img src="./img/june/wiarusy.jpg"><br><br>
+<img src="./img/july/wiarusy.jpg"><br><br>
 
 ### 1941
 
