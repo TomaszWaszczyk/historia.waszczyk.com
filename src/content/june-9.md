@@ -14,6 +14,14 @@ Polska: 1 tys. złotych - taki limit jednorazowej wypłaty z bankomatu wprowadza
 
 ---
 
+Things that happened on the same day, 9 june 2020.
+
+1. The US economy was officially confirmed to be in the recession.
+2. Nasdaq Composite hit all time high and went over 10 000 points.
+Beyond insanity.
+
+---
+
 <img src="./img/june/florczyk.jpeg"><br><br>
 
 ---

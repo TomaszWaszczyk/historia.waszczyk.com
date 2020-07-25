@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 25 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/kapitulacja.jpg
 author: Tomasz Waszczyk
-date: 2018-07-25T10:00:00.000Z
+date: 2019-07-25T10:00:00.000Z
 tags:
-  - 
+  - Karol Gustaw
 ---
 
 ### 1968
@@ -35,6 +35,13 @@ Tysiące Żydów wywieziono na roboty przymusowe do pobliskiego obozu
 
 <img src="./img/july/pogromy.jpg"><br><br>
 
+### 1932
+
+W Moskwie Polska i Związek Radziecki podpisały Pakt o Nieagresji. Układ ten zawarto na 3 lata, ale zapisano w nim klauzulę, która mówiła, że po tym czasie przedłuży się on automatycznie o następne 2 lata pod warunkiem, że że żadna ze stron go nie zerwie sama. W roku 1934 oba państwa podpisały kolejną klauzulę przedłużającą pakt na kolejne 11 lat.
+Nie trzeba chyba dodawać, że umowa ta straciła ważność 23 sierpnia 1939 roku, kiedy to doszło do podpisania niemiecko- radzieckiego układu Ribentropp- Mołotow skierowanego przeciwko Polsce.
+
+<img src="./img/july/nieagresja.jpg"><br><br>
+
 ### 1926
 
 https://en.wikipedia.org/wiki/Tad_Szulc
@@ -46,6 +53,13 @@ https://pl.wikipedia.org/wiki/Gavrilo_Princip
 ### 25 lipca
 
 https://pl.wikipedia.org/wiki/Ob%C5%82awa_augustowska
+
+### 1655
+
+Podczas rozpoczynającego się potopu szwedzkiego skapitulowała pod naporem wojsk króla Karola Gustawa polska załoga broniąca Ujścia. Obrona tego miasta będąca częscią tak zwanego" pospolitego ruszenia " miała za zadanie powstrzymanie dalszego marszu Szwedów na południe Polski. Broniący się przez pięć dni Polacy zmuszeni zostali do opuszczenia swoich pozycji.
+25 lipca podpisany został akt kapitulacji dający jednocześnie królowi szwedzkiemu pełnię władzy nad województwem poznańskim i kaliskim.
+
+<img src="./img/july/kapitulacja.jpg"><br><br>
 
 ---
 
