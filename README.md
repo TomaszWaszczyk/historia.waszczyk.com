@@ -2,6 +2,8 @@
 
 Przedwojenny 1PLN = 0.17grama XAU
 
+https://www.newsweek.pl/polska/polityka/general-wojciech-jaruzelski-historia-willi-jaruzelskiego/mlg7f69
+
 https://chomikuj.pl/ryszardq/War*c5*82am+Sza*c5*82amow+-+Opowiadania+ko*c5*82ymskie
 
 https://czytam.pl/k,ks_865477,Cyfrodziewczyny-Wasielewska-Karolina.html
