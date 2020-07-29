@@ -26,6 +26,10 @@ W tekście jest o tym, że to przez tą zdradę aliantów przegraliśmy IIWŚ. J
 
 <https://pl.wikipedia.org/wiki/Rada_Regencyjna>
 
+### 1919
+
+https://en.wikipedia.org/wiki/Gold_fixing
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-12.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

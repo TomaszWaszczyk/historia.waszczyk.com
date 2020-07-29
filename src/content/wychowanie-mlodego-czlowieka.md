@@ -99,6 +99,8 @@ Your browser does not support the video tag.
 
 * https://code.org/learn
 
+* https://codecombat.com/
+
 * https://play.elevatorsaga.com
 
 * https://www.ampleforth.org.uk/college/

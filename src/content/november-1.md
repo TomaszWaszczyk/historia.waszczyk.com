@@ -5,7 +5,7 @@ image: img/1-08.jpeg
 author: Tomasz Waszczyk
 date: 2018-11-01T10:00:00.000Z
 tags:
-  - Historia
+  - Gold
 ---
 
 ### 1975
@@ -13,6 +13,10 @@ tags:
 Odbyła się pierwsza kwesta artystów polskich na warszawskich Powązkach. Celem akcji było zbieranie funduszy na rzecz ratowania zabytkowych i niszczejących nagrobków. Jednym z pomysłodawców akcji był polski pisarz, publicysta, krytyk muzyczny i działacz społeczny Jerzy Waldorff (na zdjęciu). Waldorff osobiście dzwonił do znanych osobistości kultury i mediów namawiając ich do wzięcia udziału w zbiórce pieniędzy. Przyszło wtedy około 200 osób. Udział w kweście wzięli m.in. Irena Kwiatkowska, Danuta Szaflarska i Maja Komorowska. Coroczna zbiórka pieniędzy trwa do dziś.
 
 <img src="./img/november/waldorff.jpg"/><br><br>
+
+### 1961
+
+https://en.wikipedia.org/wiki/London_Gold_Pool
 
 ### 1946
 

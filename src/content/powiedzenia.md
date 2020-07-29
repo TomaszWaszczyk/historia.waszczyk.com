@@ -2896,6 +2896,8 @@ https://en.wikipedia.org/wiki/Analysis_paralysis
 
 A lot of https://www.thefreedictionary.com/ma%C3%B1ana
 
+Myśleć to znaczy wiedzieć przed (i działać).
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

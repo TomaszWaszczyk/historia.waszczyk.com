@@ -41,6 +41,10 @@ Oczywiscie, zeby wyrobic sobie wlasne zdanie na temat MMT ksiazke Stephanie Kelt
 
 ---
 
+### 2015
+
+Meczet wahabicki na Ochocie otwarty.
+
 ### 1920
 
 Rada Obrony Państwa powołała do życia Generalny Inspektorat Armii Ochotniczej, na którego czele stanął generał Józef Haller (zdjęcie).

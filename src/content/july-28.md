@@ -10,6 +10,8 @@ tags:
 
 ### 2020
 
+> Myśleć to znaczy wiedzieć przed (i działać).
+
 ZMIANA LIMITU ZADŁUŻENIA
 
 Kilka dni temu w przestrzeni publicznej pojawiła się informacja, że cześć „młodych” ekonomistów związanych z PiS zastanawia się nad ewentualnym zwiększeniem konstytucyjnego limitu zadłużenia Polski. Artykuł z ich wypowiedziami póki co traktuje jako „wrzutkę”, co nie oznacza, że rządzący poważnie nie zastanawiają się nad taką możliwością.
@@ -37,6 +39,13 @@ Po trzecie jaką mamy gwarancję, że dodatkowo pożyczone środki pójdą rzecz
 Po czwarte jest ewidentnie tak, jak już pisałem kilka razy. Przyszedł okres dekoniunktury i się okazuje, że jednak nie jesteśmy w stanie finansować tych wszystkim pomysłów, które się w ostatnich pięciu latach pojawiły. Trzeba zatem albo coś ściąć, to raczej politycznie na razie niewykonalne, albo podnieść podatki lub parapodatki, to także politycznie niełatwe, albo…no właśnie, albo się dodatkowo zadłużyć. Oczywiście, że nikt nie przewidział koronawirusa i jego konsekwencji. Ale gdybyśmy nie wydawali tyle w ostatnich latach, to nasza rezerwa byłaby teraz większa.
 
 No i na koniec jeszcze dwie kwestie. W zasadzie chyba fundamentalne. Jedna dotyczy samej zmiany Konstytucji i tego, czy to jest w tej chwili w ogóle realne. W końcu rządzący większości konstytucyjnej nie mają. A druga to to, że jesteśmy w Unii Europejskiej. A będąc w niej obowiązuje nas 60% maksymalnej wartości długu do PKB. Najpierw zatem trzeba by było rozmawiać na temat zmiany tego poziomu w UE, a potem dopiero zabierać się za nasze wewnętrzne przepisy. Choć faktem jest, że konsekwencje przekroczenia 60% wynikające z polskich przepisów są poważniejsze. Bo oznaczają złamanie Konstytucji. W przypadku przepisów unijnych musielibyśmy napisać plan ograniczania zadłużenia, ten plan musiałby zostać przez władze UE przyjęty i jego realizacja załatwiłaby sprawę. A i tu można by było coś jeszcze pokombinować. Ostatecznie mamy przecież parę przykładów, jak choćby wspomniane przeze mnie Węgry, w tej kwestii.
+
+### 1975
+
+Sąd Wojewódzki w Katowicach skazał na karę śmierci Zdzisława Marchwickiego (zdjęcie).
+"Wampir z Zagłębia", bo tak nazwały go media, został oskarżony o dokonanie w latach 1953-1970 zabójstw czternastu kobiet (jedną z ofiar była bratanica Edwarda Gierka, Jolanta) oraz usiłowanie kolejnych sześciu zabójstw. Ostatecznie Zdzisław Marchwicki i jego brat Jan zostali skazani za zabójstwo tylko jednej kobiety 45-letniej Jadwigi K. Pozostałych zabójstw im nie udowodniono. Karę śmierci przez powieszenie wykonano w grudniu 1975 roku.
+
+<img src="./img/july/wampir.jpg"><br><br>
 
 ---
 
