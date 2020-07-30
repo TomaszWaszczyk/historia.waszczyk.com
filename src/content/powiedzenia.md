@@ -2898,6 +2898,12 @@ A lot of https://www.thefreedictionary.com/ma%C3%B1ana
 
 Myśleć to znaczy wiedzieć przed (i działać).
 
+Poznaj samego siebie, a stanie przed toba otworem cały świat.
+
+Musimy złapać zmianę za rękę albo niechybniezmiana złapie nas za gardło.
+
+Jeśli jesteś zafocany, weźmiesz bicie.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
