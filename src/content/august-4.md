@@ -3,7 +3,7 @@ layout: post
 title: 4 sierpnia
 image: img/august/bzdura.png
 author: Tomasz Waszczyk
-date: 2019-08-04T10:00:00.000Z
+date: 2018-08-04T10:00:00.000Z
 tags:
   - Bogusław Wolniewicz
 draft: false  
