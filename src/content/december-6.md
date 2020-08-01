@@ -52,6 +52,10 @@ Wojskowy Sąd Specjalny skazał go na karę śmierci. Wyrok wykonała komórka e
 
 <img src="./img/december/witkowski.jpg"/><br><br>
 
+### 1893
+
+https://pl.wikipedia.org/wiki/Adam_Heydel
+
 ### 1849
 
 August von Mackensen - feldmarszałek niemiecki, dowódca wojsk niemieckich i austro-węgierskich podczas ofensywy pod Gorlicami i Tarnowem w maju 1915 r., zdobywca Belgradu w 1915 r. i Bukaresztu w 1916 r.

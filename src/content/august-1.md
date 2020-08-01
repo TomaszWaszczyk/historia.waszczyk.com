@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 1 sierpnia
-image: img/1-08.jpeg
+image: img/august/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-01T10:00:00.000Z
 tags:
   - Powstanie warszawskie
 ---
@@ -96,6 +96,14 @@ Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem
 
 1944 roku w Berlinie miała miejsce rozmowa Heinricha Himmlera z Adolfem Hitlerem, w czasie której ten pierwszy powiedział:
 " Mój Führerze, moment jest niekorzystny. Uważam wszakże za szczęśliwe zrządzenie losu, że Polacy to czynią . Za 5-6 tygodni opuścimy te obszary. Wtedy jednak zniszczona będzie Warszawa, stolica i serce tego 16-17 milionowego narodu, który od siedmiuset lat blokuje wschód, a od bitwy pod Grunwaldem stale zagradza nam drogę w tym kierunku. Warszawa zostanie zniszczona wraz z jej inteligencją . W konsekwencji problem polski przestanie być wielkim problemem dla naszych dzieci, dla dalszych potomków, a nawet już dla nas."
+
+---
+
+### 1920
+
+W czasie wojny polsko-bolszewickiej rozpoczęły się trwające tydzień walki na linii Bugu walki między 1. i 4. Armią Wojska Polskiego, a wojskami bolszewickimi. Polacy atakowani byli na odcinku od Brześcia do Wyszkowa. Kilkudniowy opór poskutkował chwilowym zatrzymaniem idących na Warszawę Rosjan, co wykorzystano do wzmocnienia pozycji obronnych wokół stolicy oraz na koncentrację wojsk przewidzianych do kontruderzenia nad Wieprzem.
+
+<img src="./img/august/bolszewicy.jpg"><br><br>
 
 ---
 
