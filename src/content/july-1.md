@@ -32,6 +32,10 @@ Układ Warszawski był organizacją o charakterze sojuszu politycznym i wojskowy
 
 Foto: Insygnia. 30 lat Układu Warszawskiego (1985 r)
 
+### 1990
+
+https://en.wikipedia.org/wiki/Operation_Simoom
+
 ### 1980
 
 Obradujące w Warszawie Biuro Polityczne Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej podjęło decyzję o podwyżce cen podstawowych artykułów spożywczych.

@@ -117,6 +117,10 @@ Ułóż się w pozycji standardowej. Prostując ręce, przejdź z deski na przed
 Your browser does not support the video tag.
 </video>
 
+### Inne
+
+Glutes and hamstrings
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
