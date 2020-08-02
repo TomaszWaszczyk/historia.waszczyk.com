@@ -85,6 +85,8 @@ Your browser does not support the video tag.
 
 * https://scratch.mit.edu/
 
+* https://code.org/curriculum/unplugged
+
 * https://www.tinkercad.com/
 
 * https://www.codingame.com/start
