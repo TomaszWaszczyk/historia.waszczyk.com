@@ -72,9 +72,13 @@ https://pl.wikipedia.org/wiki/Pierwsza_Konferencja_Metodologiczna_Historyk%C3%B3
 
 https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model
 
+### 1948
+
+https://pl.wikipedia.org/wiki/Tadeusz_Cegielski
+
 ### 1941
 
-1941 roku w Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
+W Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
 
 <img src="./img/january/bomber.jpg"/><br><br>
 

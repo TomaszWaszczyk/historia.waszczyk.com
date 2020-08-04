@@ -123,4 +123,16 @@ Glutes and hamstrings
 
 ---
 
+3 weeks in.
+
+4 sets each, 8-15 reps, increase weights after each set.
+
+Lots of volume, because lots of time during lockdowns.
+
+Will continue for 9 more weeks.
+
+<img src="./img/sport/legcurl.png"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

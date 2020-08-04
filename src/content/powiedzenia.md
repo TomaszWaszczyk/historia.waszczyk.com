@@ -2904,6 +2904,14 @@ Musimy złapać zmianę za rękę albo niechybniezmiana złapie nas za gardło.
 
 Jeśli jesteś zafocany, weźmiesz bicie.
 
+If you don't believe in your own work, how can you expect anyone else to?
+
+In spite of your fear, do what you have to do - Chin-Ning Chu
+
+Like gold is tested by rubbing, cutting, heating and beating so also a man is tested by his sacrifice, conduct, qualities/capablities and his actions.
+
+Single wheel can't move the chariot.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

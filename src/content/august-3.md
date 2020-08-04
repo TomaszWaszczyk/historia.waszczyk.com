@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 1 sierpnia
-image: img/1-08.jpeg
+title: 3 sierpnia
+image: img/august/klamcastalin.jpg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-01T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Stalin
+draft: false  
 ---
 
 ### 1946
@@ -25,6 +25,12 @@ Lt. Stanisław "Agaton" Jankowski at a city market on Kazimierza Wielkiego Squar
 Warsaw Uprising, August 3, 1944. Photo credit: Stefan "Kubuś" Bałuk
 
 <img src="./img/august/plunders.jpg"><br><br>
+
+### 1941
+
+W Moskwie podczas spotkania z delegacją polską zapytany o los zaginionych polskich oficerów Józef Stalin oświadczył, że w obozach na terenie ZSRR nie ma już żadnych polskich jeńców i że zbiegli oni prawdopodobnie do Mandżurii, co było oczywistym kłamstwem, ponieważ ludzie ci zostali zamordowani już wcześniej w Katyniu.
+
+<img src="./img/august/klamcastalin.jpg"><br><br>
 
 ### 1863
 
