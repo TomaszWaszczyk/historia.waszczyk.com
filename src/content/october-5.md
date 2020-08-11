@@ -9,6 +9,10 @@ tags:
 draft: true
 ---
 
+### 2018
+
+Bank Anglii ODMAWIA wydania Wenezueli 14 ton złota.
+
 ### 1960
 
 Waszyngton, debata telewizyjna kandydatów na prezydenta USA – Johna F. Kennedy’ego i Richarda Nixona. Kennedy, zwłaszcza w pierwszej debacie, ma dużą przewagę – jest młodszy, przystojniejszy i świetnie przygotowany merytorycznie. Zagrożeniem jest jego choroba Addisona, mogąca skutkować drgawkami w przypadku zbyt niskiej temperatury. Tuż przed wejściem na wizję sztabowcy Partii Demokratycznej podkręcają więc w tajemnicy termostat, co dodatkowo uderza w Nixona, mającego z kolei tendencję do nadmiernego pocenia się. Ponieważ urzędujący republikański wiceprezydent zrezygnował z makijażu, podczas zbliżeń kamery sto milionów Amerykanów obserwuje kropelki potu na jego twarzy. W zgodnej opinii komentatorów to telewizyjne debaty przesądzą o minimalnym zwycięstwie Kennedy’ego: 49,72% do 49,55% (różnica 112 tysięcy głosów), co przełoży się na różnicę 303 do 219 w Kolegium Elektorów. Nixon wyciągnie wnioski z niespodziewanej porażki – podczas swoich dwóch zwycięskich kampanii prezydenckich (w 1968 i 1972 roku) odmówi kontrkandydatowi demokratów dyskusji przed kamerą.

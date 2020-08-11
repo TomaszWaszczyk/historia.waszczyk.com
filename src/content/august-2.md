@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 1 sierpnia
+title: 2 sierpnia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-02T10:00:00.000Z
+date: 2019-08-02T10:00:00.000Z
 tags:
   - 
-draft: true  
+draft: false  
 ---
 
 ### 1990

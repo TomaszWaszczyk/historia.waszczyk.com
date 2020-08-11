@@ -23,6 +23,17 @@ Bzdura:
 
 <img src="./img/august/bzdura.png"><br><br>
 
+### 1944
+
+W Amsterdamie anonimowy donosiciel zdradził gestapowcom miejsce kryjówki żydowskiej rodziny Frank. Między godziną dziesiąta a wpół do jedenastej, SS Oberscharfuhrer Karl Josel Silberger razem z trzema pomocnikami holenderskimi z Grune Polizei wtargnęli do domu przy ulicy Prinsengracht 263 i aresztowali ojca rodziny Otto Franka, jego małżonkę Edith oraz ich dwie córki: Margot i Annę. Aresztowano również czwórkę przyjaciół rodziny Frank, którzy przez dwa lata ukrywali się razem z nimi w oficynie przy Prinsengracht. Aresztowani zostali także Johannes Kleiman i Victor Kugler, którzy razem z Elisabeth Bep Wijk-Voskuijl i Miep Gies-Santrouschitz przez 25 miesięcy opiekowali się całą ósemką.
+Rodzina Frank została osadzona w obozie przejściowym Westerbork, skąd 3 września zostali deportowani ostatnim transportem z Holandii na teren okupowanej Polski do niemieckiego KL Auschwitz II - Birkenau. Pod koniec października Anna i Margot zostały przewiezione do niemieckiego obozu koncentracyjnego Bergen- Belsen, gdzie zachorowały na tyfus i zmarły w marcu 1945 roku.
+6 stycznia 1945 roku matka dziewczynek Edith zmarła w obozie Auschwitz-Birkenau.
+Holokaust przeżył jedynie Otto, który 27 stycznia 1945 doczekał wyzwolenia przez Armię Czerwoną. Po powrocie z obozu koncentracyjnego Otto otrzymał ocalały rękopis dziennika po zmarłej Annie, postanowił spełnić jej marzenie i w 1947 roku doprowadził do publikacji Dziennika Anny Frank.
+
+Foto: Anna Frank, autorka ,,Dziennika'' - jednej z najważniejszych książek XX wieku, stanowiacej wyjątkowe świadectwo tragizmu wojny i Holocaustu widzianego z perspektywy nastoletniej, żydowskiej dziewczynki.
+
+<img src="./img/august/frank.jpg"><br><br>
+
 ### 1923
 
 Ówczewny minister spraw wojskowych generał broni Stanisław Szeptycki (zdjęcie) wydał rozkaz o ustanowieniu dnia 15 sierpnia Dniem Żołnierza. W rozkazie tym napisał między innymi:

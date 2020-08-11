@@ -26,6 +26,10 @@ WHO
 
 “No clear evidence of human-to-human transmission of coronavirus"
 
+---
+
+Limit anonimowego zakupy złota w Niemczech do 2000 Euro.
+
 ### 2017
 
 <img src="./img/others/gielda.png"/><br><br>

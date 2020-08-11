@@ -2912,6 +2912,8 @@ Like gold is tested by rubbing, cutting, heating and beating so also a man is te
 
 Single wheel can't move the chariot.
 
+św. Tomasza z Akwinu: Mało neguj. Dużo afirmuj. Wszystko badaj.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

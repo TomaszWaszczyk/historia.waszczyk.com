@@ -3,7 +3,7 @@ layout: post
 title: 5 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2018-08-05T10:00:00.000Z
+date: 2019-08-05T10:00:00.000Z
 tags:
   - Rozbiory
 ---

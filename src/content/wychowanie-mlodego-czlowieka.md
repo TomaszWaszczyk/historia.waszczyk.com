@@ -206,4 +206,10 @@ Your browser does not support the video tag.
 
 ---
 
+* metoda zielonego ołówka
+
+docenianie != chwalenie (docenianie to droga, chwalenie to efekt)
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

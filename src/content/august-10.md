@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1 sierpnia
+title: 10 sierpnia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-10T10:00:00.000Z
 tags:
   - 
 draft: true  

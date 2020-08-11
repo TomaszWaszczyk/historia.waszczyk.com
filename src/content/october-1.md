@@ -20,6 +20,10 @@ Prędkość 25 razy większa od prędkości dźwięku. Pocisk lata z prędkości
 
 <img src="./img/october/bron.jpg"/><br><br>
 
+### 2018
+
+Dekret prezydencji USA który nawołuje do bojkotu wenezuelskiej branży złota - Executive Order 13850.
+
 ### 1961
 
 https://en.wikipedia.org/wiki/Defense_Intelligence_Agency
