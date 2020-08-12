@@ -2914,6 +2914,8 @@ Single wheel can't move the chariot.
 
 św. Tomasza z Akwinu: Mało neguj. Dużo afirmuj. Wszystko badaj.
 
+https://en.wikipedia.org/wiki/Jumping_the_shark
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
