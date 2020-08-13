@@ -816,6 +816,16 @@ gderliwy
 
 This is an emotion-driven market and greed can flip to fear in a heartbeat.
 
+charakter proszelny
+
+ad inifinitum
+
+plot twist
+
+guns and butter
+
+https://pl.wikipedia.org/wiki/Schadenfreude
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

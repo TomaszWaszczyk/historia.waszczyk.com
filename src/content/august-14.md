@@ -3,10 +3,17 @@ layout: post
 title: 14 sierpnia
 image: img/august/Union_of_Krewo.jpg
 author: Tomasz Waszczyk
-date: 2018-08-14T10:00:00.000Z
+date: 2019-08-14T10:00:00.000Z
 tags:
-  - Historia
+  - Covid
 ---
+
+### 2020
+
+<video width="640" height="480" controls>
+  <source src="./movies/august/covid.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1980
 
@@ -16,7 +23,7 @@ https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 <a href="https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)" target="_blank">ORP Orzeł</a>
 
-### 14 sierpnia
+### 1385
 
 Unia w Krewie lub układ w Krewie, rzadziej umowa krewsko-wołkowyska[1] – akt wydany 14 sierpnia 1385 roku przez wielkiego księcia litewskiego Władysława Jagiełłę w Krewie, stanowiący jego zobowiązania przedślubne wobec Królestwa Polskiego. Wydanie aktu stanowiło wynik rozmów prowadzonych między księciem a panami małopolskimi na zamku w Krewie dotyczących małżeństwa królowej Jadwigi z Jagiełłą. Poprzedziły je jednak długoletnie, prawdopodobnie co najmniej od koronacji Jadwigi, negocjacje między stroną litewską a polską, a także z królową Elżbietą Bośniaczką, matką wciąż nieletniej Jadwigi.
 

@@ -2916,6 +2916,10 @@ Single wheel can't move the chariot.
 
 https://en.wikipedia.org/wiki/Jumping_the_shark
 
+Guns and butter
+
+ad infinitum
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
