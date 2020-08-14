@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 14 sierpnia
-image: img/august/Union_of_Krewo.jpg
+image: img/august/inflacja.png
 author: Tomasz Waszczyk
 date: 2019-08-14T10:00:00.000Z
 tags:
@@ -22,6 +22,13 @@ https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 ## 1936
 
 <a href="https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)" target="_blank">ORP Orzeł</a>
+
+### 1610
+
+Pod Tarnawcem koło Kuryłówki w powiecie Leżajskim w województwie podkarpackim miała bitwa, której precedensu trudno szukać w historii Polski.
+W wyniku prywatnej wojny między Stanisławem Stadnickim herbu Szreniawa, a starostą Leżajska Łukaszem Opalińskim doszło do konfrontacji, w której po obu stronach poległo 6 tysięcy ludzi.
+Dwa lata wcześniej Opaliński zdobył Łańcut-siedzibę Stadnickiego, który w 1610 roku postanowił dokonać odwetu. Stadnickiemu zwanemu "diabłem " udało się odbić rezydencję, a nawet zdobyć Leżajsk, ale w końcowym rozrachunku poniósł klęskę, ponieważ zgubiła go nieostrożność w czasie powrotu z bitwy. Został zabity w lesie, gdy przypadkiem zauważyli go żołnierze Opalińskiego.
+Legenda głosi, że odrąbaną głowę Diabła przywiózł do Lublina jeden z zalotników pięknej panny Reginy Żegocianki, by serce jej zdobyć i obnosił ją zatkniętą na drzewcu po Lublinie .
 
 ### 1385
 

@@ -16,6 +16,10 @@ https://en.wikipedia.org/wiki/Patriot_Act
 
 W Moskwie - Polska i ZSRR parafowały układ o wycofaniu wojsk sowieckich z Polski
 
+### 1911
+
+https://pl.wikipedia.org/wiki/Samuel_Reshevsky
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
