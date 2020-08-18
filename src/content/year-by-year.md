@@ -345,6 +345,10 @@ https://en.wikipedia.org/wiki/Bancor
 
 https://en.wikipedia.org/wiki/Operation_Bernhard - próba wyparcia pieniądza!!
 
+### 1939
+
+https://en.wikipedia.org/wiki/Monster_Study
+
 ### 1938
 
 <img src='./img/year-by-year/unemployed1938.png'><br><br>

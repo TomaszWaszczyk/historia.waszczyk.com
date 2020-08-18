@@ -10,6 +10,10 @@ tags:
 
 ### 2020
 
+<img src="./img/march/boe.png"><br><br>
+
+---
+
 Narodowy Bank Polski, ogłosił skup obligacji rządowych przez Bank Centralny.
 Jak to było w przeszłości?
  To już drugi raz w naszej historii. Niestety nie mogłem tego pamiętać zbyt dobrze, natomiast w latach 90', mieliśmy bardzo podobną sytuację. W ten sposób doprowadzono do hiperinflacji, a następnie denominacji starego PLZ. 

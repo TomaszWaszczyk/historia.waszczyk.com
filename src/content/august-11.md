@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 11 sierpnia
-image: img/august/Union_of_Krewo.jpg
+image: img/august/pkbpolska.jpg
 author: Tomasz Waszczyk
 date: 2019-08-11T10:00:00.000Z
 tags:

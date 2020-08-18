@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 17 sierpnia
-image: img/
+image: img/august/usadep.png
 author: Tomasz Waszczyk
-date: 2018-08-17T10:00:00.000Z
+date: 2019-08-17T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Recesja
+draft: false  
 ---
+
+### 2020
+
+U.S. industrial production: two decades of no growth.
 
 ### 1937
 
