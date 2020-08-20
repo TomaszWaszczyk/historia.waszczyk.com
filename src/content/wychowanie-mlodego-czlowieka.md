@@ -173,6 +173,8 @@ Your browser does not support the video tag.
 
 * Bieda. Przewodnik dla dzieci
 
+* IRWIN A. SCHIFF Jak Powstaje Bogactwo, I Kiedy Nie Powstaje
+
 ### Inne
 
 * https://www.subscribepage.com/kursRIE
@@ -209,6 +211,8 @@ Your browser does not support the video tag.
 * metoda zielonego ołówka
 
 docenianie != chwalenie (docenianie to droga, chwalenie to efekt)
+
+myślenie krytyczne
 
 ---
 

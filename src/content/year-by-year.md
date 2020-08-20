@@ -647,6 +647,10 @@ Kopernik rozróżniał też kilka funkcji pieniądza. Uważał go za miernik war
 
 https://pl.wikipedia.org/wiki/Czerwiec_polski
 
+### 1410
+
+https://pl.wikipedia.org/wiki/Kronika_konfliktu
+
 ### 1254
 
 https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99te_Cesarstwo_Rzymskie

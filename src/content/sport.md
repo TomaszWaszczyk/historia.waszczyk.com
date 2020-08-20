@@ -121,6 +121,10 @@ Your browser does not support the video tag.
 
 Glutes and hamstrings
 
+Oddech navy seals
+
+Metoda oddechu Butejki
+
 ---
 
 3 weeks in.

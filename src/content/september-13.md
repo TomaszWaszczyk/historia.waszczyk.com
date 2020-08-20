@@ -18,6 +18,8 @@ lat pozbawienia wolności. Zmarł w więzieniu w 1980 roku. Włodzimierz Leś, w
 
 ### 1732
 
+Początek rozbioru Polski:
+
 https://pl.wikipedia.org/wiki/Traktat_Loewenwolda
 
 ### 1195

@@ -826,6 +826,12 @@ guns and butter
 
 https://pl.wikipedia.org/wiki/Schadenfreude
 
+https://pl.wikipedia.org/wiki/Homo_agens-institutionalist
+
+https://pl.wikipedia.org/wiki/Creatio_ex_nihilo
+
+spetryfikowany
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
