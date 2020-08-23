@@ -1,13 +1,19 @@
 ---
 layout: post
-title: 1 sierpnia
-image: img/1-08.jpeg
+title: 24 sierpnia
+image: img/august/patkowski.jpg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-01T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Patkowski
+draft: false  
 ---
+
+### 2020
+
+Ciekawą rozmowę uciął sobie w TOK FM Maciek Głogowski z wiceministrem finansów Piotrem Patkowskim. Młody wiceminister w pewnym momencie zdradził, dlaczego rząd aż tak bardzo się nie przejmuje rosnącym zadłużeniem. Otóż wiceminister powiedział, że po pierwsze PKB będzie nominalnie rósł, więc ten sam dług z czasem „rozpuści się” w większym bogactwie Narodu, a po drugie, że…
+
+> „Oprocentowanie pieniędzy, które pożyczamy na rynku często jest niższe od poziomu inflacji. W związku z tym te pieniądze realnie i nominalnie tracą na wartości”
 
 ### 1939
 

@@ -20,6 +20,8 @@ Traktat umocnił pozycję III Rzeszy i ułatwił jej zaatakowanie Polski.  Po ag
 
 <img src="./img/august/pakt.jpg"><br><br>
 
+<img src="./img/august/pakt2.jpeg"><br><br>
+
 ### 1905
 
 https://pl.wikipedia.org/wiki/Czes%C5%82aw_Klimuszko - człowiek którzy przewidział, że w Polsce będą winnice.

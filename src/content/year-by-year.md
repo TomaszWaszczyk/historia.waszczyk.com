@@ -369,6 +369,10 @@ Wörgl was the site of the "Miracle of Wörgl" during the Great Depression. It w
 
 https://pl.wikipedia.org/wiki/Wielki_g%C5%82%C3%B3d_na_Ukrainie
 
+https://pl.wikipedia.org/wiki/Reforma_j%C4%99drzejewiczowska
+
+<!-- reforma edukacji -->
+
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
@@ -584,7 +588,7 @@ https://pl.wikipedia.org/wiki/Sejm_Rozbiorowy_(1773%E2%80%931775)
 ### 1768
 
 Władysław Konopczyński - Konfederacja barska Tom I & II
-
+<!-- ważne -->
 Konfederacja barska (1768-1772) była zbrojnym związkiem szlachty utworzonym w Barze na Podolu pod hasłem obrony wiary katolickiej i wolności. Szlachta sprzeciwiała się polityce Stanisława Augusta Poniatowskiego i mieszaniu się Rosji w sprawy wewnętrzne Polski, a za cel postawiła sobie wprowadzenie na tron Wettynów. W końcówce konfederackich bojów nastąpił pierwszy rozbiór Polski, podpisany przez ostatniego króla Rzeczypospolitej Obojga Narodów.
 
 Konfederacja należy do najbardziej kontrowersyjnych wydarzeń w historii Polski, a ocena ruchu nie jest jednoznaczna. Romantyczni twórcy opiewali antyrosyjską postawę konfederatów i podkreślali ich patriotyczne zasługi. W okresie pozytywizmu przeciwnie – zryw ten potępiano z powodu zaściankowości i braku tolerancji religijnej.

@@ -2930,6 +2930,8 @@ https://pl.wiktionary.org/wiki/nihil_novi_sub_sole
 
 "The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command." - George Orwell
 
+"Science is not perfect. It's often misused. It's only a tool. But it's the best tool we have."
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

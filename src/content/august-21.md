@@ -3,7 +3,7 @@ layout: post
 title: 21 sierpnia
 image: img/august/china.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-01T10:00:00.000Z
+date: 2019-08-21T10:00:00.000Z
 tags:
   - China
 draft: false  
@@ -18,6 +18,10 @@ Jeżeli chcemy wiedzieć dlaczego Chiny tworzą lądowy Jedwabny Szlak to warto 
 ---
 
 Czy uważacie, że półroczna strata w wysokości 21 miliardów dolarów (USD) w pierwszym półroczu tego roku to dużo? Z perspektywy polskiego rynku kapitałowego to tak jakby wszystkie aktywa funduszy inwestycyjnych stopniały o blisko jedną trzecią (na koniec lipca wartość aktywów zgromadzonych w polskich funduszach inwestycyjnych wynosiła 257,7 mld złotych, co daje około 69,6 mld (USD)), czyli całkiem sporo. Z perspektywy największego na Świecie funduszu emerytalnego jakim jest Norweski Państwowy Fundusz Emerytalny (z ang. Government Pension Fund of Norway - GPFN) z aktywami na poziomie 1,2 biliona USD jest to jednak nieco mniej (niespełna 2% wartości aktywów). A taką stratę ów fundusz zanotował w pierwszych sześciu miesiącach tego roku. Zważywszy na okoliczności i porównując do stopy zwrotu z polskiego rynku akcji w analogicznym okresie (indeks WIG -14,3%), taki wynik wydaje się całkiem przyzwoity. GPFN inwestuje jednak globalnie i w różne klasy aktywów.
+
+### 1944
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Falaise
 
 ### 1942
 
