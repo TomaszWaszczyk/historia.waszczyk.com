@@ -15,6 +15,22 @@ Spowiedź przedsiębiorcy. "Płacę podatki, odprowadzam ZUS, nie uciekam z tego
 
 Prowadzę działalność od 2005 roku, obraziłem Rzeczpospolitą Polską następującymi grzechami: uczciwie pracuję, zarabiam, odprowadzam podatki, nadal tu mieszkam. Wielu moich znajomych wyjechało, by zmienić rezydencję podatkową, nie chcą oddawać państwu 50 proc. tego, co sami wypracują.
 
+### 2013
+
+https://en.wikipedia.org/wiki/Ovadia_Yosef
+
+3) The purpose of Gentiles — to serve Jews:
+
+“Goyim were born only to serve us. Without that, they have no place in the world – only to serve the People of Israel.”
+
+“In Israel, death has no dominion over them… With gentiles, it will be like any person – they need to die, but [God] will give them longevity. Why? Imagine that one’s donkey would die, they’d lose their money.
+
+“This is his servant… That’s why he gets a long life, to work well for this Jew.”
+
+“Why are gentiles needed? They will work, they will plow, they will reap. We will sit like an effendi and eat… That is why gentiles were created.”
+
+— Weekly Saturday night sermon in October 2010
+
 ### 1952
 
 Rodzi się Władimir Władimirowicz Putin. Putin szpicel KGB IV kategorii w Dreźnie. Damski bokser z legitymacją STASI

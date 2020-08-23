@@ -832,6 +832,10 @@ https://pl.wikipedia.org/wiki/Creatio_ex_nihilo
 
 spetryfikowany
 
+The word "inflation" originates from the Latin word "inflare,"
+
+https://en.wikipedia.org/wiki/Cisgender
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

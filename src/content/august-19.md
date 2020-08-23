@@ -16,6 +16,14 @@ Wczoraj ceny złota zwyżkowały aż o 2,5%, a dzisiaj kontynuują ruch w górę
 Zwyżka cen złota jest w dużej mierze rezultatem słabości amerykańskiego dolara. US Dollar Index w ostatnich dniach porusza się w dół, oscylując już w okolicach tegorocznych minimów.
 Kupującym na rynku złota pomogły także informacje o tym, że spółka Warrena Buffetta, Berkshire Hathaway, kupiła akcje drugiego największego producenta złota na świecie, spółki Barrick Gold. Taki ruch ze strony jednego z największych krytyków inwestowania w złoto świadczy o tym, że nawet Buffett przekonał się do pozytywnych długoterminowych perspektyw dla cen złota. Mimo że najsłynniejszy inwestor świata nie wszedł na rynek kruszcu bezpośrednio, to zainwestował pośrednio, bowiem ceny akcji spółki Barrick Gold są silnie skorelowane z notowaniami złota na globalnym rynku.
 
+---
+
+Dziś, gdy mija pół wieku od śmierci Pawła Jasienicy (1909-1970), warto przypomnieć jego najbardziej osobistą i najbardziej wyklętą książkę – „Rozważania o wojnie domowej”. Jest to nie tylko znakomity esej o socjologii „najazdu wewnętrznego”, ale również o psychologii ludowego oporu.
+W „Rozważaniach o wojnie domowej” ci, których życie wdeptano w błoto, o których nawet pamięć miała zaginąć, skoro zagrodzili drogę „postępowi” – przemówili ustami tego, który przeżył. Bóg, który daje życie chroni również pamięć i sam wybiera świadków.
+Pisząc o Wandei Jasienica nie budował prostych analogii, po prostu – jako uniwersalne symbole – opisał realne prototypy kontrrewolucji i pierwszego rewolucyjnego ludobójstwa. Dla Jasienicy książka ta, pisana z nikłą (ale jednak) nadzieją publikacji, była również okazją do osobistego świadectwa o uczuciach tych, u boku których kontynuował walkę po wojnie. Co czują ludzie, dla których najpewniejszą nadzieją staje się jedynie godna śmierć?
+
+---
+
 ### 1970
 
 Zmarł Paweł Jasienica, pisarz, publicysta i żołnierz Armii Krajowej.

@@ -3,10 +3,10 @@ layout: post
 title: 22 sierpnia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-22T10:00:00.000Z
+date: 2019-08-22T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Allied Forces Act
+draft: false  
 ---
 
 ### 1940

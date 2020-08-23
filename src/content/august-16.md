@@ -8,6 +8,12 @@ tags:
   - Wielki Strajk Chłopski
 ---
 
+### 1971
+
+Nixon severs convertibility between US dollar and gold.
+
+<img src="./img/august/goldnixon.jpeg"><br><br>
+
 ### 1943
 
 <https://pl.wikipedia.org/wiki/Powstanie_w_getcie_bia%C5%82ostockim>

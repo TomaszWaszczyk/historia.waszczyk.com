@@ -28,6 +28,13 @@ In 2012, Mr. Saylor wrote “The Mobile Wave,” addressing the impact mobile co
 
 “MicroStrategy remains focused on its corporate strategy of operating a growing profitable business intelligence company, serving some of the largest most respected institutions worldwide. This strategy includes seeking to grow its revenue through its HyperIntelligence, Cloud Intelligence, and Embedded Intelligence offerings, a refreshed go-to-market focused on simplified products and pricing, and a cloud-first platform-as-a-service focus. MicroStrategy’s goal of generating long-term operating income and free cash flow has also led it to adopt a new capital allocation strategy. MicroStrategy believes that buying $250 million in Bitcoin will provide it the opportunity to earn better returns and preserve the value of our capital over time compared to holding cash. Our corporate strategy and two-pronged capital allocation strategy are designed to benefit shareholders, customers, partners, and employees,” said Phong Le, President & CFO, MicroStrategy Incorporated.
 
+### 1942
+
+Hedy Lamarr uzyskała patent dotyczący technologii bezkablowej komunikacji, wykorzystywany przez Aliantów podczas II Wojny Światowej. Później wynalazek stał się podstawą dla #wifi, #bluetooth i telefonii komórkowej.
+Hedy była też aktorką.
+
+<img src="./img/august/lamarr.jpeg"><br><br>
+
 ### 1944
 
 https://pl.wikipedia.org/wiki/Brygada_%C5%9Awi%C4%99tokrzyska

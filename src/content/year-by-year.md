@@ -196,6 +196,10 @@ The separation between deposit and investment banking has been removed: https://
 
 Nick Szabo’s 1994 article “Formalizing and securing relationships on public networks”
 
+### 1992
+
+https://en.wikipedia.org/wiki/Hyperinflation_in_Yugoslavia
+
 ### 1989
 
 https://pl.wikipedia.org/wiki/Teoria_Deng_Xiaopinga

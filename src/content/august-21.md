@@ -1,13 +1,23 @@
 ---
 layout: post
-title: 1 sierpnia
-image: img/1-08.jpeg
+title: 21 sierpnia
+image: img/august/china.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-01T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - China
+draft: false  
 ---
+
+### 2020
+
+Jeżeli chcemy wiedzieć dlaczego Chiny tworzą lądowy Jedwabny Szlak to warto rzucić okiem na skan ruchu statków w cieśninie Malakka. I teraz dodać do tego że ich główny rywal (USA) w pełni panuje na morzu, to już wiemy dlaczego budują szlak w środku lądu.
+
+<img src="./img/august/china.jpeg"><br><br>
+
+---
+
+Czy uważacie, że półroczna strata w wysokości 21 miliardów dolarów (USD) w pierwszym półroczu tego roku to dużo? Z perspektywy polskiego rynku kapitałowego to tak jakby wszystkie aktywa funduszy inwestycyjnych stopniały o blisko jedną trzecią (na koniec lipca wartość aktywów zgromadzonych w polskich funduszach inwestycyjnych wynosiła 257,7 mld złotych, co daje około 69,6 mld (USD)), czyli całkiem sporo. Z perspektywy największego na Świecie funduszu emerytalnego jakim jest Norweski Państwowy Fundusz Emerytalny (z ang. Government Pension Fund of Norway - GPFN) z aktywami na poziomie 1,2 biliona USD jest to jednak nieco mniej (niespełna 2% wartości aktywów). A taką stratę ów fundusz zanotował w pierwszych sześciu miesiącach tego roku. Zważywszy na okoliczności i porównując do stopy zwrotu z polskiego rynku akcji w analogicznym okresie (indeks WIG -14,3%), taki wynik wydaje się całkiem przyzwoity. GPFN inwestuje jednak globalnie i w różne klasy aktywów.
 
 ### 1942
 

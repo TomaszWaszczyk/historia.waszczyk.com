@@ -2926,6 +2926,10 @@ Nieznajomość prawa szkodzi.
 
 "Różnica między wschodem a zachodem jest taka, że u nas rodzice oszczędzają aby zapewnić przyszłość swoim dzieciom, a u was (od jakiegość czasu) rodzice zaciągają długi, które będą spłacać ich dzieci" Jack Ma
 
+https://pl.wiktionary.org/wiki/nihil_novi_sub_sole
+
+"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command." - George Orwell
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
