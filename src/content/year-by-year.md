@@ -192,6 +192,10 @@ https://en.wikipedia.org/wiki/Michel_Foucault
 
 The separation between deposit and investment banking has been removed: https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation (introduced in https://www.historia.waszczyk.com/may-23)
 
+### 1997
+
+https://pl.wikipedia.org/wiki/Academi prywatna armia
+
 ### 1994
 
 Nick Szabo’s 1994 article “Formalizing and securing relationships on public networks”

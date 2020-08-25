@@ -1,13 +1,23 @@
 ---
 layout: post
 title: 26 sierpnia
-image: img/1-08.jpeg
+image: img/august/nationstate.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-26T10:00:00.000Z
+date: 2019-08-26T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Nation-state
+draft: false  
 ---
+
+### 2020
+
+Chinese are doing a runner, taking their wealth out of China using the Bitcoin Express
+
+The government (like all governments) is powerless to stop it
+
+The era of the nation-state is finished
+
+<img src="./img/august/nationstate.jpeg"><br><br>
 
 ### 2002
 

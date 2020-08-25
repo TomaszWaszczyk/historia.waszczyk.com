@@ -72,6 +72,8 @@ A na koniec taka rada. Przedsiębiorcy powinni mieć oszczędności. Schowane, u
 
 <https://en.wikipedia.org/wiki/Executive_Order_6102>
 
+<img src="./img/april/goldfed.png"><br><br>
+
 ### 1883
 
 Dwaj polscy naukowcy z Uniwersytetu Krakowskiego Zygmunt Wróblewski i Karol Olszewski jako pierwsi na świecie dokonali skroplenia tlenu. 8 dni później udało im się skroplić wodór stosowany dziś powszechnie w paliwach rakietowych.

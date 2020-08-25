@@ -100,6 +100,12 @@ Ogólna narkoza nie wchodziła w grę. Chirurg zastosował miejscowe znieczuleni
 
 <img src="./img/others/medicine/operacja.jpg"/><br><br>
 
+### 1937
+
+Remote medicine (Punch).
+
+<img src="./img/medicine/remotemedicine.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/medicine.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
