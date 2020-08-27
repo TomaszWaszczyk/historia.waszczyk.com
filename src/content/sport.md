@@ -65,16 +65,16 @@ Your browser does not support the video tag.
 ---
 
 <video width="640" height="480" controls>
-  <source src="https://waszczyk.com/resources/cwiczenia-yoga.mp4" type="video/mp4">
+  <source src="./movies/sport/cwiczenia-yoga.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
----
+<!-- ---
 
 <video width="640" height="480" controls>
-  <source src="https://waszczyk.com/resources/w-domu.mp4" type="video/mp4">
+  <source src="./movies/sport/w-domu.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video> -->
 
 ---
 

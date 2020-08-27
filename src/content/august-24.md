@@ -3,7 +3,7 @@ layout: post
 title: 24 sierpnia
 image: img/august/patkowski.jpg
 author: Tomasz Waszczyk
-date: 2019-08-01T10:00:00.000Z
+date: 2019-08-24T10:00:00.000Z
 tags:
   - Patkowski
 draft: false  
@@ -33,4 +33,4 @@ Bilans kończącej się bitwy to po stronie polskiej 4500 zabitych, 22 tysiące 
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-24.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

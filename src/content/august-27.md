@@ -8,6 +8,16 @@ tags:
   - PZPR
 ---
 
+### 2020
+
+100 lat temu (27.08.1920) ogłoszono ustawę wprowadzającą podatek dochodowy. 
+
+To 1. w odrodzonej Rzeczypospolitej powszechny #podatek, obowiązujący na wszystkich ziemiach pozaborowych. Stanowił gł. źródło dochodów budżet. kraju, kt. niespełna 2 l wcześniej odzyskał niepodległość.
+
+<img src="./img/august/podatki.jpeg"><br><br>
+
+100 lat kary za pracowitość.
+
 ### 1941
 
 Józef Stalin wydał decyzję o utworzeniu w Polsce partii komunistycznej pod nazwą Polska Partia Robotnicza. Pełnomocnictwo w tej sprawie przekazał stojącemu na czele Kominternu Georgijowi Dymitrowowi. Polecenia utworzenia struktur tej organizacji otrzymali również członkowie grup dywersyjnych wyszkolonych przez radzieckie służby specjalne.Członkowie tych grup mieli być zrzuceni na spadochronach na tereny polskie.
