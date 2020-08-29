@@ -12,6 +12,10 @@ https://historykon.pl/kalendarium-historyczne
 
 https://historykon.pl/artykuly/reformacja-w-niemczech-i-jej-nastepstwa
 
+https://kompromitacje.blogspot.com/
+
+https://www.bundesarchiv.de
+
 http://ivrozbiorpolski.pl/
 
 yelita.pl/

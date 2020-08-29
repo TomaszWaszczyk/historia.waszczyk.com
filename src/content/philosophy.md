@@ -4,7 +4,7 @@ title: Filozofia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
 date: 2018-03-10T10:00:00.000Z
-draft: true
+draft: false
 tags:
   - Filozofia
 ---
@@ -267,3 +267,7 @@ Różne
     „Trupy trzeba wyrzucać jeszcze bardziej niż łajno”
 
     „Nie na sposób ludzki, ale z pomocą bóstwa wyraziłem się jaśniej od Sybilli”
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/philosophy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

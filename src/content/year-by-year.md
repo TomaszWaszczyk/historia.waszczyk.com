@@ -482,6 +482,12 @@ https://en.wikipedia.org/wiki/Berlin_Conference
 
 https://pl.wikipedia.org/wiki/Faszyzm
 
+### 1863
+
+The Office of the Comptroller of the Currency (OCC) is an independent bureau within the United States Department of the Treasury that charters, regulates and supervises national banks and savings associations to ensure a safe, sound and fair banking system. The bureau was created by the National Currency Act of 1863 (later amended by the National Bank Act) to oversee a national banking system. The OCC is the primary regulator of banks chartered under the National Bank Act and federal savings associations chartered under the Home Owners' Loan Act. Institutions that seek to be nationally chartered (i.e. to build a nationwide branch networkii) must undergo an in-depth application process with the OCC. The OCC regulates almost 1,200 institutions that hold $12.9 trillion in total assets, almost 70% of all U.S. commercial banking assets.iii A few of the largest national banks include JPMorgan Chase Bank, N.A., Bank of America N.A., and Wells Fargo Bank, N.A.iv
+
+The OCC is led by the Comptroller of the Currency. The Comptroller of the Currency is the administrator of the federal banking system and chief officer of the OCC. The Comptroller is also a director of the Federal Deposit Insurance Corporation and a member of the Financial Stability Oversight Council and the Federal Financial Institutions Examination Council. Brian P. Brooks is the current Acting Comptroller. Brian joined the OCC in March 2020 as chief operating officer (second in command) and took office as Acting Comptroller upon resignation of the former Comptroller (Joseph Otting) at the end of May 2020. Prior to joining the OCC, Brian was Chief Legal Officer at Coinbase, a crypto company that provides retail and institutional clients with trading, custody, payment, and other services for digital assets.
+
 ### 1850
 
 https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu, wzamian sprowadzili górników i dziwki

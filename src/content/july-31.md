@@ -3,10 +3,14 @@ layout: post
 title: 31 lipca
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2018-07-31T10:00:00.000Z
+date: 2019-07-31T10:00:00.000Z
 tags:
   - Freigeld
 ---
+
+### 1987
+
+https://en.wikipedia.org/wiki/Spycatcher
 
 ### 1972
 

@@ -850,6 +850,10 @@ close to impossible
 
 talk to you soon
 
+pytania badawcze
+
+https://pl.wikipedia.org/wiki/Brzytwa_Ockhama - ucinanie tematów pobocznych w rozmowie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
