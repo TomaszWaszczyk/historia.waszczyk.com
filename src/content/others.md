@@ -32,7 +32,9 @@ draft: false
 
 9. <a href="https://historia.waszczyk.com/computer-science" target="_blank">Computer science</a>
 
-10. 9. <a href="https://historia.waszczyk.com/education" target="_blank">Historia edukacji</a>
+10. <a href="https://historia.waszczyk.com/education" target="_blank">Historia edukacji</a>
+
+11. <a href="https://historia.waszczyk.com/philosophy" target="_blank">Historia edukacji</a>
 
 https://www.werandaweekend.pl/sprawdzone-miejsca/muzea/te-muzea-odwiedzisz-bez-wychodzenia-z-domu
 

@@ -8,6 +8,56 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+### Pan Cogito o potrzebie ścisłości
+
+(...)
+
+a przecież w tych sprawach konieczna jest aktualność
+
+nie wolno się pomylić
+
+nawet o jednego
+
+ 
+
+jesteśmy mimo wszystko
+
+stróżami naszych braci
+
+niewiedza o zaginionych
+
+podważa realność świata
+
+ 
+
+wtrąca w piekło pozorów
+
+diabelską sieć dialektyki
+
+głoszącej że nie ma różnicy
+
+między subiekcją a widmem
+
+ 
+
+musimy zatem wiedzieć
+
+policzyć dokładnie
+
+zawołać po imieniu
+
+opatrzyć na drogę
+
+
+
+w miseczce z gliny
+
+proso mak kościany grzebień
+
+groty strzał
+
+pierścień wierności
+
 ### Konstanty Ildefons Gałczyński, Zima z wypisów szkolnych
 
 Któż to tak śnieżkiem prószy z niebiosów?

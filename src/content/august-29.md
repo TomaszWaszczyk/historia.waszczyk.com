@@ -1,12 +1,36 @@
 ---
 layout: post
-title: 1 sierpnia
-image: img/1-08.jpeg
+title: 29 sierpnia
+image: img/august/starzyludzie.jpeg
 author: Tomasz Waszczyk
-date: 2018-08-01T10:00:00.000Z
+date: 2019-08-29T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - CBDC
+draft: false
+---
+
+### 2020
+
+CBDCs is a huge advancement and a huge threat. Even if used with blockchain, it centralizes the sovereign currency even more and stamps even more power to the issuer. The good part of the story is that blockchain technologies are really getting wide adoptions in it's different forms.
+
+The U.S. Federal Reserve is actively investigating distributed ledger technologies for use in digitizing the dollar, CoinDesk regulatory reporter Nikhilesh De said. “To enhance the Federal Reserve’s understanding of digital currencies, the Federal Reserve Bank of Boston is collaborating with researchers at the Massachusetts Institute of Technology in a multiyear effort to build and test a hypothetical digital currency oriented to central bank uses,” Federal Reserve Board Governor Lael Brainard said Thursday. While the monetary authority was long looking into a digital dollar, the coronavirus crisis and China’s ongoing experiments with a CBDC have provided impetus to “remain on the frontier of research and policy development.”
+
+---
+
+<img src="./img/august/starzyludzie.jpeg"><br><br>
+
+---
+
+𝚆𝚑𝚎𝚗 𝚙𝚎𝚘𝚙𝚕𝚎 𝚒𝚗 𝚅𝚎𝚗𝚎𝚣𝚞𝚎𝚕𝚊 𝚊𝚗 𝚃𝚞𝚛𝚔𝚎𝚢 𝚑𝚎𝚊𝚛 𝚝𝚑𝚎𝚒𝚛 𝚎𝚗𝚝𝚛𝚊𝚕 𝚋𝚊𝚗𝚔 𝚜𝚊𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚍𝚜 "𝚖𝚘𝚍𝚎𝚛𝚊𝚝𝚎𝚕𝚢" 𝚊𝚗𝚍 "𝚏𝚘𝚛 𝚜𝚘𝚖𝚎 𝚝𝚒𝚖𝚎", 𝚝𝚑𝚎𝚢 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚠𝚑𝚎𝚝𝚑𝚎𝚛 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝 𝚕𝚊𝚞𝚐𝚑𝚒𝚗𝚐 𝚘𝚛 𝚌𝚛𝚢𝚒𝚗𝚐. 🇹🇷🇻🇪
+
+"...following periods when inflation has been running persistently below 2%, appropriate monetary policy will likely aim to achieve inflation moderately above 2% for some time." FED Chairman Jerome Powell 27 Aug 2020
+
+Putting complete trust in your central bank is not a one-way street. If you'd rather protect your savings from fancy acronyms like MMT and QE, which mean nothing more than currency manipulation, then take a look at this "Hard Money" documentary 🎥
+
+And remember that in a free market economy you should always have options as to where you can put your money!
+
+<img src="./img/august/reichsmark.jpeg"><br><br>
+
 ---
 
 ### 1946
@@ -29,6 +53,14 @@ Danuta Siedzikówna „Inka”, sanitariuszka i łączniczka zgrupowania ,,Łupa
 
 W czasie kończącej się pierwszej wojny światowej Rada Komisarzy Ludowych (rząd radziecki) anulowała wszystkie obowiązujące do tej pory traktaty rozbiorowe zawarte z Prusami i Austrią.
 
+### 1837
+
+W 1839 roku francuski fizyk Alexandre Edmond Becquerel eksperymentując z elektrodami metalowymi i elektrolitem odkrył, że przewodnictwo elektryczne rośnie wraz z podświetleniem, a co za tym idzie, że niektóre materiały wytwarzają niewielkie ilości prądu elektrycznego po wystawieniu na działanie światła. Odkrycie to stało się bodźcem do dalszych badań nad tą tematyką.
+
+W 1904 roku znany wszystkim Albert Einstein opublikował swoją pracę opisującą naturę światła i efekt fotowoltaiczny. Wykazał w niej, że światło to strumień cząstek – fotonów, z których każdy niesie ściśle określoną porcję energii – kwant energii. Foton oddziałując na elektron znajdujący się na powierzchni płytki metalowej, przekazuje mu całą swą energię. Gdy energia fotonu jest większa od energii wiązania elektronu, elektron zostaje wyrwany z powierzchni płytki i zachodzi zjawisko fotowoltaiczne. Za to odkrycie Einstein otrzymał w 1921 roku nagrodę Nobla.
+
+W historii rozwoju fotowoltaiki zapisał się również nasz rodak Jan Czochralski, który w 1918 roku odkrył metodę produkcji krzemu monokrystalicznego. Osiągnięcie Polaka umożliwiło wytwarzanie monokrystalicznych ogniw słonecznych. Pierwsze takie ogniwo krzemowe zostało zbudowane w 1941 roku.
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-29.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

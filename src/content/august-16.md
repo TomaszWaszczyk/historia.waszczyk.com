@@ -8,6 +8,12 @@ tags:
   - Wielki Strajk Chłopski
 ---
 
+### 2020
+
+Białoruś
+
+<img src="./img/august/protesty-bialorus.jpeg"><br><br>
+
 ### 1971
 
 Nixon severs convertibility between US dollar and gold.

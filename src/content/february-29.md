@@ -19,6 +19,14 @@ Kilka dni później dotknięty tym Gomułka odpowiedział:
 
 <img src="./img/february/kisielewski.jpg"/><br><br>
 
+### 1953
+
+[EN] Exactly 92 years ago this photo was taken. There is Lester Jennings Hendershot (inventor of free electricity generators)and his son Lester Jay Hendershot. In their hands we see a toy constructed for the son - a plane that flew without a battery.
+
+[PL] Równo 92 lata temu zostało wykonane to zdjęcie. Jest na nim Lester Jennings Hendershot (wynalazca generatorów wolnej energii elektrycznej) i jego syn Lester Jay Hendershot. W ich rękach widzimy zabawkę skonstruowaną dla syna - samolot, który latał bez baterii.
+
+<img src="./img/february/lester.jpeg"><br><br>
+
 ### 1952
 
 Ambasada radziecka w Stanach Zjednoczonych wystosowała pismo w sprawie zbrodni katyńskiej do Departamentu Stanu w Waszyngtonie.

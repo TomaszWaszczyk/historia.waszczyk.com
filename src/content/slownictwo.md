@@ -840,7 +840,15 @@ fork off
 
 republikanie - lewica
 
+perlisty śmiech
 
+mafia state
+
+discovery phase
+
+close to impossible
+
+talk to you soon
 
 ---
 

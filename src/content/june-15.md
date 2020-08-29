@@ -15,6 +15,12 @@ Stany Zjednoczone są obecnie głęboko podzielone światopoglądowo i nie chodz
 
 ---
 
+Niemal równo 18 lat temu, w czerwcu 2002 roku, grupa audytorów zaczęła rutynową kontrolę w spółce WorldCom, ówczesnego giganta z branży telekomunikacyjnej, który wtedy obsługiwał niemal 50% całego przepływu danych w Internecie! 😲
+
+Przekręt WorldCom może być już dziś trochę zapomniany, ale kreatywna księgowość, która za nim stała, dalej jest popularna. Warto wiedzieć, jak rozwijała się jedna z największych afer z lat 2000, żeby szybciej wyłapać podobne naciąganie rzeczywistości w przyszłości u innych.🧐
+
+---
+
 <video width="640" height="480" controls>
   <source src="./movies/june/NickLandsResponsetoTechSecessionism.mp4" type="video/mp4">
 Your browser does not support the video tag.

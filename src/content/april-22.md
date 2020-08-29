@@ -44,6 +44,10 @@ W Poznaniu zmarł na atak serca Jan Czochralski - profesor Politechniki Warszaws
 
 <img src="./img/april/czochralski.jpg"><br><br>
 
+### 1947
+
+https://pl.wikipedia.org/wiki/Gabriel_Janowski
+
 ### 1919
 
 Ukazała się wydana w języku polskim i litewskim odezwa Józefa Piłsudskiego do mieszkańców byłego Wielkiego Księstwa Litewskiego.

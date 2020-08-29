@@ -100,6 +100,20 @@ Ogólna narkoza nie wchodziła w grę. Chirurg zastosował miejscowe znieczuleni
 
 <img src="./img/others/medicine/operacja.jpg"/><br><br>
 
+### 1946
+
+This ECG dated 1946 was recorded on photographic paper, one of the last made from a string galvanometer.
+
+These strips represent leads I, II, III, and IV (lead IV being precordial lead, later designated "V1-6").
+
+Precordial leads were standardized by AHA in 1938 while augmented unipolar leads (aVR, aVL, aVF) were invented by Goldberg in 1942 (modified from Wilson). But their use was not widespread until well into the 1950s.
+
+By late 1940s, direct-writing electrocardiographs would be invented (Cardiotron), which would revolutionize the industry. By 1950, all cardiographs made ECGs with heated stylus on wax paper.
+
+From: James Ong MD Museum of Pacing & Electrohysiology - where medical history comes alive
+
+<img src="./img/medicine/Electrocardiogram.jpeg"><br><br>
+
 ### 1937
 
 Remote medicine (Punch).
