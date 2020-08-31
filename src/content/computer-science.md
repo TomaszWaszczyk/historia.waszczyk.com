@@ -9,6 +9,8 @@ tags:
 draft: false
 ---
 
+https://en.wikipedia.org/wiki/Operational_transformation - google wykorzystuje
+
 https://en.wikipedia.org/wiki/Brendan_Gregg
 
 Context not control.

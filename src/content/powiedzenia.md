@@ -2934,6 +2934,40 @@ https://pl.wiktionary.org/wiki/nihil_novi_sub_sole
 
 Skropnie przyjmować, spokojnie oddawać.
 
+"It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." - Henry Ford
+
+1876: “The Americans have need of the telephone, but we do not.  We have plenty of messenger boys.” — William Preece, British Post Office.
+
+1876: “This ‘telephone’ has too many shortcomings to be seriously considered as a means of communication.” — William Orton, President of Western Union.
+
+1889: “Fooling around with alternating current (AC) is just a waste of time.  Nobody will use it, ever.” — Thomas Edison
+
+1903: “The horse is here to stay but the automobile is only a novelty – a fad.” — President of the Michigan Savings Bank advising Henry Ford’s lawyer, Horace Rackham, not to invest in the Ford Motor Company.
+
+1921: “The wireless music box has no imaginable commercial value.  Who would pay for a message sent to no one in particular?
+
+1946: “Television won’t be able to hold on to any market it captures after the first six months.  People will soon get tired of staring at a plywood box every night.” — Darryl Zanuck, 20th Century Fox.
+
+1959: “Before man reaches the moon, your mail will be delivered within hours from New York to Australia by guided missiles.  We stand on the threshold of rocket mail.” — Arthur Summerfield, U.S. Postmaster General.
+
+1961: “There is practically no chance communications space satellites will be used to provide better telephone, telegraph, television or radio service inside the United States.” — T.A.M. Craven, Federal Communications Commission (FCC) commissioner.
+
+1966: “Remote shopping, while entirely feasible, will flop.” — Time Magazine.
+
+1981: “Cellular phones will absolutely not replace local wire systems.” — Marty Cooper, inventor.
+
+1995: “I predict the Internet will soon go spectacularly supernova and in 1996 catastrophically collapse.” — Robert Metcalfe, founder of 3Com.
+
+2005: “There’s just not that many videos I want to watch.” — Steve Chen, CTO and co-founder of YouTube expressing concerns about his company’s long term viability.
+
+2006: “Everyone’s always asking me when Apple will come out with a cell phone.  My answer is, ‘Probably never.’” — David Pogue, The New York Times.
+
+2007: “There’s no chance that the iPhone is going to get any significant market share.” — Steve Ballmer, Microsoft CEO.
+
+"Economist Paul Krugman wrote that by 2005, it would become clear that the Internet's effect on the economy is no greater than the fax machine's."
+
+
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

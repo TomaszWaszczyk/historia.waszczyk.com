@@ -16,6 +16,8 @@ https://kompromitacje.blogspot.com/
 
 https://www.bundesarchiv.de
 
+Lech Wyszczelski
+
 http://ivrozbiorpolski.pl/
 
 yelita.pl/

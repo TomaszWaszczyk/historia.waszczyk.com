@@ -3,9 +3,9 @@ layout: post
 title: 31 sierpnia
 image: img/august/Komarow_pomn.jpg
 author: Tomasz Waszczyk
-date: 2018-08-31T10:00:00.000Z
+date: 2019-08-31T10:00:00.000Z
 tags:
-  - Historia
+  - Kiszczak - Wałęsa
 ---
 
 <!-- ### 2017
@@ -96,6 +96,15 @@ Angela Merkel powiedziała „Wir schaffen das”, co znaczy „Damy radę“, �
 
 https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
 
+### 1988
+
+W willi Ministerstwa Spraw Wewnętrznych przy ulicy Zawrat w Warszawie odbyło się spotkanie Lecha Wałęsy z Czesławem Kiszczakiem. Towarzyszyli im również biskup Jerzy Dąbrowski oraz sekretarz Komitetu Centralnego Stanisław Ciosek.
+W trakcie spotkania ustalono, że przewodniczący NSZZ Solidarność nakłoni strajkujących do powrotu do pracy i zaprzestania protestów, co miało być warunkiem rozpoczęcia przygotowań do rozmów przy Okrągłym Stole.
+Tak o tym fakcie w książce "Droga do wolności pisał Wałęsa:
+"Oczywiście, nie byłem zadowolony, ale też nie mogłem zbytnio podskakiwać. Kilkanaście strajkujących zakładów to nie kilkaset, jak w sierpniu 1980, a generał powiedział bez ogródek, że i tak „beton" partyjny próbuje torpedować każdą ofertę ugody z opozycją. Czułem, że mówi szczerze, lecz zastanawiałem się, jak spojrzę w oczy zarośniętym, czekającym z nadzieją stoczniowcom czy górnikom. Cóż z tego – myślałem – że racja moralna jest po ich stronie?"
+
+<img src="./img/august/kiszczakwalesa.jpg"><br><br>
+
 ### 1945
 
 Stefan Banach to jeden z najważniejszych matematyków w historii. Za jego czasów nie było uczonych, którzy nie słyszeliby o Banachu. Prace jego były tłumaczone na najważniejsze języki świata, a on sam w ogromnym stopniu przyczynił się do rozwoju matematyki, jak i jej popularyzacji.
@@ -109,6 +118,15 @@ Banach był tak cennym kąskiem dla wszystkich państw, że propozycje pracy u n
 Gdyby istniał Nobel z matemtyki, to na pewno by go dostał. Mówi się o tym, że przed śmiercią rozmawiał z synem, że chce się zająć fizyką, i że ma pomysły, które przyniosą mu Nagrodę Nobla. Niestety nie doczekał realizacji tych planów. Zmarł 31 sierpnia 1945 roku w swoim ukochanym Lwowie, który w wyniku konferencji jałtańskiej, znajdował się już po radzieckiej stronie.
 
 <img src="./img/august/steinhaus.jpg"><br><br>
+
+### 1944
+
+Polski Komitet Wyzwolenia Narodowego wydał tak zwaną "Sierpniówkę" czyli Dekret o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego.
+Dokument ten przewidywał  karę śmierci za zabójstwa, znęcanie się i innego typu prześladowanie ludności cywilnej i jeńców wojennych. Zgodnie z ustaleniami Międzynarodowego Trybunału Wojskowego w Norymberdze odpowiedzialność karna groziła również za sam udział w niemieckiej lub sprzymierzonej z Niemcami organizacji przestępczej (np. NSDAP, gestapo itd.). Przewidziano również karę więzienia za szantaż z żądaniem okupu za zaniechanie donosu do władz niemieckich.
+Postanowienia dekretu odnosiły się do czynów popełnionych w okresie od 1 września 1939 roku do 9 maja 1945 roku.
+Władze komunistyczne podeszły do jego realizacji bardzo restrykcyjnie, obejmując jego przepisami działaczy podziemia antykomunistycznego, a także byłych żołnierzy Armii Krajowej.
+
+<img src="./img/august/sierpniowka.jpg"><br><br>
 
 ### 1939
 

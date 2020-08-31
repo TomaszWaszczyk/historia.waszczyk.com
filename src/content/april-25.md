@@ -340,6 +340,10 @@ Powiedział:
 
 I to był jego testament.
 
+### 1883
+
+https://pl.wikipedia.org/wiki/Siemion_Budionny zarządzał operacją warszawską w 1920 od stroby bolszewickiej
+
 ### 1794
 
 W Wilnie został osądzony, a następnie powieszony Szymon Kossakowski (grafika) zdrajca, uczestnik Konfederacji Barskiej, jeden z głównych orędowników zawiazania Konfederacji Targowickiej, samozwańczy hetman polny litewski.
