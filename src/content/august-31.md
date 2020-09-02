@@ -8,6 +8,13 @@ tags:
   - Kiszczak - Wałęsa
 ---
 
+### 2020
+
+Robert F. Kennedy Jr. spoke to an enormous crowd in Berlin on Saturday, as tens of thousands of Germans joined forces to protest what Kennedy Jr. referred to as Bill Gates’ “bio-security agenda, the rise of the authoritarian surveillance state and the Big Pharma sponsored coup d’etat against liberal democracy.”
+“Fifty years ago, my uncle John F. Kennedy came to this city. He came to this land, because Berlin was the frontline against global totalitarianism. And today again, Berlin is frontline against global totalitarianism,” said Kennedy Jr. to a roar of approval from the crowd.
+
+<img src="./img/august/berlin.png"><br><br>
+
 <!-- ### 2017
 
 W RAMACH ODKŁAMYWANIA HISTORII, ale i odświeżania pamięci :)

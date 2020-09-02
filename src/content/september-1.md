@@ -3,9 +3,9 @@ layout: post
 title: 1 września
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2018-09-01T10:00:00.000Z
+date: 2019-09-01T10:00:00.000Z
 tags:
-  - Historia
+  - Niemcy
 ---
 
 ### 2017
@@ -37,6 +37,8 @@ Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
 <img src="./img/september/obwieszczenie.jpg/><br><br>
 
 ### 1939 - Polska jako "państwo sezonowe" - Saisonstadt
+
+<img src="./img/september/niemcyatakauj.jpg"><br><br>
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
 
@@ -149,7 +151,48 @@ Trzeba to jasno powiedzieć. W II WŚ Polska stanęła po złej stronie barykady
 
 Krakowskie lotnisko Rakowice stało się celem niemieckiego bombardowania. Udział w tym nalocie wzięło 150 samolotów 4 Floty Luftwaffe. Mogło być ich więcej,ale jedna eskadra pomyliła drogę i ominęła Kraków. Około godziny siódmej rano z rozkazu kapitana Mieczysława Medweckiego wystartowały pierwsze polskie patrole rozpoznawcze.
 
-## 1940
+---
+
+Ustawa o wcieleniu Wolnego Miasta Gdańska do Rzeszy Niemieckiej z dnia 1 września 1939 r.
+§ l
+Wydana przez głowę państwa Wolnego Miasta Gdańska zasadnicza ustawa państwowa o wcieleniu Gdańska do Rzeszy Niemieckiej - nabiera niniejszym mocy ustawy Rzeszy. Brzmienie jej jest następujące:
+Artykuł I. Znosi się z mocą natychmiastową konstytucję Wolnego Miasta Gdańska.
+Artykuł II. Całą władzę ustawodawczą i wykonawczą sprawuje wyłącznie głowa państwa.
+Artykuł III. Wolne Miasto Gdańsk wraz ze swym terytorium i ludnością staje się - z mocą natychmiastową - częścią składową Rzeszy Niemieckiej.
+Artykuł IV. Do czasu ostatecznego uregulowania przez Wodza sprawy wprowadzenia niemieckiego prawa Rzeszy pozostają w mocy wszystkie postanowienia ustawowe z wyjątkiem konstytucji obowiązujące w chwili wydania niniejszej zasadniczej ustawy państwowej.
+Gdańsk, 1 września 1939 r.
+Albert Forster
+§ 2.
+Obywatele dotychczasowego Wolnego Miasta Gdańska są obywatelami niemieckimi zgodnie z przepisami szczegółowymi.
+§ 3.
+Na terenie dotychczasowego Wolnego Miasta Gdańska pozostaje na razie w mocy prawo obowiązujące dotychczas — z wyjątkiem konstytucji Wolnego Miasta Gdańska
+§ 4.
+1) W dotychczasowym Wolnym Mieście Gdańsku nabiera mocy obowiązującej od dnia 1 stycznia 1940 r. całe prawo Rzeszy oraz pruskie prawo krajowe.
+2) Właściwy minister Rzeszy w porozumieniu z ministrem spraw wewnętrznych Rzeszy może postanowić, że prawo Rzeszy lub pruskie prawo krajowe nie nabiera mocy obowiązującej w dotychczasowym Wolnym Mieście Gdańsku, albo że nabiera jej w terminie późniejszym, albo też nabiera jej zgodnie z przepisami szczególnymi. Takie postanowienie wymaga ogłoszenia w Dzienniku Ustaw Rzeszy.
+3) Minister spraw wewnętrznych Rzeszy w porozumieniu z właściwymi ministrami może w drodze rozporządzenia wprowadzić w życie prawo niemieckie i pruskie prawo krajowe do dnia 31 grudnia 1939 r.
+§ 5.
+1) Instancją centralną do spraw wcielenia Gdańska do Rzeszy Niemieckiej jest minister spraw wewnętrznych Rzeszy.
+2) Minister spraw wewnętrznych Rzeszy jest upoważniony do wydania rozporządzeń prawnych i administracyjnych, potrzebnych do wykonania i uzupełnienia niniejszej ustawy
+§ 6.
+Niniejsza ustawa obowiązuje od dnia 1 września 1939 r.
+Berlin, 1 września 1939 r.
+Wódz i Kanclerz Rzeszy
+Adolf Hitler
+Minister Spraw Wewnętrznych Rzeszy
+Frick
+Zastępca Wodza
+R. Heß
+Przedstawiciel do spraw Planu Czteroletniego
+Göring, Feldmarszałek, pruski Prezes Rady Ministrów
+Minister Spraw Zagranicznych Rzeszy
+von Ribbentrop
+Minister Rzeszy i Szef Kancelarii Rzeszy
+Dr. Lammers
+Foto: Albert Forster - gauleiter Wolnego Miasta Gdańska odczytuje proklamację o przyłączeniu Gdańska do Rzeszy. Była ona transmitowana na żywo przez radio. 1 września 1939 r.
+
+<img src="./img/september/gdanskzajety.jpg"><br><br>
+
+### 1940
 
 Fragment pamiętnika Ireny Glück, nastoletniej żydowskiej dziewczynki z Krakowa.
 

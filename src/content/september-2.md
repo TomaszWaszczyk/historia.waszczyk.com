@@ -3,10 +3,26 @@ layout: post
 title: 2 września
 image: img/september/volks.png
 author: Tomasz Waszczyk
-date: 2018-09-02T10:00:00.000Z
+date: 2019-09-02T10:00:00.000Z
 tags:
-  - Historia
+  - ECB
 ---
+
+### 2020
+
+ECB balance sheet hit another ATH at €6,440.2bn as Lagarde keeps printing press rumbling. Total assets rose by another €16.2bn on QE. ECB balance sheet now equal to 61% of Eurozone GDP vs BoJ's 132% and Fed's 36%.
+
+<img src="./img/september/ecb.png"><br><br>
+
+---
+
+Kończący się cykl gospodarczy dokonuje szeregu zmian w przebiegu szlaków handlowych. Dlatego warto poczytać jak dawne imperia budowały swoja potęgę.
+
+<img src="./img/september/administracjacesarska.jpeg"><br><br>
+
+---
+
+<img src="./img/september/piskghm.jpg"><br><br>
 
 ### 1949
 
@@ -16,6 +32,24 @@ https://pl.wikipedia.org/wiki/Hans-Hermann_Hoppe
 
 Rozpoczęło się niemieckie bombardowanie węzła lotniczego w Dęblinie. Głównym celem ataku stały się : składnica lotnicza, pole startowe i Dział Nauk. Aby w jakiś sposób przeciwdziałać powietrznym atakom Luftwaffe, próbowano naprędce zorganizować obronę. Niestety szkolne samoloty nie były w stanie sprostać temu zadaniu. 4 września sformowano pluton rozpoznawczy na dwóch samolotach Potez XXV. Uzupełniony jeszcze dwoma „ Karasiami ” działał pod dowództwem kpt.obs.Juliana Łagowskiego na korzyść Brygady Pancerno – Motorowej oraz formującej się właśnie Armii „ Lublin ” gen.Tadeusza Piskora. Obszaru powietrznego nad Dęblinem próbowała bronić również grupa pilotów myśliwskich z Ułęża. Wyposażona w samoloty P – 11 kilkakrotnie odpierała skuteczne ataki niemieckich bombowców. Całością dowodził kpt.pil. Stanisław Brzezina. 7 września grupa ta wycofała się na wschód. W walkach wyróżnili się piloci – instruktorzy, w okresie późniejszym bardzo znani, doskonali myśliwcy: por.Stefan Witorzeńć, Witold Urbanowicz, Tadeusz Arentowicz, Zdzisław Henneberg. 5
 września ppor.pil. Wacław Krół ze 121 eskadry myśliwskiej Armii „ Kraków ” wraz z kapralem pil.Piotrem Zaniewskim zestrzelili nad lotniskiem Borowina jednego Dorniera
+
+---
+
+Fragment dzienniczka Basi Rosenberg-15-letniej Żydówki zamieszkałej w centrum Przeworska, obok ratusza, przy Rynku 36. Była absolwentką szkoły żeńskiej, którą ukończyła w roku szkolnym 1935/36. Dalsza edukację kontynuowała w oddziale handlowym Publicznej Dokształcającej Szkoły Zawodowej. Dyplom otrzymała 22 czerwca 1939 roku. Mając 14 lat rozpoczęła pisanie dziennika, w którym przedstawiła zapis życia małego polskiego miasteczka położonego na terenie dawnej Galicji, a także opisała tragiczne wydarzenia września 1939 roku.  Były to dwa zeszyty. Pierwszy zeszyt prawdopodobnie zaginął, a drugi został odnaleziony w 1958 roku podczas robót ziemnych. Dzienniczek kończy się na dacie 24 września 1939 roku. Dalsze losy autorki są owiane tajemnicą. Prawdopodobnie nie doczekała zakończenia wojny, jak większość polskich Żydów. Rękopis jej pamiętnika zachował się w zbiorach archiwalnych Muzeum w Przeworsku:
+,,2.IX.39 (sobota wieczór 9-ta)
+Wojna. Mówiono ciągle o tem, a jednak nikt nie wierzył, że wybuchnie. I oto siedzimy w ciemnościach. Elektryki nie wolno świecić, by nie było widać światła na zewnątrz. Piszę przy świeczce. Na dworze jest ciemno i tak ponuro i okropnie dookoła. Okna muszą być przysłonięte. Boję się panicznie. Już było dziś kilka alarmów gazowych, ale na szczęście były fałszywe. Nerwy mam naprężone. Nie wiem jak ja to przetrwam. Ludzie uszczelniają okna każdy chce się bronić, a nie wie jak. O Boże! Zlituj się nad nami. Co będzie dalej. Na szczęście nie ma teraz alarmu gazowego, więc możemy być spokojni. Wojna. Nigdy sobie tego tak nie przedstawiałam. Łajki narzeczony jest u nas. Przyjechał we czwartek. Cukru nie wydają nam we fabryce. Mamy tam zapłacone przeszło 2 wagony. Nadsłuchuję ciągle i każdy szmer wydaje mi się wyciem syreny alarmowej. Auta jadą przesłonięte niebieską żelatyną. O 4-tej nad ranem obudził nas alarm gazowy i później było jeszcze kilka. Nerwy odmawiają mi posłuszeństwa. Z frontu jeszcze nic pewnego nie wiadomo. Chodzą pogłoski, że zbombardowano Kraków i dużo miast, że wojsko polskie zajęło Gdańsk, ale nie wiadomo czy to prawda. Ludzie uciekają z Katowic i Krakowa i nasza drogą przejeżdża mnóstwo samochodów z uciekającymi. Luzer jest przy OPL ma teraz służbę. Benzyny nie wydaje się teraz prywatnym samochodom i biedni uciekinierzy nie mają teraz ratunku. Okropne, a wszystko to przez jednego człowieka. Hitler, wszyscy go tak nienawidzą, iż myślę że z zimną krwią zamordowaliby go najokrutniejszą śmiercią. Jak to długo potrwa. Czy on jest naprawdę nieśmiertelny jak opowiada witz. Piszę głupstwa. Nie mogę myśli zebrać. Chciałam się tym pisaniem choć trochę uspokoić. Ufam Bogu i wierzę, że jest On sprawiedliwy i potrafi uczynić wszystko co zechce. Proszę tylko by nas nie opuścił.''
+źródło: Dzienniczek Basi Rosenberg (Przeworsk 1938-39)
+Muzeum w Przeworsku - Zespół Pałacowo-Parkowy, Przeworsk 1997, str. 58-59.
+
+<img src="./img/september/rosenberg.jpg"><br><br>
+
+---
+
+Podczas walk w rejonie Jordanowa 10. Brygada Kawalerii Zmotoryzowanej pod dowództwem pułkownika dyplomowanego Stanisława Maczka (na zdjęciu po lewej stronie) zniszczyła ok. 50 czołgów niemieckiego XXII Korpusu Pancernego.
+
+<img src="./img/september/maczek.jpg"><br><br>
+
+---
 
 ### 1940
 

@@ -2966,7 +2966,9 @@ Skropnie przyjmować, spokojnie oddawać.
 
 "Economist Paul Krugman wrote that by 2005, it would become clear that the Internet's effect on the economy is no greater than the fax machine's."
 
+https://pl.wikipedia.org/wiki/M%C4%85dro%C5%9B%C4%87_Syracha
 
+Na pochyłe drzewo wszystkie kozy skaczą. 
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
