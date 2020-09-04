@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 20 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/20200722_143150.jpg
 author: Tomasz Waszczyk
-date: 2018-07-20T10:00:00.000Z
+date: 2019-07-20T10:00:00.000Z
 tags:
   - Manifest PKWN
 ---
@@ -11,6 +11,8 @@ tags:
 ### 1944
 
 https://pl.wikipedia.org/wiki/Manifest_PKWN
+
+https://pl.wikipedia.org/wiki/Zamach_20_lipca
 
 ---
 

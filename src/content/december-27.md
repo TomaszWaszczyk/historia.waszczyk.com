@@ -8,6 +8,12 @@ tags:
   - Sowieci
 ---
 
+### 1983
+
+Papież Jan Paweł II spotkał się w więzieniu z Mehmetem Alim Agcą, który 13 maja 1981 roku, podczas audiencji generalnej na placu św. Piotra w Rzymie dokonał nieudanego zamachu na jego życie. Papież ponownie przebaczył zamachowcowi. Po zakończonym spotkaniu papież zanotował: „Ali Agca – jak mi się wydaje – zrozumiał, że ponad jego władzą, władzą strzelania i zabijania, jest jakaś potęga wyższa. Zaczął więc jej poszukiwać. Życzę mu, aby ją odnalazł.''
+
+<img src="./img/december/przebaczenie.jpg"/><br>
+
 ### 1981
 
 Amerykański tygodnik "Time Magazine" przyznał przewodniczącemu NSZZ Solidarność tytuł "Człowieka Roku 1981". Był on pierwszym Polakiem, któremu przyznano ten tytuł.
@@ -46,6 +52,27 @@ Poniższy tekst to treść interpelacji poselskiej autorstwa posła Polskiego St
 Na zdjęciu zniszczony nielegalny pomnik UPA w Hruszowicach.
 
 <img src="./img/december/pomnik.jpg"/><br>
+
+### 1939
+
+w podwarszawskiej miejscowości Wawer Niemcy dokonali jednej z największych zbrodni na Polakach.
+W odwecie za zabicie przez dwóch miejscowych polskich kryminalistów dwóch niemieckich podoficerów niemieckiego batalionu budowlanego aresztowano 114 przypadkowych mieszkańców Wawra i Anina. Najmłodszy z nich miał 15 lat, a najstarszy 70. Wszystkich postawiono przed tak zwanym sądem doraznym po czym skazano ich na śmierć przez rozstrzelanie. Egzekucji dokonały 2 i 3 Kompania Batalionu nr 6 31 Pułku Policji Porządkowej pod dowództwem Fryderyka Wilhelma Wenzla. 7 osób mimo ciężkich obrażeń przeżyło egzekucję.
+Zbrodnia w Wawrze była pierwszą masową
+zbrodnią na ludności cywilnej Warszawy i
+okolic, oraz w Generalnym Gubernatorstwie .
+W reakcji na to wydarzenie polski ruch
+stworzył konspiracyjną młodzieżową
+Organizację Małego sabotażu „Wawer” ,
+związanej z organizacją harcerską Szare
+Szeregi, która liczyła 500 członków i wykonała
+w latach 1940-1945 około 170 akcji przeciwko
+okupacyjnym siłom niemieckim.
+Wspomina Janina Przedlacka, która w egzekucji straciła męża Józefa, urzędnika elektrowni miejskiej w Warszawie i syna Mieczysława, studenta:
+"Leżeli obok siebie. Twarz męża była zmasakrowana do niepoznania. Oko wybite, nos spłaszczony. Kołnierz futrzany od palta podarty w strzępy. Leżał skurczony, jak w okropnym bólu. Był już zimny. Wiedziałam, że nie żyje. Za to syn leżał wyprostowany, z czapką na głowie, oczy otwarte, jakby za chwilę miał wstać. Zdawało mi się, że żyje. Rozpięłam mu koszulę, ciało było jeszcze ciepłe i spocone. Zaczęłam je wycierać i rozcierać. Chciałam za wszelką cenę przywrócić go życiu. Czekałam na cud.
+Zaczęli schodzić się ludzie. Niewypowiedziana rozpacz ogarnęła wszystkich. Ludzie biegali jak obłąkani. Płakali, wyli z bólu i bezradności, przysięgali odwet. Chcieli zabierać zabitych do domu. Stawiali ich na nogi, zaklinali, żeby ożyli, by się odezwali. Twarda konieczność jednak kazała opanować się. Ktoś powiedział, że na razie nie można zabierać zwłok, trzeba pochować na miejscu. Składaliśmy więc do dołu mężów, synów, ojców, jednego obok drugiego. Pokrywaliśmy im twarze -czym kto mogl-kapeluszami, szalikami, chustkami, aby im im się do oczu piasku nie nasypało.
+Zostałam sama. Zbolała i zrozpaczona, skrzywdzona w sposób, którego żadna mowa ludzka nie jest w stanie wyrazić"
+
+<img src="./img/december/wawer.jpg"/><br>
 
 ### 1918
 

@@ -25,6 +25,10 @@ Tej samej karze podlega ten, kto takim żydom udziela świadomie schronienia lub
 
 Zwracam całej ludności Okręgu Warszawskiego wyraźnie uwagę na to nowe postanowienie ustawowe, ponieważ odtąd będzie stosowana bezlitosna surowość.
 
+### 1939
+
+https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+
 ### 1918
 
 Zwolniony z więzienia w Magdeburgu Józef Piłsudski przybył do Warszawy. Więzionego od 22 lipca 1917 roku zwolniono z powodu obawy niemieckiego sztabu przed połączeniem się rewolucji niemieckiej z bolszewicką. Przypuszczano,że powstanie wolnego państwa polskiego będzie skuteczną barierą przed rozprzestrzenianiem się komunizmu na zachód. Jak bardzo słuszne były to obawy, zachodnia Europa przekonała się już wkrótce.

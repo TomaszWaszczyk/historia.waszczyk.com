@@ -1,13 +1,36 @@
 ---
 layout: post
 title: 15 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/glapinski.jpg
 author: Tomasz Waszczyk
-date: 2018-07-15T10:00:00.000Z
+date: 2019-07-15T10:00:00.000Z
 tags:
-  - Source
+  - NBP
 ---
 
-### Getting Started
+### 2020
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+NBP: Recesja może być znacznie głębsza, niż się spodziewacie.
+
+---
+
+Twórca wskaźnika Altmana oczekuje serii wielkich bankructw
+
+Edward Altman, twórca wskaźnika sygnalizującego możliwością upadłości firmy, ostrzega amerykańskich inwestorów z rynku kredytu, że seria wielkich bankructw w USA właśnie się rozpoczęła.
+Altman zauważył, że od stycznia już ponad 30 amerykańskich firm z długiem przekraczającym 1 mld USD wystąpiło o ochronę przed roszczeniami wierzycieli. Jego zdaniem, ich liczba przekroczy 60 do końca tego roku, bo firmy nagromadziły olbrzymie ilości długu podczas pandemii. Z wyliczeń Bloomberga wynika, że globalne firmy emitowały obligacje rekordowej wartości 2,1 bln USD w tym roku, z czego połowa przypadła na emitentów z USA.
+
+---
+
+### 1963
+
+https://de.wikipedia.org/wiki/Neues_%C3%96konomisches_System_der_Planung_und_Leitung
+
+### 1410
+
+Miała miejsce jedna z największych bitew w historii średniowiecznej Europy, to bez wątpienia jedna z najbardziej znanych dat polskiej historii. Na Polach Grunwaldu połączone siły Królestwa Polskiego i Wielkiego Księstwa Litewskiego pod dowództwem króla Polski Władysława II Jagiełły, starły się z elitą wojsk Zakonu Krzyżackego wspartą przez ciężkozbrojne rycerstwo z całej Europy Zachodniej pod dowództwem wielkiego mistrza Ulricha von Jungingena. Miażdżące zwycięstwo wojsk polsko-litewskich złamało potęgę Zakonu i przeszło do historii jako jedno z najwspanialszych zwycięstw oręża polskiego.
+
+<img src="./img/july/grundwald.jpg"><br><br>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-15.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

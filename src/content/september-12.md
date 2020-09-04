@@ -8,9 +8,27 @@ tags:
   - Historia
 ---
 
-## 1917
+### 1939
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_%C5%81%C4%99townic%C4%85_i_Andrzejewem
+
+---
+
+Francuzi i Brytyjczycy zdecydowali się nie pomagać Polsce w walce z Niemcami.
+
+Argumentowali to faktem szybkich postępów wojsk niemieckich i brakiem sensowności tego typu działania. Ewidentny dowód na to, jak iluzoryczne były wcześniejsze to obietnice z ich strony. Oni nawet nie mieli żadnego planu na to, jak mogliby nam pomóc.
+
+W tekście jest o tym, że to przez tą zdradę aliantów przegraliśmy IIWŚ. Ja zdecydowanie się z tym nie zgadzam. Przegraliśmy, przez naszą wrodzoną naiwność i hamletyzm, którego uosobieniem był minister spraw zagranicznych Józef Beck.
+
+Ówcześni decydenci nie żałowali nigdy krwi naszego narodu i polskiego
+
+### 1917
 
 <https://pl.wikipedia.org/wiki/Rada_Regencyjna>
+
+### 1919
+
+https://en.wikipedia.org/wiki/Gold_fixing
 
 ---
 

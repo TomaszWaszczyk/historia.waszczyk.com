@@ -654,6 +654,209 @@ koabitacja, cohabitation;
 
 agora - przestrzeń
 
+beneficjum - korzyść
+
+https://pl.wiktionary.org/wiki/wysiuda%C4%87
+
+https://idioms.thefreedictionary.com/handle+with+kid+gloves
+
+sunny day scenario
+
+https://pl.wiktionary.org/wiki/bigot
+
+agape
+
+sprokurować
+1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»
+2. pot. «przygotować, sporządzić, zorganizować coś»
+
+argumentum ad ignorantiam
+
+kacyk
+1. przywódca plemienny;
+2. potocznie: urzędnik samowolnie sprawujący władzę, wykorzystujący stanowisko dla własnych korzyści
+
+Myślenie lateralne
+(ang. lateral thinking, lub myślenie w bok[1]) – termin wprowadzony w roku 1967 przez Edwarda de Bono i oznaczający nowe spojrzenie na sytuację (kreatywność), dostrzeżenie nowych możliwości (nowe idee), przeformułowanie problemu dające szansę rozwiązania go nowymi metodami.
+
+ersatz
+namiastka jakiejś rzeczy lub podróbka, coś zastępczego, gorszej jakości
+
+Pieniędza szczęścia nie dają, ale każdy chce to sprawdzić.
+
+at will
+https://worldpopulationreview.com/states/at-will-employment-states/
+
+bajać - opowiadać bajki
+
+https://pl.wikipedia.org/wiki/Cymelia
+
+żyłochlasty
+
+https://pl.wikipedia.org/wiki/Idempotentność
+
+banking cartel
+
+information cartel
+
+infoentermeint
+
+moral compas
+
+stupor
+zaburzenie psychiczne objawiające się znacznym zahamowaniem ruchowym i ograniczeniem reakcji na bodźce zewnętrzne; osłupienie, drętwica
+
+https://pl.wikipedia.org/wiki/Brzytwa_Ockhama
+
+Grow Rich In Your Sleep
+
+homogenizacja władzy
+
+neoliberalizm państwo jest łupem
+
+petryfikacja
+1. «utrwalenie (się) czegoś w określonej formie niepodatnej na zmiany»
+2. «proces przemiany w kamień»
+3. «wzmacnianie i uszczelnianie gruntu budowlanego przez wstrzykiwanie jakiegoś utwardzacza»
+
+fading power - zanikająca siła
+
+https://pl.wikipedia.org/wiki/Appeasement
+
+https://pl.wikipedia.org/wiki/Autarkia_(ekonomia)
+
+https://pl.wikipedia.org/wiki/Impostacja_g%C5%82osu
+
+https://pl.wikipedia.org/wiki/Neoluddyzm
+
+scholastyka
+1. «średniowieczna filozofia chrześcijańska, charakteryzująca się wywodzeniem prawd z dogmatów religijnych»
+2. «formalistyczne rozumowanie odwołujące się do autorytetów i dogmatów, bezwartościowe naukowo»
+
+good point - słuszna uwaga
+
+utracjusz
+człowiek lekkomyślnie wydający pieniądze; hulaka; lekkoduch
+
+I haven't landed yet - jeszcze nie skumałem/zrozumiałem
+
+węzłowisko symboliczne
+
+wise money
+
+a contrario
+
+konsolacja
+1. «pociecha, pocieszenie»
+2. «poczęstunek po pogrzebie»
+
+non consummatum - brak seksu
+
+eudajmonia
+
+https://pl.wikipedia.org/wiki/Paradoks_dnia_urodzin
+
+https://pl.wikipedia.org/wiki/Entropia_(teoria_informacji)
+
+https://en.wikipedia.org/wiki/Retail_apocalypse
+
+https://en.wikipedia.org/wiki/Agorism
+
+anomia
+
+idiopatyczny
+
+low hanging fruit
+
+zwierzę uczepione skały pędzące 10k/h przez kosmos - człowiek
+
+homo oeconomicus
+
+https://pl.wikipedia.org/wiki/Akolita
+
+natural born slaves
+
+pokładziny
+
+https://pl.bab.la/slownik/angielski-polski/punchline
+
+supreme meeting
+
+ultimate goal
+
+way too much - o wiele za dużo
+
+carved in stone - wyryte w kamieniu
+
+deus ex machina:
+
+1 : a god introduced by means of a crane (see crane entry 1 sense 3a) in ancient Greek and Roman drama to decide the final outcome
+2 : a person or thing (as in fiction or drama) that appears or is introduced suddenly and unexpectedly and provides a contrived solution to an apparently insoluble difficulty
+
+heads-up - informacyjnie, uwaga na głowy
+
+efemeryczny «krótkotrwały, szybko przemijający»
+• efemerycznie • efemeryczność
+
+ezopowy język
+
+https://pl.wikipedia.org/wiki/Prakseologia
+
+money is a sign of poverty
+
+a conto - na poczet należności
+
+kamyczek do ogródka = coś dobrego dla kogoś powiedziane
+
+indyferencja = apatia
+
+widoczny zapierdol
+
+gderliwy
+
+This is an emotion-driven market and greed can flip to fear in a heartbeat.
+
+charakter proszelny
+
+ad inifinitum
+
+plot twist
+
+guns and butter
+
+https://pl.wikipedia.org/wiki/Schadenfreude
+
+https://pl.wikipedia.org/wiki/Homo_agens-institutionalist
+
+https://pl.wikipedia.org/wiki/Creatio_ex_nihilo
+
+spetryfikowany
+
+The word "inflation" originates from the Latin word "inflare,"
+
+https://en.wikipedia.org/wiki/Cisgender
+
+fork off
+
+republikanie - lewica
+
+perlisty śmiech
+
+mafia state
+
+discovery phase
+
+close to impossible
+
+talk to you soon
+
+pytania badawcze
+
+https://pl.wikipedia.org/wiki/Brzytwa_Ockhama - ucinanie tematów pobocznych w rozmowie
+
+impertynencja
+
+ziemia interpretowana
 
 ---
 

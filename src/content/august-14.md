@@ -1,18 +1,36 @@
 ---
 layout: post
 title: 14 sierpnia
-image: img/august/Union_of_Krewo.jpg
+image: img/august/inflacja.png
 author: Tomasz Waszczyk
-date: 2018-08-14T10:00:00.000Z
+date: 2019-08-14T10:00:00.000Z
 tags:
-  - Historia
+  - Covid
 ---
+
+### 2020
+
+<video width="640" height="480" controls>
+  <source src="./movies/august/covid.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### 1980
+
+https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 ## 1936
 
 <a href="https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)" target="_blank">ORP Orzeł</a>
 
-### 14 sierpnia
+### 1610
+
+Pod Tarnawcem koło Kuryłówki w powiecie Leżajskim w województwie podkarpackim miała bitwa, której precedensu trudno szukać w historii Polski.
+W wyniku prywatnej wojny między Stanisławem Stadnickim herbu Szreniawa, a starostą Leżajska Łukaszem Opalińskim doszło do konfrontacji, w której po obu stronach poległo 6 tysięcy ludzi.
+Dwa lata wcześniej Opaliński zdobył Łańcut-siedzibę Stadnickiego, który w 1610 roku postanowił dokonać odwetu. Stadnickiemu zwanemu "diabłem " udało się odbić rezydencję, a nawet zdobyć Leżajsk, ale w końcowym rozrachunku poniósł klęskę, ponieważ zgubiła go nieostrożność w czasie powrotu z bitwy. Został zabity w lesie, gdy przypadkiem zauważyli go żołnierze Opalińskiego.
+Legenda głosi, że odrąbaną głowę Diabła przywiózł do Lublina jeden z zalotników pięknej panny Reginy Żegocianki, by serce jej zdobyć i obnosił ją zatkniętą na drzewcu po Lublinie .
+
+### 1385
 
 Unia w Krewie lub układ w Krewie, rzadziej umowa krewsko-wołkowyska[1] – akt wydany 14 sierpnia 1385 roku przez wielkiego księcia litewskiego Władysława Jagiełłę w Krewie, stanowiący jego zobowiązania przedślubne wobec Królestwa Polskiego. Wydanie aktu stanowiło wynik rozmów prowadzonych między księciem a panami małopolskimi na zamku w Krewie dotyczących małżeństwa królowej Jadwigi z Jagiełłą. Poprzedziły je jednak długoletnie, prawdopodobnie co najmniej od koronacji Jadwigi, negocjacje między stroną litewską a polską, a także z królową Elżbietą Bośniaczką, matką wciąż nieletniej Jadwigi.
 
@@ -38,3 +56,7 @@ Obraz: autorem obrazu był Mieczysław Kościelniak, uczestnik polskiej wojny ob
 Pan Mieczysław zaprzyjaźnił się z ojcem Maksymilianem w trakcie pobytu w Auschwitz. Ojciec Maksymilian wyznał mu w tajemnicy: „Ja nie przeżyję obozu, ty go przeżyjesz, ale pamiętaj, że będziesz miał obowiązek jako artysta przekazać to całe piekło obozowe światu”. „Widząc to piekło, postanowiłem malować wszystko, co przeżywałem, ale to było szaleństwo! Skąd wziąć papier, ołówek? Kieszeni nie było w ubraniach, karano za to. Czasem, gdy przyniesiono na apel chorych i umierających, esesman Fitze chwytał leżący pod ścianą kilof i dziurawił nim konających. Tych scen i ich grozy nigdy nie zapomnę! (...) Do olbrzymiego żelaznego walca wypełnionego betonem zaprzęgano ośmiu więźniów, głównie Żydów i księży. Bywało, iż słaby więzień pod wpływem ustawicznego bicia padał, walec miażdżył go. Trudno mi to wspominać, to było straszne - ten «plaster» krwawy oblepiony na walcu, czerwony od krwi. (...) Pracowałem potem w żwirowni i tam zabijano słabych ciężkim stołkiem lub zadeptywano butami. Udało mi się narysować tę scenę i przemycić do rodziny. Miałem już kilka rysunków. Ołówek i papier dostarczył mi kolega pracujący w obozowej kancelarii”. - wspominał niegdyś Mieczysław Kościelniak. Artysta stworzył blisko 300 rysunków ukazujących ogrom bestialstwa w KL Auschwitz. Obecnie prace artysty znajdują się w Państwowym Muzeum Auschwitz-Birkenau. Mieczysław Kościelniak zmarł w 1993 roku.
 
 ![Maksimilian Kolbe](./img/august/kolbe.jpg)
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-14.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>

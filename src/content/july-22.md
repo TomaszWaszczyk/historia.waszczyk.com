@@ -1,13 +1,110 @@
 ---
 layout: post
 title: 22 lipca
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/july/hansfrank.jpg
 author: Tomasz Waszczyk
-date: 2018-07-22T10:00:00.000Z
+date: 2019-07-22T10:00:00.000Z
 tags:
-  - Source
+  - Hans Frank
 ---
 
-### Getting Started
+### 2020
 
-Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+Russian Lawmakers Finally Pass Country’s Major Crypto Bill
+
+Russia passed a major bill today related to cryptocurrencies like Bitcoin (BTC).
+
+The State Duma — Russia’s legislative body — has passed a bill titled “On Digital Financial Assets” in its final third reading, local news agency Regnum reports July 22.
+
+After initiating the bill back in 2018, Russian authorities have finally agreed to provide a legal status to cryptocurrencies, preparing to adopt the first major part of legislation for the industry.
+
+Following the latest Duma’s decision, the bill “On Digital Financial Assets,” or DFA, is expected to be officially adopted in Russia on Jan. 1, 2021. The bill provides a legal definition to digital assets and legitimizes cryptocurrency trading in Russia. However, the bill prohibits the use of cryptocurrencies like Bitcoin as a payment method.
+
+---
+
+>„(...) Krzyżackiego gadu nie ugłaszcze,
+>Nikt ni gościną, ni prośbą ni dary.
+>(...) On wiecznie głodny! Choć pożarł tak wiele,
+>Na resztę naszą rozdziera gardziele” - Adam Mickiewicz
+
+---
+
+### 1983
+
+Rada Państwa uchwałą z dnia 20 lipca zniosła trwający od 13 grudnia 1981 roku stan wojenny. Na mocy tej samej uchwały rozwiazano również Wojskową Radę Ocalenia Narodowego w skład której wchodziło 22 wysokich rangą oficerów Wojska Polskiego,a której przewodniczył generał Wojciech Jaruzelski.
+
+<img src="./img/july/stanwojenny.jpg"><br><br>
+
+### 1944
+
+W Moskwie na antenie Radia Moskwa został ogłoszony Manifest Polskiego Komitetu Wyzwolenia Narodowego-dokument stworzony w Moskwie, który proklamować miał suwerenność Państwa Polskiego i jednocześnie obwieszczał przejęcie władzy w Polsce przez Krajową Radę Narodową.
+Data ogłoszenia Manifestu w naszym kraju to tylko formalność, ponieważ już dwa dni wcześniej został on podpisany w Moskwie przez samego Józefa Stalina. W imieniu władz polskich zrobili to Edward Osóbka Morawski, Wanda Wasilewska i Andrzej Witos.
+Manifest stwierdzał niepodzielność władzy KRN, zawierał deklarację powrotu do granic Polski, w których miały znaleźć się Pomorze i Śląsk, powoływał do życia Milicję Obywatelską, a jednocześnie delegalizował wszystkie polskie organizacje narodowe, określając je jednocześnie jako "faszystowskie".
+Deklarowano przejęcie na cele reformy rolnej ziem niemieckich, zdrajców oraz obszarników. Ta ostatnia kategoria dotyczyła majątków powyżej 50 ha, a na ziemiach poniemieckich 100 ha. Ziemie obszarnicze miały być przejęte bez odszkodowań, lecz z zaopatrzeniem dla byłych właścicieli. Przejęta ziemia miała być rozdzielona za minimalna opłatą między małorolnych i średniorolnych chłopów oraz robotników rolnych i stanowić ich własność indywidualną.
+Rząd Polski w Londynie uznał Manifest PKWN za nielegalny.
+
+<img src="./img/july/manifest.jpg"><br><br>
+
+### 1941
+
+Podczas posiedzenia rządu Generalnego Gubernatorstwa Hans Frank powiedział:
+„Podczas rozmowy, którą miałem sposobność odbyć z Führerem w
+Kancelarii Rzeszy Führer powiedział
+mi między innymi, że Żydzi pierwsi opuszczą Generalną Gubernię. Już w najbliższych dniach wydam rozkaz wszczęcia przygotowań do ewakuacji warszawskiego getta. Musimy
+dołożyć wszelkich starań, żeby jak najszybciej usunąć Żydów z GG. W myśl własnych słów Führera, bowiem GG nie będzie w przyszłości miejscem ich ostatecznej koncentracji, lecz
+wyłącznie obozem przejściowym. Ze
+zwycięskiego pochodu naszego wspaniałego Wermachtu na Wschód wynika dla nas – zaszczyconych wyróżnieniem Führera, którego
+wolą jest, żebyśmy odtąd stanowili pomost między otwierającym się przed nami gigantycznym obszarem Wschodu a Rzeszą, zwartą siedzibą naszego narodu – wynika więc stąd dla nas zaszczytny obowiązek
+poświęcenia całej uwagi tylko temu
+kompleksowi zadań w obecnych czasach najwyższego bohaterstwa i imponujących osiągnięć żołnierzy niemieckich.”
+Na zdjęciu od prawej maszerują:
+gubernator Hans Frank , komendant policji
+GG Herbert Becker oraz sekretarz stanu
+Ernst Boepple.
+
+<img src="./img/july/hansfrank.jpg"><br><br>
+
+---
+
+### 1920
+
+W czasie wojny polsko- bolszewickiej polski minister spraw zagranicznych Eustachy Sapieha (zdjęcie) wystosował do swojego bolszewickiego odpowiednika Gieorgija Cziczerina depeszę z propozycją natychmiastowego zawieszenia broni.
+Nieformalną odpowiedzią na prośbę polskiego ministra były słowa głównodowodzącego sił zbrojnych Armii Czerwonej Siergieja Kamieniewa:
+"Jak Polacy zgodzą się z nami negocjować, będzie to oznaczać, że nie mogą liczyć na poważną pomoc, a my możemy swobodnie atakować w głąb Polski"
+
+<img src="./img/july/sapieha.jpg"><br><br>
+
+### 1881
+
+W miejscowości Maksymówka koło Stanisławowa urodził się gen. dyw. Bolesław Wieniawa - Długoszowski - herbu Wieniawa, syn Bolesława i Józefy ze Struszkiewiczów, dyplomata i wolnomularz; osobisty adiutant Józefa Piłsudskiego. Formalnie przez 1 dzień "następca prezydenta RP na wypadek opróżnienia się urzędu przed zawarciem pokoju"; wobec niemożności sprawowania urzędu prezydenta przez internowanego Ignacego Mościckiego był faktycznie pełniącym jego obowiązki (formalnie urząd prezydenta nadal był obsadzony). Jedna z najbarwniejszych postaci II RP. Poeta, lekarz wszech nauk medycznych, a także dziennikarz (redaktor naczelny "Dziennika Polskiego" w Detroit). Odznaczony Orderem Virtuti Militari V klasy, Krzyżem Komandorskim i Oficerskim Polonia Restituta, Krzyżem Niepodległości z Mieczami, czterokrotnie Krzyżem Walecznych, licznymi odznaczeniami zagranicznymi. Generał zginął śmiercią samobójczą 1 lipca 1942 r. w Nowym Jorku.
+
+Więcej informacji można znaleźć na stronie Pułku Ochrony im. gen. dyw. Bolesława Wieniawy-Długoszowskiego:
+http://www.pulkochrony.wp.mil.pl/pl/76.html
+
+Foto: Komendant Piłsudski z osobistym adiutantem porucznikiem Bolesławem Wieniawą-Długoszowskim w mundurze 1 Pułku Ułanów I Brygady Legionów, 1916 r.
+
+<img src="./img/july/wieniawa.jpg"><br><br>
+
+### 1878
+
+> Poznaj siebie, zanim zechcesz dzieci poznać. – Zdaj sobie sprawę z tego, do czego sam jesteś zdolny, zanim dzieciom poczniesz wykreślać zakres ich praw i obowiązków – Ze wszystkich sam jesteś dzieckiem, które musisz poznać, wychować i wykształcić przede wszystkim. - Janusz Korczak
+
+22 lipca 1878 lub 1879 roku w rodzinie Józefa i Cecylii Goldszmit w Warszawie urodził się Janusz Korczak (właściwie Henryk Goldszmit) - wybitny pedagog, pediatra, pisarz, dyplomowany lekarz, działacz społeczny i charytatywny. Janusz Korczak był współtwórcą i pierwszym dyrektorem Domu Sierot w Warszawie (1911-42) i sierocińca Nasz Dom, w których wprowadził system wychowania łączący zasadę kierowania dziećmi z zasadą ich samodzielności. Janusz Korczak należał do obrońców praw dzieci. Był popularyzatorem problematyki pedagogicznej. Pisał utwory dla dzieci (,,Król Maciuś Pierwszy''), powieści społeczne, prace pedagogiczne (Jak kochać dziecko) . Przebywając na terenie getta warszawskiego prowadził ,,Pamiętnik''. Od początku okupacji hitlerowskiej Janusz Korczak usilnie zabiegał o pomoc, dary, wsparcie dla dzieci. Odrzucał każdą ofertę ratowania własnego życia, ponieważ nie wyobrażał sobie, aby mógł opuścić swoje sieroty. 5 lub 6 sierpnia 1942 roku zginą razem ze swoimi podopiecznymi (ok. 200 żydowskich dzieci), asystentami i swoją oddaną współpracownicą Stefanią Wilczyńską w obozie zagłady w Treblince. Świadkiem przemarszu Janusza Korczaka i dzieci na Umschlagplatz był, m.in. Emanuel Ringelblum, który wspominał: ,,To nie był marsz do wagonów, to był zorganizowany milczący protest przeciwko morderstwu! (...) Dzieci szły czwórkami. Na przedzie Korczak; patrzył prosto przed siebie i po obu stronach trzymał za rękę dziecko''. Symboliczny kamień upamiętniający Janusza Korczaka i dzieci znajduje się na terenie byłego niemieckiego obozu zagłady w Treblince.
+
+Zachęcam do przeczytania szczegółowej biografii Janusza Korczaka:
+http://2012korczak.pl/zarys
+
+---
+
+Ruszyło w Warszawie pierwsze pogotowie ratunkowe. Powołane ono zostało z inicjatywy hrabiego Konstantego Przeździeckiego i doktora Józefa Zawadzkiego. Wzorowane było ono na modelu austriackim,a konkretnie wiedeńskim,którego natychmiastowe powstanie wymusił pożar Opery Wiedeńskiej.Warszawskie pogotowie ratunkowe swój chrzest bojowy przeszło już w dwa tygodnie później,kiedy to podczas wizyty cara Mikołaja drugiego zorganizowało 20 polowych punktów sanitarnych.
+Pogotowie to niemal od
+założenia prowadziło służbę całodobową, bezpłatnej pomocy ofiarom wypadków udzielali wyłącznie lekarze z odpowiednią praktyką. Po 3 latach działalności Pogotowie
+było już instytucją dobrze zakorzenioną i rozpoznawalną w mieście. Roczna liczba wezwań wynosiła ok. 8 tys., Pogotowie
+Ratunkowe zatrudniało 16 lekarzy i 9
+sanitariuszy, dysponowało taborem 11 koni i 4 powozów.
+
+<img src="./img/july/pogotowie.jpg"><br><br>
+
+---
+
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

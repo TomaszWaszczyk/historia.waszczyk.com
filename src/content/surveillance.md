@@ -12,6 +12,12 @@ draft: true
 
 https://en.wikipedia.org/wiki/William_Binney_(intelligence_official)
 
+https://en.wikipedia.org/wiki/Venona_project
+
+https://pl.wikipedia.org/wiki/Karl_Polanyi
+
+https://en.wikipedia.org/wiki/Wolfgang_Streeck
+
 Mass surveillance is a very complex subject which its roots back in the Ancient Greece when philosophers were debating about where the boundary between public and private spheres had to be placed.
 
 Plato, Aristotle, Epicurus and also later Epictectus, all were seeing in this subject, one of the most dominant ones.
@@ -35,6 +41,8 @@ https://en.wikipedia.org/wiki/Laura_Poitras
 https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 
 Liquid Surveillance: A Conversation by Zygmunt Bauman
+
+https://en.wikipedia.org/wiki/Evgeny_Morozov
 
 ### 2000
 

@@ -8,6 +8,10 @@ tags:
   - Olszewski
 ---
 
+### 2018
+
+<img src="./img/december/tax.png"/><br><br>
+
 ### 1991
 
 Premierem rządu RP został Jan Olszewski (zdjęcie). Funkcję tę objął po Janie Krzysztofie Bieleckim. Wotum zaufania jego gabinetowi Sejm udzielił 23 grudnia 1991 roku.
@@ -47,6 +51,10 @@ Niestety współpraca Muszkieterów z ZWZ nie należała do udanych. Już w kilk
 Wojskowy Sąd Specjalny skazał go na karę śmierci. Wyrok wykonała komórka egzekucyjna AK 18 września tego roku. Wcześniej Muszkieterzy zostali rozwiązani rozkazem komendanta głównego AK, gen. S. Roweckiego z 27 sierpnia 1942 r. Większość członków organizacji przeszła do AK, część do innych organizacji podziemnych.
 
 <img src="./img/december/witkowski.jpg"/><br><br>
+
+### 1893
+
+https://pl.wikipedia.org/wiki/Adam_Heydel
 
 ### 1849
 

@@ -9,6 +9,12 @@ tags:
 draft: false  
 ---
 
+### 2015
+
+Od 1 stycznia obowiązuje nowy podatek paliwowy. Chodzi o tzw. opłatę zapasową, która może spowodować wzrost cen paliw od 4 do 6 groszy na litrze.
+
+Ceny ropy naftowej na światowych rynkach surowcowych są najniższe od lat. W efekcie mniej pieniędzy na stacjach benzynowych zostawiają kierowcy. Od lipca do końca tego roku, kiedy ceny ropy zaczęły gwałtownie spadać, paliwo potaniało o 91 groszy, a ceny oleju napędowego o 80 groszy na litrze.
+
 ### 1942
 
 Radzieckie ministerstwo spraw zagranicznych wysłało do wszystkich państw, z którymi utrzymywało stosunki dyplomatyczne opis bestialstw niemieckich dokonanych na terytorium ZSRR. Co ciekawe Rosjanie oprócz Litwy, Łotwy i Estonii wymienili tam również zajęte przez siebie terytoria Polski.
@@ -27,6 +33,37 @@ Lata osiemdziesiąte spędził w gronie rodzinnym. Pogarszał się także jego s
 Edward Gierek zmarł 29 lipca 2001 roku w Cieszynie.
 Poniżej przedstawiam dający chyba wiele do myślenia fragment wspomnianego już wywiadu Przerwana dekada.
 " Obecna Polska przeżywa zachłyśnięcie się Zachodem i amerykańskimi rozwiązaniami ekonomicznymi. Wiem jednak, czym jest kapitalizm. W odróżnieniu od większości współczesnych Polaków żyłem w nim i poznałem jego zalety i wady. Kapitalizm jest jednak zaprzeczeniem etosu równości społecznej i sprawiedliwości. Demokratyczna zasada równości złożona na ołtarzu pieniądza jest niestety tylko pozorna. Czeka nas straszne rozwarstwienie społeczne, bezrobocie i niestety raczej nie europeizacja lecz latynizacja czyli kapitalizm nędzy. Jeszcze ciągle ludzie zaczadzeni hasłami antykomunistycznymi nie uświadamiają sobie w pełni, że nie tylko zyskali wiele dzięki ostatnim zmianom ale też wiele stracili. Przede wszystkim stracili spokój socjalny i poczucie bezpieczeństwa (…) Ciekawy jestem jak długo starczy ludziom wiary w lepsze jutro w sytuacji, gdy polityka rządowa polega na gwałtownej pauperyzacji społeczeństwa. Równowagę gospodarczą obecna władza chce uzyskać drogą bezprzykładnego ubożenia społecznego (…) Oby wokół naszych miast nie pojawiły się slumsy a sklepy nie były pełne drogich towarów niedostępnych dla nędzarzy snujących się po ulicach. Znam to z czasów przedwojennych apoteozowanych dziś, jakże niesłusznie na wszystkie możliwe sposoby. Boję się też, że gdy sięgniemy po pomoc ale nie bezinteresowną, nadejdzie z Zachodu - z sytych i zamożnych Niemiec. I znowu jak przed laty na tej ziemi pojawią się panowie, którzy będą za bezcen wykupywali polską własność. Oby nie powróciła sytuacja sprzed wojny gdy zarządy fabryk należały do cudzoziemców, głównie Niemców a Polacy byli robolami (…) Z nową siła wracają nasze stare sentymenty do Zachodu, do Ameryki. O jakże naiwni jesteśmy wierząc w szczerą bezinteresowność Jankesów (…) Wierzcie mi, rozmawiałem z trzema amerykańskimi prezydentami i wiem, że dla nich jesteśmy tylko pionkami na wielkiej szachownicy światowej polityki. Pionkiem o tyle ważnym o ile można go wykorzystać do ruchu przeciwko "czerwonej" Rosji. Może to zabrzmi obrazoburczo ale o ile upadnie na trwałe światowy system socjalistyczny rola Polski w świecie spadnie katastrofalnie. Staniemy się wielką prowincją Europy i magazynem taniej siły roboczej"
+
+### 1838
+
+W Morristown w stanie New Jersey Samuel Morse i Alfred Vail zaprezentowali po raz pierwszy działanie telegrafu elektrycznego.
+
+Pierwszy projekt telegrafu elektrycznego opublikowany został w czasopiśmie brytyjskim Scots Magazine dnia 17 lutego 1753 roku. Jego autor, Ch. Morrison, proponował użycie osobnego przewodu dla każdej litery czy znaku. Na takiej zasadzie oparty został telegraf elektryczny zbudowany w latach 1809 -1810 przez T. von Soemmeringa z Monachium (55 drutów). W grudniu 1795 roku uruchomiono pierwszy telegraf elektryczny (linia napowietrzna). Został zademonstrowany przez Don Francisco Salvá z Akademii Nauk w Barcelonie. Linia miała 1 kilometr długości i biegła z Barcelony do Fort Atarazans. Praktyczna postać telegrafu elektrycznego, a ściślej mówiąc telegrafu elektromagnetycznego, pojawiła się w latach 1830 - 1840, w wyniku na ogół niezależnych prac rozmaitych wynalazców.
+
+Od 1822 roku pod wpływem osiągnięć Soemmeringa rozpoczął pracę nad telegrafem elektrycznym rosyjski dyplomata P. Szylling. Około 1822 roku zbudował on telegraf elektryczny igiełkowy (wskazówkowy), w którym poszczególnym literom odpowiadały wychylenia igieł (wskazówek) pod wpływem pola magnetycznego wytwarzanego przez przesyłane impulsy prądu. Telegraf ten nadawał się do eksploatacji, więc w 1836 roku Szyling połączył nim Pałac Zimowy i Ministerstwo Komunikacji w Petersburgu. Śmierć przeszkodziła mu w realizacji linii telegrafu Kronsztadt - Peterhof.
+
+W 1833 roku telegraf elektryczny igiełkowy odmiennego systemu skonstruowali w Getyndze K. F. Gauss i W. E. Weber. Pomysł swój ogłosili oni w 1834 roku, a doświadczenia z telegrafem prowadzili do 1838 roku. Telegraf elektryczny ich systemu znacznie ulepszył K. A. Steinheil, który w 1837 roku połączył nim w Monachium 4 pracownie naukowe. Zastosował on odbiornik akustyczny oraz odbiornik piszący i osiągnął dość dużą prędkość telegrafowania (do 50 liter / min). Ponadto zastąpił ziemią jeden z przewodów telegrafu elektrycznego.
+
+W 1836 roku, po zapoznaniu się z osiągnięciami Szylinga, rozpoczął prace nad telegrafem Anglik W. F. Cooke. W 1837 roku wraz z Charlesem Wheatstone'm opatentował praktyczny system telegrafu igiełkowego oraz zainstalował jego linię pomiędzy londyńskimi dworcami kolejowymi Euston i Camden Town. W 1839 roku Cooke i Wheatstone zbudowali linie swego telegrafu na kolei Paddington - West Drayton, a w 1843 roku przedłużyli ją do Slough.
+
+Ów telegraf efektownie zaprezentował swe zalety 1 stycznia 1845 roku, umożliwiając schwytanie przestępcy uciekającego pociągiem pospiesznym (wg ówczesnych pojęć był on już poza zasięgiem pogoni).
+
+Od 1832 roku pracował nad telegrafem elektrycznym również amerykański wynalazca Samuel Morse. W 1835 roku zbudował on prototyp swego telegrafu, a 2 września 1837 roku zademonstrował go w Nowym Jorku i otrzymał nań patent (28 IX 1837 rok). W 1840 roku Morse wprowadził stosowany do dzisiaj kod telegraficzny złożony z kropek i kresek (krótkie i długie impulsy) - tzw. alfabet Morse'a. Władze Stanów Zjednoczonych dopiero w 1843 roku przyznały mu fundusze na budowę próbnej linii telegrafu Waszyngton - Baltimore, którą otwarto 24 maja 1844 roku. W 1844 roku Morse skonstruował również odbiornik akustyczny zwany "stukawką".
+
+W 1847 roku aparatów Morse'a użyto po raz pierwszy w Europie na liniach Hamburg - Cuxhaven i Brema - Bremerhaven. Nastąpił ogromny, żywiołowy rozwój telegrafów na całym świecie. Jego linie pojawiły się w 1845 roku we Francji, w 1846 roku w Austrii i Belgii, a później także w innych krajach (w 1853 roku w Rosji). Na terenie państwa tureckiego zręby sieci telegrafów elektrycznych zbudowali (począwszy od 1854 roku) polscy emigranci z F. Sokulskim i K. Brzozowskim na czele, najpóźniej pojawił się telegraf w Chinach - 1879 rok.
+
+Około 1855 roku telegraf elektryczny wyparł już całkowicie z użycia telegraf optyczny. W 1850 Anglicy - bracia Brett - położyli linię telegraficzną przez kanał La Manche, w 1854 roku położono kabel Korsyka - Sardynia, w 1860 roku Tulon - Algier. Po wielu próbach i niepowodzeniach dzięki energii C. W. Fielda połączono też w latach 1857 - 1866 transatlantyckim podwodnym kablem telegrafu Europę z Ameryką. W wyniku dalszego rozwoju sieć kabli telegrafu elektrycznego rozprzestrzeniła się na cały świat, a szybkość telegrafowania ogromnie wzrosła dzięki zastosowaniu - telegrafii wielokrotnej oraz - dalekopisów.
+
+Wynalezienie radiotelegrafu (radio), zapoczątkowało telegrafię bezprzewodową, znajdującą dziś ogromne zastosowanie. Pojawiła się też fototelegrafia. Około 1905 roku powstały pierwsze łącznice telegraficzne ręczne, a około 1933 roku - automatyczne.
+
+<img src="./img/january/telegraf1.jpg"/><br><br>
+
+<img src="./img/january/telegraf2.jpg"/><br><br>
+
+---
+
+Pierwszy telegraf elektryczny stworzył w latach 1809 - 1810 bawarski inżynier Samuel T. von Soemmering.
+Telegraf ten zainspirował Niemca w rosyjskiej służbie dyplomatycznej i wojskowej, Pawła L. Szylinga, który w latach 1822 - 1832 opracował pierwszy telegraf elektromagnetyczny i w 1836 roku zainstalował pierwszą jego linię w Petersburgu.
 
 ### 1813
 

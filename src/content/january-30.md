@@ -9,6 +9,14 @@ tags:
 draft: false  
 ---
 
+### 2020
+
+https://pl.wikipedia.org/wiki/Brexit
+
+### 1909
+
+https://pl.wikipedia.org/wiki/Henryk_Magnuski
+
 ### 1667
 
 W Andruszowie w województwie smoleńskim Rzeczpospolita i Cesarstwo Rosyjskie podpisały rozejm kończący trwającą od 9 lat wojnę polsko-rosyjską.

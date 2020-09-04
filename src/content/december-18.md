@@ -32,6 +32,10 @@ Aresztowany tydzień wcześniej działacz Komunistycznej Partii Polski Bolesław
 
 <img src="./img/december/bierut.jpg"/><br>
 
+### 1896
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Mackiewicz
+
 ### 1830
 
 Sejm podjął uchwałę o uznaniu powstania listopadowego za narodowe.

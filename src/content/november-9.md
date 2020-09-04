@@ -13,6 +13,10 @@ tags:
 
 Upadek muru berlińskiego.
 
+### 1942
+
+https://en.wikipedia.org/wiki/Werner_von_Janowski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

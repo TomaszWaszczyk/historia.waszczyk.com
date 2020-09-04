@@ -6,8 +6,10 @@ author: Tomasz Waszczyk
 date: 2018-10-7T10:00:00.000Z
 tags:
   - Edukacja
-draft: true  
+draft: false  
 ---
+
+https://pl.wikipedia.org/wiki/Reforma_j%C4%99drzejewiczowska
 
 ### 1900
 

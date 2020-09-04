@@ -16,6 +16,10 @@ Panem et circenses w wykonaniu Polski i społeczeństwa.
 
 Sowieci i hitlerowcy wymordowali lwią cześć polskiej inteligencji. Ciąg dalszy nastąpił za komuny. Dzieło domyka towarzysz Kurski. Bez jednego wystrzału.
 
+### 1989
+
+https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu
+
 ### 1945
 
 w Aninie zmarł Marceli Godlewski - ksiądz katolicki, prałat, działacz społeczny, polityk związany z endecją, w 2009 roku pośmiertnie uhonorowany tytułem Sprawiedliwy wśród Narodów Świata. W latach 1915-45 był proboszczem kościoła Wszystkich Świętych w Warszawie. W okresie II wojny światowej prałat Godlewski wraz ze współpracownikami ocalił od Zagłady od tysiąca do trzech tysięcy Żydów. Wśród ocalonych przez prałata Godlewskiego byli m.in. profesor Ludwik Hirszfeld oraz państwo Wanda i Krzysztof Zamenhofowie. ,,Gdy wspominam jego nazwisko, ogarnia mnie wzruszenie. Namiętność i miłość w jednej duszy. Ongiś bojowy antysemita, kapłan wojujący w piśmie i słowie. Ale gdy los go zetknął z dnem nędzy, odrzucił precz swoje nastawienie i cały żar swojego kapłańskiego serca poświęcił Żydom'' - wspominał profesor Ludwik Hirszfeld.

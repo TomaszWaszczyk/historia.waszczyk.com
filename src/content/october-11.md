@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1962
+
+https://pl.wikipedia.org/wiki/Sob%C3%B3r_watyka%C5%84ski_II
+
 ### 1944
 
 dr Ludwig Fischer, gubernator tzw. dystryktu warszawskiego, skierował do podległych sobie jednostek administracji telegram, dotyczący wydanego przez Hitlera tzw. Rozkazu nr 2. Oto fragment treści telegramu:
@@ -225,6 +229,13 @@ konsekwencją, a znakomicie im to ułatwi ślepota wielu naszych rodaków.
 
 I to właśnie historia (ta prawdziwa, nie zakłamana) może nam podpowiedzieć, co 
 będzie dalej.
+
+### 1939
+
+W Warszawie ukazał się pierwszy numer "Nowego Kuriera Warszawskiego"- organu prasowego Generalnego Gubernatorstwa. Chociaż tytuł tej gazety, która miała po zamknięciu przez Niemców wszystkich przedwojennych polskich tytułów wypełnić rynek czytelniczy nawiązywał bezpośrednio do tradycji "Kuriera Warszawskiego" to nie cieszyła się ona szacunkiem. Gazetę nazywano "gadzinówką" lub "kurwerem".
+Ostatnie wydanie ukazało się w styczniu 1945 roku.
+
+<img src="./img/october/kurier.jpg"/><br><br>
 
 ---
 

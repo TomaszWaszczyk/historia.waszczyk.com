@@ -16,7 +16,7 @@ https://pl.wikipedia.org/wiki/Marian_Grzybowski_%28dermatolog%29
 
 ### #TBT Einthoven and Electrocardiography
 
-Einthoven, a Dutch physician, invented the string galvanometer in 1903, inaugurating the discipline of electrocardiography. 
+Einthoven, a Dutch physician, invented the string galvanometer in 1903, inaugurating the discipline of electrocardiography.
 
 Early ECGs were done on healthy subjects, as patients confined to the hospitals were too ill to be transported for recording.
 
@@ -84,6 +84,41 @@ Na tę chwilę uważam, że system opieki zdrowotnej szybciej zawali się sam ni
 B. Fiałek
 
 PS Wiele z powyższych sformułowań można przypiąć do zawodu pielęgniarki i położnej. Trudnego, bardzo potrzebnego, będącego częścią zespołu, zmagającego się z ogromnymi, nawet większymi niż lekarskie, brakami kadrowymi, a również niemogącego wynegocjować adekwatnych warunków zatrudnienia.
+
+---
+
+Przed II wojną światową w Niemczech panował narkotykowy szał. Firma Temmler wprowadziła na rynek Pervitin, czyli metamfetaminę, która była dostępna dla każdego jako panaceum na całe zło tego świata.
+Idąc za ciosem – powstały pralinki z metamfetaminą, a każda czekoladka zawierała 14 mg mety – czyli jakieś pięć razy więcej niż było w zwykłej tabletce Pervitinu. „Pralinki Hildebranda zawsze cieszą” – tak zachwalał slogan zakładu cukierniczego Mother’s Little Helper. Śmiała rekomendacja dziennego spożycia pralinek przez producenta zakładała spożycie od 3 do 9 pralinek dziennie. Zachwalano produkt również w ten sposób, że w porównaniu z kofeiną  jest całkiem bezpieczny. Zażywając czekoladki z metą można było łatwiej uporać się z pracami domowymi, a prócz tego traciło się kilogramy, gdyż Pervitin był również reklamowany jako środek na odchudzanie.
+@czekoada – co Ty na takie pralinki?
+Zdjęcie i informacje o pralinkach pochodzą z książki „Trzecia Rzesza na haju – narkotyki w hitlerowskich Niemczech”.
+
+### 1961
+
+Leonid Rogozow – radziecki chirurg, który przeprowadził operację na samym sobie. W 1961 r. grupa składająca się z 12 rosyjskich naukowców, przebywała na stacji polarnej Novolazarevskaya na Antarktydzie. Wśród uczestników znajdował się chirurg Rogozow, który z założenia miał dbać o dobry stan zdrowia swoich towarzyszy i był jedynym lekarzem w ekipie.
+Podczas ekspedycji Rogozov poważnie zachorował. Zdiagnozował u siebie ostre zapalenie wyrostka robaczkowego. W obliczu zagrożenia życia i niemożliwości uzyskania pomocy z zewnątrz, podjął decyzję o operowaniu samego siebie.
+Ogólna narkoza nie wchodziła w grę. Chirurg zastosował miejscowe znieczulenie. Po dwugodzinnej, udanej operacji założył ostatni szew, wziął antybiotyki i leki nasenne. Lekarz wrócił do normalnych obowiązków zaledwie dwa tygodnie później.
+
+<img src="./img/others/medicine/operacja.jpg"/><br><br>
+
+### 1946
+
+This ECG dated 1946 was recorded on photographic paper, one of the last made from a string galvanometer.
+
+These strips represent leads I, II, III, and IV (lead IV being precordial lead, later designated "V1-6").
+
+Precordial leads were standardized by AHA in 1938 while augmented unipolar leads (aVR, aVL, aVF) were invented by Goldberg in 1942 (modified from Wilson). But their use was not widespread until well into the 1950s.
+
+By late 1940s, direct-writing electrocardiographs would be invented (Cardiotron), which would revolutionize the industry. By 1950, all cardiographs made ECGs with heated stylus on wax paper.
+
+From: James Ong MD Museum of Pacing & Electrohysiology - where medical history comes alive
+
+<img src="./img/medicine/Electrocardiogram.jpeg"><br><br>
+
+### 1937
+
+Remote medicine (Punch).
+
+<img src="./img/medicine/remotemedicine.png"><br><br>
 
 ---
 

@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+https://pl.wikipedia.org/wiki/Cywilizacja_%C5%9Bmierci
+
 > W każdym systemie logicznym, można udowodnić tylko to co tkwi w jego założeniach - a czym jest założenie? Wiara.
 
 https://pl.wikipedia.org/wiki/Kurt_G%C3%B6del

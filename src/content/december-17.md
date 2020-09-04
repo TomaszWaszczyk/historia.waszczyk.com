@@ -46,6 +46,10 @@ We wspólnej deklaracji państw sprzymierzonych czytamy:
 Luksemburga , Holandii, Norwegii , Polski, Stanów Zjednoczonych Ameryki Północnej , Zjednoczonego Królestwa Wielkiej Brytanii i
 Północnej Irlandii , Związku Socjalistycznych Republik Radzieckich, Jugosławii i francuskiego Komitetu Narodowego zwróciły liczne doniesienia z Europy, że władze niemieckie, nie zadowoliwszy się odmówieniem osobom pochodzenia żydowskiego na wszystkich terenach, które zostało rozciągnięte ich barbarzyńskie prawo, najbardziej podstawowych praw ludzkich, przystąpiły one obecnie do realizacji wielokrotnie zapowiadanej przez Hitlera zagłady narodu żydowskiego w Europie.”
 
+### 1897
+
+https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Broniewski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

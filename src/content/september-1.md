@@ -3,9 +3,9 @@ layout: post
 title: 1 września
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2018-09-01T10:00:00.000Z
+date: 2019-09-01T10:00:00.000Z
 tags:
-  - Historia
+  - Niemcy
 ---
 
 ### 2017
@@ -14,13 +14,37 @@ The demand for long-term data storage is reaching unprecedented levels. By 2023,
 
 Project Silica is developing the first-ever storage technology designed and built from the media up, for the cloud. We are leveraging recent discoveries in ultrafast laser optics to store data in quartz glass by using femtosecond lasers, and building a completely new storage system designed from scratch around this technology. This opens up an incredibly exciting opportunity to challenge and completely re-think traditional storage system design, and to co-design the future hardware and software infrastructure for the cloud.
 
+### 2019
+
+<img src="./img/september/pieniadze.jpg"><br><br>
+
 ### 1992
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz
 
+### 1981
+
+Gdańsk, hasło „Telewizja kłamie!” wymalowane przed Halą Olivii w trakcie I Zjazdu NSZZ „Solidarność”. Wykonane bez szablonu olbrzymie kontury to dzieło Zygmunta Błażka z działu propagandowego związku (prywatnie miłośnika liternictwa). Opozycyjne hasła maluje zawsze w biały dzień, przy świadkach, nie zwracając uwagi na milicjantów - gdy ci próbują go legitymować, zamiast dowodu osobistego wyjmuje legitymację Solidarności, tłumacząc, że „jest w pracy”. „Dziennik telewizyjny tak się ma do informacji jak pałka milicyjna do rurki z kremem” – opisuje sytuację w państwowych mediach jeden z delegatów. Kilka miesięcy później, już w trakcie stanu wojennego, na wyjątkowo dowcipny sposób walki z reżimową dezinformacją wpadnie lokalne koło emerytów Solidarności ze Świdnika, inicjując w całym kraju modę na demonstracyjne spacery w okolicach godziny 19:30 - porze emisji Dziennika Telewizyjnego. Komunistyczne władze zareagują wyłączaniem ulicznych latarni oraz masowanym legitymowaniem, a nawet zatrzymaniami spacerowiczów. Wobec niskiej skuteczności takich metod jedynym rozwiązaniem okaże się przesunięcie godziny milicyjnej na 19:00.
+
+<img src="./img/september/telewizja.jpg"><br><br>
+
+Zdjęcie: Leszek Biernacki
+
+### 1943
+
+Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
+
+<img src="./img/september/obwieszczenie.jpg/><br><br>
+
 ### 1939 - Polska jako "państwo sezonowe" - Saisonstadt
 
+<img src="./img/september/niemcyatakauj.jpg"><br><br>
+
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..
+
+(4.45 rano wojska niemieckie zgodnie z planem Fall Weiss uderzyły na Polskę na całej 1600 km długości polsko-niemieckiej granicy oraz z terytorium Moraw i Słowacji. Prezydent Rzeczypospolitej Polskiej Ignacy Mościcki wezwał naród do obrony wolności i niepodległości kraju.
+
+Założeniem planu Fall Weiss było okrążenie i zniszczenie Wojska Polskiego na zachód od linii Wisły nie później niż w czternastym dniu od uderzenia Wehrmachtu. Wojsko polskie pokrzyżowało jednak niemieckie plany.)
 
 Nalot przeprowadzono nagle, bez wypowiedzenia wojny Polsce przez III Rzeszę.
 
@@ -43,11 +67,25 @@ Fragment wystąpienia Adolfa Hitlera w niemieckim parlamencie z dnia 1 września
 > takich incydentów granicznych, dziś w nocy było ich 14, w tym 3 całkiem poważne.
 > Dlatego też zostałem zmuszony do podjęcia decyzji, aby prowadzić rozmowy z Polską w tym samym języku, w jakim Polacy rozmawiają z nami.
 
+Wojska niemieckie zgodnie z planem Fall Weiss uderzyły na Polskę na całej 1600 km długości polsko-niemieckiej granicy oraz z terytorium Moraw i Słowacji. Prezydent Rzeczypospolitej Polskiej Ignacy Mościcki wezwał naród do obrony wolności i niepodległości kraju.
+
+Założeniem planu Fall Weiss było okrążenie i zniszczenie Wojska Polskiego na zachód od linii Wisły nie później niż w czternastym dniu od uderzenia Wehrmachtu. Wojsko polskie pokrzyżowało jednak niemieckie plany.
+
+Już w pierwszych dniach września udało się Niemcom przełamać polskie linie obronne i zająć Kujawy, część Wielkopolski i Śląsk. Na północy główne siły polskie, skoncentrowane w rejonie Mławy i na Pomorzu, zostały 1–3 września rozbite, a Armia Modlin, atakowana przez niemiecką 3 Armię podczas bitwy pod Mławą, zmuszona była wycofać się na linię rzek Wisły i Narwi.
+
+Broniły się Westerplatte, Gdynia, Kępa Oksywska i Hel – aż do 2 października. Warszawa skapitulowała 28 września.
+
+Również Armia Poznań pod dowództwem gen. Tadeusza Kutrzeby i Armia Pomorze pod dowództwem gen. Władysława Bortnowskiego cofnęły się aż za linię Warty i tam w okolicy Kutna nad rzeką Bzurą w dniach 9-18 września stoczyły jedną z największych bitew kampanii wrześniowej. Starły się z niemiecką 8 Armią dowodzoną przez gen. Johannesa Blaskowitza i 10 Armią gen. Waltera von Reichenau z Grupy Armii Południe. Gen. Kutrzeba postanowił wykorzystać to, że Wehrmacht zachowywał się dość biernie wobec wojsk Armii Poznań i zaatakował skrzydło 8 Armii niemieckiej. Planował on atak na pozycje niemieckie już parę dni wcześniej – 4 i 5 września podczas rozwinięcia natarcia 8 Armii na linię rzek Warta i Widawka na pozycje Armii Łódź. Nie zgadzał się na to Naczelny Wódz, ale pozycja obronna Armii Łódź została przełamana, zaś gen. Kutrzeba podtrzymał swoją propozycję zwrotu zaczepnego wobec wojsk niemieckich zmierzających bez istotnej osłony z lewej flanki w kierunku Warszawy. Do powodzenia operacji w początkowej fazie ataku według planów gen. Kutrzeby miał się przyczynić także czynnik psychologiczny, czyli chęć do walki z wrogiem żołnierzy Armii Poznań, która dotychczas tylko się wycofywała nie biorąc udziału w walkach na froncie.
+
 ---
 
 O tej godzinie 4.45 niemiecki pancernik szkolny "Schleswig Holstein" oddał strzał w kierunku Składnicy Tranzytowej na Westerplatte, a samoloty Legionu Condor zrzuciły na Wieluń pierwsze bomby. Niemcy przypuścili również atak na budynek Poczty Polskiej w Wolnym Mieście Gdańsk, zbombardowali Oksywie, Puck i Hel. 7 września 1939 roku Wermacht dotarł do Warszawy.
 Na terenie całej Polski został wprowadzony stan wojenny. Oto treść zarządzenia wydanego przez prezydenta Ignacego Mościckiego:
 " „Obywatele Rzeczypospolitej! Nocy dzisiejszej odwieczny wróg nasz rozpoczął działania zaczepne wobec Państwa Polskiego, co stwierdzam wobec Boga i Historii. W tej chwili dziejowej zwracam się do wszystkich obywateli państwa w głębokim przeświadczeniu, że cały naród w obronie swojej wolności, niepodległości i honoru skupi się dookoła Wodza Naczelnego i sił zbrojnych oraz da godną odpowiedź napastnikowi, jak to się już nieraz działo w historii stosunków polsko-niemieckich. Cały naród polski, błogosławiony przez Boga, w walce o swoją świętą i słuszną sprawę, zjednoczony z armią, pójdzie ramię przy ramieniu do boju i pełnego zwycięstwa”
+
+---
+
+Za komuny Jaroszewicz na Westerplatte jechał jedną delegacją a Gierek drugą delegacją. Kaczyński jedną, Tusk drugą.
 
 ---
 
@@ -113,7 +151,48 @@ Trzeba to jasno powiedzieć. W II WŚ Polska stanęła po złej stronie barykady
 
 Krakowskie lotnisko Rakowice stało się celem niemieckiego bombardowania. Udział w tym nalocie wzięło 150 samolotów 4 Floty Luftwaffe. Mogło być ich więcej,ale jedna eskadra pomyliła drogę i ominęła Kraków. Około godziny siódmej rano z rozkazu kapitana Mieczysława Medweckiego wystartowały pierwsze polskie patrole rozpoznawcze.
 
-## 1940
+---
+
+Ustawa o wcieleniu Wolnego Miasta Gdańska do Rzeszy Niemieckiej z dnia 1 września 1939 r.
+§ l
+Wydana przez głowę państwa Wolnego Miasta Gdańska zasadnicza ustawa państwowa o wcieleniu Gdańska do Rzeszy Niemieckiej - nabiera niniejszym mocy ustawy Rzeszy. Brzmienie jej jest następujące:
+Artykuł I. Znosi się z mocą natychmiastową konstytucję Wolnego Miasta Gdańska.
+Artykuł II. Całą władzę ustawodawczą i wykonawczą sprawuje wyłącznie głowa państwa.
+Artykuł III. Wolne Miasto Gdańsk wraz ze swym terytorium i ludnością staje się - z mocą natychmiastową - częścią składową Rzeszy Niemieckiej.
+Artykuł IV. Do czasu ostatecznego uregulowania przez Wodza sprawy wprowadzenia niemieckiego prawa Rzeszy pozostają w mocy wszystkie postanowienia ustawowe z wyjątkiem konstytucji obowiązujące w chwili wydania niniejszej zasadniczej ustawy państwowej.
+Gdańsk, 1 września 1939 r.
+Albert Forster
+§ 2.
+Obywatele dotychczasowego Wolnego Miasta Gdańska są obywatelami niemieckimi zgodnie z przepisami szczegółowymi.
+§ 3.
+Na terenie dotychczasowego Wolnego Miasta Gdańska pozostaje na razie w mocy prawo obowiązujące dotychczas — z wyjątkiem konstytucji Wolnego Miasta Gdańska
+§ 4.
+1) W dotychczasowym Wolnym Mieście Gdańsku nabiera mocy obowiązującej od dnia 1 stycznia 1940 r. całe prawo Rzeszy oraz pruskie prawo krajowe.
+2) Właściwy minister Rzeszy w porozumieniu z ministrem spraw wewnętrznych Rzeszy może postanowić, że prawo Rzeszy lub pruskie prawo krajowe nie nabiera mocy obowiązującej w dotychczasowym Wolnym Mieście Gdańsku, albo że nabiera jej w terminie późniejszym, albo też nabiera jej zgodnie z przepisami szczególnymi. Takie postanowienie wymaga ogłoszenia w Dzienniku Ustaw Rzeszy.
+3) Minister spraw wewnętrznych Rzeszy w porozumieniu z właściwymi ministrami może w drodze rozporządzenia wprowadzić w życie prawo niemieckie i pruskie prawo krajowe do dnia 31 grudnia 1939 r.
+§ 5.
+1) Instancją centralną do spraw wcielenia Gdańska do Rzeszy Niemieckiej jest minister spraw wewnętrznych Rzeszy.
+2) Minister spraw wewnętrznych Rzeszy jest upoważniony do wydania rozporządzeń prawnych i administracyjnych, potrzebnych do wykonania i uzupełnienia niniejszej ustawy
+§ 6.
+Niniejsza ustawa obowiązuje od dnia 1 września 1939 r.
+Berlin, 1 września 1939 r.
+Wódz i Kanclerz Rzeszy
+Adolf Hitler
+Minister Spraw Wewnętrznych Rzeszy
+Frick
+Zastępca Wodza
+R. Heß
+Przedstawiciel do spraw Planu Czteroletniego
+Göring, Feldmarszałek, pruski Prezes Rady Ministrów
+Minister Spraw Zagranicznych Rzeszy
+von Ribbentrop
+Minister Rzeszy i Szef Kancelarii Rzeszy
+Dr. Lammers
+Foto: Albert Forster - gauleiter Wolnego Miasta Gdańska odczytuje proklamację o przyłączeniu Gdańska do Rzeszy. Była ona transmitowana na żywo przez radio. 1 września 1939 r.
+
+<img src="./img/september/gdanskzajety.jpg"><br><br>
+
+### 1940
 
 Fragment pamiętnika Ireny Glück, nastoletniej żydowskiej dziewczynki z Krakowa.
 

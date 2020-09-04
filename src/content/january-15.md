@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2019
+
+Grin is a cryptocurrency focused on privacy without censorship in its implementation of Mimblewimble. According to their website, the developers want Grin to be usable by everyone regardless of borders, culture, skills or access. Without address information or amounts stored on the blockchain, the chain is meant to be lean and scalable. Grin was launched without a premine, ICO, or founders rewards and relies on donations to support the long-term development of the project.
+
 ### 1863
 
 W nocy z 14 na 15 stycznia przeprowadzono w Warszawie brankę, która przyspieszyła wybuch powstania styczniowego.

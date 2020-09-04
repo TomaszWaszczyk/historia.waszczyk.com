@@ -9,10 +9,20 @@ tags:
 draft: false
 ---
 
+### 2019
+
+<img src="./img/december/goldman.jpeg"/><br>
+
 ### 1942
 
 Ppełniący obowiązki ministra spraw zagranicznych RP Edward Raczyński przedstawił aliantom szczególowy raport o Holokauście stworzony na podstawie dokumentów, które do Londynu przywiózł Jan Karski. Rząd Polski na Uchodźctwie liczył w ten sposób na to, że alianci, a zwłaszcza Stany Zjednoczone zareagują na to, co zostało im przekazane. Niestety skończyło się na niedowierzaniu w to, co opisał Karski i braku jakiejkolwiek reakcji. Raport Karskiego był pierwszym tego typu opisującym tragiczną sytuację nie tylko Żydów w Polsce, ale i w całej Europie. Trzeci punkt noty Raczyńskiego brzmiał:
 > Ostatnie raporty przynoszą przerażający obraz sytuacji, w jakiej znaleźli się Żydzi polscy. Stosowane w ciągu ostatnich kilku miesięcy nowe metody masowych rzezi potwierdzają fakt, że władze niemieckie systematycznie dążą do całkowitej zagłady żydowskiej ludności Polski z Europy zachodniej i środkowej, a także z samej Rzeszy Niemieckiej. Rząd polski uważa za swój obowiązek zaznajomić rządy wszystkich cywilizowanych krajów z następującymi (…) informacjami, które ukazują aż nadzbyt wyraźnie nowe metody eksterminacji zastosowane przez władze niemieckie.
+
+After the fall of France in 1940, the Polish Government-in-exile relocated from Paris to London. There, they continued to communicate with the Warsaw based resistance (known as the Home Army or Armia Krajowa) through a system of clandestine couriers.
+
+The most notable of these couriers was a 26-year-old former Polish Cavalry Officer named Jan Karski.
+
+Karski is most remembered for the eyewitness testimony he delivered to President Roosevelt in July 1943 on conditions facing the Jews of Poland. After 35 years of silence, Karski agreed to the following interview.
 
 <img src="./img/december/massex.jpg"/><br>
 

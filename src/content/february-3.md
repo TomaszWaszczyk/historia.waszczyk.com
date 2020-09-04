@@ -9,6 +9,57 @@ tags:
 draft: false
 ---
 
+### 1947
+
+W Warszawie zakończył się proces przywódców antykomunistycznej organizacji Wolność i Niezawisłość, nazwany "procesem Rzepeckiego" od nazwiska głównego oskarżonego.
+
+Wbrew nadziei przeciwstawiali się sowieckiej okupacji Polski. Dramat Zrzeszenia "Wolność i Niezawisłość" to równocześnie dramat polskiego podziemia, którego resztki w latach pięćdziesiątych XX wieku ginęły w głębi ubeckich więzień.
+
+Pokazowy proces
+
+Przed sądem stanęło 10 osób z Zarządu Krajowego WiN, m.in.: pułkownik Jan Rzepecki, założyciel i pierwszy prezes, podpułkownik Jan Szczurek-Cergowski i szefowa łączności zagranicznej Emilia Malessa. Zarzucono im organizowanie dywersji, akty terroru, morderstwa i rabunki, szpiegostwo, a także uchylanie się od powinności wojskowej. Był to pierwszy z głośnych procesów pokazowych stalinowskiej Polski. Propagandowe relacje z procesu pojawiły się w prasie, radiu i Kronice Filmowej.
+
+Sąd wydał wyrok już 3 lutego 1947 roku. Pułkownik Rzepecki został skazany na 8 lat więzienia i był więziony, z przerwami, do 1955 roku. Pozostałe osoby otrzymały kary od 2 do 12 lat więzienia, a jedna - karę śmierci. Zostali oni następnie ułaskawieni przez prezydenta Bolesława Bieruta. Potem jednak niektórzy byli ponownie aresztowani. Emilia Malessa wyczerpana psychicznie i fizycznie, w 1949 roku popełniła samobójstwo.
+
+Więcej o Żołnierzach Wyklętych>>>
+
+Organizacja WiN domagała się opuszczenia Polski przez wojska radzieckie i NKWD oraz zaprzestania prześladowań politycznych i utworzenia apolitycznej armii. Żądała też przeprowadzenia wolnych wyborów, niezależnej polskiej polityki zagranicznej, a także rewizji granicy wschodniej.
+
+Rozpaczliwa sytuacja polskiego podziemia
+
+Po upadku Powstania Warszawskiego widać było, że sowieci i polscy komuniści nie będą się z nikim liczyć. Sytuacja Armii Krajowej i ludzi podziemia niepodległościowego była rozpaczliwa. Więzienia pełne były patriotów, na masową skalę trwały aresztowania byłych akowców. W Polsce działały wojska NKWD, szalał terror, a o stabilizacji nie było mowy.
+
+Powstanie WiN
+
+Po rozwiązaniu Armii Krajowej w kręgach byłych akowców istniała potrzeba stworzenia nowej organizacji, która byłaby bardziej polityczna niż zbrojna. 2 września 1945 roku, m.in. z inicjatywy płk. Jana Rzepeckiego, powołano do życia zrzeszenie Wolność i Niezawisłość. Organizacja działała do 1952 roku, kiedy to została ostatecznie zlikwidowana przez Urząd Bezpieczeństwa.
+
+Organizacja "Wolność i Niezawisłość" zakładała przede wszystkim działanie drogą walki politycznej, dopuszczając jednak możliwość zbrojnej samoobrony. W latach 1945-46 zrzeszenie liczyło ponad 30 tysięcy członków. Partyzanckie oddziały WiN atakowały więzienia i posterunki milicji, prowadziły walkę zbrojną z oddziałami wojska i likwidowały osoby współpracujące z władzą komunistyczną, traktując te działania jako obronę przed terrorem.
+
+Aresztowania i procesy
+
+Z powodu aresztowań przez UB, skład osobowy i struktura organizacyjna Zarządu Głównego WiN ulegała częstym zmianom. Kolejne cztery zarządy zostały rozbite przez funkcjonariuszy Ministerstwa Bezpieczeństwa Publicznego. W 1947 roku przeprowadzono trzy pokazowe procesy kolejnych zarządów WiN. Pierwszy tzw. proces Rzepeckiego już w styczniu tego roku.
+
+Wyrok w sprawie IV Zarządu Głównego zapadł 14 października 1950 roku. Wykonany został 1 marca 1951 roku w więzieniu mokotowskim w Warszawie. Członkowie IV zarządu WiN zostali straceni strzałami w tył głowy. Śmierć ponieśli: Łukasz Ciepliński, Mieczysław Kawalec, Józef Batory, Adam Lazarowicz, Franciszek Błażej, Karol Chmiel i Józef Rzepka. Następnego dnia zwłoki pomordowanych umieszczono w trumnach i wywieziono z terenu więzienia. Do dziś nieznane jest miejsce ich pochówku.
+
+Prowokacje UB
+
+Po rozbiciu IV komendy WiN, UB przeprowadziło prowokacje. Ministerstwo Bezpieczeństwa Publicznego utworzyło infiltrowany "V Zarząd WiN", który składał się z funkcjonariuszy UB, aresztowanych i zmuszonych do współpracy oficerów WiN oraz tych, którzy nie zdawali sobie sprawy z prowokacji.
+
+Przez cztery lata UB za pośrednictwem "V Zarządu" prowadziło grę wywiadowczą, której ofiarą padły grupy konspiracyjne w kraju oraz niepodległościowe środowiska emigracyjne. Przechwytywano amerykańskie pieniądze, zrzuty broni, a nawet agentów, którzy byli szkoleni w Niemczech i przerzucani do Polski. W skutek tej mistyfikacji w więzieniach znalazły się setki ludzi, którzy w dobrej wierze podjęli działalność w rzekomej podziemnej organizacji.
+
+W marcu 2001 roku Sejm Rzeczypospolitej przyjął specjalną uchwałę, w której złożył hołd poległym, pomordowanym, więzionym i prześladowanym członkom organizacji "Wolność i Niezawisłość". Posłowie napisali, że "WiN, następczyni Armii Krajowej, dobrze zasłużyła się Polsce".
+
+### 1863
+
+Zakończyła się bitwa pod Węgrowem. Była ona elementem powstania styczniowego.
+Stacjonujący w Siedlcach garnizon rosyjski w sile 1000 ludzi pod dowództwem pułkownika Georgija Papaafanasopuło próbował odbić zdobyty przez powstańców 23 stycznia Węgrów. 3500 Polaków pod wodzą generałów: Władysława Jabłonowskiego i Jana Matlińskiego skutecznie odparło rosyjski atak.
+
+<img src="./img/february/wegrow.jpg"/><br>
+
+### 1826
+
+https://en.wikipedia.org/wiki/Walter_Bagehot
+
 ### 382
 
 Cesarz wschodniej części Imperium Rzymskiego Teodozjusz I Wielki osiedlił w Tracji Gotów jako sprzymierzeńców Rzymu (Foederati).

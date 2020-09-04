@@ -32,6 +32,26 @@ Album ten wyprodukowany w wytwórni muzycznej Muza ukazał się w 1967 roku, a o
 
 <img src="./img/december/niemen.jpg"/><br>
 
+### 1943
+
+1943 roku na Wołyniu, dowodzący zahonem UPA imienia Bohuna, Porfirij Antoniuk ps "Sosenko" podpisał porozumienie z Niemcami.
+W pakcie tym "wyjaśniono" Niemcom zasadnicze cele działalności ukraińskiej partyzantki narodowej.
+Antoniuk wymienił trzy główne cele UPA tj. walka przeciwko bolszewizmowi, walka ze wszystkim co polskie, walka o utworzenie niepodległej Ukrainy. Na koniec dodał, że UPA chce aby Niemcy nie atakowali ich oddziałów. Dowódca niemiecki przedstawił swój punkt widzenia sprawy, który przedstawiał się następująco: UPA może zwalczać bolszewizm bez ograniczeń, w stosunku do Polaków ma podejmować walkę wyłącznie z uzbrojonymi oddziałami, które przeprowadzały antyniemieckie akcje, UPA nie może likwidować polskich placówek samoobrony, ponieważ jest to zadanie policji bezpieczeństwa. Ponadto UPA nie może atakować polskich osiedli, ponieważ jest to działanie na szkodę Niemców, którzy mają problemy ze ściąganiem żywności na tych terenach. Niemiecki kapitan, przedstawił sprawę jasno i zaznaczył, że w przypadku niedotrzymania warunków UPA będzie postrzegana jako ,,nielegalna banda, którą będziemy zwalczać i niszczyć’’. Przedstawiciel niemiecki zaznaczył w sprawozdaniu, że rozmowy nad kwestią polską zajęły kilka godzin i spotkały się z ,,silnym oporem przedstawicieli UPA’’.
+Na zdjęciu członkowie sotni Bira, odpowiedzialnej za mordy w Sakowczyku, Tworylnem, Hulskiem, Zatwarnicy i Krywem, schwytani przez żołnierzy Ludowego Wojska Polskiego w 1946 roku.
+
+<img src="./img/december/sosenko.jpg"/><br>
+
+### 1917
+
+Rada Komisarzy Ludowych powołała do życia Wszechrosyjską Nadzwyczajną Komisję do Spraw Walki z Kontrrewolucją i Sabotażem (Czeka). Na jej czele stanął polski i rosyjski działacz komunistyczny Feliks Dzierżyński (zdjęcie).
+Akronim Czeka wywodzi się od drugiej nazwy nadanej tej instytucji w 1918 roku,która brzmiała "Czeriezwyczajka".
+Dzierżyński kierował tą instytucją aż do
+śmierci w 1926 roku. Oprócz centralnego
+organu WCzK, istniały terenowe komisje
+nadzwyczajne CzK.
+
+<img src="./img/december/feliks.jpg"/><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -28,6 +28,11 @@ Niestety, do tej pory przemyskie władze nie zdobyły się na żaden gest, aby u
 
 Miejsce egzekucji, w prawie niezmienionej formie, przetrwało do dzisiaj. Jest mur domu z kominem, widoczny na fotografii. Jednak nie jest w żaden sposób oznaczone, choćby pamiątkową tablicą. Jedynie Jan Hołówka, w rocznicę śmierci zapala znicze, przynosi kwiaty.
 
+### 1790
+
+Podczas Sejmu Czteroletniego posłowie przyjęli ustawę o niepodzielności ziem Rzeczypopolitej.
+Dokument ten prawnie regulował, a właściwie ograniczał i zakazywał cesji obszaru Polski,oddawania go w lenno czy zapisów testamentowych.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

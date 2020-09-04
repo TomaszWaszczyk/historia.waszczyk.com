@@ -2542,9 +2542,8 @@ https://pl.wikiquote.org/wiki/Hannah_Arendt
 
 Życie to choroba śmiertelna przenoszona drogą płciową.
 
-<<<<<<< HEAD
 Historię swoją piszcie sami bo inaczej napiszą ją za was inni i źle.
-=======
+
 Trzeba wrócić do początków, żeby zrozumieć koniec.
 
 Osioł lubi być głaskany z włosem.
@@ -2560,7 +2559,437 @@ fluctuat nec mergitur
 https://pl.wikipedia.org/wiki/Wu_wei
 
 https://en.wikipedia.org/wiki/Going_concern
->>>>>>> d6aa38c9dea10e3119dc628b39e12f57cf85d40b
+
+Daj aby otrzymać.
+
+Nazwisko ma się jedno.
+
+Ustalenia uległy zmianie - Zakopane - 2020
+
+https://pl.wiktionary.org/wiki/tempus_fugit,_aeternitas_manet
+
+Wiadomości to wersja robocza historii.
+
+My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children. Horesa 4:6
+
+"Women are made to be loved, not understood." - Oscar Wilde - relayr
+
+Marksizm można powiedzieć jest ciekawą socjologią, bardzo wątpliwą ekonomią i katastrofalną filozofią - Wojciech Roszkowski
+
+Jeśli towary nie przekraczają granic to granice są przekraczane przez żołnierzy.
+
+https://en.wikipedia.org/wiki/Kurt_G%C3%B6del:
+W każdym systemie można logicznym można udowodnić tylko to co tkwi w jego założeniach? A czym są założenia? To wiara. (prof. Wojciech Roszkowski)
+
+Tam gdzie idzie kapitał, tam podąża konflikt.
+
+Nie mam poglądów politycznych, mam tylko gospodarcze.
+
+Okrągłe rocznice są nonsensem, wynikają z przypadkowego stosowania systemu dziesiętnego. (https://pl.wikiquote.org/wiki/Stefan_Kisielewski)
+
+Kryzys to skutek.
+
+Rewolucja to brak historycznej refleksji.
+
+Aut Inveniem Viam, Aut Faci
+
+"It is purpose that created us, purpose that connects us, purpose that pulls us, that guides us, that drives us. It is purpose that defines us."
+
+"Aut Caesar aut nihil"
+
+W obecnych czasach ludzie znają cenę wszystkiego i jednocześnie nie znają wartości niczego.
+
+Caedite eos. Novit enim Dominus qui sunt eius.
+
+Zagranie złej nuty jest bez znaczenia. Granie bez pasji jest niewybaczalne!
+
+Gdy jesteś niewydolny w czasie pokoju, nie łudź się, że pokonasz kryzys.
+
+https://pl.wikiquote.org/wiki/Bogus%C5%82aw_Wolniewicz
+
+Qualis rex, talis grex
+- Jaki król, taka trzoda
+
+When you are fearfull, you are vulnerable.
+
+https://en.wikipedia.org/wiki/Sisu
+
+"Czy wiecie, co jedynie sprawia mi przyjemność? Patrzeć, jak spływają do mnie dywidendy." 
+John D. Rockefeller
+"Giełda bez dywidend to chora giełda która pasie spekulantów, na której to wszyscy tracą w tym same spółki." 
+Benjamin Graham
+„Mój ulubiony horyzont inwestycyjny to nieskończoność”.
+Warren Buffett
+"Zyski płyną od aktywnych do cierpliwych
+
+„Wolność jest najlepszą, naj- tańszą, najskuteczniejszą sztuką rządzenia i gospodarowania" – pisał Ferdynand Zweig.
+
+Hard times like this either make us or break us.
+
+"Filantrop to człowiek, który publicznie zwraca bliźniemu drobną cząstkę tego, co mu ukradł prywatnie". Julian Tuwim.
+
+Ludzie stają się racjonalni kiedy już nic innego nie pozostaje.
+
+W okopach nie ma ateistów.
+
+Wolność bez pieniędzy to niewola w nędzy.
+
+Zrobiłem co mogłem, kto potrafi niech zrobi lepiej.
+
+"Przeciwności losu uczą mądrości, powodzenie ją odbiera"
+
+"Naród rodzi się stoikiem, umiera epikurejczykiem" - Will Durant, amerykański historyk, filozof i pisarz, współautor 11-tomowej "Historii cywilizacji"
+
+"Things will get worse before getting better"
+
+Jeśli coś można zrobić dzisiaj, to wartość byłaby jeszcze większa, gdybyś to zrobił wczoraj.
+
+Jan Zamoyski: "Takie będą Rzeczypospolite jakie ich młodzieży chowanie".
+
+even a dead cat bounce once
+
+oksymoron: rząd walczy z inflacją
+
+By dojść do tego, czym nie jesteś, musisz iść przez to, czym nie jesteś. Gdy zatrzymasz się nad czymś, przestajesz dążyć do wszystkiego. Albowiem by dojść całkowicie do wszystkiego, musisz zaprzeć się siebie całkowicie we wszystkim. A gdy dojdziesz do posiadania wszystkiego, masz to posiadać, nie pragnąc niczego. - Święty Jan od Krzyża
+
+---
+
+Pewnego razu osioł wpadł do studni i zaczął głośno ryczeć, wzywając pomocy. Na jego krzyki przybiegł właściciel i rozłożył ręce – przecież nie da się wyciągnąć osła ze studni.
+
+Wówczas gospodarz pomyślał: „Mój osioł jest już stary i niewiele życia mu zostało, a ja i tak chciałem kupić nowego, młodego osła. Ta studnia całkiem już wyschła i już dawno chciałem ją zasypać oraz wykopać nową. Czemuż by więc nie upiec dwóch pieczeni przy jednym ogniu – zasypię starą studnię i jednocześnie pochowam osła”.
+
+Niewiele myśląc, zaprosił swych sąsiadów, wszyscy zgodnie chwycili za łopaty i zaczęli wrzucać ziemię do studni. Osioł od razu zrozumiał, co jest grane, i zaczął głośno ryczeć, ale ludzie nie zwracali uwagi na jego krzyk rozpaczy i milcząc, wrzucali ziemię do studni.
+
+Jednak osiołek bardzo szybko umilkł. Kiedy gospodarz zajrzał do studni, ujrzał następujący widok: każdy kawałek ziemi, który spadał na grzbiet osiołka, ten strząsał i udeptywał. Po jakimś czasie, ku powszechnemu zdziwieniu, osiołek znalazł się na powierzchni i wyskoczył ze studni!”.
+
+Jaki stąd morał?
+
+„W naszym życiu zdarza się wiele różnych nieprzyjemności i w przyszłości możesz przyciągać do siebie coraz to nowe. I za każdym razem, kiedy spadnie na Ciebie kolejna gruda, pamiętaj, że możesz strząsnąć ją i właśnie dzięki niej wznieść się nieco wyżej. W ten sposób stopniowo zdołasz wydostać się z najgłębszej studni problemów”
+
+Vitaliy Gibert
+
+---
+
+Politykę robi się z mapą w ręku.
+
+Słaby król ma na głowie kupę złota, futra i perły i co chwilę kazał przycinać komuś głowę aby pokazać swoją władzę, pradziwie potężni robią wszystko, aby swoją potęgę ukryć
+
+Elity to ci którzch socjologii nikt nie odważy się analizować.
+
+https://pl.wikiquote.org/wiki/Walter_Lippmann
+
+Coś do powiedzenia będziemy mieli dopiero wtedy kiedy zrozumiemy, że nie mamy nic do powiedzenia : https://en.wikipedia.org/wiki/Wolfgang_Streeck - debt-state
+
+https://www.azquotes.com/author/23858-Samuel_Hahnemann
+
+Niemoc rodzi przemoc.
+
+Ofiarą wojny jest na pierwszym miejscu prawda.
+
+The wise man is neither raised up by prosperity nor cast down by adversity; for always he has striven to rely predominantly on himself, and to derive all joy from himself. - Seneca
+
+Człowiek zachodu jest wypełniony dokońca wyłącznie samym sobą. Benedykt XVI
+
+https://pl.wikiquote.org/wiki/Krzysztof_Habich
+
+„Żeby głosić kłamstwo potrzeba systemu. Żeby głosić prawdę wystarczy jeden człowiek.”
+Kardynał Stefan Wyszynski
+
+Fakt społeczny jest zawsze zewnętrzny, powszechny i przymusowy.
+Bronisław Geremek
+
+"If people let the government decide what foods and what medicines they take, their bodies will soon be in as sorry a state as are the souls of those who live under tyranny."
+~ Thomas Jefferson
+
+https://pl.wikipedia.org/wiki/O_tempora,_o_mores!
+
+„Polskę od Rosji dzieli jeden kolor na fladze”
+
+Lubimy ludzi, którzy bez wahania mówią to, co myślą, pod warunkiem, że myślą to samo co my.
+
+“I think there is a world market for maybe five computers.”
+Thomas Watson, president of IBM, 1943
+
+Maximus fluvius ex fontibus minimis crescit.
+
+“People don't have ideas. Ideas have people.” — Carl Jung
+
+Przez trupa białej Polski na Berlin. - Tuchaczewski - 1920
+
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
+Actions speak louder than words.
+
+https://pl.wiktionary.org/wiki/bellum_omnium_contra_omnes
+
+Burza w szklance wody.
+
+"Historia jest dla narodów tym, czym charakter dla poszczególnych ludzi" - Henry Kissinger
+
+Niczego w życiu nie należy się bać, należy to tylko zrozumieć.
+
+„O wiele łatwiej jest oszukać ludzi, niż przekonać ich, że zostali oszukani” - Mark Twain
+
+Believing in God is less about the scientifically untestable idea that some omnipotent creator exists. It’s more about not being arrogant enough to reject there’s something more we can’t fully understand. And there is some wisdom in these ancient stories we ignore at our peril.
+
+Jan Paweł II (1925_2005): "Historia uczy, że demokracja bez wartości łatwo się przemienia w jawny lub zakamuflowany totalitaryzm." (Centesimus annus 46).
+
+Jan Paweł II (1925-2005): "Interweniując bezpośrednio i pozbawiając społeczeństwo odpowiedzialności, państwo opiekuńcze powoduje utratę ludzkich energii i przesadny wzrost publicznych struktur". (Centesimus annus 48)
+
+Leadership is the calmness under stress.
+
+Żadne drzewo nie jest mocne ani odporne na burze, jeżeli często nie wstrząsają nim wichury, i właśnie pod nękającym naporem burzy nabiera siły i jeszcze mocniej korzeniami utwierdza się w ziemi. Słabe są drzewa, które wzrosły na słonecznych dolinach.
+Seneka
+
+Nobody has a right to complain.
+
+By dostać więcej od życia, dawaj więcej od siebie.
+H. Jackson Brown, Jr
+
+Wszystko, co doskonałe, dojrzewa powoli.
+Arthur Schopenhauer
+
+Dużo ludzi nie wie, co z czasem robić. Czas nie ma z ludźmi tego kłopotu.
+Magdalena Samozwaniec
+
+Spróbuj zapalić małą świeczkę, zamiast przeklinać ciemność
+Konfucjusz
+
+Tylko najlepsze jest wystarczająco dobre.
+
+Wznoś się po każdym upadku, padniesz trupem albo urosną Ci skrzydła.
+Maria von Ebner-Eschenbach
+
+Mamy tyle niezależności ile oszczędności.
+
+Don’t be afraid of making decisions. You can’t be paralyzed with fear or failure or you will never push yourself.
+
+Think globally, not just domestically.
+
+Śniadanie jedz sam, obiad z przyjacielem, kolajcę oddaj wrogowi.
+
+Rób to, co robisz, tak dobrze, by ludzie chcieli zobaczyć to ponownie i przyprowadzić swoich przyjaciół.
+
+Jeśli jest coś, co możesz zrobić, albo ci się śni, że możesz, zacznij to robić. W śmiałości tkwi geniusz, potęga i magia.
+Johann Wolfgang von Goethe
+
+Jeśli nie umiesz latać, biegnij. Jeśli nie umiesz biegać, chodź. Jeśli nie umiesz chodzić, czołgaj się. Ale bez względu na wszystko, posuwaj się naprzód!
+Martin Luter King
+
+Umysł, raz rozciągnięty przez nową ideę, nigdy nie powraca do swoich poprzednich rozmiarów.
+
+Nic nie może powstrzymać osoby z odpowiednim nastawieniem mentalnym przed osiągnięciem jej celu. Nic na ziemi nie może pomóc osobie ze złym nastawieniem mentalnym.
+
+You have to apply yourself each day to becoming a little better. By applying yourself to the task of becoming a little better each and every day over a period of time, you will become a lot better.
+
+Warto, nie raz i nie dwa, spokojnie spojrzeć na swoje życie i zdecydować, na czym zależy nam bardziej niż na czymkolwiek innym, co robilibyśmy, gdyby nie istniały żadne ograniczenia. A następnie powoli zacząć to robić.
+Robert Krool
+
+“Dobrzy matematycy widzą analogie między twierdzeniami, lepsi między teoriami, ale najlepsi widzą analogie między analogiami.” (Stefan BANACH)
+
+Kto myśli o problemach – ma problemy. Kto myśli o rozwiązaniach – ma rozwiązania. (Nikolaus B. Enkelmann)
+
+Poznaj samego siebie a stanie przed tobą otworem cały świat.
+
+Przyjaciół ma tylko powodzenie.
+
+If you have a garden and a library, you have everything you need. — Cicero
+
+"Tyle wiemy o sobie, ile nas sprawdzono"
+
+"Łatwiej jest ogłupiać ludzi niż przekonać, że zostali ogłupieni " - Mark Twain
+
+I hope you great enjoy as much as I did.
+
+Polkadot - host of the party
+
+"Confidence is silent. Insecurities are loud"
+
+Historia nigdy nie jest przeszła.
+
+Primum non nocere.
+
+Ad rem – niektórzy złośliwi mawiają: „Otwórz szafę i mów do rzeczy” (mając oczywiście na myśli „Otwórz usta i mów z sensem”). „Ad rem” znaczy po prostu „do rzeczy”, czyli do sedna sprawy.
+
+Alma Mater – to dosłownie „matka karmicielka”. Wielu z Was z pewnością miało z nią do czynienia. Ta matka karmi wiedzą. Jest to… określenie uczelni wyższych.
+
+Alter ego – czyli „drugie ja”. Każdy z nas, tak jak Dr Jekyll i Mr Hyde, ma dwie strony osobowości – jedną dobrą, drugą złą. Już starożytni w to wierzyli, stąd też określenie na dwie natury człowieka.
+
+Anno Domini, w skrócie A.D. – zapis ten często spotykamy przy datach. Oznacza on „w roku Pańskim”, „roku Pańskiego”.
+
+De facto – to, mówiąc inaczej, „w rzeczywistości”. Czy zauważyliście, że sporo osób chce sobie dodać mądrości i powagi, notorycznie wplatając ten zwrot w swoje wypowiedzi?
+
+Et cetera  (skracane do etc.) – mamy też rodzimy skrót, to po prostu „i tak dalej”.
+
+Ex aequo – każdy zna ten zwrot, ale nie każdy potrafi go zapisać. To, co słyszymy jako „ekzekfo”, zapisujemy właśnie jako „ex aequo”. Wyrażenie to zapisujemy zgodnie z oryginałem, gdyż nie zostało spolszczone. Oznacza ono „na równi, jednakowo”, np. Przyznano dwa trzecie miejsca ex aequo.
+
+Honoris causa – to stopień naukowy nadawany za zasługi (dosłownie „dla zaszczytu”). Uczelnie wyższe nadają ten zaszczytny tytuł wielkim osobistościom, niekoniecznie formalnie wykształconym w danym ośrodku, ale szczególnie zasłużonym dla nauki i kultury. Na przykład doktorami honoris causa Uniwersytetu Warszawskiego są Andrzej Wajda czy Václav Havel.
+
+Idem i ibidem – w pracach naukowych w przypisach często stosuje się zapisy łacińskie, aby nie powielać źródła jednego pod drugim:
+ibidem (skracane do ib., ibid.) = tamże, to samo miejsce;
+idem (skracane do id.) = to samo, ten sam, tenże.
+
+Id est  (skracane do i.e.) – to jest (to znaczy). To też warto znać.
+
+Lege artis – (postępowanie) według prawa, zgodnie z przepisami. Z łaciną sporo do czynienia mają prawnicy i lekarze, czyż nie?
+
+Liberum veto – dosłownie „wolne nie pozwalam”. Podajemy na wypadek, gdyby ktoś nie pamiętał tego ze szkoły. Pojęcie veta jest aktualne.
+Maseczka ochronna za 1 GROSZ
+
+Op. cit., czyli opus citatum – „dzieło cytowane” lub opere citato –„z cytowanego dzieła”). Skrót ten używany jest w przypisach lub cytatach w celu odesłania czytelnika do wcześniej cytowanej pozycji. Pod artykułem podajemy w ramce przykłady zastosowania skrótów op. cit. oraz ibidem.
+
+Pro publico bono /Pro bono publico – Bono to nie tylko wokalista U2, ale również jedna z łacińskich form rzeczownika „dobro”. Cały zwrot oznacza „dla dobra publicznego”. Przykład użycia: Znany prawnik dwa razy w tygodniu udziela porad prawnych pro publico bono.
+
+Sensu largo – w znaczeniu szeroko pojętym, czyli ogólnym.
+
+Sensu stricto – w znaczeniu ścisłym. Uwaga, „ściśle” to po łacinie „stricte” (z „e” na końcu), np. To pojęcie dotyczy stricte językoznawstwa porównawczego.
+
+Sic! – dobrze myślicie, jest to tytuł jednej z płyt zespołu Hey. A słówko to najczęściej zapisywane w towarzystwie wykrzyknika oznacza „tak”, „właśnie” (czytamy je: [s-ik]). Umieszczamy je po wyrazie lub ciągu wyrazów, na który chcemy zwrócić uwagę czytelnika, aby zapewnić go, że cytujemy zgodnie z oryginałem. Przykład użycia: Było tam napisane: „Przed wojną kobiety chodzili [sic!] po bułki do sklepu”.
+
+(Conditio) sine qua non – (warunek) konieczny do spełnienia (dosłownie „bez którego nie”). Uwaga! „Qua” czytamy jako „kwa”, a nie „kła”.
+
+Tabula rasa – czysta karta (dosłownie tabliczka wygładzona). Niektórzy uważają, że na świat przychodzimy właśnie z czystą kartą – bez doświadczenia.
+
+Terra incognita – brzmi to tajemniczo i takie też ma znaczenie: to nieznany, niezbadany ląd lub też nierozpoznana i nowa dla kogoś dziedzina np. w nauce: Język turecki to dla mnie terra incognita.
+
+Vel – albo, czyli – słowo używane przy zestawieniu określeń synonimicznych lub dwu nazwisk tej samej osoby, np. Bolesław Prus vel Aleksander Głowacki (definicja za sjp.pwn.pl).
+
+Vice versa – na odwrót, z drugiej strony.
+
+Vide – zobacz. Tak, tak, słowo „video” pochodzi od łacińskiego „patrzeć, widzieć, zobaczyć”.
+
+Vis maior – jest to coś, na co nie mamy wpływu, czyli siła wyższa.
+
+Votum separatum – dosłownie „zdanie odrębne” (zdanie inne niż popierane przez ogół). Pojęcie z dziedziny prawa.
+
+Prawdziwa podróż odkrywcza nie polega na szukaniu nowych lądów, lecz na nowym spojrzeniu. - Proust
+
+Be the change you wish to see in the world.
+
+If you are backward you will take a beating.
+
+To see the future you have to be able to step outside of yourself, forget your past successes and see beyond your current understanding.
+
+Rozumienie jest trudne, dlatego większość ludzi ocenia.
+
+Bismarck: "Ludzie nie powinni widzieć 2 rzeczy. Robienia kiełbasy i polityki"
+
+“Give so much time to the improvement of yourself that you have no time to criticize others.” Christian D. Larson
+
+Asking these people about Bitcoin is like asking a taxi driver what he thinks about Uber or a horse and buggy manufacturer what he thinks about cars. Their opinions are worth less than nothing.
+
+Mt 5, 33-37: "Niech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi."
+
+Mniej czytać nuty, więcej słuchać muzyki.
+
+Bezmyślność zabija. Innych. (Stanisław Jerzy Lec)
+
+Dziękuję nic nie kosztuje. ;-)
+
+being agnostic = being smart
+
+"It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." - Henry Ford
+
+However, even US Dollar (USD) inflation adds up over time, with $1 in 1900 having the equivalent purchasing power of $28.57 in 2016: that’s a 2,757.23% rate of inflation over 116 years, or an annualized inflation rate of 2.93%.
+
+https://en.wikipedia.org/wiki/Analysis_paralysis
+
+A lot of https://www.thefreedictionary.com/ma%C3%B1ana
+
+Myśleć to znaczy wiedzieć przed (i działać).
+
+Poznaj samego siebie, a stanie przed toba otworem cały świat.
+
+Musimy złapać zmianę za rękę albo niechybniezmiana złapie nas za gardło.
+
+Jeśli jesteś zafocany, weźmiesz bicie.
+
+If you don't believe in your own work, how can you expect anyone else to?
+
+In spite of your fear, do what you have to do - Chin-Ning Chu
+
+Like gold is tested by rubbing, cutting, heating and beating so also a man is tested by his sacrifice, conduct, qualities/capablities and his actions.
+
+Single wheel can't move the chariot.
+
+św. Tomasza z Akwinu: Mało neguj. Dużo afirmuj. Wszystko badaj.
+
+https://en.wikipedia.org/wiki/Jumping_the_shark
+
+Guns and butter
+
+ad infinitum
+
+https://pl.wikiquote.org/wiki/Fryderyk_II_Wielki
+
+Nieznajomość prawa szkodzi.
+
+"Różnica między wschodem a zachodem jest taka, że u nas rodzice oszczędzają aby zapewnić przyszłość swoim dzieciom, a u was (od jakiegość czasu) rodzice zaciągają długi, które będą spłacać ich dzieci" Jack Ma
+
+https://pl.wiktionary.org/wiki/nihil_novi_sub_sole
+
+"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command." - George Orwell
+
+"Science is not perfect. It's often misused. It's only a tool. But it's the best tool we have."
+
+Skropnie przyjmować, spokojnie oddawać.
+
+"It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." - Henry Ford
+
+1876: “The Americans have need of the telephone, but we do not.  We have plenty of messenger boys.” — William Preece, British Post Office.
+
+1876: “This ‘telephone’ has too many shortcomings to be seriously considered as a means of communication.” — William Orton, President of Western Union.
+
+1889: “Fooling around with alternating current (AC) is just a waste of time.  Nobody will use it, ever.” — Thomas Edison
+
+1903: “The horse is here to stay but the automobile is only a novelty – a fad.” — President of the Michigan Savings Bank advising Henry Ford’s lawyer, Horace Rackham, not to invest in the Ford Motor Company.
+
+1921: “The wireless music box has no imaginable commercial value.  Who would pay for a message sent to no one in particular?
+
+1946: “Television won’t be able to hold on to any market it captures after the first six months.  People will soon get tired of staring at a plywood box every night.” — Darryl Zanuck, 20th Century Fox.
+
+1959: “Before man reaches the moon, your mail will be delivered within hours from New York to Australia by guided missiles.  We stand on the threshold of rocket mail.” — Arthur Summerfield, U.S. Postmaster General.
+
+1961: “There is practically no chance communications space satellites will be used to provide better telephone, telegraph, television or radio service inside the United States.” — T.A.M. Craven, Federal Communications Commission (FCC) commissioner.
+
+1966: “Remote shopping, while entirely feasible, will flop.” — Time Magazine.
+
+1981: “Cellular phones will absolutely not replace local wire systems.” — Marty Cooper, inventor.
+
+1995: “I predict the Internet will soon go spectacularly supernova and in 1996 catastrophically collapse.” — Robert Metcalfe, founder of 3Com.
+
+2005: “There’s just not that many videos I want to watch.” — Steve Chen, CTO and co-founder of YouTube expressing concerns about his company’s long term viability.
+
+2006: “Everyone’s always asking me when Apple will come out with a cell phone.  My answer is, ‘Probably never.’” — David Pogue, The New York Times.
+
+2007: “There’s no chance that the iPhone is going to get any significant market share.” — Steve Ballmer, Microsoft CEO.
+
+"Economist Paul Krugman wrote that by 2005, it would become clear that the Internet's effect on the economy is no greater than the fax machine's."
+
+https://pl.wikipedia.org/wiki/M%C4%85dro%C5%9B%C4%87_Syracha
+
+Na pochyłe drzewo wszystkie kozy skaczą. 
+
+<!-- “The longer I live, the more I realize the impact of attitude on life.
+
+Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
+
+It is more important than appearance, giftedness, or skill. It will make or break a company... a church... a home.
+
+The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day.
+
+We cannot change our past... we cannot change the fact that people will act in a certain way.
+
+We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude.
+
+I am convinced that life is 10% what happens to me and 90% of how I react to it.
+
+And so it is with you... we are in charge of our Attitudes.”
+
+― Charles R. Swindoll
+
+
+Be kind to yourself and have a great Friday, my friends! -->
 
 ---
 

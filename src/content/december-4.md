@@ -16,6 +16,18 @@ Według ustaleń Państwowej Komisji Badania Wypadków Lotniczych przyczyną run
 Wojskowej Prokuratury Okręgowej w Warszawie postawiła pilotowi majorowi Markowi Miłoszowi zarzuty umyślnego sprowadzenia bezpośredniego niebezpieczeństwa katastrofy powietrznej przez niedochowanie zasad bezpieczeństwa w locie, to jest czyn z artykułu 174 paragraf 1 Kodeksu karnego, za co grozi kara do 8 lat pozbawienia wolności oraz nieumyślnego sprowadzenia katastrofy powietrznej zagrażającej życiu lub zdrowiu wielu osób, to jest czyn z artykułu 173 paragraf 2 w związku z paragrafem 1 Kodeksu karnego, za co grozi do 3 lat pozbawienia wolności.
 Miłosz nie przyznał się do winy i złożył obszerne wyjaśnienia. W marcu 2010 roku, po trwających ponad sześć lat postępowaniu i procesie, Wojskowy Sąd Okręgowy w Warszawie uniewinnił Miłosza ze stawianych mu zarzutów.
 
+### 1958
+
+Ponad 2 miesiące bez lądowania i przebyte 240 tys. kilometrów - tyle trwał najdłuższy lot bez lądowania w historii. Kto zatem uważał, że Le Mans jest ekstremalną próbą wytrzymałości ten tkwił w głębokiej niewiedzy.
+
+4 grudnia 1958 dwóch amerykańskich pilotów John Cook oraz Robert Timm wsiadło do małej awionetki Cessna 172 na lotnisku Las Vegas McCarran. To jednosilnikowy, czteromiejscowy samolot turystyczny produkowany od 1956 roku do dnia dzisiejszego
+
+Samolot nosił nazwę Hacienda. Lot był bowiem sponsorowany przez właścicieli hotelu oraz kasyna, którzy w ten niekonwencjonalny sposób postanowi wypromować swój nowy obiekt.
+
+Ze środka awionetki usunięto wszystko, co było zbędne. Wbudowano za to dodatkowy zbiornik paliwa. Jeden z foteli wymontowano z kabiny tworząc miejsce do spania-w jego miejsce wyłożono materac.
+
+Paliwo tankowano podczas lotu, bez lądowania. Z jadącego samochodu podawano do samolotu także świeże ubrania, ręczniki, wodę oraz jedzenie. Piloci swoje potrzeby fizjologiczne załatwiali na dwóch podestach zamontowanych na zewnątrz kabiny.
+
 ### 1941
 
 W Moskwie, dzień po spotkaniu z generałami Władysławem Andersem i Władysławem Sikorskim Józef Stalin podpisał porozumienie w sprawie wspólnej walki przeciwko Niemcom.

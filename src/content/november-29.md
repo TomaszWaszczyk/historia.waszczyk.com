@@ -8,6 +8,13 @@ tags:
   - Historia
 ---
 
+### 2018
+
+<video width="640" height="480" controls>
+  <source src="./movies/november/Wallstreetismanipulating Bitcoin price to buy it cheap.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1943
 
 Niemcy przeprowadzili w Lublinie łapankę, której efektem było schwytanie kilkudziesięciu młodych mężczyzn. Wszystkich wywieziono do obozu w Majdanku. Po pewnym czasie postawiono im alternatywę, którą była służba w Baudienst (Służba Budowlana). Miało to gwarantować im szybkie opuszczenie obozu. Z tej możliwości skorzystało tylko dwóch mężczyzn, których zwolniono z obozu już po miesiącu.

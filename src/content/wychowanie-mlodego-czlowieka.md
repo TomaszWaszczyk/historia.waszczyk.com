@@ -20,6 +20,8 @@ draft: false
 
 * Kot Biznesik - Arkadiusz Błażyca
 
+* Johnny Profit - Malgeri Michael A.
+
 * Opowiadania dla dzieci cz. 2 4CD - Singer Bashevis Isaac
 
 * BLIŹNIĘTA TUTTLE I CUDOWNY OŁÓWEK - Connor Boyack
@@ -48,13 +50,58 @@ draft: false
 
 * Mała encyklopedia nauki, Emmanuel Chanut
 
+* https://abc-ekonomii.edu.pl
+
+* https://www.nbportal.pl/wiedza/prezentacje
+
+* Świat pieniądza, Fundacja Świat Pieniądza
+
+* https://ukochaneprzygody.pl/ - https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
+
+* ABC ekonomii, czyli pierwsze kroki w świecie finansów – Wiktor Czepczyński, Żaneta Kupczyk
+
+* Złoto Johnnego - Michael A. Malgeri
+
+* Bajki Kwantowe: Seria 1 – Kamil Hajduk
+
+* https://altenberg.pl/superniania/
+
+* https://lingumi.com/
+
+* Dzieje Polski opowiedziane dla młodzieży, Feliks Koneczny
+
+* Baby Loves Quantum Physics! (Baby Loves Science) by Ruth Spiro (Author), Irene Chan (Illustrator)
+
+* https://www.rigb.org/families
+
+<video width="640" height="480" controls>
+  <source src="./movies/wychowanie-mlodego-czlowieka/wujek-sknerus.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Programowanie = szkoła myślenia
 
+* https://shelly.dev/
+
+* https://scratch.mit.edu/
+
+* https://code.org/curriculum/unplugged
+
+* https://www.tinkercad.com/
+
 * https://www.codingame.com/start
+
+* Baw się kodem! Twoja własna gra. CoderDojo Nano - Jurie Horneman, CoderDojo
+
+* Lift-the-Flap Computers and Coding
+
+* Code For Teens: The Awesome Beginner’s Guide to Programming Volume 1: Javascript by Jeremy Moritz
 
 * http://www.csforbabies.com/
 
 * https://code.org/learn
+
+* https://codecombat.com/
 
 * https://play.elevatorsaga.com
 
@@ -75,6 +122,12 @@ draft: false
 * Proste projekty dla młodych majsterkowiczów
 
 * Lego Education
+
+* Neural Networks for Babies - Chris Ferrie
+
+* https://www.kiwico.com/
+
+* https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/
 
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
@@ -100,6 +153,10 @@ draft: false
 
 * https://ezw.edu.pl/edukacja-z-wartosciami/
 
+* https://www.edukacja-klasyczna.pl/
+
+* How to survive your twenties Kindle Edition, Przemek Chojecki
+
 ### Bajki
 
 * My Neighbor Totoro
@@ -114,6 +171,10 @@ draft: false
 
 * Ekonomia w jednej lekcji, Henry Hazlitt
 
+* Bieda. Przewodnik dla dzieci
+
+* IRWIN A. SCHIFF Jak Powstaje Bogactwo, I Kiedy Nie Powstaje
+
 ### Inne
 
 * https://www.subscribepage.com/kursRIE
@@ -122,13 +183,36 @@ draft: false
 
 * https://hummuseconomicus.pl/dzieci-jako-dobra-publiczne/
 
-<img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
+* https://pl.wikipedia.org/wiki/John_Dewey
 
+* The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
+
+* محمدعبد THE MUQADDIMAHAbd Ar Rahman bin Muhammed ibn Khaldun Translated by Franz Rosenthal
+
+* https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html
+
+* https://sciencejournal.withgoogle.com/
+
+* https://www.zooniverse.org/
+
+* https://www.desmos.com/calculator
+
+<!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol -->
+
+<img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 <video width="640" height="50" controls>
   <source src="./img/wychowanie-mlodego-czlowieka/Jak-klasa-społeczna-wpływa-na-styl-wychowawczy.mp3" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+---
+
+* metoda zielonego ołówka
+
+docenianie != chwalenie (docenianie to droga, chwalenie to efekt)
+
+myślenie krytyczne
 
 ---
 

@@ -24,6 +24,16 @@ Niedoszłą czwartą ofiarą ubeckiego odwetu był rolnik Józef Sikorski, któr
 Niemcy otoczyli część wsi nazywaną Studzieniec, a także pobliski las, w którym ukrywali się wspomniani ludzie. Początkowo, przez zastraszanie niektórych mieszkańców próbowali zmuszać Polaków do podania miejsca ukrywania się Żydów. Wobec faktu, że próby te spełzly na niczym zdecydowali się na użycie psów tropiących, które szybko doprowadziły ich do poszukiwanych. Cześć z próbujących uciekać Celerów została zastrzelona. Byli to Lejb, Gitla i Srul. Staruszka Marta Celer została pojmana w znajdującym się w lesie schronie i doprowadzona do domu zabitego wcześniej gospodarza Adama Kaczora, z którego po przesłuchaniu ponownie została wywleczona do lasu, w miejsce z którego została zabrana, a w które w międzyczasie przeniesiono zwłoki jej zabitych dzieci, w tym ostatniej córki Gnendli. Oprawcy nie oszczędzili starszej kobiety. Polakowi Wojciechowi Organiściakowi nakazali wykopać dół, do którego najpierw wyrzucili ciała pierwszych ofiar, a na koniec ciało ich matki.
 Nie poprzestano jednak na tym. W akcie zemsty patrol żandarmerii doprowadził pod wspomnianą już posesję Adama Kaczora grupę Polaków podejrzanych o pomaganie Żydom w ukrywaniu się i budowaniu leśnego schronu. Podejrzanym oznajmiono po polsku, że zostaną rozstrzelani za pomoc Żydom. Egzekucji dokonano pod pobliskim lasem.
 
+### 1920
+
+Ruiny zamku w Zbarażu.
+
+Zbaraż to miasto w położone w dolinie rzeki Gniezny (dopływ Seretu). Prywatne miasto szlacheckie położone było w XVI wieku w województwie wołyńskim. Do 1945 roku należał do Polski. Od grudnia 1920 w II Rzeczpospolitej, województwie tarnopolskim, było siedzibą powiatu zbaraskiego. .Oblężenie zamku opisał Henryk Sienkiewicz w Ogniem i Mieczem. Obecnie w granicach Ukrainy.
+
+Fotografia: Obraz m.Kowalsky, Ruiny Zamku Zbaraż 1934. Obraz wykonany w jednym egzemplarzu, tuszem, kredkami i ołówkiem
+
+<img src="./img/december/zbaraz.jpg"/><br><br>
+
 ### 1918
 
 Biało-czerwona "szachownica" stała się oficjalnie symbolem polskiego lotnictwa. Pierwszy raz symbol ten znalazł się na samolocie pilota myśliwskiego inżyniera Stefana Steca, który 15 listopada 1918 roku przyleciał z meldunkiem z oblężonego Lwowa do Warszawy. Wtedy to podpułkownik Hipolit Łossowski uznał, że "szachownica" spełnia wszelkie wymogi symbolu, którym mogłoby posługiwać się polskie lotnictwo.

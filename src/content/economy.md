@@ -32,6 +32,10 @@ https://pl.wikipedia.org/wiki/Teoria_przewagi_komparatywnej
 
 https://en.wikipedia.org/wiki/Triffin_dilemma
 
+https://en.wikipedia.org/wiki/Joseph_Salerno
+
+https://en.wikipedia.org/wiki/Paul_De_Grauwe
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/economy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

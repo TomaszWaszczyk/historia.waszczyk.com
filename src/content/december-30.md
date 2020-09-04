@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1999
+
+https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Soko%C5%82owski_(gangster)
+
 ### 1988
 
 Papież Jan Paweł II podpisał adhortację "Christifideles Laici".

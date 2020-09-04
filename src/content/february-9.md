@@ -1,18 +1,59 @@
 ---
 layout: post
 title: 9 lutego
-image: img/april/Executive_Order_6102.jpg
+image: img/february/wolyn.png
 author: Tomasz Waszczyk
-date: 2018-02-09T10:00:00.000Z
+date: 2019-02-09T10:00:00.000Z
 tags:
-  - Historia
+  - Wołyń
 ---
+
+### 1953
+
+Rada Państwa wydała dekret o "tworzeniu, obsadzaniu i znoszeniu duchownych stanowisk kościelnych"
+Na mocy tego dokumentu władze komunistyczne zyskały pełne prawo i możliwość kontroli nad nominacjami kościelnymi. Dekret wprowadzony w sprzeczności z zawartym w roku 1950 poruzumieniu zawartym pomiędzy rządem, a Episkopatem Polski oraz Konstytucją z roku 1952 był jednym podobnych sobie dokumentów obowiązujących we wszystkich krajach komunistycznych Europy Wschodniej.
+Dekret umożliwiał komunistom kontrolowanie i unieważnienie każdej nominacji (m.in. proboszczów) i aktu jurysdykcyjnego Kościoła. W konsekwencji władze mogły nieposłusznych reżimowi duchownych zastępować uległymi tak zwanymi "księżmi patriotami".
+Dekret zmuszał również duchownych do składania ślubowania na wierność Polskiej Rzeczpospolitej Ludowej.
+W artykule 6 dekretu zapisano:
+"Uprawianie przez osobę piastującą duchow-
+ne stanowisko kościelne działalności sprzecznej z prawemi porządkiem publicznym bądź popieranie lub osłanianie takiej działalności powoduje usunięcie tej osoby z zajmowanego stanowiska przez zwierzchni organ kościelny samoistnie lub na żądanie organów państwowych".
 
 ## 1945
 
 Autofagia jest dobra tzn. krótkie głodówki: <https://en.wikipedia.org/wiki/Yoshinori_Ohsumi>
 
 Wykład: <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/february/ohsumi-lecture.pdf" target="_blank">Molecular Mechanisms of Autophagy in Yeast</a>
+
+### 1944
+
+W Częstochowie Gestapo zamordowało Arkadiusza Deglera (zdjęcie) podporucznika Armii Ludowej, byłego działacza Związku Walki Zbrojnej, żołnierza Armii Krajowej oddziału Wichra, szefa sztabu oddziału częstochowskiego Armii Ludowej.
+Gestapowcy znaleźli go w mieszkaniu przy ulicy Garncarskiej. Pośmiertnie awansowany na porucznika i odznaczony Orderem Krzyża Grunwaldu III klasy.
+
+<img src="./img/february/deglera.jpg"/><br><br>
+
+### 1943
+
+ uznaje się za początek rzezi na Wołyniu.
+
+Pasywność AK, do którego dochodziły pogłoski o pogromach Polaków pozostawia spory niesmak. Armia Krajowa snuła dopiero plany o Akcji Burza, w dowództwie coraz częściej rozmawiano o wywołaniu powstania w Warszawie przeciwko okupacji niemieckiej.
+
+Dmytro Klaczkiwski, jeden z dowódców UPA tak pisał o planach ukraińskich nacjonalistów:
+
+"[...] Powinniśmy przeprowadzić wielką akcję likwidacji polskiego elementu. Przy odejściu wojsk niemieckich należy wykorzystać ten dogodny moment dla zlikwidowania całej ludności męskiej w wieku od 16 do 60 lat. [...] Tej walki nie możemy przegrać i za każdą cenę trzeba osłabić polskie siły. Leśne wsie oraz wioski położone obok leśnych masywów powinny zniknąć z powierzchni ziemi."
+
+Rzeź UPA była bagatelizowana, a przecież to nie były regularne oddziały, tylko wieśniacy, którzy otrzymali na to przyzwolenie (również od samych sowietów). AK bez problemów poradziłaby sobie z tym.
+
+W okresie od lutego 43 do lutego 45 zginęło co najmniej 60 tysięcy Polaków - tego można było uniknąć.
+
+Zamiast oszczędzania żołnierza i amunicji na akcję burza czy samobójczą misję - życzeniowym myśleniu o odbiciu Warszawy z rąk niemieckich i dobrych zamiarach Sowietów, można było skupić się na zagrożeniach, których byliśmy w stanie przezwyciężyć. Takim była zbrodnia wołyńska.
+
+<img src="./img/february/wolyn.png"/><br><br>
+
+### 1905
+
+W Sosnowcu podczas rewolucji w Królestwie Polskim wojsko rosyjskie otworzyło ogień do protestujących robotników Huty Katarzyna i kilku innych sosnowieckich zakładów pracy. Zabito 40 robotników, a 105 zostało rannych.
+
+<img src="./img/february/sosnowiec.jpg"/><br><br>
 
 ---
 

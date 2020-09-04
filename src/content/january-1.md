@@ -8,9 +8,53 @@ tags:
   - Radio Wolna Europa
 ---
 
+### 2023
+
+Prawdopodobnie wchodzi w życie prawo na Ukrainie o możliwości kupowania przez osoby prawne gruntów.
+
 ### 2020
 
 > No dobre rozpoczęcie nowego roku i dekady przypominamy, że przez najbliższe 9 lat (a właściwie nieco ponad 8) czekają nas 3 halvingi bitcoina. Roczna inflacja w bitcoinie na koniec tego dziesięciolecia będzie wynosiła około 0,45% a nagroda za blok 1,5625 BTC
+
+---
+
+Pod wpływem MFW Ukraina ugina się i zaczyna liberalizację handlem ziemią. Patrz rok 2023.
+
+---
+
+WHO
+
+“No clear evidence of human-to-human transmission of coronavirus"
+
+---
+
+Limit anonimowego zakupy złota w Niemczech do 2000 Euro.
+
+### 2017
+
+<img src="./img/others/gielda.png"/><br><br>
+
+### 2000
+
+Jolanta Gontarczyk vel Lange - zaczyna ruchy feministyczne w Polsce.
+
+Jolanta i Andrzej Gontarczykowie vel Lange - szpiedzy PRLu
+
+### 1998
+
+DVD Netflix has been the premier DVD-by-mail rental service. Make your movie list and get Blu-rays and DVDs conveniently delivered to you with free shipping both ways. Most of our subscribers receive their discs within two business days.
+
+### 1990
+
+Plan Balcerowicza
+
+Powstaje Urząd Ochrony Państwa
+
+### 1989
+
+Zniesienie kartek na benzynę, talonów na samochody i kwitów na węgiel. Druga część X Plenum KC PZPR przyjęła "Stanowisko w sprawie pluralizmu politycznego i pluralizmu związkowego". W niewyjaśnionych okolicznościach zostają zamordowani dwaj księża: Stefan Niedzielak z Warszawy i Stanisław Suchowolec z Białegostoku.
+
+Kolejna tura rozmów w Magdalence. Ustalono, że rozmowy okrągłego stołu rozpoczną się 6 lutego w Warszawie. Trwały do 5 kwietnia i zakończyły się popisaniem porozumienia w podstawowych dla kraju kwestiach, w tym o czerwcowych wyborach. Ustalenia okrągłostołowe negatywnie oceniły: KPN, Solidarność Walcząca, Ruch "Wolność i Pokój". Sejm ponownie ustanowił 11 listopada świętem narodowym. Od marca legalny obrót dewizami, powstały pierwsze kantory.
 
 ### 1988
 
@@ -20,9 +64,25 @@ Zagłuszanie RWE prowadzono poza granicami Polski. Główne zagłuszarki o mocy 
 Podobnych sprytnych modyfikacji było do roku 1988 jeszcze bardzo dużo.
 Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
+### 1967
+
+https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik
+
+### 1952
+
+https://pl.wikipedia.org/wiki/Pierwsza_Konferencja_Metodologiczna_Historyk%C3%B3w_Polskich
+
+### 1949
+
+https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model
+
+### 1948
+
+https://pl.wikipedia.org/wiki/Tadeusz_Cegielski
+
 ### 1941
 
-1941 roku w Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
+W Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
 
 <img src="./img/january/bomber.jpg"/><br><br>
 
@@ -206,6 +266,12 @@ Na wyspie Alcatraz w zatoce San Francisco otwarte zostało jedno z najcięższyc
 
 <img src="./img/january/alcatras.jpg"/><br><br>
 
+### 1927
+
+<img src="./img/january/bieda_galicyjska.jpg"><br><br>
+
+https://en.wikipedia.org/wiki/Poverty_in_Austrian_Galicia
+
 ### 1919
 
 1919 roku w Homlu urodził się Marek Edelman (zdjęcie)- polski lekarz kardiolog, działacz polityczny, jeden z przywódców powstania w gettcie warszawskim. W czasie okupacji był żołnierzem Żydowskiej Organizacji Bojowej. W czasie Powstania Warszawskiego walczy w podporządkowanym Armii Ludowej plutonie ŻOB na Starym Mieście. W roku 1951 ukończył studia na Akademii Medycznej w Łodzi, gdzie mieszkał prawie do końca życia. W latach 70 tych był współpracownikiem Komitetu Obrony Robotników. Był jednym z sygnatariuszy tzw "Listu 101"-protestu skierowanego do władz PRL przeciwko zmianom w konstytucji. W latach 80 tych był działaczem Solidarności. W 1983 odmówił władzom PRL udziału w Honorowym Komitecie Obchodów 40-leciaPowstania w Getcie, natomiast SB uniemożliwiła mu udział w obchodach. W roku 1988 przewodniczył Komisji ds. Mniejszości Narodowych w ramach Komitetu Obywatelskiego przy Lechu Wałęsie .
@@ -217,6 +283,10 @@ Zmarł 2 października 2009 roku w Warszawie.
 ### 1918
 
 https://en.wikipedia.org/wiki/Hyperinflation
+
+### 1915
+
+https://pl.wikipedia.org/wiki/J%C3%B3zef_%C5%9Awiat%C5%82o
 
 ### 1860
 

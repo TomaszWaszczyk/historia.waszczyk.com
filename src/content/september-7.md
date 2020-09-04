@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1942
+
+W miejscowości Zdziłowice w województwie lubelskim hitlerowcy dokonali masakry 72 osób narodowości żydowskiej. w wieku od 14 do 40 lat. Zaczęło się od łapanki,w której schwytano 150 osób. Wspomniane 72 rozstrzelano na miejscu,resztę wywieziono do obozu w Majdanku.
+
 ### 1939
 
 https://pl.wikipedia.org/wiki/Obrona_Westerplatte

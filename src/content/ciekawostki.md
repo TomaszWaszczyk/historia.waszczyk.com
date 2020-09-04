@@ -35,9 +35,13 @@ Stany Zjednoczone wyszły oczywiście na tym najlepiej, gdyż po wojnie zgarnęl
 
 Pokłosiem wojny jest dominacja gospodarcza głównych potęg w niej uczestniczących (pomijając Rosję rzecz jasna) oraz przewaga technologiczna.  Nawet wydawałoby się tak owiana legendą przedsiębiorczości dolina krzemowa ma swoje korzenie stricte wojskowe. Warto obejrzeć poniższą prezentację żeby wyzbyć się wszelkiej naiwności co do mitu założycielskiego miejsca, skąd de facto pochodzi dzisiejszy rozwój Internetu.
 
-<img src="./img/others/ciekawostki/fabryki.gif"/><br>
+<img src="./img/others/ciekawostki/fabryka.gif"/><br>
 
 Z tej perspektywy „afera” PRISM to konsekwencja działań wywiadu i dla nikogo nie może być zaskoczeniem.
+
+### Małżeństwo
+
+ § 79. Skutki prawne małżeństwa (str. 208-209). Wskutek małżeństwa zachodził stosunek powinowactwa, a także przeszkoda do zawarcia nowego małżeństwa. Dzieci zrodzone w małżeństwie uchodziły za prawe (legitimi). Żona uzyskiwała pozycję społeczną męża, byli oni zobowiązani do wzajemnego szacunku (reverentia). Mąż miał obowiązek utrzymywać żonę, mógł decydować  o miejscu jej zamieszkania i sposobie wychowywania dzieci. Mąż wchodził w stosunki prawno-majątkowe żony  (jeśli uprzednio była sui iuris), stawał się sukcesorem uniwersalnym. Posag (dos) to majątek wnoszony mężowi w związku z zawarciem małżeństwa. Jego zadaniem było pokrywanie części kosztów związanych z utrzymaniem małżeństwa (onera matrimonii). Ustanowienia posagu mógł dokonać ojciec kobiety (dos profecticia) albo inne osoby lub sama żona (dos adventicia). Ustanowienie posagu polegało na przeniesieniu własności na męża (dos datio), przyrzeczeniu stypulacyjnym (dotis promissio) albo przyrzeczeniu ustanawiającym (dotis dictio). Jeśli zastrzeżono zwrot w wypadku rozwiązania małżeństwa, zwano go dos recepticia. Posag formalnie należał do męża, lecz miał on moralny obowiązek zwrócić go przy rozwiązaniu najpierw z dobrej woli, później z mocy umowy i prawa, a środkiem procesowym (nie obejmował pożytków) była actio ex stipulatu (stricti iuris) albo actio rei uxoriae (bonae fidei). Gdy małżeństwo rozpadało się z winy żony albo powstały z niego dzieci, mąż mógł zatrzymać część posagu (retentio - do połowy). Skutkiem małżeństwa był zakaz darowizn. Początkowo darowizny można było czynić przed małżeństwem (donatio ante nuptias). Justynian wprowadził możliwość czynienia darowizny w trakcie małżeństwa (donatio propter nuptias). W wypadku rozwiązania małżeństwa mąż musiał zwrócić darowiznę (nie, jeśli małżeństwo rozpadło się z winy żony).
 
 ---
 

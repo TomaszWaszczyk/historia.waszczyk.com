@@ -21,6 +21,10 @@ draft: false
 
 Francuska firma Veolia, która kontroluje sieć ciepłowniczą w Gdańsku i Warszawie, zanotowała w 2018 roku wzrost zysku netto o 11%. Jej prezes zarobił ''tylko''... ponad 2 mln Euro. W Polsce Veolia była wcześniej znana z wożenia Adamowicza i kolegów z Urzędu Miasta Gdańska na wycieczki do Madrytu.
 
+### 2015
+
+https://en.wikipedia.org/wiki/Paris_Agreement
+
 ### 1952
 
 W Warszawie odbył się zorganizowany przez Ministerstwo Bezpieczeństwa Publicznego zjazd księży patriotów- części duchowieństwa popierającej działania władz komunistycznych.

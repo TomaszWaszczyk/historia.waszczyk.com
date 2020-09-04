@@ -3,10 +3,14 @@ layout: post
 title: 26 lipca
 image: img/july/bazyleaiii.jpg
 author: Tomasz Waszczyk
-date: 2018-07-26T10:00:00.000Z
+date: 2019-07-26T10:00:00.000Z
 tags:
   - Bazylea III
 ---
+
+### 2020
+
+<img src="./img/july/brrr.jpeg"><br><br>
 
 ### 2010
 
@@ -36,6 +40,10 @@ Pytań w stosunku do nowej Bazylei jest wiele. Wiele jest też zarzutów i kontr
 ### 1991
 
 https://pl.wikipedia.org/wiki/Podatek_dochodowy_od_os%C3%B3b_fizycznych
+
+### 1948
+
+https://en.wikipedia.org/wiki/Executive_order
 
 ---
 

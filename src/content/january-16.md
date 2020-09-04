@@ -6,8 +6,17 @@ author: Tomasz Waszczyk
 date: 2019-01-16T10:00:00.000Z
 tags:
   - Szachy
-draft: false  
+draft: false
 ---
+
+### 2000
+
+Manipulacja:
+
+<video width="640" height="480" controls>
+  <source src="./movies/january/janowski.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1902
 

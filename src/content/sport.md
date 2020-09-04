@@ -3,7 +3,7 @@ layout: post
 title: "Sport"
 author: Tomasz Waszczyk
 tags: ["Sport"]
-image: img/art/strzeminski.jpg
+image: img/sport/motion.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
@@ -12,7 +12,7 @@ draft: false
 
 1. Leżymy na macie trzymając w obu rękach piłkę, unosimy obie nogi i wyknujemy ruchy piłką do podłoża, raz w prawo raz w lewo.
 
-2.  Po robieniu brzucha nalezy polozyc sie na materac i na rekach uniesc sie na 20 sek.
+2. Po robieniu brzucha nalezy polozyc sie na materac i na rekach uniesc sie na 20 sek.
 
 3. Pompki na piłce
 
@@ -21,6 +21,12 @@ draft: false
 <img src="./img/others/sport/bulgarian-split-squat.gif"/>
 
 <img src="./img/others/sport/swimmer.gif"/>
+
+<img src="./img/others/sport/5-seriach-po-15-powtórzeń.gif"/>
+
+<img src="./img/others/sport/exercies.gif"/>
+
+<img src="./img/others/sport/waga.png"/>
 
 <img src="./img/others/sport/cwiczenia1.jpg"/>
 
@@ -59,17 +65,23 @@ Your browser does not support the video tag.
 ---
 
 <video width="640" height="480" controls>
-  <source src="https://waszczyk.com/resources/cwiczenia-yoga.mp4" type="video/mp4">
+  <source src="./movies/sport/cwiczenia-yoga.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<!-- ---
+
+<video width="640" height="480" controls>
+  <source src="./movies/sport/w-domu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
 
 ---
 
 <video width="640" height="480" controls>
-  <source src="https://waszczyk.com/resources/w-domu.mp4" type="video/mp4">
+  <source src="./movies/sport/zbudujsylwetkę_360p.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
 
 #### Plank
 
@@ -104,6 +116,26 @@ Ułóż się w pozycji standardowej. Prostując ręce, przejdź z deski na przed
   <source src="./img/others/sport/przodopochylenie.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+### Inne
+
+Glutes and hamstrings
+
+Oddech navy seals
+
+Metoda oddechu Butejki
+
+---
+
+3 weeks in.
+
+4 sets each, 8-15 reps, increase weights after each set.
+
+Lots of volume, because lots of time during lockdowns.
+
+Will continue for 9 more weeks.
+
+<img src="./img/sport/legcurl.png"><br><br>
 
 ---
 

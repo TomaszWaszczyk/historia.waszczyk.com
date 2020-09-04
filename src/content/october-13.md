@@ -8,6 +8,10 @@ tags:
   - Historia
 ---
 
+### 1992
+
+Na Scenie w Malarni pokazany został pierwszy spektakl - "Śmierć Ofelii" St. Wyspiańskiego, w wykonaniu Anny Kadulskiej. Widzowie powoli przyzwyczajali się, że w podwórku przy ulicy Teatralnej można zobaczyć nietypowe przedstawienie, wysłuchać wykładu (m.in. o masonerii właśnie) czy uczestniczyć w koncercie. Już w czerwcu 1993 roku miało tu miejsce niezwykłe wydarzenie - wieczór poezji Josifa Brodskiego, recytowanej w obecności poety. Kolejno na nowej scenie Teatru Śląskiego pojawiały się nowe przedstawienia, m.in. znakomicie wpisujące się w charakter tego miejsca "Sexualne zło" zbudowane z piosenek Kurta Weilla w reżyserii Józefa Opalskiego czy "Impas cnoty" - autorski spektakl Piotra Szmitkego. Musical "Wesołego powszedniego dnia" Młynarskiego i Derfla czy "Znaki szczególne" złożone z poezji Wisławy Szymborskiej cieszyły się uznaniem widzów.
+
 ### 1941
 
 Jan Zumbach - podpułkownik pilot 303 Dywizjonu Myśliwskiego im. Tadeusza Kościuszki, w czasie eskortowania brytyjskich samolotów bombowych nad Francję, odłączył się od formacji i przeprowadził próbę ataku na dwa zauważone przez siebie niemieckie Messerschmitty Bf 109. Zumbach zestrzelił jedną z maszyn. W czasie próby dołączenia do opuszczonej formacji nad Kanałem La Manche napotkał na swej drodze dwa niemieckie samoloty myśliwskie Bf 109 i trzy myśliwce Focke-Wulf Fw 190 Würger. W wyniku nawiązanej walki Zumbach uszkodził jedną z maszyn wroga. Spitfire pilotowany przez Zumbacha nie wyszedł z walki bez szwanku, ale naszemu pilotowi udało się bezpiecznie wylądować na lotnisku w West Malling. Tydzień później podpułkownik Zumbach odebrał brytyjski Zaszczytny Krzyż Lotniczy, który nadawany jest za ,,czyn lub czyny męstwa, odwagi lub poświęcenia w obliczu wroga w czasie aktywnych działań w powietrzu".

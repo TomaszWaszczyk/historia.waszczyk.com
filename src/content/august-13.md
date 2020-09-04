@@ -1,12 +1,20 @@
 ---
 layout: post
 title: 13 sierpnia
-image: img/august/Union_of_Krewo.jpg
+image: img/august/profesor-longterm.png
 author: Tomasz Waszczyk
-date: 2018-08-13T10:00:00.000Z
+date: 2019-08-13T10:00:00.000Z
 tags:
-  - Historia
+  - Nixon shock
 ---
+
+### 2020
+
+<img src="./img/august/profesor-longterm.png"><br><br>
+
+### 1971
+
+https://en.wikipedia.org/wiki/Nixon_shock
 
 ### 1899
 

@@ -1,17 +1,82 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3cd1a47e-65af-4fad-9737-717d87bc8df2/deploy-status)](https://app.netlify.com/sites/historia-waszczyk/deploys)
 
+Przedwojenny 1PLN = 0.17grama XAU
+
+https://www.newsweek.pl/polska/polityka/general-wojciech-jaruzelski-historia-willi-jaruzelskiego/mlg7f69
+
+https://chomikuj.pl/ryszardq/War*c5*82am+Sza*c5*82amow+-+Opowiadania+ko*c5*82ymskie
+
+https://czytam.pl/k,ks_865477,Cyfrodziewczyny-Wasielewska-Karolina.html
+
+https://historykon.pl/kalendarium-historyczne
+
+https://historykon.pl/artykuly/reformacja-w-niemczech-i-jej-nastepstwa
+
+https://kompromitacje.blogspot.com/
+
+https://www.bundesarchiv.de
+
+Lech Wyszczelski
+
+http://ivrozbiorpolski.pl/
+
+yelita.pl/
+
+https://www.computerworld.pl/news/SKOK-nieznana-ODRA-1300,123980.html
+
+http://pilsudski.org.uk/archiwa/dokument.php?nrar=709&nrzesp=1&sygn=3&handle=709.238/33 listy Piłsudskiego do Dmowskiego
+
+https://fraser.stlouisfed.org/timeline/st-louis-fed-centennial
+
+https://www.aan.gov.pl/
+
+https://omeka.aynrandarchives.org/exhibits/show/letters-of-ayn-rand
+
+http://praxeology.net/FB-PJP-DOI.htm
+
+https://www.1944.pl/zasoby-muzeum.html
+
+https://adst.org/
+
+https://13grudnia81.pl/
+
+http://www.biblia.deon.pl/
+
+https://poszukiwania.ipn.gov.pl/bbp/artykuly
+
+http://polishhistory.pl
+
+https://spacer.muzeum1939.pl/pl/
+
+https://muzeumslaskie.pl/pl/wyszukiwarka-zbiorow/
+
+http://orbis.stanford.edu/
+
+http://otworzksiazke.pl/ksiazka/kronika_kryzysow_gospodarczych/strona/35/
+
+https://cczytam.blogspot.com/
+
+http://www.muzeumwp.pl/emwpaedia/wykrywacz-min-typu-polskiego.php
+
 https://oll.libertyfund.org/pages/hayek-a-bibliography-of-his-writings
 
 https://sigillumauthenticum.blogspot.com/
 
 https://www.econlib.org/
 
+https://www.sbc.org.pl
 
 https://computerhistory.org
 
+https://muzeum1939.pl/irena-sendlerowa-m2wswirtualnie/aktualnosci/3264.html
+
 http://e-historie.pl
 
+https://ciekawostkihistoryczne.pl/2015/04/26/mamy-prawo-do-wszystkich-polek-sowieckie-gwalty-nad-wisla/
+
 https://biblehub.com/ecclesiastes/1-9.htm
+
+https://martyrologiawsipolskich.pl/mws/
 
 Muzeum Historii Medycyny WUM
 
@@ -99,6 +164,10 @@ https://papers.ssrn.com
 
 https://www.gbl.waw.pl/
 
+http://www.skorupski.com/polski.php
+
+### Sztuka
+
 https://zbiory.mnk.pl
 
 https://pamiec.pl/
@@ -127,6 +196,7 @@ https://pl.wikipedia.org/wiki/Faryzeusze
 
 https://historyinphotos.blogspot.com/2013/12/henri-cartier-bresson.html
 
+https://pl.wikipedia.org/wiki/Theodor_Herzl
 
 # Malta
 
@@ -1399,3 +1469,5 @@ August Poniatowski ciota
 August III ciota
 
 Roman Kryże, ojciec wiceministra sprawiedliwość w rządzie PiS Andrzeja Kryże, który wysyłał za kratki za stwierdzenie, ze PRL nie była państwem niepodległym.
+
+https://twarzesolidarnosci.gosc.pl/
