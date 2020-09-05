@@ -858,6 +858,10 @@ impertynencja
 
 ziemia interpretowana
 
+per procura - w zastępstwie
+
+https://en.wikipedia.org/wiki/Embezzlement
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

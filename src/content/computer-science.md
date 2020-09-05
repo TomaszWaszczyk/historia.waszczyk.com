@@ -38,6 +38,18 @@ proposed in 2006 by DJB [Curve25519]. Its main strengths are its speed, its
 constant-time run time (and resistance against side-channel attacks), and its
 lack of nebulous hard-coded constants.
 
+---
+
+Okay. Perhaps there’s some hidden logic there, or perhaps Steve was just trying to motivate Marc. But it was what he said next that made all the difference.
+
+    “And one last thing. You need to go build an application economy.”
+
+Well, what’s an application economy? Marc asked.
+
+I don’t know, Steve replied.
+
+---
+
 ### 1989
 
 https://en.wikipedia.org/wiki/Operational_transformation

@@ -12,6 +12,8 @@ draft: false
 
 * Kodowanie dla dzieci, Marc Scott
 
+* Edukacja Domowa, Wiesław Stebnicki
+
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
 * https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/Americas%20Great%20Depression_Polish_3.pdf

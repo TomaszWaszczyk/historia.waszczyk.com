@@ -2968,7 +2968,9 @@ Skropnie przyjmować, spokojnie oddawać.
 
 https://pl.wikipedia.org/wiki/M%C4%85dro%C5%9B%C4%87_Syracha
 
-Na pochyłe drzewo wszystkie kozy skaczą. 
+Na pochyłe drzewo wszystkie kozy skaczą.
+
+ "Kim Pan jest? Jestem kimś wyprowadzonym z błędu". Emil Cioran.
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 

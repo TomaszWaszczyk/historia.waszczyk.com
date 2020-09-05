@@ -1,13 +1,18 @@
 ---
 layout: post
-title: 4 września
+title: 5 września
 image: img/septmeber/indeks.png
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2019-09-05T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Eric Schmidt
+draft: false
 ---
+
+### 2020
+
+"Bitcoin is a remarkable cryptographic achievement, and the ability to create something that is not duplicable in the digital world has enormous value"
+—Eric Schmidt, CEO of Google
 
 ### 1924
 
@@ -23,4 +28,4 @@ pana Piłsudskiego się znajdzie"
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

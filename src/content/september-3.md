@@ -3,9 +3,9 @@ layout: post
 title: 3 września
 image: img/septmeber/wojna.png
 author: Tomasz Waszczyk
-date: 2018-09-10T10:00:00.000Z
+date: 2019-09-03T10:00:00.000Z
 tags:
-  - Historia
+  - Józef Bik
 ---
 
 ### 1967
@@ -22,6 +22,8 @@ Zaginął w tajemniczych okolicznościach z niedzieli na poniedziałek czyli z 2
 Śledztwo prowadzone przez milicję i Urząd Bezpieczeństwa było czystą fikcją. O dokonanie tej zbrodni oskarżono oddział partyzancki Żelaznego pod dowództwem Edwarda Badochy, brata Zdzisława Badochy, zamordowanego przez UB. Jednak słabe dowody zmusiły władze do odwołania tych oskarżeń.
 Po latach udało się ustalić, że sprawcami mordu na księdzu Szczepańskim byli dwaj funkcjonariusze Powiatowego Urzędu Bezpieczeństwa Publicznego w Lubartowie. Jeden z nich przyzał się do tego na łożu śmierci.
 
+<img src="./img/september/szczepanski.jpg"><br><br>
+
 ### 1946
 
 Na fotografii Józef Bik- jednen z najlepiej znanych funkcjonariuszy komunistycznego aparatu bezpieczeństwa, oficer śledczy Urzędu Bezpieczeństwa, kierownik Wydziału Śledczego Wojewódzkiego Urzędu Bezpieczeństwa Publicznego w Gdańsku i Katowicach. Był jednym z dwóch ubeków, obok podpułkownika Jana Wołkowa, którzy znęcali się, a następnie w bezpośredni sposób przyczynili się do wydania wyroku śmierci na sanitariuszkę V Brygady Wileńskiej Armii Krajowej Danutę Siedzikównę ps "Inka".
@@ -32,6 +34,8 @@ Na fotografii Józef Bik- jednen z najlepiej znanych funkcjonariuszy komunistycz
 ### 1939
 
 Rządy Francji i Wielkiej Brytanii wypowiedziały wojnę Trzeciej Rzeszy.
+
+<img src="./img/september/wojnaniemcy.jpg"><br><br>
 
 ### 1929
 
