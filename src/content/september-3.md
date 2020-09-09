@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 września
-image: img/septmeber/wojna.png
+image: img/september/wojna.png
 author: Tomasz Waszczyk
 date: 2019-09-03T10:00:00.000Z
 tags:

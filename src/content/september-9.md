@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 września
-image: img/septmeber/tarcza76.jpg
+image: img/september/tarcza76.jpg
 author: Tomasz Waszczyk
 date: 2019-09-09T10:00:00.000Z
 tags:
