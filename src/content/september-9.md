@@ -14,6 +14,10 @@ draft: false
 Central Banks have created a  Bond Bubble that is not sustainable by keeping short term interest rates  lower for longer.. and anybody with an ounce of common sense will  realize that they have created a mountain of debt that is unlikely to be  repaid in its entirety.  
 Central Banks have created this mess  to save the world during the ecomomic pandemic but they have no plan B  other than keep rates with guarenteed  negative return  for longer  ..even in the face of  uncontrollable inflation post pandemic?
 
+---
+
+10000 is the new 1000..
+
 ### 1976
 
 Rozpoczęły się w Polsce wielkie manewry wojsk Układu Warszawskiego pod kryptonimem Tarcza 76.
