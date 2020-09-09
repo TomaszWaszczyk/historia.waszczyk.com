@@ -1,12 +1,28 @@
 ---
 layout: post
 title: 8 września
-image: img/septmeber/indeks.png
+image: img/septmeber/krld.jpeg
 author: Tomasz Waszczyk
-date: 2018-09-08T10:00:00.000Z
+date: 2019-09-08T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Upadek
+draft: false
+---
+
+### 2020
+
+Upadek norm etycznych elit w Starożytnym Rzymie doprowadził do upadku cywilizacji. Czy obecne wydarzenia w Polsce są zapowiedzią powtórki z historii?
+
+<img src="./img/september/upadek.jpeg"><br><br>
+
+---
+
+Eurostat: PKB w strefie euro w drugim kwartale w dół o prawie 12 proc.
+
+PKB w strefie euro spadł w drugim kwartale tego roku o 11,8 proc., a zatrudnienie o 2,9 proc. - wynika z opublikowanych we wtorek danych Eurostatu.
+W całej UE wyniki te wynosiły odpowiednio 11,4 i 2,7 proc. To największe załamanie odnotowane w historii prowadzonych od 1995 r. pomiarów.
+Wśród krajów członkowskich największy spadek Produktu Krajowego Brutto w drugim kwartale odnotowała Hiszpania. W porównaniu do pierwszych trzech miesięcy tego roku gospodarka tego kraju zmniejszyła się o 18,5 proc.
+
 ---
 
 ### 1948
@@ -70,6 +86,25 @@ Małgorzata Korwin-Mikke
 Bibliografia:
 
 Dzieje 15 Pułku Ułanów Poznańskich 1918-1962 – opracowanie zbiorowe pod red. Pawła Zaremby, wydane w Londynie 1962 r.
+
+---
+
+Rozpoczęła się bitwa nad Bzurą.
+"Gdy przyszłe roczniki Wyższej Szkoły Wojennej Polski dla studiów taktycznych wyjeżdżać będą na pole bitwy nad Bzurą niech nie przeoczą, że formy działań wojennych ulegają zmianom i zależą od techniki uzbrojenia, ale że prawa wojny pozostają niezmienne. Spośród wielu tych praw najbardziej zasadnicza jest tak prosta, a tak trudna do zrealizowania prawda, że nie ma zwycięstwa bez bitwy. A przechodząc koło grobów poległych nad Bzurą żołnierzy polskich, niech ci, którzy kształcą się na przyszłych dowódców, wspomną, że leżą tu żołnierze, którzy starali się wykonać niewykonalny wówczas obowiązek obrony Polski". (gen. T. Kutrzeba "Wojna bez walnej bitwy").
+Armie "Poznań" i "Pomorze" broniły, zgodnie z planem, terenu Poznańskiego i Pomorza. W dniach 1-3 IX armia "Pomorze" poniosła porażkę w Borach Tucholskich i wycofała się na pd. brzeg Wisły. Niemcy nie podjęli pościgu, ruszyli wojskami szybkimi na wsch. (w pasie na pn. od Wisły). Armia "Poznań", nie atakowana większymi siłami, pozostawała w obronie na terenie Wielkopolski. 5 IX, wobec odniesionych przez Niemców sukcesów na obu skrzydłach frontu pol., Nacz. Wódz zarządził ogólny odwrót na linię rzek: Narew, Wisła i San. Armie "Poznań" i "Pomorze", wysunięte w stosunku do pozostałych sił pol. bardziej na zach., znalazły się w odosobnieniu. Otrzymały one w ramach odwrotu na nową linię obrony rozkaz odejścia na Warszawę. Odwrót dokonany nocami zapobiegł wykryciu wycofujących się wojsk przez lotnictwo niem. 8 IX armie "Pomorze" i "Poznań" osiągnęły obszar Kutno, Włocławek, Koło. Równolegle do kierunku odwrotu obu armii pol. zdążały niem. 8 i 10 Armia, które dysponując wojskami szybkimi wyprzedziły siły polskie.
+8 IX gen. Kutrzeba przedstawił Naczelnemu. Dowództwu propozycję przeciwuderzenia w odsłonięte pn. skrzydło maszerującej ku Warszawie niem. 8 A, uzyskania szerszego korytarza oper., dla ułatwienia odwrotu zabezpieczonego od pn. linią Wisły, a od pd. uchwyconą rubieżą obrony na pd. od Bzury i linii kol. Głowno-Warszawa. W tym czasie na pozostałym froncie Niemcy rozwijali działania zaczepne: na pn. osiągnęli Narew, na kier. Toruń, Warszawa posuwali się wzdłuż Wisły, w centrum (na kier. warszawskim) 8 A wyszła na linię Łęczyca Łódź; wojska szybkie 10 A (4 DPanc z 6 KPanc) usiłowały uchwycić z marszu Warszawę. Dowództwo niem. zakładając, że siły pol. z Pomorza i Poznańskiego wycofały się na wsch., dążyło do jak najszybszego opanowania stolicy i przekroczenia środk. Wisły.
+Armia "Poznań" tymczasem przerwała odwrót i koncentrowała się w myśl decyzji gen. Kutrzeby do uderzenia w ogólnym kier. na Łódź, na skrzydło i tyły niem. 8 A. Armia "Pomorze" oddalona była jeszcze o 3-4 dni marszu od podstaw wyjściowych do natarcia. Dowództwo pol., mając dość dokładne informacje o ugrupowaniu niem., planowało wykonanie manewru zaczepnego przez uderzenie armii "Poznań" na 30 DP osłaniającą skrzydło niem. 8 A, rozbicie jej, następnie pobicie rozśrodkowanych sił 8 A we współdziałaniu z nadciągającą armią "Pomorze".
+Otrzymawszy zgodę Nacz. Wodza, armia "Poznań" rozpoczęła 9IX przeciwuderzenie z rej. na pn. od Bzury na niem. 30 i 24 DP, rozciągnięte w marszu między Łęczycą a Łowiczem. Natarcie w ogólnym kier. na Stryków prowadziła grupa oper. gen. Knolla (14, 17 i 25 DP). Prawe skrzydło natarcia ubezpieczała w rej. Dąbie Podolska BK, działająca w kierunku na Uniejów, lewe skrzydło - Wielkopolska BK, nacierająca z rej. Soboty przez Bielawy na Głowno. Siły pol. mimo kilkakrotnej przewagi liczebnej, jaką miały początkowo nad Niemcami, oraz czynnika zaskoczenia (uderzenie pol. zaskoczyło dowództwo 8 A niem ) nie zdołały osiągnąć zasadniczego celu, zadały jednak duże straty 30 DP (straciła ok. 1500 ludzi i znaczne ilości sprzętu) i odrzuciły ją ok. 20 km na pd.; zdobyły Górę Św. Małgorzaty, Ryski, Łęczycę i Piątek; znaczne straty w ludziach i sprzęcie zadały również dalszym podchodzącym do walki dywizjom 8 A.
+10 IX po południu, w czasie pościgu, pol. 17 DP stoczyła z 17 DP niem. ciężki bój spotkaniowy w Małachowicach. 11 IX armia "Poznań", kontynuując natarcie siłami Podolskiej BK i 25 DP, walczyła w rejonie na pd.-zach. od Łęczycy z nadchodzącą 221 DP niem.; 17 DP wyparła z Grabiszewa, Małachowic i dworu Sokolniki oddziały 17 DP niem., a 14 DP osiągnęła Mąkolicę i Koźlę. Na lewym skrzydle natarcia weszła do walki grupa oper. gen. Bołtucia z armii "Pomorze", zdobywając siłami 4 DP Sobotę i las pomiędzy Bielawami a Głownem, a 16 DP Łowicz. Reszta sił armii "Pomorze" znajdowała się w obronie w rej. Włocławek, Brześć Kujawski, Koło, frontem na zach. i pn.-zach., wiążąc walką niem. 3 K.
+Już od 11.IX zaczęli Niemcy kierować nad B. nowe siły, głównie z 10 A, także z 4 A (3 KA i 3 DP) oraz z odwodów GA "Sud". Siły te początkowo podlegały dowódcy 8 A, od 15 IX ponownie przeszły pod dowództwo 10 A. l2 IX dowódca GA "Sud" skierował nad B. lotnictwo grupy lotn. gen. W. Richthofena, później także część sił z 4 Floty Powietrznej. 12 IX wieczorem wykonująca główne natarcie grupa gen. Knolla osiągnęła linię Stryków-Ozorków. W tym samym dniu gen. Kutrzeba otrzymawszy wiadomości o wycofaniu się do Modlina dywizji armii "Łódź", z którymi nie było dotychczas łączności, wydał rozkaz przerwania bitwy.
+Nowy plan przewidywał uderzenie siłami armii "Pomorze" przez Łowicz na lasy skierniewickie. W nocy na 13 IX grupa gen. Knolla wycofała się na pn. brzeg rzeki. Nie wiedząc o tym, Niemcy w obawie ponownego natarcia sił pol. odeszli na pd. W tej fazie bitwy inicjatywa pozostawała nadal w rękach dowództwa pol. Na mocy decyzji gen. Kutrzeby 4, 16 i 26 DP oraz Wielkopolska BK pod dowództwem gen. Bortnowskiego miały w nocy na 14 IX uderzyć z pn. brzegu B. przez Łowicz na Skierniewice oraz uchwycić Sochaczew i Puszczę Kampinoską. Grupa oper. gen. Knolla miała wycofać się nad B. i przebić do Warszawy. Dla osłony od pn. i zach. utworzono grupy oper.: pod dowództwem gen. M. Karaszewicza-Tokarzewskiego (skład: 15 27 DP i 19 pp) i pod dowództwem gen. S. Grzmota-Skotnickiego (skład: 70 pp, Wielkopolska Brygada ON, 8 baon strzelców 5 baon ckm, Podolska BK i resztki Pomorskiej BK). Rano 14 IX zgrupowanie gen. Bortnowskiego rozpoczęło natarcie; 26 DP mimo silnego oporu niem. sforsowała B.; 16 DP również sforsowała B. i toczyła ciężkie walki o Łowicz; 4 DP osiągnęła szosę Łowicz-Głowno. O godz. 10 gen. Bortnowski otrzymał meldunek lotn. donoszący o licznych kolumnach panc. na drogach między Błoniem a Sochaczewem, maszerującej spod Warszawy niem. 4 DPanc. W obawie, że dywizja niem. jeszcze tego samego dnia może przekroczyć słabo bronioną B. i wyjść na tyły pol. 26 DP nacierającej w kier. na Skierniewice, gen. Bortnowski wydał 26 DP rozkaz odwrotu za B.; dywizja poniosła duże straty. Gdy do odwrotu przeszła także część 16 DP, gen. Bołtuć wycofał swoją grupę za B. 15 i 16 IX armia "Pomorze" broniła się na pn. brzegu B. (26 i 16 DP) i na rz. Słudwi (4 DP), grupa gen. Skotnickiego na pozycji między Kutnem a Żychlinem; grupa gen. Tokarzewskiego w rej. Gąbina. Dywizje armii "Poznań" zajmowały podstawy wyjściowe przez B. w rej. Sochaczewa. Wielkopolska BK po przejściu przez B. w Witkowicach weszła do Puszczy Kampinoskiej.
+Początkowo dowództwo niem. nie rozszyfrowało zamiarów dowództwa pol. Dopiero 14 IX rozpoczęło przygotowania mające na celu okrążenie i zniszczenie odosobnionych armii pol. Plan niem. przewidywał skierowanie do bitwy nad B. gros sił 10 A, w tym dwóch dywizji panc., trzech lekkich i jednej zmot. (ok. 800 czołgów) i koncentryczne rozbicie sił polskich.
+16 IX przy wsparciu potężnego lotnictwa boj. Niemcy rozpoczęli atak na okrążone armie polskie. 1 DPanc, ściągnięta spod Góry Kalwarii, przeprawiła się przez B. w Kozłowie Szlacheckim, uderzyła na 57 pp z 14 DP, rozbiła go i wdarła się w głąb ugrupowania i na tyły obu armii polskich. 4 DPanc przeprawiła się przez B. pomiędzy Sochaczewem a Brochowem, uderzyła w kierunku pd.-zach. zadając duże straty 25 DP w rej. Adamowej Góry, i opanowała Ruszki. Dalsze natarcie 4 DPanc niem. zostało zatrzymane.
+W nocy na 17 1X siły główne armii "Poznań" rozpoczęły bitwę o przełamanie niem. okrążenia pomiędzy Witkowicami a Sochaczewem. 1S DP i Podolska BK przeszły B. w Witkowicach, 25 DP w Brochowie; 17 DP maszerowała w kier. przeprawy do Brochowa; 14 DP koncentrowała się w Łaziskach. Armia "Pomorze" przesunęła się w rej. Osmolin, Kiernozia, Osiek. Grupa gen. Skotnickiego przeszła w rejon na zach. od Kiernozi, a 27 DP z Gąbina na Iłów.
+17 IX rano Niemcy wznowili natarcie, kierując je na pn. wzdłuż obu brzegów Bzury. Wspierające natarcie lotnictwo niem. (ok. 300-330 samolotów) bombardowało od godz. 9 do zmroku obszar, na którym okrążone zostały armie pol., wyrządzając ogromne straty w ludziach i sprzęcie. Artyleria niem. ogniem od Brochowa i od strony Wyszogrodu z prawego dominującego brzegu Wisły uniemożliwiała przeprawę; po dwudniowych krwawych walkach niem. związki panc. odcięły większość sił pol. na zach. brzegu Bzury. Okrążone w rej. Wyszogrodu, Starych Bud, Iłowa resztki rozbitych jednostek pol. były systematycznie bombardowane i ostrzeliwane przez lotnictwo niem. i artylerię. Po bohaterskim oporze i wyczerpaniu amunicji i żywności zaprzestały walki. Tylko nielicznym grupom piechoty bez broni ciężkiej udało się wyrwać z okrążenia i przebić przez Puszczę Kampinoską do Warszawy (do 22 IX) i Modlina. Do Warszawy przedostali się gen. Kutrzeba ze sztabem, gen. Knoil i gen. Tokarzewski, obie brygady kaw. po krwawych walkach w Sierakowie, 15 DP po walkach w Laskach oraz 25 DP po walkach pod Młocinami. Zreorganizowane, wzięły one udział w końcowej fazie obrony Warszawy. Reszta oddziałów z gen. Bortnowskim dostała się w okresie 18-22 IX do niewoli.
+Bitwa nad Bzurą, mimo że w końcowym rezultacie zakończyła się klęską armii "Pomorze" i "Poznań", spełniła ważne zadanie operacyjno-strategiczne: zmusiła dowództwo niem. do zmiany planu działań, opóźniła kapitulację Warszawy i uniemożliwiła wykorzystanie niem. wojsk szybkich do przegrupowania na pd. skrzydło GA "Sud" w celu przyspieszenia działań na Lubelszczyźnie.
+
+<img src="./img/september/bzura.jpg"><br><br>
 
 ---
 

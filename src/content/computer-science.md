@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Operational_transformation - google wykorzystuje
 
 https://en.wikipedia.org/wiki/Brendan_Gregg
 
+https://pl.wikipedia.org/wiki/Hans_Moravec
+
 Context not control.
 
 <img src="./img/others/computer-science/webhistory.gif"><br><br>

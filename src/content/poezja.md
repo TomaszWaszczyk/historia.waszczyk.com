@@ -207,6 +207,76 @@ obrońców królestwa bez kresu i miasta popiołów
 
 Bądź wierny Idź
 
+### Passa
+
+Sąsiad, wpadając niespodziewanie,
+
+Zwłaszcza gdy sobie ciut golnie,
+
+Zawsze zadaje mi to pytanie:
+
+Kiedy to wreszcie…? Tra la la la la.
+
+ 
+
+Co dzień się zmiany wprowadza nowe,
+
+Czyniąc to dość nieudolnie.
+
+Sąsiad się ciągle łapie za głowę:
+
+Przecież to zaraz… tra la la la la.
+
+ 
+
+Ja mu tłumaczę, że taką władzę
+
+Wybraliśmy dobrowolnie,
+
+A on mi na to: Nic nie poradzę,
+
+Ale to wkrótce… tra la la la la.
+
+ 
+
+Tak jak przed laty, proces odnowy
+
+Musi się zacząć oddolnie.
+
+Naród po rozum pójdzie do głowy,
+
+I w końcu wszystko… tra la la la la.
+
+ 
+
+Z tego powodu logiczny wniosek
+
+Nasuwa się mimowolnie:
+
+Gdy prawda dotrze do miast i wiosek,
+
+Wtedy to z hukiem… tra la la la la.
+
+ 
+
+Koła historii, jak uczą dzieje,
+
+Toczą się szybciej lub wolniej,
+
+Lecz każdy reżim, mam tę nadzieję,
+
+Wcześniej czy później… tra la la la la.
+
+ 
+
+Wybaczcie, proszę, że poemacik
+
+Zakończę nieco frywolnie,
+
+Ale pocieszyć pragnę współbraci,
+
+Że to niebawem… tra la la la la.
+
 ### Władysław Szlengel , Nasz Przegląd, 1.04.39 r.
 
 Prima Aprilis

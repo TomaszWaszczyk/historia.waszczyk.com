@@ -60,6 +60,14 @@ Ledwie 4 miesiące od zrobienia tego zdjęcia, tuż przed Bożym Narodzeniem, zo
 
 <img src="./img/august/mapa1920.jpg"><br><br>
 
+### 1906
+
+Miała miejsce tzw "krwawa środa".
+Tego dnia Organizacja Bojowa Polskiej Partii Socjalistycznej przeprowadziła w Królestwie Polskim skoordynowaną akcję wymierzoną w władze rosyjskie. W jej efekcie zabitych zostało 80 rosyjskich policjantów, żandarmów i agentów carskiej Ochrany.
+Akcja ta miała na celu powstrzymanie represji carskich służących stłumieniu trwającej wówczas rewolucji 1905 roku. Efekt psychologiczny był porażający. W warszawskich koszarach wojsk carskich doszło do paniki, co spowodowało wycofanie się Rosjan na kilka dni z miasta.
+
+<img src="./img/august/krwawasroda.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-15.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

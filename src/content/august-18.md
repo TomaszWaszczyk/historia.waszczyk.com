@@ -20,6 +20,45 @@ Epow wykonał rozkaz. Wybuch 20 ton materiałów wybuchowych wyrwał w zaporze d
 
 Według niektórych historyków fala powodziowa zabrała ze sobą nawet 120 tysięcy ludzi zamieszkujących brzegi Dniepru.
 
+### 1933
+
+W Paryżu urodził się Roman Polański - aktor, reżyser i scenarzysta filmowy.Jeden z najwybitniejszych twórców światowej kinematografii. Początkowo realizował filmy w Polsce (Nóż w wodzie), a następnie za granicą (Wstręt, Tragedia Makbeta, Chinatown, Lokator, Frantic, Gorzkie gody, Tess, Pianista, Auto Widmo). Reżyserował inscenizacje teatralne, m.in Amadeusza P. Shaffera. Więcej informacji o życiu osobistym i zawodowym Romana Polańskiego można znaleźć w jego autobiograficznej książce pt. Roman.
+Foto: Roman Polański w towarzystwie swojej żony Sharon Tate (1942-69). Zdjęcie wykonano pod koniec lat sześćdziesiątych.
+Nominacje oraz nagrody przyznawane filmom autorstwa Romana Polańskiego:
+Nagroda Akademii Filmowej
+2002: Pianista (Najlepsza Reżyseria) (nominacja Najlepszy Film)
+Złoty Glob
+1974: Chinatown (Najlepszy Film)
+1974: Chinatown (Najlepsza Reżyseria)
+1979: Tess (Najlepszy Film Zagraniczny)(nominacja Najlepsza Reżyseria)
+Nagroda BAFTA
+1974: Chinatown (Najlepsza Reżyseria)
+2003: Pianista (Najlepszy Film)
+2003: Pianista (Najlepsza Reżyseria)
+Cezar
+1979: Tess (Najlepsza Reżyseria)
+1979: Tess (Najlepszy Film)
+2002: Pianista (Najlepsza Reżyseria)
+2002: Pianista (Najlepszy Film)
+2010: Autor widmo (Najlepsza Reżyseria)
+2010: Autor widmo (Najlepszy Scenariusz Adaptowany)
+Orzeł
+2003: Pianista (Najlepszy Film)
+2003: Pianista (Najlepsza Reżyseria)
+2011: Autor widmo (Najlepszy film europejski)
+Nagroda na MFF w Cannes
+2002: Pianista (Najlepszy Film)
+Nagroda na MFF w Berlinie
+1965: Wstręt (Specjalna nagroda Jury)
+1966: Matnia (Najlepszy Film)
+2010: Autor widmo (Najlepsza Reżyseria)
+Odznaczenia:
+Legia Honorowa (Francja)
+Order Sztuki i Literatury(Francja)
+Medal Zasłużony Kulturze Gloria Artis (Polska)
+
+<img src="./img/august/polanski.jpg"><br><br>
+
 ### 1920
 
 <img src="./img/august/withdraw.jpg"><br><br>

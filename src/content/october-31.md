@@ -21,6 +21,14 @@ Ostatnim typem tego motocyklu był model Kos. Świdnicka fabryka wyprodukowała 
 
 <img src="./img/october/wueska.jpg"/><br><br>
 
+### 1982
+
+W Lubinie, w czasie demonstracji upamiętniającej drugą rocznicę Porozumień Sierpniowych oddziały Milicji Obywatelskiej i ZOMO dopuściły się zbrodni na trzech uczestnikach tego wydarzenia. Od kul zginęli: Michał Adamowicz, Andrzej Trajkowski i Mieczysław Poźniak.
+Wspomina jeden z uczestników:
+"Popłoch się zrobił niesamowity, ale nie od razu, bo nikt się nie spodziewał, że to są ostre naboje. Dopiero jak kilku rannych padło, ludzie zaczęli uciekać (…) Jak oni zobaczyli, że ludzie uciekają (…), to wsiedli do nysek, chyba z pięciu. I ruszyli w pościg za ludźmi. Na łąkach pod samotną brzozą postrzelili od tyłu chłopaka, tego młodszego z oficjalnej listy."
+
+<img src="./img/august/zomo.jpg"><br><br>
+
 ### 1942
 
 Decyzją szefa IV Departamentu Głównego Urzędu Bezpieczeństwa Rzeszy Heinricha Mullera ukazała się dyrektywa o  „ewakuowaniu Polaków w dystrykcie Lublin (Zamość) dla zrobienia miejsca w celu osiedlenia Volksdeutschów”.

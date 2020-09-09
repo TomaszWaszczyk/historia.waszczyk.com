@@ -288,6 +288,36 @@ Polacy szybko zmodyfikowali ciasny i mało praktyczny brytyjski szyk, latali w l
 
 <img src="./img/july/lewmorski.jpg"><br><br>
 
+### 1923
+
+https://pl.wikipedia.org/wiki/Wis%C5%82awa_Szymborska
+
+W 1953 roku Szymborska wraz z 52 innymi intelektualistami podpisała tzw. Rezolucję Literatów Polskich w Krakowie w sprawie procesu krakowskiego. Owy manifest miał zachęcić władze komunistyczne do przyśpieszenia wyroku na polskich ksieżach kurii krakowskiej, oskarżonych o proamerykańską działalność. Manifest spotkał się z ostą krytyką Kościoła oraz społeczeństwa polskiego. Poetce zarzucono „krew na piórze", uważano że w ten sposób przyczyniła się do zniewolenia naszego kraju.
+
+Jednak to nie tylko sam manisfest wywołal lawinę krytyki pod adresem poetki. Związek z socrrelizmem wpłynął także na wczesną twórczość Szymborskiej. Przywiązanie do leninizmu czy stalinizmu znalazło swoje odbiecie w tomiku „Dlaczego żyjemy", gdzie znalazł się wiersz utożsamiajacy Lenina z „nowym człowieczeństwem Adamem". Sporo zamieszanie wywołał też wiersz napisany po śmierci Stalina, w którym Szymborska słowami „Pod sztandarem rewolucji wzmocnić warty, wzmocnić warty u wszystkich bram" wzywała do poglębienia stalinizmu, a w dalszej części utworu wyraziła swój żal z powodu śmierci dyktatora.
+
+Owa „przygoda z komunizmem" długo prześladowała Szymborską. Niespełna rok po odebraniu Nobla, tj. w 1997 roku, poetka z uśmiechem na twarzy przyjęła z rąk władz samorządu krakowskiego tytuł Honorowej Obywatelki Krakowa. Jej zacietrzewieni krytycy wciąż wypominali noblistce  podpisanie haniebnej rezolucji. Zarzucano jej, że w ramach zadośćuczynienia mogła przekazać część swojego majątku na rzecz Kościoła krakowskiego i publicznie złożyć kwiaty na grobach poległych księży. W świetle braku takowej rehabilitacji, przeciwnicy Szymborskiej uważali przyjęcie honorowego obywatelstwa Krakowa za zachowanie nietaktowne, a wręcz haniebne.
+
+## Jak Szymborska odnosiła się do swojej niewygodnej przeszłości?
+
+Wisława Szymborska nie pozostawała obojętna na słowa krytyki pod jej adresem. Nigdy nie zaprzeczyła i nie wyparła sie swoich koneksji z komunizmem z lat pięćdziesiątych. Wielokrotnie przepraszała za błędy młodości. W jednym z wywiadów tak oto tłumaczyła sie z niewygodnej przeszłości: „ No, tak. To była młodość. Popełniłam wiele błędów w dobrej wierze, w zasadzie z naiwności i chęci zbawienia świata. Nie chcę zbawiać ludzkości. Ludzkość nie da się poprawić, tak czy inaczej. Zresztą sposób, w jaki wtedy chciałam zbawiać ludzkość, okazał się najfałszywszy na świecie" („Trochę ciszy dla poezji").
+
+Pomimo wielokrotnych przeprosin, nie wszyscy wybaczyli poetce. Nawet dziś, gdy nie ma jej już wśród żywych, wokół jej osoby wciąż krąża kontrowersjotyczące lat młodości. Szymborska dobrze wiedziała, że ludziom sztuka wybaczania przychodzi niezwykle trudno. Napisała nawet wiersz pt. „Nienawiść" który intuicyjnie przybliża czytelnikom sytuację noblistki, której ciągle wypominano błędy młodości. 
+
+"Spójrzcie, jak wciąż sprawna,
+
+jak dobrze się trzyma w naszym stuleciu nienawiść.
+
+Jak lekko bierze wysokie przeszkody.
+
+Jakie to łatwe dla niej - skoczyć, dopaść.
+
+Religia nie religia - byle przyklęknąć na starcie.
+
+Ojczyzna nie ojczyzna - byle się zerwać do biegu".
+
+Do końca życia Szymborska dźwigała brzemię błędów młodości. I z pewnością wiedziała, czym jest ludzka nienawiść. Przytoczony wiersz to swoiste wołanie do rodaków poetki, którym tak trudno wybaczyć grzechy Szymborskiej.
+
 ### 1920
 
 Treść rozkazu generała Michaiła Tuchaczewskiego ( zdjęcie) z 2 lipca 1920 roku:
