@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 września
-image: img/septmeber/krld.jpeg
+image: img/september/krld.jpeg
 author: Tomasz Waszczyk
 date: 2019-09-08T10:00:00.000Z
 tags:

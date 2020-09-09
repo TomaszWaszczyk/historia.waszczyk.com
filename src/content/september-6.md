@@ -3,7 +3,7 @@ layout: post
 title: 6 września
 image: img/september/indeks.png
 author: Tomasz Waszczyk
-date: 2020-09-06T10:00:00.000Z
+date: 2019-09-06T10:00:00.000Z
 tags:
   - Georgette Mosbacher
 ---
