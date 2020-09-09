@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 września
+title: 9 września
 image: img/septmeber/tarcza76.jpg
 author: Tomasz Waszczyk
 date: 2019-09-09T10:00:00.000Z
@@ -21,6 +21,15 @@ Wzięły w nich udział armie Polskiej Rzeczpospolitej Ludowej, Związku Socjali
 Ćwiczenia Tarcza 76 opierały się na obowiązującej w latach 70-tych w obozie państw komunistycznych doktrynie polegającej na zastosowaniu zmasowanych zaskakujących ataków jednostek pancerno- zmechanizowanych, co w pewnym stopniu miało być odwzorowaniem znanych z czasów drugiej wojny światowej rajdów Żukowa, Rokossowskiego i Koniewa. Miały się różnić jednak skalą i zastosowaniem nowych militarnych możliwosci, czyli taktyczno-operacyjnych ataków jądrowych na nerwalgiczne punkty przeciwnika. Dodano również operacje wojsk specjalnych-w tym powietrzno-desantowych.
 
 <img src="./img/september/tarcza76.jpg"><br><br>
+
+### 1971
+
+Sposób na ocieplenie wizerunku policji:
+
+Telewizja Polska wyemitowała pierwszy z 7 odcinków serialu pt "Przygody psa Cywila".
+Była to dosyć zabawna opowieść o przygodach nieco gapowatego sierżanta milicji Walczaka i jego psa. Reżyserem tego serialu był znany także z reżyserii innej serii o tematyce milicyjnej pt "07 zgłoś się" Krzysztof Szmagier.Odtwórcą roli sierżanta Walczaka był znany krakowski aktor Krzysztof Litwin.
+
+<img src="./img/september/piescywil.jpg"><br><br>
 
 ---
 
