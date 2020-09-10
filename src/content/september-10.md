@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 10 września
-image: img/september/wielun.png
+image: img/september/mcdonald.jpg
 author: Tomasz Waszczyk
-date: 2018-09-10T10:00:00.000Z
+date: 2019-09-10T10:00:00.000Z
 tags:
   - McDonald
 ---
@@ -19,6 +19,15 @@ Demonstracja przeciwko otwarciu pierwszej w Sankt Petersburgu restauracji sieci 
 Jego Najjaśniejsza Wysokość Regent Węgier Miklós Horthy (na zdjęciu) odmówił Niemcom przepuszczenia niemieckich wojsk przez terytorium węgierskie przeciwko Polsce. Kilka tygodni przed rozpoczęciem niemieckiej inwazji na Polskę premier Węgier Pal Teleki wysłał depeszę do kanclerza Rzeszy niemieckiej, w której oświadczył, że: „Węgrzy ze względów na kategorie moralne nie mogą przedsięwziąć żadnej akcji militarnej przeciw Polsce”. Władze węgierskie nakazały zaminowanie tuneli kolejowych i ich wysadzenie w przypadku próby przedarcia się Niemców siłą.
 
 <img src="./img/september/horthy.jpg"><br><br>
+
+---
+
+Po zakończonej niepowodzeniem, trwającej dwie doby bohaterskiej obronie Wizny (województwo podlaskie) rozerwał się granatem jej dowódca kapitan Korpusu Ochrony Pogranicza Władysław Raginis (zdjęcie).
+Przypomnijmy, że 360 dowodzonych przez niego żołnierzy stawiło na bronionym na szerokości 9 kilometrów pasie, który był fragmentem linii obronnej Samodzielnej Grupy Operacyjnej "Narew" zdecydowany opór liczącemu 42 000 żołnierzy XIX Korpusowi Armijnemu pod dowództwem Heinza Guderiana.
+Raginis dotrzymał w ten sposób przysięgi, w której przyrzekł, że nie odda twierdzy żywy. Swoim żołnierzom rozkazał złożyć broń i oddać się do niewoli.
+13 maja 1970 roku został pośmiertnie odznaczony Złotym Krzyżem Virtuti Militari.
+
+<img src="./img/september/raginis.jpg"><br><br>
 
 ### 1891
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 września
-image: img/september/wielun.png
+image: img/september/
 author: Tomasz Waszczyk
 date: 2018-09-12T10:00:00.000Z
 tags:

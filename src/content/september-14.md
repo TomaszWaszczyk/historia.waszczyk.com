@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 14 września
-image: img/september/wielun.png
+image: img/september/germanizacja.jpg
 author: Tomasz Waszczyk
 date: 2018-09-14T10:00:00.000Z
 tags:
-  - Historia
+  - Germanizacja
 ---
 
 ## 1939
