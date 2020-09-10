@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 września
-image: img/september/indeks.png
+image: img/september/katowice.jpg
 author: Tomasz Waszczyk
 date: 2019-09-04T10:00:00.000Z
 tags:

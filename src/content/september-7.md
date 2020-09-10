@@ -3,7 +3,7 @@ layout: post
 title: 7 września
 image: img/september/westerplatte.jpg
 author: Tomasz Waszczyk
-date: 2019-10-07T10:00:00.000Z
+date: 2019-09-07T10:00:00.000Z
 tags:
   - Borodino
 ---

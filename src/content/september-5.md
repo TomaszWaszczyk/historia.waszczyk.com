@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 września
-image: img/september/indeks.png
+image: img/september/naszpremier.jpg
 author: Tomasz Waszczyk
 date: 2019-09-05T10:00:00.000Z
 tags:

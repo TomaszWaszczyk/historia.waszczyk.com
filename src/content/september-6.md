@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 września
-image: img/september/indeks.png
+image: img/september/buffalo.jpg
 author: Tomasz Waszczyk
 date: 2019-09-06T10:00:00.000Z
 tags:
