@@ -9,6 +9,22 @@ tags:
 draft: true
 ---
 
+Cofamy się do roku 1997. Wtedy to koncesję dla spółki Jana Kulczyka na autostradę A2 od granicy niemieckiej do Łodzi podpisuje minister transportu w rządzie SLD-PSL Bogusław Liberadzki. Boguś z klasyczną karierą polityczną - od PZPR, przez SLD, po europosła z listy Koalicji Europejskiej. Przyznanie koncesji firmie Autostrada Wielkopolska odbyło się kilka dni przed wyborami parlamentarnymi w 1997 r. Koncesja obejmowała budowę płatnej autostrady i jej eksploatację, co wiązało się nie tylko z jej utrzymaniem, ale też z POBIERANIEM OPŁAT ZA PRZEJAZD.
+Musiało minąć 21 lat, aby umowami na budowę A2 zawartymi z firmą Autostrada Wielkopolska, zajęła się prokuratura. Na polecenie ministra śledczy mieli wyjaśnić, w jakich okolicznościach doszło do przyznania na 40 LAT (CZTERDZIEŚCI LAT!) spółce Autostrada Wielkopolska koncesji, która daje jej prawo do NIEOGRANICZONEGO podwyższania opłat za przejazd autostradą. ❤
+Prokurator Generalny wyjaśnił, że przedmiotem postępowania ma być też sprawa koncesji na odcinek A2 między Nowym Tomyślem a Świeckiem, którą spółce Autostrada Wielkopolska przyznał w 2009 roku minister infrastruktury w rządzie PO-PSL Cezary Grabarczyk. "W tym przypadku opłaty za przejazd są niższe o połowę, ale spółka otrzymuje wielomilionowe rekompensaty z budżetu państwa, które gwarantują jej wysokie zyski. (...) Mamy jedną z najdroższych czy wręcz najdroższą autostradę w Europie. Pieniądze z kieszeni kierowców płyną szerokim strumieniem do prywatnej spółki, a rząd nie jest w stanie powstrzymać kolejnych podwyżek" - dodał.
+Trudno powiedzieć co się dzieje w tej sprawie, bo niusy kończą się na roku 2018. Jedyny przeskok następuje do listopada 2019, w którym Autostrada Wielkopolska przegrywa przed unijnym sądem. Spór też miał związek z umową koncesyjną z '97 roku. Okazało się, że przez sześć lat spółka otrzymywała za wysokie odszkodowanie od skarbu państwa. Od września 2005 do czerwca 2011, czyli przez dwa lata rządu Marcinkiewicza, rok rządu Kaczyńskiego i cały pierwszy rząd Donalda Tuska. Po wszczęciu dochodzenia, stwierdzono, że Autostrada Wielkopolska powinna zwrócić nienależne rekompensaty w wysokości 895 mln zł wraz z odsetkami, czyli w sumie 1,367 mld zł 🙂
+- Autostrady to prywatny projekt dla państwa. Nie traktuję tego w kategoriach największego interesu, ale jako wyzwanie społeczne. Państwo jest beneficjentem, nie my - przekonywał w jednym z wywiadów Kulczyk 😃
+Na zdjęciu prezydenci Niemiec i Polski Joachim Gauck i Bronisław Komorowski podczas uroczystości nadania Autostradzie A2 symbolicznej nazwy "Autostrady Wolności"💙🇪🇺✌️
+PS.
+Ten tekst był publikowany pierwszy raz kilka miesięcy temu gdy media podały, że będą kolejne podwyżki na A2 dla wszystkich kategorii pojazdów (66 zł za trasę Nowy Tomyśl - Konin).
+Tym razem wywołała go Dominika Kulczyk. Wczoraj opublikowała zdjęcie na tle portretu swojego ojca Jana Kulczyka, pokazując kartę z głosem oddanym na Rafała Trzaskowskiego ❤
+Dodała też opis o treści: 
+"Za wolnością, prawdą i miłością (...) Zagłosowałam za Polską, w którą wierzył mój Tato" ❤
+
+<img src="./img/others/afery/a2.png"><br><br>
+
+---
+
 Urząd Bezpieczeństwa Publicznego - UB geneza powstania tej Żydowskiej Agendy pod patronatem żyda Berii - Po 1944 r.
 
 Stalin po wojnie przysłał do Polski tysiące żydowskich agentów, aby w miejsce wyniszczonych polskich elit stanowili trzon nowej „polskiej" inteligencji. Najważniejsze stanowiska rządowe objęli wywodzący się z KPP ludzie narodowości żydowskiej, ci sami, którzy 17 września 1939 r. „całowali sowieckie czołgi" we Lwowie i Białymstoku. Z sowieckiego punktu widzenia byli wprost bezcenni. Nieskażeni patriotyzmem gwarantowali brak jakichkolwiek skrupułów w sprawach narodowych. Pod tym względem Sowieci się nie zawiedli. Gorliwość kolaborantów była wielka.

@@ -15,6 +15,27 @@ draft: false
 
 ---
 
+"Jesteśmy ostatnim pokoleniem, które miało lepiej. Teraz wszystkie następne będą miały gorzej” – mówi profesor Szymon Malinowski (na oko – 60 latek), w filmie dokumentalnym „Można panikować” (link w pierwszym komentarzu – bardzo polecam).
+O czym mówi? Nie o tym, że młodzi będą w przyszłości mogli kupić mniej dóbr. Że będziemy biedniejsi i dlatego będzie nam gorzej niż starszym pokoleniom.
+Profesor Malinowski mówi o ZMIANACH KLIMATU.
+Przyznaję się, byłem kiedyś sceptykiem klimatycznym. Jakbyście zapytali mnie 10 lat temu, co myślę o zmianach klimatu, to rzuciłbym kilka popularnych frazesów:
+➡️ że przecież klimat zawsze się zmieniał (przecież kiedyś w Polsce były winnice) i człowiek nie ma z tym nic wspólnego
+➡️ że wybuchy wulkanów emitują więcej CO2 niż człowiek
+➡️ że ta cała walka ze zmianami klimatu to ideologia zbudowana przez ludzi, którzy chcą na tym zarobić
+I tak dalej. Dlaczego tak mówiłem? Bo byłem IGNORANTEM. Bo zamiast poszukać w rzetelnych źródłach, zobaczyć co na ten temat mówi nauka, wolałem słuchać najprostszych wytłumaczeń i teorii spiskowych.
+Dziś trochę mi z tego powodu wstyd. Ale być może część z Was jest dziś w takim punkcie, w jakim ja byłem kiedyś. Dlatego robię przed wami coming out.
+Moje poglądy zaczęły się zmieniać, gdy zacząłem pracować z ludźmi, którzy naukowo zajmują się zmianami klimatu. Oni stopniowo przekonywali mnie, z jak poważnym problemem mamy do czynienia.
+Co więc o zmianach klimatu mówi nauka?
+❗️ Klimat się ociepla – dziś średnia temperatura na ziemi jest o ponad 1 stopień wyższa niż 150 lat temu, gdy zaczęła się era przemysłowa. To jest bezdyskusyjne. Wiem, 1 stopień to nie wydaje się dużo, ale dla globalnego klimatu to kolosalna zmiana.
+❗️ Historycznie patrząc, obecna zmiana klimatu jest bardzo szybka. Być może najszybsza w historii. Ziemia rzeczywiście ma wieloletnie fazy ociepleń i ochłodzeń, ale jeśli kierować się tymi cyklami, to powinniśmy być w tej chwili w fazie ochłodzenia, a nie ocieplenia. Idziemy więc w odwrotnym kierunku niż naturalny cykl ziemi.
+❗️ Ocieplenie klimatu jest wywołane emisją dwutlenku węgla przez człowieka. 97 procent badań naukowych potwierdza ten wniosek (spośród tych, które odnoszą się do tej kwestii).
+❗️ Jeśli nic nie zrobimy – to znaczy emisja CO2 na świecie się nie zatrzyma i nie zacznie spadać – to będziemy mieli coraz więcej fal upałów i skrajnych zjawisk pogodowych. Lodowce będą topniały, poziom wód się będzie podnosił. Za kilkadziesiąt lat na dużych obszarach ziemi nie będzie dało się żyć.
+Pamiętacie jak kiedyś było głośno o dziurze ozonowej? Jeśli macie mniej niż 30 lat to możecie nawet nie pamiętać. Bo dzisiaj dziura ozonowa się zmniejsza. Dlaczego? Bo zaufaliśmy nauce i zrezygnowaliśmy ze stosowania niektórych substancji chemicznych (np. freonu). Teraz powinniśmy zrobić to samo – zaufać nauce.
+„Coraz bardziej upalne lata, coraz mniej śniegu zimą, płoną lasy, coraz bardziej sucho, brakuje wody, znikają lodowce w górach, znika lód morski w Arktyce, rozmarza zmarzlina, metan uwalnia się do atmosfery, topnieją lądolody, podnosi się poziom morza, zakwasza się ocean, zanika bioróżnorodność, coraz silniejsze burze i cyklony tropikalne” – to wszystko nasz świat, mówi profesor Malinowski. 
+Jeśli się nic z tym nie zrobimy, będzie tylko gorzej.
+
+---
+
 Oprocentowanie rachunków bankowych w bankach na poziomie 0,05%, przy inflacji powyżej 2,50%.
 
 <img src="./img/june/oszczednosci.jpg"><br><br>

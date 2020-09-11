@@ -8,6 +8,18 @@ tags:
   - Polska
 ---
 
+### 2020
+
+Od marca mamy do czynienia z gwałtownym przyspieszeniem inflacji monetarnej w Polsce. Podaż pieniądza rośnie w tempie niewidzianym od jesieni 2008 roku, czemu towarzyszą praktycznie zerowe stopy procentowe banku centralnego.
+
+Takiego tempa kreacji pieniądza nie widzieliśmy od kryzysu finansowego sprzed przeszło dekady. Tylko w czerwcu monetarny agregat M3 powiększył się o 28,3 mld zł. Od początku roku w systemie przybyło aż 180,6 mld złotych!
+
+<img src="./img/july/podaz.png"><br><br>
+
+Roczna dynamika podaży pieniądza M3 w czerwcu przyspieszyła do 18,1% wobec 16% w maju i 9,4% w lutym. Po raz ostatni tak szybki przyrost tego agregatu odnotowano w grudniu 2008 roku.
+
+W skład M3 wchodzi nie tylko fizyczna gotówka w obiegu, ale przede wszystkim pieniądze ulokowane na rachunkach bankowych gospodarstw domowych, przedsiębiorstw, samorządów czy funduszy zabezpieczenia społecznego.
+
 ### 1944
 
 W nocy z 22 na 23 lipca 1944 roku Armia Czerwona wyparła Niemców z obozu Konzentrationslager Lublin (potoczna nazwa ,,Majdanek'') Armia Czerwona oswobodziła grupę więźniów radzieckich znajdujących się na polu II, chłopów ze spacyfikowanych wsi Lubelszczyzny przebywających na polu I oraz pracowników Baudienstu przebywających na polu numer V.

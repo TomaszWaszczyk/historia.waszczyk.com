@@ -16,6 +16,15 @@ According to the International Monetary Fund (IMF), global fiscal support in res
 This enormous action of central banks leads to an unprecedented disconnect between the real economy and the stock markets. The expansion of multiples has accelerated just as earnings estimates plummet.
 By making sovereign bonds prohibitively expensive, two dangerous things happen: governments believe that low bond yields are due to their policies, and investors take much more risk than what they think they have in their portfolios.
 
+### 1920
+
+Datowane na 21 lipca 1920 roku Pismo Attaché Wojskowego przy Przedstawicielstwie Polskim w Rydze do Konsulatu Rzeczypospolitej Polskiej w Rydze z 21 lipca 1920 r. z prośbą o interwencję w przetransportowaniu polskich żołnierzy z portu w Libawie na Łotwie do Gdańska lub Pucka.
+"Uprasza się o jak najszybsze odtransportowanie z Libawy do Gdańska lub Pucka 170 żołnierzy polskich z bronią i 137 koni kawaleryjskich z oddziału, który pod naporem bolszewików zmuszony był przejść 5 b.m na terytorium łotewskie.  
+Koniecznym jest jak największy pośpiech wobec tego, że rozwój wypadków politycznych może skłonić rząd łotewski nawet do rozbrojenia oddziału i zabrania koni".
+Grafika; widokówka z Lipawy, rok 1920.
+
+<img src="./img/july/lipawa.jpg"><br><br>
+
 ### 1816
 
 <img src="./img/july/reuters.png"/><br><br>

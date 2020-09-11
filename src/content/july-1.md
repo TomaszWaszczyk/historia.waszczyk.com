@@ -14,6 +14,14 @@ tags:
 
 ---
 
+<img src="./img/july/mapawarszawy.jpg"><br><br>
+
+<img src="./img/july/mapawarszawy2.jpg"><br><br>
+
+<img src="./img/july/francja2020.jpg"><br><br>
+
+---
+
 Na Allegro można kupić banknot 1 000 000 zł za 150 zł 🙂
 
 Kupiliśmy sobie jeden do biura, będzie bardzo fajnym przypomnieniem, że inflacja (między innymi) wymusza coraz wyższe nominały na banknotach. Ale nic nie szkodzi, wystarczy zrobić denominację (jak w 1995 roku) i można zaczynać od początku 🙃
@@ -281,6 +289,12 @@ Wielka Wojna trwała cztery lata i trzy miesiące (do 11 listopada 1918 r.), a w
 <img src="./img/july/somma.jpg"><br><br>
 
 https://pl.wikipedia.org/wiki/Bitwa_nad_Somm%C4%85
+
+### 1910
+
+1910, Jasna Polana, jedno z ostatnich zdjęć hrabiego Lwa Tołstoja, obok niego żona Sofia, którą poślubił jako osiemnastolatkę. Przez kolejnych kilkadziesiąt lat organizowała mu praktycznie całe życie, w szczególności opiekując się jego literacką karierą (ośmiokrotnie przepisała z bazgrołów męża kolejne wersje „Wojny i pokoju”). Niepohamowany i niesłabnący popęd seksualny pisarza („żądza ogromna, granicząca z fizycznym bólem”) oznaczał dla niej nie tylko trzynaścioro dzieci, ale też niezliczone zdrady męża (szczególnie pociągające były dla niego młode wieśniaczki, Cyganki i prostytutki) oraz choroby weneryczne. W ostatnich latach Tołstoj dochodzi do wniosku, że to Sofia nie pozwalała mu na duchowe spełnienie, zmuszając go do materialistycznego i moralnie odrażającego trybu życia. Z dnia na dzień rezygnuje z pożycia fizycznego (w każdym razie z nią), a także spisuje nowy testament, pozbawiający ją praw majątkowych do jego utworów. Gdy żona podejmuje walkę o materialne zabezpieczenie siebie i dzieci, Tołstoj opuszcza potajemnie nocnym pociągiem Jasną Polanę. Aby być blisko z rosyjskim ludem wybiera wagon kolejowy III klasy. W Astapowie jest już tak chory na zapalenie płuc, że musi opuścić pociąg. Umiera po kilku dniach równie demokratycznie – w łóżku zawiadowcy stacji.
+
+<img src="./img/july/tolstoj.jpg"><br><br>
 
 ### 1863
 

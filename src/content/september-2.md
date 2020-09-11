@@ -24,6 +24,15 @@ Kończący się cykl gospodarczy dokonuje szeregu zmian w przebiegu szlaków han
 
 <img src="./img/september/piskghm.jpg"><br><br>
 
+---
+
+### 1974
+
+P. K. Dick to the FBI [2 September 1974] :
+"Lem is probably a composite committee rather than an individual"
+
+<img src="./img/september/lem.jpg"><br><br>
+
 ### 1949
 
 https://pl.wikipedia.org/wiki/Hans-Hermann_Hoppe
