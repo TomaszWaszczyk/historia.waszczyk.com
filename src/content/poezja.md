@@ -3,10 +3,12 @@ layout: post
 title: "Poezja"
 author: Tomasz Waszczyk
 tags: ["Poezja"]
-image: img/art/strzeminski.jpg
+image: img/others/poezja/czas.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
+
+<img src="./img/others/poezja/czas.jpg"><br><br>
 
 ### Pan Cogito o potrzebie ścisłości
 
