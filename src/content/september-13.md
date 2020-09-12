@@ -36,6 +36,14 @@ lat pozbawienia wolności. Zmarł w więzieniu w 1980 roku. Włodzimierz Leś, w
 
 <img src="./img/september/ulma.jpg"><br><br>
 
+### 1939
+
+W Szczucinie żołdacy z Wehrmachtu zamordowali 25 Żydów. Przed egzekucją Żydzi musieli pochować ok. 100 osób - byli to jeńcy polscy zamordowani dzień wcześniej przez żołdaków z 8. Dywizji Piechoty z VIII Korpusu Armijnego. Żołdacy za wymordowanie polskich jeńców zostali uhonorowani Żelaznym Krzyżem i prawdopodobnie dodatkowymi upominkami w postaci alkoholu i kilku dni wolnych od służby. 
+„Następnego dnia [Niemcy] sprowadzili Żydów, by ich pochowali. Musieli wykopać groby. Był z nimi młody Żyd [...], on [podoficer niemiecki] uderzył go pięścią w twarz. Wkrótce potem zatłukł go karabinem. W taki sposób, że zaraz wypłynął mózg, a Żydzi musieli wykopać groby i wtedy wrzucali do nich Polaków. Na koniec rozstrzelano także Żydów i wrzucono do tych samych dołów. Potem to wszystko zasypano cienką warstwą ziemi, a następnego dnia przyszły polskie... żydowskie kobiety, a więc matki i żony, one znowu tych zabitych wykopały po to, by ich pochować. To by było wszystko” (Hannes Heer, Vom Verschwinden der Täter, Berlin 2004)
+Na zdjęciu przedstawiona jest egzekucja 22 Żydów - obywateli miasta Końskie w odwecie za zabicie 4 żołnierzy niemieckich przez nieznanych sprawców. Ofiary były przymuszane do kopania sobie grobu. Egzekucję fotografowała ekipa filmowa Leni Riefenstahl. W mojej ocenie egzekucja Żydów w Szczucinie wyglądała podobnie.
+
+<img src="./img/september/zoldacy.jpg"><br><br>
+
 ### 1732
 
 Początek rozbioru Polski:
