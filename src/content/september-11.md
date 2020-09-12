@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 11 września
-image: img/septmeber/jankazimierz.jpg
+image: img/september/jankazimierz.jpg
 author: Tomasz Waszczyk
 date: 2019-09-11T10:00:00.000Z
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21 września
-image: img/septmeber/indeks.png
+image: img/september/indeks.png
 author: Tomasz Waszczyk
 date: 2018-09-21T10:00:00.000Z
 tags:

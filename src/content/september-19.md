@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 września
-image: img/septmeber/
+image: img/september/
 author: Tomasz Waszczyk
 date: 2018-09-19T10:00:00.000Z
 tags:

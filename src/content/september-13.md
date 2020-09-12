@@ -1,13 +1,23 @@
 ---
 layout: post
-title: 4 września
-image: img/septmeber/indeks.png
+title: 13 września
+image: img/september/sumabilansowa.png
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2019-09-13T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - GOLD
+draft: false
 ---
+
+### 2020
+
+Osiągnięcie przez kurs złota wycenianego w dolarze historycznego rekordu skłoniło część inwestorów do realizacji pokaźnych zysków. Najważniejsze przesłanki fundamentalne będą w naszej ocenie sprzyjać utrzymaniu się trendu wzrostowego ceny kruszcu.
+
+Po pokonaniu w lipcu 2020 r. przez kurs złota silnego oporu na poziomie 1850 USD/oz, trwający od początku 2016 r. trend wzrostowy stał się znacząco silniejszy i w ciągu niecałego miesiąca wywindował cenę kruszcu na rekordowy poziom 2080 USD/oz. Tym samym zakończyła się łatwiejsza do technicznej analizy część ruchu wzrostowego, a kurs złota pozostał bez klarownych poziomów docelowych. W warunkach dużego wykupienia rynku skłoniło to część krótkoterminowych graczy do zrealizowania pokaźnych zysków, a kruszec wprowadziło w naturalną korektę. Powrót do ścieżki wzrostowej wydaje się jednak kwestią kilku tygodni, przy czym im dłużej potrwa obecna konsolidacja, tym lepiej dla trwałości przyszłych wzrostów.
+
+Najważniejsze przesłanki fundamentalne będą w naszej ocenie sprzyjać dalszemu umacnianiu się ceny złota. Nadal silnie rośnie podaż pieniądza w Stanach Zjednoczonych – roczny przyrost agregatu M2 wynosi obecnie około 25 proc. W ostatnich latach najwyższe tempo wzrostu M2, rzędu kilkunastu procent, występowało w 2001 r. i w 2009 r. i w obu przypadkach zapowiadało silny trend wzrostowy cen złota. Złoto wykazuje silną tendencję do tego, żeby w długim okresie utrzymywać w miarę stałą relację do podaży dolarów. Kruszcowi sprzyja również wzrost sumy bilansowej Fed. Po ostatnim równie szybkim zwiększeniu sumy bilansowej pod koniec roku 2008 cena złota wzrosła ponad dwukrotnie.
+
+<img src="./img/september/sumabilansowa.png"><br><br>
 
 ### 1995
 
@@ -34,4 +44,4 @@ Efektem bitwy było pogrzebanie zasady zwierzchnictwa monarszego w Małopolsce o
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-13.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

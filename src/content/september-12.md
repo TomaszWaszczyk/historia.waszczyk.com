@@ -30,6 +30,12 @@ W tekście jest o tym, że to przez tą zdradę aliantów przegraliśmy IIWŚ. J
 
 https://en.wikipedia.org/wiki/Gold_fixing
 
+### 1733
+
+12 tysięcy przedstawicieli polskiej szlachty podpisało się pod aktem elekcyjnym Stanisława Leszczyńskiego (grafika).Nie oznaczało to jednak, że został on nowym królem Polski, ponieważ na drodze do tronu stanął mu August III Sas wspierany przez Rosjan,z którym Leszczyński przegrał wojnę domową. Spór ten zakończył się kompromisem z Austrią w skutek którego August III Sas został polskim królem,a Leszczyński dożywotnim władcą Lotaryngii.
+
+<img src="./img/september/leszczynski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-12.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -14,6 +14,10 @@ W wieku 94 lat, zmarł ksiądz prałat Jan Zieja - podpułkownik Wojska Polskieg
 
 <img src="./img/october/zieja.jpg"/><br><br>
 
+### 1987
+
+https://en.wikipedia.org/wiki/Black_Monday_(1987)
+
 ### 1984
 
 Zamordowano księdza Jerzego Popiełuszkę.
