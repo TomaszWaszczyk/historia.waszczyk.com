@@ -95,6 +95,8 @@ Your browser does not support the video tag.
 
 * https://www.codingame.com/start
 
+* https://www.geogebra.org/
+
 * Baw się kodem! Twoja własna gra. CoderDojo Nano - Jurie Horneman, CoderDojo
 
 * Lift-the-Flap Computers and Coding
@@ -217,6 +219,8 @@ Your browser does not support the video tag.
 docenianie != chwalenie (docenianie to droga, chwalenie to efekt)
 
 myślenie krytyczne
+
+https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
 ---
 

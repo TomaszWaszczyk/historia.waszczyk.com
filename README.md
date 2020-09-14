@@ -1,8 +1,10 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3cd1a47e-65af-4fad-9737-717d87bc8df2/deploy-status)](https://app.netlify.com/sites/historia-waszczyk/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e926cde-268f-4f67-b6a2-2f8c5e493d86/deploy-status)](https://app.netlify.com/sites/eager-wiles-033ea5/deploys)
 
 Przedwojenny 1PLN = 0.17grama XAU
 
 https://www.newsweek.pl/polska/polityka/general-wojciech-jaruzelski-historia-willi-jaruzelskiego/mlg7f69
+
+https://f6862.wordpress.com/2016/06/09/zaklamana-konferencja-ipn-u-nurt-narodowy-opozycji-demokratycznej-w-prl-1955-1990/
 
 https://chomikuj.pl/ryszardq/War*c5*82am+Sza*c5*82amow+-+Opowiadania+ko*c5*82ymskie
 

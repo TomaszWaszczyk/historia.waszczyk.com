@@ -33,6 +33,12 @@ https://tradingeconomics.com/poland/government-debt
 
 ---
 
+### 1994
+
+Prezesi siedmiu głównych firm tytoniowych w Stanach Zjednoczonych przysięgają, że nikotyna NIE uzależnia.
+
+<img src="./img/april/nikotynaprezesi.jpg"><br><br>
+
 ### 1950
 
 Podpisane zostało porozumienie między rządem komunistycznym, a Episkopatem Polski w sprawie zagwarantowania nauczania religii i funkcjonowania Katolickiego Uniwersytetu Lubelskiego.

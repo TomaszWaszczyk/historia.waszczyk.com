@@ -2978,6 +2978,12 @@ W miłości nie ma zasad.
 
 If I can jump in.
 
+Miej nadzieję na najlepsze, przygotuj się na najgorsze.
+
+Ciężkie czasy tworzą silnych ludzi.Silni ludzie tworzą dobre czasy.Dobre czasy tworzą słabych ludzi.Słabi ludzie tworzą ciężkie czasy.
+
+
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
