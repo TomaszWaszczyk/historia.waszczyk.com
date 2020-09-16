@@ -268,6 +268,8 @@ Różne
 
     „Nie na sposób ludzki, ale z pomocą bóstwa wyraziłem się jaśniej od Sybilli”
 
+https://pl.wikipedia.org/wiki/Egregor
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/philosophy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

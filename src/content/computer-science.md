@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Brendan_Gregg
 
 https://pl.wikipedia.org/wiki/Hans_Moravec
 
+Brave privacy: https://en.wikipedia.org/wiki/Brendan_Eich
+
 Context not control.
 
 <img src="./img/others/computer-science/webhistory.gif"><br><br>

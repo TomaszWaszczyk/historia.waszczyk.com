@@ -190,6 +190,8 @@ Hans Kundnani, The paradox of the German power
 
 # Jewish space
 
+https://pl.wikipedia.org/wiki/Chazarowie
+
 https://pl.wikipedia.org/wiki/Kaba%C5%82a
 
 https://sztetl.org.pl/

@@ -8,6 +8,10 @@ tags:
   - Germanizacja
 ---
 
+### 2020
+
+MicroStrategy completed its acquisition of 16,796 additional bitcoins at an aggregate purchase price of $175 million. To date, we have purchased a total of 38,250 bitcoins at an aggregate purchase price of $425 million, inclusive of fees and expenses.
+
 ## 1939
 
 <https://pl.wikipedia.org/wiki/Obrona_twierdzy_brzeskiej_(1939)>

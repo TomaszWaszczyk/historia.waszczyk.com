@@ -1,12 +1,28 @@
 ---
 layout: post
 title: 16 września
-image: img/september/indeks.png
+image: img/september/rosjajaponia.jpg
 author: Tomasz Waszczyk
-date: 2018-09-16T10:00:00.000Z
+date: 2019-09-16T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Komitet Rady Ministrów ds. Cyfryzacji
+draft: false
+---
+
+### 2020
+
+Komitet Rady Ministrów ds. Cyfryzacji (KRMC) przyjął „Politykę rozwoju sztucznej inteligencji w Polsce”
+
+---
+
+Przyklad labilności słabego społeczeństwa:
+
+> „W związku z podejrzeniem, że komunikaty Sanepidu mogą negatywnie wpływać na zachowania społeczne i przyczyniać się do eskalacji zjawiska psychozy strachu oraz do wywoływania stanów lękowych u wielu osób, od dnia dzisiejszego zaprzestajemy ich publikowania...”
+
+---
+
+<img src="./img/september/brakduzych.jpeg"><br><br>
+
 ---
 
 ### 1993

@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 15 września
-image: img/september/indeks.png
+image: img/september/lehman.jpg
 author: Tomasz Waszczyk
-date: 2018-09-15T10:00:00.000Z
+date: 2019-09-15T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Lehman
+draft: false
 ---
+
+### 2020
+
+PARIS,France​,​September15th,2020,​Today,SocieteGenerale–ForgehasselectedtheTezosblockchainforCentralBankDigitalCurrency(CBDC)experiments.OnJuly20,2020,BanquedeFranceselectedSocieteGenerale–ForgeaspartofitscallforapplicationstoexperimenttheuseofCentralBankDigitalCurrencyforinterbanksettlements.Theexperimentwillexplorethefeasibilityoffinancial securities being digitally settled and delivered in Central Bank Digital Currency.
 
 ### 2008
 
@@ -65,6 +69,12 @@ Jeden z ojców i patronów tego systemu – Jacek Kuroń, już w 1977 r. wyznał
 W ten oto sposób podjęty po ogłoszeniu w Związku Sowieckim „głasnosti" wspólny wysiłek władz PRL i „zreformowanej" „Solidarności", akceptowany, a nawet wspomagany przez zainteresowany w utrzymaniu w Polsce spokoju Zachód, doprowadził do zaprezentowania Polakom operacji Okrągłego Stołu jako historycznego „obalenia komunizmu".
 O tej realistycznej, ale i negatywnej ocenie Okrągłego Stołu oraz jego następstw zapominają często ci wszyscy, którzy próbują wykorzystać autorytet zmarłego tragicznie prezydenta do podtrzymania fałszywego mitu pokojowej zmiany systemu. ?
 Autor jest historykiem, opublikował właśnie kolejną swoją książkę pt. „Wałęsa. Człowiek z teczki" (Wyd. Zysk i S-ka)
+
+### 1941
+
+W Lipnikach na Wołyniu urodził się Mirosław Hermaszewski, generał brygady Wojska Polskiego, kosmonauta- pierwszy i jedyny Polak, który odbył lot w kosmos. Jako mały chłopiec cudem ocalał z rzezi wołyńskiej - uratował go ojciec. Ukraińscy szowiniści zamordowali 19 członków jego rodziny, w tym ojca. Po zakończeniu II wojny światowej wraz z rodziną został poddany repatriacji i przesiedlony do Wołowa niedaleko Wrocławia. Mały Mirek od najmłodszych lat marzył o lotnictwie. W wolnych chwilach wielką frajdę sprawiało mu sklejanie modeli samolotów. Marzenia z dziecięcych lat zaczął realizować w 1960 roku, kiedy podjął naukę latania na szybowcach w Aeroklubie wrocławskim, a następnie na samolotach w Grudziądzu. Rok później udało mu się dostać do wymarzonej Szkoły Orląt w Dęblinie, gdzie uzyskał uprawnienia pilota myśliwskiego 3 klasy. Szkołę ukończył z tytułem prymusa. Został przydzielony do 62 Pułku Lotnictwa Myśliwskiego OPK w Poznaniu. Po dwuletniej nauce uzyskał uprawnienia pilota 1 klasy oraz uprawnienia do pilotowania samolotu naddźwiękowego MiG-21. Dalszą naukę kontynuował w Akademii Sztabu Generalnego w Rembertowie, którą ukończył z wyróżnieniem. W latach 1964-78 służył w obronie przestrzeni powietrznej RP. Od 27 czerwca do 5 lipca 1978 roku odbywał lot kosmiczny, jako inżynier pokładowy wraz z radzieckim dowódcą Piotrem Klimukiem na statku kosmicznym Sojuz 30. Lot odbył się w ramach międzynarodowego programu kosmicznego o nazwie Interkosmos. Od 1981 do 1983 był członkiem, owianej złą sławą, Wojskowej Rady Ocalenia Narodowego. W latach 1987–1991 pracował, jako komendant w Wyższej Szkole Oficerskiej Sił Powietrznych w Dęblinie. Od 1992 do 1995 roku pełnił obowiązki dowódcy Wojsk Lotniczych i Obrony Powietrznej, a następnie był inspektorem ds. Sił Powietrznych w Sztabie Generalnym Wojska Polskiego. Łącznie generał Hermaszewski spędził w powietrzu 2047 godzin i 47 minut, wykonał 3473 starty i lądowania, oddał 10 skoków treningowych ze spadochronem.
+
+<img src="./img/september/hermaszewski.jpg"><br><br>
 
 ---
 
