@@ -2982,7 +2982,7 @@ Miej nadzieję na najlepsze, przygotuj się na najgorsze.
 
 Ciężkie czasy tworzą silnych ludzi.Silni ludzie tworzą dobre czasy.Dobre czasy tworzą słabych ludzi.Słabi ludzie tworzą ciężkie czasy.
 
-
+Alfred Hitchcock: Napięcie rośnie do zenitu a później systematycznie rośnie.
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 

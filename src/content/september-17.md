@@ -1,13 +1,21 @@
 ---
 layout: post
 title: 17 września
-image: img/september/indeks.png
+image: img/september/boe.jpg
 author: Tomasz Waszczyk
-date: 2018-09-17T10:00:00.000Z
+date: 2019-09-17T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - CBDC
+draft: false
 ---
+
+### 2020
+
+Design choices for central bank digital currency, VOX EU
+
+This report provides a list of highly relevant design considerations. Summary:
+
+The benefits and risks of CBDC are complex, encompassing financial, legal, and technical considerations and the interplay among them. With many central banks currently considering or piloting CBDCs, each country will have to take into account its specific circumstances and initial conditions before deciding whether the potential benefits of introducing a CBDC outweigh the possible costs (Allen et al. 2020). Any CBDC will require a secure, user-friendly way to hold and transfer funds. A two-layer infrastructure with central bank management of the digital ledger and existing financial institutions providing customer service is a likely choice; it would maintain existing models and avoid disintermediation of the financial system. Regardless of the infrastructure choice, central banks should consider technical and legal confidentiality protections for ledger contents. Once deployed, a retail CBDC will provide rich opportunities for innovative central banking.
 
 ### 1992
 

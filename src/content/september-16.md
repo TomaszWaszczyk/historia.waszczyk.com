@@ -15,6 +15,17 @@ Komitet Rady Ministrów ds. Cyfryzacji (KRMC) przyjął „Politykę rozwoju szt
 
 ---
 
+W Niemczech odsłonięto pomnik Lenina. "To jest po prostu hańba"
+W Gelsenkirchen na zachodzie Niemiec stanął pomnik Włodzimierza Lenina, wodza rewolucji bolszewickiej.
+Monument odsłonięto z inicjatywy Marksistowsko-Leninowskiej Partii Niemiec (MLPD), która postawiła go przed swoją siedzibą.
+"To jest po prostu hańba. Ten potwór jest odpowiedzialny za zagładę dziesiątek milionów istnień ludzkich. Chętnie bym wysadził ten pomnik w powietrze" – napisał Piotr Zychowicz, redaktor naczelny magazynu "Do Rzeczy Historia".
+Wcześniej lokalne władze próbowały zablokować budowę pomnika.
+Sąd nie uznał argumentacji władz lokalnych.
+Włodzimierz Lenin to pierwszy przywódca Rosji Radzieckiej, komunista i zbrodniarz wojenny.
+Dokładna liczba ofiar jego rządów nie jest znana, ale większość historyków mówi o 6 milionach ludzi.
+
+---
+
 Przyklad labilności słabego społeczeństwa:
 
 > „W związku z podejrzeniem, że komunikaty Sanepidu mogą negatywnie wpływać na zachowania społeczne i przyczyniać się do eskalacji zjawiska psychozy strachu oraz do wywoływania stanów lękowych u wielu osób, od dnia dzisiejszego zaprzestajemy ich publikowania...”
