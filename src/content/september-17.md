@@ -11,6 +11,10 @@ draft: false
 
 ### 2020
 
+> Dzisiejszą rezolucje PE przyjmuje jako: „Jak dalej będziecie fikać, to skończy się to dla was jak w 1939”. Czyli wyraźne upomnienie, abyśmy nie fikali ;)
+
+---
+
 Fed nie widzi możliwości podwyżek stóp w horyzoncie prognozy. Taki scenariusz nie powinien dziwić biorąc pod uwagę fakt, że najpierw Fed chciałby zobaczyć inflację nieco powyżej 2%, która z kolei nie jest oczekiwana na takim poziomie w ciągu kolejnych kilku lat. Co więcej, stopa bezrobocia ma nie wrócić do poziomu sprzed pandemii w najbliższych latach, co z kolei może implikować brak pełnego zatrudnienia (istotny mandat z punktu widzenia Fed).
 
 ---
