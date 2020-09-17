@@ -11,6 +11,10 @@ draft: false
 
 ### 2020
 
+Fed nie widzi możliwości podwyżek stóp w horyzoncie prognozy. Taki scenariusz nie powinien dziwić biorąc pod uwagę fakt, że najpierw Fed chciałby zobaczyć inflację nieco powyżej 2%, która z kolei nie jest oczekiwana na takim poziomie w ciągu kolejnych kilku lat. Co więcej, stopa bezrobocia ma nie wrócić do poziomu sprzed pandemii w najbliższych latach, co z kolei może implikować brak pełnego zatrudnienia (istotny mandat z punktu widzenia Fed).
+
+---
+
 Design choices for central bank digital currency, VOX EU
 
 This report provides a list of highly relevant design considerations. Summary:
