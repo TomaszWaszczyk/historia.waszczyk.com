@@ -43,6 +43,8 @@ W środę publikacja artykułu z tej okazji, gdzie opisujemy trzy najlepsze setu
 
 O świcie Armia Czerwona, na całej długości granicy wtargnęła na terytorium broniącej się przed hitlerowskim agresorem Polski. Wschodnie granice były strzeżone jedynie przez przerzedzone Korpusy Ochrony Pogranicza. Bolszewicy ostatecznie podcięli nogi II RP. Wojska frontów ukraińskiego i białoruskiego, liczące według radzieckich danych 466 tysięcy żołnierzy, realizowały plan ustalony kilka dni wcześniej w trakcie rokowań Radziecko - Niemieckich. Plan polegający na zablokowaniu polskim wojskom drogi na Węgry i do Rumunii. Sowieci planowali dojść do linii Narwi Wisły i Sanu. Dzień wcześniej, przed rozpoczęciem ofensywy, Stalin w rozmowie z niemieckim ambasadorem w Moskwie, uczulił go aby Luftwaffe nie przekraczała właśnie tej linii, by zapobiec ewentualnym pomyłkom. Przestrzeń powietrzną na wschód od niej miały zdominować samoloty z czerwoną gwiazdą na skrzydłach.
 
+<img src="./img/september/rosjapomaga.jpg"><br><br>
+
 ---
 
 […] Pamiętajcie, tylko Armia Czerwona wyzwoli naród polski z nieszczęsnej wojny. […] Wierzcie nam! Armia Czerwona Związku Radzieckiego – to wasz jedyny przyjaciel. Dowódca frontu Ukraińskiego S. Timoszenko”
