@@ -39,7 +39,7 @@ Stanley Drunkemiller był pomysłodawcą setupu. George Soros bardzo mocno zaang
 
 W środę publikacja artykułu z tej okazji, gdzie opisujemy trzy najlepsze setupu Georga Sorosa. Również chcemy przybliżyć sylwetkę Drunkemillera w tym tygodniu.
 
-<img src="./img/september/boe.jpg/><br><br>
+<img src="./img/september/boe.jpg"><br><br>
 
 ### 1939
 
