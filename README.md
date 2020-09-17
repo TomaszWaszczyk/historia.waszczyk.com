@@ -6,6 +6,8 @@ https://www.newsweek.pl/polska/polityka/general-wojciech-jaruzelski-historia-wil
 
 https://f6862.wordpress.com/2016/06/09/zaklamana-konferencja-ipn-u-nurt-narodowy-opozycji-demokratycznej-w-prl-1955-1990/
 
+https://ikeamuseum.com
+
 https://chomikuj.pl/ryszardq/War*c5*82am+Sza*c5*82amow+-+Opowiadania+ko*c5*82ymskie
 
 https://czytam.pl/k,ks_865477,Cyfrodziewczyny-Wasielewska-Karolina.html

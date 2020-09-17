@@ -25,6 +25,54 @@ Its a shell game, there is no pea (IOU) under any shell; and the shells must nev
 
 <img src="./img/september/game.jpeg"><br><br>
 
+---
+
+<!-- Główne kultury świata to kultura zachodnia (amerykańska i europejska), afrykańska, latynoamerykańska, arabska i azjatycka. Każda z tych kultur posiada swoje nieodłączne cechy, które razem wzięte tworzą niepowtarzalne połączenie wyróżniające kultury spośród innych. Te wyróżniające je cechy to:
+
+Indywidualizm - jest charakterystyczny dla kultur zachodnich. Wywodzi się on jeszcze z tradycji protestanckiej, w której człowiek jest z góry przeznaczony do osiągania sukcesów jako jednostka. Najważniejsze wartości indywidualistyczne to wolność rozwoju unikalnej osobowości, wolność przedsięwzięć i wyrażania siebie. Pozycja jest zdobywana, a nie dziedziczona, prawa i obowiązki są stanowione przez prawo, ale mogą być kwestionowane.
+Kultury indywidualistyczne to kraje:
+Ameryki Północnej, Europy Północnej i Zachodniej, Australii i Nowej Zelandii, Izraela
+
+Kolektywizm z kolei skupia się na zbiorowości (rodzina, klan, kasta, grupa społeczna, społeczeństwo). Motywem przewodnim działania jednostki jest dobro zbiorowości, jednostka zaś korzysta z praw pod warunkiem, że są zgodne z prawami zbiorowości. Miejsce państwa i prawa nie jest jasne. Decyzje są podejmowane przez przywódców w oparciu o ich osobiste cele. Kolektywizm odznacza się unikaniem konfrontacji, zachowaniem harmonii w grupie, niekwestionowaną władzą osób starszych.
+Kultury kolektywistyczne to kraje:
+Afryka, Azja, Bliski Wschód, Oceania
+
+Kultury wysokiego kontekstu porozumiewają się w sposób aluzyjny, posługują się raczej sygnałami niewerbalnymi oraz wskazówkami myśli. Komunikacja opiera się na uważnym dobieraniu i ważeniu słów, bezpośredniość oraz wyrażanie przeciwnej opinii są niemile widziane. Polegają bardziej na intuicji i zaufaniu niż na faktach i statystykach. Dla ludzi z kultur niskiego kontekstu osoby reprezentujące kulturę wysokiego kontekstu mogą być uważane za podejrzliwe, nieszczere i przebiegłe.
+Należą do nich:
+Kraje azjatyckie, arabskie i śródziemnomorskie
+
+Kultura niskiego kontekstu charakteryzuje się bardzo bezpośrednią i otwartą komunikacją. Unika się niepotrzebnych rytuałów, „owijania w bawełnę”, udawanych formuł oraz słownego upiększania. Niewiele uwagi poświęca się językowi ciała. Ważne jest też silne przywiązanie do czasu oraz oddzielanie pracy od relacji międzyludzkich.
+Zalicza się do nich kraje:
+Ameryka Północna, kraje skandynawskie, Niemcy, Szwajcaria
+
+Kultury monochroniczne są przywiązane do czasu. Czas odgrywa dla nich dużą rolę i liczą go w godzinach, minutach i sekundach. Zegar reguluje ich życie społeczne, rodzinne, pracę, grę, procesy produkcyjne.
+Kultury monochroniczne wystepują w:
+Kraje skandynawskie i inne germańskie kraje europejskie, Ameryka Północna, Japonia
+
+Kultury polichroniczne nie przywiązują wagi do czasu, gdyż dla nich ważniejsze są relacje i tradycja. Nie widzą sensu w dokładnym liczeniu czasu, zaś jego najlepszym wyznacznikiem są dni, tygodnie, miesiące i lata. Powolność, a nie pośpiech są kardynalną zasadą. Wszystko, co ma być zrobione w końcu zostanie zrobione. Konflikty pomiędzy negocjatorami reprezentującymi obydwie kultury powstają dlatego, że partnerzy punktualni traktują swych mniej punktualnych rozmówców jako niezdyscyplinowanych, niezorganizowanych, a nawet leniwych.
+Do kultur polichronicznych zaliczymy więc:
+Kraje arabskie, większość krajów Afryki, Ameryki Łacińskiej, kraje Azji Południowej i Południowo-Wschodniej
+
+Można także wyróżnić kultury propartnerskie, nastawione na relacje, które dużą uwagę przywiązują do sposobu, w jaki utrzymywane są wzajemne kontakty oraz kultury protransakcyjne, które przede wszystkim dążą do postawionych celów, są nastawione na wynik. Konflikt może polegać na tym, że przedstawiciele kultury protransakcyjnej  będą postrzegani przez negocjatorów propartnerskich jako zbyt pewni siebie, agresywni, grubiańscy.
+Kultury propartnerskie znajdziemy w:
+Kraje arabskie, większość krajów Afryki, Ameryki Łacińskiej i Azji
+Zaś kraje protransakcyjne to:
+Kraje skandynawskie i inne kraje germańskie, kraje europejskie, Ameryka Północna (USA, Kanada), Australia, Nowa Zelandia
+
+Przywiązywanie wagi do statusu społecznego, hierarchii, władzy i okazywania szacunku jest znakiem podziału na kultury ceremonialne i nieceremonialne. Nieceremonialni nie przywiązują uwagi do konwenansów czy hierarchi, wszystkich traktują na równi z sobą. Dla kultur ceremonialnych jest to bardzo obraźliwe, gdy nie przestrzega się zasady starszeństwa lub gdy do negocjacji z nimi zostanie wysłana osoba młodsza wiekiem lub doświadczeniem zawodowym.
+Nieceremonialne narody spotkamy w:
+USA, Kanada, Australia, Nowa Zelandia, kraje skandynawskie, Holandia
+Ceremonialne kultury to:
+Pozostałe kraje europejskie, kraje basenu Morza Śródziemnego, kraje arabskie, Ameryka Łacińska
+
+Kultury operujące dużą liczbą sygnałów niewerbalnych są określane mianem kultur ekspresyjnych, zaś kultury, które ograniczają je do minimum to kultury powściągliwe.
+Ekspresyjnośc na pewno zauważymy w:
+Włochy, Hiszpania, Francja, kraje afrykańskie
+
+Kultury powściągliwe unikają kontaktu wzrokowego, zachowują o wiele większy dystans, mówią ciszej, a sama cisza nie jest dla nich krępująca. Ludzie  z tej kultury ograniczają gestykulację i mimikę oraz nie lubią być dotykani, stąd partnerzy z kultur ekspresyjnych odbierają ich często jako ludzi fałszywych, nie chcących z nimi współpracować.
+Powściągliwe nacje zaś to:
+Głównie kraje azjatyckie -->
+
 ### 1794
 
 W czasie insurekcji kościuszkowskiej Rada Najwyższa Narodowa wydała dekret na mocy którego zamieniono pospolite ruszenie włościan na pobór 1 rekruta z 10 domów i 1 konia z 50 domów.

@@ -45,4 +45,17 @@ O świcie Armia Czerwona, na całej długości granicy wtargnęła na terytorium
 
 ---
 
+[…] Pamiętajcie, tylko Armia Czerwona wyzwoli naród polski z nieszczęsnej wojny. […] Wierzcie nam! Armia Czerwona Związku Radzieckiego – to wasz jedyny przyjaciel. Dowódca frontu Ukraińskiego S. Timoszenko”
+(faksymile sowieckiej ulotki, cyt. za: Zbrodnia Katyńska w świetle dokumentów, Londyn 1982, s. 11, s. nlb.).
+ „Wojsko sowieckie wkroczyło około godziny 16-tej i natychmiast przystąpiło do okrutnej rzezi i bestialskiego znęcania się nad ofiarami, co trwało przez cały dzień. Mordowano nie tylko policję i wojskowych, ale tak zwaną burżuazję, nie wyłączając kobiet i dzieci”
+(zeznania polskiego świadka opisującego wydarzenia w miejscowości Rohatyń w woj. stanisławowskim we wrześniu 1939 r.; cyt. za: Zbrodnia Katyńska w świetle dokumentów..., s. 11).
+17 września 1939 roku ponad 500 tysięcy żołnierzy sowieckich wtargnęło na terytorium Rzeczypospolitej. Jako oficjalny powód wtargnięcia swych sił Sowieci podali: ,,obronę sowieckich granic oraz mieszkających na terenie Polski Ukraińców i Białorusinów''.
+Jednak wszyscy dobrze wiemy, że napaść była realizacją sowiecko-niemieckich ustaleń z dnia 23 sierpnia 1939 roku.
+Granic Polski bronili żołnierze Korpusu Ochrony Pogranicza oraz Wojska Polskiego. Szczególną rolę w organizowaniu polskiej obrony odgrywał dowódca KOP generał brygady Wilhelm Orlik-Rückemann, który stoczył z Sowietami kilkanaście potyczek i dwie duże bitwy pod Szackiem (28-29 IX) i Wytycznem (1 X). Podczas tych bitew generał Orlik-Rückemann zadał sowieckim najeźdźcom dotkliwe straty.
+Na zdjęciu mapka zaczerpnięta z Wielkiego Atlasu Kampanii Wrześniowej Wojciecha Zalewskiego. Mapa obrazuje stan na dzień 17 września 1939 r.
+
+<img src="./img/september/wierzcienam.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
