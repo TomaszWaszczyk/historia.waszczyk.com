@@ -86,6 +86,8 @@ Marian Mikołaj Cimoszewicz ur. W 1917 r. w Uljanowsku. Zamieszkały w Endrychow
 
 ### Socjologia
 
+https://pl.wikipedia.org/wiki/Habituacja
+
 https://en.wikipedia.org/wiki/Pitirim_Sorokin
 
 ---
