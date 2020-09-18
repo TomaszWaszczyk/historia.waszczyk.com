@@ -19,6 +19,10 @@ W czasie drugiej wojny światowej pełniła służbę, jako komendantka główna
 
 <img src="./img/april/israel.jpg"><br><br>
 
+### 1985
+
+https://pl.wikipedia.org/wiki/Pawe%C5%82_Batow
+
 ### 1981
 
 <img src="./img/april/lem.jpeg"><br><br>
