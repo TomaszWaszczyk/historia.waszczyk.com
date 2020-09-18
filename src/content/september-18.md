@@ -27,6 +27,14 @@ Its a shell game, there is no pea (IOU) under any shell; and the shells must nev
 
 ---
 
+Global government bond yields are approaching zero fast; a growing proportion are actually negative. 
+
+Yes, that's global.
+
+<img src="./img/september/globalyield.png"><br><br>
+
+---
+
 <!-- Główne kultury świata to kultura zachodnia (amerykańska i europejska), afrykańska, latynoamerykańska, arabska i azjatycka. Każda z tych kultur posiada swoje nieodłączne cechy, które razem wzięte tworzą niepowtarzalne połączenie wyróżniające kultury spośród innych. Te wyróżniające je cechy to:
 
 Indywidualizm - jest charakterystyczny dla kultur zachodnich. Wywodzi się on jeszcze z tradycji protestanckiej, w której człowiek jest z góry przeznaczony do osiągania sukcesów jako jednostka. Najważniejsze wartości indywidualistyczne to wolność rozwoju unikalnej osobowości, wolność przedsięwzięć i wyrażania siebie. Pozycja jest zdobywana, a nie dziedziczona, prawa i obowiązki są stanowione przez prawo, ale mogą być kwestionowane.
