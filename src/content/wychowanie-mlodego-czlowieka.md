@@ -68,6 +68,8 @@ draft: false
 
 * Bajki Kwantowe: Seria 1 – Kamil Hajduk
 
+* Twoje kompetentne dziecko, Juul Jesper
+
 * https://altenberg.pl/superniania/
 
 * https://lingumi.com/

@@ -2974,6 +2974,8 @@ Na pochyłe drzewo wszystkie kozy skaczą.
 
 Nie rzucaj pereł przed świnie.
 
+Jeśli zaczniesz rzucać perły przed wieprze, stado cię zdepcze.
+
 W miłości nie ma zasad.
 
 If I can jump in.
@@ -2986,6 +2988,13 @@ Alfred Hitchcock: Napięcie rośnie do zenitu a później systematycznie rośnie
 
 “Every time you write a new code, you should do so reluctantly, under duress, because you completely exhausted all your other options.”
 - Jeff Atwood, co-founder Stack Overflow
+
+Donald Knuth: “premature optimization is the root of all evil”
+
+Suchar: Wraca Bolek do domu
+- Pralke kupiłem!
+- Ile wydałeś?
+- Czterech.
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
