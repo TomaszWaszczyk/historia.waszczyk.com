@@ -5,8 +5,14 @@ image: img/december/sojuz.jpg
 author: Tomasz Waszczyk
 date: 2018-12-01T10:00:00.000Z
 tags:
-  - Historia
+  - Charles Merrill
 ---
+
+### 2017
+
+Miliarder i człowiek wielkiego serca. Zmarł potomek założyciela Merrill Lynch
+
+Charles Merrill, filantrop i milioner, zmarł w Nowym Sączu. Miał 97 lat. Spadkobierca miliardowej fortuny żył skromnie, w czteropiętrowym bloku na jednym z nowosądeckich osiedli. Znany był jednak nie z sukcesów w biznesie, lecz z dobrego serca.
 
 ### 1980
 

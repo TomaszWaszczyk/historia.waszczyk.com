@@ -377,6 +377,10 @@ https://pl.wikipedia.org/wiki/Reforma_j%C4%99drzejewiczowska
 
 <!-- reforma edukacji -->
 
+### 1931
+
+https://pl.wikipedia.org/wiki/Jednostka_731
+
 ### 1930
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe

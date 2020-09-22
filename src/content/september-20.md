@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 20 września
-image: img/september/indeks.png
+image: img/september/wiesentahl.jpg
 author: Tomasz Waszczyk
-date: 2018-09-20T10:00:00.000Z
+date: 2019-09-20T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Bitwa nad Niemnem
+draft: false
 ---
 
 ### 2005

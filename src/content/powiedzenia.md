@@ -2996,6 +2996,12 @@ Suchar: Wraca Bolek do domu
 - Ile wydałeś?
 - Czterech.
 
+https://www.bryk.pl/wypracowania/jezyki/lacina/26320-przyslowia-lacinskie.html
+
+Zwycięzcy nie są proszeni o rachunek
+
+Najgorszy błąd jaki może popełnić tancerz jest myślenie. Taniec trzeba czuć. - Micha
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

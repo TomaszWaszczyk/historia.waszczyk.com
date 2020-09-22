@@ -1,13 +1,21 @@
 ---
 layout: post
 title: 22 września
-image: img/september/indeks.png
+image: img/september/kapitalacjalwowa.jpg
 author: Tomasz Waszczyk
-date: 2018-09-22T10:00:00.000Z
+date: 2019-09-22T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Ursula von der Leyen
+draft: false
 ---
+
+### 2020
+
+Ursula von der Leyen zaprezentowała swoją wizję Europy. To Europa traktująca suwerenne państwa narodowe jako zbędne obciążenie. Dlatego właśnie szefowa KE mówi o głosowaniu większością kwalifikowaną, o unijnej płacy minimalnej, o wprowadzeniu standardów LGBT na terenie całej UE. Jej marzeniem jest wielkie, jednolite unijne imperium, w którym to brukselskie elity, decydują o losach Europy.
+Szefowa Komisji z jednej strony wprost wywołała Polskę do tablicy, z drugiej natomiast zarysowała szerszy plan rozwoju UE.
+Jeżeli z jej wystąpienia odsączymy całe pustosłowie o jedności, sile i wytrwałości itd., to wyróżnić można trzy szczególnie istotne kwestie dla Polski: rewolucję obyczajową, kwestie ustrojowe oraz ochronę środowiska.
+Elity unijne nic nie zrozumiały z kazusu Wielkiej Brytanii, która pod wpływem zaciskania pętli po prostu zdecydowała się opuścić Unię. Jedyną receptą jaką dysponują „unijczycy” na kryzys UE jest… jeszcze więcej Unii.
+Von der Leyen powołująca się na autorytet Margaret Thatcher w swoim federacyjno-centralistycznym wystąpieniu wykazała się wprost niespotykanym wyrachowaniem.
 
 ### 2000
 

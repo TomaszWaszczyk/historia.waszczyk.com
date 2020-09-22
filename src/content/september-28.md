@@ -24,6 +24,10 @@ Obraz ma rozmiary 4, 26 m wysokości i 9,87 m długości.
 
 <img src="./img/september/obraz.jpg"/><br><br>
 
+### 480 p.n.e.
+
+https://pl.wikipedia.org/wiki/Bitwa_pod_Salamin%C4%85
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

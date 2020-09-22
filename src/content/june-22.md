@@ -94,6 +94,10 @@ Sześćdziesięcioosobowy oddział przybyły we wrześniu 1920 roku zajął poni
 
 <img src="./img/june/liganarodow.jpg"><br><br>
 
+### 1864
+
+https://pl.wikipedia.org/wiki/Hermann_Minkowski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/june-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
