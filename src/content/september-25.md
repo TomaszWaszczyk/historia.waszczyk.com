@@ -1,13 +1,38 @@
 ---
 layout: post
-title: 4 września
-image: img/september/indeks.png
+title: 25 września
+image: img/september/lotnisko.jpg
 author: Tomasz Waszczyk
-date: 2018-09-04T10:00:00.000Z
+date: 2019-09-25T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Pekin-Daxing
+draft: false
 ---
+
+### 2020
+
+Rosengren: USA grozi kryzys kredytowy
+
+Eric Rosengren, szef Fed w Bostonie alarmuje, że jesienią i zimą w USA może nastąpić wzrost liczby zajęć nieruchomości i bankructw firm w przypadku nasilenia pandemii i braku fiskalnego wsparcia, co może skutkować utrudnionym dostępem do kredytu, pisze Reuters.
+Rosengren uważa, że pod szczególną presją mogą znaleźć się mniejsze banki jeśli wzrośnie liczba opóźnionych spłat kredytów na nieruchomości komercyjne z powodu problemów firm z kontynuacją działalności.
+
+---
+
+Swiss to vote on whether to end free movement deal with EU
+
+Sunday’s referendum with echoes of Brexit proposes limits on number of foreign workers
+
+Switzerland will vote on Sunday whether to end its agreement with the EU on the free movement of people, in a referendum with echoes of the pro-Brexit campaign that led to Britain’s decision to leave the bloc.
+
+The largest party in the Swiss parliament, the rightwing, anti-immigration Swiss People’s party (SVP), has called for the vote, arguing that the country must be allowed to set its own limit on the number of foreigners coming in to work.
+
+However, polls forecast the SVP will not be successful, with one this week finding 63% of respondents opposed the party’s proposal – suggesting voters want stability at a time of economic uncertainty amid the coronavirus pandemic.
+
+Non-nationals account for roughly a quarter of Switzerland’s 8.6 million inhabitants and continuing immigration is forecast to swell the population to about 10 million over the next 30 years.
+
+“Migrants change our culture,” the SVP’s referendum campaign website says. “Public squares, trains and streets become less safe. In addition, practically half of all welfare recipients are foreigners.”
+
+The party says unemployment among Swiss nationals will inevitably rise as young foreigners are recruited to replace older Swiss workers, housing costs will increase, and schools, transport and public services will be overwhelmed.
 
 ### 2019
 
@@ -24,4 +49,4 @@ Poniższy tekst to relacja jednego ze świadków dalszego bombardowania Warszawy
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

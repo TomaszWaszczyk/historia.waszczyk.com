@@ -3,12 +3,16 @@ layout: post
 title: 24 września
 image: img/september/paga.jpg
 author: Tomasz Waszczyk
-date: 2018-09-24T10:00:00.000Z
+date: 2019-09-24T10:00:00.000Z
 tags:
   - GPW
 ---
 
-## 1954
+### 2020
+
+<img src="./img/september/zlotywiek.jpg"><br><br>
+
+### 1954
 
 <https://pl.wikipedia.org/wiki/Les%C5%82aw_Paga>
 
@@ -26,6 +30,11 @@ Jeden z anonimowych Warszawiaków tak opisywał ten dzień:
 (źródło: Mary Berg, Dziennik z getta warszawskiego)
 
 ---
+
+### 1928
+
+W kościele katolickim w Polsce wszedł w życie dekret papieża Piusa XI zmieniający treść przysięgi małżeńskiej dla kobiet. Usunięto z niej fragment zobowiązujący kobietę do posłuszeństwa mężowi. Zmiana ta miała na celu podkreślenie równości małżonków w prawach i obowiązkach.
+Poprzednia wersja brzmiała: "biorę Cię za męża i ślubuję miłować Cię i szanować (…) być wierną i ULEGŁĄ, i nie opuszczać Cię aż do śmierci”.
 
 ### 1793
 

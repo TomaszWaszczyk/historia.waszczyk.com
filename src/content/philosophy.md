@@ -270,6 +270,10 @@ Różne
 
 https://pl.wikipedia.org/wiki/Egregor
 
+https://en.wikipedia.org/wiki/Barba_non_facit_philosophum
+
+https://pl.wikipedia.org/wiki/Giorgio_Agamben
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/philosophy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
