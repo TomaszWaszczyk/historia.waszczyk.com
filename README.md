@@ -4,6 +4,8 @@ Przedwojenny 1PLN = 0.17grama XAU
 
 https://chwalazapomniana.pl/rumunia-zapomniany-sojusznik/
 
+https://www.atomcentral.com/
+
 https://www.newsweek.pl/polska/polityka/general-wojciech-jaruzelski-historia-willi-jaruzelskiego/mlg7f69
 
 https://f6862.wordpress.com/2016/06/09/zaklamana-konferencja-ipn-u-nurt-narodowy-opozycji-demokratycznej-w-prl-1955-1990/

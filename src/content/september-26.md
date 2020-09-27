@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 26 września
-image: img/september/indeks.png
+image: img/september/zatrzymania.jpg
 author: Tomasz Waszczyk
-date: 2018-09-26T10:00:00.000Z
+date: 2019-09-26T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Karpathen-Öl AG
+draft: false
 ---
 
 ### 1985
@@ -20,6 +20,18 @@ Władze komunistyczne zatrzymały uczonych z toruńskiego Uniwersytetu Mikołaja
 Decyzją Tymczasowego Rządu Jedności Narodowej, na którego czele stał Edward Osóbka Morawski pozbawiono polskiego obywatelstwa generała Władyława Andersa. Tego samego dnia ten sam rząd zadecydował takim samym wyrokiem o losie 75 innych wysokich rangą oficerów Wojska Polskiego.
 
 <img src="./img/september/morawski.jpg"/><br><br>
+
+### ~1950
+
+https://en.wikipedia.org/wiki/M65_atomic_cannon
+
+### 1913
+
+"Widziałem, jak ludzie zostali rozstrzelani, jak byli ustawieni w nocy Moje motywy nie były polityczne, były czysto humanitarne, moralne.” (...)To nie był anty-faszyzm, ani nie była odporność. Widzieliśmy od świtu do zmierzchu, tak blisko, jak mogłoby być, co się dzieje z Żydami w Borysławiu, gdy pojawi się matka trzymająca  dzieci... pada strzał, a ty sam masz dzieci, twoja reakcja musi być zupełnie inna.”
+Autorem tych słów jest urodzony 26 września 1913 roku w Zemmin w Niemczech Berthold Beitz (zdjęcie), w czasie wojny dyrektor handlowy niemieckiego przedsiębiorstwa Karpathen-Öl AG, kontrolującego produkcję naftową w Zagłębiu Drohobycko-Borysławskim, odpowiedzialny za uratowanie życia około 250 Żydom.
+W roku 1973 Instytut Yad Vashem uhonorował go medalem Sprawiedliwego Wśród Narodów Świata. W latach 1972-1988 był przewodniczącym Międzynarodowego Komitetu Olimpijskiego. Zmarł 30 lipca 2013 roku.
+
+<img src="./img/september/beitz.jpg"><br><br>
 
 ### 1878
 

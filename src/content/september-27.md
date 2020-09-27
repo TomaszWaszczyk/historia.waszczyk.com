@@ -1,15 +1,17 @@
 ---
 layout: post
 title: 27 września
-image: img/september/indeks.png
+image: img/september/europe600.png
 author: Tomasz Waszczyk
-date: 2018-09-27T10:00:00.000Z
+date: 2019-09-27T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - STOXX Europe 600 Banks
+draft: false
 ---
 
-### 
+### 2020
+
+<img src="./img/september/europe600.png"><br><br>
 
 ---
 

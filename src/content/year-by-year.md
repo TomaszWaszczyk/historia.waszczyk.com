@@ -498,6 +498,8 @@ https://pl.wikipedia.org/wiki/Tatarzy_krymscy - ZSRR wyrzuciło tatarów z Krymu
 
 https://pl.wikipedia.org/wiki/Agraryzm
 
+https://pl.wikipedia.org/wiki/Niemiecka_szko%C5%82a_historyczna
+
 ### 1847
 
 https://en.wikipedia.org/wiki/Labour_power
