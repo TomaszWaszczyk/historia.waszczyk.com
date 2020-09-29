@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 29 września
-image: img/september/indeks.png
+image: img/september/kurek.jpg
 author: Tomasz Waszczyk
-date: 2018-09-29T10:00:00.000Z
+date: 2019-09-29T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Sonda
+draft: false
 ---
 
 ### 2019
@@ -20,6 +20,19 @@ Do wypadku doszło w drodze do Fabryki Kotłów RAFAKO, gdzie miał być przygot
 Peugeot, którym jechali autorzy "Sondy" wpadł w poślizg, a następnie zderzył się czołowo z nadjeżdżającym z przeciwnej strony samochodem ciężarowym Star.
 
 <img src="./img/september/kurek.jpg"/><br><br>
+
+### 1986
+
+Dziennik Telewizyjny w dniu 29.09.1986 poinformował, że Pan Andrzej Papuziński wygrał konkurs na pracę doktorską z zakresu marksistowskich nauk społecznych.
+
+Posłuchajcie jego wypowiedzi🙈🙉
+
+Dziś jest profesorem na UKW Bydgoszcz i kształci polską młodzież.
+
+<video width="640" height="480" controls>
+  <source src="./movies/september/marksizm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 1939
 
