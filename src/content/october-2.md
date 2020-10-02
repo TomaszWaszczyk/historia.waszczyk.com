@@ -3,9 +3,8 @@ layout: post
 title: 2 października
 image: img/october/getto.jpg
 author: Tomasz Waszczyk
-date: 2018-10-02T10:00:00.000Z
+date: 2019-10-02T10:00:00.000Z
 tags:
-  - Historia
   - Polenaktion
 ---
 

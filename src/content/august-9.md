@@ -8,6 +8,10 @@ tags:
   - Rozbiory
 ---
 
+### 1990
+
+https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Orlicz
+
 ### 1945
 
 Nagasaki, 20 minut po zrzuceniu bomby Fat Man z samolotu B-29 Bockscar 9 sierpnia 1945.

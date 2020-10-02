@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 1 października
-image: img/1-08.jpeg
+image: img/october/sopot.jpg
 author: Tomasz Waszczyk
-date: 2018-10-01T10:00:00.000Z
+date: 2019-10-01T10:00:00.000Z
 tags:
-  - Historia
+  - Sopot
 ---
 
 ### 2019

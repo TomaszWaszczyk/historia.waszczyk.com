@@ -54,6 +54,12 @@ Fragment przemówienia Hansa Franka (zdjęcie), wygłoszonego 16 grudnia 1941 w 
 
 <img src="./img/december/hans-frank.jpg"/><br>
 
+### 1834
+
+https://en.wikipedia.org/wiki/L%C3%A9on_Walras
+
+General equilibrium
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

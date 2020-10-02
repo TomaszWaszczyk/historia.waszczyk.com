@@ -9,8 +9,10 @@ tags:
 draft: true  
 ---
 
-###  
+### 1955
+
+https://pl.wikipedia.org/wiki/Zdzis%C5%82aw_Krygowski
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

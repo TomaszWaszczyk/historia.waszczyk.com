@@ -40,6 +40,10 @@ Fotografia z 1929 roku:
 
 ---
 
+### 1719
+
+https://en.wikipedia.org/wiki/William_Paterson_(banker)
+
 ### 1632
 
 Wojna trzydziestoletnia: wojska szwedzkie zdobyły Wismar nad Bałtykiem, przejmując całą tzw. flotę wismarską Ligi Katolickiej, której podstawą była polska flota wojenna Zygmunta III Wazy.

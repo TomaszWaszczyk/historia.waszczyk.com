@@ -3,9 +3,9 @@ layout: post
 title: 30 września
 image: img/september/wsi.jpg
 author: Tomasz Waszczyk
-date: 2018-09-30T10:00:00.000Z
+date: 2019-09-30T10:00:00.000Z
 tags:
-  - Historia
+  - WSI
 ---
 
 ### 2006
