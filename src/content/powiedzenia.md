@@ -3006,6 +3006,15 @@ Posiadanie celu to radość.
 
 Prawdziwą siłą jest siła, która się miarkuje i prawdziwą wielkością jest wielkość, która się ogranicza.
 
+Pamiętaj o tych zasadach i raduj się ze swego obecnego położenia, i ukochaj to, co chwila bieżąca niesie. Jeżeli zobaczysz, że chociaż coś z tego, czego się nauczyłeś i co gruntownie przemyślałeś, przekuwasz w czyn, również raduj się z tego. Jeżeliś obuzdał w sobie przewrotne mniemania, (...) jeżeli te same, co dawniej sprawy nie wywierają na tobie wrażenia (...) śmiele możesz każdego dnia obchodzić uroczystość. Dzisiaj — iżeś w takim, jutro — iżeś w owakim poczynaniu spisał się pięknie”
+
+Są szpetne prawdy i piękne kłamstwa - https://pl.wikipedia.org/wiki/Roman_Suszko_(logik)
+
+Pytał głupi mądrego: na co rozum zda się?
+Mądry milczał: gdy coraz bardziej naprzykrza się,
+Rzekł mu, na to się przyda, według mego zdania,
+Żeby nie odpowiadać na głupie pytania. 
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

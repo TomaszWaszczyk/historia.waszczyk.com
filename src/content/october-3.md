@@ -3,11 +3,9 @@ layout: post
 title: 3 października
 image: img/october/mur.jpg
 author: Tomasz Waszczyk
-date: 2018-10-03T10:00:00.000Z
+date: 2019-10-03T10:00:00.000Z
 tags:
-  - Historia
-  - German
-  - Niemcy
+  - V2
 ---
 
 ### 1990
