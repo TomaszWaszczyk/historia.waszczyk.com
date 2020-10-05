@@ -1,13 +1,24 @@
 ---
 layout: post
-title: 4 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+title: 5 października
+image: img/october/debata.jpg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2019-10-05T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Złoto
+draft: false
 ---
+
+### 2020
+
+Gazeta Wyborcza
+
+✅ sukces zawdzięcza związkowi i logo Solidarności
+✅założyciele uwłaszczyli się na majątku publicznym
+✅założyciele rozdali sobie akcje i zostali milionerami
+✅ założyciele i zarząd wywalili połowę pracowników na śmieciówki
+✅ zwalnia szefa Solidarności za ostrzeżenie przed zwolnieniami 🤷‍♂️
+To jest historia polskiej transformacji w pigułce. Ta choroba neoliberalizmu promowana przez Wyborczą od 1989 roku jest po prostu ideologią władzy, która opiera się na niszczeniu związków zawodowych, prywatyzowaniu tego co wspólne i wykorzystywaniu pracowników. Wyborcza stworzyła dzisiejszą Polskę a teraz staje już zwykłą karykaturą. Trzymam kciuki za związki zawodowe w firmie, które powinny rozpocząć strajk i odebrać to co swoje. Liczę na elementarną solidarność pracowników tej koszmarnej korporacji.
 
 ### 2018
 
@@ -35,6 +46,13 @@ Zbliżała się już następna grupa. Zeszli w dół do rowu, położyli się na
 Foto: Ocaleni z Holokaustu nad masowym grobem, Dubno, 1945 r.
 
 <img src="./img/october/wolyn.jpg"/><br><br>
+
+### 1939
+
+Niemcy rozstrzelali trzydziestu ośmiu żołnierzy polskich - Obrońców Poczty Polskiej w Gdańsku- wziętych do niewoli 1 września 1939 r. Rankiem, Obrońców Poczty Polskiej przewieziono na teren ówczesnej strzelnicy na Zaspie. Tam wszyscy zostali rozstrzelani przez niemiecki pluton egzekucyjny. Stało się tak na podstawie bezprawnego wyroku wydanego przez hitlerowski sąd wojenny - wyrok ten łamał postanowienia konwencji haskiej.
+Ciała Obrońców Poczty Polskiej  odnaleziono dopiero 28 sierpnia 1991 roku. Bohaterska załoga Poczty Polskiej została  pośmiertnie odznaczona Krzyżami Virtuti Militari. W 1999 roku niemiecki wymiar sprawiedliwości uniewinnił Obrońców Poczty Polskiej, oraz przyznał ich rodzinom odszkodowania finansowe.
+
+<img src="./img/october/pocztagdansk.jpg"><br><br>
 
 ### 1937
 

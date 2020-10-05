@@ -25,6 +25,10 @@ BANK OF ENGLAND HAS SAID NEGATIVE INTEREST RATES NOW UNDER CONSIDERATION.
 
 http://xxpzhp.umcs.lublin.pl/
 
+### 1939
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_D%C4%85bek
+
 ### 1863
 
 Podczas powstania styczniowego bracia Feliks i Dominik Krasuscy ,Władysław Wnętowski i Wojciech Kunke dokonali na Krakowskim Przedmieściu w Warszawie nieudanego zamachu na carskiego naczelnika rządu cywilnego generała Fiodora Berga.

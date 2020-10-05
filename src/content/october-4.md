@@ -12,6 +12,8 @@ tags:
 
 Mija 350 lat od śmierci Rembrandta – jednego z największych mistrzów malarstwa, rysunku i grafiki XVII wieku. Muzeum Śląskie w Katowicach włącza się w międzynarodowe obchody Roku Rembrandta poprzez prezentację dwóch rycin, które znajdują się w kolekcji grafiki obcej: Ucieczki do Egiptu (1654) oraz Świętych Piotra i Jana uzdrawiającego kalekę (1659). Prezentacji rycin będzie towarzyszył wykład dr. Seweryna Kutra poświęcony twórczości graficznej holenderskiego mistrza, w trakcie którego poznamy znaczenie i przesłanie prezentowanych na rycinach scen.
 
+<img src="./img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg"><br><br>
+
 ### 1939
 
 Utworzono radziecko- niemiecką centralną komisję graniczną dla wyznaczenia granic między państwowymi interesami ZSRR i Niemiec (10 października w Moskwie rozpoczęła prace). Wojska Pograniczne NKWD otrzymały rozkaz wzięcia pod ochronę granicy państwowej (linii demarkacyjnej) 8 października 1939 roku.

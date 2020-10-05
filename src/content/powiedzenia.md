@@ -3013,7 +3013,9 @@ Są szpetne prawdy i piękne kłamstwa - https://pl.wikipedia.org/wiki/Roman_Sus
 Pytał głupi mądrego: na co rozum zda się?
 Mądry milczał: gdy coraz bardziej naprzykrza się,
 Rzekł mu, na to się przyda, według mego zdania,
-Żeby nie odpowiadać na głupie pytania. 
+Żeby nie odpowiadać na głupie pytania.
+
+Mario zawsze szedł w prawo. ;-)
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 

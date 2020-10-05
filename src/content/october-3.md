@@ -8,6 +8,14 @@ tags:
   - V2
 ---
 
+### 1996
+
+Zdjęcie wykonane dokładnie 24 lata temu, 3 października 1996 w Zakopanem w Domu Pracy Twórczej Astoria. To tam Wisława Szymborska odebrała wiadomość o otrzymaniu literackiej Nagrody Nobla. Lem patron naszej fundacji skomentował tę chwilę bardzo prosto: "Wiśce się ten Nobel po prostu należał!".
+
+Są chwile piękne. Są chwile wyjątkowe. Są też takie, których opisać się po prostu nie da. Ale trzeba o nich pamiętać! Chociażby milcząco z braku słów.
+
+<img src="./img/october/szymborska.jpeg"><br><br>
+
 ### 1990
 
 <a href="https://en.wikipedia.org/wiki/German_Unity_Day" target="_blank">Tag der Deutschen Einheit</a>

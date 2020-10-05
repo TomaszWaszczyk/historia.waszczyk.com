@@ -174,6 +174,8 @@ https://en.wikipedia.org/wiki/Deindustrialisation_by_country
 
 https://en.wikipedia.org/wiki/Protect_America_Act_of_2007
 
+https://pl.wikipedia.org/wiki/Klub_Ronina => Józef Orzeł
+
 ### 2004
 
 https://en.wikipedia.org/wiki/Electronic_benefit_transfer
@@ -485,6 +487,10 @@ https://en.wikipedia.org/wiki/Berlin_Conference
 ### 1880
 
 https://pl.wikipedia.org/wiki/Faszyzm
+
+### 1870
+
+https://pl.wikipedia.org/wiki/Wielka_przebudowa_Pary%C5%BCa_w_latach_1852%E2%80%931870
 
 ### 1863
 
