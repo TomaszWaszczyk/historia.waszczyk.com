@@ -1,13 +1,25 @@
 ---
 layout: post
-title: 4 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+title: 7 października
+image: img/october/ausweiss.jpg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2019-10-07T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Ovadia Yosef
+draft: false
 ---
+
+### 2020
+
+Kryzys zaczyna się teraz. Komitet Stabilności Finansowej ostrzega
+
+Akcja kredytowa polskich banków może zostać znacząco ograniczona - przestrzega w najnowszym opracowaniu Komitet Stabilności Finansowej. Powód? Kryzys wywołany pandemią koronawirusa.
+
+Jak informuje Komitet Stabilności Finansowej, wpływ na ewentualne ograniczenie akcji kredytowej może mieć przede wszystkim olbrzymia niepewność na rynku, spowodowana kryzysem gospodarczym i zdrowotnym.
+
+"W obecnych uwarunkowaniach - silnego spowolnienia gospodarczego w Polskiej i światowej gospodarce, napięć na rynkach finansowych oraz wzrostu ryzyka kredytowego - ryzyko nadmiernej akcji kredytowej jest bardzo niskie" - twierdzi Komitet Stabilności Finansowej w komunikacie.
+
+Autorzy opracowania widzą ryzyko przede wszystkim w sporym szoku popytowym, który dotknął polskiej gospodarki. "Popyt na usługi w niektórych branżach został drastycznie ograniczony, przekładając się na załamanie przychodów części przedsiębiorstw" - czytamy w opracowaniu.
 
 ### 2019
 
@@ -65,4 +77,4 @@ Prochy zmarłego w 1973 r. we Francji admirała i jego żony zostały w paździe
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

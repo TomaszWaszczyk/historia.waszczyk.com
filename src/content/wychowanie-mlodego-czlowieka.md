@@ -195,6 +195,8 @@ Your browser does not support the video tag.
 
 * The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
 
+* Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students
+
 * محمدعبد THE MUQADDIMAHAbd Ar Rahman bin Muhammed ibn Khaldun Translated by Franz Rosenthal
 
 * https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci

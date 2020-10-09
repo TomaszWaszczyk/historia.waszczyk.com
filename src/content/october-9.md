@@ -3,10 +3,53 @@ layout: post
 title: 9 października
 image: img/october/warsow-1944.jpg
 author: Tomasz Waszczyk
-date: 2018-10-09T10:00:00.000Z
+date: 2019-10-09T10:00:00.000Z
 tags:
-  - Historia
+  - Silver
 ---
+
+### 2020
+
+W skrócie: Rząd USA podnosi koszt zakupu "twardego dobra" jakim jest srebro.
+
+The United States Mint recently adopted a new strategy for pricing products in its silver numismatic products portfolio. Prices for products containing silver will change EFFECTIVE October 13, 2020—applicable to silver products already on sale/those yet to be released. In order for the United States Mint to cover rising costs, meet its fiduciary responsibility to operate at no net cost to taxpayers, and return money to the Treasury General Fund, re-setting silver prices is necessary. The Mint’s goal, as a financially responsible Federal agency, is to always provide the best quality numismatic products while maintaining fair prices.
+
+The first objective is to ensure that the numismatic portfolio (all product lines together) be self-sufficient and cover all associated costs. The new silver prices reflect a sound business decision aimed at meeting these obligations.
+
+(No tax dollars are used to fund numismatic operations.) The United States Mint will continue to look for operations optimization and cost reduction efforts to deliver superior quality numismatic products at a fair price.
+
+---
+
+<img src="./img/october/usd2020.jpg"><br><br>
+
+---
+
+(unknown year) Luis de Guindos counting bricks of paper notes:
+
+<img src="./img/october/luisdegundos.png"><br><br>
+
+2020:
+
+<img src="./img/october/balancesheetecb.jpeg"><br><br>
+
+---
+
+<!-- Lekarz Dawid Ciemięga
+5 października o 22:38  · 
+Podjąłem niedawno decyzje o częściowej rezygnacji z zawodu, w związku z tym mój tryb pracy się znacząco zmieni od listopada. Będę wciąż zajmować się działalnością edukacyjną, pisaniem itd
+Pracuje z pacjentami 7 lat i dziś pierwszy raz wyrzuciłem rodziców z gabinetu, otworzyłem drzwi i kazałem im wyjść. 
+Przez 5-6 lat mojej pracy zdarzały się sporadycznie nieporozumienia, ale od roku coraz częściej spotykam się nie tylko z coraz większą bezmyślnością rodziców, ale przede wszystkim skrajną nieodpowiedzialnością. I nie będę tego tolerować i nie będę brać za to odpowiedzialności. 
+Dwa lata temu nie pomyślałbym, że rodzic może świadomie ukrywać chorobę dziecka, aby dostać zgodę na treningi, które zagrażają jego życiu, a dziś to dla mnie nie jest już zaskakujące. Czasami myślę, że niektórzy lepiej jakby oddali swoje dzieci, bo chyba chcą je uśmiercić. To co się dzieje jest szokujące. 
+I chciałbym tu zaznaczyć, że to nie jest tak, jak dziś rodzicom się wydawało – mamy prawo wyboru, prawo robić co chcemy, a lekarz – którego się i tak nie słuchamy, nie ma nic do gadania i ma nam usługiwać. Otóż ma:
+Zgodnie z art. 38 u.z.l i zgodnie z art. 7 Kodeksu Etyki Lekarskiej – Lekarz może odmówić opieki nad pacjentem z istotnych powodów. 
+Powtórzę publicznie to, co powiedziałem dziś w gabinecie – jeśli ktoś stwierdzi, że będzie bez żadnego uzasadnienia rozdzielać wszystkie szczepienia i przychodzić sobie co tydzień i z jednej wizyty szczepiennej robi 5, to działa na szkodę dziecka i dodatkowo utrudnia innym dostanie się na wizytę. 
+Szczególnie w obecnej sytuacji. I takie postępowanie (rozdzielanie szczepień i mnożenie niepotrzebnie wizyt) nie ma żadnego uzasadnienia medycznego. A każdy rozsądnie myślący rodzic wie, że chodzenie bez potrzeby po przychodni jest potencjalnie szkodliwe dla dziecka. Co z resztą spokojnie wyjaśniłem miesiąc temu, zostałem zignorowany.
+Lekarz powinien wyjaśniać rodzicom takie kwestie, ale czasy są teraz takie, że coraz więcej rodziców ma totalnie gdzieś  naszą wiedzę, wykształcenie, szkolenie bo z góry deklarują, że wiedzą lepiej i nie interesuje ich to, co mówię. To nie jest tak, że ktoś przychodzi i pyta, to jest tak, że ktoś przychodzi i go już nic nie interesuje, bo wie lepiej. 
+Jeśli ktoś powołuje się na to, co ktoś pisze w internecie, albo bo jak dziś usłyszałem – „mamy w rodzinie kogoś ze służby zdrowia kto ma inne zdanie” – to proszę niech ten ktoś zajmuje się dzieckiem, niech je leczy, szczepi i ratuje. Ja nie będę brać odpowiedzialności za pacjenta, kiedy rodzice mają mnie gdzieś. Bo coraz częściej jest tak, że rodzic postępuje bezmyślnie ale chce żeby lekarz za wszystko odpowiadał, wydał zgodę, receptę itd. Ja nie będę, jeśli rodzic mnie okłamuje, ukrywa ważne kwestie albo nie słucha argumentów – w takich sytuacjach lekarz ma prawo odmówić współpracy. 
+Ja dziś zacząłem grzecznie – nie wyrażamy zgodny na takie postępowanie i jeśli Państwo chcecie tak postępować z dzieckiem, proszę zmienić przychodnie. Usłyszałem stek bezwartościowych bzdur typu – pan nam odbiera prawo do opieki medycznej, gdzie pana przysięga Hipokratesa itd. A ponieważ zdarza się to coraz częściej, to jasno podkreślam – lekarz nie jest od spełniania bezmyślnych zachcianek rodziców, bierze za pacjenta odpowiedzialność i jak się rodzic zaleceń nie słucha, to współpraca się kończy. 
+A na koniec proszę sobie dobrze zapamiętać – przynajmniej 50% problemów z dostępnością do lekarza, brakiem miejsca, wynika z bezmyślności i egoizmu innych. Naprawdę mnie już nie zdziwi jak ktoś w ramach teleporady zapyta jak się gotuje makaron. 
+I ja mówię dość. Kiedyś do tego wrócę, ale teraz nie będę opisywać co się regularnie dzieje, ale to jest po prostu szokujące. Mam dość bycia okłamywanym, ignorowanym, obrażanym, poniżanym. 
+Dość. -->
 
 ### 2019
 

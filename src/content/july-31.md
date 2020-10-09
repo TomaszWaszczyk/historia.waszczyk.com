@@ -63,6 +63,14 @@ Jeśli chodzi o tą feralną fotografię, to ujrzała ona światło dzienne dopi
 
 *Na fotografii Martwy Otto von Bismarck w swoim łóżku 31 lipca 1898 roku.
 
+Źródło: [https://okruchyhistorii.blogspot.com/](okruchyhistorii)
+
+Wiadomość do Autora [https://okruchyhistorii.blogspot.com/](okruchyhistorii): Przepraszam za skopiowanie jednego z Pańskich artykułów bez pozwolenia.
+
+Przepraszam i jednocześnie gratuluję pasji i Bloga.
+
+;-)
+
 <img src="./img/july/bismarck.jpg"><br><br>
 
 ---

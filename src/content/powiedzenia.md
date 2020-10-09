@@ -3017,6 +3017,12 @@ Rzekł mu, na to się przyda, według mego zdania,
 
 Mario zawsze szedł w prawo. ;-)
 
+Napoleon - Policzmy nasze armaty.
+
+Każdy niewolnik chce być panem niewolników.
+
+„Grupa interesów znacznie taniej i z większa korzyścią może kupić sobie korzystne dla siebie regulacje w Waszyngtonie, niż podjąć trud uczciwej konkurencji na rynku.” - William Lee Robinson
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

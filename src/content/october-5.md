@@ -14,11 +14,26 @@ draft: false
 Gazeta Wyborcza
 
 ✅ sukces zawdzięcza związkowi i logo Solidarności
+
 ✅założyciele uwłaszczyli się na majątku publicznym
+
 ✅założyciele rozdali sobie akcje i zostali milionerami
+
 ✅ założyciele i zarząd wywalili połowę pracowników na śmieciówki
+
 ✅ zwalnia szefa Solidarności za ostrzeżenie przed zwolnieniami 🤷‍♂️
+
 To jest historia polskiej transformacji w pigułce. Ta choroba neoliberalizmu promowana przez Wyborczą od 1989 roku jest po prostu ideologią władzy, która opiera się na niszczeniu związków zawodowych, prywatyzowaniu tego co wspólne i wykorzystywaniu pracowników. Wyborcza stworzyła dzisiejszą Polskę a teraz staje już zwykłą karykaturą. Trzymam kciuki za związki zawodowe w firmie, które powinny rozpocząć strajk i odebrać to co swoje. Liczę na elementarną solidarność pracowników tej koszmarnej korporacji.
+
+---
+
+Znacjonalizowany bank Pekao zaczyna osuwać się w niebezpieczną dla siebie śmieszność. Do wielu tradycyjnych już opłat dosłownie od wszystkiego dorzucił swoim klientom biznesowym teraz haracze za wysłane do nich kody autoryzacyjne SMS (20 gr. od sztuki), oraz za przelew wewnątrzbankowy z jednego rachunku na inny (1.40 PLN).
+Wiem doskonale: banki są przez rząd, NBP i KNF prześladowane. Również te znacjonalizowane. Stąd Pekao nie ma też skrupułów wobec swoich klientów. Kto dla paru złotych podejmie upierdliwy trud zmiany banku, prawda?
+Ale buractwo, to to jednak jest. I brak klasy. Bez dwóch zdań.
+
+PEKAO S.A.
+
+---
 
 ### 2018
 

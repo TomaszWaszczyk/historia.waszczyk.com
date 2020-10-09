@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 6 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+image: img/october/lawki.jpg
 author: Tomasz Waszczyk
 date: 2019-10-06T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Ławki
+draft: false
 ---
 
 ### 1939
@@ -35,6 +35,12 @@ Na Uniwersytecie Jagiellońskim rozpoczęły się liczne wykłady na wydziałach
 
 https://pl.wikipedia.org/wiki/Getto_%C5%82awkowe
 
+### 1862
+
+Władze Królestwa Polskiego zapowiedziały przeprowadzenie branki, czyli poboru do wojska na zimę 1862/1863 r. Miała ona zostać przeprowadzona na podstawie imiennych list, w odróżnieniu od wcześniejszych, które odbywał się na drodze losowania. Celem władz było wzięcie do wojska carskiego polskiej młodzieży zaangażowanej w działalność patriotyczną.
+
+<img src="./img/october/branki.jpg"><br><br>
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
