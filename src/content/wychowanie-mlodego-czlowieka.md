@@ -54,6 +54,10 @@ draft: false
 
 * Mała encyklopedia nauki, Emmanuel Chanut
 
+* Bitcoin Money, A Tale of Bitville Discovering Good Money
+
+* Renata Piątkowska "Opowiadania do chichotania" audiobook.
+
 * https://abc-ekonomii.edu.pl
 
 * https://www.nbportal.pl/wiedza/prezentacje

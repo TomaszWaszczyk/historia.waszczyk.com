@@ -3,10 +3,45 @@ layout: post
 title: 10 października
 image: img/october/MisesLibrary.jpg
 author: Tomasz Waszczyk
-date: 2018-10-10T10:00:00.000Z
+date: 2019-10-10T10:00:00.000Z
 tags:
   - Mises
 ---
+
+### 2020
+
+Public companies allocating treasury to Bitcoin; first MicroStrategy ($400m+) now Square ($50m). Beginning of a new trend?
+
+"Square believes cryptocurrency is an instrument of economic empowerment and provides a way to participate in a global monetary system, which aligns with the company’s purpose."
+
+"This investment reflects our belief that Bitcoin, as the world’s most widely-adopted cryptocurrency, is a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash. Since its inception over a decade ago, Bitcoin has emerged as a significant addition to the global financial system, with characteristics that are useful to both individuals and institutions. MicroStrategy has recognized Bitcoin as a legitimate investment asset that can be superior to cash and accordingly has made Bitcoin the principal holding in its treasury reserve strategy."
+
+---
+
+> Naukowcy: w Polsce będzie do 200 tys. zakażeń na dobę.
+
+Specjaliści z Uniwersytetu Warszawskiego wyliczyli, że przyrost zakażeń w Polsce już za miesiąc będzie dotyczyć ok. 200 tys. osób dziennie - pisze "Gazeta Wyborcza".
+
+Jak czytamy, specjaliści z Interdyscyplinarnego Centrum Modelowania Matematycznego i Komputerowego UW przeanalizowali sposób rozprzestrzeniania się koronawirusa w polskim społeczeństwie.
+
+Dr Jakub Zieliński, członek zespołu modelu epidemiologicznego, mówi w rozmowie z gazetą, że obecnie wykrywane są niemal wyłącznie przypadki objawowe. - W swoich badaniach szacujemy, że faktycznych przypadków jest ok. dziewięć razy więcej - podkreśla.
+
+Business Insider
+
+---
+
+<!-- Jakub Sieczko
+
+1. Nie znam ani jednej osoby pracującej w szpitalu, która uważa, że ministerialne statystyki dotyczące wolnych miejsc covidowych, w tym tych respiratorowych, nie są absolutną fikcją.
+2. Znam za to mnóstwo takich, które używają następujących określeń: „brak miejsc w promieniu 300 km”, „rząd ma krew na rękach”, „dzwońcie do wszystkich mediów w Polsce”, „umieramy z przeciążenia”.
+3. Naukowcy z Interdyscyplinarnego Centrum Modelowania Matematycznego i Komputerowego z Uniwersytetu Warszawskiego przeanalizowali sposób rozprzestrzeniania się wirusa SARS-CoV-2 w polskim społeczeństwie. Według nich za miesiąc faktyczny przyrost zakażeń będzie wynosił 200 tysięcy dziennie. To nie pomyłka - dziennie.
+4. Według WHO epidemia jest pod kontrolą, gdy odsetek pozytywnych testów wynosi mniej niż 5 procent. W Polsce wyniósł wczoraj 21,6.
+5. „Rząd realizuje bardzo przemyślaną strategię wyprzedzania wirusa o krok” – mówił w TVP 1 wicepremier Jarosław Gowin.
+6. Rząd nie ma i nie miał nigdy żadnej strategii. Wykonuje żenujące ruchy pozorowane. Nie ma na nich słów dostatecznie obelżywych.
+7. Lockdown natychmiast.
+8. Słucham „Dezyderaty” w pętli.
+9. Słucham „It’s The End Of The World” R.E.M. w pętli.
+10. Czuję bezsilność. -->
 
 ### 2019
 
@@ -18,6 +53,10 @@ Turecka inwazja na syryjski Kurdystan będzie miała poważne skutki międzynaro
 - bardzo wzrośnie presja na Unię Europejską, aby wzięła część odpowiedzialności za ustabilizowanie sytuacji; na szali m.in. kolejna fala - czy raczej fale - uchodźców z terenu Turcji, tych obecnych i być może przyszłych, których w razie niezadowalającej dla siebie treści i formy tego zaangażowania UE prezydent Erdogan może częściowo skierować za zachód, zamiast do syryjskiej Rożawy (znów wątek polski w tle)
 - jeśli amerykańskie wycofanie militarne z regionu okaże się trwałe - a coraz więcej wskazuje, że tak - czeka go zapewne nowa fala konfliktów i chaosu; nie zdziwiłbym się gdyby za jakiś czas odrodziło się Państwo Islamskie lub inna, nowa forma wysoce zorganizowanego terroryzmu spod znaku radykalnego islamu.
 Historia dzieje się teraz. I zaraz.
+
+### 1984
+
+https://pl.wikipedia.org/wiki/Pawie%C5%82_Durow - założył Telegram
 
 ### 1963
 

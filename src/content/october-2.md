@@ -18,6 +18,8 @@ W Warszawie zmarł Marek Edelman, jeden z założycieli Żydowskiej Organizacji 
 
 W Versoix koło Genewy zmarł Ignacy Mościcki, polityk sanacyjny, światowej sławy chemik i odkrywca. Był profesorem Politechniki Lwowskiej. Po odzyskaniu przez Polskę niepodległości zajął się wskrzeszaniem polskiego przemysłu chemicznego. Od 1922 roku był dyrektorem naczelnym Państwowej Fabryki Związków Azotowych w Chorzowie. Z inicjatywy Ignacego Mościckiego powstały Zakłady Azotowe w Tarnowie-Mościcach (jedna z najnowocześniejszych fabryk azotu na świecie). Do najważniejszych odkryć naukowym profesora Mościckiego możemy zaliczyć: odkrycie metody izolacji przewodów elektrycznych; opracowanie tzw. ,,metody Mościckiego'', czyli przemysłowej metody otrzymywania kwasu azotowego z powietrza przez syntezę tlenku azotu w łuku elektrycznym; opatentowanie metody oddzielania ropy naftowej od wody. W latach 1926-39 Ignacy Mościcki piastował urząd prezydenta RP. Polityka nie była najmocniejszą stroną Ignacego Mościckiego, ale za to wprost idealnie nadawał się do pełnienia funkcji reprezentacyjnych. Po śmierci Marszałka Piłsudskiego zorganizował tzw. ,,grupę zamkową'' i stanął na jej czele. W obliczu zbliżającej się klęski września (1939 r.) ewakuował się wraz z członkami polskiego rządu do Rumunii, gdzie został internowany. Przekazał urząd prezydenta RP na uchodźstwie Władysławowi Raczkiewiczowi. Resztę życia spędził na terenie Szwajcarii, będąc honorowym obywatelem tego państwa.
 
+<img src="./img/october/moscicki.jpg"><br><br>
+
 ---
 
 ### 1940
@@ -48,6 +50,14 @@ Pod koniec września Warszawa wystosowała ultimatum dotyczące przekazania Rzec
 Próba odbudowania zaufania miała miejsce jeszcze w czasie II wojny światowej w ramach współpracy przebywających w Londynie rządów emigracyjnych obu państw. Już w listopadzie 1939 roku pojawiła się koncepcja federacji środkowoeuropejskiej, która byłaby gwarantem stabilności i rozwoju regionu. Oba kraje wzięły również aktywny udział w bitwie o Wielką Brytanię, a lotnicy polscy i czechosłowaccy walczyli niejednokrotnie ramię w ramię. Najlepszym przykładem współpracy było zaangażowanie pilota polskiego 303. Dywizjonu Myśliwskiego Josefa Františka, który po upadku Pragi uciekł do Polski, znalazł tam azyl i angaż w Polskich Siłach Powietrznych. Czech wielokrotnie podkreślał, że czuje się Polakiem.
 11 listopada 1940 roku premierzy rządów emigracyjnych Władysław Sikorski i Edvard Beneš podpisali wspólną deklarację polsko-czechosłowacką, której fragment brzmiał: ,,Polska i Czechosłowacja, zamykając raz na zawsze okres dawnych urazów i sporów i biorąc pod uwagę wspólność podstawowych swych interesów, zdecydowane są po ukończeniu wojny wejść ze sobą, jako państwa niepodległe i suwerenne, w ściślejszy związek polityczny i gospodarczy, który stałby się podstawą nowego porządku rzeczy w Europie Środkowej i gwarancją jego trwałości". Kres współpracy położyły nieporozumienia dotyczące traktowania Związku Radzieckiego, który w opinii Polaków występował jako sojusznik III Rzeszy, agresor i okupant terytorium polskiego. We wrześniu 1939 roku wojska Armii Czerwonej zaatakowały bowiem terytorium Polski. Mimo prób wspólnego działania na forum Mieszanego Komitetu Koordynacyjnego koncepcje obu krajów rozmijały się. Ich zapatrywania nie miały jednak większego znaczenia wobec dominacji ZSRR w regionie. Wojska Armii Czerwonej w 1944 i 1945 roku wyzwoliły terytorium Polski i Czechosłowacji, a Moskwa zainstalowała tam marionetkowe komunistyczne rządy (w Polsce już 1945 roku, w Czechosłowacji po udanym przewrocie politycznym w 1948 roku), które ostatecznie zostały uznane przez mocarstwa zachodnie.
 Trudne sąsiedztwo polsko-czeskie było naznaczone przede wszystkim konfliktami granicznymi. Mimo podobnej sytuacji obu krajów projekt ścisłej współpracy upadł pod naciskiem politycznego pragmatyzmu i rozmijających się wizji odbudowy państwowości. Przez lata Polskę i Czechy łączyła także obecność w radzieckiej strefie wpływów i zniewolenie ze strony Sowietów. Ostateczne pojednanie było efektem wspólnej drogi przebytej od komunistycznej dyktatury do wolności w duchu zjednoczenia i demokratyzacji.
+
+---
+
+### 1924
+
+Ówczesny minister przemysłu i handlu Józef Kiedroń (zdjęcie ) otworzył w Katowicach Wystawę Automobili Bezwypadkowych.
+
+<img src="./img/october/kiedron.jpg"><br><br>
 
 ---
 

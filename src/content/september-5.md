@@ -14,6 +14,12 @@ draft: false
 "Bitcoin is a remarkable cryptographic achievement, and the ability to create something that is not duplicable in the digital world has enormous value"
 —Eric Schmidt, CEO of Google
 
+---
+
+Stefanik: Największa afera szpiegowska od lat. Francuski oficer NATO współpracował z rosyjskim GRU
+
+---
+
 ### 1990
 
 Komisja Krajowa NSZZ "Solidarność" odebrała Gazecie Wyborczej prawo do posługiwania się na stronie tytułowej logiem Solidarności oraz hasłem "Nie ma wolności bez Solidarności". Decyzję tę motywowano tym, iż GW jest wydawnictwem, które dyskredytuje i ośmiesza przewodniczącego Solidarności Lecha Wałęsę.

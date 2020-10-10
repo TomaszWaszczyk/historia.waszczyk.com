@@ -60,7 +60,7 @@ Walka, poświęcenie życia za ojczyznę - są czasem konieczne i zawsze godne n
 Obyśmy nigdy więcej nie opierali polityki państwa na takich złudzeniach jak nasi przodkowie i dzisiejsi Kurdowie.
 Na zdjęciach cywile uciekający z bombardowanych przez Turków kurdyjskich miast. Publikuję je w ślad za tweetem red. Jarosława Kociszewskiego.
 
-<img src="./img/march/kurdowie.jpg"/><br><br>
+<img src="./img/october/kurdowie.jpg"/><br><br>
 
 Szyszko Szyszką, wybory wyborami, ale jest sprawa naprawdę ważniejsza. Dosłownie kilka godzin temu turecka armia przypuściła atak na tereny północnej Syrii.
 Znajdują się one obecnie pod administracją Kurdów związanych z partią polityczną o nazwie PYD (Partia Unii Demokratycznej - to jej barwy mam na profilowym) i są określane jako Rożawa. To właśnie Rożawa, rękami swoich żołnierzy z Powszechnych Jednostek Ochrony (YPG) i żołnierek z Kobiecych Jednostek Ochrony (YPJ), ma zasługę dla całego świata, gdyż pokonała Państwo Islamskie (ISIS). Nie bez pomocy, ale bez tych dzielnych ludzi i ich poświęcenia ISIS miałoby się świetnie do tej pory.
