@@ -1,12 +1,45 @@
 ---
 layout: post
 title: 11 października
-image: img/1-08.jpeg
+image: img/october/gierkowa.jpg
 author: Tomasz Waszczyk
-date: 2018-10-11T10:00:00.000Z
+date: 2019-10-11T10:00:00.000Z
 tags:
-  - Historia
+  - Gierek
 ---
+
+### 2020
+
+<!-- Jesteśmy w trakcie zbiorowego szaleństwa. Ludzie odlecieli i zatracili zupełnie zdolność do krytycznego myślenia. Uznani naukowcy, dziennikarze, nie mówiąc już o politykach i osobowościach twitterowych, walą absurdalnymi, na ogół czysto emocjonalnymi argumentami jak cepem, bez odrobiny refleksji i bez pokory względem skomplikowania otaczającego nas świata.
+Ekscytowanie się codziennymi danymi o liczbie testów pozytywnych świadczy o totalnym ogłupieniu komentatorów. Od samego początku było najzupełniej oczywiste, że testy wykrywały tylko jakąś część osób zakażonych. Skoro zdecydowana większość zakażonych nie wykazuje żadnych objawów, nie ma powodu, by uważać, że liczba testów pozytywnych jest choćby zbliżona do prawdziwego poziomu zakażeń. Obecnie, gdy kilkanaście procent testów jest pozytywnych, prawdopodobnie nie zgadza się już nawet rząd wielkości faktycznie zakażonych. Mimo to, codziennie rano nowa liczba podawana przez Ministerstwo Zdrowia jest najważniejszą informacją dnia. Następnie sumuje się wyniki i podaje liczbę chorych od początku pojawienia się koronawirusa w Polsce, która to liczba również nie ma żadnego znaczenia. Istotne są dane o całkowitej śmiertelności, o śmiertelności z powodu wirusa i o miejscach w szpitalach.   
+Całkowita śmiertelność w Polsce, póki co, jest w normie. Jeżeli spojrzymy na wykres śmiertelności, nic się na nim nie dzieje. W Polsce codziennie umiera średnio 1100 osób. Ponad 70% z tej liczby to nowotwory i choroby układu krążenia. Nawet dziesiątki zgonów na wirusa dziennie byłyby mało istotne w porównaniu do wszystkich zgonów. I tu wchodzimy w bardzo ważny aspekt tej wojny z wirusem. W wyniku nakręcenia histerii doszło do drastycznego (o kilkadziesiąt procent) spadku wykrywania nowotworów, chorób serca i udarów. Jeżeli odłożymy na bok myślenie magiczne, według którego histeria koronawirusowa ograniczyła pojawienie się nowotworów, jak na dłoni widać, że znacząco zwiększymy śmiertelność z powodu nowotworów w następnych latach. Nie bez powodu lekarze od lat mówią o absolutnie kluczowym czynniku - jak najwcześniejszej diagnozie. Teraz, z powodu strachu, tej diagnozy nie ma.  
+Na kwarantannie siedzi już 230 tysięcy osób i liczba ta bardzo szybko rośnie. I znowu. Jest zupełnie oczywiste, że nie wysyłamy na kwarantannę wszystkich, którzy zetknęli się z osobami mającymi test pozytywny. Tym bardziej nie wysyłamy na kwarantannę osób, które zetknęły się z zakażonymi wirusem a którym nie przeprowadzono testu. W związku z tym na kwarantannie siedzi mały ułamek osób, które powinny tam siedzieć, aby ten masowy areszt miał jakikolwiek sens. Przebywanie na kwarantannie w istocie nie świadczy o tym, że ma się ponadprzeciętną szansę zachorowania, a o tym, że ma się ponadprzeciętnego pecha. 
+Wzrost zakażeń nie ma prawa zatrzymać się w inny niż naturalny sposób, jeżeli odrzucimy totalny, wręcz chiński lockdown. Nie można powstrzymać kolejnych zakażeń, tak samo jak nie mogliśmy do tej pory powstrzymać corocznych nawrotów grypy. Nie tylko w Polsce. W Europie również. Jedyne co można zrobić, to udoskonalać leki i procedury leczenia oraz dostosować zdolność systemu ochrony zdrowia do obecnych potrzeb. Dlatego nie ma sensu oceniać skuteczności państw przez pryzmat liczby zakażeń. Trzeba patrzeć na śmiertelność, a ta, póki co, na Zachodzie jesienią jest niziutka. U nas szybko rośnie. Przygotowaniami na jesień trzeba było zająć się wiosną. Niestety jak to zwykle bywa w naszym państwie z dykty, reformowanym trytytkami, nic w tym kierunku nie zrobiono. Ważniejsze były wybory, rekonstrukcja rządu i napawanie się, jak to świat nam wszystkiego zazdrości. 
+Premier Mateusz Morawiecki w okresie wyborczym robił z siebie pajaca, publicznie przekonując osoby starsze, że wirus został pokonany i jest już zupełnie niegroźny. Oznacza to, że świadomie kłamał lub naprawdę w to wierzył. Pierwsza alternatywa by w ogóle nie dziwiła, druga tłumaczy zupełny brak przygotowań do jesiennej fali zachorowań. 
+Właśnie, grypa. Równie mocno wielu ludzi przywiązało się do innej absolutnie niewiarygodnej danej - do liczby zgonów spowodowanych grypą. Według oficjalnych danych w Polsce umiera co roku na grypę około 100 osób. Czasem jest to 60, a czasem 140. Tymczasem w przeliczeniu na liczbę ludności, w innych państwach zgonów jest 100 razy więcej. Dlaczego? Ponieważ w Polsce lekarze nie podają grypy jako przyczyny zgonu. Co zresztą sami przyznają w wielu wywiadach. W zależności od roku zgonów na grypę jest więc w Polsce pomiędzy 6 a 14 tysięcy. I nie powoduje to corocznej histerii połączonej z dewastowaniem gospodarki, terroryzowaniem ludności, niszczeniem porządku prawnego, szkolnictwa, zamykaniem szpitali przed chorymi, masowym testowaniem i podawaniem na czerwonym pasku w telewizji liczby testów pozytywnych.
+Gdy mówię o tym co powyżej, gdy mówię o nieznanych jeszcze, długoterminowych skutkach walki z wirusem, w obszarze szkolnictwa, relacji społecznych, dzietności, porządku prawnego, wykrywania nowotworów, obniżenia odporności, to druga strona dostaje histerii i z absolutnym przekonaniem o swojej własnej moralnej wyższości, z góry wyzywa mnie od nieodpowiedzialnych osób, które nie doceniają powagi sytuacji, gardzą czyimś życiem i epatują własnym egoizmem. W takich warunkach, przy tak wysokim poziomie emocji, debata na argumenty jest niemożliwa. I to jest jeden z największych problemów. W nauce stawia się tezy, próbuje ich dowodzić, inni próbują je falsyfikować, a cały proces zbliża nas do prawdy. Obecnie nic takiego się nie dzieje. 
+Osobiście najchętniej przesiedziałbym cicho następne miesiące, mając świadomość, że większość ludzi jest w tym momencie zupełnie niezdolna do przyjęcia argumentów. Niestety czuję, że mam moralny obowiązek zabierania głosu. Obowiązek ten mają też lekarze, publicyści i ludzie nauki. Niestety nieliczni ten obowiązek wypełniają. Wymienię tu Rafała Ziemkiewicza, Łukasza Warzechę, Rafała Otokę-Frąckiewicza, czy lekarza Pawła Basiukiewicza. Oni walczą o prawdę, o powrót rozumu i o zakończenie tej histerii. Niestety na razie są to głosy wołające na puszczy. Jeżeli ich nie wesprzemy, to długo się tu nic nie zmieni. -->
+
+### 1991
+
+Miała miejsce premiera filmu "Kroll" w reżyserii Władysława Pasikowskiego. Był to debiut reżyserski tego znanego dziś twórcy.
+"Kroll" to trzymająca w napięciu opowieść losach dezertera Marcina Krolla (Olaf Lubaszenko), którego ucieczka z jednostki zbiegła się w czasie z samobójstwem jednego z dręczonych przez kaprala Wiadernego (Cezary Pazura). Dowództwo jednostki, chcące uniknąć problemów wysyła w celu odnalezienia uciekiniera porucznika Arka (Bogusław Linda). W trakcie poszukiwań okazuje się, że Kroll ma wiele problemów osobistych.
+Film ten jest doskonałym studium ludzkich charakterów oraz typów zachowań w sytuacji ciągłego napięcia.
+"Kroll" zgromadził w kinach polskich około 450 tys. widzów. Był także hitem kasowym w wypożyczalniach kaset wideo.
+Na zdjęciu Bogusław Linda i Maciej Kozłowski.
+
+<img src="./img/october/kroll.jpg"><br><br>
+
+### 1966
+
+W Będzinie została zamordowana Jolanta Gierek -18 letnia bratanica ówczesnego ówczesnego I sekretarza Komitetu Wojewódzkiego Polskiej Zjednoczonej Partii Robotniczej.   Edwarda Gierka.
+Zwłoki kobiety znalezione zostały w rzece Przemszy.
+Jednym  267 podejrzanych o dokonanie tego mordu był seryjny morderca Zdzisław Marchwicki, który miał do tego czasu na swoim koncie 16 podobnych czynów.
+W pomoc w schwytaniu zaangażował się sam Edward Gierek. Za pomoc w wskazaniu mordercy wyznaczono niebotyczną jak na owe czasy kwotę miliona złotych. Przyniosło to skutek w postaci wielu donosów. Wkrótce też milicja stworzyła model hipotetyczny zawierający 483 cechy fizyczne i psychiczne, które miał posiadać Wampir. Nie bez znaczenia pozostawał wątek polityczny, gdyż jedna z ofiar Jadwiga Zygmunt z Sosnowca została zamordowana w 20 rocznicę wejścia w życie Manifestu PKWN, a wyłowiona z Przemszy ofiara nosiła to samo nazwisko, co katowicki dygnitarz partyjny.
+Marchwicki został schwytany 6 stycznia 1972 roku w Dąbrowie Górniczej, po donosie żony, która złożyła zawiadomienie do Milicji Obywatelskiej o znęcaniu się nad nią i dziećmi. Jego proces rozpoczął się 18 września 1974 roku  w Klubie Fabrycznym Zakładów Cynkowych „Silesia” w Katowicach.
+Brak twardych dowodów nie przeszkodził sędziemu Władysławowi Ochmanowi w skazaniu Wampira na karę śmierci. Udowodniono mu zabójstwa 14 kobiet i usiłowanie zabójstwa kolejnych 6. Wyrok wykonano w garażu aresztu śledczego w Katowicach 29 kwietnia 1977 roku.
+
+<img src="./img/october/gierkowa.jpg"><br><br>
 
 ### 1962
 
@@ -240,6 +273,15 @@ Ostatnie wydanie ukazało się w styczniu 1945 roku.
 ---
 
 <https://pl.wikipedia.org/wiki/Sobór_watykański_II>
+
+---
+
+### 1916
+
+W Małomierzycach koło Iłży przyszedł na świat Antoni Heda ps. „Szary”, generał brygady Wojska Polskiego;  dowódca Armii Krajowej, oraz wybitny dowódca powojennego podziemia antykomunistycznego. Kierował m.in. akcją rozbicia niemieckiego więzienia w Starachowicach oraz akcją uwolnienia kilkuset żołnierzy Armii Krajowej z więzienia UB w Kielcach. W okresie stalinowskim wieloletni więzień polityczny, działacz ,,Solidarności'' internowany w stanie wojennym.
+Zmarł 14 lutego 2008 roku.
+
+<img src="./img/october/szary.jpg"><br><br>
 
 ---
 

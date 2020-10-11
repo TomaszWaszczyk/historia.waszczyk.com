@@ -15,6 +15,16 @@ WSI liczyły 10 tys. współpracowników w kraju i za granicą, z czego ponad 2,
 
 <img src="./img/september/wsi.jpg"/><br><br>
 
+### 1994
+
+Na poligonie w Drawsku podczas odbywającego się tam centralnego kursu metodyczno-szkoleniowego najwyższej kadry dowódczej Sił Zbrojnych RP, ówczesny prezydent Lech Wałęsa skrytykował cywilne kierownictwo Ministerstwa Obrony Narodowej, na czele którego stał emerytowany admirał Marynarki Wojennej Piotr Kołodziejczyk. Podczas spotkania, które miało miejsce wojskowym ośrodku wypoczynkowym w pałacu Brockhausenów w Karwicach nad jeziorem Lubie Wałęsa poddał również ostrej krytyce działania Sejmowej Komisji Obrony.
+Poproszeni o szczere wypowiedzi na temat sytuacji w wojsku generałowie zarzucili winę za złą sytuację w armii szefostwo Ministra Obrony Narodowej. Wobec zaistniałej sytuacji, Wałęsa zarządził głosowanie w sprawie odwołania Kołodziejczyka z funkcji ministra obrony narodowej. Z wszystkich obecnych generałów tylko dwóch wstrzymało się od głosu.
+Sprawa miała swój dalszy ciąg 12 października 1994 roku, kiedy Kołodziejczyk oskarżył prezydenta Lecha Wałęsę i szefa sztabu gen. Tadeusza Wileckiego o próbę pozakonstytucyjnego odwołania ze stanowiska podczas obiadu drawskiego. Miesiąc później ówczesny premier Waldemar Pawlak, ulegając naciskom Wałęsy i generalicji odwołał Kołodziejczyka.
+Cała sprawa ujrzała światło dzienne dzięki "przeciekowi" z Wojskowych Służb Informacyjnych.
+W spotkaniu udział wzięli między innymi minister Mieczysław Wachowski, Szef SG WP gen. Wilecki, dowódcy rodzajów sił zbrojnych i okręgów wojskowych: Edmund Bołociuch, Zbigniew Zalewski, Leon Komornicki, Jerzy Gotowała, Romuald Waga, Janusz Ornatowski, Tadeusz Bazydło, Julian Lewiński i Zenon Bryk oraz biskup polowy WP gen. Sławoj Leszek Głódź.
+
+<img src="./img/september/drawskobolek.jpg"><br><br>
+
 ### 1989
 
 Stanley Druckenmiller lub jak to kto woli "Geniusz z Pittsburgha". Obok Georga Sorosa jedna z największych legend spekulacji. Gdyby Stan był Polską to Trading Jam na jego mapie mógłby się lokalizować pomiędzy Radomiem, a Sosnowcem i naprawdę nikt tutaj nie przesadza.
@@ -37,6 +47,33 @@ W Ostrowcu Świętokrzyskim Niemcy zamordowali 30 mieszkańców tego miasta. Egz
 Jednym z zamordowanych był 50-letni Wojska Polskiego, mjr Straży Granicznej, żołnierz ZWZ-AK Leon Braziulewicz (zdjęcie).
 
 <img src="./img/september/braziulewicz.jpg"/><br><br>
+
+---
+
+W pierwszym numerze konspiracyjnego periodyku marksistowskiego "Przełom" ukazał się poemat "Sen nocy zimowej" autorstwa Mieczysława Jastruna (zdjęcie), poprzedzony takim oto wstępem.
+
+"Kiedy wśród ruin stolicy snują się żywi, jak niestrudzone mrówki, pragnący zasklepić wyłomy w swych domostwach, kiedy w kabaretach i teatrzykach rozlega się śmiech tych, którzy tańczyć mogą nawet na grobie Ojczyzny-w Łazienkach co noc zbierają się duchy belwederczyków, duchy tych wszystkich, którzy polegli wierząc, że ich ciała są szczeblem do niepodległości. Co noc wpadają podchorążowie w bramy Belwederu z okrzykiem "Polacy, do broni!" Niebo odbija słaby odblask łuny nad Solcem, głucho dudni ziemia od wystrzałów Grochowa, słuchać skrzypienie kół ciągnionych w dali taborów. Sen duchów splata się z jawą żywych, nie widzących rozgrywającego się dramatu...Aż kiedyś ujrzą to powtarzające się misterium wszyscy. Żywi usłyszą dzwon alarmowy, a okrzyk "Do broni"! przeleci Alejami i Nowym Światem-iskrą obiegnie Polskę całą"
+
+<img src="./img/september/przelom.jpg"><br><br>
+
+---
+
+### 1939
+
+W Kurierze Porannym prezydent Warszawy Stefan Starzyński (zdjęcie) potwierdził ważność zarządzenia w sprawie nauki w szkołach wydanego przez niemieckie władze okupacyjne. Dokument ten zawierał zapis o obowiązku powrotu do swoich miejsc pracy wszystkich obywateli polskich zatrudnionych przed wybuchem wojny w instytucjach publicznych i oświatowych.
+
+<img src="./img/september/starzynski.jpg"><br><br>
+
+---
+
+### 1938
+
+Minister spraw zagranicznych Józef Beck wystosował do władz Czechosłowacji dwugodzinne ultimatum z żądaniem zwrotu Zaolzia. Władze polskie wykorzystały fakt, iż tego samego dnia w Monachium odbywało się spotkanie przedstawicieli władz Wielkiej Brytanii, Francji, Włoch i Niemiec, którzy podpisali układ pozbawiający Czechosłowację części jej terytorium. Prezydent Benesz przystał na polskie żądania, ale bez sprecyzowania konkretnych warunków. Dwa dni później Wojsko Polskie zajęło 862 kilometry kwadratowe terenu Zaolzia.
+Zajęcie Zaolzia - wkroczenie wojsk polskich do Karwiny. 1938 r. Fot. NAC
+
+<img src="./img/september/beckzaolzie.jpg"><br><br>
+
+---
 
 ### 1655
 
