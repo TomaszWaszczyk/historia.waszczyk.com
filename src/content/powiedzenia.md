@@ -3023,6 +3023,14 @@ Każdy niewolnik chce być panem niewolników.
 
 „Grupa interesów znacznie taniej i z większa korzyścią może kupić sobie korzystne dla siebie regulacje w Waszyngtonie, niż podjąć trud uczciwej konkurencji na rynku.” - William Lee Robinson
 
+Socjalizm jest to ustrój, w którym bohatersko pokonuje się trudności nieznane w żadnym innym ustroju!
+
+https://pl.wikiquote.org/wiki/Stefan_Kisielewski
+
+Jak władze obiecuje że zabierze to zabierze. Jak obiecuje, że da, to obiecuje.
+
+Konfucjusz stwierdził, że w państwie rządzonym dobrze wstyd być biednym. W państwie rządzonym źle - wstyd być bogatym.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

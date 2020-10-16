@@ -5,8 +5,15 @@ image: img/october/ws-1907.png
 author: Tomasz Waszczyk
 date: 2018-10-14T10:00:00.000Z
 tags:
-  - Historia
+  - Bundesbank
 ---
+
+### 2020
+
+Bundesbank wzywa banki do przygotowania się na falę niewypłacalności
+
+Bank centralny Niemiec wezwał krajowe banki, aby przygotowały się na wzrost niewypłacalności firm do nawet 6 tys. kwartalnie, informuje Reuters.
+Wyliczył, że upadłości firm mogą wzrosnąć o 35 proc. do marca i wynosić ponad 6 tys. kwartalnie, czyli wrócą do skali nie widzianej od 2013 roku. Bundesbank spodziewa się głównie wzrostu niewypłacalności firm przemysłowych, a mniej działających w usługach, czy budownictwie. Wskazuje, że banki nie odczują mocno krachu branży HoReCa (popularne określenie sektora hotelarskiego i gastronomicznego-moje), najmocniej doświadczonej przez pandemię, bo jej kredyty stanowią mniej niż 2 proc. w portfelach banków. Bundesbank wskazuje, że pandemia może oznaczać problem dla przeżywającego w minionych latach boom niemieckiego rynku nieruchomości.
 
 ### 1944
 
@@ -53,9 +60,15 @@ A teraz najlepsze. 14 października 2006 roku ówczesny tak uwielbiany przez pol
 
 The Panic of 1907 was the first worldwide financial crisis of the twentieth century. It transformed a recession into a contraction surpassed in severity only by the Great Depression.1 The panic’s impact is still felt today because it spurred the monetary reform movement that led to the establishment of the Federal Reserve System. Moen and Tallman (1999) argued that the experience of the Panic of 1907 changed how New York Clearing House bankers perceived the value of a central bank because the panic took hold mainly among trust companies, institutions outside their membership.
 
+### 1793
+
+Sejm Grodzieński zwany także "niemą sesją" przyjął "jednogłośnie" pod presją wywartą przez carycę Katarzynę II projekt wieczystego sojuszu polsko -rosyjskiego. Autorką tego projektu była sama caryca. Obradujący na zamku w Grodnie sejm pod przewodnictwem marszałka Stanisława Kostki Bielińskiego i w "towarzystwie" rosyjskiej artylerii został w ten sposób całkowicie upokorzony, tym bardziej,że oficjalnie sojusz ten był dokonany na "prośbę narodu polskiego".
+
+<img src="./img/october/sesjaniema.jpg"><br><br>
+
 ### 1773
 
-1773 roku na wniosek króla Stanisława Augusta Poniatowskiego powołano Komisję Edukacji Narodowej-pierwszy organ oświatowy w Polsce. K.E.N była alternatywą dla obowiązującego w ówczesnej Polsce szkolnictwa opartego głównie na szkołach prowadzonych przez Jezuitów, których bardzo konserwatywny system szkolenia nakierowany był głównie na teologię co sprawiało,że inne przedmioty, głównie ścisłe spychane były na dalszy plan. K.E.N miała to zmienić.
+Na wniosek króla Stanisława Augusta Poniatowskiego powołano Komisję Edukacji Narodowej-pierwszy organ oświatowy w Polsce. K.E.N była alternatywą dla obowiązującego w ówczesnej Polsce szkolnictwa opartego głównie na szkołach prowadzonych przez Jezuitów, których bardzo konserwatywny system szkolenia nakierowany był głównie na teologię co sprawiało,że inne przedmioty, głównie ścisłe spychane były na dalszy plan. K.E.N miała to zmienić.
 Pierwotny skład Komisji Edukacji Narodowej wynosił 8 osób czyli 4 posłów i 4 senatorów Rzeczypospolitej i Wielkiego Księstwa Litewskiego. Pierwszym prezesem został biskup wileński Ignacy Massalski, który to stanowisko traktował bardziej jak prywatny interes,co sprawiło, że dopuścił się wielu nadużyć,w skutek czego po 3 latach przewodzenia K.E.N został usunięty z tego stanowiska. Najbardziej
 zasłużonymi, oficjalnymi członkami byli
 posłowie wywodzący się z magnackich rodzin

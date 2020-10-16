@@ -11,7 +11,16 @@ draft: false
 
 ### 2020
 
-> Dostałam od znajomej studentki z Kielc, uczelnia chce  wrzucić studentów na wolontariat w szpitalu zamiast zajęć.  Póki co nie wiadomo nic więcej, o całej sytuacji dowiadują się z prasy i Radia. Nie wiadomo też, czy ma to dotyczyć wszystkich obligatoryjnie, czy tylko tych  chętnych.
+The Nobel prize in economics rewards advances in auction theory
+
+For the third time since 2007, it goes to designers of market mechanisms
+ALVIN ROTH, who in 2012 would share the Nobel prize in economics, he wrote, “the real test of our success will be not merely how well we understand the general principles which govern economic interactions, but how well we can bring this knowledge to bear on practical questions of microeconomic engineering.”
+On October 12th it gave this year’s prize to Paul Milgrom and Robert Wilson, both of Stanford University, for their work on auction theory and design. Their work epitomises economics as engineering.
+Auctions are an ancient mechanism for selling valuable commodities, from fine art to a fisherman’s catch to government bonds. Historically, a few forms of auction have been dominant. In an English auction, ascending bids are made until a sole winner remains; in the Dutch variety, a high opening price is set and is slowly reduced until a bidder is found.
+
+---
+
+> Dostałam od znajomej studentki z Kielc, uczelnia chce wrzucić studentów na wolontariat w szpitalu zamiast zajęć. Póki co nie wiadomo nic więcej, o całej sytuacji dowiadują się z prasy i Radia. Nie wiadomo też, czy ma to dotyczyć wszystkich obligatoryjnie, czy tylko tych chętnych.
 
 <img src="./img/october/gluszek.jpeg"><br><br>
 

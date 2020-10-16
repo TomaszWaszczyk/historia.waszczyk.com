@@ -5,11 +5,17 @@ image: img/april/donotworry.png
 author: Tomasz Waszczyk
 date: 2019-04-16T10:00:00.000Z
 tags:
-  - 
+  - Niedzielski
 draft: false
 ---
 
 ### 2020
+
+> Mało zaangażowani i strachliwi lekarze. Według Jacka Sasina to przez nich są problemy w walce z pandemią
+
+> Minister A. Niedzielski: "Pracujemy nad stworzeniem tzw. klauzuli dobrego samarytanina, która pozwoli lekarzom poczuć się bezpiecznie i w ramach walki z COVID-19 błędy, które będą popełniane nieumyślnie, nie będą karane."
+
+---
 
 Polskie dane to ściema, pokazują ok 5%prawdy .
 SANEPID UTRUDNIA LEKARZOM POBIERANIE BADAŃ, ŻEBY POBRAĆ BADANIE TRZEBA MIEĆ ZGODĘ DYREKCJI.... TO JEST JAKIŚ ŻART !!! Na wyniki czeka się kilka dni.
@@ -104,6 +110,13 @@ Dzisiaj żadna ze spółek, która notowana była na pierwszej sesji, nie jest j
 
 <img src="./img/april/gpw.jpg"><br><br>
 
+### 1977
+
+Telewizja Polska rozpoczęła emisję serialu wojennego Polskie drogi - w reżyserii Janusza Morgensterna. Akcja rozgrywa się w latach 1939-43 i skupia się ona na losach podchorążego Władysława Niwińskiego, w którego rolę wcielił się Karol Strasburger, oraz kaprala Leona Kurasia - w tej roli Kazimierz Kaczor. Polskie drogi to jeden z najpopularniejszych polskich seriali telewizyjnych wielki portret Polski Walczącej z okresu okupacji hitlerowskiej.
+Na przykładzie losów głównych bohaterów przedstawia się wielowątkową opowieść o Polsce i Polakach znajdujących się pod okupacją hitlerowską. W serialu ukazane są takie tragiczne wątki z naszej historii jak budowa obozu koncentracyjnego w Oświęcimiu, aresztowanie profesorów w Krakowie, pacyfikacja i wysiedlenie mieszkańców Zamojszczyzny oraz powstanie w getcie warszawskim. Wspaniałe role Karola Strasburgera, Kazimierza Kaczora, Włodzimierza Boruńskiego (prywatnie brata stryjecznego Juliana Tuwima) i Henryka Talara.
+
+<img src="./img/october/polskiedrogi.jpg"><br><br>
+
 ### 1952
 
 Po sfingowanym procesie opartym na wymuszonych i fałszywych zeznaniach byłych podwładnych został skazany na karę śmierci generał August Emil Fieldorf "Nil".
@@ -143,6 +156,10 @@ Ciekawostką jest fakt, że głównym inspiratorem włączenia do śledztwa insp
 Jeszcze tego samego dnia Niemiecki Czerwony Krzyż otrzymał odpowiedź od prezydenta MCK Maxa Haubera, który stwierdził, że udział ekspertów MKCK w pracach ekshumacyjnych w Katyniu będzie możliwy jedynie wtedy, kiedy z wnioskiem zwrócą się wszystkie zainteresowane strony. Dzień później reprezentujący w Genewie Polski Czerwony Krzyż Stanisław Radziwiłł złożył w MCK oficjalną notę Rządu RP w Londynie zawierającą żądanie powierzenia neutralnej komisji zbadanie sprawy śmierci polskich oficerów w Katyniu.
 
 <img src="./img/april/katyn2.jpg"><br><br>
+
+### 1871
+
+https://pl.wikipedia.org/wiki/Kaiserliche_Marine
 
 ### 1746
 

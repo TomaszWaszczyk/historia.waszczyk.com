@@ -1,12 +1,25 @@
 ---
 layout: post
-title: 4 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+title: 16 października
+image: img/october/piotrnowak.jpeg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2019-10-16T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - GetBack
+draft: false
+---
+
+### 2020
+
+<img src="./img/october/piotrnowak.jpeg"><br><br>
+
+---
+
+RMF FM: prokuratura zabezpieczyła część majątku Czarneckiego
+
+W związku z prowadzonym śledztwem ws. afery GetBack, prokuratura zabezpieczyła znaczny majątek miliardera Leszka Czarneckiego, donosi nieoficjalnie radio RMF FM.
+Na swojej stronie internetowej stacja napisała, że „…prokuratorzy nie chcą mówić o szczegółach. Jedyne, co usłyszeliśmy, to "kwota jest niebagatelna, robi wrażenie, jednak jest niższa, niż suma szkody wyrządzonej klientom banku".
+
 ---
 
 ### 1992
@@ -89,9 +102,13 @@ I zbawi świat;
 Wnętrze kościołów on powymiata, 
 Oczyści sień, 
 Boga pokaże w twórczości świata, 
-Jasno jak dzień. 
+Jasno jak dzień.
+
 --- Juliusz Słowacki, Słowiański papież, 1848 r.
-16 października 1978 roku, najdostojniejsi kardynałowie, podczas ósmego głosowania konklawe dokonali wyboru nowego Biskupa Rzymu. Został nim 58-letni Polak - kardynał Karol Wojtyła, który przyjął imię Jan Paweł II. Na 111 głosów otrzymał aż 103 głosy poparcia.
+
+---
+
+Najdostojniejsi kardynałowie, podczas ósmego głosowania konklawe dokonali wyboru nowego Biskupa Rzymu. Został nim 58-letni Polak - kardynał Karol Wojtyła, który przyjął imię Jan Paweł II. Na 111 głosów otrzymał aż 103 głosy poparcia.
 Był on pierwszym od 1522 r. papieżem, który nie pochodził z Włoch. Ponadto był pierwszym w historii ,,słowiańskim papieżem''. Emotikon smile
 Pierwsze orędzie nowo wybranego papieża:
 ,,Niech będzie pochwalony Jezus Chrystus!
@@ -102,6 +119,8 @@ Nie wiem, czy potrafię rozmawiać waszym... naszym językiem włoskim. Jeżeli 
 --- Jan Paweł II, 16.10.1978 r.
 
 <img src="./img/october/jp2.jpg"/><br><br>
+
+---
 
 ### 1946
 
@@ -124,6 +143,15 @@ Osadzony jako więzień polityczny – Polak (P.Pole) z numerem 23569, również
 
 https://pl.wikipedia.org/wiki/Wojna_krymska
 
+### 1799
+
+W Chełmie, w wieku 69 lat zmarł Samuel Chróścikowski .
+Pochodził z Piasków koło Chełma. Był profesorem Collegium Nobillium, wicerektorem kolegium pijarskiego we Lwowie, rektorem kolegium w Chełmie. W roku 1764 napisał pierwszy polski podręcznik do fizyki zatytułowany "Fizyka doświadczeniami potwierdzona".
+
+<img src="./img/october/samuel.jpg"><br><br>
+
+Zdjęcie; Antykwariat Sobieski.
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

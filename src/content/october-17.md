@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 4 października
+title: 17 października
 image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2018-10-17T10:00:00.000Z
 tags:
   - 
 draft: true
