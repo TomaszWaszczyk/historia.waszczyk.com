@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 17 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+image: img/october/krasiczyn.jpg
 author: Tomasz Waszczyk
-date: 2018-10-17T10:00:00.000Z
+date: 2019-10-17T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Komunizm
+draft: false
 ---
 
 ### 1944
