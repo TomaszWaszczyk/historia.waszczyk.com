@@ -1,12 +1,19 @@
 ---
 layout: post
 title: 18 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/forster.jpg
 author: Tomasz Waszczyk
-date: 2018-10-18T10:00:00.000Z
+date: 2019-10-18T10:00:00.000Z
 tags:
-  - Historia
+  - Gospodarka
 ---
+
+### 2020
+
+> Nie możemy działać jako siłownia - będziemy działać jako sklep z odpłatnym testowaniem sprzętu. „Sprawiedliwość jest drugim wielkim zadaniem prawa, jednak pierwszym jest pewność prawa, pokój.”
+> Problem nieposłuszeństwa obywatelskiego jest znany od czasów rzymskich. Czy prawo nieakceptowane społecznie jest prawem ? Czy prawo, które suweren w sposób jawny obchodzi i zyskuje przy tym akceptację społeczna jest prawem ? Kto ocenia czy prawo powinno rzeczywiście obowiązywać ? A może powinnismy ślepo czytać przepisy i się do nich stosować ? Prawo przecież jest prawem, bo zapewnia pewność funkcjonowania Państwa, pomimo ze wydaje nam się niesprawiedliwe. Dla wtajemniczonych nazwiska Kelsena i Radbrucha powinny te kwestie wyjaśniać, dla niewtajemniczonych polecam lekturę.
+
+<img src="./img/october/silownie.jpeg"><br><br>
 
 ### 1944
 

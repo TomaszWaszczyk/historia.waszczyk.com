@@ -32,6 +32,10 @@ W Moskwie podczas spotkania z delegacją polską zapytany o los zaginionych pols
 
 <img src="./img/august/klamcastalin.jpg"><br><br>
 
+### 1929
+
+https://en.wikipedia.org/wiki/Thorstein_Veblen
+
 ### 1863
 
 W czasie powstania styczniowego pod Lipnem w województwie kujawsko-pomorskim oddział powstańczy powiatu płockiego pod dowództwem Tadeusza Kopytki został zaskoczony przez kozaków podczas transportu broni z terenu Prus.Mimo znacznej liczebnej przewagi wroga powstańcy zdobyli się na atak, który poskutkował całkowitym rozbiciem oddziału kozackiego.
