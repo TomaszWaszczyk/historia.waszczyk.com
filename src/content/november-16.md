@@ -48,6 +48,10 @@ Przegrana bitwa, upadek wojskowego morale i masowa dezercja sprawiły ,że Tomas
 Przed kościołem św. Anny w Warszawie odbyła się uroczystość złożenia hołdu lennego królowi Polski Zygmuntowi III Wazie przez elektora brandenburskiego Jana Zygmunta Hohenzollerna.
 Hołd złożony z Prus Książęcych był następstwem porażki poniesionej w XVI- wiecznej wojnie z Rzeczpospolitą wobec czego Państwo Krzyżackie w Prusach zostało zmuszone do podporządkowania się Polsce.
 
+### 1380
+
+French King Charles VI declared no taxes forever....
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
