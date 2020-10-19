@@ -22,6 +22,10 @@ naprawie pojazdów samochodowych o 17,9%.
 
 ---
 
+<img src="./img/october/rzeszow.jpg"><br><br>
+
+---
+
 Rosyjskie władze finansowe potwierdziły plany rządu dotyczące emisji cyfrowej waluty banku centralnego, czyli CBDC. W dniu 13 października Bank Rosji opublikował dokument konsultacyjny w sprawie rozwoju cyfrowego rubla.
 
 ---

@@ -1,21 +1,39 @@
 ---
 layout: post
-title: 4 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+title: 20 października
+image: img/october/lwow.jpg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2019-10-20T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Banki
+draft: false
 ---
 
-### 1859
+### 2020
 
-https://pl.wikipedia.org/wiki/John_Dewey (zakładał, że ludzie uzywają mózgu) vs https://pl.wikipedia.org/wiki/Walter_Lippmann (zakładał, że ludzie są apatyczni)
+<img src="./img/october/sporttooszustwo.jpg"><br><br>
+
+---
+
+<img src="./img/october/sasin.jpg"><br><br>
+
+---
+
+> Prezes NBP Adam Glapiński poinformował, że w kolejnych kwartałach banki prawdopodobnie nie będą notować zysków, a cały sektor odnotowuje w 2021 roku straty.
+
+<img src="./img/october/banki2020.png"><br><br>
+
+> Oczywiście, mamy świadomość, że wszystkie wyniki analiz są obarczone nadal olbrzymią niepewnością dotyczącą rozwoju pandemii. Jednocześnie ostatnie dane gospodarcze i rewizje prognoz pokazują, że spowolnienie gospodarcze może być łagodniejsze niż spodziewaliśmy się jeszcze w lipcu w 'Raporcie o inflacji' NBP.
+
+---
+
+### 1958
+
+<img src="./img/october/elektryfikacja-polskiej-wsi-1958.png"><br><br>
 
 ### 1939
 
-Rozpoczęła się w Wielkopolsce niemiecka operacja "Tanneberg"-działanie na szeroką skalę wymierzone w likwidację polskich elit przywódczych. Koncepcja tej akcji eksterminacyjnej powstała razem z planem ataku na Polskę. Na liście osób skazanych na zagładę znalazło się 61 tysięcy przedstawicieli różnych warstw polskiego społeczeństwa, począwszy od księży, polityków ,ludzi kultury, a skończywszy na przedsiębiorcach i byłych powstańcach. 
+Rozpoczęła się w Wielkopolsce niemiecka operacja "Tanneberg"-działanie na szeroką skalę wymierzone w likwidację polskich elit przywódczych. Koncepcja tej akcji eksterminacyjnej powstała razem z planem ataku na Polskę. Na liście osób skazanych na zagładę znalazło się 61 tysięcy przedstawicieli różnych warstw polskiego społeczeństwa, począwszy od księży, polityków ,ludzi kultury, a skończywszy na przedsiębiorcach i byłych powstańcach.
 W ogóle na terenie Polski akcja zaczęła się 1 września 1939 roku. Do 25 października 1939 roku wykonano ponad 760 egzekucji i masowych mordów, w których życie straciło ponad 20 tysięcy ludzi.
 Na zdjęciu egzekucja Polaków przez Einsatzkommando
 11 pod dowództwem Heinza Graefe w Kórniku 20 października 1939.
@@ -28,6 +46,10 @@ Rada Miejska Lwowa zdecydowała o przyłączeniu miasta do Polski. Lwów, jedno 
 
 <img src="./img/october/lwow.jpg"/><br><br>
 
+### 1859
+
+https://pl.wikipedia.org/wiki/John_Dewey (zakładał, że ludzie uzywają mózgu) vs https://pl.wikipedia.org/wiki/Walter_Lippmann (zakładał, że ludzie są apatyczni)
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

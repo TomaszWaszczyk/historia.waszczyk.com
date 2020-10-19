@@ -15,6 +15,50 @@ tags:
 
 <img src="./img/october/silownie.jpeg"><br><br>
 
+---
+
+18:47 Siłownia kontra obostrzenia. Przekształciła się w sklep i zachęca do odpłatnego testowania sprzętu
+
+16:30 Szwajcaria ogłasza nowe restrykcje w związku z pandemią
+
+13:02 Papież: Trzeba płacić podatki, to obywatelski obowiązek
+
+12:31 Ponad 55 tys. osób ukaranych mandatem za brak maseczki
+
+11:25 Znaczek pocztowy kupisz przez internet. Poczta Polska uruchomiła witrynę z dostępem do usług cyfrowych
+
+10:48 Mateusz Morawiecki zakończył odbywanie kwarantanny
+
+10:43 Prezydent w poniedziałek powoła Przemysława Czarnka na stanowisko ministra edukacji i nauki
+
+07:33 Prezydent Tanzanii o rodzinach z dwójką dzieci: to lenie
+
+07:16 Gigantyczny wzrost bezrobocia w miastach, które były liderami rynku pracy w Kanadzie
+
+<!-- Sobota - 17 października
+22:21 Ponad 26 mln Amerykanów już zagłosowało w wyborach
+22:18 Bez aresztu dla Ryszarda Krauzego i czterech innych podejrzanych 
+21:19 Armenia i Azerbejdżan uzgodniły "humanitarny rozejm" od niedzieli
+20:26 Rekordowe zwycięstwo Partii Pracy Jacindy Ardern w wyborach w Nowej Zelandii
+19:04 Wyspy Kanaryjskie przywracają ruch wycieczkowców
+17:58 Szef MZ: podmioty lecznicze walczące z Covid-19 mają gwarancję wpływu 1/12 ryczałtu co miesiąc
+16:25 Słowacja przetestuje wszystkich mieszkańców na obecność koronawirusa
+15:48 PSL pokazuje pomysły na walkę z epidemią. Projekt "Premia dla bohatera" zamiast premii w ministerstwach
+15:15 Premier: Nie idziemy drogą państw, które kolejny raz wprowadzają lockdown
+13:48 Grzesiowski: Trzeba zorganizować szpitale w szkołach, salach gimnastycznych, na halach targowych
+13:07 "Wspólna Polska". Rafał Trzaskowski powołał nowy ruch
+12:14 Godziny dla seniorów nie obowiązują w weekendy
+12:04 Rzecznik MZ: Mamy 14,7 tys. łóżek dla pacjentów z koronawirusem i ponad 1,1 tys. respiratorów
+09:50 Po wyroku TSUE nadal brak rozwiązań ws. transferu danych osobowych poza UE
+09:06 Moody's obniżył rating Wielkiej Brytanii do Aa3
+08:34 Szkoły w Europie walczą z koronawirusem. Które kraje zamknęły placówki?
+08:00 Allegro napędza warszawską giełdę
+07:44 Założyciel portalu "eBilet" chce unieważnienia akwizycji spółki przez Allegro
+06:51 Ponad 200 zł za śmieci dla czteroosobowej rodziny w Warszawie
+06:42 Wojewoda mazowiecki: Nie ma wojny rządu z lekarzami -->
+
+---
+
 ### 1944
 
 https://en.wikipedia.org/wiki/Volkssturm

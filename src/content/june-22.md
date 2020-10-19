@@ -94,6 +94,12 @@ Sześćdziesięcioosobowy oddział przybyły we wrześniu 1920 roku zajął poni
 
 <img src="./img/june/liganarodow.jpg"><br><br>
 
+### 1899
+
+https://pl.wikipedia.org/wiki/Micha%C5%82_Kalecki
+
+Urodziny Michała Kaleckiego, prawdziwego geniusza i najwybitniejszego polskiego ekonomisty. Osobiście uważam, że jego dzieło Kapitalizm 1 i 2 to najlepsze książki opisujące gospodarkę i funkcjonowanie rynku, które dziś są aktualne jak nigdy dotąd.
+
 ### 1864
 
 https://pl.wikipedia.org/wiki/Hermann_Minkowski
