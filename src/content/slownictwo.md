@@ -880,6 +880,12 @@ sense making
 
 big/huge eye opener
 
+prokurować
+1. «sporządzać coś, zwykle jakieś dokumenty, w sposób nieuczciwy, dostosowując je do określonych potrzeb»
+2. daw. «przygotowywać coś»
+
+przyczłapa
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

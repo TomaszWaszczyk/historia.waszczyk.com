@@ -3,10 +3,14 @@ layout: post
 title: 21 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2018-10-21T10:00:00.000Z
+date: 2019-10-21T10:00:00.000Z
 tags:
-  - Historia
+  - PayPal
 ---
+
+### 2020
+
+LONDON (Reuters) - PayPal Holdings Inc joined the cryptocurrency market on Wednesday, allowing customers to buy, sell and hold bitcoin and other virtual coins using the U.S. digital payments company’s online wallets.
 
 ### 2019
 
