@@ -80,6 +80,13 @@ lat 1919- 1920 , ustalał przebieg granic między tymi państwami oraz regulowa�
 
 <img src="./img/october/ryga.jpg"><br><br>
 
+### 1810
+
+W Monachium odbył się pierwszy Oktoberfest. Bawarska para królewska zaprosiła mieszkańców miasta do wspólnego świętowania godów weselnych księcia Ludwika I Wittelsbacha i księżniczki Teresy von Sachsen-Hildburghausen.
+W początkowych latach Oktoberfest miał przede wszystkim sportowy charakter (wyścigi konne). Dopiero pod koniec XIX wieku nabierał coraz bardziej charakteru jaki ma dzisiaj. W 1880 roku władze miasta zezwoliły na sprzedaż piwa. Obecnie to jeden z największych festynów ludowych na świecie -w ostatnich latach przeciętna liczba odwiedzających wynosiła ok. 6 milionów ludzi.
+
+<img src="./img/october/oktoberfest.jpg"><br><br>
+
 ### 1794
 
 W czasie Insurekcji Kościuszkowskiej, Rada Najwyższa Narodowa wybrała generała lejtnanta Tomasza Wawrzeckiego (grafika) na stanowisko Naczelnika Siły Zbrojnej Narodowej. Zastąpił on wziętego do rosyjskiej niewoli Tadeusza Kościuszkę.

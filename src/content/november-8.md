@@ -19,4 +19,4 @@ Ten sam dokument ustanawiał 11 listopada dniem wolnym od pracy.
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -18,6 +18,23 @@ Premier Jan Krzysztof Bielecki i kanclerz Helmut Kohl podpisali w Bonn polsko-ni
 
 <img src="./img/june/bieleckikohl.jpg"><br><br>
 
+### 1983
+
+"Nie daj się zwyciężać złu,a zło dobrem zwyciężaj"- tymi słowami nawiązał do stanu wojennego papież Jan Paweł II podczas rozpoczętej 16 czerwca 1983 roku drugiej pielgrzymki do Polski.
+Papież odwiedził: Warszawę, Niepokalanów Częstochowę, Poznań, Katowice, Wrocław, Górę św. Anny i Kraków. 17 czerwca 1983 r. w
+trakcie spotkania w Belwederze z
+przedstawicielami władz papież stwierdził między innymi: "I chociaż życie w Ojczyźnie od 13 grudnia 1981 r. zostało poddane surowym rygorom stanu wojennego, który został
+zawieszony od początku bieżącego roku - to przecieżnie przestaję ufać, że owa zapowiadana wielokrotnie odnowa społeczna, według zasad wypracowywanych w takim trudzie w przełomowych dniach sierpnia 1980
+r. i zawarta w porozumieniach, dojdzie
+stopniowo do skutku".
+Wielkie symboliczne znaczenie miało
+spotkanie w Tatrach, w Dolinie Chochołowskiej z Lechem Wałęsą. W trakcie pielgrzymki papież beatyfikował Urszulę Julię Marię Ledóchowską, założycielkę Zgromadzenia
+Sióstr Urszulanek Serca Jezusa Konającego, franciszkanina Alberta Adama Chmielowskiego i Rafała od św. Józefa – Józefa Kalinowskiego, karmelitę, powstańca styczniowego, zesłańca syberyjskiego.
+Hasłem przewodnim pielgrzymki,która zakończyła się 23 czerwca 1983 roku było:
+"Pokój Tobie, Polsko, Ojczyzno moja"
+
+<img src="./img/june/jp2_2.jpg"><br><br>
+
 ### 1934
 
 2 dni po zabójstwie ministra spraw wewnętrznych Bronisława Pierackiego przez członka OUN, prezydent RP Ignacy Mościcki podpisał rozporządzenie w sprawie osób zagrażających bezpieczeństwu, spokojowi i porządkowi publicznemu.

@@ -62,6 +62,14 @@ W Polsce żyjemy w innym świecie. O prawie do posiadania broni i używania jej 
 
 Dobrze, że mamy południowych sąsiadów, którzy wyłamują się z takiego sposobu myślenia. Nie musimy już powoływać się tylko na Szwajcarów.
 
+---
+
+Minister finansów: Deficyt nie jest dziś najważniejszy
+
+- Będę ministrem, który w styczniu miał zbilansowany budżet, a w grudniu być może największy deficyt. Ale też patrząc z drugiej strony, jesteśmy jedynym krajem w UE, który w tym roku będzie mieć spadek PKB mniejszy niż 5 proc. i na pewno - mimo wszystko - jeden z najniższych długów. Od samego początku podkreślaliśmy - lepiej ratować gospodarkę teraz i wydawać pieniądze, niż za rok płakać, że nie mamy ani gospodarki, ani pieniędzy - podkreśla w rozmowie z Interią Tadeusz Kościński, minister finansów.
+
+<img src="./img/june/zdrajcaminister.jpg"><br><br>
+
 ### 1987
 
 Czyż nie są "światłem i solą ziemi" ci
@@ -91,6 +99,12 @@ Wizyta papieska, której hasłem przewodnim było "Do końca ich umiłował" zak
 <img src="./img/june/einstein.jpeg"><br><br>
 
 ---
+
+### 1946
+
+Przetransportowano specjalnym samolotem z Warszawy do Poznania byłego gauleitera Kraju Warty Arthura Greisera (na zdjęciu). Z poznańskiego lotniska został on przewieziony prosto do więzienia przy ulicy Młyńskiej. Tam wkrótce przedstawiono mu akt oskarżenia,którego objętość wynosiła 60 stron maszynopisu.
+
+<img src="./img/june/greiser.jpg"><br><br>
 
 ### 1945
 

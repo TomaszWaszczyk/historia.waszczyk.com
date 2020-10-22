@@ -13,6 +13,10 @@ draft: false
 
 https://pl.wikipedia.org/wiki/Brexit
 
+### 1920
+
+<img src="./img/january/ustawaurzednikow.jpg"><br><br>
+
 ### 1909
 
 https://pl.wikipedia.org/wiki/Henryk_Magnuski

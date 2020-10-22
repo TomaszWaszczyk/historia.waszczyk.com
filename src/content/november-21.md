@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1 listopada
+title: 21 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-01T10:00:00.000Z
+date: 2018-11-21T10:00:00.000Z
 tags:
   - 
 draft: true
@@ -19,4 +19,4 @@ https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-21.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

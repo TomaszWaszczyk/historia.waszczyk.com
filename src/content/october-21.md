@@ -5,12 +5,24 @@ image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
 date: 2019-10-21T10:00:00.000Z
 tags:
-  - PayPal
+  - CBDC
 ---
 
 ### 2020
 
+"Bahamy zapiszą się w historii jako pierwszy kraj, który wprowadził do obiegu nową formę pieniądza banku centralnego – #CBDC (Central Bank Digital Currency)"
+
+---
+
 LONDON (Reuters) - PayPal Holdings Inc joined the cryptocurrency market on Wednesday, allowing customers to buy, sell and hold bitcoin and other virtual coins using the U.S. digital payments company’s online wallets.
+
+---
+
+Rekord świata. Obligacje na walkę z pandemią to przełom w historii UE
+
+UE wypuściła obligacje socjalne. Popyt na nie pobił rekord świata
+
+Unia Europejska sprzedała właśnie obligacje za 17 miliardów euro. Jest to wydarzenie wyjątkowe i dość niesamowite z paru powodów. Po pierwsze stało się w końcu to, o co przez lata w Unii się kłócono – Unia wyemitowała wspólny i duży dług. Politycy niechętni tej zmianie podkreślają, że to jednorazowa przygoda, do której zmusiła nas epidemia koronawirusa, ale faktem jest, że to się stało.
 
 ### 2019
 

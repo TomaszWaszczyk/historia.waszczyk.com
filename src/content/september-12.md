@@ -27,6 +27,12 @@ Wyniki konferencji w Abbeville przesądziły o upadku Polski, przyczyniając si�
 
 <img src="./img/september/abbeville.jpg"><br><br>
 
+### 1921
+
+We Lwowie urodził się Stanisław Lem, prozaik, eseista, satyryk, najsłynniejszy polski autor literatury fantastycznonaukowej, członek PAU. Z wykształcenia był lekarzem, jednak nigdy nie pracował w wyuczonym zawodzie. Jego literacki debiut datuje się na 1946 rok. Powieści i opowiadania Lema przełożono na kilkadziesiąt języków. Jego najbardziej znane powieści to: Astronauci (1951) i Solaris (1961) oraz zbiory opowiadań: Dzienniki gwiazdowe (1957), Bajki robotów (1961), Cyberiada (1965), Opowieści o pilocie Pirxie (1968). Był również twórcą filozoficznych esejów jak np. Summa technologiae (1964), Filozofia przypadku. Literatura w świecie empirii (1968). Dość często Lem stosował w swej twórczości formę pastiszu oraz parodii, jak w dziele Doskonała próżnia (1971). Zmarł 27 marca 2006 roku.
+
+<img src="./img/september/lem2.jpg"><br><br>
+
 ### 1917
 
 <https://pl.wikipedia.org/wiki/Rada_Regencyjna>
