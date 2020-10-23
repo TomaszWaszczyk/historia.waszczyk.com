@@ -26,6 +26,11 @@ Tak zwana #SprawaElbląska z czasów stalinowskich przez cały #PRL była dumą 
 
 <img src="./img/july/elblag2.jpg"><br><br>
 
+### 1942
+
+"Szykują się do utworzenia nowej formacji policji żydowskiej, która ma już nawet trafną nazwę: „KOP” (Korpus Ochrony Pogranicza – dawna polska straż graniczna). Zadaniem tej formacji byłoby strzeżenie getta przed przedostawaniem się szmuglowanych towarów. Mury getta zostaną oznaczone wielkimi białymi numerami (każde 50 metrów będzie miało numer). Policjanci spod murów będą mieli oddzielne rejony i otrzymają specjalne wynagrodzenie: 10 zł dziennie oraz większy przydział chleba i innych produktów. […] Ochotników zgłosiło się mało, wyznaczono więc policjantów, którzy zostaną odkomenderowani do tej paskudnej i niebezpiecznej roboty (każdy policjant będzie odpowiedzialny za szmugiel na swoim odcinku). Jest to szatański plan, który zmierza do wygłodzenia getta przy pomocy samych Żydów. Nie po raz pierwszy zresztą okupant zmusza ludność żydowską do wykopania sobie grobu, postępuje tak stale."
+Emanuel Ringelblum, 16 czerwca 1942, Warszawa.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

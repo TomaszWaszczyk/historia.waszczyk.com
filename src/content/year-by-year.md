@@ -271,6 +271,12 @@ China - Kissinger meeting
 
 https://china.usc.edu/getting-beijing-henry-kissingers-secret-1971-trip
 
+"Your dollar will be worth just as much tomorrow as it is today." Nixon believing in Santa Claus in 1971. Bye bye Gold Standart!
+
+"Gentlemen, you can calm down. The printing presses run day and night again in three shifts."
+
+Rudolf Havenstein, German President of the Reichsbank (German central bank) during the Weimar Republic hyperinflation of 1921–1923
+
 ### 1970
 
 https://en.wikipedia.org/wiki/Bloom_filter

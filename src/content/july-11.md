@@ -73,6 +73,15 @@ Przez około dwa tygodnie przekazywała sygnał oznaczający zakaz przyjeżdżan
 
 <img src="./img/july/wolyn43.jpg"><br><br>
 
+### 1941
+
+Poniższy tekst to tajny rozkaz pułkownika Maxa Montuy z Centralnego Pułku Policji SS o sposobie mordowania ludności żydowskiej datowany na 11 lipca 1941 roku.
+"Poufne! 
+Zgodnie z rozkazem Wysokiego Dowódcy SS i Policji […] wszyscy Żydzi płci męskiej w wieku od siedemnastu do czterdziestu pięciu lat uznani za winnych szabrowania mają zostać rozstrzelani zgodnie z prawem stanu wojennego. Egzekucje mają odbyć się poza miastami, wioskami i głównymi drogami. Groby zostaną zamaskowane w taki sposób, aby nie powstał w ich rejonie punkt docelowy pielgrzymek. Zakazuję fotografowania egzekucji i udzielania zgody na obecność widzów. Zarówno informacje o egzekucjach, jak i o miejscach pochówku mają zostać utrzymane w tajemnicy.
+Na komendantach batalionów i kompanii ciąży szczególna odpowiedzialność za duchową opiekę nad osobami biorącymi udział w tego typu działaniach. Przykre wrażenia z codziennych zajęć powinny zostać zneutralizowane przez zapewnianie im wieczornych atrakcji. Oprócz tego funkcjonariuszy należy stale utwierdzać w przekonaniu o politycznej konieczności takich rozwiązań".
+
+<img src="./img/july/zydzi.jpg"><br><br>
+
 ### 1940
 
 Rozpoczęła się bitwa o Anglię- wydarzenie tak samo ważne tak dla Brytyjczyków jak i dla nas z uwagi na to, że znaczną część pilotów latajacych po brytyjskim niebie stanowili właśnie Polacy.

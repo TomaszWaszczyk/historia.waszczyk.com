@@ -8,6 +8,12 @@ tags:
   - Jan Karski
 ---
 
+### 2020
+
+Dnia 13 czerwca zmarł Jean Raspail. Jeden z najgłośniejszych  pisarzy francuskich XX wieku. Prywatnie rojalista, konserwatysta, tradycjonalista, katolik, pesymista i katastrofista. Wieszczący dekady przed Houellebecq upadek zachodnioeuropejskiej cywilizacji.
+
+<img src="./img/july/raspail.jpg"><br><br>
+
 ### 2000
 
 <img src="./img/july/wybory2020.png"><br><br>

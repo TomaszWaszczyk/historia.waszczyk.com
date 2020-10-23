@@ -50,6 +50,28 @@ Thus far, Web3 Foundation’s Grants Program has distributed nearly five million
 
 ---
 
+Chińskie powiedzenie na dziś, to słynna doktryna 24 (lub 28) znaków Deng Xiaopinga, obowiązująca w Chinach właściwie do 2013 roku, a więc do czasu gdy Xi Jinping ogłosił koncepcję Nowego Jedwabnego Szlaku.
+To 6 (lub 7) wersów, 4 znaki każdy:
+冷静观察-trzeźwo (chłodno) obserwujcie
+稳住阵脚-utrzymujcie pozycję (twardo stąpając po ziemi)
+沉着应付-radźcie sobie z wyzwaniami bez rozgłosu (w ciszy i spokoju)
+韬光养晦- ukrywajcie swoje moźliwości (i kupujcie czas- dosłownie "ukrywajcie światło, wystawiajcie ciemność".
+有所作为- nauczcie się występować z pozycji słabszego.
+决不当头- nie podnoście głowy i nie aspirujcie do przywództwa.
+-Na wypadek gdyby ktoś nie zrozumiał: przytaczanie doktryny 24 znaków nie oznacza poparcia.
+
+- Warto zaznaczyć, iż powstała ona w specyficznym kontekście. Warto dowiedzieć się na ten temat dowiedzieć nieco więcej, by lepiej tą doktrynę zrozumieć. Dziś Chiny zachowują się na arenie międzynarodowej zupełnie inaczej, można nawet powiedzieć, że zupełnie na odwrót... (oczywiście było jasne, że zarzucenie strategii 24 (lub 28) znaków to kwestia czasu).
+
+-Trudno ją przetłumaczyć na języki zachodnie. Nie obrażę się jeśli ktoś zrobi to lepiej. Moje tłumaczenie, jest bardzo niedokładne (uspokajam tylko, iż zdaję sobie z tego sprawę 😉 ).
+-Często występuję też jako doktryna 28 znaków, dochodzi wówczas jeszcze jeden wers: 
+善于守拙- bądźcie dobrzy w praktykowaniu pokory i skromności
+Sens jest jednak ten sam i myślę, że inteligentna osoba po przeczytaniu tych 6-7 wersów sporo zrozumie (nawet przy założeniu, że mój przekład i opis, jest daleki od ideału).
+Więcej o tej i innych chińskich doktrynach i strategiach (starożytnych i współczesnych), między innymi na kolejnej edycji "Biznesu chińskiego" w Akademii Leona Koźmińskiego, a także na zajęciach, które poprowadzę na uczelniach wyższych (i nie tylko).
+
+<img src="./img/may/trzezwo.jpg"><br><br>
+
+---
+
 <img src="./img/may/austrians.jpeg"><br><br>
 
 <img src="./img/may/spoleczenstwo.jpg"><br><br>

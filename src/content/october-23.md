@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 23 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+image: img/october/grossaction.jpg
 author: Tomasz Waszczyk
-date: 2018-10-23T10:00:00.000Z
+date: 2019-10-23T10:00:00.000Z
 tags:
-  - 
+  - Grossaktion
 draft: false
 ---
+
+### 2020
+
+<img src="./img/october/propaganda.png"><br><br>
 
 ### 1951
 
