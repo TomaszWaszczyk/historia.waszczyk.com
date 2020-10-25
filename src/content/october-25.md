@@ -9,6 +9,18 @@ tags:
 draft: false
 ---
 
+### 2020
+
+Dr Andrzej Sadowski, prezydent Centrum im. Adama Smitha:
+
+> Tu już nie mamy do czynienia z kryzysem, ale totalną destrukcją
+
+– ''Do powszechnej depresji i kłopotów ekonomicznych dochodzi brak wiary w przywództwo polityczne. Bo okazuje się, że nie jest ono w stanie przekonać społeczeństwa, że działania władz będą przynosiły pozytywne skutki. Przykład pierwszy z brzegu – niedawno Rzecznik Małych i Średnich Przedsiębiorców poprosił rząd o przedstawienie przesłanek przemawiających za zamknięciem branży fitness. I okazało się, że nie ma przesłanek dla takich działań. A mimo to działania takie zostały podjęte. Skoro ruchy rządu są nieczytelne, może dojść do chaosu w kraju. I stanie się to już niebawem. Bo brak czytelności pewnych działań sprawia, że ludzie są zdezorientowani. To sytuacja gorsza niż podczas jakiegokolwiek znanego nam kryzysu. Bo tu już nie mamy do czynienia z kryzysem, ale totalną destrukcją.''
+
+Warto też przypomnieć, że podczas niedawnej konferencji prasowej z udziałem premiera padło pytanie o podstawy naukowe na rzecz zakazania normalnego działania lokali gastronomicznych i odpowiedzi udzielił profesor Andrzej Horban, iż badań mogących wskazać jaka liczba chorych zarażała się w restauracjach co prawda nie robiono, ale bazują na fakcie zakażeń... na weselach.
+
+> Skoro ruchy rządu są nieczytelne, może dojść do chaosu w kraju. I stanie się to już niebawem. Bo brak czytelności pewnych działań sprawia, że ludzie są zdezorientowani. To sytuacja gorsza niż podczas jakiegokolwiek znanego nam kryzysu. Bo tu już nie mamy do czynienia z kryzysem, ale totalną destrukcją - mówi dr Andrzej Sadowski, prezydent Centrum im. Adama Smitha.
+
 ### 2019
 
 China President Xi Jinping extols the virtues of blockchain technology
