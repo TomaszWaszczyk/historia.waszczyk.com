@@ -886,6 +886,11 @@ prokurować
 
 przyczłapa
 
+chałturzyć
+chałturować; potocznie:
+1. tworzyć coś tandetnego, pozbawionego wartości;
+2. podejmować się podatkowej pracy wyłącznie dla pieniędzy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

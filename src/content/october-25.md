@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 4 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+title: 25 października
+image: img/october/korfanty.jpg
 author: Tomasz Waszczyk
-date: 2018-10-04T10:00:00.000Z
+date: 2019-10-25T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Xi Jinping
+draft: false
 ---
 
 ### 2019
@@ -23,6 +23,19 @@ Xi, who is general secretary of the CPC Central Committee, described blockchain 
 The President put forward a host of benefits from using blockchain technology, namely that it offers a lot of improvements on current systems, such as helping with data sharing and removing operating costs. And countries that use it, will gain a host of benefits, he said. Specifically, he said that it will help countries to develop their digital economies, while encouraging economic and social development.
 
 This doesn't come as a huge surprise. While China has cracked down on certain use-cases of blockchain technology, such as when a project is a scam or when tokens are issued through ICOs, it hasn't banned the use of cryptocurrencies, nor Bitcoin mining—for now. The country is also developing its own Central Bank Digital Currency (CBDC), hoping to be at the forefront of such development. It even sped up its CBDC efforts in light of Facebook's Libra project, although the latter has been hitting roadblock after roadblock.
+
+### 1941
+
+> „Skazujemy na śmierć głodową 1,2 miliona Żydów, nie ma potrzeby wiele mówić. Jest to zrozumiałe, a jeżeli Żydzi nie wymrą z głodu, trzeba będzie przyspieszyć antyżydowskie zarządzenia, i miejmy nadzieję, że tak się stanie.
+
+Autorem tych słów wypowiedzianych 25 października 1941 roku w Krakowie jest Hans Frank (zdjęcie). W ten sposób odniósł się on do wydanego przez siebie dnia 15 października 1941 roku rozporządzenia "O ograniczeniach pobytu w Generalnym Gubernatorstwie", którego pierwszy punkt głosił:
+"Żydzi, którzy bez upoważnienia
+opuszczają wyznaczoną im dzielnicę,
+podlegają karze śmierci. Tej samej karze
+podlegają osoby, które takim żydom
+świadomie dają kryjówkę."
+
+<img src="./img/october/hansfrank.jpg"><br><br>
 
 ### 1939
 
@@ -49,4 +62,4 @@ Zmarł w Lublinie w roku 1890, przeżywszy 90 lat.
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-4.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

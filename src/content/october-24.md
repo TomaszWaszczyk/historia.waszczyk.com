@@ -1,12 +1,20 @@
 ---
 layout: post
 title: 24 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/dabrowski.jpg
 author: Tomasz Waszczyk
-date: 2018-10-24T10:00:00.000Z
+date: 2019-10-24T10:00:00.000Z
 tags:
   - Pokój westfalski
 ---
+
+### 2020
+
+Lewica walczącą zniszczyła pomnik Ronalda Reagana, bo kiedyś powiedział:
+
+„Zauważyłem, że wszyscy którzy popierają aborcję zdążyli się już urodzić.”
+
+<img src="./img/october/reagan.jpeg"><br><br>
 
 ### 1956
 
@@ -28,6 +36,16 @@ Niech żyje Polska ludowa!"
 W Berlinie miało miejsce spotkanie polskiego ministra spraw zagranicznych Józefa Becka (zdjęcie) z niemieckim sekretarzem spraw zagranicznych Joachimem von Ribbentropem,na którym strona niemiecka po raz pierwszy poruszyła kwestię włączenia do Wolnego Miasta Gdańska oraz budowy eksterytorialnej autostrady i linii kolejowej.
 
 <img src="./img/october/beck.jpg"/><br><br>
+
+### 1936
+
+W czasie wojny domowej w Hiszpanii sformowany został Batalion imienia Jarosława Dąbrowskiego.
+W szeregach tej formacji wchodzącej w skład XIII Międzynarodowej Brygady imienia Jarosława Dąbrowskiego służyli polscy emigranci-sympatycy ruchu lewicowego. 
+Żołnierze ci, po krótkim przeszkoleniu, już w listopadzie 1936 roku trafili zostali skierowani do walki z oddziałami generała Francisco Franco na przedpola Madrytu, gdzie po czterech miesiącach ponieśli dotkliwe straty.
+Pierwszym dowódcą batalionu był  zmarły 22 sierpnia 1944 roku w niemieckim obozie koncentracyjnym działacz ruchu robotniczego Stanisław Ulanowski. Inną postacią w historii tej formacji był jego następca kapitan Antoni Kochanek, który poległ w bitwie pod Almadrones.
+Polskie władze patrzyły na żołnierzy batalionu nieprzychylnym okiem. Ze względu na nielegalną służbę w obcej armii odebrały im polskie obywatelstwo, a także zakazały służby w szeregach Wojska Polskiego. Dopiero w roku 1940 generał Sikorski zezwolił im na wstępowanie w szeregi tworzonego we Francji Wojska Polskiego.
+
+<img src="./img/october/dabrowski.jpg"><br><br>
 
 ### 1929
 

@@ -13,6 +13,18 @@ draft: false
 
 <img src="./img/october/propaganda.png"><br><br>
 
+<!-- Dz.U.2020.1845 t.j. | Akt obowiązujący
+Wersja od: 20 października 2020 r.
+Art.  36.  [Zastosowanie środków przymusu bezpośredniego]
+1.  Wobec osoby, która nie poddaje się obowiązkowi szczepienia, badaniom sanitarno-epidemiologicznym, zabiegom sanitarnym, kwarantannie lub izolacji obowiązkowej hospitalizacji, a u której podejrzewa się lub rozpoznano chorobę szczególnie niebezpieczną i wysoce zakaźną, stanowiącą bezpośrednie zagrożenie dla zdrowia lub życia innych osób, może być zastosowany środek przymusu bezpośredniego polegający na przytrzymywaniu, unieruchomieniu lub przymusowym podaniu leków.
+2.  O zastosowaniu środka przymusu bezpośredniego decyduje lekarz lub felczer, który określa rodzaj zastosowanego środka przymusu bezpośredniego oraz osobiście nadzoruje jego wykonanie przez osoby wykonujące zawody medyczne. Każdy przypadek zastosowania środka przymusu bezpośredniego odnotowuje się w dokumentacji medycznej.
+3.  Lekarz lub felczer może zwrócić się do Policji, Straży Granicznej lub Żandarmerii Wojskowej o pomoc w zastosowaniu środka przymusu bezpośredniego. Udzielenie pomocy następuje pod warunkiem wyposażenia funkcjonariuszy lub żołnierzy w środki chroniące przed chorobami zakaźnymi przez tego lekarza lub felczera.
+4.  Przed zastosowaniem środka przymusu bezpośredniego uprzedza się o tym osobę, wobec której środek przymusu bezpośredniego ma być zastosowany, i fakt ten odnotowuje się w dokumentacji medycznej. Przy wyborze środka przymusu bezpośredniego należy wybierać środek możliwie dla tej osoby najmniej uciążliwy, a przy stosowaniu środka przymusu bezpośredniego należy zachować szczególną ostrożność i dbałość o dobro tej osoby.
+5.  Przymus bezpośredni polegający na unieruchomieniu może być stosowany nie dłużej niż 4 godziny. W razie potrzeby stosowanie tego przymusu może być przedłużone na następne okresy 6-godzinne, przy czym nie dłużej niż 24 godziny łącznie.                                                  
+6. Przytrzymywanie jest doraźnym, krótkotrwałym unieruchomieniem osoby z użyciem siły fizycznej.
+7.  Unieruchomienie jest dłużej trwającym obezwładnieniem osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa.
+8.  Przymusowe podanie leku jest doraźnym lub przewidzianym w planie postępowania leczniczego wprowadzeniem leków do organizmu osoby - bez jej zgody. -->
+
 ### 1951
 
 Do prezesa Sądu Wojewódzkiego miasta Warszawy Ilii Rubinowa wpłynęło pismo z wnioskiem o prowadzenie rozprawy przeciwko generałowi Fieldorfowi (zdjęcie)  przy drzwiach zamkniętych. Jego autorem był wicedyrektor Departamentu Specjalnego Prokuratury Generalnej Władysław Dymant, z zawodu ... ślusarz i górnik, były żołnierz Armii Czerwonej, członek Związku Patriotów Polskich, absolwent Szkoły Politycznej Polskiej Partii Robotniczej w Wałbrzychu.

@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 22 października
-image: img/october/
+image: img/october/wyborczafarsa.jpg
 author: Tomasz Waszczyk
 date: 2019-10-22T10:00:00.000Z
 tags:
-  - 
+  - Polska
 draft: false
 ---
 
 ### 2020
 
 Ponad połowa małych i średnich europejskich firm boi się, że nie przetrwa roku
-MAREK DRUŚ, 22-10-2020
+
 McKinsey poinformował, że ponad połowa małych i średnich europejskich firm, zatrudniających dwie trzecie ludzi na kontynencie, nie jest pewna przetrwania kolejnych 12 miesięcy, donosi Reuters.
 Agencja zwraca uwagę, że McKinsey przeprowadził badanie w sierpniu, jeszcze przed ponownym nasileniem pandemii w Europie, które zmusiło rządy do zwiększenia ograniczeń mających hamować rozprzestrzenianie wirusa. Firma konsultingowa zapytała ponad 2 tys. firm zatrudniających 250 lub mniej pracowników z pięciu krajów: Niemiec, Francji, Hiszpanii i Wielkiej Brytanii. Okazało się, że 55 proc. obawia się upadku do września przyszłego roku jeśli ich przychody nie wzrosną z obecnego poziomu. W przypadku utrzymania obecnego trendu, jedna na 10 małych i średnich firm obawia się bankructwa w ciągu 6 miesięcy.
 
