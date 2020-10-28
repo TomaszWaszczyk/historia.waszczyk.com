@@ -1,16 +1,37 @@
 ---
 layout: post
 title: 27 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/swietlicawroclaw.jpg
 author: Tomasz Waszczyk
-date: 2018-10-27T10:00:00.000Z
+date: 2019-10-27T10:00:00.000Z
 tags:
   - Bukowski
+---
+
+### 2020
+
+<img src="./img/october/jpmorganbtc.jpeg"><br><br>
+
+---
+
+### Żandarmeria pomoże policji w "ochronie porządku". MON: To nie ma związku z manifestacjami
+
+W Monitorze Polskim zostało opublikowane zarządzenie premiera Mateusza Morawieckiego, które zakłada, że żołnierze Żandarmerii Wojskowej będą pomagać policjantom w "ochronie bezpieczeństwa i porządku publicznego". "To standardowe działania, które nie mają związku z manifestacjami. Żandarmeria pomaga m. in. w kontrolowaniu przestrzegania kwarantanny" - wyjaśnia MON.
+
+"W związku z rozprzestrzenianiem się epidemii wywołanej wirusem SARS-CoV-2 i wzrostem zachorowań na terenie kraju na COVID-19 żołnierze Żandarmerii Wojskowej udzielą od dnia 28 października 2020 r. do dnia odwołania stanu epidemii pomocy Policji w zakresie ochrony bezpieczeństwa i porządku publicznego" - czytamy w zarządzeniu, które zostało opublikowane w poniedziałek w Monitorze Polskim.
+
 ---
 
 ### 2019
 
 Umiera https://pl.wikipedia.org/wiki/W%C5%82adimir_Bukowski
+
+### 1980
+
+We Wrocławiu zakończył się trwający tydzień protest głodowy kolejarzy. 34 osoby biorące w nim udział domagały się uznania przez ówczesne władze tworzącego się na kolei NSZZ "Solidarność" oraz lepszych warunków pracy i wyższego wynagrodzenia.
+Protest ten był pokłosiem niespełnienia przez władze zgłaszanych wcześniej postulatów płacowych. Akcja miała charakter ogólnopolski z uwagi na to, że  brali w niej udział również przedstawiciele kolei z Gdańska i Szczecina. Rząd zdecydował się spełnić żądania płacowe kolejarzy. Jednak zawarte między stronami porozumienie zostało zerwane jeszcze w listopadzie tego samego roku.
+
+<img src="./img/october/swietlicawroclaw.jpg"><br><br>
 
 ### 1948
 

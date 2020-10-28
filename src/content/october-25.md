@@ -21,6 +21,16 @@ Warto też przypomnieć, że podczas niedawnej konferencji prasowej z udziałem 
 
 > Skoro ruchy rządu są nieczytelne, może dojść do chaosu w kraju. I stanie się to już niebawem. Bo brak czytelności pewnych działań sprawia, że ludzie są zdezorientowani. To sytuacja gorsza niż podczas jakiegokolwiek znanego nam kryzysu. Bo tu już nie mamy do czynienia z kryzysem, ale totalną destrukcją - mówi dr Andrzej Sadowski, prezydent Centrum im. Adama Smitha.
 
+---
+
+Mija sto lat od dnia, w którym narodził się czerwony terror. Przewrót bolszewicki w listopadzie (październik w Rosji) 1917 r rozpoczął jedną z najbardziej brutalnych tyranii w historii świata. W tym stuleciu ofiarą komunistycznego terroru padło ok. 94 mln ludzi na całym świecie. Historia komunistów pokazuje, jakie były losy państwa polskiego pod ich wladzą. Czym była komuna ? Była przypaloną skórą, wybitymi zębami, zerwanymi paznokciami. Śmiercią bez daty i grobu. Łzami i oczami, które nie dały już rady płakać. To była komuna.!! Łotry, zbrodniarze, oprawcy i bandyci.,, c.d w albumie.
+
+<img src="./img/october/bolszewizm.jpg"><br><br>
+
+<img src="./img/october/pokojhahaha.jpg"><br><br>
+
+---
+
 ### 2019
 
 China President Xi Jinping extols the virtues of blockchain technology

@@ -45,6 +45,22 @@ Negative interest rates could be needed for a ‘V’ recovery, Fed economist sa
 - Most Fed officials have doubted they would go negative like Japan and parts of Europe.
 - The analysis is not binding in any way on the Fed, and Chairman Jerome Powell recently said he doesn’t see below-zero policy rates as “an appropriate tool.”
 
+### 1996
+
+An unmanned Ariane 5 rocket launched by the European Space Agency exploded just forty seconds after its lift-off from Kourou, French Guiana. Ariane explosion The rocket was on its first voyage, after a decade of development costing $7 billion. The destroyed rocket and its cargo were valued at $500 million. A board of inquiry investigated the causes of the explosion and in two weeks issued a report. It turned out that the cause of the failure was a software error in the inertial reference system. Specifically a 64 bit floating point number relating to the horizontal velocity of the rocket with respect to the platform was converted to a 16 bit signed integer. The number was larger than 32,767, the largest integer storeable in a 16 bit signed integer, and thus the conversion failed.
+
+The following paragraphs are extracted from the report of the Inquiry Board. An interesting article on the accident and its implications by James Gleick appeared in The New York Times Magazine of 1 December 1996. The CNN article reporting the explosion, from which the above graphics were taken, is also available.
+
+On 4 June 1996, the maiden flight of the Ariane 5 launcher ended in a failure. Only about 40 seconds after initiation of the flight sequence, at an altitude of about 3700 m, the launcher veered off its flight path, broke up and exploded.
+
+The failure of the Ariane 501 was caused by the complete loss of guidance and altitude information 37 seconds after start of the main engine ignition sequence (30 seconds after lift-off). This loss of information was due to specification and design errors in the software of the inertial reference system.
+
+The internal SRI* software exception was caused during execution of a data conversion from 64-bit floating point to 16-bit signed integer value. The floating point number which was converted had a value greater than what could be represented by a 16-bit signed integer.
+
+*SRI stands for Système de Référence Inertielle or Inertial Reference System.
+
+<img src="./img/june/ariane.jpg"><br><br>
+
 ### 1989
 
 Tu nie chodzi o wojnę handlową, tylko o coś znacznie większego: powrót do demokratycznych zasad, które Ameryka starała się narzucić światu po II wojnie światowej. Gdy rozpadł się Związek Radziecki, uwierzyliśmy, że otwarty rynek wystarczy, aby demokracja i rządy prawa same stopniowo objęły cały glob. Nie zrozumieliśmy, co oznaczała masakra na placu Niebiańskiego Spokoju 4 czerwca 1989 r. – Komunistyczna Partia Chin pokazała, że nigdy na to nie pozwoli. Nie tylko wewnątrz kraju, ale też stopniowo będzie osłabiać system oparty na zachodnich wartościach poza swoimi granicami. Ameryka i szerzej Zachód wcale zresztą nie wymagały od Chin wywiązywania się z zobowiązań podjętych w ramach międzynarodowych organizacji współpracy gospodarczej jak WTO. Owszem, nakładano sankcje na mniejsze kraje, jak Iran, Korea Północna czy nawet Rosja, ale nie na Chiny. To zachęciło Pekin do zaprzęgnięcia całej potęgi internetu do realizacji swoich celów. Mówimy więc o starciu wręcz tytanicznym.

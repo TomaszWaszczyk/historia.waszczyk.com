@@ -205,6 +205,8 @@ Your browser does not support the video tag.
 
 * محمدعبد THE MUQADDIMAHAbd Ar Rahman bin Muhammed ibn Khaldun Translated by Franz Rosenthal
 
+* The Case against Education: Why the Education System Is a Waste of Time and Money
+
 * https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci
 
 * https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html
