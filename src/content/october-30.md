@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 30 października
-image: img/october/The-Anatomy-Lesson-of-Dr.-Nicolaes-Tulp-by-Rembrandt.jpg
+image: img/october/manifest.jpg
 author: Tomasz Waszczyk
-date: 2018-10-30T10:00:00.000Z
+date: 2019-10-30T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Popiełuszko
+draft: false
 ---
 
 ### 1984
@@ -25,7 +25,7 @@ Miał 27 lat.
 
 ### 1944
 
-1944 roku Polski Komitet Wyzwolenia Narodowego wydał dekret "O ochronie Państwa". 
+Polski Komitet Wyzwolenia Narodowego wydał dekret "O ochronie Państwa".
 Zasdniczą cechą tego dokumentu reformującego polskie sądownictwo, zawierającego 11 punktów było to, iż łamał on podstawową zasadę, która mówi, że prawo nie może działać wstecz. Dekret był głównym orężem władz komunistycznych w walce z opozycją i podziemiem antykomunistycznym. Każdy z 11 artykułów przewidywał karę śmierci, przy niemalże pełnej dowolności interpretacyjnej popełnionych czynów. 5 punktów dekretu było stosowanych po wojnie wobec ludności cywilnej, która była sądzona do kwietnia 1955 także przez sądy wojskowe PRL, wymierzające z reguły bardzo surowe kary.
 
 <img src="./img/october/manifest.jpg"/><br><br>

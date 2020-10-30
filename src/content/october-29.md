@@ -3,7 +3,7 @@ layout: post
 title: 29 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2018-10-29T10:00:00.000Z
+date: 2019-10-29T10:00:00.000Z
 tags:
   - Stanisław Maczek
 ---
@@ -25,12 +25,26 @@ Z linii montażowej Zakładów Samochodowych Jelcz S.A zjechał ostatni autobus 
 
 <img src="./img/october/jelcz.jpg"/><br><br>
 
+### 1950
+
+Władze przeprowadziły trzecią już w ciągu 11 lat wymianę pieniędzy.
+Operacja ta pozbawiła z dnia na dzień wielu Polaków sporą część trzymanych w domach oszczędności.
+Pieniądze trzymane w skarpecie wymieniano po kursie znacznie bardziej niekorzystnym niż pensje, ceny i wkłady bankowe (pierwsze 100:1, drugie 100:3). Sprawiło to, że oszczędności te straciły dwie trzecie swojej wartości.
+
+<img src="./img/october/wymianapieniadza.jpg"><br><br>
+
 ### 1944
 
 Dowodzona przez generała Stanisława Maczka dywizja pancerna po ciężkich walkach wyzwoliła holenderskie miasto Breda.
 Niezwykle budującym elementem związanym z tą historią jest fakt, że aż 40 tysięcy mieszkańców Bredy z wdzięczności za to dokonanie złożyło wniosek o przyznanie polskiemu generałowi honorowego obywatelstwa ich miasta.
 
 <img src="./img/october/maczek.jpg"/><br><br>
+
+### 1943
+
+Na murach krakowskich domów pojawił się pierwszy "afisz śmierci" czyli rozporządzenie gubernatora Hansa Franka pt"O zwalczaniu zamachów na niemieckie dzieło odbudowy w Generalnym Gubernatorstwie", co w praktyce było listą 30 nazwisk osób skazanych danego dnia na śmierć.
+
+<img src="./img/october/bekanntmachung.jpg"><br><br>
 
 ### 1940
 

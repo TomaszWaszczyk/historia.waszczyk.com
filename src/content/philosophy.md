@@ -13,6 +13,8 @@ Skropnie przyjmować, spokojnie oddawać.
 
 Stoicyzm
 
+Machiavelli
+
 https://pl.wikipedia.org/wiki/Janusz_Sytnik-Czetwerty%C5%84ski
 
 <https://pl.wikipedia.org/wiki/Si_vis_pacem,_para_bellum>
