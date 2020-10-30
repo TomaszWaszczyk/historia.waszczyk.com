@@ -9,6 +9,22 @@ tags:
 draft: false
 ---
 
+### 2020
+
+Jak wynika z raportu Euler Hermes liczba niewypłacalności polskich firm opublikowanych w oficjalnych źródłach była w trzecim kwartale na rekordowym poziomie – 369 firm. Lipiec, sierpień i wrzesień to miesiące z trzema najwyższymi dotychczas liczbami niewypłacalności. W ciągu 3 kwartałów 2020 opublikowano informacje o 849 niewypłacalnościach, czyli o 12 proc. więcej niż przed rokiem i najwięcej w obecnej dekadzie.
+
+---
+
+<img src="./img/october/orlenwportfelu.png"><br><br>
+
+<img src="./img/october/orlen.jpg"><br><br>
+
+<img src="./img/october/pkobp.jpg"><br><br>
+
+<img src="./img/october/pzu.jpg"><br><br>
+
+---
+
 ### 1984
 
 Według oficjalnych informacji wyłowiono z Wisły ciało zamordowanego księdza Jerzego Popiełuszki. Dokumenty milicji opisują to zdarzenie następująco: „O godzinie 17.00 [...] przystąpiono do wydobywania zwłok mężczyzny [...] przy użyciu płetwonurków. Przed ich wydobyciem, jak wynika z oświadczenia płetwonurka Krzysztofa Mańko, [...] ubrane były w sutannę, zwrócone twarzą w kierunku jazu, z obciążeniem nóg”. Ksiądz Jerzy został porwany 19 października w okolicach miejscowości Przysiek na trasie Bydgoszcz-Toruń, a następnie zamordowany przez oficerów Samodzielnej Grupy „D” Departamentu IV MSW działających w składzie: Grzegorz Piotrowski, Leszek Pękala, Waldemar Chmielewski. Czwartym, chociaż nie bezpośrednim katem był Adam Pietruszka. Oprawcy wrzucili księdza Jerzego do Wisły w okolicach tamy pod Włocławkiem.  Wcześniej skrępowali mu nogi oraz ręce sznurkami w taki sposób , by próby poruszanie nimi zaciskały pętlę na szyi. Dodatkowo do nóg przywiązali worki z kamieniami. Sekcja zwłok przeprowadzona w Akademii Medycznej w Białymstoku, 31 października wykazała, że przed śmiercią kapelan Solidarności był bestialsko pobity.
