@@ -1,12 +1,24 @@
 ---
 layout: post
 title: 1 listopada
-image: img/1-08.jpeg
+image: img/november/groby.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-01T10:00:00.000Z
+date: 2019-11-01T10:00:00.000Z
 tags:
   - Gold
 ---
+
+### 2020
+
+Wszystkich Świętych 2020. Zamknięte cmentarze 1 i 2 listopada.
+
+Więcej niż tysiąc słów:
+
+<img src="./img/november/groby.jpeg"><br><br>
+
+---
+
+<img src="./img/november/ppk.png"><br><br>
 
 ### 1975
 

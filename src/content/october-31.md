@@ -1,11 +1,23 @@
 ---
 layout: post
 title: 31 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/wueska.jpg
 author: Tomasz Waszczyk
-date: 2018-10-31T10:00:00.000Z
+date: 2019-10-31T10:00:00.000Z
 tags:
-  - Historia
+  - WSK
+---
+
+### 2020
+
+Kryzys to transfer z tych którzy żyją na kredyt na tych którzy mają kapitał.
+
+<img src="./img/october/pkobp2020.jpg"><br><br>
+
+---
+
+<img src="./img/october/kwiaty.png"><br><br>
+
 ---
 
 ### 2001

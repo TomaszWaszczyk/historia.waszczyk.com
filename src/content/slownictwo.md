@@ -893,6 +893,8 @@ chałturować; potocznie:
 
 brzytwa ockhama - ucinać wątki poboczne brzytwą ockhama - nie gadać o pierdołach non stop
 
+https://pl.wiktionary.org/wiki/zaprza%C5%84stwo
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
