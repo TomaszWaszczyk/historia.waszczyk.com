@@ -12,6 +12,19 @@ tags:
 
 <img src="./img/october/swissmonetarybase.jpeg"><br><br>
 
+---
+
+Nie da się już tego słuchać. Obrzydliwa totalna propaganda sukcesu w czasie totalnej porażki. Jak Panu Premierowi nie wstyd? Kłamstwo za kłamstwem. Manipulacja za manipulacją.
+"Wiedzieliśmy, zapobiegliśmy, jesteśmy najlepsi, wyjątkowi...", "wszystko zgodnie z przewidywaniami...". Budowanie dumy narodowej na kłamstwie.
+Kiedy Morawiecki odtrąbił z uśmiechem, tuż przed wyborami, koniec pandemii, Polacy, szczególnie ci starsi, uwierzyli w te brednie i poszli na wybory. Andrzej Duda wygrał wybory dzięki m.in. emerytom i rolnikom (sic!), którzy dzisiaj wieszają psy na PiSie. Wmawiano nam, że polski rząd stanął na wysokości zadania, że inne kraje są beznadziejne, ale nasz kraj pod przywództwem najjaśniejszego przywódcy nawet z zarazą sobie poradził najlepiej, najszybciej, najskuteczniej... że panikarze powinni włożyć sobie lód w majtki (Pinkas). Szumowski porównywał Covid do zwykłej grypy, a Kaczyński ostentacyjnie zdejmował maseczkę, kiedy inni za brak maseczki byli karani mandatami. 
+Wprowadzono zakaz wstępu do lasu przy ok. 300 zakażeniach dziennie, dzisiaj mamy 4280 i rekordową liczbę zgonów.
+Ta prymitywna propaganda trwa nadal, a ludzie jak w jakimś amoku, jakby byli zaczadzeni, dalej wierzą tym hochsztaplerom.
+Dokąd zmierzasz, Polsko?
+
+<img src="./img/october/propagandamorawieckiego.jpg"><br><br>
+
+---
+
 ### 1982
 
 Sejm PRL przyjął ustawę o związkach zawodowych. W rzeczywistości pod tą dosyć enigmatycznie brzmiącą nazwą kryła się przyjęta przy sprzeciwie 12 głosów i 10 wstrzymujących się delegalizacja NSZZ Solidarność.

@@ -1,12 +1,16 @@
 ---
 layout: post
 title: 4 listopada
-image: img/1-08.jpeg
+image: img/november/furia.jpg
 author: Tomasz Waszczyk
-date: 2018-11-04T10:00:00.000Z
+date: 2019-11-04T10:00:00.000Z
 tags:
-  - Historia
+  - Furia
 ---
+
+### 2020
+
+<img src="./img/november/trump.png"><br><br>
 
 ### 1897
 

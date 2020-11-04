@@ -895,6 +895,8 @@ brzytwa ockhama - ucinać wątki poboczne brzytwą ockhama - nie gadać o pierdo
 
 https://pl.wiktionary.org/wiki/zaprza%C5%84stwo
 
+szkoła mydła i powidła
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

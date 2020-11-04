@@ -5,9 +5,15 @@ image: img/november/szareszeregi.jpg
 author: Tomasz Waszczyk
 date: 2019-11-03T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - McDonald
+draft: false
 ---
+
+### 2020
+
+<img src="./img/november/mcdonald.jpg"><br><br>
+
+<img src="./img/november/mcdonald2.jpeg"><br><br>
 
 ### 1942
 

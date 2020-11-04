@@ -11,7 +11,11 @@ draft: false
 
 ### 2020
 
- W weekend weszło w życie nowe rozporządzenie w sprawie przekazywania danych spisu wyborców gminnej obwodowej komisji wyborczej oraz operatorowi wyznaczonemu w związku z przeprowadzeniem wyborów na Prezydenta RP.
+W weekend weszło w życie nowe rozporządzenie w sprawie przekazywania danych spisu wyborców gminnej obwodowej komisji wyborczej oraz operatorowi wyznaczonemu w związku z przeprowadzeniem wyborów na Prezydenta RP.
+
+---
+
+<img src="./img/may/hemp.png"><br><br>
 
 ---
 
@@ -163,6 +167,18 @@ Kaczorowski był w czasie okupacji komendantem chorągwi Szarych Szeregów. Zost
 Wypuszczony z więzienia po wejściu w życie układu Sikorski-Majski, w marcu 1942 roku zasilił szeregi tworzonej w ZSRR przez gen. Władysława Andersa Armii Polskiej i wyszedł wraz z nią do Palestyny. Jako żołnierz 2. Korpusu w Batalionie Łączności 3. Dywizji Strzelców Karpackich walczył w kampanii włoskiej, pełniąc podczas bitwy pod Monte Cassino funkcję dowódcy ośrodka łączności 2. Brygady Strzelców Karpackich.
 
 <img src="./img/may/kaczorowski.jpg"><br><br>
+
+### 1936
+
+Szaleństwo wojny domowej w Hiszpanii. Wyrzucanie z trumien zmarłych, bezczeszczenie zwłok, niszczenie obiektów kultu religijnego, terror, samosądy i wiele innych. Na zdjęciach żołnierze strony republikańskiej i ich dzieło
+
+<img src="./img/may/hiszpaniawojna.jpg"><br><br>
+
+<img src="./img/may/hiszpaniawojna2.jpg"><br><br>
+
+<img src="./img/may/hiszpaniawojna3.jpg"><br><br>
+
+<img src="./img/may/hiszpaniawojna4.jpg"><br><br>
 
 ### 1934
 

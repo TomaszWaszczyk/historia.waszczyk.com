@@ -3035,6 +3035,12 @@ Konfucjusz stwierdził, że w państwie rządzonym dobrze wstyd być biednym. W 
 
 "GIVE me control of a nation's money supply, and I care not who makes its laws.” -- The First Central Banker, Mayer Rothschild
 
+Są ludzie którzy wiedzą że wierzą, i są tacy którzy wierzą że wiedzą.
+
+Move fast and break things
+
+James Oschman twierdzi „Energia jest walutą w prowadzeniu wszystkich transakcji w naturze”
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

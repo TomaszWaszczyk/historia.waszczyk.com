@@ -20,6 +20,14 @@ Kryzys to transfer z tych którzy żyją na kredyt na tych którzy mają kapita�
 
 ---
 
+Firma Lajkonik zapobiegawczo wycofuje z polskiego rynku kilka produktów, które w składzie zawierają sezam. Jak czytamy na stronie Głównego Inspektora Sanitarnego, chodzi o Paluszki z sezamem 150g z datami minimalnej trwałości 12.04.2021 oraz 26.04.2021
+Koktajlowy Mix 230g z datami minimalnej trwałości 19.04.2021, 20.04.2021, 21.04.2021 oraz 17.05.2021
+Wypiekarnia Bajgle z ziołami prowansalskimi 70 g z datami minimalnej trwałości 25.04.2021, 26.04.2021 oraz 10.05.2021
+Wypiekarnia Paluchy Oryginalne 70 g z z datami minimalnej trwałości 26.03.2021 i 10.04.2021
+Producent poinformował, że ziarna sezamu zawarte w produktach opisanych w tabeli mogą zawierać pozostałości tlenku etylenu, środka ochrony roślin. Jest on sklasyfikowany jako szkodliwy dla zdrowia, a jego stosowanie i wprowadzanie na rynek w Unii Europejskiej jest niedozwolone.
+
+---
+
 ### 2001
 
 https://en.wikipedia.org/wiki/William_Binney_(intelligence_official)

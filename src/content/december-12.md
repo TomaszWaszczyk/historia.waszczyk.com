@@ -25,6 +25,12 @@ Francuska firma Veolia, która kontroluje sieć ciepłowniczą w Gdańsku i Wars
 
 https://en.wikipedia.org/wiki/Paris_Agreement
 
+### 1989
+
+Tak wyglądał wówczas handel mięsem przed halą. I ludzie żyli bez unijnych zakazów. Nikt się nie przejmował.
+
+<img src="./img/december/halamirowska.jpg"><br><br>
+
 ### 1952
 
 W Warszawie odbył się zorganizowany przez Ministerstwo Bezpieczeństwa Publicznego zjazd księży patriotów- części duchowieństwa popierającej działania władz komunistycznych.

@@ -88,6 +88,21 @@ W 1983 r. Parlament Europejski zadecydował, że flaga Rady Europy będzie równ
 
 <img src="./img/may/zlo.jpg"><br><br>
 
+### 1956
+
+W Krakowie powstał klub "Piwnica pod Baranami".
+Od samego początku tworzyli go absolwenci krakowskich szkół artystycznych. Imprezy organizowali tam: Kazimierz Wiśniak, Piotr Skrzynecki, Janina Garycka, wśród organizatorów Piwnicy znaleźli się rzeźbiarz -
+Bronisław Chromy i student Państwowej Wyższej Szkoły Muzycznej - Krzysztof Penderecki. Klub organizował wystawy
+obrazów, wieczory poetyckie i muzyczne, występy zespołów bigbitowych i jazzowych.
+Jednak największą sławę i popularność przyniósł Klubowi Kabaret "Piwnica pod Baranami", który na lata stał się synonimem
+krakowskiej cyganerii i miejscem
+niezależnego myślenia. Jego konferansjerem i liderem był Piotr Skrzynecki.
+W 1961 roku "Piwnica" musiał się
+wyprowadzić z piwnicy Pałacu pod Baranami, gdy z nakazu władz lokal zajął Związek Młodzieży Socjalistycznej. Jednak po trzech
+latach piwniczanie wrócili na stare śmieci.
+
+<img src="./img/may/piwnicapodbaranami.jpg"><br><br>
+
 ### 1944
 
 Odbyło się w bloku 11 w KL Auschwitz posiedzenie policyjnego sądu doraźnego Gestapo katowickiego, podczas którego, skazano na śmierć około 160-170 osób. Byli wśród nich członkowie ruchu oporu okręgu śląskiego: Kazimierz Jędrzejowski, inżynier Cezary Uthke i prof. Jan Jumach. Na osadzenie w KL Auschwitz skazano około 17 do 20 osób. Wśród osadzonych w obozie był Stanisław Bies, którego w tym samym dniu oznaczono numerem 188478.

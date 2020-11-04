@@ -21,6 +21,12 @@ Przekręt WorldCom może być już dziś trochę zapomniany, ale kreatywna księ
 
 ---
 
+Kilka dni temu obalono pomnik E.Colstona, bo handlował niewolnikami. Zagrożony był też pomnik R. Badena-Powella, za rasistowskie poglądy. Jeśli mamy iść dalej tym tropem, to dobrymi kandydatami są pierwsi prezydenci USA. 10 z 12 posiadało niewolników, niektórzy setki. Pomników do obalenia też setki i zmiany nazw - stanów, miast, ulic, fortów, mostów, szkół, parków, palenie banknotów $1,2,50. Idąc jeszcze dalej, oczyma wyobraźni widzę, jak za kilkaset lat nasi potomkowie wymazują z pamięci bohaterów naszych czasów, np. za to że jedli mięso, albo nie segregowali śmieci.
+
+https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_owned_slaves
+
+---
+
 <video width="640" height="480" controls>
   <source src="./movies/june/NickLandsResponsetoTechSecessionism.mp4" type="video/mp4">
 Your browser does not support the video tag.

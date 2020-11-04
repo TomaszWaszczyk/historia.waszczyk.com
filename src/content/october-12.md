@@ -34,6 +34,13 @@ Profesor Stanisław Głuszek o swojej propozycji rozmawiał już ze studentami s
 
 ---
 
+Jak podał Simon Wakter, dziś prawie połowa energii elektrycznej generowanej w Niemczech pochodzi ze źródeł węglowych.
+Ma to miejsce 20 lat po rozpoczęciu w RFN transformacji energetycznej Energiewende i wpakowaniu w ten sektor setek miliardów euro.
+Czy prasa już przygotowała artykuły z zachwytami, jak to ma w zwyczaju, gdy niemieckie źródła odnawialne na pare godzin pobiją rekordy? 
+Bo warto zwrócić uwagę na takie aspekty Energiewende, które - w zestawieniu z długością trwania i kosztami tej transformacji - wskazują, że z perspektywy klimatycznej jest ona po prostu nieskuteczna.
+
+---
+
 <img src="./img/october/wezwanie.jpg"><br><br>
 
 ---

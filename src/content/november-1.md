@@ -12,13 +12,29 @@ tags:
 
 Wszystkich Świętych 2020. Zamknięte cmentarze 1 i 2 listopada.
 
+Stwórz problem a później go rozwiąż jak bohater - praktyka:
+
+<img src="./img/november/stworzproblemigorozwiaz.png"><br><br>
+
+---
+
 Więcej niż tysiąc słów:
 
 <img src="./img/november/groby.jpeg"><br><br>
 
 ---
 
+Materiał TVP zachęcający do PPK:
+
 <img src="./img/november/ppk.png"><br><br>
+
+---
+
+W ten weekend na Słowacji przeprowadzono ponad 1 mln testów na obecność COVID. Wyniki zostaną ogłoszone w poniedziałek przed południem. Dla wielu noże to być szok - gdy te wyniki zostaną ogłoszone. Wykrytych zakażeń może być nawet 200-300k jednorazowo.
+
+Ciekawe jak tę informacje odbiorą rynki finansowe? Dla wielu może to być totalne zaskoczenie..
+
+---
 
 ### 1975
 

@@ -13,6 +13,53 @@ draft: false
 
 Wystawca opcji PUT ponosi mniejsze ryzyko niż wystawca opcji CALL. Gdyż cena nie może spaść poniżej zera. Okazuje się, że podałem nieprawdę ;)
 
+---
+
+<img src="./img/april/polska2020.jpg"><br><br>
+
+Pamiętam koniec lat osiemdziesiątych. Pamiętam moich dziadkow, rodziców, wujków, sąsiadów. Pamiętam spotkania na targowiskach, wymianę barterową towarów. Ale to co najbardziej mi utkwiło w pamięci to fakt, że ta bliska osoba zza miedzy, zza lady była źródłem informacji o życiu i świecie. Dla moich dziadków i rodziców radio, prasa, telewizja były tylko radziecką propagandą. Dziadek który na początku wojny walczyl z Niemcami, w drugiej jej połowie walczył  z Sowietami powtarzał - miej swój rozum, a jak nie masz, słuchaj madrzejszego. 
+Trudno tych twardych ludzi było omamić sowiecką propagandą. Nawet "czarna wołga" była żartem. Codziennie sąsiedzi spotykali się przy płotach. Rozmawiali, dyskutowali, kłócili się. Dziś nie znamy sasiadow z klatki. 
+Czasy się zmieniły. Ich dzieci i wnuki nie odróżniają siekiery od młotka. Dziś smiertelnym zagrożeniem życia jest plac zabaw obudowany pianką. 
+Przez ostatnie 20 lat nasza rzeczywistością stało się to co promują reklamy, moda, popmedia. Wierzymy gadającym głowom z pudła, a sąsiada mamy za kretyna. 
+Wykorzystując nasze lenistwo, krótkowzroczność i wygodę, potężnym tego świata udało się zrobić to, czego nie dokonały najkrwawsze tyraniczne reżimy. 
+Człowieka zamieniono w zwierzę hodowlane. Narody stały się bezmyślną trzodą i bydłem. 
+Właśnie przechodzimy ostatni etap ostatecznego zadrutowania ryja. 
+Właśnie doświadczacie ostatniego etapu procesu pozbawienia nas resztek wolności. 
+Po koronawirusie kilka rządów, kilkanaście korporacji będzie wiedzieć o tobie więcej nie tylko niż twoi bliscy, ale również ty sam. 
+Twoja przyszłość będzie dla nich tak przewidywalna jak los kury nioski. 
+Dzień wolności podatkowej nie będziecie obchodzić w czerwcu, ale jak dobrze pójdzie to oby tylko we wrześniu. 
+Uwierzyłeś że w lesie złapiesz wirusa. Uwierzyłeś że maseczka cię zabezpieczy. Uwierzyłeś w tarczę Pinokia. Uwierzyłeś w trotyl, bombę termobaryczną, strzały, mierzeję wiślaną, milion elektrycznych samochodów, przejęcie Condora, komisję Jakiego, komisję Amber Gold, w samo Amber Gold, stocznie promowe, lotnisko w Radomiu i (nomen omen) Baranowie. Uwierzyłeś w Jezusa Króla Polski i zawierzenie polskiej gospodarki Czarnej Madonnie. 
+Gdyby dziś mój ojciec wstał z grobu i bym mu to opowiedział, zareagowałby tak jak za każdym razem gdy narozrabialem. 
+Przynioslby sznur od prodiża, zabrał do garażu i sprał dupę, że przez tydzień stalbym w szkolnej ławce bojąc się siadać. Nigdy więcej do głowy by mi nie przyszło wierzyć w te brednie. 
+Ale dziś nie ma już mądrych mężczyzn. Dziś nie ma już Ojców. Są tylko miękkie pały w rurkach, albo zakłamane cioty bijące swoje żony. Dziś mamy tylko chłopców w partii razem, albo służalcze podnóżki po prawilnej stronie z guanem prezesa na zaroście. 
+Zrozumcie!
+To nie wirus cię zabije. To nie wirus zabija. Jeśli nawet uwierzyłeś że Bill Gates bierze udział w światowym spisku depopulacji to sprawdź to co napisze poniżej.
+To nie AIDS, nie malaria, nie gruźlica, nie ebola, nie grypa, nie szarańcza, nie katastrofy, nie wypadki komunikacyjne i nie aborcja zabijają najwięcej ludzi na świecie. 
+Największym zabójca jest...
+...
+...
+...
+BIEDA! 
+Koronawirus przez rok niech zabije 5 milionów ludzi. Dla porównania - do tej pory od listopada 2019 przez koronawirusa umarło 100 tys.  
+Tymczasem rocznie umiera 11 milionów dzieci do 5tego roku życia z głodu. Z powodu braku dostępu do czystej wody rocznie na świecie umiera 40 milionów ludzi przed 30-tym rokiem życia. Ponieważ biedne rodziny nie stać na podstawe leki np takie jak antybiotyki, rocznie z powodu wyleczalnych chorób umiera 3 miliony ludzi. 
+Każdy tydzień zatrzymanej gospodarki światowej to wzrost śmiertelności  o kilka procent z powodu powyższych przyczyn. A to tylko pierwszy skutek. 
+Czy wiesz jakie rozwiązanie tego problemu szykują ci politycy? 
+Pewnie sobie myslisz, że obmyślają skąd wziąć większy helikopter żeby zrzucać "helikopter money", żeby ratować gospodarkę? Pewnie myslisz, że wspierają lekarzy i farmaceutów aby znaleźć lekarstwo i szczepionkę? 
+Jeśli tak myślisz to znaczy że jesteś głupkiem. 
+Politycy zajmują się tylko jedną rzeczą. Zastanawiają się jakiego winnego znaleźć na którego będzie można zrzucić winę, bo to jedyny sposób aby utrzymać się przy korycie. 
+A wiesz czym to się kończy? 
+Kończy się zawsze tym samym! Wystarczy znać historię. Historia magistra est.
+Przypomne,, że ostatni globalny kryzys gospodarczy zakończył się rokiem 1939! 
+Więc zapamietaj jedną rzecz: im bardziej pozwolisz im wcisnąć ci wiarę w wielką Polskę, tym szybciej przyślą ci syna w trumnie jeśli sam wcześniej nie zginiesz z całą rodziną od bomby. 
+Abyśmy jutra nie skończyli jak w 1939, nie możemy myśleć jak bezpodstawnie dumni Polacy. Dziś musimy myśleć i działać jak Europejczycy. Jeśli tego nie zrozumiemy i nie zaczniemy wspólnie działać staniemy się wasalem w imadlle amerykansko-chinskim podgryzanym przez Putina jak Ukraina. 
+Przestańcie wierzyć w Budapeszt Kaczyńskiego. Węgry juz nas mają w dupie układając się z Niemcami i budując pozycję gospodarczą na Ukrainie. 
+Jeśli nawet uwierzyliście w piękny slogan PiSu , "Polska sercem Europy", to odpowiedzcie sobie na pytanie: jak długo bije serce bez mózgu, wątroby czy choćby nerek?!
+Nasz obecny rząd nie jest naszym rządem. Nie ma znaczenia z jakiego powodu tak jest. Nie ma znaczenia czy to śpiochy KGB czy po prostu niedouczone tępaki.
+To na jaką rzeź nas prowadzą - to ma znaczenie.
+Już zrozumialem, że nikt za nas samych nie za dba o nasz interes. Już zrozumialem, że jeśli sam się tym nie zajmę, to sasiad, który liczy na mnie też tego nie zrobi.
+
+---
+
 #### Oszczędności Polaków nie są zagrożone
 
 Borys udzielił wywiadu Radiu Zet. Przyznał, że PFR, aby sfinansować 100-mln program pomocy, będzie teraz emitować obligacje. Nie jest jasne, czy trafią one do inwestorów indywidualnych. – Nie wykluczamy takiej emisji – dodał. Oprócz tego dowiedzieliśmy się, że oprocentowanie obligacji byłoby na poziomie 2 proc. rocznie. – Ale to nie jest sięganie po oszczędności – podkreślił.

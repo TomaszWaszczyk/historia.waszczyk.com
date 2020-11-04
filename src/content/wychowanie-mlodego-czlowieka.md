@@ -189,6 +189,8 @@ Your browser does not support the video tag.
 
 * IRWIN A. SCHIFF Jak Powstaje Bogactwo, I Kiedy Nie Powstaje
 
+* Kosmoliski, Marek Marcinowski
+
 ### Inne
 
 * https://www.subscribepage.com/kursRIE

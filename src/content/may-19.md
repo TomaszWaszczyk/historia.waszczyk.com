@@ -48,6 +48,37 @@ Foto: doktor generał Bolesław Szarecki
 
 <img src="./img/may/szarecki.jpg"><br><br>
 
+### 1939
+
+Minister spraw wojskowych generał dywizji Wojska Polskiego Tadeusz Adam Kasprzycki (na zdjęciu) podpisał w Paryżu tajny protokół Kasprzycki-Gamelin, w którym Francja zobowiązała się do niezwłocznej pomocy Polsce w przypadku agresji ze strony III Rzeszy.
+W protokole czytamy:
+I. W wypadku agresji niemieckiej przeciwko Polsce lub w wypadku zagrożenia żywotnych interesów Polski w Gdańsku, co wywołałoby zbrojną akcję Polski, Francuskie Siły Zbrojne
+rozpoczną automatycznie działania w sposób następujący:
+1. Francja podejmie natychmiast działania powietrzne zgodne z uprzednio ustalonym
+planem.
+2. Gdy tylko część sił francuskich będzie gotowa (około trzeciego dnia) Francja stopniowo przystąpi do działań ofensywnych o ograniczonych celach.
+3. Gdy tylko zaznaczy się główny wysiłek niemiecki przeciw Polsce, Francja głównymi siłami rozpocznie działania ofensywne przeciwko Niemcom (poczynając od piętnastego dnia) 
+II. W pierwszej fazie wojny Polska zaangażuje całość swych sił w działaniach obronnych przeciwko Niemcom, przechodząc do działań ofensywnych, gdy tylko okoliczności pozwolą, na ogólnych warunkach uzgodnionych przez oba Dowództwa.
+III. Na odwrót, jeśli gros sił niemieckich zaatakuje Francję, w szczególności przez Belgię lub Szwajcarię, co pociągnie za sobą wszczęcie działań zbrojnych przez armię francuską, Wojsko Polskie będzie dokładać wszelkich starań, by związać możliwie największą część sił niemieckich, na ogólnych warunkach uzgodnionych przez oba Dowództwa.
+IV. Aby wzmocnić uzbrojenie i wyposażenie Polskich Sił Zbrojnych, oba Dowództwa naczelne uznają za konieczne we wspólnym interesie natychmiastowe przyjście przez Francję z pomocą materiałową i finansową rządowi polskiemu. Pomoc ta pozwoli wydatnie zwiększyć siły Wojska Polskiego i rozwinąć w Polsce przemysł wojenny, tak na potrzebny Wojska Polskiego, jak i na potrzeby jego sojuszników na wschodnim teatrze działań wojennych.
+V. Oba Dowództwa Naczelne uważają za niezbędne kontynuowanie bardziej szczegółowych rokowań, mających na celu rozpracowanie wytycznych zawartych w niniejszym protokole.
+
+<img src="./img/may/kasprzycki.jpg"><br><br>
+
+### 1895
+
+W Petersburgu urodził się Stanisław Kopański- dowódca Samodzielnej Brygady Strzelców Karpackich walczącej w Tobruku.
+Tak o tym mówił.generał Władysław Sikorski:
+"Przyjmuję z zadowoleniem meldunek Pana Generała o objęciu przez Brygadę
+najpoważniejszego odcinka obrony Tobruku.
+Ten dowód zaufania, jak i wasze przejście do Tobruku wykorzystałem w całej pełni na najwyższym szczeblu stosunków polsko- brytyjskich, powodując przerwanie milczenia o naszym udziale w tej walce.
+Daje to dzisiaj doskonałe rezultaty dla
+sprawy. (...) Dziękuję w imieniu służby
+narodowej Panu Generałowi i dowodzonej przez niego Brygadzie za wspaniałą, prawdziwie polską postawę żołnierską"
+Kopański zmarł 10 marca 1976 roku w Londynie.
+
+<img src="./img/may/kopanski.jpg"><br><br>
+
 ### 1866
 
 W miejscowości Babin urodził się Tadeusz Jordan-Rozwadowski, herbu Trąby - marszałek polny porucznik (niem. feldmarschalleutnant) Cesarskiej i Królewskiej Armii, generał broni Wojska Polskiego.
