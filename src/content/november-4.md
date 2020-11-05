@@ -12,6 +12,28 @@ tags:
 
 <img src="./img/november/trump.png"><br><br>
 
+<img src="./img/november/twitter2020.jpeg"><br><br>
+
+---
+
+Jacek Gniadek o wprowadzonym drugim lockdown:
+
+> Społeczeństwo jest zirytowane i nie widzi w tym wszystkim sensu - mówi Rafał Ziemkiewicz. Mam podobne obserwacje. W marcu byłem gotowy na lockdown do świąt Wielkiejnocy, by poznać wirusa i zyskać na czasie. Dzisiaj to już do nikogo nie przemawia.
+> Zamykamy przedszkola i szkoły? Gdzie lekarze, pielęgniarki oraz pozostały personel medyczny zostawi małe dzieci, by pójść do pracy? Wprowadzamy lockdown, który zwiększa ilość zgonów NON COVID.
+> Wtedy zamknęliśmy fryzjerów, a teraz siłownie.  
+> W ubiegłą niedzielę byłem na zastępstwie w sąsiedniej parafii. Na mszy św. było mniej osób, niż wynosił limit. Teraz wprowadzamy nowe.
+> Lista pomysłów na walkę z wirusem, które nie mają sensu, jest długa. Obserwuje ludzi i widzę, że już pogodzili się z tym, że jest wirus i muszą nauczyć się z nim żyć. To, co ich irytuje, to działanie rządu, który mówi, że chce im pomóc. „Dziewięć najbardziej przerażających słów w języku angielskim to: jestem członkiem rządu i przybywam tu, by wam pomóc" (Ronald Reagan). W polskim tłumaczeniu też wyszło dziewięć.
+
+---
+
+Kwiat narodu:
+
+<img src="./img/november/kwiatnarodu.png"><br><br>
+
+---
+
+<img src="./img/november/countdown.png"><br><br>
+
 ### 1897
 
 https://pl.wikipedia.org/wiki/Dmitrij_Paw%C5%82ow

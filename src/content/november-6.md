@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 6 listopada
-image: img/1-08.jpeg
+image: img/november/prof.jpg
 author: Tomasz Waszczyk
 date: 2018-11-06T10:00:00.000Z
 tags:
-  - Historia
+  - Banki
 ---
 
 ### 1939

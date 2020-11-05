@@ -19,6 +19,14 @@ Mieliśmy już system społeczno-gospodarczy, który wymagał aby każdy miał p
 
 <img src="./img/october/utility.jpg"/><br><br>
 
+---
+
+Ekonomiści: Słabszy złoty pomoże gospodarce
+
+Druga fala pandemii uderzyła z pełną siłą, na co od razu zareagowały rynki finansowe. Osłabienie złotego to z jednej strony wyższe raty kredytów walutowych, ale z drugiej bardziej konkurencyjny eksport i wsparcie dla gospodarki w wychodzeniu z kryzysu.
+
+---
+
 ### 2008
 
 Z linii montażowej Zakładów Samochodowych Jelcz S.A zjechał ostatni autobus Jelcz. Był to model M083C, który pojechał do Krakowa wozić pasażerów tamtejszego MPK. Ostatni autobus, który wyjechał z fabryki, był niskopodłogowy, klasy midi. Miał drzwi otwierane do środka.

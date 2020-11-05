@@ -1,13 +1,23 @@
 ---
 layout: post
 title: 5 listopada
-image: img/1-08.jpeg
+image: img/november/polska2020.png
 author: Tomasz Waszczyk
-date: 2018-11-05T10:00:00.000Z
+date: 2019-11-05T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Polska
+draft: false
 ---
+
+### 2020
+
+Pół godziny do konferencji Premiera, a banki już szkołą pracowników z nowych obostrzeń.
+
+<img src="./img/november/banki.jpg"><br><br>
+
+---
+
+<img src="./img/november/polska2020.png"><br><br>
 
 ### 2015
 
