@@ -46,6 +46,10 @@ Katarzyna Popowa-Zydroń (Polska), Neal Larrabee (USA), Alexander Urvalov (ZSRR)
 
 <img src="./img/october/zimerman.jpg"/><br><br>
 
+### 1950
+
+<a href="./documents/october/2020/zlotowpolsce.pdf" target="_blank">Zakaz posiadania walut obcych</a>
+
 ### 1939
 
 Czwarty po Niemcach, ZSRR i Słowacji okupant wkroczył na tereny należące do Polski.

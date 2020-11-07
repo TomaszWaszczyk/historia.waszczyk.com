@@ -17,6 +17,14 @@ Pół godziny do konferencji Premiera, a banki już szkołą pracowników z nowy
 
 ---
 
+Guy Fawkes – dziedzictwo
+
+Nie dano jednak zapomnieć o postaci Guya Fawkesa. Na mocy specjalnej ustawy, rokrocznie 5 listopada palono ogniska (ang. bonfires) oraz podpalano kukłę Fawkesa. Miało być to wyrazem wdzięczności za przeżycie króla. O najsłynniejszego uczestnika spisku prochowego upomniała się też kultura, także ta popularna. Popularności tej postaci przysporzyła sztuka Juliusza Verne’a oraz komiks i nakręcony na jego podstawie film „V jak vendetta”. To właśnie z tego filmu pochodzi maska Guya Fawkesa, będąca znakiem rozpoznawczym członków hakerskiej grupy Anonymous. Ale to zupełnie inna historia.
+
+<img src="./img/november/anonymous.jpg"><br><br>
+
+---
+
 <img src="./img/november/polska2020.png"><br><br>
 
 ### 2015

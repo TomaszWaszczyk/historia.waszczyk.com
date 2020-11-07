@@ -3041,6 +3041,8 @@ Move fast and break things
 
 James Oschman twierdzi „Energia jest walutą w prowadzeniu wszystkich transakcji w naturze”
 
+Kiedyś zastanawialiśmy się czy jest życie po śmierci, teraz zastanawiamy się czy jest życie przed śmiercią.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

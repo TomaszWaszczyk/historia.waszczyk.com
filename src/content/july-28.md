@@ -57,6 +57,10 @@ Zbigniew Herbert spoczął na Cmentarzu Powązkowskim w Warszawie. Miał 74 lata
 
 <img src="./img/july/herbert.jpg"><br><br>
 
+### 1993
+
+https://pl.wikipedia.org/wiki/Konkordat_mi%C4%99dzy_Stolic%C4%85_Apostolsk%C4%85_i_Rzecz%C4%85pospolit%C4%85_Polsk%C4%85_(1993)
+
 ### 1975
 
 Sąd Wojewódzki w Katowicach skazał na karę śmierci Zdzisława Marchwickiego (zdjęcie).

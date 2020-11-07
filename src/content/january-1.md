@@ -284,6 +284,8 @@ Zmarł 2 października 2009 roku w Warszawie.
 
 https://en.wikipedia.org/wiki/Hyperinflation
 
+https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki
+
 ### 1915
 
 https://pl.wikipedia.org/wiki/J%C3%B3zef_%C5%9Awiat%C5%82o

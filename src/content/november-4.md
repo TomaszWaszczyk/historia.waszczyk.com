@@ -16,6 +16,10 @@ tags:
 
 ---
 
+<img src="./img/november/ethereum20.jpeg"><br><br>
+
+---
+
 Jacek Gniadek o wprowadzonym drugim lockdown:
 
 > Społeczeństwo jest zirytowane i nie widzi w tym wszystkim sensu - mówi Rafał Ziemkiewicz. Mam podobne obserwacje. W marcu byłem gotowy na lockdown do świąt Wielkiejnocy, by poznać wirusa i zyskać na czasie. Dzisiaj to już do nikogo nie przemawia.

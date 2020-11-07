@@ -897,6 +897,12 @@ https://pl.wiktionary.org/wiki/zaprza%C5%84stwo
 
 szkoła mydła i powidła
 
+<!-- oczy zarośnięte cipą -->
+
+utyskiwanie
+
+egzopaństwo - zarządzanie przez SMSy, bierność, spłacanie długów a nie akcja
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
