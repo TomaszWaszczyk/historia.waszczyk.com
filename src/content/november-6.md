@@ -8,6 +8,12 @@ tags:
   - Banki
 ---
 
+### 2020
+
+Trzęsienie ziemi. Tak można określić decyzje Stolicy Apostolskiej zakomunikowane dziś przez nuncjaturę apostolską w sprawie kard. Henryka Gulbinowicza. Zakaz uczestnictwa w nabożeństwach i wydarzeniach publicznych, zakaz używania insygniów biskupich, pozbawienie prawa do nabożeństwa i pochówku w katedrze i wreszcie kara finansowa na rzecz Fundacji św. Józefa - to pokazuje, że zarzuty wobec kardynała były bardzo poważne, bardzo wiarygodne, i że nie dotyczyły tylko tuszowania, ale i - o co był oskarżony - o własne nadużycia seksualne, także wobec nieletnich i bezbronnych dorosłych. Układ Gulbinowicza zresztą w ogóle jest w rozsypce. Najpierw usunięcie biskupa Edwarda Janiaka (wychowanek kardynała i biskup pomocniczy wrocławski), potem dochodzenie wszczęte wobec arcybiskupa Sławoja Leszka Głódzia (sekretarz i kierowca Gulbinowicza za czasów jego posługi w Białymstoku), i aż nie sposób nie zadać pytania, co dalej. Bliskimi współpracownikami kardynała, jego wychowankami byli przecież także biskup Jan Tyrawa i wieloletnie nuncjusz, a później Prymas abp Józef Kowalczyk, który - o czym też już wiadomo - przez lata tuszował rozmaite negatywne informacje dotyczące skandali seksualnych w polskim Kościele. Dzieje się, i wiele wskazuje na to, że będzie działo się więcej.
+
+<img src="./img/november/gulbinowicz.jpg"><br><br>
+
 ### 1939
 
 "Nie da się opisać, ile zawracania głowy mieliśmy z krakowskimi profesorami. Gdybyśmy sprawę tę załatwili na miejscu, miałaby ona całkiem inny przebieg. Proszę więc usilnie, aby nie kierować nikogo więcej do obozów koncentracyjnych w Rzeszy, lecz podejmować likwidację na miejscu. Każdy inny sposób postępowania stanowi obciążenie dla Rzeszy i dodatkowe utrudnienie dla nas. Posługujemy się tutaj innymi metodami i musimy je stosować nadal."

@@ -1,12 +1,27 @@
 ---
 layout: post
-title: 1 listopada
-image: img/1-08.jpeg
+title: 8 listopada
+image: img/november/patkowski.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-08T10:00:00.000Z
+date: 2019-11-08T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
+---
+
+### 2020
+
+> Są branże, kt. szczególnie odczują skutki koronawirus. To im dedykujemy działania zaprop. dziś przez premiera. Wśród rozw. jest też możliwość przebranżowienia. Chodzi o to, żeby nowa forma działalności gosp., kt. podejmą, dawała możliwość rozwoju i zarabiania - min.
+
+<img src="./img/november/patkowski.jpeg"><br><br>
+
+---
+
+Grafika pokazuje zadłużenie krajów rozwiniętych i rozwijających się w odniesieniu do PKB.
+Gigantyczny dług będzie coraz silniej ograniczał rozwój gospodarczy. Obligacje zadłużonych krajów staną się jeszcze bardziej ryzykowne. Dlatego też prawdopodobne jest to, że coraz więcej banków centralnych będzie zmuszonych do skupowania rządowego długu. W Polsce tego typu praktyki wprowadzono w marcu tego roku, kiedy wszyscy zajęci byli koronawirusem.
+
+<img src="./img/november/debt2020.jpeg"><br><br>
+
 ---
 
 ### 1926
