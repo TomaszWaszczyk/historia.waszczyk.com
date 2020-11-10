@@ -3,11 +3,18 @@ layout: post
 title: 10 listopada
 image: img/november/bekanntmachung.jpg
 author: Tomasz Waszczyk
-date: 2018-11-10T10:00:00.000Z
+date: 2019-11-10T10:00:00.000Z
 tags:
   - Berliner Mauer
-  - Deutsche Wiedervereinigung
 ---
+
+### 2020
+
+Wiceminister finansów: konsumenci nie odczuli w kieszeniach skutków epidemii
+
+Wiceminister finansów Piotr Patkowski, mówiąc o wsparciu przy drugiej fali pandemii, wyjaśnił, że tarczy dla konsumentów nie będzie, bo rząd skupia się na pomocy dla firm, by ochronić miejsca pracy. Ocenił, że jeśli konsumenci nie stracili pracy, to w kieszeniach mają pieniądze zaoszczędzone na rozrywce czy rekreacji. Zastrzegł jednak, że jeśli resort zauważy, że kredytobiorcy nie będą w stanie spłacać rat kredytów hipotecznych, jakaś interwencja może nastąpić.
+
+<img src="./img/november/patkowski.webp"><br><br>
 
 ### 1941
 
@@ -35,7 +42,7 @@ Zwolniony z więzienia w Magdeburgu Józef Piłsudski przybył do Warszawy. Wię
 
 ### 1910
 
-10 listopada 1910 w krakowskim kościele pod wezwaniem świętego Mikołaja odbył się ślub 33 -letniego Feliksa Dzierżyńskiego i 28-letniej Zofii Muszkat.
+W krakowskim kościele pod wezwaniem świętego Mikołaja odbył się ślub 33 -letniego Feliksa Dzierżyńskiego i 28-letniej Zofii Muszkat.
 Dzierżynski był synem Edmunda Dzierżyńskiego, nauczyciela fizyki i matematyki. Wywodził się z polsko-litewskiego rodu herbu Samson. Był działaczem Socjaldemokracji Krolestwa Polskiego i Litwy, Socjaldemokratycznej Partii Rosji, uczestnikiem Rewolucji Październikowej, twórcą sowieckiego systemu terroru i szefem sowieckich organów bezpieczeństwa.
 Zofia Muszkat była nauczycielką i aktywną działaczką komunistyczną.
 Z ich małżeństwa wywodził się jedyny syn Jan, który przyszedł na świat w czerwcu 1911 roku w więzieniu na warszawskim Pawiaku.

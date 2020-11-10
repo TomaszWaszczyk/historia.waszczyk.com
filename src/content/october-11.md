@@ -287,6 +287,10 @@ Zmarł 14 lutego 2008 roku.
 
 <img src="./img/october/szary.jpg"><br><br>
 
+### 1914
+
+https://pl.wikipedia.org/wiki/Krystyna_Marek
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-11.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

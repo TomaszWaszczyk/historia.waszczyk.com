@@ -116,6 +116,10 @@ Na zdjęciu członkowie Poalej Syjon-Lewica oddziału Szydłowiec (1934)
 
 <img src="./img/april/poalej.jpg"><br><br>
 
+### 1777
+
+https://pl.wikipedia.org/wiki/Carl_Friedrich_Gauss
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-30.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

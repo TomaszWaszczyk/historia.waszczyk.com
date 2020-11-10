@@ -82,6 +82,10 @@ Genezą tej batalii było opanowanie przez żołnierzy austro-węgierskich pocho
 
 <img src="./img/november/niepodleglosc.jpg"/><br><br>
 
+### 1912
+
+https://pl.wikipedia.org/wiki/Wac%C5%82aw_Stykowski
+
 ### 1862
 
 Urodził się Feliks Koneczny: https://pl.wikipedia.org/wiki/Feliks_Koneczny

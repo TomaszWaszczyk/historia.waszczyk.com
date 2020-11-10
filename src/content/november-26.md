@@ -49,6 +49,10 @@ Jako uzasadnienie podany został wystrój ołtarza "w postaci dużych rozmiarów
 
 W Białymstoku urodził się Ryszard Kaczorowski ostatni prezydent Polski na emigracji. Urząd ten sprawował w latach 1989-90, zastępując na tym stanowisku Kazimierza Sabbata. W czasie II wojny światowej służył w II Korpusie Wojska Polskiego generała Władysława Andersa,był uczestnikiem walk o Monte Cassino. Zginął 10 kwietnia 2010 roku w katastrofie samolotu prezydenckiego pod Smoleńskiem.
 
+### 1894
+
+https://en.wikipedia.org/wiki/Norbert_Wiener
+
 ### 1715
 
 W Tarnogrodzie zawiązana została konfederacja, której celem doprowadzenie do wyjścia z Polski wojsk saskich odsunięcie urzędników saskich od wtrącania się w wewnętrzne sprawy Rzeczypospolitej.

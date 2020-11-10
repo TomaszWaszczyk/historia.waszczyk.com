@@ -903,6 +903,10 @@ utyskiwanie
 
 egzopaństwo - zarządzanie przez SMSy, bierność, spłacanie długów a nie akcja
 
+restytuować - przywracać (przywrócić) do poprzedniego stanu; odnawiać (odnowić)
+
+ius postliminii
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

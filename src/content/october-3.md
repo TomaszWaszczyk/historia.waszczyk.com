@@ -53,6 +53,10 @@ Karol Szymanowski zmarł w 1937 roku.
 
 <img src="./img/october/szymanowski.jpg"/><br><br>
 
+### 1863
+
+https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Zaremba_(1863%E2%80%931942)
+
 ### 1846
 
 Król pruski Fryderyk Wilhelm drugi otworzył nowe połączenie kolejowe między Wrocławiem, a Mysłowicami. Odcinek ten liczył 193 kilometry długości. Towarzystwo Kolei Górnośląskiej (Oberschlesische Eisenbahn AG) w późniejszym okresie zbudowało i przejęło w użytkowanie dziesiątki innych linii kolejowych (m.in. Górnośląskie Koleje Wąskotorowe), stając się przed nacjonalizacją kolei na terenie Królestwa Prus jednym z największych

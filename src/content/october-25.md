@@ -46,6 +46,10 @@ The President put forward a host of benefits from using blockchain technology, n
 
 This doesn't come as a huge surprise. While China has cracked down on certain use-cases of blockchain technology, such as when a project is a scam or when tokens are issued through ICOs, it hasn't banned the use of cryptocurrencies, nor Bitcoin mining—for now. The country is also developing its own Central Bank Digital Currency (CBDC), hoping to be at the forefront of such development. It even sped up its CBDC efforts in light of Facebook's Libra project, although the latter has been hitting roadblock after roadblock.
 
+### 1945
+
+https://pl.wikipedia.org/wiki/Romuald_Szeremietiew
+
 ### 1941
 
 > „Skazujemy na śmierć głodową 1,2 miliona Żydów, nie ma potrzeby wiele mówić. Jest to zrozumiałe, a jeżeli Żydzi nie wymrą z głodu, trzeba będzie przyspieszyć antyżydowskie zarządzenia, i miejmy nadzieję, że tak się stanie.

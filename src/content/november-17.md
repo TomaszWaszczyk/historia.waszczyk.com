@@ -42,6 +42,14 @@ Ten główny propagandowy i informacyjny program TVP ukazywał się na antenie o
 Po Sierpniu 1980 roku Dziennik Telewizyjny był jednym z najzacieklej krytykowanych przez Solidarność i środowiska opozycyjne bastionów władzy i równie zaciekle przez władzę PRL broniony i sterowany. Był często narzędziem manipulacji i dezinformacji, przy czym nie wzdragano się przed stosowaniem metod powszechnie uznawanych w dziennikarstwie za nieuczciwe i godne potępienia.
 Po 13 grudnia 1981 roku prowadzący DTV między innnymi: Andrzej Racławicki, Witold Stefanowicz, Marcin Wilman czy Marek Tumanowicz przywdziali wojskowe mundury. Podobno był to pomysł właśnie Tumanowicza. W DTV swoją karierę rozpoczynała również pózniejsza rzeczniczka rządu Leszka Millera -Aleksandra Jakubowska.
 
+---
+
+Po 38 latach usunięto z Pl. Bankowego w Warszawie pomnik krwawego zbrodniarza komunistycznego Feliksa Dzierżyńskiego. W trakcie demontażu monument, ku radości zebranych ludzi, rozpadł się na części. Wydarzenie to jest jednym z symboli obalania komunizmu w Polsce.
+
+<img src="./img/november/dzierzynski.jpg"><br><br>
+
+---
+
 ### 1956
 
 W Moskwie odbyły się polsko- radzieckie rozmowy, w których udział wzięła delegacja pod przewodnictwem Władysława Gomułki (zdjęcie). Ustalono, iż zadłużenie Polski według stanu z 1 listopada 1956 roku zostanie umorzone oraz postanowiono o repatriacji 30 tysięcy Polaków zamieszkałych na terenie Związku Radzieckiego. Uzgodniono również status wojsk radzieckich w Polsce.

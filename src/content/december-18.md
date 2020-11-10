@@ -26,6 +26,10 @@ Watykan, dnia 18 grudnia 1981 r. Jan Paweł II
 
 <img src="./img/december/raczkiewicz.jpg"/><br>
 
+### 1937
+
+https://pl.wikipedia.org/wiki/Janusz_Onyszkiewicz
+
 ### 1933
 
 Aresztowany tydzień wcześniej działacz Komunistycznej Partii Polski Bolesław Bierut (zdjęcie) został skazany za współpracę z radzieckim wywiadem na 7 lat więzienia. Karę odbywał w aresztach w Mysłowicach i Rawiczu. Na wolność wyszedł przedterminowo, bo po 5 latach pozbawienia wolności.

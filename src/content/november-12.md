@@ -35,6 +35,10 @@ Tymczasem Neckermann nie zasypiał gruszek w popiele. Jego kolejną inwestycja p
 Firma w zamian za życie
 Mimo że w dość krótkim czasie Neckermann stał się jednym z najzamożniejszych mieszkańców Würzburga, ciągle uważał że działa na zbyt małą skalę. Szukał czegoś specjalnego, na czym mógłby zbić fenomenalną fortunę.
 
+### 1944
+
+https://pl.wikipedia.org/wiki/Tirpitz
+
 ### 1922
 
 https://pl.wikipedia.org/wiki/Tadeusz_Borowski_(pisarz)

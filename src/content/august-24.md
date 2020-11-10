@@ -15,6 +15,10 @@ Ciekawą rozmowę uciął sobie w TOK FM Maciek Głogowski z wiceministrem finan
 
 > „Oprocentowanie pieniędzy, które pożyczamy na rynku często jest niższe od poziomu inflacji. W związku z tym te pieniądze realnie i nominalnie tracą na wartości”
 
+### 1979
+
+https://pl.wikipedia.org/wiki/Hanna_Reitsch
+
 ### 1939
 
 Fragment artykułu z niemieckiej gazety regionalnej "Zullichau Schwiebuser Kreiszeitund"z dnia 24 sierpnia 1939 roku.

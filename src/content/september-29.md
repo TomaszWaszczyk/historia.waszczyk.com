@@ -9,6 +9,14 @@ tags:
 draft: false
 ---
 
+### 2020
+
+Mosbacher do Polaków: Jesteście po złej stronie historii
+
+"Musicie wiedzieć, że w kwestii LGBT jesteście po złej stronie historii. Mówię o postępie, który się dokonuje bez względu na wszystko. Używanie tego typu retoryki wobec mniejszości seksualnych jedynie wyobcowuje Polskę" – mówi ambasador Georgette Mosbacher w rozmowie z Marcinem Makowskim.
+
+<img src="./img/september/mosbacher.jpeg"><br><br>
+
 ### 2019
 
 Konferrencja Climate Action Summit.

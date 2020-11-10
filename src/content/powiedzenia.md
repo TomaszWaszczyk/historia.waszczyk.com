@@ -3043,6 +3043,20 @@ James Oschman twierdzi „Energia jest walutą w prowadzeniu wszystkich transakc
 
 Kiedyś zastanawialiśmy się czy jest życie po śmierci, teraz zastanawiamy się czy jest życie przed śmiercią.
 
+https://pl.wikiquote.org/wiki/Hugo_Steinhaus
+
+https://pl.wikiquote.org/wiki/Ksi%C4%99ga_Szkocka
+
+Dobry matematyk potrafi dostrzegać fakty, matematyk wybitny – analogie między faktami, a matematyk genialny – analogie między analogiami.
+
+Bis zum bitteren Ende
+
+"Nikomu nie bądźcie nic dłużni poza wzajemną miłością. Kto bowiem miłuje bliźniego, wypełnił Prawo." - list do Rzymian
+
+https://en.wikipedia.org/wiki/Pacta_sunt_servanda
+
+https://sv.wikipedia.org/wiki/Polsk_riksdag
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

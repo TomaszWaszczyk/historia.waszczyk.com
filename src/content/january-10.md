@@ -46,6 +46,10 @@ B. Fiałek
 PS Przy wyborze celowo nie zdecydowałem się na ujawnienie najwyższych wynagrodzeń w danej branży (główni kierownicy, dyrektorzy, prezesi) ani maksymalnych wynagrodzeń na danym stanowisku – nawet dla wybranych grup zawodowych (wybrałem minimalne – za pełen etat oraz najczęściej proponowane na danym stanowisku). Zachęcam do prześledzenia całego raportu i umieszczenia na nim 6750 złotych brutto dla lekarza specjalisty.
 PPS Poniekąd sami sobie jesteśmy winni temu, że nasze podstawowe uposażenia są niezbyt wysokie. Pracujemy bardzo dużo, więc zarabiamy sporo, nikogo nie interesuje, że za cały etat dostajemy realnie marne grosze (kiedy zaczynałem pracę 4 lata temu, to na rękę za wymiar całego etatu dostawałem 2215 złotych; teraz po protestach jest lepiej – 3500). Sami przestaliśmy szanować ten „pełen etat” żyjąc za dorobione pieniądze. Etat, który powinien być bazą do oceny naszych wynagrodzeń.
 
+### 1916
+
+https://pl.wikipedia.org/wiki/Henryk_Wendrowski
+
 ### 1569
 
 Na zamku w Lublinie rozpoczęły się trwające pół roku obrady Sejmu, których efektem było podpisanie Unii Lubelskiej czyli polsko-litewskiego porozumienia w wyniku którego powstało państwo znane jako Rzeczpospolita Obojga Narodów.

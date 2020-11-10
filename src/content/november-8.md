@@ -17,6 +17,13 @@ draft: false
 
 ---
 
+W ostatnich dniach w mediach pojawiły się informacje dotyczące podatków dla najbogatszych w USA, które zaproponował Joe Biden. Po szczegółowych wyliczeniach okazało się, że w niektórych stanach osoby zarabiające powyżej 400 tys. USD rocznie, zapłacą dochodowy w wysokości ponad 60%!
+Po wygranej Bidena, podatki rzędu 50% będą normą (dla całych Stanów Zjednoczonych).
+
+<img src="./img/november/biden.jpeg"><br><br>
+
+---
+
 Grafika pokazuje zadłużenie krajów rozwiniętych i rozwijających się w odniesieniu do PKB.
 Gigantyczny dług będzie coraz silniej ograniczał rozwój gospodarczy. Obligacje zadłużonych krajów staną się jeszcze bardziej ryzykowne. Dlatego też prawdopodobne jest to, że coraz więcej banków centralnych będzie zmuszonych do skupowania rządowego długu. W Polsce tego typu praktyki wprowadzono w marcu tego roku, kiedy wszyscy zajęci byli koronawirusem.
 
