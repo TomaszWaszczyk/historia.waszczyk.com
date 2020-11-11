@@ -10,6 +10,32 @@ tags:
 
 ### 2020
 
+🇵🇱Świętujemy dziś niepodległość🇵🇱, za którą jesteśmy wdzięczni Ignacemu Janowi Paderewskiemu, człowiekowi, który "wygrał Polskę na fortepianie"🎼. On sam mówił:
+
+> "Myśl o Polsce wielkiej i silnej, wolnej i niepodległej była i jest treścią mego istnienia, urzeczywistnienie jej było i jest jedynym celem mojego życia".
+
+Przypomnijmy do czego doprowadziła jego działalność polityczna, liczne kontakty i popularność.
+"Swoje szerokie kontakty za oceanem (...) wykorzystuje na rzecz rodaków. Za pośrednictwem pułkownika E. M. House’a informuje prezydenta Woodrowa Wilsona o sytuacji w Polsce, polityce zaborców, o dramacie Polaków. Dzięki wielkiej aktywności Paderewskiego prezydent Wilson w słynnym orędziu z 22 stycznia 1917, mówił wyraźnie o prawie Polski do niepodległości. Na tej podstawie jeden z 14 punktów pokoju sformułowanych przez Wilsona, mówi o konieczności powstania niepodległego państwa polskiego z dostępem do morza.
+Kiedy po odzyskaniu przez Polskę niepodległości Paderewski wracał do kraju, witany był jako symbol odrodzenia ojczyzny. Jego przyjazd do Poznania stał się pretekstem do wybuchu powstania wielkopolskiego.
+Po przyjeździe do Warszawy podjął się roli mediatora między Piłsudskim a obozem Dmowskiego. Józef Piłsudski, widząc zaangażowanie w odbudowę niepodległej Polski oraz umiejętności zmotywowania przeciwników politycznych do działania we wspólnym celu, mianował go premierem i jednocześnie ministrem spraw zagranicznych".
+Tekst z artykułu "Ignacy Jan Paderewski - mąż stanu, który łagodził obyczaje". polskieradio.pl
+
+<img src="./img/november/paderewski.jpg"><br><br>
+
+Na zdjęciu I.J. Paderewski z prezydentem W. Wilsonem 1917 r., Archiwum Akt Nowych
+
+<!-- W ramach cyklu Paderewski - jazz - inspiracje zapraszamy na koncert -->
+<!-- Herdzin meets Ignacy Jazz Paderewski -->
+<!-- W programie: -->
+<!-- IGNACY JAN PADEREWSKI / KRZYSZTOF HERDZIN -->
+<!-- - Menuet G-dur op. 14 nr 1 -->
+<!-- - Legenda As-dur op. 16 nr 1 -->
+<!-- - Nokturn B-dur op. 16 nr 4 -->
+<!-- - Temat z Fantazji Polskiej gis-moll op. 19 -->
+<!-- - Temat z III części (Finale. Allegro molto vivace) Koncertu fortepianowego a-moll op. 17 -->
+
+---
+
 Dr Martyka: Zaczyna się sprawdzać czarny scenariusz. Należy żądać zniesienia restrykcji
 
 Bezsensowne restrykcje oraz zrujnowanie funkcjonowania służby zdrowia na wiosnę tego roku, owocuje dzisiaj wzrostem zgonów o 40%!
