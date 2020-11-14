@@ -5,9 +5,15 @@ image: img/november/tfibitcoin.png
 author: Tomasz Waszczyk
 date: 2019-11-14T10:00:00.000Z
 tags:
-  - 
-draft: true
+  - Kamala Harris
+draft: false
 ---
+
+### 2020
+
+Kobieta która dąży do likwidacji chrześcijaństwa:
+
+<img src="./img/november/kamala.jpeg"><br><br>
 
 ### 2018
 

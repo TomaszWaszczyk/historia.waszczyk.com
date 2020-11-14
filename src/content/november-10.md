@@ -16,6 +16,12 @@ Wiceminister finansów Piotr Patkowski, mówiąc o wsparciu przy drugiej fali pa
 
 <img src="./img/november/patkowski.webp"><br><br>
 
+---
+
+<img src="./img/november/taxi.jpeg"><br><br>
+
+---
+
 ### 1941
 
 Gubernator dystryktu warszawskiego dr Ludwig Fischer wydał obwieszczenie o karze śmierci za „nieuprawnione opuszczenie żydowskich dzielnic mieszkaniowych” oraz o karze śmierci dla osób, które Żydom świadomie udzielają schronienia lub w inny sposób pomagają.

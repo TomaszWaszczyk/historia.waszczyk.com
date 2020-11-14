@@ -18,6 +18,7 @@ Przypomnijmy do czego doprowadziła jego działalność polityczna, liczne konta
 "Swoje szerokie kontakty za oceanem (...) wykorzystuje na rzecz rodaków. Za pośrednictwem pułkownika E. M. House’a informuje prezydenta Woodrowa Wilsona o sytuacji w Polsce, polityce zaborców, o dramacie Polaków. Dzięki wielkiej aktywności Paderewskiego prezydent Wilson w słynnym orędziu z 22 stycznia 1917, mówił wyraźnie o prawie Polski do niepodległości. Na tej podstawie jeden z 14 punktów pokoju sformułowanych przez Wilsona, mówi o konieczności powstania niepodległego państwa polskiego z dostępem do morza.
 Kiedy po odzyskaniu przez Polskę niepodległości Paderewski wracał do kraju, witany był jako symbol odrodzenia ojczyzny. Jego przyjazd do Poznania stał się pretekstem do wybuchu powstania wielkopolskiego.
 Po przyjeździe do Warszawy podjął się roli mediatora między Piłsudskim a obozem Dmowskiego. Józef Piłsudski, widząc zaangażowanie w odbudowę niepodległej Polski oraz umiejętności zmotywowania przeciwników politycznych do działania we wspólnym celu, mianował go premierem i jednocześnie ministrem spraw zagranicznych".
+
 Tekst z artykułu "Ignacy Jan Paderewski - mąż stanu, który łagodził obyczaje". polskieradio.pl
 
 <img src="./img/november/paderewski.jpg"><br><br>

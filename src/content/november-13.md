@@ -3,7 +3,7 @@ layout: post
 title: 13 listopada
 image: img/november/alina_janowska.jpg
 author: Tomasz Waszczyk
-date: 2018-11-13T10:00:00.000Z
+date: 2019-11-13T10:00:00.000Z
 tags:
   - Powstanie Warszawskie
 ---
@@ -11,7 +11,6 @@ tags:
 ### 2017
 
 > Nie chcę już opowiadać ludziom o swojej martyrologii, że siedziałam w więzieniu, że cierpiałam, że byłam przerażona. Chcę im powiedzieć, że życie bez miłości jest nic nie warte. (...) Trzeba mieć siłę, żeby wykrzesać w sobie miłość do bliźniego i to nie tylko do tego, który też ci ją okazuje. Ale także do tego, który jest np. wrogo nastawiony. To jest wielka sztuka, żeby się nie zniechęcić i nie machnąć wówczas ręką. Nie można zostawiać za sobą nie wyczyszczonych spraw międzyludzkich. Janowska, Alina.
-
 > Łatwo jest mówić o Polsce. Trudniej dla niej pracować. Jeszcze trudniej umrzeć, a najtrudniej cierpieć.
 
 W wieku 94 lat odeszła wybitna aktorka teatralna i filmowa Alina Janowska.
@@ -34,6 +33,13 @@ funkcjonariuszy i rezerwistów.
 We wsi Obórki na Wołyniu funkcjonariusze Ukraińskiej Policji Pomocniczej pod niemieckim dowództwem dokonali pierwszego masowego mordu na zamieszkujących tam Polakach.
 Preludium do tej zbrodni była napaść na tę wieś w dniu 11 listopada 1942 roku, kiedy to Ukraińcy wywlekając z domów i bijąc do nieprzytomności kijami aresztowali 13 Polaków pod zarzutem współpracy z radziecką partyzantką i ukrywania Żydów.
 13 listopada 1942 roku zbrodniarze wrócili do wsi. Tym razem wyganiali z domów wszystkich, których w nich zastali. Ludzi zapędzono do jednej ze stodół i zmuszono ich do położenia się twarzą do ziemi, po czym oddano strzały w tył głowy. Po zbrodni majątek zabitych został zagrabiony, a wieś spalona następnego dnia. Zabito 37 Polaków, 1 Ukrainkę i 1 Żydówkę.
+
+### 1921
+
+W Krakowie została opublikowana w formie plakatu druga jednodniówka futurystów polskich Nuż w bżuhu.
+Na ulicach Krakowa, a dwa tygodnie później – Warszawy, można było kupić „Nuż w bżuhu”, dwustronicową, gęsto zadrukowaną jednodniówkę futurystów – młodych artystów propagujących kult cywilizacji i masowość sztuki. Zgodnie z uproszczoną ortografią pisali: dźgńęte nożem w bżuh ospałe bydlę sztuki polskiej zaczęło ryczeć. pszez otwur żygnęła lawa futuryzmu. (...) demokraci wywieźće sztandary ze słowami naszych szwajcarskich pszyjaćuł: „Hcemy szczać we wszystkih kolorah!”. Prasa na występy futurystów reagowała oburzeniem, a Anatol Stern trafił za bluźnierstwo na trzy miesiące do aresztu. Oprócz niego do grupy należeli m.in. Bruno Jasieński, Aleksander Wat i Tytus Czyżewski.
+
+<img src="./img/november/nuz.jpg"><br><br>
 
 ### 1916
 

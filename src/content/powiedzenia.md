@@ -3059,6 +3059,11 @@ https://sv.wikipedia.org/wiki/Polsk_riksdag
 
 "uczciwość z chińską specyfiką"
 
+https://pl.wiktionary.org/wiki/finis_coronat_opus
+
+Radio Yerevan was asked: "What is the difference between the capitalism and socialism?"
+Radio Yerevan answered: "In the capitalism a man exploits the man, when in socialism is the opposite."
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
