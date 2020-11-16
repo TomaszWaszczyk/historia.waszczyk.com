@@ -45,6 +45,14 @@ W Berlinie odbyło się spotkanie Adolfa Hitlera z wysokimi rangą oficerami. W 
 
 <img src="./img/may/hitler.jpg"><br><br>
 
+### 1934
+
+Bonnie Elizabeth Parker and Clyde... Początkowo popełniali drobne wykroczenia, takie jak kradzieże (najczęściej portfeli), rozboje czy włamania. Z czasem zaczęli się dopuszczać morderstw. Zginęli 23 maja 1934 roku w policyjnej zasadzce, podczas której zostali zastrzeleni.
+
+<img src="./img/may/clyde.jpeg"><br><br>
+
+<img src="./img/may/clyde2.jpeg"><br><br>
+
 ### 1933
 
 Glass-Steagall was passed by the House of Representatives. It was passed by the Senate on May 25, 1933. It was signed into law by President Roosevelt on June 16, 1933, as part of the New Deal. It became a permanent measure in 1945.

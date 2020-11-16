@@ -12,6 +12,8 @@ draft: false
 
 https://en.wikipedia.org/wiki/Baizuo
 
+<!-- Goodwin Gaw -->
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/chinese.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

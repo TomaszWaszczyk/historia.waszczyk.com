@@ -157,6 +157,10 @@ Jeszcze tego samego dnia Niemiecki Czerwony Krzyż otrzymał odpowiedź od prezy
 
 <img src="./img/april/katyn2.jpg"><br><br>
 
+### 1922
+
+https://pl.wikipedia.org/wiki/Uk%C5%82ad_w_Rapallo
+
 ### 1871
 
 https://pl.wikipedia.org/wiki/Kaiserliche_Marine

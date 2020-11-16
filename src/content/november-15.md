@@ -1,12 +1,40 @@
 ---
 layout: post
 title: 15 listopada
-image: img/1-08.jpeg
+image: img/november/niechjada.jpg
 author: Tomasz Waszczyk
-date: 2018-11-15T10:00:00.000Z
+date: 2019-11-15T10:00:00.000Z
 tags:
-  - 
+  - Lekarze w Polsce
 draft: false
+---
+
+### 2020
+
+Jestem lekarzem, od 12 marca zajmuję się tylko i wyłącznie pacjentami sars-cov2dodatnimi bądź podejrzanymi o zakażenie i za cholerę nie mogę zrozumieć fenomenu "leku na covid".
+
+1)Osocze ozdrowieńców jest w tym momencie powszechnie stosowane, "lek" będzie działał tak samo. Nie ma szans na wywołanie absolutnie żadnego przełomu. Owszem, być może da mniej skutków ubocznych, to będzie niewątpliwe plus, ale efekt leczniczy będzie taki sam.
+
+2)Osocze, podobnie jak "lek" działa tylko w pierwszej fazie choroby, podawanie krytycznie chorym pacjentom w zasadzie nie ma sensu
+
+3)Leku nie da się wyprodukować taśmowo w dużych ilościach, będzie to zależne od ilości oddanego osocza.
+
+4)Jeśli cena leku będzie wysoka, szpital będzie wolał korzystać z tańszego, a równie skutecznego osocza.
+
+---
+
+<img src="./img/november/niechjada.jpg"><br><br>
+
+---
+
+<img src="./img/november/ue.jpg"><br><br>
+
+---
+
+Goldman Sachs:
+
+<img src="./img/november/gs.png"><br><br>
+
 ---
 
 ### 1985

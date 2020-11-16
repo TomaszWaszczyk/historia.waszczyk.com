@@ -12,6 +12,10 @@ tags:
 
 "Jestem zdegustowana. Ja, symbol Francji, ledwo rozpoznaję moją ojczyznę, którą najechała banda obcych łajdaków zagrażających autentycznemu Francuzowi. Znaczna część Francji nie należy już do Francuzów. To jest paskudne". Po czym jeszcze dodała: "Jestem zniesmaczona i przerażona. Francja jest dziś rządzona przez tchórzy bez jaj. To rząd pantoflarzy, wystraszonych królików, srających w gacie kastratów". Jeden z wiecznych symboli Francji, symboli kina i sexu lat 60'- Brigitte Bardot.
 
+### 2001
+
+https://en.m.wikipedia.org/wiki/Public_Finance_Balance_of_Smoking_in_the_Czech_Republic
+
 ### 1949
 
 Wpisywało się w szerszy kontekst komunistycznego planu podporządkowania sobie świata, a także w opresyjną ideologię, na którą składały się m.in. szpiegomania, zastraszanie obywateli, stosowanie odpowiedzialności zbiorowej❓

@@ -907,6 +907,12 @@ restytuować - przywracać (przywrócić) do poprzedniego stanu; odnawiać (odno
 
 ius postliminii
 
+"ceny paskarskie"
+
+paskarski - przymiotnik od: paskarstwo; charakterystyczny, typowy dla nieuczciwego i nielegalnego handlu przynoszącego zyski ze sprzedaży po zawyżonych cenach towarów, których brakuje na rynku, odnoszący się do takiego handlu (np. cena paskarska) lub osób zajmujących się takim handlem (np. pośrednik, wspólnik paskarski)
+
+fraternizacja - bratanie się, zaprzyjaźnianie się, zwłaszcza niestosowne i niewłaściwe ze względu na osoby lub okoliczności
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
