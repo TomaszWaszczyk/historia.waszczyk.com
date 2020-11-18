@@ -3,10 +3,26 @@ layout: post
 title: 18 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-18T10:00:00.000Z
+date: 2019-11-18T10:00:00.000Z
 tags:
-  - 
+  - Chrześcijaństwo w Europie
 draft: false
+---
+
+### 2020
+
+Francuski Episkopat oraz część wiernych nie akceptuje administracyjnego zakazu odprawiania mszy z udziałem wiernych, który obowiązuje we Francji od 3 listopada. Kilku organizatorów niedzielnych modlitw zostanie wezwanych w poniedziałek rano na komisariat policji w Bordeaux z powodu złamania zasady świeckości. 
+Kontekst całej tej sytuacji istotnie zmienia fakt, że zgodnie z przyjętą w 1905 r. ustawą, która precyzowała zasady rozdziały państwa i kościoła, wszystkie budynki sakralne wybudowanej przed tym rokiem stały się własnością państwa.
+Warto pamiętać, że własność prywatna w takich momentach daje poczucie bezpieczeństwa i chroni  przed ingerencją z zewnątrz osób trzecich, w tym państwa. Sytuacja Kościoła w Polsce w czasie lockdownu jest inna i z pewnością dlatego, że Kościół jest właścicielem budynków sakralnych.
+
+---
+
+Jedyną analogią dla sytuacji, w której już za moment się znajdziemy – kiedy system przestanie działać, kiedy nastąpi realny kolaps – jest stan wojny. Wtedy także instytucjonalno-społeczna struktura praktycznie przestaje działać, i przestają działać rozmaite formy symboliczne, które utrzymują w stanie względnej stabilności nasz obraz świata, siebie i innych, a tym samym regulują nasze myślenie i zachowanie się. 
+Francuski myśliciel Rene Girard, wieszcząc w swojej ostatniej książce z 2010 roku, opublikowanej kilka lat przed śmiercią, nadchodzącą apokalipsę, stawiał tezę, że zachodnia kultura – wskutek rozmaitych procesów cywilizacyjnych – niemal całkowicie utraciła zdolność do kanalizowania i ukierunkowywania przemocy. Że – innymi słowy – nie działają już żadne cywilizowane instytucje mające na celu łagodzenie potencjalnie radykalnych konsekwencji konfliktu, które sprowadzają się jego zdaniem do jednego: powszechnego antagonizmu, który doprowadzi prędzej czy później do samozagłady. 
+Nie wiem czy skrajny pesymizm Girarda wynika z trafnego przewidywania przyszłości, czy też jest wyłącznie konsekwencją pewnych teoretycznych założeń, które przyjął, ale jedno jest pewne: przed nami potężny kryzys, którego skali nie jesteśmy sobie w stanie nawet dzisiaj wyobrazić. 
+Tymczasem ludzie stojący na czele instytucji mających za zadanie temu kryzysowi zapobiec – a także my sami, oddalający od siebie te myśli i zachowujący się tak, jakby i tym razem „wszystko miało być ostatecznie dobrze” – zdajemy się tego wszystkiego całkowicie nie dostrzegać. I zachowujemy się jakby nigdy nic. 
+Co oczywiście tylko przyspiesza nadejście katastrofy.
+
 ---
 
 ### 1966

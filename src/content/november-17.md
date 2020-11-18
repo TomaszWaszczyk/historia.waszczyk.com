@@ -3,10 +3,35 @@ layout: post
 title: 17 listopada
 image: img/november/dziennik.jpg
 author: Tomasz Waszczyk
-date: 2018-11-17T10:00:00.000Z
+date: 2019-11-17T10:00:00.000Z
 tags:
   - Propaganda
 ---
+
+### 2020
+
+"Choć moje życie to głównie Mia i rola mamy, świat zmienia się na naszych oczach. Chcę się z Wami podzielić krótką perspektywą, jak firmy technologiczne planują rządzić światem. Cześć informacji pochodzi od mojego mentora. Tekst bardzo ciekawy, zróbcie dobrą kawę i życzę Wam budujących refleksji! 🙂 ☕️☀️
+Wiemy, że większość pracowników fabryk i kierowców wkrótce zniknie, co jest dość łatwe do zauważenia, jednocześnie w nadchodzących dziesięcioleciach firmy technologiczne będą próbować przejąć prawie każdą inną pracę i branżę. Jedynym sposobem na przetrwanie firm będzie samoistne stanie się firmami technologicznymi, a jedynym sposobem na znalezienie pracy przez jednostki będzie wprowadzanie innowacji i włączanie do swojej pracy niektórych najnowszych technologii.
+Firmy motoryzacyjne - Przemysł samochodowy nie widział nowego dużego gracza na rynku od dziesięcioleci, aż do pojawienia się Tesli. Nagle, wraz z pojawieniem się samojezdnych samochodów, do walki wkracza wiele firm technologicznych. Wszystkie tradycyjne firmy samochodowe zostały zmuszone do zmiany strategii i same próbują stać się firmami technologicznymi.
+Sprzedawcy detaliczni - Amazon Go to dopiero początek, gdy stanie się najtańszym i najbardziej wydajnym rozwiązaniem dla sklepów spożywczych, zastosuje tę samą technologię w centrach handlowych. Dzięki temu Amazon będzie mógł prześcignąć każdy tradycyjny sklep detaliczny, sklepy, które będą musiały wziąć wskazówki z przemysłu samochodowego i albo się przystosować albo znikną z rynku.
+Branża opieki zdrowotnej - giganci technologiczni zaczęli inwestować miliardy dolarów w nowe projekty opieki zdrowotnej, których celem jest włączenie technologii do naszego leczenia ludzi, a duża farmacja wydaje się podążać za ich przykładem. Lekarze również nie powinni czuć się zbyt komfortowo, ponieważ wydaje się, że to tylko kwestia czasu, zanim inne urządzenia będą w stanie powiedzieć Ci więcej o Twoim zdrowiu niż jakikolwiek inny lekarz.
+Telecom - Kiedy SpaceX, Facebook i Google zaczynają udostępniać usługi Wi-Fi na całym świecie, dlaczego ktokolwiek miałby nadal płacić wygórowane stawki firmom telefonicznym, skoro można po prostu rozmawiać przez FaceTime lub Skype?
+Następnie pojawia się sztuczna inteligencja i spustoszenie, jakie spowoduje ona w milionach miejsc pracy. Wszystko, od analityków finansowych po prawników, księgowych, a nawet zawody, takie jak terapeuci i twórcy treści są zagrożone zastąpieniem. Nie tylko nisko opłacani pracownicy muszą być ostrożni, wpłynie to również na osoby z wyższej półki.
+Tendencje te rozprzestrzeniają się na każdą dziedzinę życia i jeśli ludzie chcą nadal być istotni na rynku pracy, również będą musieli dostosować się i znaleźć innowacyjne sposoby włączania nowych technologii do swoich dziedzin.
+Konkurencja między firmami technologicznymi, a ich rywalami będzie zaciekła. Jak dotąd firmy technologiczne okazują się lepsze od konkurencji w jakimkolwiek segmencie gospodarki, na którym się skupiają. Mają dostęp do większej ilości danych, aby lepiej analizować trendy rynkowe, są bardziej elastyczni i innowacyjni oraz mają więcej pracowników z umiejętnościami potrzebnymi do adaptacji i rozwoju w XXI wieku.
+Jak będzie wyglądał świat, gdy każda firma będzie firmą technologiczną? Może nie jest to takie złe. Firmy technologiczne mają zwykle lepszą obsługę klienta, zwykle mają większą satysfakcję pracowników i są ogólnie bardziej odpowiedzialne za środowisko. Pozostaje pytanie, co zrobią wszyscy inni?
+Na świecie może jest 147 firm, które są właścicielami każdego innego i są zdominowane przez firmy inwestycyjne. Ale to nie ty i ja naprawdę kontrolujemy te firmy, mimo że większość naszych pieniędzy jest w nich. Biorąc pod uwagę naturę inwestowania pieniędzy, w cieniu znajdują się cztery firmy, które naprawdę kontrolują te, które posiadają wszystko.
+Zanim je ujawnię, trochę lekkiej matematyki:
+Według corocznego podręcznika z 2011 roku wydanego przez Investment Company Institute, we wszystkich funduszach inwestycyjnych na świecie jest 24,7 biliona dolarów (nieco mniej niż połowa z USA). W oparciu o dane z ICI, 1,24 biliona dolarów z tej kwoty jest bezpośrednio inwestowane w fundusze indeksowe, a kolejne 992 miliardy dolarów w aktywa ponad 24,7 biliona dolarów w fundusze giełdowe, które nie są funduszami inwestycyjnymi, ale są funduszami indeksowymi. Oznacza to, że większość tych pieniędzy znajduje się w „aktywnych” zarządzanych funduszach lub funduszach funduszy.
+Ale zastanów się nad tym: "szef funduszy hedgingowych zarządzający ogromnymi aktywami powiedział mi w zeszłym tygodniu, że wewnętrzne badanie przeprowadzone przez jego firmę wykazało, że dla zdecydowanej większości funduszy inwestycyjnych określonych jako aktywnie zarządzane 95% posiadanych aktywów jest określanych przez indeks. Oznacza to, że tylko 5% aktywnie zarządzanych funduszy jest naprawdę uzależnionych od oceny aktywnego menedżera."
+To mało aktywne zarządzanie ma dwa powody: jeden z nich to utrzymywanie funduszu w stylistyce (np. akcje o dużej wartości, akcje o średniej wartości) i zgodność z rzeczywistością, od wszystkich funduszy inwestycyjnych wymaga się posiadania indeksu porównawczego względem wydajności. Innym powodem jest przestrzeganie mierników ryzyka, którym podlega większość branży funduszy. Ten drugi punkt jest częściowo spowodowany nowoczesną teorią portfela (złożony tematem, którego nie będę tutaj omawiać) oraz ludzką naturą, że aktywni menedżerowie mają tendencję do budowania portfeli zbliżonych do indeksów, z którymi porównują się, aby uniknąć wyników z naprawdę dużymi spadkami, które wiązałoby się dla nich z utratą pracy.
+Tak więc z 25,69 bln USD w światowych aktywach, które zidentyfikowaliśmy, 2,23 bln USD znajduje się bezpośrednio w indeksach (ETF i indeksowe fundusze powiernicze), a kolejne 22,3 bln USD jest pośrednio związane z indeksami (to 95% aktywów zarządzanych aktywnie ).
+Możesz zobaczyć, dokąd zmierzam tutaj. Oznacza to, że prawdziwą władzę kontrolowania świata mają cztery firmy: 
+1. McGraw-Hill, która jest właścicielem Standard & Poor's, 
+2. Northwestern Mutual, która jest właścicielem Russell Investments, której ramię indeksujące prowadzi benchmark Russell 1000 i Russell 3000, 
+3. CME Group, która jest właścicielem 90% indeksów Dow Jones i Barclay's, które przejęły Lehman Brothers i jego Lehman Aggregate 
+4. Bond Index, dominujący indeks światowych funduszy obligacji. Te cztery firmy razem zdominowały świat indeksowania. A to z kolei oznacza, że ​​mają prawdziwy wpływ na światowe pieniądze.
+W przyszłości będzie wiele smutnych twarzy; podczas gdy nasze pieniądze powoli trafiają w ręce kilku firm, które dyktują politykę rządu."
 
 ### 2019
 

@@ -3499,6 +3499,9 @@ Radio Yerevan answered: "In the capitalism a man exploits the man, when in socia
     150.  VOLENTI NON FIT INURIA
     • Chcącemu nie dzieje się krzywda – patrz paremia nr 96 – „Podejmując działania zgodne z prawem nie należy spodziewać się żadnej krzywdy.”.
 
+Zmiana nie jest najgorsza. Należy się niepokoić, gdy nic się nie zmienia.
+
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
