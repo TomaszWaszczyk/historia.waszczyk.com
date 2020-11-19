@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 18 listopada
-image: img/1-08.jpeg
+image: img/november/koscioly2020.jpeg
 author: Tomasz Waszczyk
 date: 2019-11-18T10:00:00.000Z
 tags:

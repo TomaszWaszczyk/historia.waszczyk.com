@@ -137,6 +137,12 @@ Will continue for 9 more weeks.
 
 <img src="./img/sport/legcurl.png"><br><br>
 
+### Książki
+
+- Mocne Plecy Proste Ćwiczenia W Służbie Siedzenia - Harriet Griffey
+
+- Bóle kręgosłupa i stawów (okładka miękka) - Górnicka Jadwiga
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
