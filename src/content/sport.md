@@ -143,6 +143,9 @@ Will continue for 9 more weeks.
 
 - Bóle kręgosłupa i stawów (okładka miękka) - Górnicka Jadwiga
 
+- Stretching rozciąganie porady lekarza rodzinnego - Kujawa-Kamińska Grażyna, Guzowska Beata, Jagielski Mateusz
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/art.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
