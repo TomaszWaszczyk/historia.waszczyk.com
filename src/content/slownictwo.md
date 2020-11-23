@@ -913,6 +913,10 @@ paskarski - przymiotnik od: paskarstwo; charakterystyczny, typowy dla nieuczciwe
 
 fraternizacja - bratanie się, zaprzyjaźnianie się, zwłaszcza niestosowne i niewłaściwe ze względu na osoby lub okoliczności
 
+https://pl.wikipedia.org/wiki/Zaburzenia_afektywne
+
+jazda po lawinie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

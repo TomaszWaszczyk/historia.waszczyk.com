@@ -1,14 +1,19 @@
 ---
 layout: post
 title: 22 listopada
-image: img/1-08.jpeg
+image: img/november/japantimes.jpeg
 author: Tomasz Waszczyk
-date: 2018-11-22T10:00:00.000Z
+date: 2019-11-22T10:00:00.000Z
 tags:
-  - Historia
+  - Propaganda
 ---
 
+### 2020
+
+<img src="./img/november/japantimes.jpeg"><br><br>
+
 ### 2019
+
 <br>
 <img src="./img/november/marszalek-konczyc.jpg"/><br><br>
 

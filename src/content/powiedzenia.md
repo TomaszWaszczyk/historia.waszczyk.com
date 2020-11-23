@@ -3501,6 +3501,9 @@ Radio Yerevan answered: "In the capitalism a man exploits the man, when in socia
 
 Zmiana nie jest najgorsza. Należy się niepokoić, gdy nic się nie zmienia.
 
+Naród regeneruje się poprzez zwały trupów. - Bertrand Barère de Vieuzac
+
+Przed wojną popularne było powiedzenie: „nie stać cię na Krynicę – jedź za granicę”
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
