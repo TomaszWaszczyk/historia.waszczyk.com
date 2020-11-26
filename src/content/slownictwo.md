@@ -917,6 +917,15 @@ https://pl.wikipedia.org/wiki/Zaburzenia_afektywne
 
 jazda po lawinie
 
+economy of action
+
+wishy-washy - chwiejny, niezdecydowany [ informal ]
+
+https://pl.wikipedia.org/wiki/Inkryminacja
+
+potwarz - oszczerstwo
+dawniej: spotwarzyć, oszkalować, obmówić
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

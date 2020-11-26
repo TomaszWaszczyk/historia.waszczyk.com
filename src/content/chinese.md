@@ -12,6 +12,8 @@ draft: false
 
 https://en.wikipedia.org/wiki/Baizuo
 
+https://www.coursera.org/learn/chineseforbegin
+
 <!-- Goodwin Gaw -->
 
 ---

@@ -3,10 +3,24 @@ layout: post
 title: 26 listopada
 image: img/november/kiszczak.jpg
 author: Tomasz Waszczyk
-date: 2018-11-26T10:00:00.000Z
+date: 2019-11-26T10:00:00.000Z
 tags:
   - Kiszczak
 ---
+
+### 2020
+
+Ostatni przemysłowy producent zapałek w kraju - PCC Consumer Products Czechowice, zostanie zlikwidowany. Spółka poinformowała, że w czwartek zadecydowali o tym akcjonariusze podczas nadzwyczajnego walnego zgromadzenia.
+
+„Decyzję podjęto w związku z trudną sytuacją ekonomiczną zakładu spowodowaną malejącym popytem na zapałki oraz trudnościami związanymi z epidemią COVID-19. Proces likwidacji potrwa kilka miesięcy, a w jego trakcie zostaną spełnione wszystkie zobowiązania wobec pracowników i kontrahentów likwidowanego zakładu” – podano w lakonicznym komunikacie.
+
+Kiedy decyzja wejdzie w życie, przestanie istnieć ostatni przemysłowy producent zapałek w Polsce. Wcześniej zostały zamknięte fabryki w Gdańsku, Sianowie, Bystrzycy i Częstochowie.
+
+Czechowicka fabryka zapałek zaczęła produkcję 100 lat temu. Była jednym z największych w Europie producentów. Eksportowała także poza Stary Kontynent. W latach 2000. jej zdolności produkcyjne sięgały 650 mln szt. pudełek zapałek standardowych oraz ok. 30 mln szt. pudełek reklamowych i galanterii zapałczanej.
+
+Latem 2011 r. warszawska spółka PCC Consumer Products odkupiła 85 proc. akcji fabryki od Skarbu Państwa. (PAP)
+
+<img src="./img/november/zapalki.jpg"><br><br>
 
 ### 2008
 
@@ -22,6 +36,8 @@ Po latach mówiła ona dalej:
 "Wolińskiej trudno dziś życzyć więzienia, kary śmierci, szubienicy. Marzę tylko o jednym – żeby została uznana za inkwizytorkę, człowieka podłego. Żeby ten potwór w mundurze przestał żyć w chwale żony profesora Oksfordu."
 W roku 2006 prezydent RP Lech Kaczyński pozbawił ją Krzyża Kawalerskiego
 Orderu Odrodzenia Polski (przyznanego w 1945) i Krzyża Komandorskiego tego orderu (przyznanego w 1954), zaś w roku 2007 Instytut Pamięci Narodowej wystąpił z wnioskiem o wydanie europejskiego nakazu aresztowania (ENA) wobec przebywającej w Wielkiej Brytanii Heleny Wolińskiej. Ona sama określiła to wszystko jako "cyrk".
+
+<!-- To są sponsorowane bzdury, mieszkania drożeją... a wystaw w tej cenie mieszkanie i sprawdź kto do ciebie zadzwoni bo obstawiam ze telefon będzie gorący od pośredników (bo nie sprzedają i pali się dupa) a ile będzie tel od klientów potencjalnych. Prosty test pokazuje ze bańka już spadła na ziemie ale jeszcze nie pękła bo trzyma ją napięcie powierzchniowe wody z której się składa. mające tyle samo wspólnego z obecnym rynkiem nieruchomosci co ten artykuł. ☝️ -->
 
 ### 1991
 
