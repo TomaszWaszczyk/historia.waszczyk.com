@@ -91,6 +91,8 @@ Grzegorz Przemyk jest pochowany na warszawskim Cmentarzu Powązkowskim w kwaterz
 
 <img src="./img/may/przemyk.jpg"><br><br>
 
+https://pl.wikipedia.org/wiki/Oficyna_Wydawnicza_%E2%80%9ERytm%E2%80%9D
+
 ### 1955
 
 Podpisano Układ Warszawski.

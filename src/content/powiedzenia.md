@@ -3505,6 +3505,8 @@ Naród regeneruje się poprzez zwały trupów. - Bertrand Barère de Vieuzac
 
 Przed wojną popularne było powiedzenie: „nie stać cię na Krynicę – jedź za granicę”
 
+virtus ipsa pretium sui - sama cnota jest nagrodą
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

@@ -3,10 +3,16 @@ layout: post
 title: 28 listopada
 image: img/november/trojka.jpg
 author: Tomasz Waszczyk
-date: 2018-11-28T10:00:00.000Z
+date: 2019-11-28T10:00:00.000Z
 tags:
-  - Historia
+  - Amazon
 ---
+
+### 2020
+
+„Niech Amazon zapłaci” - pod takim hasłem pracownicy kalifornijskiego giganta na całym świecie domagają się lepszych płac, przestrzegania prawa i szanowania planety. Pracownicy polskich magazynów protestują od dwóch tygodni. „Firma nie poczuwa się do tego, żeby podzielić się z nami tym zyskiem, który przecież wypracowaliśmy”
+
+<img src="./img/november/safe_image.jpeg"><br><br>
 
 ### 1943
 

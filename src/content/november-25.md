@@ -12,6 +12,20 @@ tags:
 
 Odbyła się w Polsce pierwsza tura wyborów prezydenckich. Zgłosiło się 16 kandydatów, z których tylko 7 zebrało 100 tysięcy podpisów potrzebnych do rejestracji. W głosowaniu udział wzięło ponad 60 procent Polaków uprawnionych do głosowania. Prawdziwym czarnym koniem tej był biznesmen prowadzący interesy w obu Amerykach Stanisław Tymiński, który uzyskując 23 procent głosów, przy prawie 40 procentach Lecha Wałęsy przeszedł do drugiej tury wyborów, która odbyła się 9 grudnia 1990 roku.
 
+<!-- Lewicowym dziennikarzom, wielbicielom Wielkiej Rewolucji Francuskiej, należałoby
+przypomnieć, że w czasie Terroru zostały zamknięte wszystkie gazety i ukazywało się tylko jedno
+pismo, „Moniteur”, organ rewolucyjnych władz. Niemniej jednak skazano na gilotynę wielu
+dziennikarzy za to, co pisali kilka miesięcy, a nawet kilka lat wcześniej. Dlatego należałoby
+oczekiwać powściągliwości od tych, co piszą corocznie chwalebne artykuły z okazji rocznicy zdobycia
+Bastylii.
+Niemieckie łagry i sowieckie gułagi wcale nie były wymysłem Hitlera ani Stalina. To Saint-Just
+doszedł do wniosku, że zamiast gilotynować przeciwników, bardziej opłaca się wysłać ich do obozów
+pracy. -->
+
+### 1957
+
+https://en.wikipedia.org/wiki/666_Fifth_Avenue
+
 ### 1939
 
 Urząd do Spraw Polityki Rasowej NSDAP opublikował memoriał pt "Traktowanie ludności byłych obszarów Polski z punktu widzenia polityki rasowej" napisany przez niemieckiego prawnika i radcę sądowego Erharda Wetzela (zdjęcie) i doktora Güntera Hechta.
