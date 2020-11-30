@@ -43,6 +43,10 @@ Artykuł "Masakra na Pawiaku", zamieszczony w 23 numerze Biuletynu Informacyjneg
 
 <img src="./img/june/masakra.jpg"><br><br>
 
+### 1861
+
+https://pl.wikipedia.org/wiki/Andrzej_Kazimierz_Potocki
+
 ### 1807
 
 Rozrgrała się jedna z największych bitew napoleońskich- bitwa pod Lidzbarkiem Warmiński znana też jako bitwa pod Heilsbergiem .

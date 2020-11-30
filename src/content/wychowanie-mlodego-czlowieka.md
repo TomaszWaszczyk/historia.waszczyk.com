@@ -240,6 +240,8 @@ myślenie krytyczne
 
 https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
+<!-- https://globalna.ceo.org.pl/ -->
+
 ---
 
 <img src="./img/wychowanie-mlodego-czlowieka/gitmerge.jpeg"><br><br>

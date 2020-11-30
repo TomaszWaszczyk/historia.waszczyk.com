@@ -3,10 +3,16 @@ layout: post
 title: 1 grudnia
 image: img/december/sojuz.jpg
 author: Tomasz Waszczyk
-date: 2018-12-01T10:00:00.000Z
+date: 2019-12-01T10:00:00.000Z
 tags:
   - Charles Merrill
 ---
+
+### 2020
+
+Congratulations to my friend Janet Yellen on her nomination as US Treasury Secretary. Her intelligence, tenacity and calm approach make Janet a trailblazer for women everywhere. I look forward to tackling yet again the global economic challenges we are facing, together.
+
+<img src="./img/december/yellen.jpeg"><br><br>
 
 ### 2017
 

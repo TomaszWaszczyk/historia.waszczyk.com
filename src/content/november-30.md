@@ -3,10 +3,16 @@ layout: post
 title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
-date: 2018-11-30T10:00:00.000Z
+date: 2019-11-30T10:00:00.000Z
 tags:
-  - Historia
+  - ZUS
 ---
+
+### 2020
+
+Po Q3 liczba cudzoziemców ubezpieczonych w ZUS znowu osiągnęła nowe maksimum (689,2 tys.). Tym samym w ujęciu kwartalnym minione 3 miesiące odrobiły z nawiązką odpływ widoczny w Q2. Od początku roku liczba ta wzrosła o 37,7 tys. Taka sytuacja z pewnością będzie działać w kierunku łagodzenia potencjalnych napięć podażowych na rynku pracy. Z drugiej strony słabiej wygląda liczba ubezpieczonych Polaków, która od początku roku jest spadła o 413,5 tys.
+
+<img src="./img/november/zuspl2020.png"><br><br>
 
 ### 1943
 
