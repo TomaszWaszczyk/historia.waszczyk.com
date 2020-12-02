@@ -3,9 +3,43 @@ layout: post
 title: 2 grudnia
 image: img/december/rydz.jpg
 author: Tomasz Waszczyk
-date: 2018-12-02T10:00:00.000Z
+date: 2019-12-02T10:00:00.000Z
 tags:
   - Rydz Śmigły
+---
+
+### 2020
+
+“The prelude of an Asian Era has begun,” China’s state-run Global Times declared on Monday, citing data indicating that Asia will “contribute roughly 60 percent of global growth” by 2030.
+
+The article also cited East Asian societies’ emphasis on “order” over personal freedom as a strong indicator that the region will recover more efficiently from the ongoing coronavirus pandemic than Western nations.
+
+“By 2025, China’s GDP is expected to catch up with or even surpass that of the US. India may surpass Germany to become the world’s fourth-largest economy.  … The US’ status as the world’s largest economy will be nearing its end. For the first time, three Asian countries will be among the four major economies in the world,” the newspaper noted.
+
+The Global Times cited the recent “signing of the Regional Comprehensive Economic Partnership (RCEP) on November 15” as a further indication of Asia’s growing economic dominance.
+
+The trade pact’s inking “brought together ASEAN [the Association of Southeast Asian Nations] nations, Japan, South Korea, China, Australia and New Zealand into one of the most diverse and populated trade blocks on Earth,” according to the newspaper. “It marks a new age for Asian regional cooperation that features multilateralism and trade liberalism. In terms of the global recovery process during the post-pandemic era, this new configuration can accomplish many things.”
+
+India, which the Global Times cited as a future top four global economy by 2025, notably opted out of signing the RCEP on November 15, in line with its stated goal of becoming less dependent on foreign supply chains, which in turn helps to contain Chinese dominance over Asian manufacturing and trade.
+
+Written by Wang Wen, a “professor and executive dean of Chongyang Institute for Financial Studies at Renmin University of China,” the Global Times article further argued that East Asian societal norms, in particular their focus on “self-discipline” and a “code of conduct,” suggest that the region will combat the negative side effects of the coronavirus pandemic more successfully than western countries.
+
+“From the perspective of national governance, East Asian countries, which put emphasis on order in their culture, show more efficiency in fighting against the pandemic, compared with European countries and the US, which purportedly value freedom more,” Wang stated. “Therefore, Asian countries are also revitalizing their economies faster than other parts of the world.”
+
+A report by the Jakarta Post in January seems to support the Global Times‘ prediction of the incremental growth in Asian economies.
+
+“In 2020 Asia’s gross domestic product will overtake gross domestic product (GDP) of the rest of the world combined. By 2030, the region is expected to contribute roughly 60 percent of global growth,” the article, co-authored by a member of the World Economic Forum’s executive committee, revealed.
+
+“Asia-Pacific will also be responsible for the overwhelming majority (90 percent) of the 2.4 billion new members of the middle class entering the global economy. The bulk of that growth will come from the developing markets of China, India and throughout South-East Asia,” the Indonesian newspaper added.
+
+<img src="./img/december/china2020.png"><br><br>
+
+---
+
+USD/PLN zbliża się do arcy-ważnego poziomu 3,65. Brakuje zaledwie 3 groszy. Ewentualne przełamanie tego wsparcia otwiera drzwi (a nawet wrota) do dalszego zjazdu w kierunku 3,30. Coraz bardziej widzę podobieństwo bieżącej sytuacji do tej z 2005-2006. Takie same struktury fal. Podobieństwo takie jest tez widoczne na wykresie EUR/USD.
+
+Szkoda polskich eksporterów. Przy silnym złotym, trudniej im będzie odrobić straty Covidowe.
+
 ---
 
 ### 2009
@@ -103,6 +137,28 @@ Byłby to okres walki o zatarcie granic pomiędzy
 Polską A i Polską B".
 Tymi słowami 2 grudnia 1938 roku wicepremier Eugeniusz Kwiatkowski uzasadniał wprowadzenie opracowanego przez siebie nowego 15-letniego planu gospodarczego dla Polski.
 Niestety ,jak wszyscy wiemy 1 września 1939 roku zniweczył te zamiary.
+
+---
+
+Wicepremier i minister skarbu Eugeniusz Kwiatkowski ogłosił 15-letni plan gospodarczy.
+Plan, rozłożony na etapy, sięgał do 1954 roku: okres I (1939-1942) - rozbudowa sektora zbrojeniowego; okres II (1942-1945) - rozwój transportu: sieci drogowej i kolejowej, sieci mostów, przemysłu samochodowego, kolejowego i lotniczego; okres III (1945-1948) - rozwój rolnictwa: melioracja, rozwój edukacji w rejonach wiejskich; okres IV i V (1948-1954) - wyrównywanie różnic w poziomie życia w różnych regionach kraju.
+Perspektywę rozwoju gospodarczego Kwiatkowski przedstawił podczas posiedzenia sejmu: "Już kilkakrotnie w historii odrodzonej Polski udowodnione zostało w sposób niewątpliwy, że przy koncentracji woli kierowniczej, przy koncentracji pieniędzy i programu, powstają dzieła wielkie i montujące siłę moralną, polityczną i materialną Polski. (...) Okres I więc obejmuje lata 1939-1942, przy czym zadaniem naczelnym będzie dalsza rozbudowa potencjału obronnego. Produkcja ta ma osiągnąć w tym okresie najwyższą doskonałość techniczną i eksportową.
+(...) W okresie II, obejmującym lata 1942-45, dominować winno zagadnienie komunikacyjne. Koleje, mosty, drogi bite, drogi wodne śródlądowa i kanały, dalszy skok w rozbudowie Gdyni, motoryzacja i lotnictwo cywilne, produkcja samochodów - oto podstawowe cele drugiego okresu.
+W okresie III - w latach 1945-48 - sama logika celów narzuci nam nowe potrzeby, które zamykają się w dwóch słowach: oświata ludowa i rolnictwo... w tym właśnie 3-leciu należałoby skoncentrować największe środki materialne na rozbudowę szkolnictwa wiejskiego - powszechnego i zawodowego, na meliorację, na usprawnienie obrotu produktami rolnymi, na spotęgowanie i zróżnicowanie produkcji rolnej. Cegła, cement i żelazo w budownictwie wiejskim, maszyna w uprawie i produkcji - oto naczelne hasło tego okresu wsi polskiej, pozbawionej młodych analfabetów.
+(...) Okres IV miałby wysunąć hasło: urbanizacja i uprzemysłowienie Polski. W tym okresie skoncentrowałyby się wielkie inwestycje miejskie, zagadnienia kultury i oświaty najwyższego rzędu, zagadnienia zdrowotne w miastach, a przede wszystkim ostateczna polonizacja struktury miast polskich...
+(...)Wreszcie, w okresie V, sięgającym roku 1954, dominowałaby akcja o ujednolicenie struktury i dynamiki gospodarczej w Polsce. Byłby to okres walki o zatarcie granic pomiędzy Polską A i Polską B".
+Kwiatkowski zdawał sobie sprawę, że realizacja długofalowych planów, zwłaszcza w niestabilnej sytuacji politycznej w Europie, może natrafić na poważne trudności: "Oczywiście, że przedstawiony schemat działań ma sens ekonomiczny tylko jako linia kierunkowa i programowa. Życie jest bardziej skomplikowane od wszelkich, jaśniejszych nawet wypracowań na dalszą metę".
+Miał rację, 1 września 1939 roku rozpoczęła się wojna z Niemcami.
+
+<img src="./img/december/planrozbudowy.jpg"><br><br>
+
+<!-- Jak możesz używaj natywnych swgwit adresów (bc1) - są najtańsze później. Jednak nie wszystkie serwisy pozwalają, więc warto mieć drugi z adresami kompatybilnymi (3 z przodu), które działają wszędzie, są tańsze niż standardowe (1 z przodu) ale trochę droższe niż bc1
+Adresy z 1 z przodu są najdroższe, i nie ma ekonomicznego sensu ich używać.
+Wydania z bc1 w stosunku do wydania z 1 mogą być nawet kilkukrotnie tańsze.
+Pomiędzy 3 a bc1 jest kilka % różnicy.
+I tak dużo zależy od transakcji. -->
+
+---
 
 ### 1914
 

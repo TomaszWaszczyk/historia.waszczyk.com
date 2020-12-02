@@ -932,6 +932,8 @@ https://pl.wiktionary.org/wiki/AFAICT
 
 https://pl.wikipedia.org/wiki/Przewr%C3%B3t_kopernika%C5%84ski
 
+postmodern philosophy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

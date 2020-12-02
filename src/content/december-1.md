@@ -1,18 +1,28 @@
 ---
 layout: post
 title: 1 grudnia
-image: img/december/sojuz.jpg
+image: img/december/ethereum2.jpeg
 author: Tomasz Waszczyk
 date: 2019-12-01T10:00:00.000Z
 tags:
-  - Charles Merrill
+  - Ethereum
 ---
 
 ### 2020
 
+The launch of the #Eth2 Beacon Chain is characteristic of the emergent, open-source ethos that attracts so many to Ethereum in the first place. More than 27,000 validators from around the globe are now participating in the new #Eth2 consensus model.
+
+<img src="./img/december/ethereum2.jpeg"><br><br>
+
+---
+
 Congratulations to my friend Janet Yellen on her nomination as US Treasury Secretary. Her intelligence, tenacity and calm approach make Janet a trailblazer for women everywhere. I look forward to tackling yet again the global economic challenges we are facing, together.
 
 <img src="./img/december/yellen.jpeg"><br><br>
+
+<img src="./img/december/yellen.png"><br><br>
+
+Since 2008, USD money supply grew at a rate of 14% per year. Another way to look at it, is that your fiat saving lose half of its value every 5 years and 2 month.
 
 ### 2017
 
@@ -23,6 +33,8 @@ Charles Merrill, filantrop i milioner, zmarł w Nowym Sączu. Miał 97 lat. Spad
 ### 1980
 
 Władze Związku Radzieckiego przekazały generałowi Tadeuszowi Hupałowskiemu i pułkownikowi Franciszkowi Puchale plany operacji "Sojuz 80", w ramach której oddziały Armii Czerwonej miały wkroczyć do Polski. Gotowość operacyjną wyznaczono na 8 grudnia 1980 roku. Do naszego kraju miało wejść 15 dywizji radzieckich, dwie czechosłowackie i jedna enerdowska. Dodatkowo miały je wspomagać cztery dywizje Wojska Polskiego.
+
+<img src="./img/december/sojuz.jpg"><br><br>
 
 ### 1945
 

@@ -14,6 +14,14 @@ Po Q3 liczba cudzoziemców ubezpieczonych w ZUS znowu osiągnęła nowe maksimum
 
 <img src="./img/november/zuspl2020.png"><br><br>
 
+### 1962
+
+W nocy z 30 listopada na 1 grudnia 1962 r. w związku z budową trasy W-Z i poszerzaniem Al. gen. K. Świerczewskiego (dawniej Leszno, obecnie Al. "Solidarności"). został w całości przesunięty o 21 metrów do tyłu Kościół Narodzenia Najświętszej Maryi Panny.
+
+<img src="./img/november/kosciol.jpg"><br><br>
+
+"54 minuty po północy pierwszego dnia grudnia 1962 r. barokowa świątynia drgnęła. A potem ruszyła z prędkością 9,3 cm na minutę. W środku nie zgasła ani jedna lampa."
+
 ### 1943
 
 Fragment wspomnień podporucznika Henryka Kuckowskiego działacza Milicji Ludowej, żołnierza Batalionu Szturmowego " Czwartaków" Armii Ludowej, po wojnie pracownika delegatury Państwowego Urzędu Bezpieczeństwa w Przasnyszu i Włochach oraz attache wojskowego ambasady PRL w Kopehadze:
