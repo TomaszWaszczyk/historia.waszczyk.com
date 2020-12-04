@@ -3511,6 +3511,10 @@ Have an Octotastic day!
 
 Wiele złych kroków uczyniono, stojąc w miejscu.
 
+Freedom is never more than one generation away from extinction” - Ronald Reagan
+
+oficjalna definicja Critical w PSE (by Antonio): "Shit is on fire and someone stepped on it" :smile:
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

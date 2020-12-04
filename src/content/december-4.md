@@ -3,9 +3,28 @@ layout: post
 title: 4 grudnia
 image: img/december/kowalczyk.jpg
 author: Tomasz Waszczyk
-date: 2018-12-04T10:00:00.000Z
+date: 2019-12-04T10:00:00.000Z
 tags:
   - Auschwitz
+---
+
+### 2020
+
+"Po co nam właściwie państwo polskie, skoro wszystkie dyrektywy przyjdą z Unii"
+
+Rafał Ziemkiewicz
+
+Dwa tygodnie temu Polska i Węgry zawetowały projekt unijnego budżetu na lata 2021–27 oraz fundusz odbudowy gospodarek państw UE po pandemii koronawirusa. Sprzeciw Warszawy i Budapesztu wynika z faktu powiązania wypłat środków unijnych z przestrzeganiem praworządności.
+– Zostaliśmy zrobieni w konia i teraz PiS nie umie wyjaśnić, czemu żeśmy się najpierw zgodzili a teraz nie zgadzamy. – A dlaczego tak zrobiliśmy? Dlaczego nas wykiwano i skazano na to, żebyśmy teraz jak idioci powtarzali: "Ale przecież to niezgodne z traktatami, przecież tam jest artykuł tak i taki”...
+No niezgodnie, to własne służby UE to przyznały.
+Nie dlatego oni to robią, żeby to było zgodne z prawem, ale robią to po to, aby coś osiągnąć; a że tego nie ma w traktatach.
+Mamy w Polsce bardzo potężną siłę, która wyznaje filozofie: "Po co nam lotnisko, skoro lotnisko jest w Berlinie...(wcześniej np. stocznie-moje).
+„Ta filozofia prowadzi do tego – po co nam w ogóle państwo polskie, skoro wszystkie dyrektywy przyjdą z UE, przyślą pieniądze i wszystkie wskazówki jak je wydawać”.
+
+---
+
+Ciekawostka: Archiwa służby bezpipieczeństwa w Polsce były/są ułożone według alfabetu.. rosyjskiego ;-)
+
 ---
 
 ### 2003

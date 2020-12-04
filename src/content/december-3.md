@@ -12,6 +12,20 @@ tags:
 
 <img src="./img/december/kato2020.jpg"><br><br>
 
+---
+
+Świat 2050.
+Odcinek 9. „Giga-medycyna.”📱
+
+Kobieta wraca do domu z pracy. Wtedy odzywa się jej wirtualny asystent w smartpaku:
+
+- Analiza twoich parametrów zdrowotnych z ostatniego tygodnia wskazuje na 38-procentowe ryzyko zachorowania na miażdzycę w ciągu 5 lat i 40-procentowe ryzyko zawału serca w ciągu 10 lat. Zaleca się więcej wysiłku fizycznego i zmianę nawyku żywieniowego z 3 do 4 posiłków dziennie przy zachowaniu optymalnej dawki kalorii. Czy mam podać więcej szczegółów?
+
+- Od jutra przypominaj o godzinie spożycia kolejnego posiłku – odpowiedziała użytkowniczka, po czym dodała – Kocham technologię. Kiedyś, żeby mieć zdiagnozowaną chorobę to trzeba było zapisać się na wizytę z wyprzedzeniem i jeszcze się rozebrać. A 30 lat temu to już w ogóle był cyrk – lekarze diagnozowali ludzi przez telefon, nawet ich nie widząc. Jak ja to przeżyłam?
+- Zbyt mało danych, żeby określić szanse – odparł smartpak.
+
+---
+
 ### 1961
 
 W Sosnowcu 29 letni elektryk Stanisław Jaros (zdjęcie) próbował dokonać drugiego zamachu na życie Władysława Gomułki. Pierwszy zamach miał miejsce 15 lipca 1959 roku podczas wizyty radzieckiej delegacji na czele której stał sam Nikita Chruszczow. Drugi zamach,dokonany w 1961 roku także się nie udał. Jaros wykradł materiały wybuchowe z fabryki kotłów w której pracował. Popełnił jednak błąd techniczny, odpalając je zbyt późno. W wyniku wybuchu ranny został postronny mężczyzna,który zmarł w szpitalu i dziewczynka, która została sparaliżowana.
