@@ -33,11 +33,15 @@ Co znaczy samo zostawić dziecko...(...)''
 ---Władysław Szlengel, poeta żydowski.
 6 sierpnia 1942 (według innych źródeł 5 sierpnia), do Domu Sierot przy Śliskiej w Warszawie wtargnęli funkcjonariusze niemieckiej żandarmerii, policji żydowskiej oraz Ukraińcy wypędzając doktora Korczaka, jego asystentów oraz żydowskie sieroty na Umschlagplatz. Milczący pochód przeszedł ulicami warszawskiego getta. Dzieci ustawione były czwórkami, na czele pochodu kroczył schorowany doktor Korczak ze wzrokiem wzniesionym ku górze niósł dwójkę dzieci na rękach. Drugi oddział prowadziła Kochana Pani Stefa, trzeci-Broniatowska, czwarty-Szternfeld z internatu na Twardej. To były pierwsze żydowskie szeregi krączące w niemym pochodzie. Za nimi szły tysiące dzieci, setki wychowawców, lekarzy, których tożsamości nie znamy. Był to widok niespotykany. - Kim jest ten człowiek?- pytali zdumieni hitlerowcy zerkając na Korczaka. Hitlerowcy nie mogli dać wiary, że ktoś może z taką godnością iść na śmierć. Świadkiem milczącego pochodu była, m.in. Irena Sendlerowa, kierowniczka referatu dziecięcego w ,,Żegocie'': ,,Byłam wtedy świadkiem wstrząsającego marszu śmierci Janusza Korczaka z dziećmi. Ostatkiem sił dowlokłam się do domu, dostałam szoku nerwowego, moja matka musiała wezwać lekarza (...)''. Tego dnia próbował ocalić życie Januszowi Korczakowi Nachum Remba. Są źródła, które mówią, że tuż przed wywózką do Treblinki niemiecki komendant placu rozpoznał Janusza Korczaka. Komendant był fanem książki Bankructwo małego Dżeka, którą Korczak napisał: ,,(...) to dobra książka, pan może zostać, doktorze. A dzieci? Ach niestety, dzieci muszą jechać...Pan się myli, krzyknął Doktor, dzieci przede wszystkim - i zatrzasnął drzwi za sobą (...)''. Transport ruszył do obozu zagłady Treblinka. Jest wysoce prawdopodobne, że schorowany Janusz Korczak i część dzieci skonali w bydlęcych wagonach w drodze do Treblinki. W środku wagonów wysypanych wapnem, w których śmierdziało chlorem, stłoczeni ludzie po prostu dusili się z braku świeżego powietrza. Co stało się z tymi, którzy przeżyli transport? Zostali zabici strzałem w tył głowy w lazarecie lub zagazowani spalinami w komorach gazowych Treblinki.
 Symboliczny kamień ku czci Janusza Korczaka i dzieci znajduje się na terenie byłego niemieckiego obozu zagłady Treblinka.
-Pisząc o tak niepojętym okrucieństwie i płacząc niemalże nad losem doktora Korczaka, asystentów i sierot, przytoczę na koniec słowa wymyślonej przeze mnie krótkiej modlitwy: Uczyń Boże, żeby na świecie było tak, jak powinno być, żeby nie było piekła wojen i nadludzkich cierpień niewinnych ludzi. 
-Ostatnią drogę Janusza Korczaka i dzieci starałam się odtworzyć na podstawie relacji z książki Joanny Iwaszkiewicz ,,Wtedy kwitły forsycje. Pamięci dzieci - ofiar Holocaustu''. 
+Pisząc o tak niepojętym okrucieństwie i płacząc niemalże nad losem doktora Korczaka, asystentów i sierot, przytoczę na koniec słowa wymyślonej przeze mnie krótkiej modlitwy: Uczyń Boże, żeby na świecie było tak, jak powinno być, żeby nie było piekła wojen i nadludzkich cierpień niewinnych ludzi.
+Ostatnią drogę Janusza Korczaka i dzieci starałam się odtworzyć na podstawie relacji z książki Joanny Iwaszkiewicz ,,Wtedy kwitły forsycje. Pamięci dzieci - ofiar Holocaustu''.
 Zdjęcie: kadr z filmu ''Korczak'' w reżyserii Andrzeja Wajdy.
 
 <img src="./img/august/korczak.jpg"><br><br>
+
+### 1789
+
+https://pl.wikipedia.org/wiki/Friedrich_List
 
 ---
 

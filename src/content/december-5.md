@@ -3,10 +3,26 @@ layout: post
 title: 5 grudnia
 image: img/december/centralny.jpg
 author: Tomasz Waszczyk
-date: 2018-12-05T10:00:00.000Z
+date: 2019-12-05T10:00:00.000Z
 tags:
   - Tusk
 ---
+
+### 2020
+
+Rząd Czech obniżył właśnie podatek dochodowy o 5 pp. do najniższego poziomu w historii oraz zlikwidował podatek solidarnościowy.
+
+Rząd Polski wprowadził 7 nowych podatków oraz podwyższył już istniejące 4 na 2021 rok. Planuje także dalsze podwyżki.
+
+Rząd Czech chce stymulować gospodarkę.
+Rząd Polski – ratować budżet.
+
+Dwa zupełnie różne podejścia mające zupełnie inne cele.
+
+Rząd Czech chce ratować podatników, czyli obywateli.
+Rząd Polski chce ratować siebie.
+
+Po raz kolejny system, który istnieje wyłącznie dzięki obywatelowi i dla obywatela jest od niego ważniejszy.
 
 ### 2019
 

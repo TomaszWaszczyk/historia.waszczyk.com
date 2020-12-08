@@ -38,6 +38,11 @@ J. Clavell: Tai-Pan: Powieść o Hongkongu. Kraków 1990,
 
 J. Clavell: Noble House. Kraków 2012.
 
+## YouTube
+
+https://www.youtube.com/user/ericadamz
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/china.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

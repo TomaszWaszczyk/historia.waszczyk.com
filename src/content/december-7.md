@@ -3,10 +3,71 @@ layout: post
 title: 7 grudnia
 image: img/december/kowalski.jpg
 author: Tomasz Waszczyk
-date: 2018-12-07T10:00:00.000Z
+date: 2019-12-07T10:00:00.000Z
 tags:
   - Józef Kowalski
 ---
+
+### 2020
+
+"EU chce przyjąć 34 miliony emigrantów, dać im mieszkanie, przywileje socjalne i obywatelstwo czyli prawo głosu. Jeśli lewica europejska da im prawa wyborcze, będzie miała ich głosy przez dziesięciolecia.
+To plan Sorosa w czystej postaci."
+Viktor #Orbán
+Flaga Węgier
+, Kossuth Radio 4.12.20
+
+<!-- Dzień dobry Szanowni Państwo,
+do niektórych z Was zwracałem się, prosiłem o pomoc, ochronę o sprawiedliwość kilka razy.  Nie przyszła...
+Dzisiaj zwracam się do Wszystkich z Państwa definitywnie po raz ostatni, zostało już nie wiele dni do prezentów pod choinkę a Polacy jak żaden naród na świecie zasługują na prezent pod choinkę.
+Ten krótki fragment w żółtym tle do naszej Księgowej p. Stanisławskiej, reszta już do wszystkich Państwa.
+Dzień dobry Pani Aniu,
+do końca roku obowiązuje nas wzajemna Umowa, więc proszę dokonać przyjęcia do użytkowania i do amortyzacji  z dniem 01.12.2020r zakupionych maszyn, urządzeń, sprzętu. 
+Wszystkie zakupione maszyny, urządzenia, sprzęt znajdują się na hali pod tym adresem.
+W załączniku potwierdzenie z Systemu przesłania i otrzymania przez US w Dębicy zawiadomienia w postaci NIP-8
+Wszystkich łajdaków, którzy liczyli na zrobienie ze mnie przestępcy, serdecznie pozdrawiam i zapewniam o pamięci w modlitwie.
+Bardzo się Wam już nie długo przyda.... Bardzo....
+Pracowników , Urzędników wszelkich Instytucji Kontrolnych, Urzędów Skarbowych, którzy mieliby takową wolę , mieli wątpliwości, jakiekolwiek podejrzenia, insynuacje,  zapraszam po wcześniejszym umówieniu się ze mną do obejrzenia hali, maszyn i urządzeń.
+Wszystkich poza 2 pracownikami I US w Rzeszowie - panami Łatką i Dziurzystą !!!  Ci panowie już pokazali do robią i dla kogo pracują, na czyjej smyczy chodzą.
+Udostępnione dowody w postaci zdjęcia pana łatki na smyczy firmy Poltra, Nagrana moja rozmowa telefoniczna z panem Dziurzysta, nagrane,składanie moich wyjaśnień w I US w Rzeszowie, udostępniona wymiana e-maili między mną a p. Dziurzysta ,  jednoznacznie świadczą o makabrycznym,  bandyckim, przestępczym ich działaniu.
+Ciekawy jestem, czy Naczelnik I US w Rzeszowie, którego narazili na olbrzymie ryzyko utraty wiarygodności, nawet ściągając na niego podejrzenia o również przestępcze działania gdyż pismo przygotowali ci dwaj panowie ale PODPIS POD NIM ZŁOŻYŁ PAN NACZELNIK...
+Mam nadzieję, że Pan Naczelnik zapoznał się już z wymienionymi przeze mnie wyżej 4 niezbitymi, jednoznacznymi dowodami, nie podważalnymi   i zdał już sobie sprawę pod czym się podpisał...
+Natomiast nasza udręczona rodzina, zniszczona firma,  na tym co udało nam się ocalić przed bandytami, uruchomiona znowu po moim nadludzkim wysiłkiem przez 5 miesięcy fizycznej i psychicznej pracy po 16 godzin na dobę.  
+Taką pracę, olbrzymi wysiłek, wysiłek przy nie ustającym ataku na mnie , na moją umęczoną  rodzinę wykonałem po raz ostatni w życiu.
+Po raz ostatni...
+Jeżeli URZĘDY SKARBOWE, KTÓRE POWINNY W NORMALNYM KRAJU, BYĆ ZAINTERESOWANE UDZIELENIEM WSZELKIEJ NIEZBĘDNEJ POMOCY PRACODAWCY, CZŁOWIEKOWI, FIRMIE, KTÓRZY PRZEZ 30 LAT ZAPŁACILI MILIONY ZŁOTYCH PODATKÓW W RÓŻNEJ POSTACI DO SKARBU PAŃSTWA POLSKIEGO ,  ZAMIAST UDZIELIĆ TAKIEJ NIEZBĘDNEJ POMOCY TO UCZĘSTNICZĄ W PRZESZKADZANIU I JESZCZE DODATKOWO UCZESTNICZĄ W CAŁKOWITYM DOPEŁNIENIU DZIEŁA ZNISZCZENIA RODZINY I FIRMY,   TO JET TO GIGANTYCZNE PRZESTĘPSTWO I HAŃBA DLA WSZYSTKICH URZĘDNIKÓW PAŃSTWA POLSKIEGO I CAŁEGO PAŃSTWA POLSKIEGO !!!
+Od ponad pól roku, czekamy na zwrot prawie 1 miliona złotych z tytułu zwrotu należnego nam z tytułu zwrotu VATu !!!  
+Wyremontowałem starą ruderę po raz kolejny w swoim życiu, dostosowałem do wymogów, standardów obowiązujących w Europie, dostosowałem do wymogów, technicznych, technologicznych, chcę rozpocząć produkcję Systemów Precyzyjnych Systemów Mocowań jakich nie produkuje żadna firma w Polsce a Urzędy Skarbowe, zamiast pomóc to jeszcze przeszkadzają ?????  !!!!!!!!!!
+Pytam się Wszystkich adresatów tego e-maila:  dokąd to bandyctwo będzie jeszcze trwało ???
+Do kiedy??? 
+Kiedy wreszcie w Rzeszowie , na Podkarpaciu wsadzą bandytów tam gdzie ich miejsce i zapanuje tu normalność , porządek i sprawiedliwość ???
+Kiedy wreszcie republika bananowa, prywatne jak na westernie ranczo, które sobie tu utworzyli bandyci i robią co chcą, zostanie zlikwidowana !!!! ?????  Kiedy ????
+Oświadczam, dziś publicznie po raz ostatni.
+Jeżeli nie zostaną podjęte natychmiastowe działania, kroki do natychmiastowego zatrzymania i zlikwidowania przestępców, bandytów i nie podjęte natychmiastowe działania kończące NATRYCHMIAST NISZCZENIE MNIE, MOJEJ RODZINY I ZAMORDOWANEJ FIRMY,  TO BEDZIECIE MIELI PAŃSTWO Z MOJEJ STRONY PREZENT POD CHOINKĘ.
+NAPISAŁEM JUŻ KILKAKROTNIE, NAPISZE JESZCZE RAZ.
+WSZYSTKO MÓGŁBYM DAROWAĆ, MACHNĄĆ REKĄ ALE DALSZEGO ATAKOWANIA M NIE I MOJEJ RODZINY I ŁEZ, ZRYWANIA SIĘ PO NOCACH MOJEJ 12 LETNIEJ CÓRKI MAI, NIE PODARUJĘ SKURWYSYNOM !!!!!!
+TO MAJĄ PEWNE, PO TYM CO ZROBILI I DALEJ NAM ROBIA,JAK W SZWAJCARSKI BANKU!!!
+Zwracam się też do Naczelnika Podkarpackiego Urzędu Skarbowego:
+Panie Naczelniku, zanim przyśle mi Pan następny mandat karę, po tym przesłanym 2 tysięcznym,może warto zapoznać sie z przesyłaną przeze mnie dokumentacją , dowodami w całej sprawie???
+Moja rodzina nie miała przez kilka miesięcy na wiosnę środków pieniężnych na podstawowe potrzeby życiowe, zlikwidowałem Polisę ubezpieczeniową, którą opłacałem przez ponad 20 lat aby zapłacić opłaty, ZUS, podatki i mieć za co żyć...
+Dociera do do Pana???  Pan kopie jeszcze leżącego, zniszczoną, sponiewieraną przez bogatych do nieprzytomności ale wciąż nie nażartych mafijnych bandytów, rodzinę ???
+Ma Pan poczucie sprawiedliwości, sumienie, serce, honor ???
+Odpowiednie Pismo, Zawiadomienie zostało wysłane przeze mnie dokumentem elektronicznym do Urzędu Skarbowego w Dębicy właściwego dla miejsca prowadzonej działalności i miejsca naszego zamieszkania.
+Wysłany , potwierdzony dokument w załączniku.
+Jeżeli obowiązujące przepisy wymagają wystosowania, wysłania dodatkowych Zawiadomień, Pism, dokumentów, to proszę to zrobić.
+Ja nie jestem Księgowym więc nie posiadam potrzebnej w tym zakresie wiedzy. 
+Równocześnie wnoszę zgodnie z obowiązującymi w Państwie Polskim przepisami o wniesienie treści tego e-maila, do dowodów w prowadzonych przeciwko ??? .... mnie, mojej rodzinie i naszym zmasakrowanym firmom sprawach.
+Zgodnie z treścią art.180 & 1 ustawy z dnia 29 sierpnia 1997r - Ordynacja podatkowa, jako dowód należy dopuścić wszystko, co może przyczynić się do rzetelnego wyjaśnienia sprawy, a nie jest sprzeczne z prawem.
+W myśl art. 187 & 1 Ordynacji podatkowej, organ podatkowy jest zobowiązany zebrać i w sposób wyczerpujący rozpatrzyć cały materiał dowodowy.
+Zgodnie w w/w Ustawą - wnoszę o wniesienie jak dowody, treści tego e-maila oraz dowodów znajdujących się w Internecie pod linkiem:
+https://www.dropbox.com/.../AAAL7XoHa-ycUIiYqWSagMDRa...
+Tak , mafia, bandyci którzy okradli nasze 2 firmy, zniszczyli, okradli Skarb Państwa Polskiego, chodzą i się śmieją, są chronieni przez panów Teluka, Harpulę , Folcika i Spółkę z o.o,
+  Spółkę Komandytową: Podkarpackie Wieprze Mafijne Sp. z o.o. Sp. Komandytowa
+ a atakuje i chce żywcem zakopać człowieka który ośmielił się bronić swoich firm, swojej rodziny i do tego jeszcze zgromadził setki niezbitych dowodów i wskazał nazwiska, nazwy firm, tych niektórych z bandytów...
+Jednak, jak zawsze w historii świata, wszystko ma swój początek ma i KONIEC !
+I będzie już niebawem miało.
+To jest już absolutnie moje ostatnie zawiadomienie, pismo, apel.
+Zostało już tylko złożenie prezentu Państwu Polskiemu, Polakom, prezentu pod choinkę.
+Wiesław Siwiec -->
 
 ### 2019
 
