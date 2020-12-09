@@ -3,10 +3,24 @@ layout: post
 title: 9 grudnia
 image: img/december/ropa.jpg
 author: Tomasz Waszczyk
-date: 2018-12-09T10:00:00.000Z
+date: 2019-12-09T10:00:00.000Z
 tags:
   - Jaruzelski
 ---
+
+### 2020
+
+Circle CEO Jeremy Allaire believes the incoming Joe Biden presidential administration in the U.S. will “ultimately be supportive of cryptocurrency because it represents a seismic shift as large as the commercial internet.”
+
+In a Monday interview on CNBC’s Squawk Box, Allaire spoke about how he thinks the incoming administration may regulate the emerging cryptocurrency and digital assets sector, and what may be in store for stablecoins. Circle is a payments services company that operates the USDC stablecoin as part of the Centre consortium.
+
+The Biden administration is “going to be focused on infrastructure changes that make America more competitive, and this is absolutely going to be a core building block in that,” said Allaire during the interview.
+
+<img src="./img/december/ceocirlce.webp"><br><br>
+
+---
+
+<img src="./img/december/mieszkania2020warszawasrodmiescie.jpg"><br><br>
 
 ### 2019
 

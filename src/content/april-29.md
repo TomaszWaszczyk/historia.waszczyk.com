@@ -40,6 +40,10 @@ Miały być nowe elity? To proszę jak można temacik ogarnąć. Polityka to jed
 
 ---
 
+### 2019
+
+<img src="./img/april/ethereumelon.jpeg"><br><br>
+
 ### 1933
 
 Lotnisko na Polu Mokotowskim. Wiele lat później hasło "LOTem Bliżej" reklamowało polskie linie lotnicze. Chyba wtedy jeszcze niewielu klientów mogło to potwierdzić. Zdjęcie ze zbiorów NAC.
