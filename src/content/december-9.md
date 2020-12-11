@@ -20,6 +20,10 @@ The Biden administration is “going to be focused on infrastructure changes tha
 
 ---
 
+<img src="./img/december/imfbitcoin.jpeg"><br><br>
+
+---
+
 <img src="./img/december/mieszkania2020warszawasrodmiescie.jpg"><br><br>
 
 ### 2019
@@ -46,6 +50,8 @@ Ciśnienie tryskającej ropy wynosiło 560 atmosfer, a łuna ognia widoczna był
 W gaszeniu pożaru, oprócz polskich specjalistów udział wzięli również Węgrzy i Rosjanie.
 Pożar ugaszono po 35 dniach.
 Wkrótce też rozpoczęto tu wydobycie, ale z powodu małej wydajności złoża w połowie 1983 zaprzestano wydobycia ropy.
+
+<img src="./img/december/ropapolska.jpg"><br><br>
 
 ### 1946
 

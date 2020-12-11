@@ -13,6 +13,16 @@ draft: false
 
 <img src="./img/december/chinacoding.jpg"><br><br>
 
+---
+
+Bloomberg has reported that CME Group—the platform that was the first to launch Bitcoin futures—is to start trading futures contracts on water this week.
+
+These futures are expected to help major users of water—such as farmers and firefighters—manage risk and manage the water supply and demand better.
+
+<img src="./img/december/wodacme.webp"><br><br>
+
+---
+
 ### 2019
 
 <img src="./img/december/goldman.jpeg"/><br>
