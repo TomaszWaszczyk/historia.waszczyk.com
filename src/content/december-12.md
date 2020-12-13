@@ -3,10 +3,34 @@ layout: post
 title: 12 grudnia
 image: img/december/w20.png
 author: Tomasz Waszczyk
-date: 2018-12-12T10:00:00.000Z
+date: 2019-12-12T10:00:00.000Z
 tags:
   - WIG20
 draft: false
+---
+
+### 2020
+
+Oracle Moves Headquarters to Texas, Joining Valley Exodus
+
+Oracle Corp. said it has moved its headquarters to Texas, from its home state of California to give employees more flexibility on where they do their jobs.
+
+The move to Austin from Redwood City “means that many of our employees can choose their office location as well as continue to work from home part time or all of the time,” Oracle said Friday in a regulatory filing. The company will continue “to support” its other U.S. office locations in Santa Monica, California, Seattle, Denver, Orlando and Burlington, Massachusetts, according to the filing.
+
+<img src="./img/december/oracle.jpg"><br><br>
+
+---
+
+Gminy górskie: dajcie nam pracować, nasze firmy i miejscowości umierają bez turystów
+
+Zrobimy wszystko, jeszcze sami zaostrzymy reżim sanitarny, żeby tylko rząd pozwolił nam pracować.
+Samorządowcy wnosili, by chociaż ozdrowieńcy, których jest w Polsce ogromna liczba, mogli do nich przyjechać. Na konferencji przekonywali, że lockdown zabije ich miejscowości. Wskazali, jako przykład, Bukowinę Tatrzańską, gdzie 73 procent przychodów branży turystycznej pochodzi z sezonu zimowego, a prognozowany spadek na sezon 2020/2021 wynosi już 79 procent.
+Mamy monokulturę, nie możemy zdywersyfikować przychodów. W takich miejscowościach jak Świeradów Zdrój czy Szczyrk 80-90 procent mieszkańców teraz nie pracuje. A przecież w normalnych warunkach płacą oni potężne podatki. Stąd nasza prośba, a raczej krzyk, o pomoc. Prosimy o solidarność, o wsparcie państwa.
+Ani tarcza PFR, ani tarcza 6.0, którą zresztą nie objęto hoteli i obiektów noclegowych, nie wyrówna przedsiębiorcom strat. Rząd powinien je zrekompensować. A najlepiej pozwolić im pracować.
+Zamykanie ludzi w domach i pozbawianie ich pracy budzi frustrację oraz napięcia w rodzinach, co może prowadzić do tragedii.
+
+<img src="./img/december/gorale.jpg"><br><br>
+
 ---
 
 ### 2019 - czas na.. wzrosty?

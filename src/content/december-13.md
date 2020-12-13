@@ -3,11 +3,15 @@ layout: post
 title: 13 grudnia
 image: img/december/praca.jpg
 author: Tomasz Waszczyk
-date: 2018-12-13T10:00:00.000Z
+date: 2019-12-13T10:00:00.000Z
 tags:
   - Sowieci
 draft: false
 ---
+
+### 2020
+
+<img src="./img/december/m1usd2020.jpeg"><br><br>
 
 ### 2019
 
@@ -19,7 +23,7 @@ In total, 17.25 GHz of new spectrum has been identified for IMT, in addition to 
 
 Out of this number, 14.75 GHz (i.e., 85% of total IMT spectrum) result harmonized worldwide Quite impressive numbers.
 
-Let's see how successful FR2 with mmwave frequencies will be in practice with all its challenges. 
+Let's see how successful FR2 with mmwave frequencies will be in practice with all its challenges.
 
 ---
 
