@@ -50,6 +50,10 @@ Wolność odzyskał 30 kwietnia 1945 roku. Wyjechał do Londynu, gdzie do śmier
 
 <img src="./img/february/piskor.jpg"/><br>
 
+### 1888
+
+https://pl.wikipedia.org/wiki/Franciszek_Kleeberg
+
 ### 1717
 
 https://pl.wikipedia.org/wiki/Sejm_niemy

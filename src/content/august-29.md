@@ -49,6 +49,10 @@ Danuta Siedzikówna „Inka”, sanitariuszka i łączniczka zgrupowania ,,Łupa
 
 <img src="./img/august/tetno.jpg"><br><br>
 
+### 1931
+
+https://en.wikipedia.org/wiki/Evelyn_de_Rothschild
+
 ### 1918
 
 W czasie kończącej się pierwszej wojny światowej Rada Komisarzy Ludowych (rząd radziecki) anulowała wszystkie obowiązujące do tej pory traktaty rozbiorowe zawarte z Prusami i Austrią.

@@ -18,6 +18,10 @@ tags:
 
 ---
 
+Bitcoin will soar to $500,000 because the US will start a war with Iran and Venezuela – of the hash-rate rather than the military variety – and the first salvoes may soon be fired, according to crypto analyst and TV personality Max Keiser.
+
+---
+
 ### Zadłużona Łódź wyprzedaje na potęgę miejskie nieruchomości
 
 Wśród tych wystawionych na sprzedaż są zabytki i tereny zielone. Decyzje zapadają na sesjach, które odbywają się online. Mieszkańcom i społecznikom trudno jest więc pytać o konkretne inwestycje. Tylko w tym roku sprzedano kilkadziesiąt nieruchomości, a to dopiero połowa roku.

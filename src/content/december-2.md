@@ -54,6 +54,10 @@ Polska jako pierwsze państwo na świecie uznała niepodległość Ukrainy. Krok
 
 1989 roku prezydent Wojciech Jaruzelski złożył wieniec w miejscu upamiętniającym 9 górników Kopalni Węgla Kamiennego " Wujek", którzy zginęli 16 grudnia 1981 roku od kul wystrzelonych przez kompanię ZOMO.
 
+### 1984
+
+https://pl.wikipedia.org/wiki/Lista_Kisiela
+
 ### 1980
 
 Z Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej został usunięty Edward Gierek. Preludium do tej decyzji było odbranie mu na obradującym w dniu 6 września 1980 roku VI Plenum Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej stanowiska I Sekretarza. Jego miejsce zajął Stanisław Kania.

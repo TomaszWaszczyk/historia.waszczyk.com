@@ -3,7 +3,7 @@ layout: post
 title: 14 grudnia
 image: img/december/huta-katowice.jpg
 author: Tomasz Waszczyk
-date: 2018-12-14T10:00:00.000Z
+date: 2019-12-14T10:00:00.000Z
 tags:
   - Śląsk
 draft: false

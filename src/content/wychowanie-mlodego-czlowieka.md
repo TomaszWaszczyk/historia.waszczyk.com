@@ -242,6 +242,8 @@ https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
 <!-- https://globalna.ceo.org.pl/ -->
 
+<!-- https://sklep.blogojciec.pl/ -->
+
 ---
 
 <img src="./img/wychowanie-mlodego-czlowieka/gitmerge.jpeg"><br><br>

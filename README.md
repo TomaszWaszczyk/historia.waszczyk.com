@@ -2,6 +2,18 @@
 
 Przedwojenny 1PLN = 0.17grama XAU
 
+Bolszewicy a złoto
+
+Bierut - ustawa złoto platyna dewizy
+
+maksymilian kolbe gazeta
+
+http://www.ivrozbiorpolski.pl/index.php?page=sienko-vel-kazimierowicz
+
+http://www.bohaterowie1939.pl/polegly,glowacki,ludwik,7124.html
+
+https://kapitanhal.blogspot.com/
+
 https://chwalazapomniana.pl/rumunia-zapomniany-sojusznik/
 
 https://www.atomcentral.com/

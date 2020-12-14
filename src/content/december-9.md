@@ -20,6 +20,12 @@ The Biden administration is “going to be focused on infrastructure changes tha
 
 ---
 
+Aaron Wright, a professor at Cardozo School of Law, believes Ethereum could “eat” Wall Street in the next 10 years.
+
+The professor outlined three key reasons why Ethereum could compete against the traditional financial sector. They are decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and personal tokens.
+
+---
+
 <img src="./img/december/imfbitcoin.jpeg"><br><br>
 
 ---

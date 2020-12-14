@@ -19,6 +19,12 @@ W Warszawie przewodniczący Solidarności Lech Wałęsa, przewodniczący Zjednoc
 
 <img src="./img/august/lech.jpg"><br><br>
 
+---
+
+https://pl.wikipedia.org/wiki/Sejmowa_Komisja_Nadzwyczajna_do_Zbadania_Dzia%C5%82alno%C5%9Bci_MSW
+
+---
+
 ### 1939
 
 Radziecki minister spraw zagranicznych Wiaczesław Mołotow (zdjęcie) odpowiadając na przedstawione dwa dni wcześniej przez niemieckiego ambasadora w Moskwie Friedricha -Wernera von der Schulenburga niemieckie memorandum w sprawie zwrotu w stosunkach niemiecko-radzieckich zaproponował zawarcie paktu o nieagresji zawierającego specjalny tajny protokół precyzujący „zainteresowania umawiających się stron w tych lub innych zagadnieniach  polityki zagranicznej”.

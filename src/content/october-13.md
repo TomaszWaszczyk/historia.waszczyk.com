@@ -69,6 +69,10 @@ Przyszli mordercy księdza Jerzego Popiełuszki przeprowadzili nieudaną próbę
 
 <img src="./img/october/zamach.jpg"><br><br>
 
+### 1982
+
+https://pl.wikipedia.org/wiki/Bogdan_W%C5%82osik
+
 ### 1963
 
 Warszawa, otwarcie podziemnego dworca Warszawa Śródmieście, który szybko stanie się największą, pod względem liczby pasażerów, stacją kolejową w Polsce. Zaprojektowany przez Arseniusza Romanowicza i Piotra Szymaniaka punkt przesiadkowy zachwyca funkcjonalnością i przepustowością – środkowy peron służy wyłącznie wysiadającym, dwa skrajne wsiadającym, tak aby unikać kolizji pasażerów w drzwiach i na peronach, a przez to szybciej odprawiać kolejne podmiejskie pociągi na przeciążonej warszawskiej linii średnicowej. Wszystkiemu towarzyszy świetna modernistyczna architektura i doskonały wystrój plastyczny wnętrz, na przykład op-artowe mozaiki autorstwa Wojciecha Fangora, kierujące wysiadających do właściwych wyjść. Przyszłościowo projektanci wyprowadzają z podziemnej stacji dwa fragmenty pieszych tuneli – na zachód, w kierunku przyszłego dalekobieżnego dworca centralnego i na wschód,  w stronę hipotetycznej stacji metra „Centrum”. Pociągi warszawskiej kolei podziemnej ostatecznie dotrą tam po trzydziestu pięciu latach, za to prace nad studium wykonalności tunelu łączącego obie stacje będą trwały w najlepsze jeszcze sześć dekad później. Zdjęcie: Zbyszko Siemaszko / NAC
