@@ -3,11 +3,15 @@ layout: post
 title: 17 grudnia
 image: img/december/klepacz.jpg
 author: Tomasz Waszczyk
-date: 2018-12-17T10:00:00.000Z
+date: 2019-12-17T10:00:00.000Z
 tags:
   - Balcerowicz
 draft: false
 ---
+
+### 2020
+
+<img src="./img/december/interpelacjacrypto.png"><br><br>
 
 ### 2019
 

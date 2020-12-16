@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 2020
+
+CME Group will list an Ethereum (ETH) futures product next year, the firm said Wednesday.
+
+CME Group, which gate-crashed the crypto derivatives world with a bitcoin futures contract at the height of the 2017 cycle, said on Wednesday — as bitcoin topped $20,000 that it would launch futures tied to Ethereum.
+
+The product is coming to market February 8, subject to regulatory approval. It will be cash-settled and based on the firm's CME CF Ether-Dollar Reference Rate. According to CME's website, one contract will be equal to 50 ETH.
+
+"Building on the success of Bitcoin futures and options, CME Group will add Ether futures to the cryptocurrency risk-management solutions available to trade in February," the firm said.
+
 ### 2004
 
 O hołdzie pruskim każdy coś wie, bo o tę datę pytają w szkole, na lekcji historii. Poza tym namalował go Jan Matejko. O hołdzie ruskim mało kto z Polaków słyszał, choć Matejko też go namalował. Wiedzą za to dobrze Rosjanie.

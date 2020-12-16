@@ -3,11 +3,15 @@ layout: post
 title: 15 grudnia
 image: img/december/boh.jpg
 author: Tomasz Waszczyk
-date: 2018-12-15T10:00:00.000Z
+date: 2019-12-15T10:00:00.000Z
 tags:
   - Polen
 draft: false
 ---
+
+### 2020
+
+<img src="./img/december/zodiac.jpeg"><br><br>
 
 ### 1965
 
