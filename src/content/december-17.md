@@ -13,6 +13,14 @@ draft: false
 
 <img src="./img/december/interpelacjacrypto.png"><br><br>
 
+Ciekawe czy BTC stanie się aktywem rezerowym nowych banków centralnych?
+
+---
+
+<img src="./img/december/warszawa.jpg"><br><br>
+
+---
+
 ### 2019
 
 Tak wysokiej podwyżki ZUS nie było w całej historii. Już za dwa tygodnie, nawet 80% samozatrudnionych w Polsce, odczuje największą podwyżkę ZUS w historii Polski.
