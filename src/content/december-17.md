@@ -21,6 +21,18 @@ Ciekawe czy BTC stanie się aktywem rezerowym nowych banków centralnych?
 
 ---
 
+Chanuka - źródłosłów
+
+Słowo Chanuka ma ten sam źródłosłów co Chinuch (edukacja). W czasie Chanuki skupiamy się na żydowskiej edukacji dzieci. Nie jest jasne dlaczego dajemy dzieciom Chanuka gelt, ale wykorzystujemy tę okazję, aby nauczyć je jak ważne jest by wzrastać w ofiarności i dobrych uczynkach.
+Kolejna sprawa: Grekom chodziło o to, aby z naszej służby B-gu usunąć wszystko to, co duchowe. Nie próbowali nas zabić, ale chcieli abyśmy zaczęli żyć tak jak oni. Nie zburzyli Świątyni i nie wylali oliwy, lecz „jedynie” zbezcześcili je i sprawili, że stały się nieczyste.
+Chanuka gelt to wyraz wolności i przeciwstawienia się zabiegom Greków. Dawać datki z Chanuka gelt to sposób uczenia naszych dzieci, że to co materialne może (i powinno) być używane w służbie B-gu.
+Rodzice i znajomi dają Chanuka gelt. Najodpowiedniejszą nocą na podarowanie Chanuka gelt jest piąta noc – pierwsza, w czasie której jest więcej płomieni niż ciemności. Lubawicz Rebe zachęca abyśmy dawali gelt w każdą z ośmiu nocy (oprócz Szabatu).
+Co roku od 1958 Bank Izraela emituje specjalne monety chanukowe, przedstawiające społeczności żydowskie z różnych zakątków świata. Pierwsza moneta chanukowa przedstawiała menorę z epoki Machabeuszy. W 1976, aby uczcić 200 lecie Stanów Zjednoczonych wyemitowano monetę z amerykańską chanukiją z czasów kolonialnych. Zaś w 1981 wybito na srebrnym szeklu chanukiję z Polski. Inne monety na przestrzeni lat ukazywały chanukije z wielu krajów, w których mieszkają Żydzi.
+
+<img src="./img/december/chanuka2020.jpg"><br><br>
+
+---
+
 ### 2019
 
 Tak wysokiej podwyżki ZUS nie było w całej historii. Już za dwa tygodnie, nawet 80% samozatrudnionych w Polsce, odczuje największą podwyżkę ZUS w historii Polski.
