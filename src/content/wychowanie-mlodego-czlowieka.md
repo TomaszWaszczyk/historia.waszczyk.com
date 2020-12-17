@@ -246,6 +246,8 @@ https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
 evidence based education
 
+https://waitbutwhy.com/2019/08/story-of-us.html
+
 ---
 
 <img src="./img/wychowanie-mlodego-czlowieka/gitmerge.jpeg"><br><br>
