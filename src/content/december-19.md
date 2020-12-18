@@ -9,6 +9,26 @@ tags:
 draft: false
 ---
 
+### 2020
+
+S&P6
+
+<img src="./img/december/s&p6.jpg"><br><br>
+
+---
+
+"Orwellowski sposób resortu finansów na walkę z przestępczością finansową"
+
+System Informacji Finansowej (w skrócie SInF) będzie ogólnopolskim rejestrem:
+– kont bankowych w tym w SKOK
+– rachunków maklerskich,
+– rachunków płatniczych,
+– skrzynek depozytowych
+Utworzenie takiego systemu według Ministerstwa Finansów wymusza na nas prawo unijne - realizacja Dyrektywy 2018/843 z 30 maja 2018 oraz Dyrektywy 2019/1153 z 20 czerwca 2019. Przekazywanie danych o rachunkach będzie bowiem dla wszystkich banków i innych podmiotów finansowych obowiązkiem – w przypadku niedopełnienia tego obowiązku grozić będą kary finansowe liczone w milionach złotych.
+Ale trzeba powiedzieć, że intencja projektu ustawy jest słuszna, ale wskazane narzędzia – tak jak np. dynamit – w pewnych rękach mogą być pożyteczne, w innych – szkodliwe i niebezpieczne. Wszystko zależy od intencji tego, kto po narzędzie sięga.
+
+---
+
 ### 1981
 
 Ambasador Polski w USA Romuald Spasowski (zdjęcie ) poprosił władze amerykańskie o udzielenie mu azylu politycznego. 4 października 1982 roku władze komunistycznej Polski skazały go na karę śmierci,pozbawienie praw publicznych na zawsze i przepadek mienia, a 30 października 1985 roku Rada Państwa pozbawiła go polskiego obywatelstwa.

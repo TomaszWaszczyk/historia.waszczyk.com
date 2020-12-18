@@ -11,6 +11,10 @@ draft: false
 
 ### 2020
 
+M1 money supply has increased yet another $210B in the week between Nov 23 and Nov 30 on top of the $500B the week prior, that's over $700B in 2 weeks.
+M1 Money supply of the United States has increased by 64.5% since the beginning of 2020. 
+There is no history for this. None.
+
 <img src="./img/december/m1usd2020.jpeg"><br><br>
 
 ### 2019

@@ -3,10 +3,58 @@ layout: post
 title: 18 grudnia
 image: img/december/jaruzel.jpg
 author: Tomasz Waszczyk
-date: 2018-12-18T10:00:00.000Z
+date: 2019-12-18T10:00:00.000Z
 tags:
   - Jan Paweł II
 draft: false
+---
+
+### 2020
+
+WAŻNE: Polski bank centralny celowo osłabia złotego po raz pierwszy od 10 lat
+
+<img src="./img/december/eurpln2020.png"><br><br>
+
+Jak dowiedział się Bankier.pl, za piątkowymi zmianami na parze euro-złoty stał Narodowy Bank Polski, który przeprowadził interwencję na rynku walutowym, sprzedając złotego na rynku. Fakt ten potwierdziła też redakcja PAP Biznes, powołująca się na swoje źródła w banku centralnym.
+
+Tymczasem nastroje na światowych rynkach były umiarkowanie optymistyczne. Niemiecki DAX rósł o 0,3%, kontrakty na S&P500 pozostawały bez większych zmian, a kurs EUR/USD utrzymywał się w pobliżu wyznaczonego wczoraj przeszło 2,5-letniego szczytu. Powodem osłabienia złotego nie były też dane z polskiej gospodarki. Raport GUS pokazał, że listopadowa produkcja przemysłowa ukształtowała się na poziomie wyższym niż przed rokiem i wyraźnie wyższym od oczekiwań analityków.
+
+- Dlaczego NBP akurat dziś zdecydował się na takie działanie - ciężko powiedzieć. Jest to dość dziwne ze względu na to, że eurozłoty nie jest ostatnio aż tak ściśle skorelowany z eurodolarem, który zwyżkuje i to powinno spowodować spadki kursu eurozłotego - tak się nie dzieje, więc NBP powinien czuć się z tym raczej OK. Taka sytuacja powinna być dla nich komfortowa, ale widocznie nie jest - skomentował ﻿analityk rynków finansowych w Bank Millennium Mateusz Sutowicz cytowany przez PAP Biznes.
+
+- Poziom 4,44/EUR - jaki był w ostatnich dniach - nie jest jakimś dramatycznie mocnym złotym, żeby już teraz zaczynać taką walkę z rynkiem, która pewnie w średnim terminie nie będzie skuteczna - dodał Sutowicz.
+
+---
+
+''Wojsko jest jednym z zasadniczych elementów Narodowego Programu Szczepień - będzie przewozić szczepionki, a żołnierze medycy będą gotowi, by szczepić w szpitalach wojskowych i w punktach mobilnych'' - podkreślił w środę szef MON Mariusz Błaszczak. Zaapelował do wszystkich, "by się zaszczepić".
+
+Pytany wieczorem w TVP3 Warszawa, jak wojsko przygotowało się do udziału w Narodowym Programie Szczepień i jak będzie pomagać, szef MON odparł, że żołnierze będą przewozić szczepionki, a medycy wojskowi będą gotowi, żeby szczepić.
+
+"Chodzi o szpitale wojskowe, chodzi także o przeszkolonych ratowników medycznych - żołnierzy Wojska Polskiego, a więc będą to również grupy mobilne, które dojadą ze szczepieniami tam gdzie będzie to potrzebne" - powiedział Błaszczak.
+
+Zaapelował przy tym "do wszystkich, żeby się zaszczepić".
+
+"To jest niezwykle ważne, to jest podstawa do tego, żeby zwalczyć epidemię, żeby zahamować jej rozwój, a de facto, żeby wrócić do normalności" - przekonywał.
+
+---
+
+"Zamknięcie hoteli od Nowego Roku albo centralny rejestr pobytów służbowych w ośrodkach wypoczynkowych, to – jak informuje w czwartek "Gazeta Wyborcza", pomysły rządu na ukrócenie hotelarskiego podziemia.
+
+"GW" ocenia, że "rząd boi się, że w sylwestra i w czasie ferii zimowych nie uda się powstrzymać od wyjazdów ludzi zmęczonych już akcją #zostańwdomu".
+
+Dziennie bezpośrednio na skutek pandemii Covid-19 umiera w Polsce średnio 400 osób, a pośrednio - blisko 1000. Liczba nowych wykrywanych zakażeń również przestała w ostatnich dniach spadać. Dane o liczbie zgonów sugerują, że zachorowalność nie zmniejszała się w ostatnim miesiącu tak szybko, jak wskazywałyby oficjalne dane o nowych zakażeniach.
+
+Zdaniem wielu lekarzy styczeń i luty pod względem zdolności rozprzestrzeniania się wirusa są groźniejsze niż październik czy listopad – podaje "GW", powołując się na Centrum Informacyjne Rządu.
+
+Gazeta informuje, że na szczeblu rządowym od ok. dwóch tygodni trwają narady, jak ukrócić hotelarskie podziemie."
+
+---
+
+<img src="./img/december/balcerowicz.png"><br><br>
+
+---
+
+<img src="./img/december/agrounia.jpg"><br><br>
+
 ---
 
 ### 1981

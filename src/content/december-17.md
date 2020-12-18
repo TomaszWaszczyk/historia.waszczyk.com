@@ -21,6 +21,10 @@ Ciekawe czy BTC stanie się aktywem rezerowym nowych banków centralnych?
 
 ---
 
+<img src="./img/december/opiniebtc.png"><br><br>
+
+---
+
 Chanuka - źródłosłów
 
 Słowo Chanuka ma ten sam źródłosłów co Chinuch (edukacja). W czasie Chanuki skupiamy się na żydowskiej edukacji dzieci. Nie jest jasne dlaczego dajemy dzieciom Chanuka gelt, ale wykorzystujemy tę okazję, aby nauczyć je jak ważne jest by wzrastać w ofiarności i dobrych uczynkach.
