@@ -59,7 +59,7 @@
     "rehype-react": "4.0.1"
   },
   "devDependencies": {
-    "@types/classnames": "2.2.9",
+    "@types/classnames": "2.2.11",
     "@types/lodash": "4.14.136",
     "@types/node": "13.13.4",
     "@types/react": "17.0.0",
