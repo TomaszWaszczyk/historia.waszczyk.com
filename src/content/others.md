@@ -68,11 +68,13 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * https://pl.wikipedia.org/wiki/Karol_Modzelewski mówił o "niewolnictwie państwowym"
 
-### Zasady wojny
+### Zasady wojny i wywiadu
 
 https://pl.wikipedia.org/wiki/Carl_von_Clausewitz
 
 https://pl.wikipedia.org/wiki/Erich_von_Manstein
+
+analiza hipotez konkurencyjnych - szukanie zaprzeczeń a nie potwierdzeń
 
 ### Żydzi, jude, Jewish
 
