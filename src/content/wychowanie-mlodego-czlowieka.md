@@ -193,6 +193,8 @@ Your browser does not support the video tag.
 
 * Kosmoliski, Marek Marcinowski
 
+* Jak wychować dzieci na szczęśliwych dorosłych, Izabela Antosiewicz
+
 ### Inne
 
 * https://www.subscribepage.com/kursRIE
@@ -242,7 +244,13 @@ https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
 <!-- https://globalna.ceo.org.pl/ -->
 
-<!-- https://sklep.blogojciec.pl/ -->
+<!-- https://sklep.blogojciec.pl/ 
+
+docenianie (droga) != chwalenie (efekt)
+
+metoda zielonego ołówka
+
+-->
 
 evidence based education
 

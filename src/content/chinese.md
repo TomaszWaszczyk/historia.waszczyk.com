@@ -14,7 +14,18 @@ https://en.wikipedia.org/wiki/Baizuo
 
 https://www.coursera.org/learn/chineseforbegin
 
-<!-- Goodwin Gaw -->
+<!-- Goodwin Gaw 
+
+Tuttle learning chinese Characters
+
+Levels 1-3 a revolutionary new way to learn the 800 most basic chinese characters
+
+HSK 1-3 Exams
+
+Język chiński łatwo i przyjemnie tom 1 książka + MP3
+
+
+-->
 
 ---
 

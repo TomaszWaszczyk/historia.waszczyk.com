@@ -17,6 +17,12 @@ S&P6
 
 ---
 
+Czarny czwartek dla górali. Przedsiębiorcy z Podhala mówią wprost: „To gwóźdź do trumny”
+
+<img src="./img/december/podhale.jpeg"><br><br>
+
+---
+
 "Orwellowski sposób resortu finansów na walkę z przestępczością finansową"
 
 System Informacji Finansowej (w skrócie SInF) będzie ogólnopolskim rejestrem:
