@@ -17,7 +17,15 @@ S&P6
 
 ---
 
-Czarny czwartek dla górali. Przedsiębiorcy z Podhala mówią wprost: „To gwóźdź do trumny”
+> Visa Inc. is partnering with cryptocurrency startup BlockFi to offer a credit card that rewards purchases with Bitcoin rather than airline miles or cash.
+
+> Users of the Bitcoin Rewards Credit Card will receive 1.5% of their purchases back in the world’s most-valuable digital asset, and a lump sum $250 in the crypto-asset if they spend more than $3,000 in the first three months, BlockFi said in a statement. The card, which comes with a $200 annual fee, will be issued by Evolve Bank & Trust.
+
+---
+
+Czarny czwartek dla górali. Przedsiębiorcy z Podhala mówią wprost: 
+
+> „To gwóźdź do trumny”
 
 <img src="./img/december/podhale.jpeg"><br><br>
 
