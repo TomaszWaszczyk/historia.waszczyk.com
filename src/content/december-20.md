@@ -3,11 +3,15 @@ layout: post
 title: 20 grudnia
 image: img/december/microvax_3600.jpg
 author: Tomasz Waszczyk
-date: 2018-12-20T10:00:00.000Z
+date: 2019-12-20T10:00:00.000Z
 tags:
   - Internet
 draft: false
 ---
+
+### 2020
+
+Lata 2022 - ~2030 to czas kiedy zarządy spółek będą tłumaczyć się przed inwestorami, dlaczego nie posiadają w księgach aktywa rezerwowego - BTC.
 
 ### 1991
 
