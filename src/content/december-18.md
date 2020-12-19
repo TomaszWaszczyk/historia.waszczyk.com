@@ -49,6 +49,8 @@ Gazeta informuje, że na szczeblu rządowym od ok. dwóch tygodni trwają narady
 
 ---
 
+Zweryfikować:
+
 <img src="./img/december/balcerowicz.png"><br><br>
 
 ---

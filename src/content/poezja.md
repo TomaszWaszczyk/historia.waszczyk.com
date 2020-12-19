@@ -399,6 +399,29 @@ Niech każdy sam to rozważy.
 > Że tak być powinno
 > Bo tak było zawsze.
 
+### NARODOWO
+
+W NARODOWYM szpitalu, z NARODOWEJ apteki,
+NARODOWY pielęgniarz, NARODOWE ma leki.
+W NARODOWYM lockdownie NARODOWA gehenna,
+NARODOWA mitręga ,skisła, nudna i senna.
+NARODOWO zamknięte NARODOWE markety,
+NARODOWA policja bije NARÓD niestety.
+NARODOWE podatki NARODOWY Sejm daje,
+bo takie są ostatnio NARODOWE zwyczaje.
+NARODOWE złodziejstwo, NARODOWE przekręty
+NARODOWY bandyta ,co kreuje się świętym.
+Czasem marsz NARODOWY ludzi z lekka przerazi
+zgodnie z wolą i chęcią NARODOWYCH włodarzy.
+W NARODOWEJ pandemii NARODOWA "prywatka"
+NARODOWEGO skarbu - "nadzakonnika Tadka".
+NARODOWY poeta pozostaje na szańcu,
+ale w coraz ciaśniejszym NARODOWYM kagańcu.
+I tak sobie żyjemy bez perspektyw i celu,
+w tym naszym ,zwariowanym, NARODOWYM BURDELU.”
+
+---
+
 <https://pl.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez>
 
 https://pl.wikipedia.org/wiki/Iwan_Franko

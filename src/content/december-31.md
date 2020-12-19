@@ -8,6 +8,10 @@ tags:
   - Księstwo Litewskie
 ---
 
+### 2020
+
+<img src="./img/december/polska2020sylwester.jpeg"><br><br>
+
 ### 2019
 
 Sytuacja słuzby zdrowia (lek. med. Bartek Fiałek):
