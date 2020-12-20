@@ -62,6 +62,13 @@ nadzwyczajne CzK.
 
 <img src="./img/december/feliks.jpg"/><br>
 
+### 1879
+
+Thomas A. Edison zademonstrował w Menlo Park w stanie New Jersey swoją żarówkę.
+Wynalazł ją 21 października 1879 roku, po 13 miesiącach eksperymentów, aby znaleźć odpowiedni materiał na żarnik. Odkrył, że zwęglone włókna bawełniane mogą działać przez 40 godzin w próżni wewnątrz szklanej bańki. Kiedy pierwsza publiczna demonstracja odbyła się w Menlo Park 31 grudnia 1879 r., Pennsylvania Railroad Company uruchomiła tam specjalne pociągi, aby umożliwić publiczności obejrzenie pokazu.
+
+<img src="./img/december/menlopark.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

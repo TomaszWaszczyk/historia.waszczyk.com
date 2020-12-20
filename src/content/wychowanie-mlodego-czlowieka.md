@@ -250,6 +250,8 @@ docenianie (droga) != chwalenie (efekt)
 
 metoda zielonego ołówka
 
+Róża, a co chcesz wiedzieć? Praca zbiorowa
+
 -->
 
 evidence based education
