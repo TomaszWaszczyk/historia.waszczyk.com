@@ -13,6 +13,12 @@ draft: false
 
 Lata 2022 - ~2030 to czas kiedy zarządy spółek będą tłumaczyć się przed inwestorami, dlaczego nie posiadają w księgach aktywa rezerwowego - BTC.
 
+---
+
+<img src="./img/december/bs.png"><br><br>
+
+---
+
 ### 1991
 
 Polska została przyłączona do międzynarodowej sieci komputerowej znanej obecnie pod nazwą Internet. Pierwszymi włączonymi do sieci polskimi instytucjami były placówki naukowe Uniwersytetu Warszawskiego czyli Instytut Fizyki Jądrowej i Obserwatorium Astronomiczne oraz pojedyńcze komputery znajdujące się w Krakowie,Toruniu i Katowicach.
