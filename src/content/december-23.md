@@ -51,6 +51,34 @@ Ostatecznie sankcje zostały zniesione w 1987 roku.
 
 Na zdjęciu redaktor Witold Stefanowicz prowadzący Dziennik Telewizyjny. W tle zdjęcie ówczesnego amerykańskiego prezydenta Ronalda Reagana.
 
+### 1970
+
+In the 1970s Polish communist state had an idea to create a complex data system that would process information about different state and economy areas, connected by a tool called INFOSTRADA. Among those systems was WEKTOR, created to process information and assist in managing construction investments. At that time, Poland was still recovering from the war damages and looked like a huge construction site.
+
+The system collected data about the investment course and provide precise information that enables control of the construction, in terms of the progress of work, material consumption, use of manpower or the correct implementation of the initial plan. WEKTOR started as a pilot in seven different locations e.g. port in Świnoujście or pipeline Płock-Blachowina. Ultimately, WEKTOR ensured the flow of information between all organisational units of investment processes in the country - from contractors, design offices and equipment suppliers, through, ministries, and Planning Commission local administration offices. For few years, WEKTOR was a success story. But in 1974 due to political and economic reasons, the system was abandoned.
+
+<img src="./img/december/infostrada.jpeg"><br><br>
+
+<img src="./img/december/infostrada2.jpeg"><br><br>
+
+<img src="./img/december/infostrada3.jpeg"><br><br>
+
+<img src="./img/december/infostrada4.jpeg"><br><br>
+
+<img src="./img/december/infostrada5.jpeg"><br><br>
+
+<img src="./img/december/infostrada6.jpeg"><br><br>
+
+### 1944
+
+We wsi Ochotnica Dolna k. Nowego Targu Niemcy zamordowali 56 osób, w tym kobiety i dzieci.
+
+Masakra przeszła do historii jako „krwawa Wigilia".
+
+D-ca pacyfikacji ani żaden żołnierz z jego jednostki nie został osądzony za tę zbrodnię.
+
+<img src="./img/december/krwawawigilia.jpeg"><br><br>
+
 ### 1939
 
 Stefan Starzyński został zamordowany przez Niemców najprawdopodobniej między 21 a 23 grudnia 1939 r.
