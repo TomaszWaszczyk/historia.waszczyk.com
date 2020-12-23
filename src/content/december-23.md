@@ -3,9 +3,27 @@ layout: post
 title: 23 grudnia
 image: img/december/volksweihnacht-1.jpg
 author: Tomasz Waszczyk
-date: 2018-12-23T10:00:00.000Z
+date: 2019-12-23T10:00:00.000Z
 tags:
-  - Historia
+  - Orlen = RSW
+---
+
+### 2020
+
+> Bank Pekao wprowadził ujemne oprocentowanie sald na rachunkach klientów korporacyjnych, które w niektórych przypadkach sięga nawet minus 0,8 proc. Po podobne rozwiązania mogą sięgać kolejne banki, jednak klienci detaliczni najprawdopodobniej na tym nie stracą, oceniają specjaliści.
+
+---
+
+<img src="./img/december/rsw.jpeg"><br><br>
+
+---
+
+<img src="./img/december/przedsiebiorcy.jpeg"><br><br>
+
+---
+
+https://pl.wikipedia.org/wiki/Talidomid
+
 ---
 
 ### 1982

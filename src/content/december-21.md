@@ -142,6 +142,10 @@ Ogniska i pochodnie zapalono na Kopcu Kościuszki, na Wawelu i w wielu innych pu
 
 <img src="./img/december/poganie.jpg"/><br>
 
+### 1874
+
+https://pl.wikipedia.org/wiki/Tadeusz_Boy-%C5%BBele%C5%84ski
+
 ### 1807
 
 Wszedł w życie Dekret Grudniowy-dokument będący rozwinięciem czwartego artykułu Konstytucji Księstwa Warszawskiego nadawał wolność osobistą jego mieszkańcom. Na mocy tego dekretu wprowadzone zostały zasady kapitalistycznej własności ziemi, które zastąpiły feudalizm. Tym samym chłopstwo zostało pozbawione praw do ziemi, a dziedzic, który stał się jej właścicielem zyskał prawo do usunięcia z niej chłopa wedle własnego uznania, jednak z zachowaniem sześciomiesięcznego okresu wypowiedzenia.

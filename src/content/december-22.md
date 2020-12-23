@@ -3,9 +3,27 @@ layout: post
 title: 22 grudnia
 image: img/december/zbrodniarze.jpg
 author: Tomasz Waszczyk
-date: 2018-12-22T10:00:00.000Z
+date: 2019-12-22T10:00:00.000Z
 tags:
   - KL Auschwitz
+---
+
+### 2020
+
+<img src="./img/december/strajkkobiet.jpeg"><br><br>
+
+<img src="./img/december/strajkkobiet1.jpeg"><br><br>
+
+<img src="./img/december/strajkkobiet2.jpeg"><br><br>
+
+<img src="./img/december/strajkkobiet3.jpeg"><br><br>
+
+---
+
+<img src="./img/december/szczepionki.png"><br><br>
+
+Źródło: forsal.pl
+
 ---
 
 ### 1947

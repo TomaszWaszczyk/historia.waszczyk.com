@@ -8,6 +8,10 @@ tags:
   - NKWD
 ---
 
+### 2020
+
+<img src="./img/december/restrykcje.png"><br><br>
+
 ### 2019
 
 Panem et circenses w wykonaniu Polski i społeczeństwa.
