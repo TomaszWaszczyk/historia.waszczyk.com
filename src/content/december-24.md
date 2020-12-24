@@ -1,14 +1,22 @@
 ---
 layout: post
 title: 24 grudnia
-image: img/december/volksweihnacht-1.jpg
+image: img/december/ox2021.jpeg
 author: Tomasz Waszczyk
 date: 2019-12-24T10:00:00.000Z
 tags:
-  - Wigilia 2020
+  - 0x - Wigilia 2020 - China - Japan
 ---
 
 ### 2020
+
+Christmas Time Is Here
+
+During 2021+ towards 0x..
+
+<img src="./img/december/ox2021.jpeg"><br><br>
+
+---
 
 Zaczyna się drukować rachunek za socjalizm i wygodę, atomizacja w praktyce:
 
@@ -24,6 +32,8 @@ W sowieckim areszczie NKWD znalzł się w wyniku podstępnego aresztowania 9 mar
 ### 1942
 
 https://de.wikipedia.org/wiki/Nationalsozialistischer_Weihnachtskult
+
+<img src="./img/december/volksweihnacht-1.jpg"><br><br>
 
 ### 1940
 
