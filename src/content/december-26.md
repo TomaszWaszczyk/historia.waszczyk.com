@@ -35,7 +35,7 @@ Mimo że naukowcy przypłacili zdrowiem swoje eksperymenty, ich praca nie pozost
 
 💁‍♂️ Nie wszyscy wiedzą, że po otrzymaniu drugiej nagrody Nobla (właśnie za odkrycie nowych pierwiastków) Maria Skłodowska-Curie zainicjowała powstanie kolebki Noblistów - Instytut Radowy. W placówce działało czterech noblistów, w tym... córka i zięć Polki.
 
-<!-- <img src="./img/december/rad.jpg"/><br> -->
+<img src="./img/december/rad.jpg"/><br>
 
 ### 1655
 
