@@ -3,7 +3,7 @@ layout: post
 title: 25 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2018-12-25T10:00:00.000Z
+date: 2019-12-25T10:00:00.000Z
 tags:
   - NKWD
 ---
@@ -11,6 +11,14 @@ tags:
 ### 2020
 
 <img src="./img/december/restrykcje.png"><br><br>
+
+---
+
+Już prawie 4% całej kapitalizacji Spółki jest w krótkiej sprzedaży.
+
+<img src="./img/december/shortcdr.jpeg"><br><br>
+
+---
 
 ### 2019
 

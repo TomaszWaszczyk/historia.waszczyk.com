@@ -3,10 +3,29 @@ layout: post
 title: 26 grudnia
 image: img/december/rad.jpg
 author: Tomasz Waszczyk
-date: 2018-12-26T10:00:00.000Z
+date: 2019-12-26T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2020
+
+Chiny przodują na świecie w pracach nad walutą cyfrową. Jeśli próby się powiodą w Chiny, mogą doprowadzić do szerszego zastosowania cyfrowej waluty w tym państwie w 2021r.
+
+Jak zauważa HSBC, „Bank Rozrachunków Międzynarodowych wskazuje, że 10% banków centralnych prawdopodobnie wyemituje CBDC w ciągu trzech lat, a 20% w ciągu sześciu".
+
+Te programy pilotażowe pomogą ukształtować międzynarodowy standard i pomogą innym globalnym bankom w opracowaniu ich własnych walut cyfrowych. Banki centralne USA, Wielkiej Brytanii, Eurostrefy i Japonii są na różnych etapach rozwoju, chociaż żaden z nich nie ma konkretnych planów wdrożenia CBDC (cyfrowej waluty banku centralnego). Wśród dużych gospodarek przodują w tej dziedzinie Szwecja i Chiny. Oczekuje się, że mogą przyjąć CBDC już w przyszłym roku, co może otworzyć wrota do dalszego rozwoju.
+
+Jak podkreśla Rabobank, „po pierwsze, powinno to zapewnić chińskiej gospodarce znaczny impuls; po drugie, jednocześnie jeszcze bardziej zwiększy kontrolę chińskiego rządu nad chińskim społeczeństwem; wreszcie nowa waluta jest częścią ambitnego planu wzmocnienia międzynarodowej chińskiej waluty, i potencjalnie, w szczególności kosztem euro”.
+
+---
+
+### 1989
+
+Rewolucja w Rumunii: w Târgoviște rozstrzelano obalonego dyktatora Nicolae Ceaușescu i jego żonę Elenę.
+W Târgoviste, ok. 80 km od Bukaresztu, rozstrzelani zostali Elena i Nicolae Ceausescu, komunistyczny dyktator, od 1965 r. niepodzielnie rządzący Rumunią. Trzy dni wcześniej starał się zjednać sobie wrogi tłum przemową w centrum stolicy. Gdy mu się to nie udało, uciekł z żoną helikopterem do rezydencji w Snagov, a potem do Târgoviste. Tam zostali pojmani i po pospiesznym procesie, który był farsą, straceni. Upadek Ceausescu zaczął się w połowie grudnia od protestów w Timisoarze w obronie węgierskiego pastora oskarżanego o szerzenie nienawiści do Rumunów. Pacyfikacja Timisoary wywołała rebelię w kolejnych miastach, a po przejściu wojska na stronę demonstrantów dyktator został sam.
+
+<img src="./img/december/rumunia.jpg"><br><br>
 
 ### 1898
 

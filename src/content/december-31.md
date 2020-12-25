@@ -12,6 +12,12 @@ tags:
 
 <img src="./img/december/polska2020sylwester.jpeg"><br><br>
 
+---
+
+<img src="./img/december/sylwester2020.jpg"><br><br>
+
+---
+
 ### 2019
 
 Sytuacja słuzby zdrowia (lek. med. Bartek Fiałek):

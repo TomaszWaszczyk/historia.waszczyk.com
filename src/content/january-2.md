@@ -9,6 +9,12 @@ tags:
 draft: false  
 ---
 
+### 2020
+
+Minister Finansów RP zmienił interpretację podatkową, nakładając podatek VAT 23% na usługi sortowania, liczenia, pakowania, transportu gotówki, a także zasilania wpłat i wypłat z bankomatów oraz kas banków.
+
+Kwestią czasu pozostaje zatem tylko kiedy banki wprowadzą opłaty za wpłaty i wypłaty gotówki. Zdrożeją prawdopodobnie także wszelkie płatności internetowe z użyciem procesorów płatności np. PayU itp. na co wskazuje doradca podatkowy Deloitte Romania Raluca Bâldea. Podobnie jak podatek bankowy, także i ten zostanie przerzucony na klientów.
+
 ### 1945
 
 NKWD (Ludowy Komisariat Spraw Wewnętrznych) rozpoczął aresztowania Polaków zamieszkujących we Lwowie. Szacuje się, że podczas akcji trwającej trzy dni w więziennych celach znalazło się 17 tysięcy ludzi. Część z nich została po pewnym czasie zwolniona do domu, jednak większość wysłano w głąb Związku Radzieckiego.
