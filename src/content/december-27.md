@@ -3,7 +3,7 @@ layout: post
 title: 27 grudnia
 image: img/december/walesa.jpg
 author: Tomasz Waszczyk
-date: 2018-12-27T10:00:00.000Z
+date: 2019-12-27T10:00:00.000Z
 tags:
   - Sowieci
 ---
@@ -13,6 +13,12 @@ tags:
 Papież Jan Paweł II spotkał się w więzieniu z Mehmetem Alim Agcą, który 13 maja 1981 roku, podczas audiencji generalnej na placu św. Piotra w Rzymie dokonał nieudanego zamachu na jego życie. Papież ponownie przebaczył zamachowcowi. Po zakończonym spotkaniu papież zanotował: „Ali Agca – jak mi się wydaje – zrozumiał, że ponad jego władzą, władzą strzelania i zabijania, jest jakaś potęga wyższa. Zaczął więc jej poszukiwać. Życzę mu, aby ją odnalazł.''
 
 <img src="./img/december/przebaczenie.jpg"/><br>
+
+---
+
+<img src="./img/december/gold20.jpeg"><br><br>
+
+---
 
 ### 1981
 
@@ -100,6 +106,12 @@ Chmielnicki zmarł 6 sierpnia 1657 roku.
 W Kaliszu książę mazowiecki Siemowit III (grafika) złożył hołd lenny królowi Kazimierzowi Wielkiemu. Tym samym mazowiecki władca zobowiązał się do nie zawiązywania antypolskich sojuszy, umorzenia długu i zwrotu Polsce ziemi płockiej.
 
 <img src="./img/december/siemowit.jpg"/><br>
+
+### 73 p.n.e.
+
+Niewolnicy w Rzymie pochodzili z jeńców wojennych, licznie dostarczanych przez kolejne wojny i podboje. Niewolnik traktowany był jak rzecz, mógł być obiektem kupna, sprzedaży, wymiany, za jego zabicie nie groziła kara. Niewolnicy w starożytnym Rzymie doświadczali różnego losu w zależności od zajęć, które wykonywali. W najgorszej sytuacji znajdowali się niewolnicy zatrudnieni w kopalniach, którzy wykonywali katorżniczą prace i nie mieli żadnych szans na wyzwolenie. Trudne położenie spotykało także niewolników zatrudnianych w majątkach ziemskich, gdzie zajmowali się pracami rolnymi. **Nadzór sprawował nad nimi inny niewolnik, na noc zakuwano ich w kajdany, nie mogli zakładać rodzin, a o losie dzieci niewolników decydował tylko i wyłącznie ich właściciel.** Zdecydowanie w najlepszej sytuacji znajdowali się niewolnicy pracujący jako służba w domach i posiadłościach Rzymian. Niektórzy z nich pracowali jako opiekunki bądź nauczyciele. Właściciel dbał wygląd niewolników, ponieważ świadczyło to o jego zamożności. W tej grupie niewolników często dochodziło do wyzwoleń, podobnie jak i pośród niewolników pomagającym swym właścicielom w prowadzeniu interesów. Przykładem wyzwolenia niewolnika jest Tyron, który zdobył tak dużą sympatię Cycerona, że ten darował mu wolność. Zdecydowanie pogorszyła się sytuacja niewolników w okresie podbojów Rzymu, kiedy to ich cena gwałtownie spadła ze względu na ich olbrzymie ilości. Częściej zabijano niewolników, których można było wtedy nabyć za niewielkie pieniądze.
+
+Ciężki los powodował, że niewolnicy organizowali powstania. Pierwsze wybuchły na Sycylii w drugim wieku p.n.e. a Rzymianom sprawiło kłopot ich opanowanie. Największe powstanie znane jest pod nazwą powstania Spartakusa. Wybuchło w szkole gladiatorów w Kampanii w 73 roku p.n.e. Wraz z kilkoma gladiatorami Spartakus uciekł ze szkoły i ukrył się na wzgórzach Wezuwiusza. Grupa niewolników szybko się powiększała, nasilało się zbiegostwo. Armia Spartakusa przeszła z południa na północ a później znowu próbowała się przedrzeć na południe. Rzymianie stłumili w końcu powstanie, Spartakus zginął w walce, a reszta powstańców została ukrzyżowana wzdłuż drogi do Kapui. Powstanie Spartakusa było największym powstaniem niewolników w historii Rzymu, do buntów niewolników dochodziło w dalszym ciągu, ale nie na taką skalę.
 
 ---
 

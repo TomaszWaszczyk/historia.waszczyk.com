@@ -402,23 +402,80 @@ Niech każdy sam to rozważy.
 ### NARODOWO
 
 W NARODOWYM szpitalu, z NARODOWEJ apteki,
+
 NARODOWY pielęgniarz, NARODOWE ma leki.
+
 W NARODOWYM lockdownie NARODOWA gehenna,
+
 NARODOWA mitręga ,skisła, nudna i senna.
+
 NARODOWO zamknięte NARODOWE markety,
+
 NARODOWA policja bije NARÓD niestety.
+
 NARODOWE podatki NARODOWY Sejm daje,
+
 bo takie są ostatnio NARODOWE zwyczaje.
+
 NARODOWE złodziejstwo, NARODOWE przekręty
+
 NARODOWY bandyta ,co kreuje się świętym.
+
 Czasem marsz NARODOWY ludzi z lekka przerazi
+
 zgodnie z wolą i chęcią NARODOWYCH włodarzy.
+
 W NARODOWEJ pandemii NARODOWA "prywatka"
+
 NARODOWEGO skarbu - "nadzakonnika Tadka".
+
 NARODOWY poeta pozostaje na szańcu,
+
 ale w coraz ciaśniejszym NARODOWYM kagańcu.
+
 I tak sobie żyjemy bez perspektyw i celu,
+
 w tym naszym ,zwariowanym, NARODOWYM BURDELU.”
+
+### Bezsilność
+
+to bez­sil­ność uszmin­ko­wa­ła świat
+
+do fo­to­gra­fii
+
+śnieg upu­dro­wal kieł­ki kon­wa­lii
+
+i drze­wa mają wy­gię­te rzę­sy
+
+prze­świe­tlo­ne okrą­głym księ­ży­cem
+
+- świat jest taki ład­ny -
+
+na uli­cy
+
+dłu­gi cień la­tar­ni
+
+wplą­tał się w de­ski pło­tu
+
+mil­czą­ce­go po­dłuż­nie
+
+w bra­mie - na prze­kór
+
+skrzy­pią­cym kro­kom
+
+kwit­ną po­ca­łun­ki
+
+sły­szysz - dzwo­nią
+
+jak drze­mią­ce głów­ki kon­wa­lii
+
+- świat jest taki ład­ny-
+
+po dru­giej stro­nie
+
+za­mknię­tych okien
+
+*H.Poświatowska
 
 ---
 
