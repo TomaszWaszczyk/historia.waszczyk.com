@@ -8,6 +8,395 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+<!--
+Ekumenizm lub ruch ekumeniczny (z gr. οικουμένη – oikumene- zamieszkana ziemia)[1] – ruch w obrębie chrześcijaństwa dążący do przywrócenia pierwotnej jedności pomiędzy rozlicznymi wyznaniami chrześcijańskimi w ramach jednego, świętego, powszechnego i apostolskiego Kościoła[2].restytuowaćprzywrócić bądź przywracać do poprzedniego stanuodium «uczucie niechęci lub nienawiści do kogoś, kogo obarcza się winą za coś; też: wroga lub nieprzyjazna atmosfera otaczająca taką osobę»RSVP (lub R.S.V.P., R.s.v.p.) – skrótowiec pochodzący od francuskiego zwrotu répondez s'il vous plaît (dosłownie: proszę odpowiedzieć), umieszczany na zaproszeniach, gdy zapraszający oczekuje potwierdzenia zamiaru przybycia zapraszanego[1].De iure (czyt. de jure, łac. według prawa) – w języku prawniczym jest to stan zgodny z treścią norm prawnych. Często używane dla przeciwstawienia stanu de facto wobec rzeczywistości prawnej.Neofita (z gr. neóphytos - na nowo zasadzony, łac. neophytus - nowo nawrócony) – osoba, która niedawno przyjęła jakąś wiarę. Określenie stosowane najczęściej w odniesieniu do chrześcijaństwa. Do XV wieku neofita nie mógł przyjmować godności kościelnych, później jednak, początkowo w Hiszpanii, a następnie na gruncie całego Kościoła, zniesiono to ograniczenie.Kumoterstwo – wzajemne popieranie się ludzi związanych przynależnością do jakiejś grupy czy pokrewieństwem[1], zwykle dla osiągnięcia pozycji społecznej lub korzyści materialnych, nie opierające się na ocenie wartości tych osób, lecz na fakcie znajomości. Kumoterstwo jest pojęciem nieco szerszym niż nepotyzm, gdyż dotyczy nie tylko krewnych, ale znacznie częściej przyjaciół i znajomych.Kontrybicja
+► rezonowaćrozprawiać, pouczać, mędrkować interlokutorpartner w rozmowie; rozmówca, dyskutantpassus (łac. krok) – rzymska miara długości tzw. podwójny krokpassus – pojęcie obecne w literaturze, oznaczające ustęp, fragment tekstuDrugi obieg wydawniczy, od 1977 zaczęły powstawać niezależne i nielegalne wydawnictwa związane z antykomunistyczną opozycją, tworząc tzw. drugi obieg wydawniczy (do 1989 ok. 500 oficyn, najczęściej istniejących krótko). Owe niezależne oficyny wydawnicze funkcjonowały zazwyczaj przy opozycyjnych do panującego systemu ugrupowaniach społecznych (KOR) oraz grupach środowiskowych (akademickich, zakładowych), a zajmowały się drukowaniem i kolportażem nie cenzurowanych (cenzura) publikacji o różnorakim charakterze (społecznym, politycznym, historycznym, literackim i innymi). Najbardziej znaczące to: NOWA (pierwsze podziemne wydawnictwo powołane do życia przez M. Chojeckiego, G. Boguta, K. Bieliński), Krąg, Przedświt, CDN, Oficyna Literacka.Hans francDrugi obieg wydawniczySzmiraJezyk ezopowyżołdak - pogardliwie o żołnierzu► ancymonłobuz, urwis, rozrabiaka; ancymonekEntropia informacji hochsztapler «oszust i aferzysta na wielką skalę» • hochsztaplerski • hochsztaplerstwoChleba i igrzyskhttps://pl.wikipedia.org/wiki/Chleba_i_igrzyskin extenso [in ekstenso] (łc.) w całości, bez skrótów, opuszczeń, bez zmian.werbalizacja wiedzyin extenso [in ekstenso] (łc.) w całości, bez skrótów, opuszczeń, bez zmian.deklaratywny «będący jedynie deklaracją» ekscentrykskaptować1. «przeciągnąć kogoś na swoją stronę, pozyskać dla siebie»2. «przeciągnąć kogoś z jednej firmy do drugiej»lelum polelum - verb.eff. o kimś powolnym, flegmatycznym, rozlazłym[1], często niezdecydowanym, niemającym własnego zdania[2]kabalistyczny1. dotyczący kabały - metafizycznej interpretacji Biblii
+2. tajemniczy, mający ukryte znaczenie (np. kabalistyczne znaki, liczby, przepowiednie)aberracja1. książkowo: odchylenie od stanu normalnego;
+2. w astronomii: pozorne odchylenie położenia ciała niebieskiego wynikające z ruchu obserwatora;
+3. w optyce: wada układu optycznego spowodowana strukturą tego układusupremacjazwierzchnictwo albo przewaga nad kimś lub nad czymśDrzewko bambusowe, trzeba podlewać przez 5 lat a dopiero później wyrasta bardzo szybko.efemeryda1. istota, rzecz lub zjawisko nietrwałe, przemijające szybko i bez śladu
+2. roślina, której cykl rozwojowy przebiega w krótkim okresie sprzyjających warunków
+3. owad żyjący nad wodą; jętkainwektywazniewaga, obelgaegzaltacjazbytnia wylewność w okazywaniu uczuć i nienaturalność w uzewnętrznianiu myśliVox populi, vox Dei (łac. głos ludu (to) głos Boga) – popularna sentencja wyjęta z "Listu do Karola Wielkiego", napisanego przez anglosaskiego mnicha, teologa i filozofaAlkuina.Leseferyzm (fr. laissez faire - pozwólcie czynić; laissez passer - pozwólcie przechodzić, laissez aller) Last but not leastManagement by Objectives Peter DruckerDecyzja robi zarządzającego P DruckerGenerał Pattonn - szybkie decyzje poprzez doświadczenieegalitarność- Mutatis mutandis (łac. „zmieniając to, co powinno być zmienione; po dokonaniu niezbędnych zmian; z uwzględnieniem istniejących różnic”; "stosując odpowiednio") – zwrot stosowany m.in. w ekonomii, filozofii, logice i naukach prawnych mający na celu zwrócenie uwagi, że rozważana sytuacja jest analogiczna do innej, przytaczanej jako przykład, o ile uwzględni się różnice wynikające z odmiennych warunków.Przykłady:„Wzrost cen gazu spowodowany jest, mutatis mutandis, tymi samymi czynnikami, co wzrost cen ropy.” – zakłada się, że uprzedni tekst wyjaśnił przyczyny wzrostu cen ropy, a czytelnik wie lub domyśla się, jakich zmian należy dokonać w argumentacji.„Ustalono, że w przypadku naruszenia przestrzeni powietrznej stosowane będą mutatis mutandis te same sankcje, co w przypadku naruszenia wód terytorialnych”.„Postanowienia ustępu 3 i 4 niniejszego Artykułu stosuje się mutatis mutandis do zobowiązań Stron wynikających z innych Artykułów Deklaracji.”Chain of commandindolencja (łc. indolentia ‘nieczułość’) brak zaradności, nieporadność; zobojętnienie, nieczułość, bierność.kadzić sobie- prawić komplementyspiritus movens [wym. spiritus mowens] «główny inspirator jakichś działań»Licentia poetica – wyrażenie pochodzące z łaciny; oznacza wolność twórczą/poetycką.Si vis pacem, para bellum- Jeśli chcesz pokoju, gotuj się do wojnyBeing busy is a form of lazyiness- lazy thinking and indiscriminate action.Single Tasker !Have a big picture of the market. ! Being creative and making something is the opposite of hanging out.Sort data streams by signal vs noise.Be Efficient. Do only right things !Jedyną stałą rzeczą jest zmiana.Lost your opinion, not your money.internalizacja- «uznawanie wartości, norm, poglądów itp., narzucanych początkowo z zewnątrz, za własne» Triumwirat – zgromadzenie złożone z trzech osób (z łaciny trium viri – trzech mężów) mające na celu wykonanie określonych zadań.deliberować- zastanawianie się nad czymś, rozważanie czegośsymptomatycznycharakterystyczny, znamienny dla kogoś lub czegoś; będący symptomemobcesowy (daw. obsces ‘opętany’ z p.łc. kośc. obscessus) zuchwały, porywczy, niestosujący się do ogólnie przyjętych form; bezczelny, natrętny, natarczywy.podejście holistyczne- całościoweinterlokutor- partner w rozmowie; rozmówca, dyskutantZarabiac ad infinitumfechtować- przestarzałe: uprawiać szermierkę, walczyć białą broniądyletant- człowiek zajmujący się jakąś dziedziną, nie znając się na niej, bez odpowiedniego przygotowaniaFrankowac list - oplacac przesylkeProblem było widać wcześniej, videwszystko jest trudne zanim stanie się łatweerrare humanum est- mylić się jest rzeczą ludzkąPenalizacjabuchalteryjniKrajanzadenuncjować
+chromatyczny- barwny
+chimeryczny- zmienny
+postępowanie kontradyktoryjne
+share and share alike = po równo
+dusery- komplement, czułe słówko
+animozje- niechęć, uraza, antypatia
+antycypować - przedwczesnie wykonywac, przewidywać
+fluktuacja- przypadkowe wachania
+value oriented
+fair value
+zunifizowany- nadający jednakowy wygląd
+meandryczne- w sposób trudny do zrozumienia
+agonia- zycie po smierci, czas po smierci
+serwilizm- bezkrytyczne podporządkowanie się komuś
+hedonista- człowiek poszukujący tylko przyjemności
+eskalować, eskalacja
+kolokwialnie- wyrażenie w języku potocznym w codziennym życiu bez dbałości o poprwaność językową
+go on a binge- iść w tango
+subwencja- zapomoga
+subsydiować- udzielać zapomogi
+aparatczyk- pogardliwie o działaczu i urzędniku
+concade- dostrzec
+groteska = = cuda na kiju
+eufemizm- (eu- dobrze; phemi-mówić) wyraz lub zwrot zastępujący inny zwrot który nie powinien być użyty ze względu na tabu, otoczenie poziom ludzi z którymi rozmawiamy
+delegitymizacja władzy- utracenie władzy aprobaty społecznej(władzy) przy rzadzeniu
+delegitymizacja != legitymizacja
+kuriozalny- osobliwy
+autorytaryzm- system rzadow bezpartyjnych
+impertynencja- niestosowane, bezczelne, obrazliwe
+retoryka- sztuka wymowy, umiejetnosc rzetelnego przekonywania sluchacza, perswazja
+protekcjonizm- polityka ochrony produkcji i handlu krajowego przed konkurencja zagraniczną
+preogatywa- przywilej wynikający z zajmowanego stanowiska
+normatywny- ustalajacy normy
+konwergencja- proces upodobniania sie do siebie kultury i gospodarki wynikajace z globalizacji
+walorazycja- ustalenie wysokosci istniejacych zobowiazan przy zmianie systemu pienieznego
+statu qwo- stan staly, bez zmian
+artykulować- wymawiać głoski, uzewnętrzniać werbalnie, gestykulować
+tete a tete
+kakofonia grec. złe brzmienie, niezgodne, rażące ucho brzmienie dźwięków
+laicyzm- koncepcja rozdziału państwa od kościoła
+
+entreprenurial- swiadczący o przedsiębiorczości
+
+owing to the fact- w związku z faktem, z tym że
+ordynacja wyborcza- zbiór przepisów regulujących przebieg wyborów
+nepotyzm- faworyzowanie członków rodizny przy obsadzaniu stanowisk
+eskadra- jednostka lotnictwa wojskowego
+afirmować- wyrażać aprobatę
+enuncjacja- (zwrot prawny) wypowiedź, oświadczenie
+supozycja- przypuszczenie, domniemanie
+restrukturyzacja- gwałtowne zmiany
+skreczować- zrezygnować z imprezy
+kompensacja- zastępczość funkcji, przekazanie funkcji utraconej przez inny czynnik
+prezydium- organ kierowniczny jakiejś instytucji składającej się z wielu osób
+
+repetycja historii
+
+konwergencja
+
+dywizjonalizacja
+
+kompaktyfikacja kodu
+
+indagować- dopytywać, badać
+prowadzić indagację
+zasada deterministyczna
+ekstrahować- wyodrębnić
+ornament- ozdoba
+sztampowy- schematyczny
+bailout- sytuacja firmy która wymaga dokapitalizowania
+
+alternate- zastępca
+to alter - zmieniać
+
+hard/tough nut to crack- twardy orzech do zgryzienia
+
+to drive away at = to hard work
+
+atencja- szacunek, respekt, poważanie
+artykułować- uzewnętrzniać werbalnie
+responsywność
+
+oportunista
+anturaż- otoczenie, środowisko, entourage
+wierchuszka- potocznie na władzę
+protekcja- popracie
+konotacje
+rewitalizacja- przywrócenie do życia
+
+Czym skorópka za młodu przesiądnie tym na starość trąci.
+
+ekwilibrystyczny- wyjątkowo zręczny
+obstrukcyjny- hamujący coś zrobić
+pucz- próba objęcia władzy
+Haute Couture- wysokie krawiectwo, szyte na zamówienie
+mizoginia- misos- nienawiść
+gyne - kobieta
+kontestator- osoba kwestoinująca zwłaszcza publiczne wartość, normy, obowiązki
+
+split na akcjach-
+
+recypować- przyswoić sobie coś
+reglamentacja- wprowadzenie na stałe lub czasowo zakazu obrotu pewnymi towarami
+przestrzeć odpowiedzi
+dobry kompas/busola
+
+grejdoł
+skonfundowany
+gremium
+absmak- zniesmaczenie
+legitymizacja- nadawać mocy prawnej
+agrawacja- celowe wyolbrzymianie objawów choroby
+pompatyczny- przesadnie wyszukany, bombastyczny
+delikt- czyn niedozwolony, szkoda cywilna
+parweniusz- robiaca karierę oboa dostająca się do wyższego stanowiska i nasladująca w sposób przesadny zachowania już swojego
+środowiska
+hucpa- bezczelne oszustwo
+powiedziec a vista- od razu, przy rozmowie, bez zastanowienia
+
+paternalistycznie
+team spirit
+rejtanowski gest- nie to nie
+wykoncypowany- czysto teoretyczny, nierealny
+dysputa- rozmowa na powazny temat, wymiana pogladow na tematy naukowe
+kasandryczny scenariusz- zapowiadajacy nieszczescie
+track record
+epatowac- wywolywac duze wrazenie
+preliminarz- zestawienie planowanych dochodow i wydatkow jednostki budzetowej
+performowac- osiaganie wynikow, wydajnosc
+indoktrynacja- wpajanie ideologii
+erudyta- osoba wyksztalcona bardzo wasko
+azymut- cel
+
+4 lipiec porozumienie z uczelnia 9.00 1 budynek
+
+a contrario - przeciwnie
+d'avenir przyszlosc
+
+malczewsiego
+
+efemeryczny rzad-krotkotrwaly
+pragmatyczni- oparty na faktach, badajacy przyczyny i skutki wydarzen
+radykalny islamizm-skrajnosc
+rodzina rothschild
+efekt potwierdzenia
+rachunkowosc mentalna
+produkcja uchwytow do monitora
+dominwestora.pl
+konkwista
+neoliberalizm
+united investors company
+kanonierka
+a teizm
+interwencjonizm panstwowy
+prestidigitatorskie
+ebor
+nie zlapal kozak tatarzyna
+municypalny standard
+fundusz reit
+jakub szymanski gracz gieldowy
+kuszetka
+akcje na okaziciela
+ad- osoba odpowiadajaca za realizcja prognoz
+prognoza- slownik pwn
+
+predestynowac- przeznaczac do czegos na cos, przesadzac o czyms
+"Jednym z przesądów XXI-go wieku jest wiara w to,
+że wzrok to pewniejsze źródło wiedzy niż umysł."
+depenalizacja- rezygnacja karalnosci okreslonego czynu
+
+koltunstwo- dwulicowosc
+hermeneutyka- interpretacja, objasnienie
+hermeutyczne poglady- zle zinterpretowane
+Chicken game
+odpowiedź petyjska- odpowiedź wieloznaczna
+Sanowanie-
+Koncyliacyjny- stwierdzenie o osobie która dąży do pojednania wśród innych ludzi wokół
+Sekwestracja
+Wysofistykowaneexpressis verbis łac., dobitnie, wyraźnie; bez ogródek.per aspera ad astra - przez trudy do gwiazdEksterioryzacja zła - czyli szukanie zła nazewnątrz a nie w sobieKolibr- konserwatywno liberalnyefemeryda (gr. ephemerís, ephemerídos ‘dziennik; coś trwającego dzień’ per procura [wym. per prokura] «w zastępstwie, z upoważnienia»Merkantylizm lub ustrój merkantylny – system poglądów ekonomiczno-politycznych, który pojawił się we wczesnym okresienowożytności, wywodzący się z bulionizmu – teorii mówiącej, że posiadanie metali szlachetnych równa się bogactwu.chimeryczny- zmieniający usposobienie (zdanie, pogląd) pod wpływem emocjiFlipping is a term used primarily in the United States to describe purchasing a revenue-generating asset and quickly reselling (or "flipping") it for profit. apologeta- osoba broniąca określonej idei, postawydemode- niemodneumizgiwać się:kokietować, mizdrzyć się, nadskakiwać, przewracać, przymilać się, strzelać oczami, słodkie oczy, wdzięczyć się,zabiegać o względy, zalecać się, podrywać, robić słodką minkęManichejski podział świata- podział bazujący na dobrym i złymmitygować - powstrzymywaćpójść (iść) do Canossy wyrazić skruchę, uznać swój błąd; ukorzyć się
+<Canossa, wieś w płn. Włoszech, gdzie cesarz Henryk IV ukorzył się przed papieżem Grzegorzem VII>Ontologia lub metafizyka (por. metafizyka klasyczna) – podstawowy (obok epistemologii) dział filozofii starający się badać strukturę rzeczywistości i zajmujący się problematyką związaną z pojęciami bytu, istoty, istnienia i jego sposobów,przedmiotu i jego własności, przyczynowości, czasu, przestrzeni, konieczności i możliwości.Dychotomia (gr. dichotomos = przecięty na dwie części) Atawizm (łac. atavus – przodek) – regresja ewolucyjna, pojawienie się u danego organizmu nietypowych dla niego cech bądź zachowań, charakterystycznych dla jego odległych przodków.Aberracja (łac. ab – od i errare – błądzić, także aberratio – zabłąkanie się, zbłądzenie) – odchylenie, zboczenie, np. od normalnego stanu, zachowania, przyjętych normpostępowania, sposobu myślenia czy też działania jakiegoś urządzenia. Odstępstwo od normy lub zasady.Ebonit (guma twarda, nazwa z gr. ebonos - heban) – tworzywo sztuczne otrzymywane w wyniku wulkanizacji naturalnego lub sztucznego kauczuku; twardy można porównać do czegoś trardegosprokurować1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»2. pot. «przygotować, sporządzić, zorganizować coś»► punitywnykarzący, mający na celu ukaraniePyrrusowe zwycięstwo - to zwycięstwo osiągnięte nadmiernym kosztem, np. z dużymi stratami w ludziach i sprzęcie wojennymfenomenologia fenolemolog «kierunek filozoficzny postulujący poznanie empiryczne i ścisły opis zjawisk bezpośrednio danych; też: metoda badawcza w różnych naukach wyrosła z tego kierunku» ► sekowaćprześladować kogoś, dręczyć, dokuczaćrachityczny1. w medycynie: dotknięty rachityzmem; odznaczający się skrzywieniem kości; krzywiczy, krzywiczny, krzywicowy;
+2. przenośnie: lichy, słaby, wykrzywionyzblazowany ~ni1. pot. «znudzony nadmiarem wrażeń, przeżyć, życiem (zwłaszcza hulaszczym), zobojętniały na wszystko»Zblazowany człowiek.blamaż - kompromitacja, ośmieszenie się► agoraw starożytnej Grecji:
+1. zgromadzenie ludowe (obywateli państwa-miasta);
+2. plac otoczony budynkami publicznymi, będący centrum życia społecznego, politycznego itp., rynekannałyroczniki historyczne opisujące zdarzenia chronologicznie i w każdej księdze zawierające wydarzenia z jednego rokuNie przytulam młodzieńców z ogolonymi głowami, dla których swastyka jest fajnym symbolem! – grzmiał Tusk.Premier – historyk z wykształcenia – najwyraźniej nie pamięta, że swastyka była symbolem narodowych socjalistów, a więc lewicy.expressis verbis łac., dobitnie, wyraźnie; bez ogródek.ex re łac., z okazji, z powodu.ex promptu łac., bez przygotowania, naprędce; por. ad aperturam...ex se natus łac., pochodzi od siebie samego (por. moi je suis mon ancêtre); por. Tacyt (Roczniki, 11, 21); rz. cesarz Tyberiusz o Kurcjuszu Rufusie.ex professo łac., z urzędu, z powołania; ze znajomością przedmiotu; zawodowo; umyślnie.ex tempore łac., bez przygotowania; znienacka; na poczekaniu, naprędce (por. ad aperturam..., ekstemporale).► komitywa1. bliskie stosunki łączące dobrych znajomych lub przyjaciół, zażyłość;
+2. dawniej: grupa osób towarzysząca komuś, czemuś; orszak; świta► zuchwały1. zbyt pewny siebie i lekceważący innych;
+2. bardzo odważny i skłonny do ryzykowanianestormądry, doświadczony starzec, będący najstarszym przedstawicielem jakiejś grupy ludziaprowizacjazaopatrywanie ludzi w niezbędne artykuły, zwłaszcza w żywność, w jakimś trudnym czasieSi vis pacem para bellum (dosł. "Jeśli chcesz pokoju, gotuj się do wojny")si vis coitus oralis, para verpa- zawsze bądź gotowySystem monotarny- bez pieniądzaSplendid isolation-Bambus rosnie przez piec lat I nic nie widav to moze byc dobre porownanie do rozwoju.
+Demiurg- tworca, protoplsstaFerment  -rozruchyDystyngowanySłówka, krasomóstwo..SourceURL: https://drive.google.com/?tab=mo&authuser=0#folders/0B4FtGQGWYw-KYWNjNTFhZWQtYjMzNy00OTI2LWE0NjMtZWIzOWI5NWFhOTg5Map► transponować1. przenieść, przenosić z jednej dziedziny do innej;
+2. dokonać, dokonywać transpozycji utworu muzycznegoPatriarchat –1.(z łac.)pater, patris -ojciec, oraz greckiego arche, czyli władza. Jest to typ rodowej organizacji społecznej bazującej na dominującej roli mężczyzn, podkreślanej i wyrażającej się w patrylokalnym małżeństwie i patrylinearnych grupach krewniaczo–pochodzeniowych, w których dziedziczenie następuje po linii męskiej. 2.Ostatni okres ustrojuwspólnoty pierwotnej, w którym dominujące stanowisko zajmuje mężczyzna stojący na czele rodu[1],.Freudowskie przejęzyczeniehttps://pl.wikipedia.org/wiki/Mayflowernormatywny1. «ustalający obowiązujące normy»2. «podlegający normom lub przez nie określony»• normatywnie • normatywność
+sekularny stuletni, wiekowy; (sekularne ruchy, wahania) geol., b. powolne ruchy, przesunięcia skorupy ziemskiej widoczne dopiero po upływie stuleci. sekularyzacja zeświecczenie; zwolnienie zakonnika z zakonu; wywłaszczenie własności kościelnej i przeznaczenie jej na cele świeckie; usuwanie wpływów Kościoła z różnych dziedzin życia społecznego, laicyzacja.ecclesia triumphans, ecclesia militans [ekkles-i-a trjumfans, ekkles-i-a militans] (łc.) Kościół triumfujący, Kościół walczący; słowa papieża Klemensa V w liście do króla fr. Filipa IV Pięknego, 1311 r.Retencja (łac. retentio – powstrzymywanie)demodeprzymiotnikniemodnyIndemnizacja, odszkodowanie, wynagrodzenie strat i szkód płacone przez chłopów właścicielom w związku z uwłaszczeniem, w zaborze pruskim odszkodowanie płacili chłopi. Na terenie Galicji i w Królestwie Polskim odszkodowanie wypłacał rząd, co pośrednio obciążało podatników w postaci tzw. podatku indemnizacyjnego.Apostazja (gr. ἀποστασία – odstąpienie, bunt; z ἀπό (apo) – od, στάσις (stasis) – postawa, pozycja) – porzucenie wiary religijnej. W pierwotnym znaczeniu – całkowite porzucenie wiary chrześcijańskiej; termin został również adaptowany do ogólnych pojęć religioznawczych oraz wykorzystywany przez religie i wyznania niechrześcijańskie.Sztafaż (niem. Staffage od ausstaffiere, przyozdabiać) – postacie ludzkie i zwierzęta oraz dodatkowe, poboczne wątki lub motywyożywiające kompozycję dzieła artystycznego, nieodciągające jednak uwagi odbiorcy od głównej treści dzieła.Sztafaż nie nawiązuje bezpośrednio do głównego motywu dzieła, a jedynie uatrakcyjnia tło, które mogłoby się wydać puste, monotonne lub zbyt nudne. Sztafaż zastępuje tło czymś ciekawszym, spełniając jednak nadal podstawowe funkcje tła, tak więc użycie sztafażu odbywa się jedynie w warstwie formalnej, a nie znaczeniowej.Chleba i igrzyskhttps://pl.wikipedia.org/wiki/Chleba_i_igrzyskin extenso [in ekstenso] (łc.) w całości, bez skrótów, opuszczeń, bez zmian.werbalizacja wiedzy► ancymonłobuz, urwis, rozrabiaka; ancymonekEntropia informacji hochsztapler «oszust i aferzysta na wielką skalę» • hochsztaplerski • hochsztaplerstwoAutarkia (samowystarczalność gospodarcza) – cecha gospodarki lub cel polityki gospodarczej, prowadzonej przezpaństwo lub grupę państw, dążące do zaspokojenia wszelkich potrzeb gospodarki, zarówno konsumpcyjnych, jak i produkcyjnych, w ramach własnych możliwości.https://pl.wikipedia.org/wiki/Gastarbeitersitwa - pot. grupa osób wzajemnie się wspierających i wykorzystujących swoje pozycje społeczne dla prywatnych interesów, wbrew interesowi ogółu, jid. שותּפֿות (szutfes) → spółkakundlizm► omnipotencjawszechmoc, wszechwładzaabortowany- aborcjaReise FiberChleba i igrzyskhttps://pl.wikipedia.org/wiki/Chleba_i_igrzyskin extenso [in ekstenso] (łc.) w całości, bez skrótów, opuszczeń, bez zmian.deklaratywny «będący jedynie deklaracją» ekscentrykskaptować1. «przeciągnąć kogoś na swoją stronę, pozyskać dla siebie»2. «przeciągnąć kogoś z jednej firmy do drugiej»lelum polelum - verb.eff. o kimś powolnym, flegmatycznym, rozlazłym[1], często niezdecydowanym, niemającym własnego zdania[2]kabalistyczny1. dotyczący kabały - metafizycznej interpretacji Biblii
+2. tajemniczy, mający ukryte znaczenie (np. kabalistyczne znaki, liczby, przepowiednie)aberracja1. książkowo: odchylenie od stanu normalnego;
+2. w astronomii: pozorne odchylenie położenia ciała niebieskiego wynikające z ruchu obserwatora;
+3. w optyce: wada układu optycznego spowodowana strukturą tego układusupremacjazwierzchnictwo albo przewaga nad kimś lub nad czymśDrzewko bambusowe, trzeba podlewać przez 5 lat a dopiero później wyrasta bardzo szybko.efemeryda1. istota, rzecz lub zjawisko nietrwałe, przemijające szybko i bez śladu
+2. roślina, której cykl rozwojowy przebiega w krótkim okresie sprzyjających warunków
+3. owad żyjący nad wodą; jętkainwektywazniewaga, obelgaegzaltacjazbytnia wylewność w okazywaniu uczuć i nienaturalność w uzewnętrznianiu myśliVox populi, vox Dei (łac. głos ludu (to) głos Boga) – popularna sentencja wyjęta z "Listu do Karola Wielkiego", napisanego przez anglosaskiego mnicha, teologa i filozofaAlkuina.Leseferyzm (fr. laissez faire - pozwólcie czynić; laissez passer - pozwólcie przechodzić, laissez aller) Last but not leastManagement by Objectives Peter DruckerDecyzja robi zarządzającego P DruckerGenerał Pattonn - szybkie decyzje poprzez doświadczenieegalitarność- Mutatis mutandis (łac. „zmieniając to, co powinno być zmienione; po dokonaniu niezbędnych zmian; z uwzględnieniem istniejących różnic”; "stosując odpowiednio") – zwrot stosowany m.in. w ekonomii, filozofii, logice i naukach prawnych mający na celu zwrócenie uwagi, że rozważana sytuacja jest analogiczna do innej, przytaczanej jako przykład, o ile uwzględni się różnice wynikające z odmiennych warunków.Przykłady:„Wzrost cen gazu spowodowany jest, mutatis mutandis, tymi samymi czynnikami, co wzrost cen ropy.” – zakłada się, że uprzedni tekst wyjaśnił przyczyny wzrostu cen ropy, a czytelnik wie lub domyśla się, jakich zmian należy dokonać w argumentacji.„Ustalono, że w przypadku naruszenia przestrzeni powietrznej stosowane będą mutatis mutandis te same sankcje, co w przypadku naruszenia wód terytorialnych”.„Postanowienia ustępu 3 i 4 niniejszego Artykułu stosuje się mutatis mutandis do zobowiązań Stron wynikających z innych Artykułów Deklaracji.”Chain of commandindolencja (łc. indolentia ‘nieczułość’) brak zaradności, nieporadność; zobojętnienie, nieczułość, bierność.kadzić sobie- prawić komplementyspiritus movens [wym. spiritus mowens] «główny inspirator jakichś działań»Licentia poetica – wyrażenie pochodzące z łaciny; oznacza wolność twórczą/poetycką.Si vis pacem, para bellum- Jeśli chcesz pokoju, gotuj się do wojnyBeing busy is a form of lazyiness- lazy thinking and indiscriminate action.Single Tasker !Have a big picture of the market. ! Being creative and making something is the opposite of hanging out.Sort data streams by signal vs noise.Be Efficient. Do only right things !Jedyną stałą rzeczą jest zmiana.Lost your opinion, not your money.internalizacja- «uznawanie wartości, norm, poglądów itp., narzucanych początkowo z zewnątrz, za własne» Triumwirat – zgromadzenie złożone z trzech osób (z łaciny trium viri – trzech mężów) mające na celu wykonanie określonych zadań.deliberować- zastanawianie się nad czymś, rozważanie czegośsymptomatycznycharakterystyczny, znamienny dla kogoś lub czegoś; będący symptomemobcesowy (daw. obsces ‘opętany’ z p.łc. kośc. obscessus) zuchwały, porywczy, niestosujący się do ogólnie przyjętych form; bezczelny, natrętny, natarczywy.podejście holistyczne- całościoweinterlokutor- partner w rozmowie; rozmówca, dyskutantZarabiac ad infinitumfechtować- przestarzałe: uprawiać szermierkę, walczyć białą broniądyletant- człowiek zajmujący się jakąś dziedziną, nie znając się na niej, bez odpowiedniego przygotowaniaFrankowac list - oplacac przesylkeProblem było widać wcześniej, videwszystko jest trudne zanim stanie się łatweerrare humanum est- mylić się jest rzeczą ludzkąPenalizacjabuchalteryjniKrajanzadenuncjować
+chromatyczny- barwny
+chimeryczny- zmienny
+postępowanie kontradyktoryjne
+share and share alike = po równo
+dusery- komplement, czułe słówko
+animozje- niechęć, uraza, antypatia
+antycypować - przedwczesnie wykonywac, przewidywać
+fluktuacja- przypadkowe wachania
+value oriented
+fair value
+zunifizowany- nadający jednakowy wygląd
+meandryczne- w sposób trudny do zrozumienia
+agonia- zycie po smierci, czas po smierci
+serwilizm- bezkrytyczne podporządkowanie się komuś
+hedonista- człowiek poszukujący tylko przyjemności
+eskalować, eskalacja
+kolokwialnie- wyrażenie w języku potocznym w codziennym życiu bez dbałości o poprwaność językową
+go on a binge- iść w tango
+subwencja- zapomoga
+subsydiować- udzielać zapomogi
+aparatczyk- pogardliwie o działaczu i urzędniku
+concade- dostrzec
+groteska = = cuda na kiju
+eufemizm- (eu- dobrze; phemi-mówić) wyraz lub zwrot zastępujący inny zwrot który nie powinien być użyty ze względu na tabu, otoczenie poziom ludzi z którymi rozmawiamy
+delegitymizacja władzy- utracenie władzy aprobaty społecznej(władzy) przy rzadzeniu
+delegitymizacja != legitymizacja
+kuriozalny- osobliwy
+autorytaryzm- system rzadow bezpartyjnych
+impertynencja- niestosowane, bezczelne, obrazliwe
+retoryka- sztuka wymowy, umiejetnosc rzetelnego przekonywania sluchacza, perswazja
+protekcjonizm- polityka ochrony produkcji i handlu krajowego przed konkurencja zagraniczną
+preogatywa- przywilej wynikający z zajmowanego stanowiska
+normatywny- ustalajacy normy
+konwergencja- proces upodobniania sie do siebie kultury i gospodarki wynikajace z globalizacji
+walorazycja- ustalenie wysokosci istniejacych zobowiazan przy zmianie systemu pienieznego
+statu qwo- stan staly, bez zmian
+artykulować- wymawiać głoski, uzewnętrzniać werbalnie, gestykulować
+tete a tete
+kakofonia grec. złe brzmienie, niezgodne, rażące ucho brzmienie dźwięków
+laicyzm- koncepcja rozdziału państwa od kościoła
+
+entreprenurial- swiadczący o przedsiębiorczości
+
+owing to the fact- w związku z faktem, z tym że
+ordynacja wyborcza- zbiór przepisów regulujących przebieg wyborów
+nepotyzm- faworyzowanie członków rodizny przy obsadzaniu stanowisk
+eskadra- jednostka lotnictwa wojskowego
+afirmować- wyrażać aprobatę
+enuncjacja- (zwrot prawny) wypowiedź, oświadczenie
+supozycja- przypuszczenie, domniemanie
+restrukturyzacja- gwałtowne zmiany
+skreczować- zrezygnować z imprezy
+kompensacja- zastępczość funkcji, przekazanie funkcji utraconej przez inny czynnik
+prezydium- organ kierowniczny jakiejś instytucji składającej się z wielu osób
+
+repetycja historii
+
+konwergencja
+
+dywizjonalizacja
+
+kompaktyfikacja kodu
+
+indagować- dopytywać, badać
+prowadzić indagację
+zasada deterministyczna
+ekstrahować- wyodrębnić
+ornament- ozdoba
+sztampowy- schematyczny
+bailout- sytuacja firmy która wymaga dokapitalizowania
+
+alternate- zastępca
+to alter - zmieniać
+
+hard/tough nut to crack- twardy orzech do zgryzienia
+
+to drive away at = to hard work
+
+atencja- szacunek, respekt, poważanie
+artykułować- uzewnętrzniać werbalnie
+responsywność
+
+oportunista
+anturaż- otoczenie, środowisko, entourage
+wierchuszka- potocznie na władzę
+protekcja- popracie
+konotacje
+rewitalizacja- przywrócenie do życia
+
+Czym skorópka za młodu przesiądnie tym na starość trąci.
+
+ekwilibrystyczny- wyjątkowo zręczny
+obstrukcyjny- hamujący coś zrobić
+pucz- próba objęcia władzy
+Haute Couture- wysokie krawiectwo, szyte na zamówienie
+mizoginia- misos- nienawiść
+gyne - kobieta
+kontestator- osoba kwestoinująca zwłaszcza publiczne wartość, normy, obowiązki
+
+split na akcjach-
+
+recypować- przyswoić sobie coś
+reglamentacja- wprowadzenie na stałe lub czasowo zakazu obrotu pewnymi towarami
+przestrzeć odpowiedzi
+dobry kompas/busola
+
+grejdoł
+skonfundowany
+gremium
+absmak- zniesmaczenie
+legitymizacja- nadawać mocy prawnej
+agrawacja- celowe wyolbrzymianie objawów choroby
+pompatyczny- przesadnie wyszukany, bombastyczny
+delikt- czyn niedozwolony, szkoda cywilna
+parweniusz- robiaca karierę oboa dostająca się do wyższego stanowiska i nasladująca w sposób przesadny zachowania już swojego
+środowiska
+hucpa- bezczelne oszustwo
+powiedziec a vista- od razu, przy rozmowie, bez zastanowienia
+
+paternalistycznie
+team spirit
+rejtanowski gest- nie to nie
+wykoncypowany- czysto teoretyczny, nierealny
+dysputa- rozmowa na powazny temat, wymiana pogladow na tematy naukowe
+kasandryczny scenariusz- zapowiadajacy nieszczescie
+track record
+epatowac- wywolywac duze wrazenie
+preliminarz- zestawienie planowanych dochodow i wydatkow jednostki budzetowej
+performowac- osiaganie wynikow, wydajnosc
+indoktrynacja- wpajanie ideologii
+erudyta- osoba wyksztalcona bardzo wasko
+azymut- cel
+
+4 lipiec porozumienie z uczelnia 9.00 1 budynek
+
+a contrario - przeciwnie
+d'avenir przyszlosc
+
+malczewsiego
+
+efemeryczny rzad-krotkotrwaly
+pragmatyczni- oparty na faktach, badajacy przyczyny i skutki wydarzen
+radykalny islamizm-skrajnosc
+rodzina rothschild
+efekt potwierdzenia
+rachunkowosc mentalna
+produkcja uchwytow do monitora
+dominwestora.pl
+konkwista
+neoliberalizm
+united investors company
+kanonierka
+a teizm
+interwencjonizm panstwowy
+prestidigitatorskie
+ebor
+nie zlapal kozak tatarzyna
+municypalny standard
+fundusz reit
+jakub szymanski gracz gieldowy
+kuszetka
+akcje na okaziciela
+ad- osoba odpowiadajaca za realizcja prognoz
+prognoza- slownik pwn
+
+predestynowac- przeznaczac do czegos na cos, przesadzac o czyms
+"Jednym z przesądów XXI-go wieku jest wiara w to,
+że wzrok to pewniejsze źródło wiedzy niż umysł."
+depenalizacja- rezygnacja karalnosci okreslonego czynu
+
+koltunstwo- dwulicowosc
+hermeneutyka- interpretacja, objasnienie
+hermeutyczne poglady- zle zinterpretowane
+Chicken game
+odpowiedź petyjska- odpowiedź wieloznaczna
+Sanowanie-
+Koncyliacyjny- stwierdzenie o osobie która dąży do pojednania wśród innych ludzi wokół
+Sekwestracja
+Wysofistykowaneexpressis verbis łac., dobitnie, wyraźnie; bez ogródek.per aspera ad astra - przez trudy do gwiazdEksterioryzacja zła - czyli szukanie zła nazewnątrz a nie w sobieKolibr- konserwatywno liberalnyefemeryda (gr. ephemerís, ephemerídos ‘dziennik; coś trwającego dzień’ per procura [wym. per prokura] «w zastępstwie, z upoważnienia»Merkantylizm lub ustrój merkantylny – system poglądów ekonomiczno-politycznych, który pojawił się we wczesnym okresienowożytności, wywodzący się z bulionizmu – teorii mówiącej, że posiadanie metali szlachetnych równa się bogactwu.chimeryczny- zmieniający usposobienie (zdanie, pogląd) pod wpływem emocjiFlipping is a term used primarily in the United States to describe purchasing a revenue-generating asset and quickly reselling (or "flipping") it for profit. apologeta- osoba broniąca określonej idei, postawydemode- niemodneumizgiwać się:kokietować, mizdrzyć się, nadskakiwać, przewracać, przymilać się, strzelać oczami, słodkie oczy, wdzięczyć się,zabiegać o względy, zalecać się, podrywać, robić słodką minkęManichejski podział świata- podział bazujący na dobrym i złymmitygować - powstrzymywaćpójść (iść) do Canossy wyrazić skruchę, uznać swój błąd; ukorzyć się
+<Canossa, wieś w płn. Włoszech, gdzie cesarz Henryk IV ukorzył się przed papieżem Grzegorzem VII>Ontologia lub metafizyka (por. metafizyka klasyczna) – podstawowy (obok epistemologii) dział filozofii starający się badać strukturę rzeczywistości i zajmujący się problematyką związaną z pojęciami bytu, istoty, istnienia i jego sposobów,przedmiotu i jego własności, przyczynowości, czasu, przestrzeni, konieczności i możliwości.Dychotomia (gr. dichotomos = przecięty na dwie części) Atawizm (łac. atavus – przodek) – regresja ewolucyjna, pojawienie się u danego organizmu nietypowych dla niego cech bądź zachowań, charakterystycznych dla jego odległych przodków.Aberracja (łac. ab – od i errare – błądzić, także aberratio – zabłąkanie się, zbłądzenie) – odchylenie, zboczenie, np. od normalnego stanu, zachowania, przyjętych normpostępowania, sposobu myślenia czy też działania jakiegoś urządzenia. Odstępstwo od normy lub zasady.Ebonit (guma twarda, nazwa z gr. ebonos - heban) – tworzywo sztuczne otrzymywane w wyniku wulkanizacji naturalnego lub sztucznego kauczuku; twardy można porównać do czegoś trardegosprokurować1. «tendencyjnie dobrać fakty, by komuś coś zarzucić»2. pot. «przygotować, sporządzić, zorganizować coś»► punitywnykarzący, mający na celu ukaraniePyrrusowe zwycięstwo - to zwycięstwo osiągnięte nadmiernym kosztem, np. z dużymi stratami w ludziach i sprzęcie wojennymfenomenologia fenolemolog «kierunek filozoficzny postulujący poznanie empiryczne i ścisły opis zjawisk bezpośrednio danych; też: metoda badawcza w różnych naukach wyrosła z tego kierunku» ► sekowaćprześladować kogoś, dręczyć, dokuczaćrachityczny1. w medycynie: dotknięty rachityzmem; odznaczający się skrzywieniem kości; krzywiczy, krzywiczny, krzywicowy;
+2. przenośnie: lichy, słaby, wykrzywionyzblazowany ~ni1. pot. «znudzony nadmiarem wrażeń, przeżyć, życiem (zwłaszcza hulaszczym), zobojętniały na wszystko»Zblazowany człowiek.blamaż - kompromitacja, ośmieszenie się► agoraw starożytnej Grecji:
+1. zgromadzenie ludowe (obywateli państwa-miasta);
+2. plac otoczony budynkami publicznymi, będący centrum życia społecznego, politycznego itp., rynekannałyroczniki historyczne opisujące zdarzenia chronologicznie i w każdej księdze zawierające wydarzenia z jednego rokuNie przytulam młodzieńców z ogolonymi głowami, dla których swastyka jest fajnym symbolem! – grzmiał Tusk.Premier – historyk z wykształcenia – najwyraźniej nie pamięta, że swastyka była symbolem narodowych socjalistów, a więc lewicy.expressis verbis łac., dobitnie, wyraźnie; bez ogródek.ex re łac., z okazji, z powodu.ex promptu łac., bez przygotowania, naprędce; por. ad aperturam...ex se natus łac., pochodzi od siebie samego (por. moi je suis mon ancêtre); por. Tacyt (Roczniki, 11, 21); rz. cesarz Tyberiusz o Kurcjuszu Rufusie.ex professo łac., z urzędu, z powołania; ze znajomością przedmiotu; zawodowo; umyślnie.ex tempore łac., bez przygotowania; znienacka; na poczekaniu, naprędce (por. ad aperturam..., ekstemporale).► komitywa1. bliskie stosunki łączące dobrych znajomych lub przyjaciół, zażyłość;
+2. dawniej: grupa osób towarzysząca komuś, czemuś; orszak; świta► zuchwały1. zbyt pewny siebie i lekceważący innych;
+2. bardzo odważny i skłonny do ryzykowanianestormądry, doświadczony starzec, będący najstarszym przedstawicielem jakiejś grupy ludziaprowizacjazaopatrywanie ludzi w niezbędne artykuły, zwłaszcza w żywność, w jakimś trudnym czasieSi vis pacem para bellum (dosł. "Jeśli chcesz pokoju, gotuj się do wojny")si vis coitus oralis, para verpa- zawsze bądź gotowy System monotarny- bez pieniądzaSplendid isolation-Bambus rosnie przez piec lat I nic nie widav to moze byc dobre porownanie do rozwoju.
+Demiurg- tworca, protoplsstaFerment  -rozruchyDystyngowany
+-->
+
 kompetytywny, kompetycyjny
 1. «związany z walką lub rywalizacją»
 2. «wzmacniający antagonistyczne działanie jakiejś substancji»

@@ -3541,6 +3541,10 @@ https://pl.wikiquote.org/wiki/W%C5%82adimir_Bukowski
 
 Don’t talk, just act. Don’t say, just show. Don’t promise, just prove.
 
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
+“It is the first responsibility of every citizen to question authority.” - Benjamin Franklin
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

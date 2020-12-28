@@ -8,15 +8,17 @@ tags:
   - Sowieci
 ---
 
+### 2020
+
+<img src="./img/december/gold20.jpeg"><br><br>
+
+---
+
 ### 1983
 
 Papież Jan Paweł II spotkał się w więzieniu z Mehmetem Alim Agcą, który 13 maja 1981 roku, podczas audiencji generalnej na placu św. Piotra w Rzymie dokonał nieudanego zamachu na jego życie. Papież ponownie przebaczył zamachowcowi. Po zakończonym spotkaniu papież zanotował: „Ali Agca – jak mi się wydaje – zrozumiał, że ponad jego władzą, władzą strzelania i zabijania, jest jakaś potęga wyższa. Zaczął więc jej poszukiwać. Życzę mu, aby ją odnalazł.''
 
 <img src="./img/december/przebaczenie.jpg"/><br>
-
----
-
-<img src="./img/december/gold20.jpeg"><br><br>
 
 ---
 

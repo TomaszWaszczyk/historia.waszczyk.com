@@ -47,6 +47,12 @@ Pogrzeb odbył się 7 stycznia 1939 roku na Cmentarzu Bródnowskim w Warszawie.
 
 <img src="./img/january/dmowski.jpg"/><br>
 
+---
+
+https://pl.wikipedia.org/wiki/Akcja_T4
+
+---
+
 ### 1905
 
 Wojna rosyjsko-japońska: wojska japońskie zdobyły twierdzę Port Artur.

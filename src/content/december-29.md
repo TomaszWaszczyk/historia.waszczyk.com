@@ -3,10 +3,18 @@ layout: post
 title: 29 grudnia
 image: img/december/victor.jpg
 author: Tomasz Waszczyk
-date: 2018-12-29T10:00:00.000Z
+date: 2019-12-29T10:00:00.000Z
 tags:
   - VAT
 ---
+
+### 2020
+
+> Analitycy: banki muszą się przyzywczaić do niskich stóp procentowych
+> Większość analityków spodziewa się, że w 2022 roku wyniki banków będą zdecydowanie wyższe niż w 2020 roku. Głównie dzięki niższym rezerwom zysk giełdowych banków może wzrosnąć w tym okresie łącznie o około 22 proc.
+>Optymistycznego scenariusza na następny rok nie przewiduje jednak NBP, który w grudniowym raporcie o stabilności systemu finansowego stwierdził, że w scenariuszu referencyjnym w 2021 roku sektor krajowych banków komercyjnych może odnotować 2,9 mld zł straty netto.
+
+"Analitycy"..
 
 ### 2010
 
