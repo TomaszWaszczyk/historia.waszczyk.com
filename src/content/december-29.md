@@ -16,6 +16,39 @@ tags:
 
 "Analitycy"..
 
+---
+
+> Skup akcji przez NBP doprowadzi do wieloletniej hossy na GPW – uważa członek RPP
+> Skup jednostek uczestnictwa funduszy inwestycyjnych lokujących kapitały na polskim rynku akcji, lub bezpośredni skup akcji przez NBP miałyby także na celu przeciwdziałanie procesowi przejmowania polskich spółek giełdowych przez kapitał zagraniczny.
+> Wybuch pandemii koronawirusa przyczynił się do powstania najpoważniejszego od lat kryzysu gospodarczego. Chcąc zminimalizować jego skutki, decydenci polityczni zmuszeni zostali do natychmiastowego podjęcia radykalnych działań. Według danych ze strony cbrates.com, w okresie od początku roku do 27 grudnia podjętych zostało 215 decyzji dotyczących zmian poziomu stóp procentowych. Na uwagę zasługuje tu jednak fakt, iż aż 208 z nich polegało na redukcji poziomu stóp procentowych a zaledwie 7 na podwyższeniu tego poziomu.
+
+    Od początku roku banki centralne dokonały aż 208 obniżek stóp proc.
+    Luzowanie polityki pieniężnej zatrzymało spadki na rynku akcji
+    Po spadku PKB w 2020 r., w 2021 r. czeka nas ożywienie gospodarcze
+    NBP powinien skupować akcje spółek z GPW – uważa członek RPP
+
+> Obniżki stóp proc. zatrzymały spadki na światowych rynkach akcji
+> Szczególnie dużo bo aż 73. obniżek stóp procentowych dokonano w marcu bieżącego roku. To właśnie dzięki tej reakcji udało się zatrzymać paniczną wyprzedaż na światowym rynku akcji, którą obserwowaliśmy od drugiej połowy lutego br.
+
+#bełkot czy #propaganda sam nie wiem, w sumie propaganda jest bełkotem
+
+??
+
+> Nowe wyzwania dla banków centralnych w 2021 roku
+> Prof. Eryk Łon z Uniwersytetu Ekonomicznego w Poznaniu zwraca także uwagę, że w nadchodzącym 2021 roku banki centralne staną przez nowymi wyzwaniami. W jego ocenie bardzo prawdopodobne jest bowiem, że w odróżnieniu do 2020 r., w którym globalny PKB w ujęciu realnym skurczył się, rok 2021 przyniesie ożywienie gospodarcze i wzrost PKB.
+> – Naturalnie trudno jeszcze oszacować jaka będzie skala wzrostu gospodarczego. Warto będzie obserwować sytuację na rynkach akcji w różnych krajach i to już w styczniu 2021 roku – przyznaje członek RPP przypominając giełdowe powiedzenie, że ,,jaki styczeń, taki i cały rok”.
+> W jego ocenie, jeżeli okazałoby się, że w styczniu 2021 roku doszłoby do silnych zwyżek kluczowych indeksów rynków akcji w różnych krajach to bankierzy centralni mieliby powód do tego, aby przekonywać, że ,,dobry początek roku na krajowych rynkach akcji zapowiada kontynuację tego trendu w kolejnych miesiącach roku, co stwarza szansę na poprawę dynamiki wzrostu gospodarczego, gdyż rynek akcji dyskontuje przyszłość”.
+>RPP powinna utrzymać stopy proc. bez zmian
+>Powołując się na najnowsze projekcie inflacji i PKB wskazuje on także, że dobrze byłoby, gdyby Rada Polityki Pieniężnej utrzymała w przyszłym roku stopy proc. na obecnym, niskim poziomie. Z szacunków tych wynika bowiem, że w 2021 roku nie będziemy mieli jeszcze w Polsce do czynienia z boomem inwestycyjnym.
+> Po raz kolejny podkreślił on także, iż Narodowy Bank Polski powinien poszerzyć instrumentarium polityki pieniężnej o skup obligacji korporacyjnych oraz skup akcji spółek lub skup jednostek funduszy inwestycyjnych lokujących swe kapitały na polskim rynku akcji.
+> – Wspominam o tym dlatego, że warto już dziś przygotować się mentalnie na kolejne kryzysy gospodarcze na świecie. Nie wiemy oczywiście kiedy takie kryzysy gospodarcze pojawią się, ale warto już teraz zastanawiać się nad tym co może uczynić NBP, aby złagodzić przebieg takich właśnie kolejnych kryzysów gospodarczych – tłumaczy Łon.
+> W jego ocenie, zaangażowanie się NBP na krajowym rynku akcji miałoby na celu doprowadzenie do wieloletniej hossy na giełdzie warszawskiej, co powinno doprowadzić do poprawy optymizmu konsumenckiego posiadaczy akcji a także do zwiększenia skłonności podmiotów gospodarczych do przeprowadzania nowych emisji akcji, z których wpływy pozwolą finansować nakłady inwestycyjne.
+> Skup jednostek uczestnictwa funduszy inwestycyjnych lokujących kapitały na polskim rynku akcji, lub bezpośredni skup akcji przez NBP miałyby także na celu przeciwdziałanie procesowi przejmowania polskich spółek giełdowych przez kapitał zagraniczny.
+
+Źródło: https://comparic.pl/skup-akcji-przez-nbp-doprowadzi-do-wieloletniej-hossy-na-gpw-uwaza-czlonek-rpp/
+
+---
+
 ### 2010
 
 <a href="./books/Swieto_Arogancji_Wladzy.pdf" target="_blank">Święto Arogancji Władzy</a>
