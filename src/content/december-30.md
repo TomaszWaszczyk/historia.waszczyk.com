@@ -3,9 +3,38 @@ layout: post
 title: 30 grudnia
 image: img/december/kwiatkowski.jpeg
 author: Tomasz Waszczyk
-date: 2018-12-30T10:00:00.000Z
+date: 2019-12-30T10:00:00.000Z
 tags:
-  - Historia
+  - JP Morgan
+---
+
+### 2020
+
+Bitcoin price to grow 'ten times by end of 2022' as JP Morgan estimates value of $650,000
+BITCOIN value will increase ten-fold a top US venture capital investor has claimed, as international investment bank JP Morgan estimates the price of each coin could soar to $650,000 (£485,763).
+
+Source: https://www.express.co.uk/finance/city/1377180/bitcoin-price-latest-tim-draper-jp-morgan-estimate-max-keiser
+
+---
+
+Efekt wojny bez świadomości o tym fakcie pretendującej do bycia klasą średnią grupy społecznej (która w maksimum 10 lat zniknie)
+
+**Polski kryzys demograficzny się pogłębia: Mamy najwięcej zgonów od II wojny światowej i najmniej urodzeń od 2005**
+
+W ciągu ostatnich 12 miesięcy w Polsce zmarło w sumie 425 tys. osób, czyli najwięcej od czasu II wojny światowej, a urodziło się zaledwie 358,9 tys. osób – czyli najmniej od 2005 roku, wynika z danych GUS, które cytuje ekonomista Rafał Mundry.
+
+„Mamy olbrzymi kryzys demograficzny” – tak dane te skomentował na swoim twitterowym koncie Mundry.
+
+Jak można zakładać, istotny wpływ na rekordowe wyniki roczne zgonów miała pandemia koronawirusa – zarówno bezpośrednio powodowana przez niego, potencjalnie śmiertelna choroba COVID-19, jak również inne choroby, do leczenia których dostęp został ograniczony przez epidemiczne restrykcje lub których przebieg zaostrzyła infekcja koronawirusem.
+
+Interesujące są jednak szczególnie dane dotyczące urodzeń. Dowodzą one bowiem, że rekordowo niski ich wskaźnik w tym roku nie jest jedynie jednoroczną anomalią, a raczej wpisuje się w trwający od IV kwartału 2017 roku wyraźny trend gwałtownego spadku nowych urodzeń.
+
+To istotna statystyka w kontekście dyskusji o skuteczności działania polityki socjalnej państwa, w tym jej sztandarowego programu Rodzina 500+, wprowadzonego w pierwszej połowie 2016 roku – który w założeniu miał właśnie m. in. wspierać polepszenie sytuacji demograficznej.
+
+Tymczasem o ile do drugiej połowy 2017 roku widać istotny wzrost urodzeń – niewykluczone, że w dużej mierze powiązany właśnie z wprowadzeniem projektu – o tyle od tej pory zauważalne jest całkowite odwrócenie tego trendu.
+
+Dziś liczba urodzeń jest już nie tylko niższa niż w momencie uruchomienia Rodziny 500+, lecz także najniższa od połowy 2005 roku.
+
 ---
 
 ### 1999

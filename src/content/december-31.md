@@ -14,6 +14,10 @@ tags:
 
 ---
 
+Minus 76% - o tyle zmniejszyła się sprzedaż mieszkań w Warszawie na rynku wtórnym w 3 kwartale 2020 rdr. Doszło do 936 transakcji w porównaniu do 3941 transakcji w 3 kwartale 2019. Dane: NBP.
+
+---
+
 <img src="./img/december/sylwester2020.jpg"><br><br>
 
 ---
