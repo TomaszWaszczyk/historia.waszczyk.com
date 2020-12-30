@@ -10,6 +10,14 @@ tags:
 
 ### 2020
 
+Ostatnia sesja roku przyniosła wyraźne spadki notowań banków. To najprawdopodobniej efekt zapowiedzi przedstawicieli Rady Polityki Pieniężnej dotyczących stóp procentowych.
+
+- W pierwszym kwartale 2021 r. możliwe jest dalsze obniżenie stóp procentowych - przekazał prezes NBP Adam Glapiński. - Obecnie nie ma potrzeby obniżek stóp procentowych, ale w przyszłości nie można wykluczyć takiego scenariusza - dodał z kolei członek RPP Rafał Sura. - Obniżenie referencyjnej stopy procentowej NBP do zera i utrzymanie jej na tym poziomie przez okres kryzysu byłoby raczej wskazane - powiedział z kolei członek RPP Jerzy Żyżyński.
+
+Takie zapowiedzi niepokoją sektor bankowy. Przypomnijmy, tegoroczne obniżenie głównej stopy procentowej z 1,5 proc. do 0,1 proc. poważnie odbiło się na wynikach banków, a co za tym idzie i na ich notowaniach giełdowych. Na te ostatnie oczywiście wpływ miały też inne czynniki (odpisy pandemiczne i frankowe, zakaz wypłacania dywidend), jednak także i kwestia stóp dołożyła sporą cegiełkę do tego, że indeks WIG-Banki (-28,9 proc.) był zdecydowanie najgorszym sektorowym indeksem na GPW w tym roku.
+
+---
+
 Bitcoin price to grow 'ten times by end of 2022' as JP Morgan estimates value of $650,000
 BITCOIN value will increase ten-fold a top US venture capital investor has claimed, as international investment bank JP Morgan estimates the price of each coin could soar to $650,000 (£485,763).
 
@@ -34,6 +42,20 @@ To istotna statystyka w kontekście dyskusji o skuteczności działania polityki
 Tymczasem o ile do drugiej połowy 2017 roku widać istotny wzrost urodzeń – niewykluczone, że w dużej mierze powiązany właśnie z wprowadzeniem projektu – o tyle od tej pory zauważalne jest całkowite odwrócenie tego trendu.
 
 Dziś liczba urodzeń jest już nie tylko niższa niż w momencie uruchomienia Rodziny 500+, lecz także najniższa od połowy 2005 roku.
+
+---
+
+Mimo wielu wątpliwości, Niemcy doprowadzają do podpisania przez Unię Europejską umowy inwestycyjnej z Chinami.
+
+Komisja Europejska i Rada Europejska napisały we wspólnym komunikacie opublikowanym dzisiaj, że po intensywnych negocjacjach prowadzonych przez KE w imieniu Unii, UE i Chiny "zasadniczo zakończyły negocjacje w sprawie kompleksowej umowy inwestycyjnej (CAI)".
+
+"Uczestnicy z zadowoleniem przyjęli aktywną rolę niemieckiej prezydencji w Radzie i kanclerz Angeli Merkel w szczególności, która położyła szczególny nacisk na stosunki UE-Chiny i w pełni wspierała negocjacje UE z Chinami" - dodano w komunikacie.
+
+Wielu komentatorów zastanawia się, dlaczego w takim pośpiechu i z takim uporem Niemcy forsowały podpisanie CAI w ostatnich dniach swojej prezydencji. Warto przypomnieć, że Niemcy doprowadziły do podpisania tej umowy mimo, wciąż nierozwiązanych, wielu wątpliwości, dotyczących między innymi praw człowieka i praw pracowniczych.
+
+Przypomnijmy, że Polska na spotkaniu ambasadorów państw unijnych w Brukseli sprzeciwiła się znacznemu przyspieszeniu prac nad umową inwestycyjną UE-Chiny po tym, jak KE poinformowała, że umowa jest już gotowa.
+
+<img src="./img/december/chinyue2020.webp"><br><br>
 
 ---
 

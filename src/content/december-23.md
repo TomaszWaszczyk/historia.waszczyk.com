@@ -22,6 +22,10 @@ tags:
 
 ---
 
+<img src="./img/december/nbp2020.jpg"><br><br>
+
+---
+
 https://pl.wikipedia.org/wiki/Talidomid
 
 ---

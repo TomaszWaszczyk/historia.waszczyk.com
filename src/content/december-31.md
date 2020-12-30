@@ -3,7 +3,7 @@ layout: post
 title: 31 grudnia
 image: img/december/Wiesenthal.jpg
 author: Tomasz Waszczyk
-date: 2018-12-31T10:00:00.000Z
+date: 2019-12-31T10:00:00.000Z
 tags:
   - Księstwo Litewskie
 ---
@@ -19,6 +19,18 @@ Minus 76% - o tyle zmniejszyła się sprzedaż mieszkań w Warszawie na rynku wt
 ---
 
 <img src="./img/december/sylwester2020.jpg"><br><br>
+
+---
+
+Bitcoin nie zastąpi dolara i złota
+
+    Ignacy Morawski
+
+Dopóki za kryptowalutą nie stoi armia, nie widzę możliwości jej upowszechnienia się na dużą skalę jako środka płatniczego.
+
+Wzrost ceny bitcoina to pewnie jedna z najbardziej intrygujących zmian finansowych na świecie w 2020 r. Nie chodzi tylko o wielkość tego wzrostu, ale fakt, że kryptowalutę poważnie zaczęły traktować duże instytucje finansowe i niektórzy ekonomiści. Coś, co jeszcze parę lat temu było uznawane za fanaberię technologicznych zapaleńców, jest uznawane czasem za wyzwanie rzucone dolarowi lub złotu.
+
+Ranga bitcoina jako potencjalnego aktywa inwestycyjnego znacząco wzrosła w minionym roku, a już tylko ten fakt ma wpływ na jego wycenę. Kryptowalutę włączyło do swoich inwestycji wiele instytucji, ale mój ekonomiczny umysł wciąż każe mi wątpić, czy technologiczna innowacja może stać się walutą stosowaną na skalę globalną. Sądzę, że nadzieje ekonomiczne pokładane w bitcoinie i podobnych kryptowalutach się nie spełnią, nawet jeżeli popyt na nie będzie rósł.
 
 ---
 

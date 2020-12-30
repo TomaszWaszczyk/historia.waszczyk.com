@@ -1335,6 +1335,10 @@ Proof of Work =? Proof of Waste
 
 https://pl.wikipedia.org/wiki/Idiosynkrazja
 
+https://pl.wikipedia.org/wiki/Wst%C4%99ga_M%C3%B6biusa
+
+komorne = czynsz :D
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

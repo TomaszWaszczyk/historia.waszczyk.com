@@ -18,6 +18,13 @@ During 2021+ towards 0x..
 
 ---
 
+Likwidacja małych przedsiebiorców, światowy PGR
+
+> "Wchodzimy w czas przebudowy świata. Przebudowy najgłębszej od 30, a może nawet od 80 lat. Widzimy, że sytuacja jest dynamiczna – ekonomiści, którzy jeszcze w kwietniu–maju zastanawiali się, czy będziemy mieli do czynienia z V-kształtnym, U-kształtnym, W-kształtnym czy L-kształtnym odbiciem, gremialnie się mylili. Odbicie po koronawirusie przyjmie kształt litery K. To dlatego, że niektóre branże znakomicie rosną nawet mimo epidemii, a może nawet na skutek epidemii, a inne są bardzo mocno poturbowane.
+> **Przemysł w Polsce rozwija się nadal w dobrym tempie. Apple, Amazon czy Microsoft notują gigantyczne dochody i wyceny.** Architektura społeczna i gospodarcza będzie ulegała głębokiej zmianie. Teraz trzeba pomyśleć o tym, jak świat może wyglądać za dwa, pięć, dziesięć lat, i przystosować procesy legislacyjne i inwestycyjne do tego świata. Cel to sprawić, by Polska odnalazła się w tym świecie jak najlepiej" - poinformował szef rządu.
+
+---
+
 Zaczyna się drukować rachunek za socjalizm i wygodę, atomizacja w praktyce:
 
 <img src="./img/december/atomizacja.jpeg"><br><br>
