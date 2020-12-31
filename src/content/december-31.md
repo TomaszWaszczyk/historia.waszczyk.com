@@ -16,6 +16,12 @@ tags:
 
 ---
 
+Po ostatniej interwencji walutowej NBP na PLN oraz komentarzy członków RPP odnośnie potencjalnej obniżki stóp procentowych złoty jest w grudniu najsłabszą walutą w bloku EMEA względem euro:
+
+<img src="./img/january/pln2020.jpg"><br><br>
+
+---
+
 <img src="./img/december/ronpaul.jpeg"><br><br>
 
 <img src="./img/december/youtube.jpeg"><br><br>
