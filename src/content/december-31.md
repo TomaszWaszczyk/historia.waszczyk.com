@@ -10,7 +10,41 @@ tags:
 
 ### 2020
 
+> Dziś zadzwoniła do mnie moja siostra - pracująca w Instytucie Onkologii. Rząd zmniejszył nakłady na onkologię. W tym roku wydali 7mln zł na terapie. Na 2021 dadzą 3 mln. Dziś cofnęli jej urlop - siedzi w pracy i liczy komu mogą dać leczenie komu nie. Nowi nie dostaną. Liczą dla kontynuujących. Na pytanie do rządu co będzie jak braknie kasy we wrześniu - rząd każe PRZERWAĆ LECZENIE ONKOLOGICZNE ‼️‼️‼️
+>Skur..wysyny.
+>Zarządzenie przyszło przed wczoraj.
+
+---
+
+<img src="./img/december/ronpaul.jpeg"><br><br>
+
+<img src="./img/december/youtube.jpeg"><br><br>
+
+---
+
+<img src="./img/december/szczepionka.jpg"><br><br>
+
+<img src="./img/december/szczepionka2.jpg"><br><br>
+
+---
+
 <img src="./img/december/polska2020sylwester.jpeg"><br><br>
+
+---
+
+Idea Bank upada - and the game begins
+
+<img src="./img/december/idea2020.png"><br><br>
+
+---
+
+Jak podaje "Super Express", były właściciel mięsnego imperium Henryk Kania został namierzony przez prokuraturę i ujęty w stolicy Argentyny Buenos Aires. Z informacji gazety wynika, że biznesmen oczekuje obecnie na ekstradycję.
+
+''ZM Henryka K. oficjalnie upadły'' - ogłosił w czerwcu 2020 r. katowicki sąd gospodarczy. Jednocześnie orzeczenie potwierdza sprzedaż części przedsiębiorstwa na rzecz nowego właściciela. Za kwotę 100 mln zł netto zostanie nim Cedrob, jeden z liderów branży mięsnej w Polsce.
+
+A warto przypomnieć początek tej historii:
+
+– ''Jeżeli można mówić o aferze dotyczącej ZM Henryk Kania, to jest to afera związana ze zmową nadzoru sądowego, banków, Cedrobu i prawdopodobnie śląskiego wymiaru sprawiedliwości. Celem tej zmowy jest zniszczenie Henryka Kani i przejęcie Zakładów za małą część ich wartości. To tą aferą powinna się jak najszybciej zająć prokuratura'' – mówił Henryk Kania w rozmowie z Business Insider Polska w 2019r.
 
 ---
 
