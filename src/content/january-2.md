@@ -3,13 +3,62 @@ layout: post
 title: 2 stycznia
 image: img/january/dmowski.jpg
 author: Tomasz Waszczyk
-date: 2019-01-02T10:00:00.000Z
+date: 2020-01-02T10:00:00.000Z
 tags:
   - NKWD
 draft: false  
 ---
 
-### 2020
+### 2021
+
+KILKANAŚCIE (!!!) nowych podatków czeka nas od Nowego Roku (lub odczuwalne podniesienie tych, które już były).
+
+1. Podatek CIT dla spółek komandytowych (już nawet w komandycie, musimy płacić podwójne opodatkowania raz zarobionych pieniędzy).
+
+2. Abonament RTV rośnie z 6 do… 21 zł!!! (350% w górę).
+
+3. Opłata mocowa - nie zdziwcie się rachunkiem za prąd w styczniu...
+Mało? Ależ wyobraźnia rządzących sięga znacznie dalej!!!
+
+4. Podatek cukrowy!
+
+5. Opłata za "małpki"!
+
+6. Podatek od psa!
+
+7. Opłata za wywóz śmieci!
+
+8. Opłata targowa i uzdrowiskowa!
+
+Jest tego więcej. Jeszcze siedzisz???
+
+9. Podatek od… deszczu!!!
+
+10. Podatek cyfrowy!
+
+11. Podatek od węgla.
+
+12. Podatek handlowy.
+
+13. Podatek od plastiku.
+
+14. Wyższy podatek od nieruchomości.
+
+Koniec? Chyba Ty! Są i takie perełki...
+
+15. Opłata OZE.
+
+16. Opłata depozytowa od wymiany oleju.
+
+17. Podatek od dochodów zagranicznych.
+
+18. Podatek transportowy.
+
+19. Opłata przekształceniowa po OFE.
+
+A do tego oczywiście nadal: ZUS, dochodowy, akcyzy, VAT 23%, podatek leśny, podatek od darowizn, cywilnoprawny, hazardowy itd.
+
+---
 
 Minister Finansów RP zmienił interpretację podatkową, nakładając podatek VAT 23% na usługi sortowania, liczenia, pakowania, transportu gotówki, a także zasilania wpłat i wypłat z bankomatów oraz kas banków.
 

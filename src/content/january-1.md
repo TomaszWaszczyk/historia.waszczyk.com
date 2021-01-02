@@ -3,7 +3,7 @@ layout: post
 title: 1 stycznia
 image: img/january/wolna-europa.jpg
 author: Tomasz Waszczyk
-date: 2019-01-01T10:00:00.000Z
+date: 2020-01-01T10:00:00.000Z
 tags:
   - Radio Wolna Europa
 ---
@@ -18,6 +18,10 @@ Prawdopodobnie wchodzi w życie prawo na Ukrainie o możliwości kupowania przez
 
 ---
 
+<img src="./img/january/firmypropaganda.jpg"><br><br>
+
+---
+
 Pod wpływem MFW Ukraina ugina się i zaczyna liberalizację handlem ziemią. Patrz rok 2023.
 
 ---
@@ -29,6 +33,8 @@ WHO
 ---
 
 Limit anonimowego zakupy złota w Niemczech do 2000 Euro.
+
+---
 
 ### 2017
 

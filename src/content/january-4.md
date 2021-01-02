@@ -5,9 +5,25 @@ image: img/january/sikorski.jpg
 author: Tomasz Waszczyk
 date: 2019-01-04T10:00:00.000Z
 tags:
-  - 
+  - Kolejki głodu
 draft: false
 ---
+
+### 2021
+
+Pomimo negowania przez socjalistyczny rząd Hiszpanii zjawiska „kolejek głodu” w Hiszpanii, bieda wśród klasy średniej narasta z każdym miesiącem. W maju dziennik ABC, jako jedyny wśród mediów głównego nurtu, przerwał milczenie:
+
+„Wstydzę się tu być. Dwa miesiące temu pracowałam w sali gier w centrum stolicy. Byłam uprzywilejowana, miałem dobrą pensję” – mówi Deborah i płacze. Ale pandemia i ERTE (tymczasowe zwolnienia z przyczyn ekonomicznych), które po niej nastąpiły, zrujnowały ją. „Nie musiałbym tu stać, gdyby zapłacili mi w kwietniu i maju” - wyjaśnia. (…) Podobnie jak Deborah, kilkanaście osób spokojnie oczekiwało swojej kolejki u drzwi kościoła w Villa de Vallecas, który co miesiąc dystrybuuje 70 000 kilogramów żywności. Ogromna ich część czyli 50 000 kg przeznaczona jest dla najbardziej potrzebujących rodzin. I wielu staje tu po raz pierwszy. Ojciec Gonzalo, który zarządza kościołem od sześciu lat, przekazuje dary żywnościowe każdemu, kto przyjedzie z sąsiedztwa. Wie, że w jego kościele torby z jedzeniem są większe niż w innych”.
+
+Jak wyjaśnia autor artykułu Cris de Quiroga: „Kryzys społeczny, zwielokrotniony przez wzrost bezrobocia i zwolnień tymczasowych (ERTE), dopiero się rozpoczął, ale liczba obywateli, którzy nie mieli czym napełnić lodówki, rosła lawinowo już w czasie kwarantanny. Jak podała delegatka ds. Finansów i personelu, Engracia Hidalgo, Rada Miejska Madrytu zainwestowała już 18,6 mln euro w pomoc żywnościową, aby pomóc 82 000 ludzi i 30 000 rodzin w Madrycie. Centra pomocy takie jak Latina wydają 10 876 posiłków dziennie, Puente de Vallecas 9 944 i Villaverde, 6 689”.
+
+Pod koniec października problem musiał opisać także dziennik „El Mundo” w artykule pod znamiennym tytułem „W Madrycie rosną kolejki głodu: »Z 300 euro zasiłku z ERTE nie da się wyżyć«”. Na takim zasiłku pozostają jednak tysiące ludzi z powodu braku ruchu turystycznego, zamknięcia hoteli i lokali usługowych.
+
+Ponad tydzień temu w programie śniadaniowym „Dzień dobry Madryt” do stania w kolejkach głodu przyznała się była modelka i słynna prezenterka telewizyjna ukrywając jednak twarz i tożsamość z powodu wstydu. W wieku 55 lat nie ma obecnie żadnej możliwości znalezienia pracy a śmierć męża pogrążyła ją w ruinie. „Myślę, że godniej jest prosić o darmowe jedzenie niż kraść, a pandemia może wywrócić życie każdego z nas” – powiedziała w programie. Pracownicy darmowych jadłodajni przyznają, że z biegiem miesięcy pojawia się w kolejkach coraz więcej dobrze ubranych mieszkańców Madrytu. Nikt w dziejach demokratycznej Hiszpanii nie oglądał jeszcze tylu reprezentantów klasy średniej stojących godzinami w kolejkach do jadłodajni.
+
+Gdy partie lewicowe, które dziś tworzą koalicyjny rząd znajdowały się w opozycji zarzucały centro-prawicowemu rządowi Rajoya głód i zubożenie kraju, i to pomimo, że Hiszpania była w latach 2016-2018 jedną z najlepiej prosperujących gospodarek. Obecnie, gdy kraj notuje największy spadek PKB w Europie i największy spośród 37 krajów OECD – problem zubożenia, zdaniem rządu - nie istnieje i dlatego cenzuruje temat głodowych kolejek w mediach.
+
+Oczywiście my Polacy nie powinniśmy zapominać, że jak opisuje to prasa zachodnia – to polski, „reżymowy rząd torturuje kobiety i ludzi LGBT”. Widocznie w dzisiejszej Europie większym naruszeniem praw człowieka jest brak liberalnego prawa do aborcji i małżeństw homoseksualnych niż kolejki głodu w Hiszpanii.
 
 ### 2012
 

@@ -3,11 +3,21 @@ layout: post
 title: 3 stycznia
 image: img/january/bailout.png
 author: Tomasz Waszczyk
-date: 2019-01-03T10:00:00.000Z
+date: 2020-01-03T10:00:00.000Z
 tags:
   - Bitcoin
 draft: false  
 ---
+
+### 2021
+
+## Waluty wirtualne zmienią sposób otrzymywania wynagrodzeń?
+
+Polski Instytut Ekonomiczny ocenia, że od przyszłego roku będą trwać wzmożone prace nad walutami wirtualnymi, które zaoferują banki centralne. Analitycy uważają, że może to zmienić sposób otrzymywania wynagrodzeń. Część środków może być wypłacana w formie cyfrowej.
+
+Eksperci Polskiego Instytutu Ekonomicznego zwrócili uwagę, że banki centralne motywują wprowadzenie waluty cyfrowej (Central Bank Digital Currency - CBDC) brakiem kontroli nad utrzymaniem wartości pieniądza oraz brakiem nadzoru, które występują w przypadku walut prywatnych (kryptowalut).
+
+"W założeniach, CBDC ma działać jak banknot cyfrowy, a jednocześnie stanowić nowe narzędzie polityki pieniężnej" - wyjaśnili analitycy w najnowszym wydaniu "Tygodnika Gospodarczego PIE". Dodali, że w odróżnieniu od sald na tradycyjnych rachunkach bankowych, CBDC funkcjonuje jedynie w formie wirtualnej - nie będzie możliwa jego wymiana na gotówkę.
 
 ### 2009 - The revolution has started
 

@@ -40,6 +40,14 @@ Before it was pulled down, protestor John McAllister, 71, removed the black bin 
 Your browser does not support the video tag.
 </video>
 
+---
+
+### 2016
+
+https://pl.wikipedia.org/wiki/Reprywatyzacja_w_Warszawie
+
+---
+
 ### 1985
 
 Tak, to "Super Mario Bros". Mało kto wie, że pierwsza część sagi była projektowana na... papierze milimetrowym! Każdy piksel postaci czy planszy został najpierw ręcznie narysowany i pokolorowany. Poniżej zdjęcie fragmentu oryginalnego projektu z 1985 r.
