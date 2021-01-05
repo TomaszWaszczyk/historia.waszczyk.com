@@ -3,11 +3,12 @@ layout: post
 title: 4 stycznia
 image: img/january/sikorski.jpg
 author: Tomasz Waszczyk
-date: 2019-01-04T10:00:00.000Z
+date: 2020-01-04T10:00:00.000Z
 tags:
   - Kolejki głodu
 draft: false
 ---
+<!-- https://www.nasdaq.com/articles/bitcoin-will-rise-above-%24100000-in-2021-2021-01-01 -->
 
 ### 2021
 

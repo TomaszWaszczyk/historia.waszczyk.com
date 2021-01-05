@@ -246,6 +246,8 @@ https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
 <!-- https://sklep.blogojciec.pl/ 
 
+https://en.wikipedia.org/wiki/Hamming_code
+
 docenianie (droga) != chwalenie (efekt)
 
 metoda zielonego ołówka

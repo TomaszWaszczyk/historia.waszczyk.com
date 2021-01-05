@@ -19,6 +19,12 @@ Eksperci Polskiego Instytutu Ekonomicznego zwrócili uwagę, że banki centralne
 
 "W założeniach, CBDC ma działać jak banknot cyfrowy, a jednocześnie stanowić nowe narzędzie polityki pieniężnej" - wyjaśnili analitycy w najnowszym wydaniu "Tygodnika Gospodarczego PIE". Dodali, że w odróżnieniu od sald na tradycyjnych rachunkach bankowych, CBDC funkcjonuje jedynie w formie wirtualnej - nie będzie możliwa jego wymiana na gotówkę.
 
+---
+
+> Pierwsze znaki, że rzeczywiście dzieje się dobrze, będziemy mieć około końca maja, początku czerwca. Na pewno będzie to najpierw widoczne w liczbie zgonów, która zdecydowanie zmaleje. Zmaleje też oczywiście liczba hospitalizacji - powiedziała we "Wstajesz i weekend" epidemiolog profesor Maria Gańczak.
+
+---
+
 ### 2009 - The revolution has started
 
 <br>

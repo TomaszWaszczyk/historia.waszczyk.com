@@ -3,11 +3,15 @@ layout: post
 title: 5 stycznia
 image: img/january/eisenhover.jpg
 author: Tomasz Waszczyk
-date: 2019-01-05T10:00:00.000Z
+date: 2020-01-05T10:00:00.000Z
 tags:
   - Józef Beck
 draft: false  
 ---
+
+### 2020
+
+<img src="./img/january/peso2020.jpg"><br><br>
 
 ### 2017
 

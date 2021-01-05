@@ -21,6 +21,10 @@ Tak na łamach Czerwonej Gwiazdy do ofensywy wiślańsko-odrzańskiej odnosił s
 
 <img src="./img/january/wisla.jpg"/><br>
 
+### 1893
+
+https://pl.wikipedia.org/wiki/Alfred_Rosenberg
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-12.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
