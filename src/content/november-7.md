@@ -19,6 +19,10 @@ draft: false
 
 <img src="./img/november/wybory2.png"><br><br>
 
+### 1983
+
+https://en.wikipedia.org/wiki/Able_Archer_83
+
 ### 1981
 
 Razem z całą rodziną został ewakuowany z Polski pułkownik Sztabu Generalnego Wojska Polskiego, agent CIA Ryszard Kukliński (zdjęcie) Głównymi przyczynami ewakuacji Kuklińskiego była praca na rzecz strony amerykańskiej i obawy jego samego o zdekonspirowanie przez polskie władze jego działalności.

@@ -3545,6 +3545,8 @@ You never change things by fighting the existing reality. To change something, b
 
 “It is the first responsibility of every citizen to question authority.” - Benjamin Franklin
 
+"Przeciętna osoba umiera w wieku 25 lat, a jest chowana w wieku 75."
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

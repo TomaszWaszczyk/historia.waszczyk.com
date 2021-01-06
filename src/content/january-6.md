@@ -3,10 +3,30 @@ layout: post
 title: 6 stycznia
 image: img/january/hipolit.jpg
 author: Tomasz Waszczyk
-date: 2019-01-06T10:00:00.000Z
+date: 2020-01-06T10:00:00.000Z
 tags:
-  - 
+  - Hotele
 draft: false  
+---
+
+### 2021
+
+Polski Holding Hotelowy, czyli jak władza buduje hotelowego giganta
+
+Polski Holding Hotelowy decyzją polityczną powstał w grudniu 2018 r. Ideą jego utworzenia było skupienie w jednym miejscu wszystkich obiektów hotelowych należących bezpośrednio do Skarbu Państwa i jego spółek. Po niecałych dwóch latach holding tworzy 28 hoteli, co daje mu drugie miejsce na polskim rynku. Polski Holding Hotelowy ma w swoim posiadaniu m.in. hotele wokół warszawskiego lotniska Chopina: Renaissance i Courtyard by Marriott Warsaw Airport. Holding ma także odegrać dużą rolę przy tworzeniu tzw. Aerocity wokół Centralnego Portu Komunikacyjnego.
+
+---
+
+Idiokracja wchodzi na salony - USA. Robienie miejsca dla upadku tradycyjnych rządów i/lub walut oraz wejście nowego systemu monetarnego oraz **governance on chain**.
+
+<img src="./img/january/idiokracja2021.jpeg"><br><br>
+
+---
+
+Likwidacja lokalnego rolnictwa.
+
+> "Rolnik z ponad 20-letnim stażem musi wyrzucić ponad tysiąc ton buraków, które wyrosły krzywe, w kształcie znaków zapytania".
+
 ---
 
 ### 2015
@@ -83,4 +103,4 @@ Po bezpotomnej śmierci króla Zygmunta Augusta w Warszawie po raz pierwszy rozp
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

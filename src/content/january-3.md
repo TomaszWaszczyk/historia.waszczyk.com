@@ -47,15 +47,6 @@ Powyższa wiadomość odnosi się do nagłówka artykułu w The Times z dnia uru
 
 Satoshi Nakamoto posiadał wiedzę na temat tego, co dzieje się w polityce pieniężnej i jakie zagrożenia dotyczą gospodarek opartych o waluty fiducjarne. Praktyki banków centralnych oraz banków krajowych i prywatnych, które doprowadziły do kryzysu finansowego uznał za zagrożenie zarówno dla zaufania klientów i jak i wyceny tradycyjnych, o czym wspominał w poście z lutego 2009 roku.
 
-### 1903
-
-W Częstochowie urodził się Seweryn Wielanier (zdjęcie) inżynier, uczestnik Powstania Warszawskiego, współkonstruktor polskiego pistoletu maszynowego "Błyskawica". Był żołnierzem Oddziału IV Kwatermistrzowskiego Komendy Głównej Armii Krajowej, gdzie odpowiadał za koordynację służby sanitarnej, geograficznej, uzbrojenia i intendentury.
-Po wojnie zamieszkał na warszawskiej Saskiej Kępie.
-Zmarł 23 września 1993 roku.
-Wspomniany już pistolet maszynowy "Blyskawica", którego konstrukcja opierała się na bazie bazie zrzutowego pistoletu maszynowego Sten MK II i niemieckiego MP 40 stworzył razem z inżynierem Wacławem Zawrotnym. Do czasu wybuchu Powstania wyprodukowano około 700 sztuk tej broni.
-
-<img src="./img/january/wielanier.jpg"/><br><br>
-
 ### 1986
 
 W Paryżu zmarł Jan Zumbach ps. ,,Kaczor Donald'' - podpułkownik pilot, as Polskich Sił Powietrznych na obczyźnie zajmujący 6 miejsce na ,,liście Bajana'' z dorobkiem 12 i 1/3 zniszczonych samolotów wroga, uczestnik walk we Francji, bitwy o Anglię, dowódca dywizjonu 303 i 133-go Skrzydła Myśliwskiego. Odznaczony Srebrnym Krzyżem Virtuti Militari, 4-krotnie Krzyżem Walecznych i 2-krotnie brytyjskim Zaszczytnym Krzyżem Lotniczym.
@@ -135,6 +126,15 @@ Distinguished Flying Cross (październik 1941 oraz wrzesień 1942).
 <details>
 
 <img src="./img/january/zumbach.jpg"/><br><br>
+
+### 1903
+
+W Częstochowie urodził się Seweryn Wielanier (zdjęcie) inżynier, uczestnik Powstania Warszawskiego, współkonstruktor polskiego pistoletu maszynowego "Błyskawica". Był żołnierzem Oddziału IV Kwatermistrzowskiego Komendy Głównej Armii Krajowej, gdzie odpowiadał za koordynację służby sanitarnej, geograficznej, uzbrojenia i intendentury.
+Po wojnie zamieszkał na warszawskiej Saskiej Kępie.
+Zmarł 23 września 1993 roku.
+Wspomniany już pistolet maszynowy "Blyskawica", którego konstrukcja opierała się na bazie bazie zrzutowego pistoletu maszynowego Sten MK II i niemieckiego MP 40 stworzył razem z inżynierem Wacławem Zawrotnym. Do czasu wybuchu Powstania wyprodukowano około 700 sztuk tej broni.
+
+<img src="./img/january/wielanier.jpg"/><br><br>
 
 ### 1946
 

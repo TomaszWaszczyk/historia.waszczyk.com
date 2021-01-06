@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+<img src="./img/january/theeconomist-inflation.png"><br><br>
+
 ### 2020
 
 <img src="./img/january/peso2020.jpg"><br><br>

@@ -3,11 +3,30 @@ layout: post
 title: 7 stycznia
 image: img/january/motti.jpg
 author: Tomasz Waszczyk
-date: 2019-01-07T10:00:00.000Z
+date: 2020-01-07T10:00:00.000Z
 tags:
   - Ministerstwo Bezpieczeństwa Publicznego
 draft: false  
 ---
+
+### 2021
+
+Niepraworządność w Unii Europejskiej?
+
+Istnieje i ma się dobrze. 
+
+Kto jest jej największą ofiarą? 
+
+Likwidacja rolnictwa w Polsce
+
+W Polsce nie można hodować świń poza szczelnie zamkniętymi budynkami. Do budynków nie powinny wlatywać nawet muchy! Żeby naszych świń czymś nie zaraziły.. wiec okna muszą być zakryte siatkami -do końca nikt nie wie jakimi ale to nic. Najwyżej przyjdzie weterynaria i powie że masz złe ale nie powie jakie są dobre. 
+A jak robi się to za Odrą? 
+W Niemczech świnie biegają pod chmurką. Tam mogą. Ale nie u nas. 
+W taki sposób wykańcza się polskie rolnictwo. 
+
+<img src="./img/january/swinie2021.jpg"><br><br>
+
+Zdjęcia zrobione dziś w niemieckim gospodarstwie.
 
 ### 2020
 
