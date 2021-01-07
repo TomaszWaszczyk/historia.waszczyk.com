@@ -9,6 +9,16 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+Historia zatacza koło. Kto by kiedyś pomyślał, że Ameryka, stawiana za wzór demokracji, w niektórych elementach upodobni się do bolszewickiej Rosji. Oczywiście ni wprost. Mamy XXI wiek.
+Przez jednego szaleńca żądnego władzy, cały amerykański mit runął jak House of Cards.
+Łatwo sobie wyobrazić dzisiaj nastrój Putina na Kremlu czy Łukaszenki na Białorusi. Jak oni się zachowają po przegranych wyborach? Łukaszenka już dał przykład. A teraz, po takiej inspiracji?
+Czy Polska i świat pójdą tą drogą?
+Mam nadzieję, że prawdziwi Republikanie odetną się od Trumpa i jego bandy, a amerykańska demokracja się jednak obroni, czego szczerze im życzę.
+
+<img src="./img/january/trump2021.jpg"><br><br>
+
 ### 1947
 
 W Londynie w wieku 61 lat zmarł Tadeusz Kutrzeba (zdjęcie) kapitan Sztabu Generalnego cesarskiej i królewskiej Armii, generał dywizji Wojska Polskiego II RP , dowódca Armii „Poznań” podczas wojny obronnej 1939 roku.
