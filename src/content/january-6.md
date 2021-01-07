@@ -17,7 +17,7 @@ Polski Holding Hotelowy decyzją polityczną powstał w grudniu 2018 r. Ideą je
 
 ---
 
-Idiokracja wchodzi na salony - USA. Robienie miejsca dla upadku tradycyjnych rządów i/lub walut oraz wejście nowego systemu monetarnego **governance on chain**. Prawdopodopodobnie zostanie wprowadzona godzina policyjna która rozprzestrzeni się na cały świat "zachodu" która potrwa aż do czasu przejścia na nowy system monetarny(??? - who knows???).
+Idiokracja wchodzi na salony - USA. Robienie miejsca dla upadku tradycyjnych rządów i/lub walut oraz pooowolne wejście nowego systemu monetarnego **governance on chain**. Prawdopodopodobnie zostanie wprowadzona godzina policyjna która rozprzestrzeni się na cały świat "zachodu" która potrwa aż do czasu przejścia na nowy system monetarny(??? - who knows??? ~5lat??).
 
 <img src="./img/january/idiokracja2021.jpeg"><br><br>
 
