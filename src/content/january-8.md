@@ -3,7 +3,7 @@ layout: post
 title: 8 stycznia
 image: img/january/wilson.jpg
 author: Tomasz Waszczyk
-date: 2019-01-08T10:00:00.000Z
+date: 2020-01-08T10:00:00.000Z
 tags:
   - Woodrow Wilson
 draft: false  
@@ -41,6 +41,10 @@ W swojej książce pt "Wspomnienia wojenne" tak pisała o Ravensbrück:
 
 <img src="./img/january/karolina.jpg"/><br><br>
 
+### 1920
+
+https://en.wikipedia.org/wiki/Roaring_Twenties
+
 ### 1918
 
 Prezydent USA Woodrow Wilson przedstawił swój czternastopunktowy plan pokojowy, z których trzynasty mówił o utworzeniu niepodległego państwa polskiego.
@@ -50,6 +54,12 @@ Prezydent USA Woodrow Wilson zgłasza swe 14 punktów, które okazały się jego
 >Należy stworzyć niezawisłe państwo polskie, które winno obejmować terytoria zamieszkane przez ludność niezaprzeczalnie polską, któremu należy zapewnić swobodny i bezpieczny dostęp do morza i którego niezawisłość polityczną i gospodarczą oraz integralność terytorialną należy zagwarantować paktem międzynarodowym
 
 <img src="./img/january/wilson.jpg"/><br><br>
+
+### 1900
+
+W czasie spisu ludności w USA z 1900 r. co szóste dziecko w wieku od pięciu do dziesięciu lat pracowało. W rzeczywistości w tamtym czasie pracujące dzieci stanowiły 20 procent całej siły roboczej. Większość z nich nie chodziła do szkoły i była analfabetami, ponieważ ich rodzice nie mieli innego wyjścia, jak wysłać ich do pracy, aby mogli pomóc w utrzymaniu swoich rodzin.
+
+<img src="./img/january/dzieci1900.jpg"><br><br>
 
 ### 1848
 

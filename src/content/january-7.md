@@ -83,6 +83,13 @@ Niespełna dwa miesiące po upadku insurekcji kościuszkowskiej król Stanisław
 
 <img src="./img/january/poniatowski.jpg"/><br><br>
 
+### 1520
+
+Król Zygmunt I Stary wydał przywilej toruński wprowadzający jeden dzień pańszczyzny tygodniowo, w miejsce 2-4 dni w roku.
+Pańszczyzna została ustawowo wprowadzona w Polsce 7 stycznia 1520 r. na mocy wydanego przez króla Zygmunta Starego przywileju toruńskiego. Miała ujednolicić i wziąć w ramy prawa coraz powszechniejszą praktykę nakładania na chłopów przez szlachtę obowiązku darmowej pracy w zamian za udostępnienie ziemi uprawnej. Miał to być jeden dzień w tygodniu, podczas gdy wcześniej w różnych regionach kraju było to zwyczajowo od dwóch do czterech dni w roku. Posiadacze ziemscy stawali się dysponentami darmowej siły roboczej, której intensywniejsze wykorzystanie kusiło coraz bardziej.
+
+<img src="./img/january/przywilejtorunski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
