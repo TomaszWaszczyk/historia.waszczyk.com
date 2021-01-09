@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/totalitaryzm.jpg
 author: Tomasz Waszczyk
 date: 2020-01-09T10:00:00.000Z
 tags:
