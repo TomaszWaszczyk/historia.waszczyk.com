@@ -69,6 +69,13 @@ Zmarł w roku 1905.
 
 <img src="./img/january/narkiewicz.jpg"/><br><br>
 
+### 1697
+
+W Edynburgu wykonano wyrok śmierci przez powieszenie na skazanym za bluźnierstwo studencie teologii Thomasie Aikenheadzie.
+Wypowiadał się on przeciwko religiom objawionym, w szczególności Biblii; był ostatnim człowiekiem w Wielkiej Brytanii straconym za bluźnierstwo, jest uważany za męczennika w obronie rozumu. Było to 85 lat po śmierci ostatniego człowieka spalonego na stosie za herezję w Wielkiej Brytanii – Edwarda Wightmana (1612).
+
+<img src="./img/january/aikenhead.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

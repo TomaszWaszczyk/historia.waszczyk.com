@@ -1,12 +1,32 @@
 ---
 layout: post
-title: 1 stycznia
+title: 9 stycznia
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2018-01-01T10:00:00.000Z
+date: 2020-01-09T10:00:00.000Z
 tags:
-  - 
+  - Twitter
 draft: false  
+---
+
+### 2021
+
+Polityczna poprawność w internecie, początki(zaawansowane):
+
+<img src="./img/january/totalitaryzm.jpg"><br><br>
+
+---
+
+Bardzo rozsądny komentarz: Przemek Gdański, prezes BNP Paribas: Gospodarka skorzystałaby na zmianach w podatku bankowym
+
+Działamy w środowisku zerowych stóp procentowych, spadku PKB w 2020 r., wzrostu kosztów ryzyka, dużej niepewności, która wiąże się z pandemią. Mamy więc efekt imadła, sektor jest ściskany z wielu różnych stron i warto, żeby rządzący spojrzeli na działania, które mogłyby ten efekt imadła bankom złagodzić - mówi Interii w cyklu "Rozmowy na Nowy Rok" Przemek Gdański, prezes BNP Paribas Bank Polska.
+
+Paweł Czuryło, Interia: Instynkt szachisty pomaga w rozwiązywaniu kryzysowych wyzwań sektora bankowego?
+
+Przemek Gdański, prezes BNP Paribas Bank Polska: Szachy uczą przede wszystkim myślenia do przodu i przewidywania przyszłości, konsekwencji własnych decyzji i radzenia sobie w sytuacjach, które powstają na szachownicy, a które nie do końca były przewidziane, szukania alternatywnych rozwiązań. Więc tak, oczywiście przydaje się (śmiech). Choć, podobnie jak w życiu zawodowym czy prywatnym, szachistom też brakuje dziś, w czasach pandemii i dystansu społecznego, realnego kontaktu z przeciwnikiem, gdzie wyczuwamy napięcie, obserwujemy mowę ciała, jesteśmy w stanie wywierać wpływ na przeciwnika.
+
+Komentarz Tomka: Świat w erze cyfrowej potrzebuje bankowości, ale nie banków, dwa może trzy zbiory DLT zastąpią banki jakie znamy obecnie.
+
 ---
 
 ### 2015
@@ -78,4 +98,4 @@ Efekty tamtych decyzji przekładają się na zamożność Polaków. Jak mówi Bu
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

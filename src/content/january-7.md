@@ -59,7 +59,7 @@ Roman Dmowski spoczął w rodzinnym grobowcu na cmentarzu bródnowskim w Warszaw
 Udział w uroczystościach pogrzebowych wzięło od 100 do 200 tysięcy ludzi.
 Na zdjęciu Członkowie Ruchu Narodowo-Radykalnego Falanga (ubrani w stroje obozowe) niosą na ramionach trumnę ze zwłokami Romana Dmowskiego do katedry św. Jana.
 
-<img src="./img/january/dmowski2"/><br><br>
+<img src="./img/january/dmowski2.jpg"/><br><br>
 
 ### 1839
 
