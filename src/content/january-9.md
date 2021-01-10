@@ -29,6 +29,10 @@ Komentarz Tomka: Świat w erze cyfrowej potrzebuje bankowości, ale nie banków,
 
 ---
 
+Papież powiedział: Zaszczepię się w przyszłym tygodniu. Mocnymi słowami określił odrzucanie szczepionki. "Jest samobójczy negacjonizm, którego nie potrafię wyjaśnić. Bo dzisiaj trzeba przyjąć szczepionkę".
+
+---
+
 ### 2015
 
 Umiera Józef Oleksy.

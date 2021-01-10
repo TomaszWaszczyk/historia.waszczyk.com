@@ -17,4 +17,4 @@ Na raka krtani zmarł Władysław Broniewski - poeta, tłumacz, żołnierz Legio
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-10.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

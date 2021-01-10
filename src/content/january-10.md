@@ -3,7 +3,7 @@ layout: post
 title: 10 stycznia
 image: img/january/lublin.jpg
 author: Tomasz Waszczyk
-date: 2019-01-10T10:00:00.000Z
+date: 2020-01-10T10:00:00.000Z
 tags:
   - Rzeczpospolita Obojga Narodów
 draft: false  

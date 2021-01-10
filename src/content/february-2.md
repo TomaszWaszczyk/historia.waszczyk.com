@@ -92,6 +92,10 @@ Krzysztof i Basia poznali się 1 grudnia 1941 roku podczas zajęć na tak zwanyc
 
 <img src="./img/february/baczynski.jpg"/><br>
 
+### 1934
+
+https://pl.wikipedia.org/wiki/J%C3%B3zef_Gryf-Czajkowski
+
 ### 1919
 
 https://pl.wikipedia.org/wiki/Zbigniew_Lengren
