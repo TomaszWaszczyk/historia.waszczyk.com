@@ -9,6 +9,33 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+Amazon Web Services said it was banning Parler due to the “very real risk to public safety”... A więc Amazon usuwa Parlera ze swoich serwerów hostingowych.
+
+John Matze, CEO Parler'a: "W niedzielę o północy, Amazon zamknie wszystkie nasze serwery aby kompletnie usunąć wolność słowa z sieci. Być może nie będziemy obecni nawet przez tydzień gdyż musimy wszystko zacząć budować od zera."
+
+Deep State, będąca de facto systemem nieformalnych powiązań likwiduje przestrzeń swobodnej wypowiedzi. Usuwa integralność swobód obywatelskich z jednostką i przesuwa ją na wyższy, znany w Chinach poziom. To teraz korporacje definiować będą zakres wymiany informacji, jej "jakość". Ale kto personalnie zarządza Big Social Media, że autorytarnie wyłączają one komunikację urzędujacego prezydenta USA z jego wyborcami?
+
+Od początku Covid-19 widać, że instytucje państw, ich politycy są jedynie marionetkami w rękach nielicznych, którzy zarządzają światem. Zlecenia wykonują omijająć, bądź też łamiąc prawo. Mamy więc terror; dziś jedynie komunikacyjny, choć jutro...
+
+W 1947 roku żydokomuna sfałszowała w Polsce wybory. Działalność nielicznych z NKVD/UB skutkowała setkami tyś. ofiar, dekadami niewoli całego polskiego społeczeństwa. Akcja Deep State z 06.01.21 to ofiary i zniewolenie w pełnej, globalnej skali.
+
+---
+
+Po zamieszkach i szturmie na Kapitol w Waszyngtonie policja w Berlinie wzmocni ochronę gmachu niemieckiego parlamentu - Bundestagu. Informuje o tym gazeta „Bild am Sonntag”, która dotarła do pisma przewodniczącego izby Wolfganga Schaeublego do niemieckich deputowanych.
+
+Jak czytamy, Schaeuble poprosił niemieckie ministerstwo spraw zagranicznych o przygotowanie raportu na temat wydarzeń w Waszyngtonie i na jego podstawie, razem z władzami centralnymi oraz władzami Berlina, będzie wyjaśniał jakie wnioski należy wyciągnąć co do bezpieczeństwa Bundestagu.
+Schaeuble obwinia Trumpa
+
+W liście do deputowanych przewodniczący Bundestagu obarcza winą za wydarzenia na Kapitolu prezydenta USA Donalda Trumpa. Jak napisał, mieliśmy do czynienia z „atakiem na parlament i demokrację w wykonaniu motłochu podpuszczonego przez odchodzącego prezydenta”.
+
+---
+
+Tomka opinia: W Polsce prawdopodobnie do 6 miesięcy nastąpią protesty spowodowane tzw. lockdown co spowoduje pretekst dla rządu do użycia siły wobec "obywateli".
+
+---
+
 ### 2019
 
 WYNAGRODZENIA.
