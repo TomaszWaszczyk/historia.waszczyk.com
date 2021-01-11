@@ -1,12 +1,29 @@
 ---
 layout: post
 title: 12 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/usdm1-2021.jpeg
 author: Tomasz Waszczyk
 date: 2019-01-12T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
+---
+
+### 2021
+
+<img src="./img/january/usdm1-2021.jpeg"><br><br>
+
+> Just 39% of Americans would be able to cover an unexpected $1,000 expense, according to a new report from http://Bankrate.com.
+> That's down from 2020, when 41% of people said they could cover a $1,000 cost with their savings.
+
+---
+
+Imperium kontratakuje!
+
+Biały Dom uderza w Twittera. Portal społecznościowy stracił tzw. zabezpieczenie z Sekcji 230. Oznacza to, że blokując dostęp do treści publikowanych przez użytkowników, Twitter staje się "wydawcą". Idąc dalej, ponosi on odpowiedzialność za swoje działania i publikowaną treść, a lista zarzutów jest bardzo długa. Sekcja 230 chroni media społecznościowe przed odpowiedzialnością, a Twitter właśnie ją utracił (pożyczony komentarz od Geopolityka Pro)
+
+Wzmaga się konflikt na lini public vs private, Jack Dorsey (Twitter) usunął Trumpa z platformy, konflikt będzie się z czasem jedynie eskalował, w między czasie corps konsekwentnie prywatyzują pieniądz - długoterminowo "public" zniknie włącznie z powiązaniem pieniądza z państwem.
+
 ---
 
 ### 1945
