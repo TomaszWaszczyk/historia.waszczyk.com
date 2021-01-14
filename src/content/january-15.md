@@ -3,11 +3,17 @@ layout: post
 title: 15 stycznia
 image: img/january/powstanie-styczniowe.jpg
 author: Tomasz Waszczyk
-date: 2018-01-15T10:00:00.000Z
+date: 2020-01-15T10:00:00.000Z
 tags:
   - Powstanie styczniowe
 draft: false  
 ---
+
+### 2021
+
+WSPÓŁCZESNA KONCEPCJA  HOMO SOCIO-OECONOMICUS
+
+> Klasyczne  i  neoklasyczne  ujęcie  koncepcji  **homo  oeconomicus**,  niejedno-krotnie  krytykowane  na  gruncie  ekonomii  instytucjonalnej,  behawioralnej  oraz  społecznej,  wydaje  się  podejściem  nieaktualnym  i  niewystarczającym  w  wyja-śnianiu  zjawisk  dotyczących  dokonywania  rzeczywistych  wyborów  rynkowych  przez  pojedynczego  decydenta  we  współczesnej  gospodarce.  Potrzeba  modyfi-kacji oraz rozbudowy klasycznie pojmowanego „człowieka ekonomicznego” jest zatem  nieunikniona,  co  zresztą  znajduje  się  w  kręgu  zainteresowań  współcze-snych ekonomistów. W miejsce tradycyjnego **homo oeconomicus** zaproponowa-no  już  wiele  koncepcji  alternatywnych,  w  tym  koncepcjęhomo  sociologicus, która nie wyczerpuje jednak wszelkich wątpliwości.
 
 ### 2019
 

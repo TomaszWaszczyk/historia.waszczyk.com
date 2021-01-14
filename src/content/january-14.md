@@ -1,13 +1,27 @@
 ---
 layout: post
 title: 14 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/lagarde.png
 author: Tomasz Waszczyk
-date: 2018-01-14T10:00:00.000Z
+date: 2020-01-14T10:00:00.000Z
 tags:
-  - 
+  - Pakistan
 draft: false  
 ---
+
+### 2021
+
+Maybe true, maybe not
+
+> The Pakistan government is to fund two state-backed Bitcoin mining farms in the Khyber Pakhtunkhwa (KP) province.
+
+...but for sure it is the direction.
+
+### 1997
+
+Pierwsze wydanie gazety ukazało się we wtorek, 14 stycznia 1997 r.
+
+<img src="./img/january/pulsbiznesu.jpeg"><br><br>
 
 ### 1934
 

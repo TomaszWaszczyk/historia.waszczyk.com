@@ -1339,6 +1339,14 @@ https://pl.wikipedia.org/wiki/Wst%C4%99ga_M%C3%B6biusa
 
 komorne = czynsz :D
 
+pedel - woźny w zakładzie naukowym
+
+koagulować - 
+1. doprowadzać do łączenia się cząstek koloidowych w większe zespoły tworzące spoistą masę; żelować, ścinać;
+2. w medycynie: niszczyć zbędną tkankę wysoką temperaturą; przypalać
+
+predictive programming
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

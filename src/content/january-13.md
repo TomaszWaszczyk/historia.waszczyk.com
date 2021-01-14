@@ -1,12 +1,35 @@
 ---
 layout: post
 title: 13 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/lagarde.png
 author: Tomasz Waszczyk
-date: 2018-01-13T10:00:00.000Z
+date: 2020-01-13T10:00:00.000Z
 tags:
-  - 
-draft: true  
+  - Negative interest rates
+draft: false
+---
+
+### 2021
+
+Większy kapitał zamożniejszych trafi do świata cyfrowych aktywów za... 3...2....1.. + insitutional inflow
+
+ZURICH, Jan 12 (Reuters) - UBS will begin charging clients with cash balances above 250,000 Swiss francs ($280,646.61) a 0.75% interest rate fee from July, Switzerland’s biggest bank said in an internal memo on Tuesday.
+
+“It’s becoming increasingly clear that we’ll have to contend with negative interest rates for years to come. That’s why we decided to lower the threshold for deposit fees,” Swiss banking head Axel Lehmann told employees in the memo.
+
+The bank would factor in mortgages and investments clients had with the bank to determine whether to apply the charge.
+
+“In the end, less than 5% of our clients will be affected,” Lehmann said in the memo seen by Reuters and confirmed by a bank spokeswoman. ($1 = 0.8908 Swiss francs) ($1 = 0.8232 euros) (Reporting by Brenna Hughes Neghaiwi)
+
+---
+
+ECB's Lagarde calls for regulating Bitcoin's "funny business".
+
+ECB President Christine Lagarde called for global regulation of #Bitcoin
+, saying the digital currency had been used for money laundering activities in some instances and that any loopholes needed to be closed.
+
+<img src="./img/january/lagarde.png"><br><br>
+
 ---
 
 ### 2016

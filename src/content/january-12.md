@@ -3,7 +3,7 @@ layout: post
 title: 12 stycznia
 image: img/january/usdm1-2021.jpeg
 author: Tomasz Waszczyk
-date: 2019-01-12T10:00:00.000Z
+date: 2020-01-12T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
@@ -25,6 +25,12 @@ Biały Dom uderza w Twittera. Portal społecznościowy stracił tzw. zabezpiecze
 Wzmaga się konflikt na lini public vs private, Jack Dorsey (Twitter) usunął Trumpa z platformy, konflikt będzie się z czasem jedynie eskalował, w między czasie corps konsekwentnie prywatyzują pieniądz - długoterminowo "public" zniknie włącznie z powiązaniem pieniądza z państwem.
 
 ---
+
+### 1967
+
+Zmarł James Bedford profesor psychologii na University of California, autor książek z dziedziny doradztwa zawodowego. Jest pierwszą osobą, której ciało po stwierdzeniu zgonu zostało poddane tzw. krioprezerwacji, i jest nadal utrzymywane w kriostazie. Czyli kazał się zamrozić kilka godzin po zgonie – w nadziei, że kiedyś nauka pozwoli na przywrócenie mu życia.
+
+<img src="./img/january/bedford.jpg"><br><br>
 
 ### 1945
 
