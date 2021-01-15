@@ -21,6 +21,10 @@ WSPÓŁCZESNA KONCEPCJA  HOMO SOCIO-OECONOMICUS
 
 ---
 
+<img src="./img/january/ubsbitcoin.jpeg"><br><br>
+
+---
+
 <img src="./img/january/rpp2021.jpeg"><br><br>
 
 ---
