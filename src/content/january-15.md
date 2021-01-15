@@ -15,6 +15,20 @@ WSPÓŁCZESNA KONCEPCJA  HOMO SOCIO-OECONOMICUS
 
 > Klasyczne  i  neoklasyczne  ujęcie  koncepcji  **homo  oeconomicus**,  niejedno-krotnie  krytykowane  na  gruncie  ekonomii  instytucjonalnej,  behawioralnej  oraz  społecznej,  wydaje  się  podejściem  nieaktualnym  i  niewystarczającym  w  wyja-śnianiu  zjawisk  dotyczących  dokonywania  rzeczywistych  wyborów  rynkowych  przez  pojedynczego  decydenta  we  współczesnej  gospodarce.  Potrzeba  modyfi-kacji oraz rozbudowy klasycznie pojmowanego „człowieka ekonomicznego” jest zatem  nieunikniona,  co  zresztą  znajduje  się  w  kręgu  zainteresowań  współcze-snych ekonomistów. W miejsce tradycyjnego **homo oeconomicus** zaproponowa-no  już  wiele  koncepcji  alternatywnych,  w  tym  koncepcjęhomo  sociologicus, która nie wyczerpuje jednak wszelkich wątpliwości.
 
+---
+
+<img src="./img/january/inflation2021.jpg"><br><br>
+
+---
+
+<img src="./img/january/rpp2021.jpeg"><br><br>
+
+---
+
+> "Tacy sami ludzie jesteśmy jak ci w PO czy SLD, niczym się nie różnimy i każdy jest pazerny, każdy by coś chciał, tylko różnimy się szefami" - takie słowa wypowiadają na nagraniu działacze dolnośląskich struktur Prawa i Sprawiedliwości. - Prawdopodobnie zostanie powołana specjalna komisja, która wyjaśni działalność tych osób - zapowiedział w czwartek szef Komitetu Wykonawczego PiS Krzysztof Sobolewski w Radiu Plus.
+
+---
+
 ### 2019
 
 Grin is a cryptocurrency focused on privacy without censorship in its implementation of Mimblewimble. According to their website, the developers want Grin to be usable by everyone regardless of borders, culture, skills or access. Without address information or amounts stored on the blockchain, the chain is meant to be lean and scalable. Grin was launched without a premine, ICO, or founders rewards and relies on donations to support the long-term development of the project.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 14 stycznia
-image: img/january/lagarde.png
+image: img/january/lagarde2.jpeg
 author: Tomasz Waszczyk
 date: 2020-01-14T10:00:00.000Z
 tags:

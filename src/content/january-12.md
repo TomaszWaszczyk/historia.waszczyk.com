@@ -18,6 +18,20 @@ draft: false
 
 ---
 
+Czesi dementują informacje ministra Niedzielskiego: Nie ma "czeskiej mutacji" koronawirusa
+
+W Republice Czeskiej nie zaobserwowano rzekomej "czeskiej mutacji" koronawirusa - oświadczyła czeska ambasada w Warszawie.
+
+Podczas poniedziałkowej konferencji prasowej minister zdrowia Adam Niedzielski poinformował, że w Polsce nie potwierdzono oficjalnie znalezienia brytyjskiego wariantu Sars-CoV-2, ale w naszym kraju wystąpił tzw. wariant czeski. 
+
+Do słów polskiego ministra odnieśli się czescy dyplomaci.
+
+"W Czechach żadna kompetentna instytucja nie potwierdziła pojawienie się jakiejkolwiek mutacji koronawirusa COVID-19" - czytamy w oświadczeniu wystosowanym przez czeską ambasadę w Warszawie.
+
+Czescy dyplomaci powołują się na Jana Kynčla, kierownik Wydziału Epidemiologicznego Chorób Zakaźnych Państwowego Instytutu Zdrowia, który miał potwierdzić, iż nie posiada informacji, by coś takiego jak "czeska mutacja" koronawirusa istniało.
+
+---
+
 Imperium kontratakuje!
 
 Biały Dom uderza w Twittera. Portal społecznościowy stracił tzw. zabezpieczenie z Sekcji 230. Oznacza to, że blokując dostęp do treści publikowanych przez użytkowników, Twitter staje się "wydawcą". Idąc dalej, ponosi on odpowiedzialność za swoje działania i publikowaną treść, a lista zarzutów jest bardzo długa. Sekcja 230 chroni media społecznościowe przed odpowiedzialnością, a Twitter właśnie ją utracił (pożyczony komentarz od Geopolityka Pro)

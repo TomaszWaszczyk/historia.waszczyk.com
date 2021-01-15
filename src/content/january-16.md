@@ -3,10 +3,32 @@ layout: post
 title: 16 stycznia
 image: img/january/herman.jpg
 author: Tomasz Waszczyk
-date: 2019-01-16T10:00:00.000Z
+date: 2020-01-16T10:00:00.000Z
 tags:
   - Szachy
 draft: false
+---
+
+### 2021
+
+Człowiek który ledwo mówi po polsku widzi duże miejsce do najbardziej mądrego podatku, ale skoro ludzie nie wiedzą co robić to..Kościńskie wie co robić.
+
+<img src="./img/january/koscinski.jpeg"><br><br>
+
+---
+
+<img src="./img/january/zdziczeniepolityczne.jpeg"><br><br>
+
+---
+
+> Being kind is hard in a rent-seeking, attention-driven economy.
+
+From Heavy by Kiese Laymon: “The nation as it is currently constituted has never dealt with a yesterday or tomorrow where we were radically honest, generous, and tender with each other. It will, though. It will not be reformed. It will be bent, broken, undone, and rebuilt.”
+
+---
+
+Francja zablokowała przejęcie za 20 mld USD przez kanadyjskiego inwestora sieci Carrefour argumentując, że sieć musi zostać we francuskich rękach z powodów bezpieczeństwa żywnościowego państwa. Dopóki w Polsce nie będą podobne standardy, będą nas traktować jak republikę bananową.
+
 ---
 
 ### 2000
