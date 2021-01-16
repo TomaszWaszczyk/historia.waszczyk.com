@@ -12,9 +12,9 @@ tags:
 
 > Banknot 1000 złotych już na horyzoncie
 
-Przygotowanie Polaków (śpiących, niemyślących, analfabetów ekonomicznych) do zostania milionerami! Każdy milionerem do ~10lat.
+Przygotowanie Polaków (śpiących, niemyślących, "pod wpływem mind in a vat") do zostania milionerami! Każdy milionerem do ~10lat.
 
-NBP zapowiada wprowadzenie nowego nominału. Już wkrótce będziemy płacić banknotem 1000 zł
+NBP zapowiada wprowadzenie nowego nominału. Już wkrótce będziemy płacić banknotem 1000PLN
 
 > Prezes NBP Adam Glapiński w trakcie specjalnego briefingu prasowego oświadczył, że już niedługo w Polsce pojawi się banknot o nowym nominale. – Myślę, że następny prezes, a mam nadzieję ja w następnej kadencji, ale każdy prezes który przyjdzie, będzie wprowadzał banknot 1000 zł w pewnym momencie – powiedział Glapiński.
 
@@ -22,7 +22,7 @@ NBP zapowiada wprowadzenie nowego nominału. Już wkrótce będziemy płacić ba
 
 Ciekawe czy inflacja zostanie rozgrzana w Polsce jako peryferyjnej gospodarce w celu przetestowania cyfrowych systemów czy jednocześnie globalnie? Ciężko stwierdzić teraz.
 
-Tomek myśli: Ciekawe czy Glapiński wytrzyma psychicznie to czego się dowiedział "z zewnątrz" czy odejdzie dla zachowania zdrowia i zostanie wybrany "młody i ambitny". Generalnie może być tak, że inflacja zostanie w granicach Polski, ale Euro wcale silniejsze nie jest (chociaż gospodarka za walutami zdecydowanie tak), chociaż EBC może trzymać na siłę wartość Euro i zostanie USD oraz EUR jako waluty które zostaną przetransformowane do nowego systemu na końcu. Jeśli inflacja pojawi się jedynie w granicach Polski skutki będą prównywalne do konsekwencji wojny konwencjonalnej - zanik insytucji państwa per se, zupełny.
+Tomek myśli: Ciekawe czy Glapiński wytrzyma psychicznie to czego się dowiedział "z zewnątrz" czy odejdzie dla zachowania zdrowia i zostanie wybrany "młody i ambitny" (stawiam, że odejdzie do paru lat). Generalnie może być tak, że inflacja zostanie w granicach Polski, ale Euro wcale silniejsze nie jest (chociaż gospodarka za walutami zdecydowanie tak), chociaż EBC może trzymać na siłę wartość Euro i zostanie USD oraz EUR jako waluty które zostaną przetransformowane do nowego systemu na końcu (jeśli testy przejdą testy integracyjne 🚀🚀🚀). Jeśli inflacja pojawi się jedynie w granicach Polski skutki będą prównywalne do konsekwencji wojny konwencjonalnej - zanik insytucji państwa per se, zupełny. Stawiam, że na "pewnych" rynkach w czasie transformacji płynność na "pewnych" aktywach poprostu zaniknie po stronie bid...
 
 ---
 

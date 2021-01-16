@@ -68,6 +68,16 @@ Delegatura Rządu na Kraj 1 listopada 1941-15 stycznia 1942
 
 <img src="./img/november/zdziczenie.jpg"/><br><br>
 
+### 1933
+
+Filantropia puszkowa....
+
+Jesienią 1933 roku Josef Goebbels ogłosił akcję tzw. pomocy zimowej „Winterhilfswerk”, czyli nazistowska pomoc zimowa, w ramach której wolontariusze z czerwonymi puszkami rozdawali małe odznaki za datki. Akcja została tak rozpowszechniona, iż stała się składnikiem życia codziennego. Sprzedawano nalepki, które nabywcy natychmiast umieszczali na drzwiach wejściowych do mieszkań, aby uchronić się przed natarczywością kwestarzy. Zbiórki prowadzono także na ulicach, a uczestniczyli w nich ludzie znani z ekranów kin, sportowcy i przywódcy partyjni, a o akcji pochlebnie wypowiadał się sam Adolf Hitler: "Poprzez tak widoczne demonstracje nieustannie poruszamy sumienie naszego narodu i za każdym razem uświadamiamy wam, że należy uważać się za człowieka społeczności i nie unikać poświęceń."
+Mark Mazower nazywa ich w swojej książce „Can Rattlers”, czyli ci, którzy pobrzękują puszkami. Byli niezmordowani w zdobyciu jałmużny. Ci, którzy ociągali się z uiszczeniem choćby najmniejszej wpłaty spotykali się z ostracyzmem. Jeden z urzędników, który odmówił wpłaty, argumentując, że jest ona dobrowolna, został oskarżony o wyznawanie „skrajnej wolności”. Zdarzały się nawet zwolnienia z pracy tych, którzy odmówili wzięcia udziału w Winterhilfswerk.
+Zaś dziennikarz North American Newspaper Alliance, Dr. Lothrop Stoddard tak opisywał akcję: "(...) każde miasto, miasteczko i wioska w Rzeszy roi się od Brunatnych Koszul, niosących czerwone puszki. Chodzą dosłownie wszędzie. Nie możesz spokojnie usiąść w restauracji czy piwiarni, bo prędzej czy później ktoś do ciebie podejdzie, pobrzękując ostentacyjnie puszką przed twarzą. Nigdy nie widziałem Niemca, który odmówiłby wrzucenia paru groszy, nawet jeśli równowartość tej kwoty jest mniejsza od jednego centa. Ludzie kupują malutkie odznaki, żeby pokazać, że oni również dołączyli do akcji. Punktem kulminacyjnym akcji jest Dzień Narodowej Solidarności."
+
+<img src="./img/november/filantropiapudelkowa.jpg"><br><br>
+
 ### 1918
 
 W Płaszowie koło Krakowa oddziały polskie zdobyły austriacki wojskowy tabor kolejowy, z którego następnie utworzono pociągi pancerne "Śmiały" i "Piłsudczyk" Brały one udział w konflikcie polsko-ukraińskim w 1918 roku oraz w wojnie obronnej w 1939 roku.

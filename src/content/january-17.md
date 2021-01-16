@@ -26,6 +26,10 @@ Glapiński pytany w piątek na konferencji o ten wywiad przekazał, że dopuszcz
 
 ---
 
+Bill Gates, obecnie czwarty najbogatszy człowiek na świecie, jest właścicielem 242000 akrów (prawie 100 tys. hektarów) ziemi uprawnej w różnych częściach USA - informuje "Forbes". Dzięki temu stał się największym, prywatnym właścicielem ziemi rolnej w tym kraju.
+
+---
+
 https://pl.wikipedia.org/wiki/Walter_Eucken
 
 ---
