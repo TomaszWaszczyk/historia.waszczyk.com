@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+<img src="./img/january/elections.png"><br><br>
+
 ### 1940
 
 W Czortkowie (obecnie Ukraina) wybuchło powstanie antyradzieckie. Było ono inicjatywą działającego na Kresach Stronnictwa Narodowego czyli polskiej organizacji konspiracyjnej pod kierownictwem Tadeusza Bańkowskiego, Henryka Kamińskiego i Heweliusza Malawskiego.

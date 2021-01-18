@@ -33,6 +33,10 @@ WSPÓŁCZESNA KONCEPCJA  HOMO SOCIO-OECONOMICUS
 
 ---
 
+Pewnym paradoksem jest fakt, że ostatnia propozycja prezydenta Trumpa będzie pierwszym ruchem Bidena i Demokratów. Chodzi o zwiększenie wypłat bezpośrednich gospodarstwom domowym. Postawmy sprawę jasno, USA szybkim krokiem odchodzą od swojej kultury wolnego rynku.
+
+---
+
 ### 2019
 
 Grin is a cryptocurrency focused on privacy without censorship in its implementation of Mimblewimble. According to their website, the developers want Grin to be usable by everyone regardless of borders, culture, skills or access. Without address information or amounts stored on the blockchain, the chain is meant to be lean and scalable. Grin was launched without a premine, ICO, or founders rewards and relies on donations to support the long-term development of the project.

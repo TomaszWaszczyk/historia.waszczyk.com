@@ -3,7 +3,7 @@ layout: post
 title: 19 stycznia
 image: img/january/ak.jpg
 author: Tomasz Waszczyk
-date: 2019-01-19T10:00:00.000Z
+date: 2020-01-19T10:00:00.000Z
 tags:
   - Armia Krajowa
 draft: false  
@@ -50,4 +50,4 @@ Tymczasowy Rząd Narodowy ogłosił Ludwika Mierosławskiego dyktatorem powstani
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-19.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
