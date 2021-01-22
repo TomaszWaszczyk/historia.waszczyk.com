@@ -40,6 +40,10 @@ To właśnie m.in. o Januszu Lewandowskim, neoliberalizmie i Przeglądzie Polity
 
 ---
 
+TVN: Kurs bitcoina w dół. "Inwestujący muszą się liczyć z utratą wszystkich pieniędzy"
+
+---
+
 ### 2006
 
 W warszawskim szpitalu przy ul. Banacha zmarł 90- letni ksiądz Jan Twardowski.

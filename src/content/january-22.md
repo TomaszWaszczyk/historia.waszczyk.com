@@ -3,10 +3,34 @@ layout: post
 title: 22 stycznia
 image: img/january/powstaniestyczniowe.jpg
 author: Tomasz Waszczyk
-date: 2019-01-22T10:00:00.000Z
+date: 2020-01-22T10:00:00.000Z
 tags:
   - Powstanie styczniowe
 draft: false  
+---
+
+### 2021
+
+Premier Morawiecki zapowiadał, że w styczniu zaprezentuje swój nowy plan społeczno-gospodarczy, który ma być odpowiedzią na wyzwania, które będą nas czekać po kryzysie wywołanym walką z wirusem. Na czym ma polegać ten nowy ład? Póki co możemy się tylko domyślać, ale wiele wskazuje na to, że nowy model gospodarczy ma prowadzić do odbicia po kryzysie w kształcie litery K. Korporacje i spółki Skarbu Państwa mają iść w górę, jak prawe ramię tej litery, a drobny, polski biznes w dół, jak jej noga.
+Co to tym świadczy? Spójrzmy na owoce tego co tu się wyprawia od miesięcy. Biedronka, Lidl i Auchan mogą cały czas działać, a sklep z ubraniami na franczyzie nie. Do McDonald's ustawiają się długie kolejki, a cała reszta właśnie zmierza ku bankructwu. Hotele są zamknięte, a oferty ich wykupienia składają korporacje i państwo. A kto stracił na opodatkowaniu spółek komandytowych? Polskie rodzinne firmy. 
+Od miesięcy drobny, lokalny biznes jest gnojony, a korporacje  w spokoju sobie działają, korzystając z tanich kredytów i lobbując dla siebie wyłączenia z obostrzeń. 
+Teraz zza horyzontu wyłaniają się kolejne czarne chmury dla małych firm i młodych ludzi. Media donoszą, że trwają prace nad ozusowaniem wszystkich umów zlecenie i umów o dzieło. Według dziennikarzy, ta drastycznie podnosząca koszty pracy zmiana, może wejść jeszcze w pierwszym kwartale 2021 roku. Jakie będą efekty? Koszty, a więc i ceny wzrosną, już najwyższa w UE inflacja będzie jeszcze wyższa, a wynagrodzenia spadną. Najbardziej po tyłku dostaną małe firmy, a państwo z korporacjami przejmą jeszcze większą część rynku. 
+Zapamiętajcie kształt litery K, symbolizujący los, jaki wam szykuje premier Morawiecki, jeżeli macie nieszczęście być na prawej nodze tej złowieszczej litery.
+
+---
+
+Jak mówi, tak zrobi:
+
+<img src="./img/january/kamala.jpg"><br><br>
+
+---
+
+### 1973
+
+> "Społeczeństwo Zachodu, w każdym razie Europa, po prostu nie będzie chrześcijańskie. Tym bardziej więc wierzący będą musieli zabiegać o to, aby dalej formować i utrzymać świadomość istnienia wartości oraz życie według wiary. (...) Wzrośnie ciężar odpowiedzialności."
+
+<img src="./img/january/ratzinger.jpeg"><br><br>
+
 ---
 
 ### 1867
@@ -82,4 +106,4 @@ Ale to nie koniec. Władysław IV po roku zmienił zdanie i nakazał pobieranie 
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

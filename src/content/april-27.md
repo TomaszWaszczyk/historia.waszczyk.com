@@ -26,6 +26,10 @@ W Warszawie podczas obrad przywódców państw Układu Warszawskiego miało miej
 
 <img src="./img/april/sojusz.jpg"><br><br>
 
+### 1937
+
+https://pl.wikipedia.org/wiki/Tadeusz_Krygowski
+
 ### 1848
 
 W Krakowie wybuchły antyaustriackie zamieszki, które zostały brutalnie stłumione przez wojsko.

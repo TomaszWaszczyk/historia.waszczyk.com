@@ -1,17 +1,46 @@
 ---
 layout: post
 title: 21 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/elections.png
 author: Tomasz Waszczyk
-date: 2019-01-21T10:00:00.000Z
+date: 2020-01-21T10:00:00.000Z
 tags:
-  - 
+  - Mateusz wie
 draft: false  
 ---
 
 ### 2021
 
 <img src="./img/january/elections.png"><br><br>
+
+---
+
+<img src="./img/january/mateuszwie.jpeg"><br><br>
+
+---
+
+US Debt increases per presidential term:
+
+Reagan 1: $0.8T
+Reagan 2: $1.0T
+Bush 1:      $1.5T
+Clinton 1:  $1.1T
+Clinton 2:  $0.4T
+Bush 1:      $2.0T
+Bush 2:     $3.4T
+Obama 1:  $5.6T
+Obama 2:  $2.1T
+Trump 1:    $7.8T
+
+---
+
+Pięciu lekarzom zza wschodniej granicy minister zdrowia, Adam Niedzielski, wręczył prawo wykonywania zawodu na podstawie uproszczonej ścieżki dostępu do zawodu. W kolejce jest kolejnych 34 lekarzy i 12 lekarzy dentystów.
+
+Prawo do wykonywania zawodu lekarza i lekarza dentysty w trybie uproszczonym zostało wprowadzone pod koniec 2020 r. Przepisy definiują trzy warianty uzyskania tego uprawnienia. Lekarz lub lekarz dentysta, który uzyskał kwalifikacje medyczne poza terytorium państw członkowskich UE i nie uzyskał specjalizacji, otrzymuje czasowe pozwolenie do wykonywania zawodu.
+
+Przypomnijmy, że wcześniej nowe przepisy i ułatwiony dostęp do zwodu oprotestowała m.in. Naczelna Izba Lekarska. Jak argumentowała, trudno sprawdzić kwalifikacje takiego medyka, no i nie ma on obowiązku składania oświadczenia, że zna język polski.
+
+---
 
 ### 1940
 

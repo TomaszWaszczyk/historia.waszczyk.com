@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 20 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/joe.jpeg
 author: Tomasz Waszczyk
-date: 2019-01-20T10:00:00.000Z
+date: 2020-01-20T10:00:00.000Z
 tags:
-  - 
+  - Donald Trump
 draft: false  
 ---
+
+### 2021
+
+<img src="./img/january/joe.jpeg"><br><br>
 
 ### 1942
 
