@@ -1,12 +1,38 @@
 ---
 layout: post
 title: 24 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/biden.webp
 author: Tomasz Waszczyk
-date: 2019-01-24T10:00:00.000Z
+date: 2020-01-24T10:00:00.000Z
 tags:
   - Katyń
 draft: false  
+---
+
+### 2021
+
+Elija do Erec zatrzymana - pierwszy raz od 1948..
+
+---
+
+Europejską "pretendującą klasę średnią" można porównać do zagubionych dzieci którzy zeszli 20lat temu z pól (zwłaszcza w Polsce) żyjącą filmami Disneya, jeśli Elija jest zatrzymywana to co?
+
+1. ~5 lat rozpędzanie inflacji + rządy coraz bardziej autorytarne + wojna wewnętrzna w USA
+
+2. ~3 lata dogorywania gospodatek zwłaszcza w Europie + szukanie winnych za granicami poza wirusem
+
+3. Może kryzys żywnościowy + "otwarta wojna walutowa"
+
+4. Wojna konwencjonalna w Europie? - pierwszy raz to piszę otwarcie
+
+---
+
+Is it time to start worrying about inflation?
+
+> While vaccines are being deployed around the world, it will be many months before they stem the Covid-19 pandemic. That’s why the Federal Reserve says it’s not going anywhere and will keeping juicing the US economy. President-elect Joe Biden wants Congress to open up its wallet for a third package of aid amounting to $1.9 trillion. The US needs a robust response—its economy is in a deep hole, with the unemployment rate stuck stubbornly at nearly 7%. The concern is whether the government’s response to the crisis will have unintended consequences.
+
+<img src="./img/january/biden.webp"><br><br>
+
 ---
 
 ### 1944
@@ -20,4 +46,4 @@ Sam Burdenko, już na łożu śmierci przyznał, że jako szef komisji wykonywa�
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-24.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,7 +3,7 @@ layout: post
 title: 23 stycznia
 image: img/callum-shaw-555357-unsplash.jpg
 author: Tomasz Waszczyk
-date: 2019-01-23T10:00:00.000Z
+date: 2020-01-23T10:00:00.000Z
 tags:
   - Rozbiór Polski
 draft: false
