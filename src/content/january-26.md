@@ -3,7 +3,7 @@ layout: post
 title: 26 stycznia
 image: img/january/brakprzemocy.jpg
 author: Tomasz Waszczyk
-date: 2019-01-26T10:00:00.000Z
+date: 2020-01-26T10:00:00.000Z
 tags:
   - Niemcy
 ---

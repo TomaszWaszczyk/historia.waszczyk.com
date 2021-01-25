@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 23 stycznia
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/january/bitcoinbuffet.jpeg
 author: Tomasz Waszczyk
 date: 2020-01-23T10:00:00.000Z
 tags:
   - Rozbiór Polski
 draft: false
 ---
+
+### 2018
+
+> "Bitcoin is rat poison" – Warren Buffet
 
 ### 1793
 
