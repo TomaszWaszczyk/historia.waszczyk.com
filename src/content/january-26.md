@@ -8,6 +8,12 @@ tags:
   - Niemcy
 ---
 
+### 2021
+
+...
+
+<img src="./img/january/szczepimysie.jpeg"><br><br>
+
 ### 2013
 
 W Cheseaux-sur-Lausanne w Szwajcarii zmarł 84-letni Stefan Kudelski, elektronik i wynalazca, twórca pierwszych przenośnych i niezwykle odpornych na eksploatację magnetofonów o nazwie ,,Nagra'', które stały się podstawowym typem magnetofonów używanych przez reporterów radiowych, telewizyjnych, studia filmowe, a nawet agentów służb specjalnych na całym świecie. Stefan Kudelski otrzymał za swój wynalazek m.in. cztery nagrody amerykańskiej Akademii Filmowej (dwie nagrody naukowo-techniczne i dwie statuetki Oscara) oraz dwie nagrody przemysłu rozrywkowego Emmy. W 1983 roku został laureatem John Grierson International Gold Medal, dołączając do takich zasłużonych dla filmu postaci jak Louis Lumiere, Thomas Edison, czy Walt Disney.
