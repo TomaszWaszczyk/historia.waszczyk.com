@@ -23,7 +23,7 @@ Europejską "pretendującą klasę średnią" można porównać do zagubionych d
 
 3. Może kryzys żywnościowy + "otwarta wojna walutowa"
 
-4. Wojna konwencjonalna w Europie? - pierwszy raz to piszę otwarcie
+4. Wojna konwencjonalna w Europie? - pierwszy raz to piszę otwarcie albo wieloletnie dogorywanie gospodarek w połączeniu z godziną policyjną??
 
 ---
 
