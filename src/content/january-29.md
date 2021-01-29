@@ -3,11 +3,78 @@ layout: post
 title: 29 stycznia
 image: img/january/polrus.jpg
 author: Tomasz Waszczyk
-date: 2019-01-29T10:00:00.000Z
+date: 2020-01-29T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2021
+
+W 2007 roku minister pracy w rządzie Angeli Merkel – Franz Müntefering określi fundusze hedge mianem szarańczy – wyszukują ofiarę, pożerają i szukają następnej. Od wielu lat, krótka sprzedaż nie ma dobrej passy, a tych, którzy koncentrują się na zarabianiu w dzięki tej technice traktuje się jako najgorszy rodzaj spekulanta. Dzięki instrumentom dostępnym na rynkach, zerowym prowizjom drobni postanowili rozprawić się z „szarańczą”. Pozostając w tej terminologii wygląda na to, że szarańczę zaatakowały jakieś mniejsze organizmy – pasożyty lub bakterie. I świetnie się przy tym bawią. Albo jak w animowanym filmie “Dawno temu w trawie” (A Bug’s Life, 1988) to małe mrówki zbuntowały się przeciw wykorzystywaniu je przez koniki polne. Wystarczyło się tylko zorganizować.
+Możemy się na to oburzać, ale przecież na rynku zaistniała taka możliwość. Traderzy od setek lat szukają nowych możliwości. Często na granicy prawa, często prawo jest zmieniane dopiero po urealnieniu się jakichś kłopotów. Jedni grają przeciwko innym, wykorzystując ich błędy, wiedzę o technikach, czy posiadanych pozycjach. Rynek się zmienia i zmienia.
+
+<img src="./img/january/gamestop.jpeg"><br><br>
+
+---
+
+>> Młode, wykształcone, oświecone, z dużych miast.
+
+<img src="./img/january/mlodewyksztalcone.jpeg"><br><br>
+
+---
+
+> Czy wiesz że za równoważnik 380PLN w 1990 trzeba było pracować na minimalnym wynagrodzeniu ponad 10 miesięcy? Dziś niecałe 3 dni.
+
+Tak, w 1990r można było kupić dobra o wartości rynkowej 10 miesięcznych minimalnych wynagrodzeń, dziś zaś o wartości rynkowej 3 dni pracy na tym wynagrodzeniu. Uwzględniając deflacyjny charakter rozwijającego się rynku to przy stałej ilości pieniądza rozbieżność powinna być w drugą stronę co jeszcze bardziej uzmysławia skalę odbierania użytkownikom waluty ich wypracowanych owoców pracy przez emitenta waluty.
+
+---
+
+> W 2020 r. w Polsce zmarło najwięcej ludzi od czasów II wojny światowej, a na świat przyszło najmniej dzieci od ponad 15 lat - wynika z szacunków GUS. Liczba ludności Polski zmniejszyła się najmocniej od siedmiu dekad.
+
+Polsko! lecz ciebie błyskotkami łudzą!
+
+Pawiem narodów byłaś i papugą;
+
+A teraz jesteś służebnicą cudzą —
+
+Choć wiem, że słowa te nie zadrżą długo
+
+W sercu — gdzie nie trwa myśl nawet godziny:
+
+Mówię — bom smutny — i sam pełen winy!
+
+...
+
+O Polsko! póki ty duszę anielską
+
+Będziesz więziła w czerepie rubasznym;
+
+Póty kat będzie rąbał twoje cielsko,
+
+Póty nie będzie twój miecz zemsty strasznym!
+
+Póty mieć będziesz hienę na sobie —
+
+I grób — i oczy otworzone w grobie.
+
+---
+
+### 2004
+
+<img src="./img/january/wilczynski.png"><br><br>
+
+Pan od przedsiębiorczości
+
+Nie tylko wrażliwi miłośnicy literatury wiedzą kim w Polsce jest „Pan od poezji”. A kim jest „Pan od przedsiębiorczości”? Profesor Wacław Wilczyński napisał o Nim, że „jest swoją spuścizną bardziej żywy niż wielu żyjących”. Mimo, że nie ma go na tym świecie od 29 stycznia 2004 roku, to jego myśli „są w całej pełni aktualne swą doniosłością intelektualną”. Jakie zatem Jego myśli skłoniły W. Wilczyńskiego, ucznia Edwarda Taylora do napisania wstępu do „Krótkiego kurs ekonomii praktycznej”, który określił jako „Krótki kurs logicznego myślenia”? Bez wątpienia była to rzadko spotykana umiejętność połączona z błyskotliwą inteligencją, przenikania do sedna spraw i widzenia ich takimi, jakimi są naprawdę. W myśleniu o wolności, przedsiębiorczości i gospodarce nie miał sobie równych. Precyzja wywodu, a jednocześnie lekkość w jaki go przedstawiał czyniła z niego godnego następcę Stefana „Kisiela” Kisielewskiego. Obaj byli żarliwymi obrońcami przedsiębiorczości i wolności, wręcz apologetami tych wartości, które czynią pod tym względem polski naród wyjątkowym. „Wolność w tym wypadku, czyli wolność gospodarcza dzisiaj w Polsce oznacza prawo do wykorzystywania swoich talentów i umiejętności w służbie społeczeństwu i innym ludziom. Oczywiście, tak rozumianej wolności w Polsce brakuje” - gorzko konstatował w 2002 roku Pan od przedsiębiorczości.
+
+Jego intelektualne życie to bezpardonowa walka ze stereotypami, które wskazuje swoim adwersarzom: „Autor pada tu ofiarą najpotężniejszego stereotypu współczesnej ekonomii, stereotypu biorącego swój początek w teorii Johna Maynarda Keynesa’a głoszącego za mistrzem, że popyt jest spiritus movens wszelkiej ludzkiej aktywności”.
+
+Nieustannie podkreślał i przypominał, że fałszywa historia jest mistrzynią fałszywej oraz, że „idee mają konsekwencje”. Dzieło pod tym tytułem autorstwa Richarda M. Weavera było jednym najbardziej cenionych przez Niego traktatów. Sparafrazował jego tytuł, że również i „podatki mają konsekwencje”. Było to hasło, którym zapoczątkował w 1994 roku w Centrum im. Adama Smitha „Dzień Wolności Podatkowej”, chcąc zwrócić uwagę na rosnące już wtedy opodatkowanie, zwłaszcza pracy, co skutkowało koniecznością pracy statystycznego Polaka przez pół roku na opłacenie wszystkich podatków. Analizował je nieustannie wykazując daleko idące skutki, wręcz deformacje dla pracy i moralności w Polsce podnosząc, że „prawo do pracy - prawo do realizacji ludzkiego powołania - pozwala na pełne uczestnictwo jednostki w życiu społecznym; to praca właśnie nadaje jednostce społeczny wymiar. Prawo do pracy jest pierwszą i najważniejszą wolnością gospodarczą - wolnością ludzi biednych”. Nie zgadzał się, przede wszystkim z powodów moralnych na nałożenie na pracę tak wysokich podatków jak na papierosy, wódkę i paliwa. Swoista „akcyza na pracę” według przedstawianych przez Niego analiz była głównym powodem dramatycznego bezrobocia, którego źródłem były „mechanizmy ekonomiczne to w naszym przypadku przede wszystkim patologiczny system dochodów publicznych nakładający na pracę obciążenia nie do udźwignięcia”. Nie godząc się na bezradność intelektualną i organizacyjną polityków z dramatem bezrobocia, zainicjował przygotowanie projektu całościowej zmiany systemu podatkowego oraz zmiany finansów publicznych pod nazwą „Ustawy o likwidacji bezrobocia”. Organizacje obywatelskie zebrały pod nim w 2004 r. 100 tys. podpisów. Niestrudzenie walczył o prawo do pracy dla obywateli, aby nie musieli emigrować oraz dla najmniejszych przedsiębiorców, których z nieustającą rewerencją określał „planktonem gospodarczym”.
+
+Zanim tuzy polskiej ekonomii „odkryły kulturę”, recenzując w 1998 roku książkę Ojca Macieja Zięby „Papieże i kapitalizm” zauważył, że „ekonomia jest bowiem jednym ze składników kultury, a obie są od siebie wzajemnie zależne i powinny pozostawać ze sobą - posługując się językiem profesora Feliksa Konecznego - w stosunku współmierności. Upadek jednej z nich musi za sobą pociągnąć klęskę drugiej”.
+
+Krzysztof Dzierżawski pozostawił po sobie głębię myśli, z której pokolenia mogą czerpać wzory logicznego myślenia i analizowania jak u Fryderyka Bastiata, którego był gorącym w Polsce orędownikiem.
 
 ### 1982
 

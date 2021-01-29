@@ -14,6 +14,14 @@ tags:
 
 <img src="./img/january/szczepimysie.jpeg"><br><br>
 
+---
+
+“At the World Economic Forum’s (WEF) virtual Davos Agenda summit on Tuesday, French President Emmanuel Macron declared that in the wake of the Chinese coronavirus modern capitalism “can no longer work”.
+
+Appearing before a question and answer session conducted with ‘Great Reset’ architect and founder-chairman of the WEF, Klaus Schwab, Mr Macron said that while capitalism has historically driven down poverty globally, he claimed that it came with the cost of furthering inequality.”
+
+---
+
 ### 2013
 
 W Cheseaux-sur-Lausanne w Szwajcarii zmarł 84-letni Stefan Kudelski, elektronik i wynalazca, twórca pierwszych przenośnych i niezwykle odpornych na eksploatację magnetofonów o nazwie ,,Nagra'', które stały się podstawowym typem magnetofonów używanych przez reporterów radiowych, telewizyjnych, studia filmowe, a nawet agentów służb specjalnych na całym świecie. Stefan Kudelski otrzymał za swój wynalazek m.in. cztery nagrody amerykańskiej Akademii Filmowej (dwie nagrody naukowo-techniczne i dwie statuetki Oscara) oraz dwie nagrody przemysłu rozrywkowego Emmy. W 1983 roku został laureatem John Grierson International Gold Medal, dołączając do takich zasłużonych dla filmu postaci jak Louis Lumiere, Thomas Edison, czy Walt Disney.

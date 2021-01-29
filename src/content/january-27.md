@@ -47,6 +47,13 @@ After taking power, the Nazis gradually restricted the rights of German Jewish c
 
 The Holocaust was the largest manifestation of anti-Semitism in recent history. When we speak about the Holocaust today, powerful and horrific images come to mind. We are reminded of the horrors which Jews and other persecuted groups faced: forced labor, starvation, humiliation, and torture which often resulted in death. We see the systematic effort to wipe out an entire population from the face of the earth. We see everyday people turning their backs on neighbors and friends in their plea for help. And we see the collective spirit of the world ignoring these atrocities and denying any responsibility for their outcome.
 
+### 1926
+
+John Logie Baird zaprezentował w Londynie swój nowy wynalazek, nazwany telewizorem.
+John Logie Baird (1888-1946), szkocki inżynier, pionier techniki telewizyjnej, zaprezentował w Londynie swój nowy wynalazek, nazwany telewizorem. Znają państwo to urządzenie? W 1924 Baird skonstruował telewizor monochromatyczny, w 1928 przesłał transmisję telewizyjną z Europy do Ameryki Północnej, jak i Południowej, a także stworzył pierwszy system telewizji kolorowej. Wynalazł także noktowizor.
+
+<img src="./img/january/baird.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-27.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
