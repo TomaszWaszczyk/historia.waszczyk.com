@@ -33,6 +33,18 @@ Strach się bać.
 
 ---
 
+Global ‘hot conflict’ impossible now, Putin hopes Putin added that such conflict would mean "the end of the civilization"
+
+MOSCOW, January 27. /TASS/. A global military conflict in the current era would cause the end of the civilization, Russian President Vladimir Putin believes.
+
+Speaking at the Davos Agenda Week Wednesday, the Russian leader noted that the inability and unwillingness to resolve international problems in substance in the 20th century resulted in the catastrophe of World War II.
+
+"Of course, such global hot conflict is impossible now, I hope. I very much do," Putin said, adding that such conflict would mean "the end of the civilization."
+
+"But the situation can develop unpredictably and uncontrollably if we do nothing to prevent it from happening," the president underscored.
+
+---
+
 JuTjub:
 
 <img src="./img/january/korporacyjnooligarchiczny.png"><br><br>

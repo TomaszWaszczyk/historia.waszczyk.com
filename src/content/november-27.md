@@ -61,6 +61,10 @@ Po wojnie do opuszczonych wiosek powracali nieliczni ocaleli rdzenni mieszkańcy
 W Brześciu nad Bugiem odbyła się wspólna konferencja Gestapo i NKWD na której debatowano nad metodami zwalczania polskiej konspiracji niepodległościowej. Opracowywano również system przepływu informacji między III Rzeszą, a ZSRR, metody eliminacji polskiej klasy przywódczej i inteligencji oraz działania mające na celu germanizację i wynarodowienie Polaków.
 Na zdjęciu konferencja oficerów Gestapo Armii Czerwonej w Urzędzie
 
+### 1933
+
+https://de.wikipedia.org/wiki/Kraft_durch_Freude
+
 ### 1915
 
 W Kodymie urodził się Stanisław Skalski, as myśliwski okresu II wojny światowej o najwyższej liczbie zestrzeleń wśród polskich pilotów.

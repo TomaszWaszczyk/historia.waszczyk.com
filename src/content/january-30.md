@@ -17,6 +17,20 @@ Wniosek? Zarobki znacznie przewyższające potrzeby egzystencjalne osłabia 98% 
 
 ---
 
+https://simple.wikipedia.org/wiki/Unperson
+
+---
+
+(Bloomberg) -- Bitcoin is inherently risky and only central banks should issue digital currencies, according to the Bank for International Settlements.
+
+<img src="./img/january/carstens.jpeg"><br><br>
+
+> “Investors must be cognizant that Bitcoin may well break down altogether,” because the system becomes vulnerable to majority attacks as it gets close to its maximum supply of 21 million coins, BIS General Manager Agustin Carstens said in a speech for the Hoover Institution on Wednesday.
+
+Carstens, who runs the Basel-based central bank for central banks, has often been critical of Bitcoin, which surged 300% in 2020.
+
+---
+
 Myślałem, że tylko członek RPP Łon głosił w swoim uniesieniu patriotycznym tezę o zastąpieniu euro złotym, jako wspólną walutą europejską. Prezes GPW jeszcze aż tak daleko idącej tezy nie głosi, ale kierunek myślenia jest podobny: złoty powinien stać się walutą rezerwową dla wielu innych krajów, a polskie obligacje stanowić cześć rezerw walutowych wielu banków centralnych na świecie. Złotówkę prezes nazywa wręcz jako turbo euro. Tak sobie myślę, by może prezes zaczął wdrażanie tych światłych pomysłów od własnego podwórka: GPW. Na nasz rynek kapitałowy nie garną raczej inwestorzy ze świata, a przydaliby się! Warto czasami w swoim uniesieniu i wizjach skupic się na swoich obowiązkach i zastanowić się, dlaczego od kilku lat nasz rynek kapitałowy nie rozwija się (wbrew trendom światowym). O tym powinien myśleć i tym się zajmować nasz dzielny turboprezes.
 
 ## Dlaczego w Polsce nie są prowadzone prace nad cyfrowym środkiem płatniczym? Bo `prawdopodobnie` w dłuższym horyzoncie czasowym waluta ta przestanie istnieć
