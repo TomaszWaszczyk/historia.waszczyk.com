@@ -61,6 +61,14 @@ Inną ciekawostką związaną z tym dniem jest incydent, który miał miejsce po
 
 <img src="./img/may/1maja.jpg"><br><br>
 
+---
+
+### 1948
+
+https://pl.wikiquote.org/wiki/Tomasz_Turowski
+
+<img src="./img/may/turowski.jpeg"><br><br>
+
 ### 1945
 
 https://pl.wikipedia.org/wiki/Magda_Goebbels

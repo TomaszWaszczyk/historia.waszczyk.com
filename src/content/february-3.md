@@ -9,6 +9,21 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Today's Thought?
+
+How the Reserve Bank of Australia pumped Bitcoin...
+Australian unfunded deficits, debt, negative rates and fears of currency debasement have stoked every bubble including bitcoin.
+
+The rally in bitcoin beyond $38,850 is a digital indictment of the easy money policies embraced by the Reserve Bank of Australia and its central bank "old boys" club, as increasingly aggressive balance sheet expansions obliterate the concept of a price for risk and fuel an ever-growing "everything bubble".
+
+It's easy to understand why more capital is seeking an exit from, or a hedge against, a system where central banks have gone wild, sorry "plunged head first into unconventional policy".
+
+As the Reserve Bank has destroyed the ability of markets to price anything, investors have been left with no choice but to chase risk in a world devoid of yield. Real, or inflation-adjusted, yields are nil or negative, meaning there is no opportunity cost for investors in non-income producing assets such as gold and digital currencies.
+
+The Reserve Banks need to look no further than the mirror, to understand bitcoin's success.
+
 ### 1947
 
 W Warszawie zakończył się proces przywódców antykomunistycznej organizacji Wolność i Niezawisłość, nazwany "procesem Rzepeckiego" od nazwiska głównego oskarżonego.

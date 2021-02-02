@@ -43,6 +43,16 @@ Myślałem, że tylko członek RPP Łon głosił w swoim uniesieniu patriotyczny
 
 https://pl.wikipedia.org/wiki/Brexit
 
+### 1945
+
+W rejonie Ławicy Słupskiej na Bałtyku, został zatopiony przez radziecki okręt podwodny S-13 niemiecki statek SM Wilhelm Gustloff (w zasadzie już okręt wciągnięty na listę KM). Zginęło ponad 9 tys. osób, najwięcej w historii katastrof morskich.
+Jest 30 stycznia 1945 roku statek Wilhelm Gustloff wypływa w morze z portu w Gdyni, jeszcze nikt nie wie, że to jego ostatni rejs. Panuje sztorm, wieje lodowaty wiatr, jest przeraźliwe zimno, temperatura powietrza w nocy spada poniżej minus 20 stopni Celsjusza, a temperatura wody bliska jest zeru. Statek jest wypełniony uchodźcami uciekającymi przed wojskami radzieckimi. Wśród uchodźców są ranni żołnierze, pielęgniarki, policjanci i cywile. Dla wielu było szczytem marzeń dostanie się na jeden z ostatnich statków odpływających do III Rzeszy - wszyscy pragną jak najdalej uciec od linii frontu. Ile jest osób na Guslofie Tego nikt nie wie, nawet zwykle skrupulatni Niemcy przestali liczyć wchodzące osoby. Ocenia się że na pokładzie było ponad 10 000 osób.
+O godzinie 21:16 przy mijaniu Ławicy Słupskiej na wysokości Łeby Wilhelm Gustloff został trafiony 3 torpedami. Pierwsza rozerwała poszycie dziobu, druga trafiła w środek statku a trzecia w maszynownię. Okręt zatonął bardzo szybko, przechylił się na lewą burtę, co spotęgowało panikę, na pokładzie walczono o dostęp do łodzi i tratw ratunkowych. Niestety po około 65 minutach o godzinie 22:25 okręt całkowicie zniknął pod powierzchnią wody. Zginęło według różnych szacunków od 8000-10000 osób, uratowano około 1215 rozbitków, każdy kto wpadł do lodowatej wody umierał w kilka minut.
+Ataku dokonał radziecki okręt podwodny S-13, dowodzony przez kapitana Alexandra Marinesko. Wilhelm Gustloff był łatwym łupem, w momencie ataku był konwojowany tylko przez jeden, słownie jeden statek - torpedowiec Löwe.
+Pozycja wraku: 55°07'27,7 N 17°42'14,6 E. Statek leży na głębokości 43-45m na lewym boku, jest złamany a jego środkowa część jest zgnieciona. Brak jest olbrzymi posiada długosc 209m a prawa burta sięga prawie do 20m głębokości (szerokość statku 23,5m). Pozycja wraku jest dokładnie znana, ale dla poglądowego przedstawienia można powiedzieć że leży na wysokości Łeby. Obecnie wrak pokrywa rdza i małże. Czy można na nim nurkować - tylko za specjalnym pozwoleniem. W 1994 roku Polska uznała wrak MS Wilhelm Gustloff za mogiłę wojenną, w związku z czym zakazane jest nurkowanie na wrak i w promieniu 500m od niego.
+
+<img src="./img/january/gustloff.jpg"><br><br>
+
 ### 1920
 
 <img src="./img/january/ustawaurzednikow.jpg"><br><br>

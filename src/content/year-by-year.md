@@ -245,6 +245,16 @@ https://en.wikipedia.org/wiki/Medicaid
 
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
+### 1976
+
+Real King of the World:
+
+https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts
+
+https://www.tpg.com/
+
+https://www.carlyle.com/
+
 ### 1975
 
 https://en.wikipedia.org/wiki/Metamodernism
@@ -254,6 +264,8 @@ https://pl.wikipedia.org/wiki/List_59
 ### 1974
 
 Stagflacja w USA: https://pl.wikipedia.org/wiki/Stagflacja
+
+https://pl.wikipedia.org/wiki/MKUltra
 
 ### 1973
 

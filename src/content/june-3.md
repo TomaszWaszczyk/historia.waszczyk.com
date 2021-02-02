@@ -35,6 +35,20 @@ W ostatnim kwartale 2019 nastąpił najwyższy, w ujęciu rocznym, wzrost stopy 
 
 ---
 
+### 2019
+
+Malaysia's Mahathir rekindles gold standard debate
+
+The Malaysian leader has proposed a gold-pegged common trading currency for East Asia. Experts say returning to the gold standard is easier said than done, especially when the motive is more political than economic.
+
+Malaysian Prime Minister Mahathir Mohamad has suggested that East Asia should consider a common trading currency backed by gold, saying the current foreign exchange system tied to the US dollar was prone to manipulation.
+
+The Malaysian leader said the currency could be used for regional trade and would not be used for domestic transactions.
+
+"In the Far East if you want to come together, we should start with a common trading currency, not to be used locally but for the purpose of settling of trade," Mahathir said at the Future of Asia conference in Tokyo.
+
+"At the moment we have to depend upon the US dollar but the US dollar is also not stable. So the currency that we propose should be based on gold because gold is much more stable," he said.
+
 ### 1942
 
 W Warszawie grupy konspiracyjnej Organizacji Młodego Sabotażu "Wawer" zagazowały przy użyciu środków chemicznych 7 kin, uzyskując pożądane efekty- przerwanie seansów i panikę wśród widzów uczęszczających do kin wbrew zakazom podziemia.

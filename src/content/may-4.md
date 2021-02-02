@@ -53,6 +53,8 @@ Przez ostatnich 50 lat szybki postęp w nauce spowodował rosnącą przepaść p
 
 <img src="./img/may/chomsky.jpg"><br><br>
 
+---
+
 ### 1945
 
 Został aresztowany Hans Frank.
@@ -64,6 +66,12 @@ Leszek Admaczewski w książce –W królestwie Hansa Franka. Sensacje z General
 ---
 
 <img src="./img/may/rosjanie.jpg"><br><br>
+
+---
+
+### 1909
+
+https://pl.wikipedia.org/wiki/Wac%C5%82aw_Komar
 
 ### 1834
 

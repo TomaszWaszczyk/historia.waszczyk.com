@@ -27,6 +27,11 @@ Niemiecka minister obrony Annegret Kramp-Karrenbauer oraz rzecznik rządu RFN St
 
 <!-- <img src="./img/june/szumowina.jpg"><br><br> -->
 
+<!-- ### 2014 -->
+<!-- Paulina Marnik Marnikowska w dniu ok. 10 czerwca 2014 powiedziała Paulinie żebym podwiózł Paulinę swoim samochodem oraz "jak to dobrze mieć faceta z samochodem"
+ 
+Ludzie to zawistne kurwy, dopierdolić im trzeba ! ! ! Swoim Sukcesem ! ! ! -->
+
 ### 1942
 
 Pierwsza masowa ucieczka w historii obozu w Birkenau.

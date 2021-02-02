@@ -3,12 +3,36 @@ layout: post
 title: 1 lutego
 image: img/february/radiofonia.jpg
 author: Tomasz Waszczyk
-date: 2019-02-01T10:00:00.000Z
+date: 2020-02-01T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
+---
+
+### 2021
+
+Zabicie gastronomii, platformizacja (uwłaszczenie się) za pomocą platform cyfrowych, efekt:
+
+<img src="./img/february/fuchs-rzad-zabija-nas.jpeg"><br><br>
+
+Przed kilkoma dniami mogliśmy się przekonać o sprawności działania bytomskiego samorządu. We wtorek w życie weszły przepisy umożliwiające zwolnienie gastronomii z koncesji, a już w czwartek Rada Miejska zebrała się w trybie nadzwyczajnym, aby przyjąć stosowną uchwałę.
+
+Branża gastronomiczna w całej Polsce jest praktycznie zamrożona z powodu obowiązujących obostrzeń, które zabraniają serwowania jedzenia i napojów do spożycia na miejscu. Restauracje mogą jedynie wydawać posiłki na wynos lub w dowozie, lecz wielu przedsiębiorców przyznaje, że przychód z tego źródła nie wystarcza im na pokrycie bieżących kosztów. Z kolei właściciele pubów całkowicie zostali na lodzie, bo nawet, gdyby zaczęli sprzedawać piwo na wynos, to nie byliby w stanie konkurować ze zwykłymi sklepami. Poza tym wymaga to osobnej koncesji na sprzedaż alkoholu do spożycia poza miejscem zakupu, a to są kolejne koszty...
 
 ---
+
+> “I do at this point think Bitcoin is a good thing. I am a supporter of Bitcoin. It’s on the verge of gaining broad acceptance from conventional finance people.” - Elon Musk
+> “Bitcoin will likely go to 1 million, along with all your alternative currencies” - Elon Musk
+
+<img src="./img/february/elon.jpeg"><br><br>
+
+---
+
+### 2005
+
+Do internetu trafiła tzw. lista Wildsteina, czyli spis nazwisk i sygnatur z katalogu osobowego Instytutu Pamięci Narodowej. Zbiór zawiera około 240 tysięcy imion i nazwisk osób, które były źródłami informacji służb bezpieczeństwa PRL – zarówno świadomych agentów, jak i osób niezwerbowanych.
+
+- Nie upubliczniłem tego katalogu, tylko wyniosłem go z IPN. Znajdowały się w nim nazwiska agentów i funkcjonariuszy SB, ale także pewna, bardzo niewielka grupka osób, które chciano zwerbować, ale ostatecznie ich nie zwerbowano – mówił Bronisław Wildstein, publicysta i pisarz w rozmowie z Portalem PolskieRadio24.pl. – Chciałem przekazać go dziennikarzom po to, żeby zaczęli się tym interesować, bo to był fascynujący materiał do poznania historii PRL i III RP, a po drugie dlatego, że wtedy usiłowano zablokować dostęp do archiwów.
 
 ### 2003
 

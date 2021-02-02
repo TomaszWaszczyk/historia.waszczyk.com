@@ -3,11 +3,28 @@ layout: post
 title: 2 lutego
 image: img/february/baczynski.jpg
 author: Tomasz Waszczyk
-date: 2019-02-02T10:00:00.000Z
+date: 2020-02-02T10:00:00.000Z
 tags:
-  - Jan III Sobieski i Maria Kazimiera
   - Merkle Tree
 draft: false  
+---
+
+### 2021
+
+Likwidacja lokalnej przedsiębiorczości(na rzecz czeboli):
+
+Obecna sytuacja zmusza coraz więcej przedsiębiorców do sprzedaży własnego biznesu. Trudno jednak znaleźć nabywców na hotel czy restaurację.
+
+Dochodowy lokal gastronomiczny, kompleks restauracyjno-hotelowy, klub muzyczny, pasaż handlowy wraz z najemcami – takich ogłoszeń o biznesach wystawionych na sprzedaż na różnych portalach inwestycyjnych jest już całe zatrzęsienie.
+
+---
+
+W niedzielę Ministerstwo Rolnictwa i Rozwoju Wsi poinformowało, że zarejestrowano pierwszy w Polsce przypadek zakażenia SARS-CoV-2 u norek. Wirus został zdiagnozowany na fermie w woj. pomorskim na terenie powiatu kartuskiego. Hodowcy wskazują, że to kolejna furtka do zniszczenia przemysłu futrzarskiego w Polsce.
+
+Dodatkowo, hodowcy wskazują, że w myśl rozporządzenia wydanego przez ministra rolnictwa hodowcy norek nie dostaną odszkodowań za „zlikwidowane” zwierzęta. To już kolejna, po „piątce dla zwierząt”, próba zniszczenia polskiej branży futrzarskiej przez rząd.
+
+Warte uwagi, że do podobnej sytuacji doszło już w zeszłym roku w Danii - wtedy to po wykryciu nowej mutacja koronawirusa u norek, premier Mette Frederiksen ogłosiła na początku listopada, że zlikwidowanych zostanie ok. 17 mln milionów norek w Danii, która jest największym na świecie eksporterem ich futer. Po rozpoczęciu operacji, decyzja o jej przeprowadzeniu została zakwestionowana przez sąd, bowiem okazało się, że nie miała podstaw prawnych. Skandal doprowadził do rezygnacji ministra rolnictwa.
+
 ---
 
 ### 2020

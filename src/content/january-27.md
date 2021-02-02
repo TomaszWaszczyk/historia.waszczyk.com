@@ -29,7 +29,7 @@ Dalej Xi jako sposób na rozwiązanie tych problemów podkreśla rolę podtrzyma
 
 Na koniec swojego wystąpienia XI informuje, iż Chiny są na dobrej drodze do ukończenia budowy umiarkowanie zamożnego społeczeństwa pod każdym względem, a Chiny będą współpracować z innymi krajami w celu zbudowania otwartego, integrującego, czystego i pięknego świata, który cieszy się trwałym pokojem, powszechnym bezpieczeństwem i wspólnym dobrobytem. Podkreśla, iż Chiny będą więcej inwestować w naukę i technologię, rozwijając i umożliwiając systemy innowacji jako priorytet, przekształcając w szybszym tempie przełomowe odkrycia naukowe i technologiczne w rzeczywistą wydajność oraz wzmacniając ochronę własności intelektualnej, a wszystko to w celu wspierania napędzanego innowacjami wzrostu gospodarczego o wyższej jakości. "Gra o sumie zerowej" lub "Zwycięzca bierze wszystko" nie jest filozofią przewodnią narodu chińskiego.
 
-Strach się bać.
+Strach się bać. Gaz pała pała gaz.
 
 ---
 

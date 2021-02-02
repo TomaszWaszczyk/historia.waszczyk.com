@@ -9,6 +9,35 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/february/kupno.jpg"><br><br>
+
+---
+
+Jedno z pierwszych wspomnień o grze wojennej w masowych mediach (onet.pl) oraz wojny konwencjonalnej:
+
+> Porażka polskiej armii w symulowanej wojnie. Ćwiczenia wykazały klęskę w pięć dni Wojskowe ćwiczenia "Zima-20" skończyły się blamażem i całkowitą klęską. Symulacja wskazała, że po pięciu dniach wojna była przegrana, a polska armia przestała istnieć - informuje Interia.
+
+W symulacjach uwzględniono zamówione przez Polskę - choć jeszcze niedostarczone - nowe systemy uzbrojenia
+Zacięta obrona wschodu Polski spowodowała rozbicie znajdujących się tam jednostek i potężne straty
+Według informatorów Interii już piątego dnia wirtualnego konfliktu przeciwnik dotarł do linii Wisły. "SE" dodaje, że czwartego dnia Warszawa znalazła się w okrążeniu
+Kancelaria Prezydenta i Ministerstwo Obrony Narodowej nie chciały komentować tych doniesień, powołując się na niejawność ćwiczeń
+
+W symulacjach uwzględniono zamówione przez Polskę - choć jeszcze niedostarczone - nowe systemy uzbrojenia
+Zacięta obrona wschodu Polski spowodowała rozbicie znajdujących się tam jednostek i potężne straty
+Według informatorów Interii już piątego dnia wirtualnego konfliktu przeciwnik dotarł do linii Wisły. "SE" dodaje, że czwartego dnia Warszawa znalazła się w okrążeniu
+Kancelaria Prezydenta i Ministerstwo Obrony Narodowej nie chciały komentować tych doniesień, powołując się na niejawność ćwiczeń
+
+Jak przekazała Interia, w ćwiczenia sztabowych wzięło udział kilka tysięcy oficerów. W symulacjach uwzględniono zamówione przez Polskę - choć jeszcze niedostarczone - nowe systemy uzbrojenia: zestawy przeciwlotnicze Patriot, artylerię rakietową HIMARS i wielozadaniowe samoloty F-35. Sprawdzano także rozwiązania, które wprowadziła reforma systemu kierowania i dowodzenia siłami zbrojnymi, obowiązująca od końca 2018 r.
+
+Zobacz: Karabinek Grot przegrywa z piaskiem. Pokazujemy próby na kilku rodzajach broni
+Okazuje się, że niewiele dało m.in. "wzmocnienie wschodniej flanki". Obrona wschodu Polski spowodowała rozbicie znajdujących się tam jednostek i potężne straty - wskazuje Interia.
+
+Według informatorów portalu już piątego dnia wirtualnego konfliktu przeciwnik znalazł się na linii Wisły, trwały walki o Warszawę, strategiczne porty zostały zablokowane lub zajęte. Lotnictwo i Marynarka Wojenna przestały istnieć, mimo wsparcia NATO. Na wschód od Wisły polskie jednostki miały ponieść druzgocącą klęskę. Pierwszorzutowe bataliony straciły od 60 do 80 proc. stanów. Przegrane ćwiczenia miały wywołać ogólną konsternację.
+
+---
+
 ### 1946
 
 W Trzciannem w województwie podlaskim rozpoczęła się trwająca sześć dni obława funkcjonariuszy Urzędu Bezpieczeństwa Publicznego w Białymstoku i żołnierzy Korpusu Bezpieczeństwa Wewnętrznego na oddział AK-WiN dowodzony przez Władysława Chojnowskiego „Kreta”.

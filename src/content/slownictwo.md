@@ -1351,6 +1351,12 @@ https://en.wikipedia.org/wiki/Beggar-my-neighbour
 
 retrospektywny - dotyczący minionych zdarzeń lub przeżyć; retrospekcyjny
 
+ad rem - do rzeczy
+
+Brain in a vet
+
+https://pl.wikiquote.org/wiki/Tomasz_Turowski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
