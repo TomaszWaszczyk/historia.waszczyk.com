@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 lutego
-image: img/february/merkle.jpg
+image: img/february/
 author: Tomasz Waszczyk
 date: 2019-02-08T10:00:00.000Z
 tags:

@@ -32,6 +32,14 @@ Goldman raises 12-month gold forecast by 11% to $2,000 an ounce
 
 ---
 
+Protesters in Lebanon have set fire to the central bank in Tripoli in a show of anger with the country’s deepening economic crises and stagnant political orthodoxy.
+
+Joyce Karam of United Arab Emirates-based media outlet TheNational reported June 11 that the Lebanese pound (LBP) is trading for more than 5,000 per $1 in spite of the country’s official peg of 1,507 per dollar— a 20% depreciation since April, and over 230% since the peg was respected in January.
+
+However, recent reports also indicate that an increasing number of protestors are embracing Bitcoin (BTC) as a means of bypassing Lebanon’s failing monetary system.
+
+---
+
 ### 1999
 
 Poniższy tekst to fragment homilii papieża Jana Pawła II, wygłoszonej w Sandomierzu 12 czerwca 1999 roku.

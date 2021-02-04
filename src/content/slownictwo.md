@@ -1357,6 +1357,8 @@ Brain in a vet
 
 https://pl.wikiquote.org/wiki/Tomasz_Turowski
 
+ludzka wkładka do hut i kopalń
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

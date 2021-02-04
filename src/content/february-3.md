@@ -3,7 +3,7 @@ layout: post
 title: 3 lutego
 image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
-date: 2019-02-03T10:00:00.000Z
+date: 2020-02-03T10:00:00.000Z
 tags:
   - Imperium Rzymskie
 draft: false
@@ -23,6 +23,26 @@ It's easy to understand why more capital is seeking an exit from, or a hedge aga
 As the Reserve Bank has destroyed the ability of markets to price anything, investors have been left with no choice but to chase risk in a world devoid of yield. Real, or inflation-adjusted, yields are nil or negative, meaning there is no opportunity cost for investors in non-income producing assets such as gold and digital currencies.
 
 The Reserve Banks need to look no further than the mirror, to understand bitcoin's success.
+
+---
+
+Model chiński(decyzją polityczną można zablokować stronę internetową - dla bezpieczeństwa, naturalnie).
+
+Z bólem podpisuję się pod krytyką projektu ustawy o krajowym sysystemie cyberbezpieczeństwa. Znam osoby, które go tworzyły i nie dopatruję się złych intencji. Trudna do wzruszenia decyzja premiera nie może ograniczać jednak dostępu do usług cyfrowych przy tak ogólnych przesłankach jej wydania.
+
+Jednym z założeń projektu nowelizacji jest uprawnienie premiera do wydawania mających rygor natychmiastowej wykonalności decyzji, które w razie zagrożenia dla bezpieczeństwa narodowego mogą m.in. nakazać operatorowi telekomunikacyjnemu "wyłączenie" dostępu do określonych adresów IP a więc stron www.
+
+Decyzje mogą nie być uzasadnienie. Tak radykalne rozwiązanie wyobrażam sobie tylko przy treściach terrorystycznych czy pedofilskich. W projekcie brakuje klauzuli zgodnie z którą jej wydanie możliwe jest tylko przy ryzyku niepowetowanych strat. Przepraszam, że uwag nie odniosłem wcześniej na etapie konsultacji społecznych. Nienawidzę ekspertów mądrych tylko przed kamerami TV. Nie wiedziałem o istnieniu przepisu projektu w takiej treści wcześniej.
+
+Bezpieczeństwo przestrzeni cyfrowej to przede wszystkim wolność. Uważam że nawet, gdy płacimy za nią cenę mniejszego bezpieczeństwa.
+
+---
+
+### 2018
+
+<img src="./img/february/xrp.jpg"><br><br>
+
+---
 
 ### 1947
 
@@ -63,6 +83,15 @@ Po rozbiciu IV komendy WiN, UB przeprowadziło prowokacje. Ministerstwo Bezpiecz
 Przez cztery lata UB za pośrednictwem "V Zarządu" prowadziło grę wywiadowczą, której ofiarą padły grupy konspiracyjne w kraju oraz niepodległościowe środowiska emigracyjne. Przechwytywano amerykańskie pieniądze, zrzuty broni, a nawet agentów, którzy byli szkoleni w Niemczech i przerzucani do Polski. W skutek tej mistyfikacji w więzieniach znalazły się setki ludzi, którzy w dobrej wierze podjęli działalność w rzekomej podziemnej organizacji.
 
 W marcu 2001 roku Sejm Rzeczypospolitej przyjął specjalną uchwałę, w której złożył hołd poległym, pomordowanym, więzionym i prześladowanym członkom organizacji "Wolność i Niezawisłość". Posłowie napisali, że "WiN, następczyni Armii Krajowej, dobrze zasłużyła się Polsce".
+
+### 1871
+
+Urodził się Eugeniusz Romer, ojciec polskiej kartografii, wybitny geograf, ekspert polskiej dyplomacji, który brał udział jako ekspert w konferencjach pokojowych w Paryżu i Rydze.
+Jak geograf stał się kowalem
+Bez wątpienia najważniejszym dziełem w liczącym setki pozycji dorobku tego badacza jest "Geograficzno-statystyczny atlas Polski", który ukazał się w 1916 roku. Warto nadmienić, że opracowanie publikacji w dobie I wojny światowej, kiedy ważyły się losy kwestii odrodzenia Polski, miało charakter nie tylko naukowy, lecz także polityczny.
+– Atlas powstawał na emigracji ojca w Wiedniu – wspominał Edmund Romer
+
+<img src="./img/february/romer.png"><br><br>
 
 ### 1863
 

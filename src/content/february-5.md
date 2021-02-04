@@ -3,10 +3,34 @@ layout: post
 title: 5 lutego
 image: img/february/umowagraniczna.jpg
 author: Tomasz Waszczyk
-date: 2019-02-05T10:00:00.000Z
+date: 2020-02-05T10:00:00.000Z
 tags:
-  - 
+  - Sovereign Individual
 draft: false
+---
+
+### 2021
+
+Jeśli deficyt budżetowy w 2020 roku wyniósł 84 mld złotych, a po listopadzie wynosił 13 mld złotych, to znaczy, że w grudniu sięgnął 71 mld złotych, co jest nowym, imponującym rekordem Polski (choć oczywiście budżet centralny nie mówi wszystkiego o finansach publicznych kraju)
+
+<img src="./img/february/budzet2020.png"><br><br>
+
+---
+
+Drugi próg podatkowy:
+
+2009 - 85 528 zł
+
+2021 - 85 528 zł
+
+Polacy w drugim progu podatkowym:
+
+2009 - 387.000
+
+2020 - 1.500.000 (prognoza)
+
+Gdy wprowadzono drugi próg PIT (32%) w 2008 r. by załapać się na wyższą stawkę, trzeba było zarabiać prawie 3-krotność przeciętnego wynagrodzenia, obecnie wystarczy 1,26-krotność.
+
 ---
 
 ### 2019

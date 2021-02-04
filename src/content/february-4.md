@@ -3,7 +3,7 @@ layout: post
 title: 4 lutego
 image: img/february/wielkatrojka.jpg
 author: Tomasz Waszczyk
-date: 2019-02-04T10:00:00.000Z
+date: 2020-02-04T10:00:00.000Z
 tags:
   - Wielka trójka
 draft: false

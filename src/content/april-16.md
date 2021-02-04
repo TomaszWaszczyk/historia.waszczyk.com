@@ -113,7 +113,7 @@ Dzisiaj żadna ze spółek, która notowana była na pierwszej sesji, nie jest j
 ### 1977
 
 Telewizja Polska rozpoczęła emisję serialu wojennego Polskie drogi - w reżyserii Janusza Morgensterna. Akcja rozgrywa się w latach 1939-43 i skupia się ona na losach podchorążego Władysława Niwińskiego, w którego rolę wcielił się Karol Strasburger, oraz kaprala Leona Kurasia - w tej roli Kazimierz Kaczor. Polskie drogi to jeden z najpopularniejszych polskich seriali telewizyjnych wielki portret Polski Walczącej z okresu okupacji hitlerowskiej.
-Na przykładzie losów głównych bohaterów przedstawia się wielowątkową opowieść o Polsce i Polakach znajdujących się pod okupacją hitlerowską. W serialu ukazane są takie tragiczne wątki z naszej historii jak budowa obozu koncentracyjnego w Oświęcimiu, aresztowanie profesorów w Krakowie, pacyfikacja i wysiedlenie mieszkańców Zamojszczyzny oraz powstanie w getcie warszawskim. Wspaniałe role Karola Strasburgera, Kazimierza Kaczora, Włodzimierza Boruńskiego (prywatnie brata stryjecznego Juliana Tuwima) i Henryka Talara.
+Na przykładzie losów głównych bohaterów przedstawia się wielowątkową opowieść o Polsce i Polakach znajdujących się pod okupacją hitlerowską. W serialu ukazane są takie tragiczne wątki z naszej historii jak budowa obozu koncentracyjnego w Oświęcimiu, aresztowanie profesorów w Krakowie, pacyfikacja i wysiedlenie mieszkańców Zamojszczyzny oraz powstanie w getcie warszawskim. Wspaniałe role Karola Strasburgera, Kazimierza Kaczora, Włodzimierza Boruńskiego (prywatnie brata stryjecznego Juliana Tuwima(żyda)) i Henryka Talara.
 
 <img src="./img/october/polskiedrogi.jpg"><br><br>
 
