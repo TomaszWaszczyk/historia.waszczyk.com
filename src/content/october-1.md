@@ -24,6 +24,33 @@ Prędkość 25 razy większa od prędkości dźwięku. Pocisk lata z prędkości
 
 Dekret prezydencji USA który nawołuje do bojkotu wenezuelskiej branży złota - Executive Order 13850.
 
+### 2010
+
+W październiku 2010r. berlińska firma DBM Energy wraz z inną niemiecką firmą Lekker Energie zaprezentowała elektryczne Audi A2, które przejechało około 600 km z Monachium do Berlina, przy średniej prędkości 90 km/h z włączonym ogrzewaniem. oraz oświetleniem.
+Auto było wyposażone w większy pakiet akumulatorów (98 kWh) i według komunikatu prasowego firmy po przyjeździe do Berlina wykorzystane zostało 82 % zgromadzonej w ogniwach energii co oznacza, że Audi mogłoby przejechać nawet 714 km. Na mecie autem miał okazję przejechać się niemiecki minister gospodarki Rainer Brüderle.
+
+Elektryczne Audi A2 wyposażone zostało w pakiet akumulatorów litowo-metalowo-polimerowych (LMP) nazywanych przez producenta, firmę DBM Energy, Kolibri AlphaPolymer Technology.
+Firma ujawniła, że ogniwa pracują ze sprawnością 97% oraz mogą być ładowane nawet w ciągu 6 minut, a akumulatory nie tracą pojemności przez pierwsze 2500 cykli ładowania/rozładowania.
+
+Nieco później w grudniu 2010r. "w niewyjaśnionych okolicznościach" spłonął w garażu DBM Energy testowy samochód, jednak w środku nie było akumulatorów Kolibri AlphaPolymer.
+
+W kwietniu 2011r. DBM Energy poinformowała o ukończeniu niezależnych testów ogniw Kolibri AlphaPolymer oraz samochodu elektrycznego Audi A2 wyposażonego w pakiet Kolibri.
+Kompleksowe testy ogniw przeprowadzone przez German Federal Institute for Materials Research and Testing (BAM - Bundesanstalt für Materialforschung und –prüfung) potwierdziły wysokie bezpieczeństwo ich stosowania.
+Ogniwa były poddawane działaniu wysokich i niskich temperatur oraz ciśnienia, zwierane, przeciążane, dołączane do źródła o przeciwnej biegunowości, poddawane dużym siłom mechanicznym, wibracjom oraz silnym uderzeniom., a także zostały wystawiane na bezpośredni kontakt z ogniem, co nie spowodowało ich zapłonu ani wybuchu.
+DBM Energy podaje żywotność ogniw podczas normalnej pracy na poziomie 5000 cykli ładowania/rozładowania.
+
+Natomiast Dekra zbadała na hamowni osiągi elektrycznego Audi A2 wyposażonego w pakiet Kolibri gromadzący około 62,9 kWh energii. Auto ważące niecałe 1500 kg w teście ECE-R 101 przejechało 454,83 km (zużywając około 13,8 kWh/100 km). Potwierdzona została także sprawność ogniw wynosząca około 97%.
+
+W maju 2011r. firma DBM Energy po raz kolejny prezentuje elektryczne Audi A2 wyposażone w akumulatory LMP Kolibri AlphaPolymer Technology, tym razem w wersji o zasięgu 450 km. Według zapewnień DBM Energy, koszt masowej produkcji samochodów elektrycznych z akumulatorami Kolibri nie będzie wyższy od spalinowych odpowiedników. W tym roku niemiecka firma planuje przeprowadzić całą serie prezentacji auta.
+
+*Mirko Hannemann* twórca DBM Energy twierdzi, że w czerwcu zostaną oddane do testów 3 samochody Audi A2 aby rozwiać wątpliwości co do parametrów technologii Kolibri AlphaPolymer.
+Jednocześnie mówi o potrzebach inwestycji w dalsze badania w wysokości 15 milionów euro.
+
+W tym samym czasie DBM Energy zmienia osobowość prawną i nazwę na Hummingbird Power Systems Ltd, a także adres strony http://dbm-energy.com, na http://kolibri-ag.com. Zawartość strony zostaje pozbawiona jakichkolwiek informacji o akumulatorach trakcyjnych do samochodów elektrycznych.
+Mirko Hannemann zostaje dyrektorem zarządzającym, jednocześnie do zarządu wchodzą Helmuth von Grolmann (były członek zarządu Daimler Benz AG) oraz rzecznik patentowy Richard Leitermann (prawnik, specjalista od prawa gospodarczego i prawa spółek), natomiast Richard Gaul (przez 22 lata dyrektor ds. komunikacji w BMW i od kilku lat konsultant w Federacji Przemysłu w Berlinie) zostaje rzecznikiem i szefem ds. komunikacji Hummingbird Power Systems AG.
+
+Po tych zmianach niektóre materiały video dotyczące przełomowej technologii Kolibri AlphaPolymer zostały usunięte z sieci przez właściciela...
+
 ### 1961
 
 https://en.wikipedia.org/wiki/Defense_Intelligence_Agency

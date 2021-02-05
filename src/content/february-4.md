@@ -38,6 +38,10 @@ Według informatorów portalu już piątego dnia wirtualnego konfliktu przeciwni
 
 ---
 
+<img src="./img/february/cyrk2.jpeg"><br><br>
+
+---
+
 ### 1946
 
 W Trzciannem w województwie podlaskim rozpoczęła się trwająca sześć dni obława funkcjonariuszy Urzędu Bezpieczeństwa Publicznego w Białymstoku i żołnierzy Korpusu Bezpieczeństwa Wewnętrznego na oddział AK-WiN dowodzony przez Władysława Chojnowskiego „Kreta”.

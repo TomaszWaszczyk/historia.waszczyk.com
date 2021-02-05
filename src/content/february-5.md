@@ -33,6 +33,10 @@ Gdy wprowadzono drugi próg PIT (32%) w 2008 r. by załapać się na wyższą st
 
 ---
 
+<img src="./img/february/cyrk.jpg"><br><br>
+
+---
+
 ### 2019
 
 <img src='./img/february/5g.png'><br><br>
