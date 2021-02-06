@@ -8,6 +8,27 @@ tags:
   - Jack Strong
 ---
 
+### 2021
+
+Dzial IT:
+Dzień dobry,
+Pani X, otrzymaliśmy odpowiedź w sprawie Pani problemów ze znikającymi plikami w Outlooku.
+Jeżeli sytuacja wciąż się powtarza, proszę mi odpowiedzieć, czy wyłączając komputer po skończonej pracy wyłącza go Pani poprzez wciśnięcie wpierw Log Off a następnie wyłączenie laptopa?
+Czy może zamyka Pani sesję „X'em" i przechodzi następnie do zamknięcia laptopa?
+Wiem, że to strasznie banalne pytanie, ale żeby zespół mógł się zająć dalej tą sprawą muszą mieć odpowiedź na powyższe pytanie.
+Uprzejmie informuję, iż brak odpowiedzi w przeciągu 12 godzin roboczych zostanie potraktowane jako potwierdzenie rozwiązania a sprawa zostanie zamknięta po naszej stronie.
+Pozdrawiam,
+Y
+Userka X:
+Panie Y – owszem, zamykam jak biały człowiek wszytkie aktywne okna ciżykiem, po czym daję log off z aplikacji i mam jakiegoś opóźnionego windows shella, skutkiem czego dotaję sugierację „do you want to force log off" a ja, jako osoba serca spolegliwego, nie pragnę gwałtem wymuszać i czekam, jak powstaniec na odsiecz zza Wisły, na zakończenie programu. Jak mnie się wyloguje aplikacja, to myszko klikam na start i pokazuje się moim oczom bezmyślnym, pomiędzy innemi oczywista, prostokąt „shut down" to jak go klikam myszko i idę siku.
+Zużywam złośliwie poważne ilości papieru toaletowego, żeby się normy ISO nie zgadzały, potem myję ręce, ale nie używam ręcznika papierowego, bo po primo mnie sumienie rwie przez ten nadmiar papieru toaletowego, a po sekundo zazwyczaj nie ma, bo hydry z ceesu zużyły.
+Potem wracam do pokoju, a mój laptop już jest wyłączony, to ja go wypinam ze stacji dokującej (i tu mnie się zawsze Star Trek nasuwa) i wsadzam do przecenionego flaka z flo z małą dziurką na jednym rogu, ale za dychę, to może mieć dziurki. Laptop we flaku do torby, chyba, ze mam malą, to pod pachę, ale zazwyczaj mam torbę.
+Kładę palto, jak mróz to i czapkie kładę, gaszę światło, przekręcam w zamku klucz i krokiem defiladowym podążam do samochodu swojego francuskiego, co ma nieco zawodny alternator i modlę się żarliwie, żeby odpalił.
+Mam nadzieję, że powyższy opis procedury wypełnił zakres Pańskiego pytania.
+Pozostaję w półprzykucu w oczekiwaniu na dalsze pytania mogące wyeliminować potencjalne przyczyny. Uprzedzając następne pytanie: ten garbaty karzeł, który zazwyczaj szcza do mleka, jak tylko człowiek na kwaśne nastawi, nie dotyka laptopa. On psuje ekspres do kawy...
+Kłaniam grzywo do wykładziny
+X
+
 ### 2004
 
 Zmarł Ryszard Kukliński https://pl.wikipedia.org/wiki/Ryszard_Kukli%C5%84ski

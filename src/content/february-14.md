@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+> eksperymenty genetyczne — prowadzące do narodzin istot „postludzkich” — są warunkiem koniecznym przetrwania: albo człowiek przekształci sam siebie, albo spadnie do poziomu niewolnika. A ponieważ „człowiek jest wyłącznie informacją, bezcielesną strukturą umysłu, nagim frenem, więc rozwój polega na dążeniu do wykształcenia formy, która będzie tożsama z własną informacją. Aby tę formę przenieść z kodu do manifestacji, potrzebna jest informatyka ontologiczna, czyli technika odtwarzania informacji w każdych warunkach, a zatem od warunków niezależna. Pojawianie się wyższych istot wynika z pobudek ewolucyjnych, lecz jest powiązane z pieniędzmi: przyszłość należy do bogatych, którzy będą mogli kupić sobie mądrość, oraz do inteligentnych, którzy potrafią piąć się w górę Krzywej Progresu. Przepaść między feudalnie zorganizowaną arystokracją a niewolniczą resztą, która utrzymuje na własnym poziomie nieistotną demokrację, będzie zatem rosnąć. Brak znaczenia demokracji wynika stąd, że fizyka, nauka mówiąca o siłach, nigdy nie była demokratyczna, a metafizyka — czyli przyszłościowa wiedza o stwarzaniu warunków fizyki — okazuje się metapolityczna. Kto będzie władał ciałem, posiądzie władzę, która wykroczy poza dzisiejszy zestaw ustrojów. Przyszłe społeczeństwa można więc sobie wyobrazić jako równocześnie demokratyczne i feudalne, choć uwarstwienie to zrodzi się nie dzięki przywilejom urodzenia, lecz przywilejom genetycznego odrodzenia.
+
 ### 1946
 
 Rozpoczęły się wysiedlenia ludności niemieckiej z Polski. Decyzję o przeniesieniu Niemców z terytorium Polski, Węgier i Czechosłowacji podjęły zachodnie mocarstwa.

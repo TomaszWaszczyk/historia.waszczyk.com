@@ -9,6 +9,22 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Nie róbmy z Polski PRL. Konferencja Ministra Sprawiedliwości. Na mównicę parę dni temu wychodzi Minister i mówi, że opracował projekt ustawy mającej zapewnić wolność słowa w polskim Internecie i powołującej Radę Wolności Słowa. Organ, który może nałożyć na każdy portal karę do 50 mln zł kary. Jak mówi Minister, członkowie Rady będą wybierani przez Sejm większością 3/5 tak, by każdego członka musiała poprzeć opozycja. Pomyślałem, brzmi dobrze!
+
+Usiadłem do lektury ustawy. Wstyd, że Minister opowiada takie rzeczy. Owszem, Radę ma powoływać większość 3/5 głosów, ale gdy nie uda się w pierwszym głosowaniu wybrać członka, zarządza się drugie głosowanie w którym do wyboru wystarczy większość zwykła. Czyli? Organ mający 6 letnią kadencję, mający decydować które wpisy w polskim Internecie naruszają prawo, ma wybrać obóz władzy. Niezależnie kim by on był, jest to absolutny skandal.
+
+Najbardziej poraża, że konstrukcja projektu naprawdę daje szansę na niezauważenie powyższego. Redakcja przepisów poprzenosiła najbardziej niebezpieczne z nich w różne niezwiązane ze sobą miejsca. Efekt? Wczoraj na antenie jednego z najlepiej oglądanych programów, prof. S. Sowiński którego bardzo szanuję mówi do mnie "popieram ustawę".
+
+Nie wolno jej popierać! Destrukcja wolności sieci w najlepszym wydaniu.
+
+### 2020
+
+"Facebook would never put it this way, but algorithms are meant to erode free will, to relieve humans of the burden of choosing, to nudge them in the right direction. Algorithms fuel a sense of omnipotence, the condescending belief that our behavior can be altered, without our even being aware of the hand guiding us, in a superior direction. That's always been a danger of the engineering mindset, as it moves beyond its roots in building inanimate stuff and beings to design a more perfect social world."
+
+~ Franklin Foer. World Without Mind: The Existential Threat of Big Tech
+
 ### 1981
 
 Prezes Rady Ministrów generał Wojciech Jaruzelski (zdjęcie) w wygłoszonym w Sejmie exposé wystosował "Apel o 90 spokojnych dni".

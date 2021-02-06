@@ -8,6 +8,34 @@ tags:
   - Wołyń
 ---
 
+### 2021
+
+Nevada bill would allow tech companies to create governments
+
+CARSON CITY, Nev. (AP) — Planned legislation to establish new business areas in Nevada would allow technology companies to effectively form separate local governments.
+
+Democratic Gov. Steve Sisolak announced a plan to launch so-called Innovation Zones in Nevada to jumpstart the state’s economy by attracting technology firms, Las Vegas Review-Journal reported Wednesday.
+
+The zones would permit companies with large areas of land to form governments carrying the same authority as counties, including the ability to impose taxes, form school districts and courts and provide government services.
+
+The measure to further economic development with the “alternative form of local government” has not yet been introduced in the Legislature.
+
+Sisolak pitched the concept in his State of the State address delivered Jan. 19. The plan would bring in new businesses at the forefront of “groundbreaking technologies” without the use of tax abatements or other publicly funded incentive packages that previously helped Nevada attract companies like Tesla Inc.
+
+Sisolak named Blockchains, LLC as a company that had committed to developing a “smart city” in an area east of Reno after the legislation has passed.
+
+The draft proposal said the traditional local government model is “inadequate alone” to provide the resources to make Nevada a leader in attracting and retaining businesses and fostering economic development in emerging technologies and industries.
+
+The Governor’s Office of Economic Development would oversee applications for the zones, which would be limited to companies working in specific business areas including blockchain, autonomous technology, the Internet of Things, robotics, artificial intelligence, wireless, biometrics and renewable resource technology.
+
+Zone requirements would include applicants owning at least 78 square miles (202 square kilometers) of undeveloped, uninhabited land within a single county but separate from any city, town or tax increment area. Companies would have at least $250 million and plans to invest an additional $1 billion in their zones over 10 years.
+
+The zones would initially operate with the oversight of their location counties, but would eventually take over county duties and become independent governmental bodies.
+
+The zones would have three-member supervisor boards with the same powers as county commissioners. The businesses would maintain significant control over board membership.
+
+The governor’s economic development office did not respond to questions about the zones Wednesday.
+
 ### 1953
 
 Rada Państwa wydała dekret o "tworzeniu, obsadzaniu i znoszeniu duchownych stanowisk kościelnych"

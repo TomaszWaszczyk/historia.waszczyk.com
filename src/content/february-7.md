@@ -3,7 +3,7 @@ layout: post
 title: 7 lutego
 image: img/february/wwiii.jpeg
 author: Tomasz Waszczyk
-date: 2019-02-07T10:00:00.000Z
+date: 2020-02-07T10:00:00.000Z
 tags:
   - Coronavirus
 draft: false

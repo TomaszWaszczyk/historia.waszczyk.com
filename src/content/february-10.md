@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Nie, to nie epidemia Covida jest teraz największym zagrożeniem dla naszego społeczeństwa. Epidemia chujowości zniszczy nas dużo wcześniej. Chujowość to stosowanie najniższych wystarczających standardów. To niewymaganie od siebie niczego. Chujowość to bezmyślna wiara w "done is better than perfect", jakby to była co najmniej stoicka maksyma.
+
+Epidemia chujowości nasiliła się, gdy nazwę stopnia "mierny", tej wstydliwej dwói, za którą można drzewiej było dostać od starych wciry, zmieniono na "dopuszczający". "Good enough", powiedzielibyśmy w korpo-speaku, a po naszemu - "chujowo". O ile jest różnica w zrobieniu czegoś miernie, a dostatecznie, o tyle pomiędzy dopuszczającym, a dostatecznym tej różnicy już nie ma. Nie ma po co starać się o tróję, jeśli już dwója dopuszcza i jest OK!
+
+Oglądam lekcje przygotowane w ramach akcji TVP Szkoła i jakże boli ta chujowość, wybrzmiewająca z niemal każdego kadru dzielnie wyprodukowanego na szybko z udziałem prawdziwych nauczycieli ze Szczecina (duma, rodzinne miasto!)
+
+Nauczycielka podczas lekcji dla 3. klasy tłumaczy, "o co chodzi z tą średnicą". Gniazdo bociana ma średnicę dwa metry." Nauczycielka bierze taśmę o długości 2 metrów, pokazuje, że nawet ma te 2m zaznaczone, łączy ją w pętlę i pokazuje: oto średnica 2 metry. No kurwa! To nie jest wypadek przy pracy! Ona po prostu myli pojęcia obwodu i średnicy, przekazuje swoją niewiedzę dzieciom w szkole, jako nauczyciel, od lat, a teraz jeszcze przez telewizję publiczną! Ona tego nie robi sama w domu, bez zewnętrznego nadzoru, ktoś to nagrywa, ktoś to montuje, ktoś to wrzuca do internetu. I co, nikt nie widzi błędu? Nikt nie widzi, że nie przystoi tak chujowo uczyć?
+
+Lekcja angielskiego, klasa 4. TVP Ja pierdolę. Na elektrotablicy wyświetla się:Hello students [dwie spacje]! Hello there [dwie spacje]! Lerning English might be greatPrzez 25 minut e-lekcji w polskiej państwowej telewizji PRAWDZIWA NAUCZYCIELKA angielskiego wyświetla na tablicy błąd ortograficzny i zjebaną interpunkcję, i to jest OK! I to jest OK, że nie używa rodzajników! I to jest OK, że uczy normalnie oprócz tego w szkole, że taką chujową lekcję TVP nagrywa, że fundacja PGNiG za to płaci.
+
+Pomijam paździerzowość tych wszystkich materiałów video, te warsztatowe niedoróbki, tę nędzę reżysersko-produkcyjną, dziesięć budżetów poniżej TikToka Pana Prezydenta Andrzeja Dudy, który z radośnie podnieconą miną odpala profil na TikToku, by zachęcać dzieci do esportu, jaki prezydent jest cool - co tam epidemia, co tam, że dzielicie jeden komputer na całą rodzinę, co tam, że nie ma procedur obsługi pacjenta z symptomami Covida poza #zostańwdomu. Co tam chujowość! Bawmy się i grajmy w gry!
+
+We mnie się gotuje. Kwarantanna wzmaga ten ból. Wspominam te wszystkie chwile, gdy w ostatnich latach od powrotu do Polski zauważałam symptomy chujowości, ale wierzyłam, że to incydenty. Teraz, w chwili kryzysu, ten tumor chujowości stoi przed nami w całej okazałości. Chujowi posłowie, którzy nakładają sobie maseczki na czoło. Chujowe rozporządzenia pisane na kolanie już po ich obwieszczeniu. Chujowa telewizja publiczna. Chujowa edukacja. Chujowa służba zdrowia. Chujowe procedury.
+
+Ta chujowość to wyłącznie nasza odpowiedzialność. Tolerując chujowość, obniżamy standardy. Każdy, kto miał chujowego współpracownika wie, jak to wpływa na morale wszystkich wokół. Błagam, podnieśmy trochę poprzeczkę. Nie gódźmy się na chujowość! Wymagajmy od siebie więcej! Pójdźmy o tę jedną milę dalej, niż wystarczy na "dopuszczający"!
+
 ### 1962
 
 Na raka krtani zmarł Władysław Broniewski - poeta, tłumacz, żołnierz Legionów Polskich, uczestnik wojny polsko-bolszewickiej; 1940-41 więziony w ZSRR; żołnierz Armii Andersa, autor lewicowych wierszy polityczno-agitacyjnych oraz liryki żołniersko-patriotycznej , społecznej i osobistej. Napisał m.in. poemat ,,Komuna Paryska'', wiersz ,,Bagnet na broń'', cykl poetycki ,,Anka'' poświęcony zmarłej córce. Odznaczony Krzyżem Srebrnym Orderu Wojennego Virtuti Militari (1921), Krzyżem Walecznych - czterokrotnie oraz Krzyżem Komandorskim z Gwiazdą Orderu Odrodzenia Polski.

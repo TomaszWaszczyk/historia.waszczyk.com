@@ -272,4 +272,37 @@ https://waitbutwhy.com/2019/08/story-of-us.html
 
 ---
 
+Dziecko otoczone krytyką uczy się winić;Dziecko otoczone ośmieszeniem uczy się być nieufnym;Dziecko otoczone wrogością uczy się walczyć;Dziecko otoczone gniewem uczy się zadawać ból;Dziecko otoczone niezrozumieniem uczy się nie słyszeć innych;Dziecko otoczone oszustwem uczy się kłamać;Dziecko otoczone wstydem uczy się czuć się winnym;... i tylko silne dusze mogą złamać ten krąg ...
+
+Dziecko otoczone wsparciem uczy się chronić;Dziecko otoczone czekaniem uczy się być cierpliwym;Dziecko otoczone pochwałami uczy się być pewnym siebie;Dziecko otoczone uczciwością uczy się być uczciwym;Dziecko otoczone bezpieczeństwem uczy się ufać;Dziecko otoczone aprobatą uczy się szanować samego siebie;Dziecko otoczone miłością uczy się kochać i obdarzać miłością;Dziecko otoczone swobodą wyboru uczy się być odpowiedzialnym za swoje decyzje.... i taka edukacja jest trudna do złamania ...
+
+---
+
+Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
+
+3 lata- zbieranie swoich zabawek- samodzielne mycie zębów- wkładanie wyznaczonych ubrań do pralki lub kosza- ubieranie się- pomoc w karmieniu zwierzaków
+
+4- 5 lat- ścieranie kurzu- sprzątanie ze stołu- zmiana pustej rolki po papierze toaletowym- wyciąganie zakupów z toreb- ścielenie swojego łóżka
+
+6 - 8 lat- opróżnianie i załadowanie zmywarki- składanie prania- podlewanie kwiatów- ścieranie kurzu- pomoc w ogródku (grabienie liści itp.)
+
+9 - 11 lat- wyjście do sklepu- pomoc w przygotowaniu obiadu- wyrzucanie śmieci- odkurzanie- wyprowadzanie psa- samodzielna pobudka (z budzikiem)
+
+12 lat i więcej- opieka nad rodzeństwem- pomoc w sprzątaniu kuchni i łazienki- wspólne mycie samochodu
+
+Pamiętaj, dziecko wcale nie jest zbyt małe, żeby nie robić nic w domu - przyda Ci się pomoc, a dla niego to niesamowita lekcja zaradności.
+
+---
+
+Chcesz zrobić dziecku prezent na święta? Nie masz pomysłu ? To ja mam!
+
+Przytulaj go i całuj, mów że go kochasz i że jesteś. NIe krzycz i nie narzekaj, że nie ma
+sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, czytaj, chodź na spacery i graj w gry. Wygłupiaj się bo TY tez jesteś dzieckiem.WARTO!Przytulanie, całkowanie wyzwala w mózgu dziecka ogromne pokłady hormonów i neuroprzekaźników takich jak oksytocyna, dopamina czy serotonina. Oksytocyna to hormon miłości. Powoduje, że pomiędzy dzieckiem a rodzicem buduje się niepowtarzalna więź. Dopamina daje motywację do działania bo uruchamia ośrodek nagrody w mózgu.Serotonina sprawia, że lepiej rozumiemy i regulujemy nasze emocje.TO jest prawdziwy prezent! Na całe życie!na zdjeciu: prof. Rebecca Saxe i dwu-miesięcznego syn Percy. Profesor na co dzień zajmuje się badaniem funcjonalności mózgu.Skany mózgu syna prof. Rebecci Saxe to niepodważalny dowód na to, że rodzicielstwo, bliskość, ma ogromny sens. Tak nie wiele może zdziałać tak wiele.
+
+---
+
+"Society has provided [children] no rituals by which they become members of the tribe, of the community. All children need to be twice born, to learn to function rationally in the present world, leaving childhood behind.
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

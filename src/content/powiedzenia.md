@@ -3561,6 +3561,24 @@ Patron męskości: święty spokój
 
 „Molti nemici, molto onore”
 
+Charakter wznosi się ponad intelekt. Wielka dusza jest wystarczająco silna, by żyć równiez dobrze jak myśleć.
+
+I don't like the word "motivation". I think it is simply a good lesson.
+
+Lubię mężczyzn, którzy mają przyszłość i kobiety, które mają przeszłość. Oscar Wilde http://cytatybaza.pl/cytat/robotnicy-nie-maja-ojczyzny.html
+
+"nie przeżywamy nic, ale mamy dobry kadr" Sokół & Marysia
+
+problemy pierwszego świata życie przed śmiercią
+
+Niedojrzała miłość mówi potrzebuję cię i cię kocham, dojrzała miłość mówi kocham cię więc cię potrzebuję.
+
+When one teaches two learn.
+
+If you can’t afford housing you can’t afford a family
+
+„Wielu wrogów, wielki splendor”
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

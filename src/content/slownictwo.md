@@ -1363,6 +1363,16 @@ desowietyzacja
 
 bunkieryzacja elit
 
+https://pl.wikipedia.org/wiki/Okulografia
+
+https://pl.wikipedia.org/wiki/Sangwinik
+
+https://en.wikipedia.org/wiki/Brainwashing
+
+https://en.wikipedia.org/wiki/Hikikomori
+
+https://en.wikipedia.org/wiki/Information_silo
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
