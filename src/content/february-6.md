@@ -30,6 +30,15 @@ Dlatego zapraszam na stronę zapytajsanepid.pl. Okazało się ostatnio, że prac
 
 ---
 
+### 1940
+
+Został przedstawiony tzw. plan Pabsta, przewidujący 10-krotne zmniejszenie i przebudowę Warszawy.
+Zespół urbanistów pod kierunkiem Friedricha Pabsta, od 1939 r. naczelnego architekta Warszawy, zaprezentował projekt „Die neue Deutsche Stadt Warschau” (Nowe niemieckie miasto Warszawa). Przewidywał on przebudowanie stolicy, a przede wszystkim zredukowanie jej do niewielkiego, kilkudziesięciotysięcznego miasteczka. Na prawym brzegu Wisły, na mniej więcej 6 km kw., miały powstać osiedla dla niemieckich urzędników administrujących podbitymi terenami na Wschodzie. Natomiast na Pradze na powierzchni zaledwie 1 km kw. miały powstać domy dla polskich niewolników, których liczebność szacowano na 30-80 tys. Jednym z pomysłów niemieckich urbanistów było wybudowanie w miejscu Zamku Królewskiego wielkiej hali widowiskowej.
+
+<img src="./img/february/pabsta.jpg"><br><br>
+
+---
+
 ### 1922
 
 Rodzi się Witold Kieżun https://en.wikipedia.org/wiki/Witold_Kie%C5%BCun

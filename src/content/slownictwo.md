@@ -1361,6 +1361,8 @@ ludzka wkładka do hut i kopalń
 
 desowietyzacja
 
+https://sjp.pl/trzpiotka
+
 bunkieryzacja elit
 
 https://pl.wikipedia.org/wiki/Okulografia
@@ -1372,6 +1374,12 @@ https://en.wikipedia.org/wiki/Brainwashing
 https://en.wikipedia.org/wiki/Hikikomori
 
 https://en.wikipedia.org/wiki/Information_silo
+
+https://en.wikipedia.org/wiki/Nomophobia
+
+https://pl.wikipedia.org/wiki/Analiza_transakcyjna
+
+tumiwisizm
 
 ---
 

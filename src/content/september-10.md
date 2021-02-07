@@ -20,6 +20,8 @@ tags:
 
 ---
 
+<!-- 10.09.2014 -- > > Co zrobić żeby nie mieć kaca moralnego z powodu że się traci czas ? ? To bardzo proste- należy czas wykorzystywać dobrze i nie marnować go i skupiać się na jednej rzeczy a nie robiąc tysiąca rzeczy na raz, to ułatwia życie, uspokaja i powoduje porządek w głowie i duchu ;-) -->
+
 ### 1996
 
 Demonstracja przeciwko otwarciu pierwszej w Sankt Petersburgu restauracji sieci McDonald's. W 1992 jak pamiętam otwarli McDonalda w Warszawie na ul. Świętokrzyskiej. Byłem wtedy w wojsku w Zegrzu i koledzy, którzy wyszli na "stałkę" (przepustka stała) przynieśli nam na spróbowanie po hamburgerze. Padł wtedy chyba rekord gości w jednym dniu - coś koło 30.000 ludzi? Drugi raz wracając do domu, na przepustce, zaliczyłem otwarcie McDonalda na Francuskiej w Katowicach - grudzień 1992 - 33.000 ludzi w jeden dzień.

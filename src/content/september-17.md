@@ -68,4 +68,12 @@ Na zdjęciu mapka zaczerpnięta z Wielkiego Atlasu Kampanii Wrześniowej Wojciec
 
 ---
 
+"Sukurcze (koło Lidy) – rodzinny majątek Pileckich, który zachował się przed rosyjską konfiskatą po powstaniu styczniowym, dzięki temu, że był zapisany na panieńskie nazwisko prababki Witolda Pileckiego – Marii Domeykówny. Od 1918 roku mieszkali tu rodzice i rodzeństwo Witolda, który na stałe sprowadził się do Sukurcz w 1926. Do wybuchy II wojny światowej mieszkał tu z żoną i dziećmi. Po agresji sowieckiej na Polskę 17 września 1939, tereny te zostały zajęte przez Armię Czerwoną, a w wyniku powojennej zmiany granic (postanowienia konferencji w Jałcie, 1945) znalazły się w obrębie ZSRS (Białoruskiej SRS). Do lat 90. XX wieku majątek został całkowicie zdewastowany, rozebrany dwór, zasypane stawy, wykarczowane stare drzewa. Dziś po majątku w Sukurczach nie ma już śladu".
+
+<img src="./img/september/pilecki.jpg"><br><br>
+
+<img src="./img/september/pilecki2.jpg"><br><br>
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
