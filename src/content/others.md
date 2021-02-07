@@ -141,6 +141,31 @@ https://pl.wikipedia.org/wiki/Habituacja
 
 https://en.wikipedia.org/wiki/Pitirim_Sorokin
 
+### Jedzenie, food
+
+Zupa: Kasza pęczak, pieczarki, marchewka, cebula, piepsz
+
+https://ncez.pl/przepisy
+
+Do karafki GROHE Blue Water możesz dodać np.:
+
+– Sok z połowy
+
+ + 2 plasterki oraz 3 plasterki świeżego imbiru
+
+– 2-3 łodygi bazylii, szałwii, tymianku lub rozmarynu i 2-3 plasterki 
+
+– garść malin, borówek, truskawek lub dowolnych jagód
+
+ kurkuma, imbir
+
+< < < < KOKSOPLACKI > > > >
+ 4 jajka wymieszać, pokrojone jabłko, owiec do potrzeby, cynamon na mocno nagrzanej patelni
+
+Co do herbaty proste: najlepiej lipton earl grey, pozniej jak lekko ostygnie zeby nie stracil wlasciwosci miod, świeży tarty cynamon, w pomarańcze wbijasz gożdziki, świeży imbir plastry albo z sokowirówki wyciskasz troche, cytryna :) wszystkiego wg uznania
+
+Szakszuka
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

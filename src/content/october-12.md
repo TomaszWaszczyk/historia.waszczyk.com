@@ -63,6 +63,8 @@ W rocznicę tego wydarzenia w 1950 roku 12.10 ustanowiono Dniem Wojska Polskiego
 
 <img src="./img/october/lenino.jpg"/><br><br>
 
+> Zapewne przez skromność przy omawianiu składu oficerskiego nie wspomniano , że oficerami politycznymi w Dywizji byli wyłącznie Żydzi ( poza Sokorskim ) . Włodzimierz Sokorski pisał  do Stalina , że żołnierze kręcą nosami , gdy rządzą nimi Żydzi  i sugerował zmiany kadrowe.
+
 ---
 
 ### 1939

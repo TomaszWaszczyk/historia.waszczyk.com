@@ -12,6 +12,7 @@ draft: false
 ### 2021
 
 > Coraz częściej mieszkania znajomych wyglądają jak apartamenty hotelowe. Oto estetyka sukcesu klasy średniej
+> Most "modern" people place so much emphasis on "I want to travel" because they have no culture and spiritual connection in their own lives. This is not a message for idiots.
 
 ### 2020
 

@@ -76,7 +76,6 @@ W kościele pod wezwaniem św. Stanisława w Siedlcach odbył się demonstracyjn
 Krzysztof Kamil Baczyński napisał utwór pt. ''Erotyk'', który zadedykował najdroższej Basi Drapczyńskiej
 Krzysztof i Basia poznali się 1 grudnia 1941 roku podczas zajęć na tak zwanych tajnych kompletach. Basia Drapczyńska była córką znanego warszawskiego drukarza, właściciela drukarni przy ulicy Pięknej. Młodzi pobrali się 3 czerwca 1942 roku w kościele na Solcu w Warszawie. Niestety ich miłość zakończyła się tragicznie. Krzysztof poległ w Powstaniu Warszawskim 4 sierpnia 1944 roku w pałacu Blanka, trafiony kulą w głowę przez niemieckiego snajpera ulokowanego na budynku Teatru Wielkiego. Barbara zmarła kilka tygodni później 1 września 1944 roku trafiona w głowę odłamkiem szkła podczas powstania warszawskiego, również w tych samych okolicach.
 
-
 > Erotyk
 
 > W potoku włosów twoich, w rzece ust

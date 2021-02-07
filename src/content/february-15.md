@@ -75,6 +75,10 @@ Mary Berg zapisała w swoim pamiętniku z getta warszawskiego: ,,Ulice getta są
 
 <img src="./img/february/berg.jpg"/><br><br>
 
+### 1938
+
+https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy
+
 ### 1910
 
 1910 r. urodziła się w Warszawie Irena Sendlerowa, Sprawiedliwa wśród Narodów Świata, dama Orderu Orła Białego, kierowniczka referatu dziecięcego Rady Pomocy Żydom („Żegoty”). W czasie II wojny światowej zaangażowała się w działalność konspiracyjną oraz wiele akcji społecznych. W wyniku działań Ireny Sendlerowej i współpracujących z nią osób uratowano ok. 2500 żydowskich dzieci, wywożąc je z warszawskiego getta i ukrywając u polskich rodzin, w sierocińcach oraz klasztorach. W czasie Powstania Warszawskiego była sanitariuszką na Mokotowie. Po wojnie pracowała w opiece społecznej. Przez długie lata jej działalność podczas okupacji była nieznana. W 2007 i 2008 została zgłoszona do Pokojowej Nagrody Nobla. Zmarła 12 maja 2008 roku.

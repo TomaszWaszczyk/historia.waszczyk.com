@@ -3579,6 +3579,9 @@ If you can’t afford housing you can’t afford a family
 
 „Wielu wrogów, wielki splendor”
 
+“Bad men need nothing more to compass their ends, than that good men should look on and do nothing.”
+― **John Stuart Mill**, Inaugural Address Delivered to the University of St Andrews, 2/1/1867
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
