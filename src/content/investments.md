@@ -7,7 +7,17 @@ image: img/others/end-war.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
+<!-- 
+alpha generation, smart beta, gamma scalping, delta hedging and option theta
+https://en.wikipedia.org/wiki/Lucas_critique
 
+Kiedy wolumen na GPW to 2 mld PLN popatrzeć co parę dni później (2-3 dni) dzieje się na parach z PLN, pownno być rozliczenie czyli instytucje powinny kupować tą walutę.
+
+Cena obligacji a stopa procentowa.
+stopa procentowa a PZU
+budżet na marketing jako barometr gospodarki
+
+ -->
 ### Inwestycje, pomysły, przemyślenia
 
 IM większe są prognozy inflacji tym większe są oczekiwania do zysków.
@@ -26,8 +36,10 @@ Dlatego obligacje przynoszą największe zyski wtedy, gdy stopy procentowe spada
 ---
 
 P/E - firma 1/10
- E / P - lokata 10%
- Chodzi o to że lokata to odwrotność spółki.
+
+E / P - lokata 10%
+
+Chodzi o to że lokata to odwrotność spółki.
 
 ---
 

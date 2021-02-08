@@ -3,7 +3,7 @@ layout: post
 title: 9 lutego
 image: img/february/wolyn.png
 author: Tomasz Waszczyk
-date: 2019-02-09T10:00:00.000Z
+date: 2020-02-09T10:00:00.000Z
 tags:
   - Wołyń
 ---
@@ -61,7 +61,7 @@ Gestapowcy znaleźli go w mieszkaniu przy ulicy Garncarskiej. Pośmiertnie awans
 
 ### 1943
 
- uznaje się za początek rzezi na Wołyniu.
+Uznaje się za początek rzezi na Wołyniu.
 
 Pasywność AK, do którego dochodziły pogłoski o pogromach Polaków pozostawia spory niesmak. Armia Krajowa snuła dopiero plany o Akcji Burza, w dowództwie coraz częściej rozmawiano o wywołaniu powstania w Warszawie przeciwko okupacji niemieckiej.
 
