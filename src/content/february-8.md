@@ -11,6 +11,14 @@ draft: false
 
 ### 2021
 
+Tesla Corp:
+
+> In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity. As part of the policy, which was duly approved by the Audit Committee of our Board of Directors, we may invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future. Thereafter, we invested an aggregate $1.50 billion in bitcoin under this policy and may acquire and hold digital assets from time to time or long-term. Moreover, we expect to begin accepting bitcoin as a form of payment for our products in the near future, subject to applicable laws and initially on a limited basis, which we may or may not liquidate upon receipt.
+
+https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_20201231.htm
+
+---
+
 Na Waszą prośbę przygotowuję listę lektur, z którymi należy się zapoznać, jeżeli chce się zrozumieć marksizm. Materiał podzielę na kilka części, aby nie zarzucić Was od razu ogromem informacji.
 Zacznijmy od marksizmu klasycznego.
 

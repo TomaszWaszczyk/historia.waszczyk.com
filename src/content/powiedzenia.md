@@ -3584,6 +3584,8 @@ If you can’t afford housing you can’t afford a family
 
 A śmierć zabierze wszystko, co nagromadziłeś - twoją władzę, twoje pieniądze, twój prestiż. Nic ci nie pozostanie, nawet ślad. Całe twoje życie zostanie unieważnione. Śmierć przyjdzie i zniszczy wszystko, co stworzyłeś, śmierć przyjdzie i udowodni, że wszystkie twoje pałace były tylko domkami z kart
 
+Zmień się zanim będziesz musiał
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
