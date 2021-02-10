@@ -29,6 +29,104 @@ Pozostaję w półprzykucu w oczekiwaniu na dalsze pytania mogące wyeliminować
 Kłaniam grzywo do wykładziny
 X
 
+---
+
+Rząd wprowadził już 45 podwyżek podatków i opłat! Szaleństwo podatkowe dobija polską gospodarkę!
+OTO LISTA 45 PODWYŻEK PODATKÓW:
+
+1. podatek bankowy, czyli od kredytów
+
+2. podatek handlowy, czyli od zakupów
+
+3. danina solidarnościowa
+
+4. opłata emisyjna od paliw
+
+5. opłata przejściowa
+
+6. tzw. opłata mocowa za prąd
+
+7. podatek „galeryjny" - początkowo od galerii handlowych i biurowców
+
+8. następnie od wszelkich nieruchomości komercyjnych
+
+9. w tym nawet od budynków z mieszkaniami na wynajem
+
+10. opłata za wpis do rejestru BDO
+
+11. opłata recyklingowa
+
+12. podwyższenie i rozszerzenie zakresu obowiązywania opłaty recyklingowej
+
+13. opłata denna od przystani
+
+14. opłata wodna
+
+15. opodatkowanie wkładów pieniężnych wnoszonych do firm
+
+16. oraz przychodów z dziedziczonego majątku lub otrzymanego jako darowizna, którego nie będzie 
+można już amortyzować
+
+17. opłata jakościowa za badanie techniczne pojazdów
+
+18. podwyżka VAT na wiele produktów spożywczych
+
+19. utrzymanie wyższych stawek VAT do 8% i 23%
+
+20. a następnie na czas nieokreślony
+
+21. podwyżka podatku akcyzowego o 10 proc. na alkohole
+
+22. na wyroby tytoniowe
+
+23. i na e-papierosy
+
+24. podwyżka opłat za wywóz śmieci
+
+25. zamrożenie progów PIT
+
+26. likwidacja liniowego PIT dla przedsiębiorców których dochody roczne przekraczają 1 milion złotych
+
+27. obniżenia do zera kwoty wolnej od podatku od wysokich zarobków
+
+28. pozbawienie wiele grup podatników możliwości korzystania z 50% kosztów uzyskania przychodów
+
+29. likwidacja możliwość pomniejszania przychodów z działalności operacyjnej o koszty uzyskania przychodów kapitałowych
+
+30. podatek deszczowy
+
+31. zaostrzenie sposobu opodatkowania farm wiatrowych
+
+32. zaostrzenie sposobu naliczania akcyzy od samochodów sprowadzanych z zagranicy
+
+33. podwyżka opłaty paliwowej
+
+34. podatek od serwisów VOD
+
+35. podatek cukrowy
+
+36. coroczna podwyżka składek ZUS
+
+37. podwyżka opłaty OZE
+
+38. podatek od tzw. małpek (czyli małych napojów alkoholowych)
+
+39. podwyżka abonamentu RTV
+
+40. podatek od przekształcenia spółek w celu skorzystania z estońskiego CIT, podatek wynosi 19 proc.
+
+41. podatek od plastiku (unijny podatek, poparty przez premiera Morawieckiego na szczycie UE, naliczany jest od 1 stycznia)
+
+42. Podwyżka opłat sądowych
+
+43. ograniczenie ulgi abolicyjnej
+
+44. podwójne opodatkowanie spółek komandytowych
+
+45. podwyżka stawek maksymalnych opłat lokalnych; decyzją rządu zwiększone zostały maksymalne stawki podatków od nieruchomości, od środków transportu, od psa oraz od opłaty uzdrowiskowa i reklamowej.
+
+---
+
 ### 2004
 
 Zmarł Ryszard Kukliński https://pl.wikipedia.org/wiki/Ryszard_Kukli%C5%84ski

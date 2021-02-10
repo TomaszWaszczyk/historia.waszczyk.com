@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Lucas_critique
 
 Kiedy wolumen na GPW to 2 mld PLN popatrzeć co parę dni później (2-3 dni) dzieje się na parach z PLN, pownno być rozliczenie czyli instytucje powinny kupować tą walutę.
 
+https://en.wikipedia.org/wiki/IS%E2%80%93LM_model
+
 Cena obligacji a stopa procentowa.
 stopa procentowa a PZU
 budżet na marketing jako barometr gospodarki

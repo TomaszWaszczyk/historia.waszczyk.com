@@ -3,13 +3,19 @@ layout: post
 title: 10 lutego
 image: img/february/broniewski.jpg
 author: Tomasz Waszczyk
-date: 2019-02-10T10:00:00.000Z
+date: 2020-02-10T10:00:00.000Z
 tags:
   - Władysław Broniewski
 draft: false
 ---
 
 ### 2021
+
+<img src="./img/february/media.png"><br><br>
+
+> Wirtualna Polska włączyła się w akcję protestacyjną przeciwko wprowadzaniu szkodliwej dla mediów składki "z tytułu reklamy". Jesteśmy też sygnatariuszem listu mediów do władz Rzeczpospolitej Polskiej w tej sprawie. Sprzeciwiamy się wprowadzeniu dodatkowego obciążenia mediów działających na polskim rynku.
+
+---
 
 Nie, to nie epidemia Covida jest teraz największym zagrożeniem dla naszego społeczeństwa. Epidemia chujowości zniszczy nas dużo wcześniej. Chujowość to stosowanie najniższych wystarczających standardów. To niewymaganie od siebie niczego. Chujowość to bezmyślna wiara w "done is better than perfect", jakby to była co najmniej stoicka maksyma.
 
@@ -26,6 +32,21 @@ Pomijam paździerzowość tych wszystkich materiałów video, te warsztatowe nie
 We mnie się gotuje. Kwarantanna wzmaga ten ból. Wspominam te wszystkie chwile, gdy w ostatnich latach od powrotu do Polski zauważałam symptomy chujowości, ale wierzyłam, że to incydenty. Teraz, w chwili kryzysu, ten tumor chujowości stoi przed nami w całej okazałości. Chujowi posłowie, którzy nakładają sobie maseczki na czoło. Chujowe rozporządzenia pisane na kolanie już po ich obwieszczeniu. Chujowa telewizja publiczna. Chujowa edukacja. Chujowa służba zdrowia. Chujowe procedury.
 
 Ta chujowość to wyłącznie nasza odpowiedzialność. Tolerując chujowość, obniżamy standardy. Każdy, kto miał chujowego współpracownika wie, jak to wpływa na morale wszystkich wokół. Błagam, podnieśmy trochę poprzeczkę. Nie gódźmy się na chujowość! Wymagajmy od siebie więcej! Pójdźmy o tę jedną milę dalej, niż wystarczy na "dopuszczający"!
+
+---
+
+> Podhale. Chcą kupować hotele i pensjonaty za bezcen. Przychodzą z walizkami z pieniędzmi
+
+Tak teraz robi się kapitał...
+Jesteś podczepiony instytucjonalnie do drukarki? Masz spółkę, której obligacje kupi EBC? To przychodzisz z walizką pieniędzy do Podhalan, by za bezcen kupić ich aktywa, których nie obroni ani właściciel, ani sprzeniewierzony suwerenowi pisowski rząd. Ten zamknął bowiem autorytarnie gospodarkę, wygenerował wierzytelność na 400 mld w krótkim okresie czasu i robi teraz dobrą minę do złej gry.
+
+Czy mam żal do polityków i wyborców PiS? Nie, umówiliśmy się w Magdalence na ustrój, w ramach którego komuniści uwłaszczą się na majątku Polaków, z kasy FOZZ komunistyczny prywaciarz zbuduje Mainstream Media, a suweren potrzebny bedzie władzy jedynie raz na cztery lata, wszakże po wcześniejszej indoktrynującej obróbce. Teraz w ramach tego układu dokonujemy wyborów i ODPOWIADAMY ZA NIE PERSONALNIE. Nie, nie nasi reprezentanci we władzy ustawodawczej i wykonawczej - my sami. To my okradany dziś Polaków z Podhala i Sopotu, MIEJMY TYLKO ODWAGĘ TO PRZYZNAĆ. To my jutro okradniemy górników ze Śląska, pojutrze resztę klasy średniej. Ty i ja. Poprzez premiera naszego demokratycznego rządu, naszych ludzi w niższej i wyższej izbie Parlamentu.
+
+Nieznajomość prawideł ekonomii i politycznych kłamstw nie jest okolicznością łagodzącą.
+
+
+
+---
 
 ### 1962
 

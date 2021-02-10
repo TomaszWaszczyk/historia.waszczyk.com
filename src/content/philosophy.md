@@ -11,6 +11,8 @@ tags:
 
 Skropnie przyjmować, spokojnie oddawać.
 
+Kartezjusz, Platon, Kant
+
 Stoicyzm
 
 Machiavelli
