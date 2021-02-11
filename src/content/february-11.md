@@ -3,7 +3,7 @@ layout: post
 title: 11 lutego
 image: img/february/kuklinski.jpg
 author: Tomasz Waszczyk
-date: 2019-02-11T10:00:00.000Z
+date: 2020-02-11T10:00:00.000Z
 tags:
   - Jack Strong
 ---
@@ -145,6 +145,13 @@ Dwa dni pózniej "Alek" i inny harcmistrz Jan Rossman "Pan Janek"przetransportow
 W odwecie za zdemontowanie tablicy z pomnika Kopernika Niemcy zdemontowali część pomnika Jana Kilińskiego. Tu znowu do akcji wkroczył Aleksy Dawidowski,który odkrył, że fragment tego pomnika hitlerowcy schowali na terenie Muzeum Narodowego.
 Następnego ranka po akcji "Kiliński"
 zaskoczonych mieszkańców Warszawy powitał napis na murach muzeum o treści: "Jam tu. Ludu W-wy. Kiliński Jan". Jego autorem był niezłomny "Alek".
+
+### 1482
+
+Hiszpański dominikanin Tomás de Torquemada otrzymał nominację na inkwizytora.
+Tomás de Torquemada, dominikanin i spowiednik królowej Izabeli Kastylijskiej, otrzymał nominację na inkwizytora. Rok później został zwierzchnikiem wszystkich trybunałów w Kastylii, a w 1488 r. stanął na czele tzw. Supremy - Rady Najwyższej i Generalnej Inkwizycji, która była najwyższym trybunałem inkwizycyjnym dla całej Hiszpanii. Torquemada pochodził z rodziny żydowskiej, która przeszła na katolicyzm, a za sprawą swej 16-letniej działalności inkwizytorskiej przeszedł do historii jako najbardziej znany inkwizytor w historii tej instytucji oraz symbol fanatyzmu religijnego, bezwzględności i okrucieństwa. Liczba ludzi posłanych przez Torquemadę na stos jest trudna do określenia, starsze badania mówiły o blisko 9 tys., ale współcześni naukowcy uważają ją za zawyżoną.
+
+<img src="./img/february/tomas.jpg"><br><br>
 
 ---
 

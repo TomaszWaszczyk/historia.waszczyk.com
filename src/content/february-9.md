@@ -36,6 +36,12 @@ The zones would have three-member supervisor boards with the same powers as coun
 
 The governor’s economic development office did not respond to questions about the zones Wednesday.
 
+---
+
+Tesla $TSLA has de-risked the acquisition of #bitcoin by public companies and accelerated the digital transformation of corporate balance sheets. Treasurers are now thinking about how to convert a non-performing asset into the best performing asset.
+
+---
+
 ### 1953
 
 Rada Państwa wydała dekret o "tworzeniu, obsadzaniu i znoszeniu duchownych stanowisk kościelnych"

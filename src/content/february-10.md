@@ -14,6 +14,9 @@ draft: false
 <img src="./img/february/media.png"><br><br>
 
 > Wirtualna Polska włączyła się w akcję protestacyjną przeciwko wprowadzaniu szkodliwej dla mediów składki "z tytułu reklamy". Jesteśmy też sygnatariuszem listu mediów do władz Rzeczpospolitej Polskiej w tej sprawie. Sprzeciwiamy się wprowadzeniu dodatkowego obciążenia mediów działających na polskim rynku.
+> Whoever controls the media, the images, controls the culture. (Allen Ginsberg)
+> The advancement and diffusion of knowledge is the only guardian of true liberty. (James Madison)
+> Jeśli wierzysz w wolność słowa, to wierzysz w wolność głoszenia poglądów, które ci się nie podobają. (Noam Chomsky)
 
 ---
 

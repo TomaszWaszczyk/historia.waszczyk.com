@@ -479,6 +479,18 @@ za­mknię­tych okien
 
 ---
 
+Kiedy przyszli...
+Martin Niemöller, 1892-1984
+(niemiecki pastor luterański; wiersz napisany w obozie w Dachau w 1942 r.)
+Kiedy przyszli po Żydów, nie protestowałem. Nie byłem przecież Żydem.
+Kiedy przyszli po komunistów, nie protestowałem. Nie byłem przecież komunistą.
+Kiedy przyszli po socjaldemokratów, nie protestowałem.
+  Nie byłem przecież socjaldemokratą.
+Kiedy przyszli po związkowców, nie protestowałem. Nie byłem przecież związkowcem.
+Kiedy przyszli po mnie, nikt nie protestował. Nikogo już nie było.
+
+---
+
 <https://pl.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez>
 
 https://pl.wikipedia.org/wiki/Iwan_Franko
