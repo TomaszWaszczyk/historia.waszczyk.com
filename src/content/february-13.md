@@ -52,9 +52,46 @@ a cały paradoks tej konstrukcji sprowadza się do tego, że powoli coraz mniej 
 
 ---
 
+### 1980
+
+W Warszawie - zmarł Marian Rejewski - matematyk i kryptolog, który wspólnie z Henrykiem Zygalskim i Jerzym Różyckim złamał szyfr Enigmy. „Enigmą” nazywano maszynę szyfrującą, używaną przez niemieckie armię i dyplomację w okresie międzywojennym i podczas II wojny światowej. System kodowania został złamany przez trzech matematyków z Uniwersytetu Poznańskiego: Mariana Rejewskiego, Jerzego Różyckiego i Henryka Zygalskiego, pracujących dla Biura Szyfrów Oddziału II Sztabu Głównego Wojska Polskiego. Pozwoliło to na zbudowanie w 1933 r. repliki „Enigmy” i odczytywanie niemieckich depesz. W tym celu stworzono specjalny ośrodek wywiadu w Pyrach pod Warszawą. W lipcu 1939 r., w atmosferze zagrożenia wojną, Polacy podzielili się z wywiadami francuskim i brytyjskim swoimi osiągnięciami, przekazując im po replice „Enigmy”. Umożliwiło to aliantom, przede wszystkim Brytyjczykom, rozszyfrowywanie niemieckich i później także japońskich depesz (tzw. Operacja Ultra)."
+
+<img src="./img/february/rejewski.jpg"><br><br>
+
+<img src="./img/february/rejewski2.jpg"><br><br>
+
 ### 1964
 
 https://pl.wikipedia.org/wiki/Ihor_Ko%C5%82omojski
+
+### 1945
+
+Armia Czerwona zdobyła Budapeszt.
+Bezwarunkowa kapitulacja Budapesztu bronionego przez siły niemieckie, węgierskie i rumuńskie zakończyła jedną z najkrwawszych bitew II wojny światowej - oblężenie zaczęło się w grudniu 1944 r., 18 stycznia Sowieci opanowali Peszt, czyli wschodnią część miasta, a walki o resztę miasta trwały jeszcze ponad trzy tygodnie. Po kapitulacji nastąpił trwający dwa dni rabunek miasta i masowe gwałty - uważa się, że podczas oblężenia i zaraz po nim sowieccy żołnierze zgwałcili ok. 50 tys. kobiet (choć są szacunki mówiące nawet o 200 tys.) Liczba zabitych, rannych i zaginionych obrońców miasta i jego mieszkańców szacowana jest na 99 do 150 tys. (w tym 40 tys. zabitych cywili). Po stronie radzieckiej zginęło i zaginęło 80 tys. żołnierzy. Aż 80 proc. budynków legło w gruzach bądź zostało uszkodzonych.
+
+<img src="./img/february/budapeszt.jpg"><br><br>
+
+### 1706
+
+III wojna północna: zdecydowane zwycięstwo wojsk szwedzkich nad dwukrotnie liczniejszą armią sasko-rosyjską w bitwie pod Wschową.
+Wojska szwedzkie liczyły ponad 9 tysięcy (ponad 5,5 tysiąca jazdy, resztę stanowiła piechota). Dowodził nimi feldmarszałek Carl Gustaf Rehnskiöld. Znacznie liczniejsze oddziały mieli jego przeciwnicy – połączone siły sasko-rosyjskie były ponad dwa razy liczniejsze niż Szwedzi, miały one 32 działa (Szwedzi nie dysponowali żadnym) i były kierowane przez Johanna Matthiasa von der Schulenburga.
+Początkowo doszło do starcia oddziałów konnych, jednak punktem przełomowym bitwy było natarcie szwedzkiej piechoty. Oddziały piesze Rehnskiölda zaatakowały na lewe skrzydło przeciwników, gdzie stały pułki rosyjskie. Zostały one zaatakowane także od tyłu przez szwedzką jazdę. Szyk sasko-rosyjski załamał się, żołnierze zaczęli uciekać. W pogoń za uciekającymi ruszyła jazda szwedzka. Pod Wschową olbrzymie straty poniosły wojska koalicji antyszwedzkiej – zginęło ponad 7 tysięcy żołnierzy, kolejne 7 tysięcy dostało się do niewoli, stracono wszystkie działa. Szwedów zginęło ponad 400, około tysiąca poniosło rany.
+Starcie pod Wschową przeszło do historii nie ze względu na działania zbrojne, a na to, co się stało już po bitwie. Z rozkazu dowódcy szwedzkiego rozstrzelano 500 jeńców rosyjskich. Miała być to zemsta Rehnskiölda na okrucieństwo Rosjan, jakiego rzekomo dopuszczali się w czasie walk na terenie Inflant.
+
+<img src="./img/february/wschowa.jpg"><br><br>
+
+### 1633
+
+Galileusz przybył do Rzymu aby stanąć przed trybunałem inkwizycyjnym.
+Galileusz cierpiący w lochach inkwizycji, przez nią torturowany i w końcu spalony na stosie to jeden z obrazów, który kształtuje współczesne wyobrażenia o tym genialnym astronomie, a zarazem o niesławnej postawie Kościoła, walczącego z nauką i postępem. Teraz w roku astronomii, obchodzonym w 401. rocznicę pierwszego użycia teleskopu właśnie przez Galileusza, obrazy te odżywają z nową siłą.
+W rzeczywistości jednak Galileusz nie spłonął na stosie, ani chwili nie spędził w więzieniu, nie był też torturowany, a nawet nie został uznany za heretyka. Owszem, był sądzony. W ciągu całego procesu traktowano go jednak z wielkim szacunkiem. Tragedia Galileusza polega na tym, że występował przeciwko temu, co dla wszystkich było oczywiste jak słońce na niebie, które rano wschodzi, a wieczorem zapada. Głęboko przekonany o prawdziwości teorii Kopernikańskiej, przedstawiał ją jako fakt, a nie teorię, choć nie potrafił jej jeszcze dowieść.
+O procesie Galileusza, jego czarnej legendzie opowiada książka podsekretarza Papieskiej Rady ds. Kultury, ks. Melchora Sáncheza de Toca, pod tytułem: „Galileusz i Watykan”, a także wywiad, którego udzielił on agencji Zenit.
+Ks. Sánchez de Toca przypomina, że na początku XVII w. Kościół w sprawie interpretacji Pisma Świętego kierował się nauczaniem Soboru Trydenckiego, którego stanowisko było bardzo ostrożne, ale i rozsądne jak na owe czasy. Biblię należało odczytywać w sposób dosłowny, chyba, że jakaś dowiedziona prawda sugerowałaby interpretację alegoryczną bądź duchową. Kościół był zatem gotów przyjąć teorię Kopernikańską, uznać, że to Ziemia kręci się wokół Słońca, gdyby Galileusz był w stanie to udowodnić. Tymczasem Galileusz dowodów jeszcze nie posiadał. Głosił jednak wyższość teorii Kopernikańskiej nad ptolemejskim geocentryzmem i chciał, by według Kopernika interpretowano też Pismo Święte. Zrobił więc o jeden krok za daleko i za to właśnie był sądzony.
+Proces Galileusza miał charakter dyscyplinarny. Astronom naruszył bowiem zakaz nauczania teorii Kopernikańskiej, a także podstępem zdobył imprimatur dla swej książki, w której ukazuje wyższość Kopernika nad Ptolemeuszem. Na procesie nie uznano Galileusza za heretyka. Stwierdzono jedynie, że w świetle ówczesnej wiedzy, z powodu braków dowodu na to, że Ziemia kręci się wokół Słońca, kopernikański heliocentryzm jest sprzeczny z tym, co mówi Biblia. Tylko tyle. Tak zresztą myślał cały ówczesny świat. Największych oponentów Galileusz miał nie w Kościele, lecz w świecie akademickim, który jego twierdzenia uważał za absurdalne. Również protestanci zgadzali się pod tym względem z Kościołem katolickim. Jeszcze w 1670 r. uniwersytet w Uppsali w Szwecji potępił jednego ze swych studentów za głoszenie tez Kopernikańskich.
+Patrząc na sprawę Galileusza z dzisiejszego punktu widzenia, musimy jednak stwierdzić, że i jego sędziowie nie byli bez winy. Ich pracę osądziła przed niemal trzydziestu laty specjalna komisja powołana przez Jana Pawła II. Na polecenie Papieża przebadano Tajne Archiwum Watykańskie. W dokumentach inkwizycji nie znaleziono jednak żadnych sensacji. Kard. Paul Poupard, który przedstawił wyniki dochodzenia, uznał jednak, że sędziowie Galileusza popełnili błąd. Z jednej strony nie potrafili rozróżnić prawd wiary od wielowiekowej kosmologii. Z drugiej – przestraszyli się, niesłusznie, że przewrót kopernikański mógłby naruszyć tradycję katolicką, zagrozić wierze, zwłaszcza maluczkich. Dlatego też wydawało się im, że ich obowiązkiem jest zakazać nauczania tej naukowej teorii. „Dziś już wiemy – mówi ks. Sánchez de Toca – że zakazywanie nauczania teorii naukowych jest błędem. Nie do Kościoła bowiem należy rozsądzanie, czego można naukowo dowieść, a czego nie”.
+Choć Galileusz nie skończył w więzieniu ani nie został spalony na stosie, w czym myli się go prawdopodobnie z Giordanem Bruno, został on jednak skazany na areszt domowy. Spotkały go też inne upokorzenia. Co tydzień musiał odmawiać siedem psalmów pokutnych. Nakazano mu odwołać niedowiedzione twierdzenia, a książka, w której o nich pisał, trafiła na indeks. Wyrok ten był niewątpliwie upokarzający, ale nie miał nic wspólnego z prawdziwym więzieniem, torturami czy stosem. Co więcej, Galileusz, który z czasem stał się ikoną oświecenia i wolnomyślicielstwa, ani przez chwilę nie przestał być przekonanym, choć wcale nie przykładnym katolikiem. Zależało mu na reputacji Kościoła. I właśnie dlatego zabiegał, aby władze kościelne nie potępiły teorii Kopernikańskiej. Wierzył bowiem, że Kopernik miał rację, że kiedyś uda się tego dowieść, a wtedy autorytet Kościoła zostałby poważnie naruszony. I rzeczywiście, Kościół nigdy nie potępił heliocentryzmu, choć dziś mało kto o tym pamięta.
+
+<img src="./img/february/galileusz.jpg"><br><br>
 
 ### 1241
 

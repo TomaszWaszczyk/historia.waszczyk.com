@@ -17,6 +17,18 @@ W 1939 na ochotnika zaciągnął się do wojska i uczestniczył w polskiej wojni
 
 <img src="./img/march/holubek.jpg"/><br><br>
 
+### 1940
+
+Simo Häyhä 🇫🇮 (1905-2002), fiński strzelec wyborowy
+
+Na zdjęciu młody Simo Häyhä ps "Biała śmierć" najskuteczniejszy snajper w historii wojen. Podczas wojny zimowej (1939-1940) zabił 705 żołnierzy Armii Czerwonej. Używał fińskiej wersji karabinu Mosin M28 z muszką i szczerbinką zamiast celownika optycznego, co uzasadniał tym, że przy celowniku optycznym snajper musi podnieść głowę wyżej co zwiększa ryzyko wykrycia, a poza tym nie ma możliwości odbicia się światła od soczewek celownika.
+6 marca 1940 roku został postrzelony w twarz, pocisk przeszył jego szczękę na wylot. Zanim stracił przytomność , zdążył zabić jeszcze 
+radzieckiego żołnierza, który go postrzelił. Jeden z kolegów opowiadał że po postrzale "brakowało mu połowy twarzy".
+Wkrótce po wojnie awansowano go z rangi kaprala do stopnia podporucznika.
+Nikt inny w historii Finlandii nie został awansowany tak wysoko w tak krótkim czasie.
+
+<img src="./img/march/hayha.jpg"><br><br>
+
 ### 1938
 
 W Theater des Volkes w Berlinie odbył się Kongres Polaków w Niemczech. Był on odpowiedzią na pogarszające się warunki życia mniejszości polskiej w Niemczech po dojściu Hitlera do władzy oraz na szykany stosowane przez niemieckie władze. W zjeździe uczestniczyło 5 tysięcy delegatów. Była to największa manifestacja polskiej jedności narodowej na terenie Niemiec. Ogłoszono wtedy tzw " Pięć prawd Polaków",które brzmiały:

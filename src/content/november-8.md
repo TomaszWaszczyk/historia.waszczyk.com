@@ -31,6 +31,10 @@ Gigantyczny dług będzie coraz silniej ograniczał rozwój gospodarczy. Obligac
 
 ---
 
+### 1986
+
+https://en.wikipedia.org/wiki/Aaron_Swartz
+
 ### 1926
 
 Premier Józef Piłsudski (zdjęcie) wydał okólnik, w którym czytamy:
