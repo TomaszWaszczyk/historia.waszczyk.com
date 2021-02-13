@@ -3,7 +3,7 @@ layout: post
 title: 15 lutego
 image: img/february/granice.jpg
 author: Tomasz Waszczyk
-date: 2019-02-15T10:00:00.000Z
+date: 2020-02-15T10:00:00.000Z
 tags:
   - Rosja
 draft: false
@@ -20,6 +20,8 @@ draft: false
 <img src="./img/february/20210130_205809.jpg"><br><br>
 
 <img src="./img/february/20210130_205818.jpg"><br><br>
+
+<img src="./img/february/20210130_205827.jpg"><br><br>
 
 ### 1951
 
