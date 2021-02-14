@@ -58,6 +58,20 @@ Tę zbliżającą się wolność więźniowie czuli już w styczniu. - Stało na
 
 Powstaje Armia Krajowa
 
+Z rozkazu Naczelnego Wodza gen. Władysława Sikorskiego Związek Walki Zbrojnej został przemianowany na Armię Krajową. Na jej czele stanął gen. Stefan Rowecki „Grot”. Zadaniem Armii Krajowej było tworzenie struktur wojskowo-organizacyjnych na czas okupacji, mobilizację społeczeństwa do walki bieżącej. Ochrona Polskiego Państwa Podziemnego oraz odtworzenie armii na czas otwartej walki o niepodległość, czyli przygotowanie kraju do powstania powszechnego. Armia Krajowa była najliczniejszą formacją konspiracyjno-wojskową podczas II wojny światowej, której liczebność w szczytowym okresie wynosiła ok. 400 tys. ludzi.
+Rozkazem podanym depeszą o numerze z dziennika podawczego O.VI L. dz. 627/42 Wódz Naczelny gen. Władysław Sikorski przemianował Związek Walki Zbrojnej na Armię Krajową.
+1. Znoszę dla użytku zewnętrznego nazwę ZWZ. -Wszyscy żołnierze w czynnej służbie wojskowej w Kraju stanowią "Armię Krajową" podległą Panu Generałowi, jako jej dowódcy.
+2. Stanowisko Pana Generała nosi nazwę Dowódcy Armii Krajowej.
+3. Pewne specjalne uprawnienia Pana Generała w powyższym charakterze zostaną określone w osobnej instrukcji.
+4. Nazwa ZWZ lub inne nazwy konspiracyjne mogą być zachowane na użytek wewnętrzny według uznania Pana Generała.
+5. Rozkaz powyższy proszę podać do wiadomości Delegata Rządu.
+Naczelny Wódz /-/ Sikorski generał broni.
+Rota przysięgi AK:
+„W obliczu Boga Wszechmogącego i Najświętszej Marii Panny Królowej Korony Polskiej, kładę swe ręce na ten święty Krzyż, znak męki i Zbawienia. Przysięgam być wiernym Ojczyźnie mej, Rzeczpospolitej Polskiej, stać nieugięcie na straży Jej honoru i o wyzwolenie Jej z niewoli walczyć ze wszystkich sił, aż do ofiary mego życia. Prezydentowi Rzeczypospolitej i rozkazom Naczelnego Wodza oraz wyznaczonemu przezeń dowódcy Armii Krajowej będę bezwzględnie posłuszny, a tajemnicy dochowam niezłomnie cokolwiek by mnie spotkać miało.
+Przyjmuję cię w szeregi żołnierzy Armii Polskiej walczącej z wrogiem w konspiracji o wyzwolenie Ojczyzny. Twym obowiązkiem będzie walczyć z bronią w ręku. Zwycięstwo będzie twoją nagrodą. Zdrada karana jest śmiercią.”
+
+<img src="./img/february/armiakrajowa.jpg"><br><br>
+
 ### 1919
 
 Rozpoczęła się wojna polsko-bolszewicka.
@@ -75,6 +89,22 @@ II wojna polsko-rosyjska: do obozu króla Zygmunta III Wazy pod Smoleńskiem prz
 W 1609 r. wybuchła wojna Rzeczypospolitej z Rosją. Na początku 1610 r. bojarowie, niezadowoleni z rządów cara Wasyla Szujskiego, ofiarowali koronę carską Władysławowi. Rokowania w tej kwestii prowadził hetman wielki koronny Stanisław Żółkiewski. On też zawarł w imieniu królewicza odpowiedni układ z bojarami i zaprzysiągł warunki elekcji pod Moskwą w dniu 27 sierpnia 1610 r. Koronacja Władysława na cara miała przypieczętować unię Rzeczypospolitej i Rosji. Rozpoczęto nawet bić monety z imieniem nowego cara Władysława Zygmuntowicza (ros. Владислав Жигимонтович). Jednak niechęć Zygmunta III wobec przyjęcia przez syna prawosławia – co było warunkiem bojarów rosyjskich do objęcia tronu cara Rosji – przekreśliła te plany. Wojna polsko-rosyjska trwała jeszcze kilka lat, aż do rozejmu zawartego w styczniu 1619 r. w Dywilinie. I chociaż Władysław nigdy nie włożył na głowę korony carskiej, tytuł wielkiego księcia nosił do 1635 r., nie zważając, że Rosjanie, zrażeni polską polityką, wybrali innego władcę – Michała Romanowa.
 
 <img src="./img/february/zygmuntiii.jpg"/><br><br>
+
+Wojna pomiędzy II Rzeczpospolitą a Rosją Radziecką nie została nigdy wypowiedziana, niełatwo zatem określić, kiedy dokładnie miała swój początek. Do niedawna przyjmowano, że konflikt wybuchł 14 lutego 1919 r.
+Wojna rozpoczęła się 14 lutego 1919 starciem koło miasteczka Mosty na Białorusi, gdzie wysunięte poza wycofujące się jednostki niemieckie oddziały wojska polskiego powstrzymały dalszy marsz na zachód w ramach operacji "Cel Wisła" oddziałów Frontu Zachodniego Armii Czerwonej. Szczupłe siły polskie, składające się z 12 batalionów piechoty, 12 szwadronów kawalerii i 3 baterii artylerii, działały tam na dwóch, dość równomiernie obsadzonych odcinkach frontu. Formacjami odcinka południowego (rzeka Prypeć - miasteczko Szczytno), czyli Grupy Podlaskiej, przemianowanej potem na Grupę Poleską, dowodził gen. Antoni Listowski. Jego oddziały prawym swym skrzydłem utrzymywały łączność z Grupą Wołyńską gen. Edwarda Rydza-Śmigłego i koncentrowały się głównie pod Antopolem na kierunku Brześć-Pińsk i koło Berezy Kartuskiej. Oddziały odcinka północnego (Szczytno-Skidel) należały do Dywizji Litewsko-Białoruskiej gen. Wacława Iwaszkiewicza-Rudoszańskiego, który swoje oddziały skupiał przede wszystkim w rejonie Wołkowyska. Na tych pozycjach wiązano niewielkie siły Armii Czerwonej, której wysiłek wojenny skupiony był jeszcze wówczas przede wszystkim na walce z oddziałami białych.
+Na początku marca formacje zgrupowań polskich przeszły do akcji zaczepnej, opanowały na wschodzie Słonim (2 marca) i Pińsk (5 marca), a na północy dotarły pod Lidę, gdzie zatrzymały się na kilka tygodni. Dalsze decyzje w sprawie działań na wschodzie zostały podjęte w pierwszej dekadzie kwietnia, zgodnie z wolą Józefa Piłsudskiego, który uznał konieczność przejęcia inicjatywy na północno-wschodnim teatrze wydarzeń wojennych.
+16 kwietnia 1919 wojska polskie rozpoczęły ofensywę. Główne zadanie, jakim było zajęcie Wilna, realizowała grupa jazdy pułkownika Władysława Beliny-Prażmowskiego (9 szwadronów kawalerii i pluton artylerii konnej) oraz grupa piechoty generała Rydza-Śmigłego (3 bataliony piechoty).
+Na Lidę uderzyły oddziały generała Zygmunta Lasockiego, na Baranowicze i Nowogródek grupa generała Stefana Mokrzeckiego, a na Łuniniec generała Antoniego Listowskiego.
+17 kwietnia opanowano Lidę, 18 kwietnia Nowogródek, 19 kwietnia Baranowicze i Wilno. Po zajęciu Wilna Józef Piłsudski wydał 22 kwietnia 1919 odezwę do mieszkańców byłego Wielkiego Księstwa Litewskiego deklarując samostanowienie wszystkich narodowości przedrozbiorowej Rzeczypospolitej Obojga Narodów.
+Dalsze operacje na tym froncie prowadzone przez generała Stanisława Szeptyckiego, przy współudziale wojsk wielkopolskich (m.in. 15 Pułk Ułanów pod dowództwem ppłk. Władysława Andersa) i części "błękitnej armii" generała Hallera doprowadziły do zdobycia Mińska, Bobrujska i Borysowa.
+Szeptycki, stając na czele nowo utworzonego Frontu Litewsko–Białoruskiego miał do dyspozycji następujące grupy operacyjne:
+gen. Mokrzeckiego (rejon Baranowicz)
+gen. Lasockiego (rejon Nowogródka),
+płk. Ferdynanda Zarzyckiego (na wschód od Lidy)
+gen. Rydza-Śmigłego (rejon Wilna)
+Na północnym skrzydle wojska polskie nawiązały łączność z wojskami łotewskimi. W styczniu 1920 Wojsko Polskie zdobyło Dyneburg, który przekazano Łotwie.
+W końcu 1919 front wschodni na całej swej długości przebiegał w sposób następujący: Uszyca (lewy dopływ Dniestru) – Płoskirów – Słucz (prawy dopływ Prypeci) – Uborć (prawy dopływ Prypeci) – Ptycz (lewy dopływ Prypeci), a dalej na północ przez Bobrujsk, wzdłuż Berezyny, a następnie przez Lepel i Połock do Dyneburga.
+We wrześniu 1919 kody szyfrowe zarówno Armii Ochotniczej gen. Antona Denikina jak i przede wszystkim kody szyfrowe Armii Czerwonej zostały złamane przez polski radiowywiad pod kierownictwem por. Jana Kowalewskiego. Miało to rozstrzygające znaczenie dla podejmowania decyzji przez Naczelnego Wodza Józefa Piłsudskiego.
 
 ### 44 p.n.e.
 

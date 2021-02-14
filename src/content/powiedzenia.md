@@ -3588,6 +3588,9 @@ Zmień się zanim będziesz musiał
 
 You're not unhappy. You're just not grateful.
 
+W istocie rzeczy, nie ma nic bardziej przykrego, jak być na przykład bogatym, pochodzić z porządnej rodziny, mieć przyjemną powierzchowność, być dosyć wykształconym, niegłupim, nawet  dobrym, i jednocześnie nie posiadać żadnego talentu, żadnej cennej właściwości, żadnego nawet dziwactwa, ani jednej własnej idei, być zdecydowanie „takim jak wszyscy". Majątek, owszem, jest, ale nie rotszyldowski; rodzina zacna, ale niczym się nie odznaczająca; powierzchowność dosyć przyzwoita, ale nic nie mówiąca; wykształcenie solidne, ale nie wiadomo, jak je wykorzystać; rozum, owszem, jest, ale bez własnych idei; serce niezłe, ale bez odrobiny szlachetności itd., itd. we wszystkim. Takich ludzi jest na świecie ogromnie dużo, i nawet o wiele więcej, niż się wydaje; dzielą się oni, jak i wszyscy inni ludzie, na dwie główne kategorie: ograniczonych i „znacznie mądrzejszych". Pierwsi są szczęśliwsi. Zwykły człowiek „ograniczony" z łatwością może sobie wyobrazić, że jest niezwykły i oryginalny, i cieszyć się z tego bez najmniejszych wahań."
+Fiodor Dostojewski
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

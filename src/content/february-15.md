@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 lutego
-image: img/february/granice.jpg
+image: img/february/bolszewizm2.jpg
 author: Tomasz Waszczyk
 date: 2020-02-15T10:00:00.000Z
 tags:
