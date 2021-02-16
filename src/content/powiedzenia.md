@@ -3593,6 +3593,8 @@ Fiodor Dostojewski
 
 "Mathematics, as it's generally taught in American school systems, can be a saintly mother of the subject. It climbs logically and majestically from addition through subtraction multiplication, and division. Then it sweeps up towards the heavens of mathematical beauty. But math can also be a wicked stepmother. She is utterly unforgiving if you happen to miss any steps of the logical sequence-and missing a step is easy to do. All you need is a disruptive family life, a burned-out teacher, or an unlucky extended bout with illness-even a week or two at a critical time can throw you off your game. Or as with the case with me, simply no interest or seeming talent whatsoever."
 
+You Spot It, You've Got It
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

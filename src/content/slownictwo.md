@@ -1385,6 +1385,10 @@ https://pl.wikipedia.org/wiki/Marszand
 
 SPOF - single point of failure
 
+wishes circle
+
+
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

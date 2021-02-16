@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 2021
+
+> “We should all look at what we have learned from this epidemic, because there will be another epidemic coming." - Bill Gates
+
+---
+
+Wykorzystując lockdown spółka skarbu państwa przejęła popularną warszawską restaurację DRUKARNIA na Pradze razem z wyposażeniem, dokumentacją firmy oraz kasami fiskalnymi. Właściciele nie mogą wypłacić pensji pracownikom ani zrobić raportów do Urzędu Skarbowego.
+
+---
+
 ### 1943
 
 Rozkaz Reichsführera-SS, Heinricha Himmlera (zdjęcie) z dnia 16 lutego 1943 roku dotyczący warszawskiego getta:
@@ -35,6 +45,13 @@ W szwajcarskiej willli w Morges należącej do Ignacego Paderewskiego (zdjęcie)
 Zamiarem ich było powołanie Paderewskiego na stanowisko prezydenta, zaś na stanowisko premiera Wincentego Witosa. Oprócz tego wystosowano postulat przywrócenia w Polsce demokracji i zacieśnienia sojuszu z Francją.
 
 <img src="./img/february/paderewski.jpg"/><br><br>
+
+### 1933
+
+Czechosłowacja, Rumunia i Jugosławia zawarły pakt Małej Ententy.
+Celem Małej Ententy było utrwalenie w tej części Europy układu polit., powstałego w wyniku traktatów pokojowych z Węgrami i Bułgarią po I wojnie świat., zwłaszcza przeciwdziałanie restauracji Habsburgów na Węgrzech i rewanżyzmowi węg.; Francja wykorzystywała Małą Ententę jako jeden z gł. instrumentów swej polityki wobec Niemiec i ZSRR; w celu umocnienia wpływów w państwach Małej Ententy Francja zawarła traktaty przyjaźni i przymierza z Czechosłowacją (1924), Rumunią (1926) i Jugosławią (1927); 1933, po dojściu A. Hitlera do władzy, podpisano Pakt Organizacyjny, powołujący ponadpaństw. struktury Małej Ententy: Stałą Radę (ds. polit.) i Radę Gosp.; w 2. poł. lat 30., pod presją Niemiec i Włoch, doszło do wzrostu napięć między państwami Małej Ententy: 1937 zostały naruszone warunki sojuszów (układy Jugosławii z Bułgarią i Włochami oraz zgoda Stałej Rady na równouprawnienie Węgier w dziedzinie zbrojeń); podpisanie układu monachijskiego 1938 spowodowało faktyczny rozpad Małej Ententy.
+
+<img src="./img/february/malaententa.jpg"><br><br>
 
 ### 1922
 
