@@ -1387,7 +1387,9 @@ SPOF - single point of failure
 
 wishes circle
 
+mental model
 
+closing thoughts
 
 ---
 

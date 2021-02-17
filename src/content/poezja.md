@@ -507,7 +507,11 @@ https://pl.wikipedia.org/wiki/Sylvia_Plath
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
 
-<!-- "W dupie mam Polskę i jebać za grosze.
+<!-- 
+
+Hłasko, Jarmusch, Noe, Bertolucci, Lennon, Komeda.
+
+"W dupie mam Polskę i jebać za grosze.
 Anglia czy Niemcy tam się wynoszę.
 Liczą się funty, liczy się euro, 
 Spieprzam na zachód tam tego pełno. 

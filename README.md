@@ -6,6 +6,8 @@ Bolszewicy a złoto
 
 Bierut - ustawa złoto platyna dewizy
 
+niewolnicy w rzymie = brak rodzin
+
 maksymilian kolbe gazeta
 
 http://www.ivrozbiorpolski.pl/index.php?page=sienko-vel-kazimierowicz
