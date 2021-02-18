@@ -3,10 +3,14 @@ layout: post
 title: 18 lutego
 image: img/february/flugblat.jpg
 author: Tomasz Waszczyk
-date: 2018-02-18T10:00:00.000Z
+date: 2020-02-18T10:00:00.000Z
 tags:
-  - Historia
+  - Big Tech
 ---
+
+### 2021
+
+Big Techom słusznie zarzuca się wykorzystywanie pozycji rynkowej do miażdżenia konkurencji. Czy kogoś więc zdziwi, że Google właśnie zakazało wszelkich ogłoszeń usług ślusarskich pojawiających się w wynikach wyszukiwania w Belgii, Holandii, Niemczech i Szwecji? Zakaz wprowadzony został pod pretekstem, że większość zamieszczonych ofert pochodzi od nieuczciwych rzemieślników. Śmiechu warte: Big Tech w roli sędziego w kwestiach etycznych norm prowadzenia biznesu.
 
 ### 1945
 

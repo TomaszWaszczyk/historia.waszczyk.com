@@ -3,11 +3,17 @@ layout: post
 title: 19 lutego
 image: img/february/Galician_slaughter_in_1846.PNG
 author: Tomasz Waszczyk
-date: 2019-02-19T10:00:00.000Z
+date: 2020-02-19T10:00:00.000Z
 tags:
   - Niewolnictwo
 draft: false
 ---
+
+### 2021
+
+Oficjalne dane GUS są zatrważające - od kwietnia (czas pierwszego lockdownu) do września 2020 z rynku zniknęło 2055 firm gastronomicznych, a ponad 4300 zawiesiło działalność! Długi branży sięgają już blisko 700 milionów zł... (dane nie uwzględniają jeszcze ostatnich 4 miesięcy!) Bartosz Marczuk, wiceszef Polskiego Funduszu Rozwoju (PFR), oficjalnie przyznał, że pomoc finansowa skierowana do branży gastronomicznej trafiła do 4045 przedsiębiorców. Tymczasem punktów gastronomicznych w Polsce jest nieco ponad... 70 tysięcy.
+
+<img src="./img/february/gastronomia2021.jpg"><br><br>
 
 ### 2020
 
