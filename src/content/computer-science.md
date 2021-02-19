@@ -9,6 +9,8 @@ tags:
 draft: false
 ---
 
+https://en.wikipedia.org/wiki/Eventual_consistency
+
 https://pl.wikipedia.org/wiki/Robert_Noyce
 
 https://en.wikipedia.org/wiki/Operational_transformation - google wykorzystuje

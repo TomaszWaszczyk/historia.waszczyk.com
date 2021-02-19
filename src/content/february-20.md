@@ -3,11 +3,20 @@ layout: post
 title: 20 lutego
 image: img/february/goring.jpg
 author: Tomasz Waszczyk
-date: 2019-02-20T10:00:00.000Z
+date: 2020-02-20T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
 ---
+
+### 2021
+
+China vs Zuckerberg flip sides of the same coin, both are childish bullies.
+Bullies might hit, kick, or push to hurt people, or use words to call names, tease, and even threaten people with harm..
+
+"In the end, most bullies wind up in trouble. If they keep acting mean and hurtful, sooner or later they may have only a few friends left. The power they wanted slips away fast. Other kids move on and leave bullies behind."
+
+<img src="./img/february/zuck.jpeg"><br><br>
 
 ### 1945
 

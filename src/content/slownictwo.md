@@ -1391,6 +1391,65 @@ mental model
 
 closing thoughts
 
+Terminus
+Podobny raczej do rycerza w zbroi aniżeli do automatu, chwiał się po woli na boki. Prawy bark wyglądał na wymieniony, biodra i uda nosiły wyraźne ślady spawania, dokoła żelaznych szwów blacha, odpuszczona żarem, przybrała granitową niemal barwę.
+
+Ao Murbras
+Znany draper gwiazdowy, dzielny Ao Murbras, wybrał się na Tairię samotrzeć z dwoma psami w skafandrach, by zapolować na zagadkowe stworzenia. Po pięciu dniach wrócił sam, wycieńczony do ostateczności.
+
+Indioci
+Istoty chodziły na dwu nogach, miały ręce, głowy, oczy, uszy i usta; co prawda usta te znajdowały się pośrodku czoła, uszy pod brodą (i to po parze z każdej strony), oczu zaś aż dziesięcioro, różańcem umieszczonych na policzkach, ale podróżnikowi, który, jak ja, odkrył w swych wyprawach najdziwaczniejsze twory, istoty te do złudzenia przypominały ludzi.
+
+Kareliria (Kalkorob)
+Młody nacjonalizm Kalkorobu przejawiał się pod postacią nierozumnej nienawiści do wszystkiego, co ludzkie. Prasa karelirska powtarza nieustannie, że jesteśmy ohydnymi handlarzami niewolników i bezprawnie wyzyskujemy niewinne roboty.
+
+Memnogi
+Panuje przeświadczenie, że te rozumne istoty należą do najbardziej uczynnych, łagodnych, dobrotliwych i przenikniętych altruizmem stworzeń w całym Kosmosie.
+Maszyna Van Gaelisa
+Ta maszyna rzeczywiście przejawiała spontaniczność działań: na poziomie 14 miesięcznego dziecka. Miała wartość czysto teoretyczną, ale to był najbliższy mózgowi ludzkiemu model z drutów i szkła, jaki kiedykolwiek istniał.
+
+Potworyk
+Państwem, do którego trafił Trurl, rządził król Potworyk. Był to militarysta z dziada pradziada, a przy tym sknera iście kosmiczny. Aby ulżyć skarbowi, zniósł wszystkie kary z wyjątkiem głównej.
+
+Cembał
+Każdy Cembał siedział we własnym pałacu, który mu automatnia zrobiła (tak oni swe niewolnice zwą trybo-chrzestne), wonnościami polewany, kadzidłami okadzany, elektrycznie miłowany, złotem-srebrem spowity, po klejnotach tarzający się, po skarbcach swych przechadzający, z gwardią na ulicy, z haremem w piwnicy, dący w trąby i marmury, ale mimo tego wszystkiego razem dziwnie jakoś niezadowolony, a nawet jakby ponury.
+
+Kosmolud
+Gigacyan tymczasem olbrzymom poświęcał swój czas; staczał tedy ku sobie wysiłkiem największym słońca i całe galaktyki, roztapiał je, mieszał, spajał, łączył i, ręce do łokci urobiwszy, kosmoluda stworzył, ogromem tak wszechogarniającego, że za nim już nic prawie nie zostało, jeno szparka.
+
+Kosmogonik
+Żył raz pewien inżynier kosmogonik, który rozjaśniał gwiazdy, żeby pokonać ciemność. Przybył do mgławicy Andromedy, gdy jeszcze była pełna czarnych chmur. Skręcił zaraz wir wielki, a gdy ten ruszył, kosmogonik sięgnął po swoje promienie. Miał ich trzy: czerwony, fioletowy i niewidzialny.
+
+Klapaucjusz
+Doszły raz Trurla słuchy z daleka o dwóch potężnych konstruktorach benefaktorach, takiego rozumu i takiej doskonałości, że nikt im nie dorówna; udał się zaraz do Klapaucjusza, ten zaś wyjaśnił mu, że to nie o tajemniczych rywalach wieść mówi, lecz o nich samych, Kosmos obiegłszy.
+
+Gębon
+Gęba zaś jest niewymownie przykra, oczyskami cała od góry do dołu, wzdłuż i w poprzek wysadzana, i ma też jakby nos piłowaty, i szczęki- -nieszczęki, hakowate i stalowe; nie rusza się, cała szczelnie we framugę wpasowana, i tylko oczy jej złodziejsko latają na wsze strony, każda zaś ich grupka inną obejmuje część otoczenia, a wyraz mają taki, jakby szacowały, czy się to wszystko uczciwie opłaci.
+
+Wielki Konstruktor
+Żył raz pewien wielki konstruktor-wynalazca, który, nie ustając, wymyślał urządzenia niezwykłe i najdziwniejsze stwarzał aparaty. Pieczętował się sercem śmiałym i każdy atom, który wyszedł spod jego ręki, nosił ów znak, że dziwili się potem uczeni, odnajdując w widmach atomowych migotliwe serduszka.
+
+Maszyna-straszyna
+Maszyna-straszyna idzie, idzie, a w środku tylko jej programy mruczą; co jeden, to przeraźliwszy. Podeszła – i jak nie zaszuści, nie zagwazdra! Aż się sama trochę zlękła.
+
+Bladawce
+Najpierw byli pleśnieniem i pełzaniem, potem przelali się z oceanu na ląd, żyjąc z wzajemnego się pożerania; a im więcej się pożerali, tym więcej ich było, nareszcie wyprostowali się, pozawieszawszy lepką treść swą na wapiennych rusztowaniach, i pobudowali maszyny. Z tych pramaszyn powstały maszyny rozumne, które spłodziły maszyny mądre, które wymyśliły maszyny doskonałe.
+
+Trurl
+W owych dobrych, dawnych czasach panował zwyczaj, że konstruktorzy, posiadający Dyplom Omnipotencji Perpetualnej z wyróżnieniem, wyprawiali się kiedy niekiedy w podróże, aby dalekim ludom nieść dobrą radę i pomoc. Zdarzyło się więc, że zgodnie z ową tradycją wyprawili się Trurl i Klapaucjusz, którzy tak umieli gwiazdy stwarzać lub gasić, jakby ktoś orzechy łuskał.
+
+Dzieciomioty
+Bombardowanie rozpoczęło się w tydzień później, o północy. Wyrychtowane przez starych kanonierów lufy wzniosły się jak jedna, skierowały ku białej gwiazdce państwa cesarskiego – i dały ognia, nie śmiercio-, lecz życionośnego. Trurl strzelał bowiem niemowlętami; jego dzieciomioty osypały cesarstwo niezliczonymi miriadami kwilących pędraków, które, szybko podrastając, oblepiały pieszych i konnych.
+
+Potwór
+I wił się wściekle całkami nieokreślonymi potwór pod razami równań królewskich, i padał rozprzęgnięty na zbiór nieprzeliczalny niewiadomych, i zrywał się znowu podniesiony do wyższej potęgi, a król go różniczkami, aż operatory funkcyjne leciały na wszystkie strony.
+
+Król Murdas
+Tak krążyło milami po całym mieście zadowolenie króla Murdasa, że udało mu się zyskać wielkość doczesną i dosłowną, a nadto schować się wszędzie, jak nakazywała wróżba, bo był wszak wszechobecny w całym państwie. Szczególnie malowniczo przedstawiało się to o zmierzchu, kiedy król-olbrzym, jaśniejąc łuną, mrugał światłami-rozmyślaniami, a potem z wolna gasł, zapadając w zasłużony sen.
+
+Kryonidzi
+Zwali się tak, bo tylko w przeraźliwym mrozie istnieć mogli i w pustce bezsłonecznej. Pobudowali też w niedługim czasie miasta i pałace lodowe, a że wszelkie ciepło groziło im zgubą, zorze polarne łapali do wielkich naczyń przejrzystych i nimi oświetlali swoje siedziby.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
