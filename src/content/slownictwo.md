@@ -1450,6 +1450,8 @@ Tak krążyło milami po całym mieście zadowolenie króla Murdasa, że udało 
 Kryonidzi
 Zwali się tak, bo tylko w przeraźliwym mrozie istnieć mogli i w pustce bezsłonecznej. Pobudowali też w niedługim czasie miasta i pałace lodowe, a że wszelkie ciepło groziło im zgubą, zorze polarne łapali do wielkich naczyń przejrzystych i nimi oświetlali swoje siedziby.
 
+Lohnarbeiter
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

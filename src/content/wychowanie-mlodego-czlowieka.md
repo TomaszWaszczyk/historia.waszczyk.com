@@ -187,6 +187,8 @@ Your browser does not support the video tag.
 
 * Bieda. Przewodnik dla dzieci
 
+* Zaskórniaki i inne dziwadła z krainy portfela. Liczby kultury
+
 * Mrowisko, czyli niezwykłe losy mrówki BAK
 
 * IRWIN A. SCHIFF Jak Powstaje Bogactwo, I Kiedy Nie Powstaje

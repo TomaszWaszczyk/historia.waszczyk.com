@@ -3597,6 +3597,12 @@ You Spot It, You've Got It
 
 https://pl.wikiquote.org/wiki/J%C3%B3zef_Maria_Boche%C5%84ski
 
+Volenti non fit iniuria (łac. chcącemu nie dzieje się krzywda)
+
+„Na próżno żyje ten, kto nie postępuje naprzód” brzmi rodowa maksyma wpisana w herb Ostoja. Stała się ona prawdziwą dewizą życia polskiego wynalazcy.
+
+Czym jest komunizm? Kłamstwem.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

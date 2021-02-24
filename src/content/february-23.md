@@ -3,10 +3,26 @@ layout: post
 title: 23 lutego
 image: img/february/szarecki.jpg
 author: Tomasz Waszczyk
-date: 2019-02-23T10:00:00.000Z
+date: 2020-02-23T10:00:00.000Z
 tags:
   - Armia Krajowa
 ---
+
+### 2021
+
+Today's Thought?
+
+The Banksters and their Slaves..
+I am constantly bemused by the acceptance of the enslavement of global population by the banisters and their cohorts via monopoly money...
+The Banksters are the modern day incarnation of the Morlocks a fictional species created by H. G. Wells for his 1895 novel.
+
+The Morlocks(God of child sacrifice) breed an enslaved species known as the Eloi (Children). The Eloi are the sole descendants of humanity. The Eloi are clothed and fed by the Morlocks, and in return, the Morlocks eat the Eloi.
+
+The Morlocks have evolved, to exist entirely in their subsurface domain, as the elite of society, breeding what remains of humanity as their livestock.
+
+The difference between the 1895 Time Machine novel and 2021 is the passage of time, the banksters have effectively enslaved humanity via the existence of monopoly money and unfunded Debt!
+
+<img src="./img/february/timemachine.jpeg"><br><br>
 
 ### 1977
 
@@ -27,6 +43,24 @@ Mając już 65, w chwili niemieckiej agresji na Polskę w roku 1939 zgłosił si
 Podpułkownik Ludowego Wojska Polskiego prokurator wojskowy Jan "Iwan" Amons (zdjęcie) zatwierdził wyrok śmierci na plutonowym rezerwy Armii Krajowej, bohaterze wojny polsko -bolszewickiej Antonim Wiszowatym. Mężczyzna został zatrzymany przez Urząd Bezpieczeństwa Publicznego podczas przygotowań do porwania wicepremiera Tymczasowego Rządu Jedności Narodowej Władysława Gomułki w celu jego wymiany na więzionych żołnierzy podziemia lub likwidacji. W śledztwie nikogo nie wydał, utrzymując, że akcja była jego pomysłem. Wiszowaty został rozstrzelany, a jego ciało zostało prawdopodobnie rozpuszczone w sodzie kaustycznej.
 
 <img src="./img/february/iwan.jpg"/><br><br>
+
+### 1918
+
+Niemiecki inżynier Artur Scherbius złożył wniosek o opatentowanie wirnikowej maszyny szyfrującej Enigma.
+23 lutego 1918 roku niemiecki inżynier Artur Scherbius złożył wniosek o przyznanie patentu na wirnikową maszynę szyfrującą, oraz założył wraz z Richardem Ritterem firmę Scherbius & Ritter, której celem była produkcja tego urządzenia. Obaj przedstawili projekt maszyny zarówno niemieckiej Kriegsmarine jak i Ministerstwu Spraw Zagranicznych, ale nie zyskali zainteresowania żadnej z tych instytucji. Następnie przekazali prawa patentowe firmie Gewerkschaft Securitas, z której 9 lipca 1923 powstało Chiffriermaschinen Aktien-Gesellschaft (Maszyny szyfrujące Spółka akcyjna) w której Scherbius i Ritter zostali członkami zarządu. W Chiffriermaschinen AG rozpoczęto produkcję i reklamowanie wirnikowej maszyny szyfrującej – Enigma model A – wystawiając ją na kongresie Powszechnego Związku Pocztowego w roku 1923 i 1924. Pierwszy model był dość duży 65×45×35 cm i ciężki około 50 kg, głównie ze względu na zintegrowaną maszynę do pisania. Druga wersja model B miała bardzo podobną konstrukcję. Chociaż noszące tę samą nazwę Enigma, oba modele A i B maszyny różniły się od późniejszych wersji, nie tylko wymiarami i masą, ale także sposobem kodowania, ponieważ nie posiadały walca odwracającego. Walec odwracający – wymyślony przez kolegę Scherbiusa Williego Korna – został wprowadzony po raz pierwszy w maszynie Enigma C w 1926 roku. Element ten stał się kluczowym w konstrukcji maszyn Enigma. Wersja C była mniejsza i w odróżnieniu od poprzedników nadawała się do przenoszenia. Zrezygnowano w niej ze zintegrowanej maszyny do pisania, wprowadzając w zamian panel z literami podświetlanymi żarówkami. Dla odróżnienia od pierwszych odmian A i B, Enigmę C nazywano czasem świecącą Enigmą. Enigma C była używana dość krótko, gdyż już w 1927 roku zastąpiono ją maszyną Enigma D.
+
+### 1893
+
+Rudolf Diesel opatentował silnik wysokoprężny.
+Niemiecki konstruktor urodzony w Paryżu – Rudolf Alexander Diesel (1853 –1913), był pierwszym, który stworzył silnik wysokoprężny. Swój projekt nowego rodzaju silnika ogłosił w lutym 1892 i opatentował go dokładnie 28 lutego 1893 r.
+Natomiast pierwszy w pełni udany silnik wysokoprężny zbudował cztery lata później, w roku 1897, pracując wówczas w zakładach MAN AG w Augsburgu.
+Co ciekawe, w kwietniu 1900 roku przedstawił na wystawie światowej w Paryżu silnik swojej konstrukcji napędzany… olejem arachidowym z orzeszków ziemnych.
+Diesel był przekonany o wielkiej przyszłości silnika swojego pomysłu dla przemysłu i komunikacji, dzięki jego pracy na łatwiej dostępnym i tańszym do uzyskania paliwie, niż silnik benzynowy.
+Zmarł zanim wprowadził napędzany olejami roślinnymi silnik do produkcji. Przerwanie prac nad projektem spowodowane śmiercią R. Diesla było na rękę producentom ropy, która wtedy była jedynym paliwem do silników spalinowych, co z pewnością opóźniło wdrożenie jego rozwiązań.
+Pierwsze statki motorowe napędzane silnikiem Diesla zbudowano w roku 1903. W 1908 r. powstał pierwszy silnik o niewielkich rozmiarach nadający się do stosowania w ciężarówkach i lokomotywach spalinowych. W roku 1936, już po śmierci Diesla, wprowadzono do produkcji pierwszy samochód osobowy z silnikiem wysokoprężnym. Był to Mercedes – Benz 260D.
+W dzisiejszych czasach silniki diesla są coraz bardziej ulepszane. Uważane kiedyś powszechnie za mało dynamiczne i głośne, dziś są równoprawnym konkurentem silników benzynowych. Obecne konstrukcje silników wygrywają z benzynowymi głównie ich sprawnością.
+
+<img src="./img/february/diesel.jpg"><br><br>
 
 ### 1884
 

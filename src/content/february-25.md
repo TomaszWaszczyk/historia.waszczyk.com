@@ -3,11 +3,17 @@ layout: post
 title: 25 lutego
 image: img/february/listopadowe.jpg
 author: Tomasz Waszczyk
-date: 2019-02-25T10:00:00.000Z
+date: 2020-02-25T10:00:00.000Z
 tags:
   - Powstanie listopadowe
 draft: false
 ---
+
+### 2021
+
+Mamy wcześniaków nawet po dwóch szczepieniach nie są wpuszczane do dzieci. W szp. Rydygiera w Toruniu mogą jedynie zostawić odciągnięte mleko. W Katowicach też są nadal odcięte od dzieci. Zakaz z 03.2020 r.obowiązuje do teraz.
+
+<img src="./img/february/chow2021.jpeg"><br><br>
 
 ### 1862
 

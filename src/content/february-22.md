@@ -3,11 +3,18 @@ layout: post
 title: 22 lutego
 image: img/february/churchill.jpg
 author: Tomasz Waszczyk
-date: 2019-02-22T10:00:00.000Z
+date: 2020-02-22T10:00:00.000Z
 tags:
   - Winston Churchill
 draft: false
 ---
+
+### 2021
+
+Globally, the world is $255 trillion in debt.
+
+We are in the beginning of what is looking to be like the most major financial crisis that the world has ever witnessed. #Bitcoin has gone from being something that is laughed at, to being a form of money which billionaires are purchasing, and which major financial institutions are studying.
+Family offices now have a choice; to stay in the collapsing traditional financial system, or to evolve and adapt for the future.
 
 ### 1947
 
