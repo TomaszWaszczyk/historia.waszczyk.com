@@ -15,6 +15,12 @@ Oficjalne dane GUS są zatrważające - od kwietnia (czas pierwszego lockdownu) 
 
 <img src="./img/february/gastronomia2021.jpg"><br><br>
 
+---
+
+Tomasz Ga***an: Mówi, że bitek zostanie zablokowany przez rządy państw.
+
+---
+
 ### 2020
 
 Google is planning to move its British users’ accounts out of the control of European Union privacy regulators, placing them under US jurisdiction instead, the company confirmed late on Wednesday.

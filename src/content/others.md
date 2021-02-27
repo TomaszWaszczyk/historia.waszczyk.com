@@ -80,6 +80,42 @@ analiza hipotez konkurencyjnych - szukanie zaprzeczeń a nie potwierdzeń
 
 https://pl.wikipedia.org/wiki/Sefardyjczycy
 
+1012 rok - Cesarz Niemiecki Henryk II wypędza Żydów z Moguncji
+
+1288 rok - Regent Królestwa Neapolu Robert d'Artois nakazuje wypędzenie Żydów z całych południowych Włoch
+
+1290 rok - Król Anglii Edward I wydaje edykt o wygnaniu Żydów (wszystkich Żydów, w liczbie ok. 16 tys., załadowano na statki i odesłano na kontynent, dotarli tylko nieliczni, bo większość Anglicy najpierw obrabowali, a potem potopili)
+
+1346 rok - wygnano Żydów z Bazylei w Szwajcarii
+
+1360 rok - wygnano ich z Węgier
+
+1394 rok - z Francji
+
+1421 rok - z Austrii
+
+1491 rok - wygnanie Żydów z Rawenny
+
+1492 rok - Królowie Hiszpanii Izabela I Kastylijska i Ferdynand II Aragoński wydali edykt nakazujący wypędzenie Żydów z Królestwa Hiszpanii i wszystkich jej posiadłości
+
+1493 rok - Król Sycylii Ferdynand II Aragoński wyrzuca Żydów ze swojego królestwa
+
+1495-1503 Żydzi zostali wygnani z Litwy
+
+1496 rok - Żydów wypędzono z Portugalii (edykt Króla Manuela I Szczęśliwego), również w tym samym roku Cesarz Rzymski Maksymilian I Habsburg wypędził Żydów ze wszystkich swoich dziedzicznych ziem
+
+1510 rok - Żydzi zostają wygnani z Brandenburgii
+
+1547 rok - Car "Wszech Rusi" Iwan Grozny odmawia Żydom prawa zamieszkania w Rosji, a nawet przejazdu przez swoje państwo!
+
+1550 rok - Żydzi zostają wygnani z Genui
+
+1571 rok - Republika Wenecka podejmuje decyzje o wygnaniu wszystkich Żydów z Wenecji i z wysp adriatyckich
+Kiedy w 1528 roku Niderlandy dostają się pod władzę Cesarza Rzymskiego Karola V Habsburga wszyscy Żydzi zostają wypędzeni
+
+1590 rok - Król Hiszpanii Filip II nakazuje wyrzucenie Żydów z Lombardii...
+...wszystkim wygnaniom Żydów towarzyszyły krwawe pogromy i powszechne prześladowanie... uciekali głównie do Polski, która sami nazwali "Paradisus Ludaeorum" (Żydowski Raj). W XVI wieku 3/4 wszystkich Żydów żyjących na świecie mieszkało w Polsce! Teraz doszło do tego, ze ich premier, Benjamin Netanjahu w przemówieniu wygłoszonym w dniu 14.02.br., na terenie Polski, w gmachu Muzeum Historii Żydów Polskich (wybudowanym przez Polaków kosztem 300 mln zł i utrzymywanym przez Polaków kosztem ponad 10 mln zł rocznie!), oskarża nas, czyli cały Naród Polski, o to ze współpracowaliśmy z nazistowskim reżimem w zabijaniu Żydów w ramach Holokaustu!
+
 ---
 
 17 faktów, które warto wiedzieć o chasydzkich Żydach:
@@ -165,6 +201,10 @@ Do karafki GROHE Blue Water możesz dodać np.:
 Co do herbaty proste: najlepiej lipton earl grey, pozniej jak lekko ostygnie zeby nie stracil wlasciwosci miod, świeży tarty cynamon, w pomarańcze wbijasz gożdziki, świeży imbir plastry albo z sokowirówki wyciskasz troche, cytryna :) wszystkiego wg uznania
 
 Szakszuka
+
+### Zioła
+
+Czystek
 
 ---
 

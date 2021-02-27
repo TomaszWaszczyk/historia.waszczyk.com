@@ -3603,6 +3603,8 @@ Volenti non fit iniuria (łac. chcącemu nie dzieje się krzywda)
 
 Czym jest komunizm? Kłamstwem.
 
+Lojalność kobiety jest sprawdzana kiedy jej mężczyzny nie ma nic, lojalność mężczyzny jest weryfikowana kiedy ma wszystko.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

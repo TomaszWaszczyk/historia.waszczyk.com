@@ -9,6 +9,13 @@ tags:
 draft: false
 ---
 
+### 1949
+
+Amerykańska rakieta Bumper 5 wzniosła się na rekordową wysokość 400 km przy prędkości 2300 m/s.
+Maksymalna prędkość rakiety wyniosła 8290 km/h. Była to pierwsza na świecie duża dwuczłonowa rakieta na paliwo ciekłe. Powstała z połączenia niemieckiej V2 (po usunięciu głowicy bojowej) ze zmodyfikowaną rakietą WAC Corporal, jako drugim członem. Powstało 8 egzemplarzy rakiety.
+
+<img src="./img/february/bumper.jpg"><br><br>
+
 ### 1931
 
 Polski masowiec SS Niemen, jako pierwsza polska jednostka handlowa przepłynął równik.

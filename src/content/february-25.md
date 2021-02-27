@@ -15,6 +15,13 @@ Mamy wcześniaków nawet po dwóch szczepieniach nie są wpuszczane do dzieci. W
 
 <img src="./img/february/chow2021.jpeg"><br><br>
 
+---
+
+> Zachęcam do używania nowej odsłony aplikacji STOP COVID, która pomaga identyfikować kontakt z zakażonym wykorzystując technologie Bluetooth. Jednocześnie zapewnia anonimowość i poszanowanie prywatności. Osoby, które miały kontakt i przejdą przez ankietę ryzyka mają dostęp do testu bez konieczności wizyty u lekarza. Dodaliśmy też bieżące informacje o tempie realizacji akcji szczepień.
+> W Wlk Brytanii przeprowadzono badania, wg których zwiększenie o 1% liczby użytkowników zmniejsza liczbę zakażeń o 2,3%. - Adam Niedzielski
+
+---
+
 ### 1862
 
 https://pl.wikipedia.org/wiki/Stanis%C5%82aw_G%C5%82%C4%85bi%C5%84ski_(polityk)
@@ -82,8 +89,18 @@ W bitwie chwałą okrył się 4 Pułk Piechoty Liniowej, który wielokrotnie kon
 
 <img src="./img/february/grochow.jpg"/><br><br>
 
-###
+### 1793
+
+Rozpoczął się kryzys bankowy wywołany zrujnowaniem gospodarki w wyniku wojny polsko-rosyjskiej i wprowadzeniem rządów konfederacji targowickiej.
+Pośród wielu katastrof, które spadły na Rzeczpospolitą w drugiej połowie XVIII wieku były również te gospodarcze. Wszystkie razem doprowadziły do wielkiego kryzysu bankowego, będącego agonalnym krzykiem umierającego państwa.
+atastrofy spadały na Rzeczpospolitą już od samego początku XVIII wieku, a zapoczątkowała je wojna północna prowadzona na jej terytorium, choć formalnie bez jej udziału. Zresztą w nowe stulecie wchodziło nasze państwo wyniszczone wieloletnimi wojnami, przetrzebione przez konflikty i zarazy oraz niewydajną, ekstensywną gospodarką. W połowie wieku umacniające się pod rządami Fryderyka Wielkiego Prusy zdobyły w czasie wojny z Saksonią matryce do bicia polskich monet. Zdając sobie sprawę z wagi narzędzia, które trafiło w jego ręce rozpoczął berliński władca produkcję pieniądza zalewając Rzeczpospolitą złej jakości monetami. Zdaniem historyków ten proceder trwający kilkanaście lat spowodował napływ do naszego kraju 600 mln złotych fałszywego pieniądza. Dla porównania para butów kosztowała wówczas 3 złote, a pensja woźnego 2 złote tygodniowo.
+Król Stanisław August Poniatowski nie tylko pobierał pensje od sąsiedzkich dworów, ale również na potęgę się w nich zapożyczał. Najchętniej w Petersburgu, u swojej protektorki, Katarzyny II. Kiedy w 1792 r. Rosja wystąpiła zbrojnie przeciwko Polsce wspierając Targowiczan, Katarzyna zażądała od władcy (co w sumie zrozumiałe) wstrzymania działań obronnych grożąc żądaniem natychmiastowej spłaty zobowiązań. Król uległ naciskom i przystąpił do Targowicy.
+Sytuacji nie ułatwiały wysunięte przez Prusy i Rosję żądania terytorialne wobec Polski i w ich konsekwencji II rozbiór dokonany na początku 1793 roku. Oddzielone od RP kordonem celnym zostały bogate tereny Kujaw i Wielkopolski oraz zaplecze rolnicze Ukrainy i Litwy. Do tego żołnierze żądali wypłaty żołdu, a kasa królewska znalazła się u dna spirali kredytowej. Zadłużenie władcy wynosiło sześciokrotność jego rocznego budżetu. U samego bankiera Teppera było to 11 i pół miliona złotych.
+Piotr Fergusson Tepper nie miał zresztą szczęścia. Był najbogatszym bankierem końca XVIII wieku, jego majątek wynosił ok 65 mln złotych, pośredniczył w lokowaniu w Polsce kapitałów bankierów amsterdamskich. Jednak wojna obronna 1792 r., nagłe wycofywanie pieniędzy przez niderlandzkich inwestorów i niewypłacalność króla doprowadziła do jego upadku.
+25 lutego 1793 r. największy w Rzeczpospolitej bank - Piotra Fergussona Teppera ogłosił bankructwo. W ślad za nim upadło pięć innych instytucji bankowych, co spowodowało przejściową niewypłacalność poselstw pruskiego i rosyjskiego. Tepper wspólnie z Piotrem Blankiem odpowiadał za wypłacanie politykom polskim i litewskim łapówek z kasy władców zaborczych, dlatego ambasador rosyjski nakazał opieczętowanie archiwów bankiera. Na niewiele zdały się pieczęcie, kiedy 20 kwietnia 1794 r. podczas insurekcji kościuszkowskiej wzburzony tłum wpadł do rezydencji byłego bankiera spodziewając się znaleźć kompromitujące dokumenty.
+Nie pomylili się. Według ksiąg bankiera na stałej pensji był Poniatowski i całe jego najbliższe otoczenie. Doprowadziło to do publicznych egzekucji targowiczan (bądź ich portretów). Władca uniknął śmierci dzięki postawie części mieszczan, którzy postanowili go uratować i wyznaczyli gwardię przyboczną. Wojna, która w kolejnych miesiącach ogarnęła kraj stała się pretekstem do kolejnego rozbioru i likwidacji państwa.
+Sam Tepper zmarł sześć dni po napadzie na jego dom na skutek odniesionych ran.
 
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

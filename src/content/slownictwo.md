@@ -1452,6 +1452,10 @@ Zwali się tak, bo tylko w przeraźliwym mrozie istnieć mogli i w pustce bezsł
 
 Lohnarbeiter
 
+https://en.wikipedia.org/wiki/Eventual_consistency
+
+kacheksja - skrajne wyniszczenie ustroju z zanikiem tkanki tłuszczowej i mięśni; charłactwo
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -460,6 +460,8 @@ https://pl.wikipedia.org/wiki/%C5%BBydzi_w_parlamencie_II_Rzeczypospolitej
 
 https://en.wikipedia.org/wiki/Monetary_reform_in_the_Soviet_Union,_1922%E2%80%9324
 
+https://en.wikipedia.org/wiki/Operation_Trust
+
 ### 1919 (pomyśleć nad dokładnym rokiem)
 
 WWI was possible because using inflation and central banking, the state wasn't limited to it's own savings, but could exhaust the savings of the populace in the war effort. Those conditions still exist today.

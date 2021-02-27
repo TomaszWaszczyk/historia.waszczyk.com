@@ -3,7 +3,7 @@ layout: post
 title: 26 lutego
 image: img/february/maluch.jpg
 author: Tomasz Waszczyk
-date: 2019-02-26T10:00:00.000Z
+date: 2020-02-26T10:00:00.000Z
 tags:
   - PRL
 draft: false
