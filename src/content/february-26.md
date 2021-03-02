@@ -9,6 +9,15 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Minister finansów wydał tajemnicze rozporządzenie, zwalniające niektóre banki zachodnie z podatku od zysków z handlu polskimi obligacjami (z tytułu odsetek lub dyskonta od obligacji skarbowych).
+Handel polskim długiem będzie doskonałym biznesem, ale dla podmiotów innych niż polskie.
+Przepis wszedł więc w życie 24 grudnia, dokładnie w Wigilię. To ostatnio dawało gwarancję, że nikt się tym nie zainteresuje.
+Nikt więc nie interesował się tym, jaki „prezent” choinkowy zgotował Polakom resort finansów.
+O jakie instytucje chodzi? Są to – jak czytamy w rozporządzeniu – banki centralne niemające siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej.
+Od 1 stycznia 2021 do 31 grudnia 2025 roku, a więc całe pięć kolejnych lat Skarb Państwa, czyli Ministerstwo Finansów emitować będzie obligacje, aby dzięki nim znaleźć pieniądze na bieżące wydatki. Każdy, kto taką obligację kupi, będzie mógł później, do roku 2047, odsprzedać ją z zyskiem. Normalnie od tego zysku należałoby zapłacić podatek dochodowy, ale zagraniczne instytucje finansowe zostały z tego podatku zwolnione.
+
 ### 2018
 
 ### Prof. Oręziak: PPK? Wielka iluzja emerytalna. Jak OFE. Ogromne koszty, brak jakichkolwiek gwarancji dla oszczędzających

@@ -395,6 +395,8 @@ https://pl.wikipedia.org/wiki/Wielki_g%C5%82%C3%B3d_na_Ukrainie
 
 https://pl.wikipedia.org/wiki/Reforma_j%C4%99drzejewiczowska
 
+https://pl.wikipedia.org/wiki/Socrealizm
+
 <!-- reforma edukacji -->
 
 ### 1931

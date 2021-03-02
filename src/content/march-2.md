@@ -3,7 +3,7 @@ layout: post
 title: 2 marca
 image: img/march/bekantmachung.jpg
 author: Tomasz Waszczyk
-date: 2019-03-02T10:00:00.000Z
+date: 2020-03-02T10:00:00.000Z
 tags:
   - Niemcy
 draft: false

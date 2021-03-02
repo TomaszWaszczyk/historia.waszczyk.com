@@ -24,6 +24,10 @@ A teraz mieliśmy się stać ,,plutonem egzekucyjnym'' - niczym jakaś Einsatzgr
 
 <img src="./img/march/ocalaly.jpg"/><br><br>
 
+### 1985
+
+Umiera Arkady Fiedler, autor książki Dywizjon 303
+
 ### 1984 - Founded BlackBerry, Waterloo, Canada
 
 BlackBerry Limited is a Canadian multinational company specialising in enterprise software and the Internet of things. Originally known as Research In Motion, it is best known to the general public as the former developer of the BlackBerry brand of smartphones, and tablets. Wikipedia

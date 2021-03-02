@@ -3,13 +3,17 @@ layout: post
 title: 1 marca
 image: img/march/banknot.jpg
 author: Tomasz Waszczyk
-date: 2019-03-01T10:00:00.000Z
+date: 2020-03-01T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
 
-### 2020
+### 2021
+
+> “All truth passes through three stages. First it is ridiculed. Second it is violently opposed. Third it is accepted as being self-evident.” - Citigroup on Schopenhauer on Bitcoin
+
+<!-- ### 2020 -->
 
 <!-- ==================================================================================================================================================================================================================================================
 1) Lista tematow prezentacji wraz z przewidywanym planem powinna byc dostarczona do godziny 17:00 dnia poprzedzajacego spotkanie
@@ -29,7 +33,25 @@ draft: false
 9) Demonstracje oraz relacje z konferencji nie podlegaja  ograniczeniom z punktu 8
 10) Po spotkaniu do konca dnia wszystkie uaktualnione slajdy powinny znalezc sie w dedykowanym katalogu na google drive
 
-================================================================================================================================================================================================================================================== -->
+================================================================================================================================================================================================================================================== 
+
+### 2021
+
+Szkoleniowa ZGNILIZNA
+Z dniem 12 lutego 2021r zakończyłem współpracę z „Albrecht International”. Po ponad dwóch latach promowania tej marki podczas setek wystąpień na żywo, budowania społeczności biznesowej na spotkaniach regionalnych w Polsce i za granicą, webinarach i wszędzie tam gdzie tylko mogłem, spakowałem manatki i zrezygnowałem z dnia na dzień. Główny powód odejścia zostawiam dla siebie (i mam głęboką nadzieję, że brudów nie będę musiał upubliczniać) a jeden z innych powodów przedstawiam na załączonym obrazku. 
+👉Na co dzień większość czasu poświęcam nieruchomościom a szkoleniami zajmowałem się tylko dodatkowo: z pasji do edukacji, chęci poznania nowych osób i tworzenia nowych relacji. W najbliższej przyszłości na pewno się to nie zmieni, gdyż w przeciwieństwie do firm stricte szkoleniowych nie mam zamiaru robić masówki i opierać swojej działalności wyłącznie na sprzedaży kursów. I to jest jeden z kolejnych powodów, dla których nie chce się identyfikować z pewnymi osobami czy markami. 
+👉Dla niektórych nieważne jest to ile osób będzie miało dostęp do danej wiedzy, czy nie będzie przez to na rynku za dużej konkurencji i czy biznes się przez to nie wysypie tak jak podnajem mieszkań na pokoje (z którego szkolenie wciąż przez różne osoby jest wpychane kolejnym nieświadomym osobom z obietnicą świetnego biznesu), liczy się tylko sprzedaż kursu i jak największy przychód. Jak już się przestanie sprzedawać jedno to się wymyśli coś kolejnego, bez względu na to czy kiedykolwiek się to robiło. 
+👉I takim też właśnie sposobem DZISIAJ powstało nowe szkolenie z biznesu kwater pracowniczych. Od ponad dwóch lat szkolę i tworzę tą społeczność, poświęcając na pomoc ludziom praktycznie cały swój czas i aż do dzisiaj na stronie internetowej widniała jeszcze informacja, że szkolenie jest prowadzone przeze mnie. Ale już po południu na mój kolejny wniosek o usunięcie stworzonych przeze mnie produktów zostałem poinformowany, że pomimo mojego odejścia szkolenie z biznesu kwater dalej jest sprzedawane, z tym że to szkolenie jeszcze nie istnieje a klienci z okazji „wielkiej ,urodzinowej promocji, która jest raz na 30 lat” na razie kupują produkt, którego tak naprawdę nie ma 😃 Wystarczy zmienić osobę prowadzącą i zrobić nowe prezentacje i wszystko gotowe. 
+👉i za jakiś czas ktoś, kto zawsze nazywał ten biznes „śmiesznymi kwaterami”, często mówił że ten biznes za 2 lata padnie a osoby zajmujące się tym nazywał „dzbanami” będzie teraz z tego zagadnienia „uczył”. Wystarczy zrobić promocję, sprzedać i opowiadać o czymś z czym nie ma się ani grama doświadczenia. Ten sam program, te same ułożone przeze mnie teksty, te same pliki, ale inny „lepszy” prelegent.  Świeżaki i tak to łykną bo się wrzuci profesjonalne zdjęcie czy grafikę na Facebooka i podkoloruje cyferki . Bo tu właśnie chodzi wyłącznie o cyferki – cyferki ze sprzedaży a nie o Twoją edukację. Sprzedaje się to co idzie – jak to w handlu 😊
+👉Oczywiście to nie jedyny i nie najgorszy przykład szkoleniowej zgnilizny, znam jeszcze osoby, które promują swoje szkolenia a w międzyczasie sprzedają po cichu swoje biznesy, z których szkolą. Takie to super biznesy. Znam osobę, która na swojej stronie internetowej sprzedawała szkolenie z biznesu kwater a dopiero po ponad roku zaczęła to robić. Można?  Wszystko można tylko trzeba umieć wbić się z artykułem do branżowej gazety albo zapłacić za okładkę i eksperckość już masz załatwioną. Pozdro dla kumatych 🐕‍🦺🐕‍🦺🐕‍🦺🐕‍🦺🐕‍🦺
+👉Kończąc temat jestem bardzo dumny z tego, że przy współpracy z Albrecht International udało mi się chociaż częściowo spełnić swoją misję i wpłynąć na zmianę standardu najmu pracowniczego w Polsce, wyszkoliłem kilkaset osób i na tym przygoda się kończy, mój kurs będę w przyszłości organizował tylko w rozszerzonej wersji, dla mocno ograniczonej liczby osób i za wyższą cenę. Jeśli sporo moich kursantów zarabia po kilkanaście / kilkadziesiąt tys. złotych miesięcznie to ja nie widzę powodu, dlaczego kurs miałby być tani, ogólnodostępny i powodował zachwianie biznesu dla osób, które zaryzykowały wchodząc w niego wcześniej gdy nie było to jeszcze popularne i rozdmuchane jako dochodowe.
+👉Lecę oglądać meczyk  a przez najbliższy miesiąc odcinam się od obowiązków, po kilku latach pracy na dwa etaty i ogromnego poświęcenia łącznie z własnym zdrowiem czas zadbać trochę o siebie a dla chętnych mówię: do zobaczenia niebawem! Jeśli tylko opracuję jak wprowadzić do tej branży lepszą jakość to będzie Wam i innym co oceniać. 
+👉Przy okazji pragnę podziękować każdej z tysięcy poznanych osób dzięki mojej dwuletniej działalności, to że mogłem Was poznać sprawiło, że moje życie stało się NAPRAWDĘ bogate i nie przeliczalne na pieniądze, daliście mi prawdziwą wartość. Setki spotkań, kontaktów i setki imprez – i chociaż niektórzy twierdzą, że często przesadzaliśmy z balowaniem do rana i wątroby cierpiały to chcę powiedzieć jedno: przynajmniej nabalowaliśmy się na zapas a pandemia jeszcze trochę potrwa, premier planuje otwierać fabrykę szczepionek a fabryki to nie są krótkotrwałe inwestycje (tego akurat jestem pewien), także jeśli chodzi o mnie to niczego nie żałuję. 
+👉I na koniec dziękuję osobom, które doceniły moją pracę, są na „naszej” tajnej grupie, z którymi razem udało się stworzyć prawdziwą a nie tylko wirtualną społeczność i które informują mnie na bieżąco co się dzieje, gdyż niestety zostałem dzisiaj wyrzucony z grupy na Fb na której przez 2 lata pomagałem kursantom, no cóż jakoś przeżyję. Kto chce się spotkać na żywo to zapraszam na priv, będę starał się odpisywać. 😊 Za jakiś czas się spotkamy - pamiętajcie, nie jesteście tylko cyfrą na czyimś koncie ani żadnym "dzbanem", to my to stworzyliśmy.
+„Z życzeniami” uczciwych współpracowników
+ Pozdrawiam
+
+-->
 
 ### 1982
 
@@ -54,6 +76,12 @@ Banknot drukowano w trzech wytwórniach. Były to: Wiener Staadsdruckerei w Wied
 Przedstawiona dwudziestozłotówka została wycofana z obiegu 10 stycznia 1945 roku.
 
 <img src="./img/march/banknot.jpg"/><br><br>
+
+---
+
+<img src="./img/march/wyzwolenie.jpg"><br><br>
+
+---
 
 ### 1897
 

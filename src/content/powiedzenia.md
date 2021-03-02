@@ -3567,6 +3567,8 @@ I don't like the word "motivation". I think it is simply a good lesson.
 
 Lubię mężczyzn, którzy mają przyszłość i kobiety, które mają przeszłość. Oscar Wilde http://cytatybaza.pl/cytat/robotnicy-nie-maja-ojczyzny.html
 
+Lojalność kobiety jest sprawdzana kiedy jej mężczyzny nie ma nic, lojalność mężczyzny jest weryfikowana kiedy ma wszystko.
+
 "nie przeżywamy nic, ale mamy dobry kadr" Sokół & Marysia
 
 problemy pierwszego świata życie przed śmiercią
@@ -3603,7 +3605,7 @@ Volenti non fit iniuria (łac. chcącemu nie dzieje się krzywda)
 
 Czym jest komunizm? Kłamstwem.
 
-Lojalność kobiety jest sprawdzana kiedy jej mężczyzny nie ma nic, lojalność mężczyzny jest weryfikowana kiedy ma wszystko.
+Bardziej papieska od papieża.
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 

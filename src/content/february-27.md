@@ -21,6 +21,23 @@ Aktu tego dokonali ppor. Władysław Cieślak, chor. Stefan Kobek, plut. Zenobiu
 
 <img src="./img/february/granica.jpg"/><br><br>
 
+### 1664
+
+Za zdradę rozstrzelany zostaje Iwan Bohun, pułkownik kozacki. Był pierwowzorem Bohuna z "Ogniem i Mieczem". Tworząc bohaterów Sienkiewicz sięgał do źródeł z epoki. Wybierał postacie autentyczne, ale raczej z drugiego szeregu. W ten sposób mógł kształtować ich powieściowe losy.
+"Odwaga lwa,chytrość węża, przebiegłość lisa i lekkomyślność wichru drgały w każdej jego żyle .Wolność, step, wojna były jego żywiołem"
+W następnych wojnach częstokroć wypływało jego nazwisko między nazwiskami najsłynniejszych wodzów kozackich. Postrzał z jakiejś mściwej ręki dosięgnął go w kilka lat później, lecz i wówczas nie przyszedł na niego kres ostatni. Po śmierci księcia Wiśniowieckiego, który z trudów wojennych umarł, gdy państwo łubniańskie odpadło od ciała Rzeczypospolitej, Bohun zawładnął większą częścią jego obszarów. (…) Mówiono także, że uśmiech nie postał nigdy na ustach tego szczególnego człowieka. Żył nie w Łubniach, ale w wiosce, którą z popiołów odbudował i która zwała się Rozłogi. Tam też podobno umarł”. Tak w epilogu „Ogniem i mieczem” Henryk Sienkiewicz opisuje ostatnie lata życia Bohuna. Taka była jego literacka wizja.
+Bohun zmienia front:
+W rzeczywistości Bohun zakończył życie w zupełnie innych okolicznościach. Istniał bowiem historyczny pułkownik kozacki Iwan Bohun (a nie Jurko, jak u Sienkiewicza), jedna ze znaczących postaci powstania Chmielnickiego, dowódca, który wielokrotnie wyróżnił się w walce.
+Jego młodość tonie w mrokach tajemnicy, na arenie historii pojawił się dopiero podczas kozackiej rebelii i szybko zdobył sławę. Podczas oblężenia Zbaraża wdarł się na mury twierdzy i choć został odparty przez obrońców, to za swoje męstwo zyskał uznanie Kozaków i samego Chmielnickiego. Pod Beresteczkiem wyprowadził z klęski resztę pobitych sił kozackich, a pod Batohem przyczynił się do zwycięstwa, dowodząc szarżą konnicy, która przełamała polskie linie.
+Gdy w 1654 r. na mocy ugody perejasławskiej Ukraina została poddana carowi rosyjskiemu, Bohun głośno zaprotestował. Wysłał list do hetmana Stanisława Potockiego, w którym zadeklarował chęć przejścia na stronę polską. W odpowiedzi szybko zaproponowano mu godność hetmana Ukrainy, tytuł szlachecki i jedno z kresowych starostw.
+Przeciągnięcie na swoją stronę popularnego pułkownika kozackiego byłoby znacznym sukcesem i mogłoby zostać wykorzystane propagandowo przez Polaków. Niestety, Bohun nagle zmienił zdanie i wrócił do swoich, ujawniając polskie próby pozyskania go.
+Potem bronił Monasterzysk i Bracławia przed siłami polskimi. Co jakiś czas zmieniał front, raz popierając sojusz Ukrainy z Rosją, drugi raz opowiadając się po stronie Rzeczypospolitej.
+Prawdopodobnie kolejna taka zdrada sprawiła, że został pozbawiony tytułu pułkownika i uwięziony na zamku w… Malborku. Wyszedł stamtąd w 1663 r. i uczestniczył - znów po stronie polskiej - w kolejnych walkach na Ukrainie.
+Podczas tej kampanii wojska Rzeczypospolitej i sprzymierzonych z nimi Kozaków spotykały dziwne i nie zawsze uzasadnione przeszkody. Czasem proste zadania okazywały się z jakichś powodów niemożliwe do wykonania.
+Zaczęto w tym szukać ręki ludzkiej, a wtedy okazało się, że Iwan Bohun donosi Rosjanom o ruchach strony polskiej. Szybko zebrał się sąd wojenny, który wydał wyrok: kara śmierci. Zostaje rozstrzelany w obozie polskim pod Nowogrodem Siewierskim.
+
+<img src="./img/february/bohun.jpg"><br><br>
+
 ---
 
 ### 1434
