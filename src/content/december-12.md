@@ -33,6 +33,10 @@ Zamykanie ludzi w domach i pozbawianie ich pracy budzi frustrację oraz napięci
 
 ---
 
+### CME Launches Water Futures as Water Could Become as Scarce as Bitcoin
+
+---
+
 ### 2019 - czas na.. wzrosty?
 
 "Mijający rok jest trudnym okresem dla polskiej giełdy, a najpoważniejszym ciężarem dla indeksów GPW są spółki kontrolowane przez Skarb Państwa. Jak wynika z wyliczeń Bankier.pl, wartość tych największych spadła w ostatnim roku aż o 49 mld zł".

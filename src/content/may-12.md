@@ -79,6 +79,10 @@ Słaba i schorowana była niezwykle duchem silna, dzielnie znosiła rodzinne kł
 
 <img src="./img/may/sendlerowa.jpg"><br><br>
 
+### 1987
+
+https://pl.wikipedia.org/wiki/James_Jesus_Angleton
+
 ### 1982
 
 W Fatimie podczas pielgrzymki dziękczynnej miała miejsce druga próba dokonania zamachu na życie papieża Jana Pawła II. Tym razem atakującym był Hiszpan Juan Fernandez Krohn (zdjęcie) były ksiądz lefebrysta wyrzucony z Bractwa świętego Piusa X za nieposłuszeństwo i problemy psychiczne.

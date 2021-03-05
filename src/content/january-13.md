@@ -32,6 +32,13 @@ ECB President Christine Lagarde called for global regulation of #Bitcoin
 
 ---
 
+### 1945
+
+W godzinach popołudniowych 13 stycznia 1945 r. pod dowództwem płk. Antoniego Szackiego ps. "Bohun”, nastąpił wymarsz Brygady Świętokrzyskiej NSZ na Zachód. Następnego dnia osiągnęła rejon wsi Kępie – Marcinkowice – Pogwizdów gdzie jej żołnierze stoczyli walki z Niemcami.
+Exodus zakończył się 7 maja 1945 r. na terenie Czech. Brygada dołączyła do wojsk amerykańskich gen. Pattona. Dwa dni wcześniej, 5  maja, żołnierze Brygady wyzwolili niemiecki obóz koncentracyjny dla kobiet w Holiszowie, ratując ok. 700-800 więźniarek od niechybnej śmierci, w tym 167 Polek.
+
+<img src="./img/january/brygadaswietokrzyska.jpg"><br><br>
+
 ### 2016
 
 https://www.3301archive.com/liber-primus/

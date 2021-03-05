@@ -3,10 +3,27 @@ layout: post
 title: 5 marca
 image: img/march/gzowski.jpg
 author: Tomasz Waszczyk
-date: 2019-03-05T10:00:00.000Z
+date: 2020-03-05T10:00:00.000Z
 tags:
-  - 
+  - Hongkong
 draft: false
+---
+
+### 2021
+
+Hongkong zniknął z rankingu wolności gospodarczej
+
+Hongkong przez 25 lat z rzędu był na szczycie rankingu wolności gospodarczej, publikowanym corocznie przez Heritage Foundation. W ubiegłym roku został zdetronizowany przez Singapur. W 2021 roku w ogóle nie ma go na liście.
+Hongkongu nie ma w opublikowanym w czwartek rankingu, bo tak jak Makau został uznany przez autorów rankingu jako część Chin. A te znalazły się na 107 miejscu, między Ugandą i Uzbekistanem.
+
+---
+
+Trwa galopada cen żywności. Inflacja jeszcze wzrośnie
+
+Luty był kolejnym miesiącem szybkiego wzrostu cen żywności na świecie. Jeśli sytuacja się nie zmieni, to oczekiwania na utrzymanie w ryzach inflacji cenowej w Polsce okażą się mrzonką.
+
+Globalny indeks realnych cen żywności w lutym wzrósł dziewiąty miesiąc z rzędu i osiągnął najwyższą wartość od lipca 2014 roku – poinformowała Organizacja Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa (FAO).
+
 ---
 
 ### 1994
@@ -62,7 +79,6 @@ W roku 1841 za sprawą ówczesnego gubernatora Kanady Charlesa Bagota przyjął 
 Dziełem Gzowskiego są także najważniejsze odcinki kanadyjskiej linii kolejowej Grand Trunk Railway biegnącej z Montrealu do granicy amerykańskiej oraz z Toronto do Detroit. W 1890 roku Gzowski został za swoje zasługi odznaczony wysokim brytyjskim odznaczeniem Orderem Św. Michała i Św. Jerzego przez królową Wiktorię. Zmarł 24 sierpnia 1898 roku w Toronto.
 
 <img src="./img/march/gzowski.jpg"/><br><br>
-
 
 ---
 
