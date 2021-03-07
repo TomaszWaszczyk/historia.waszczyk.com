@@ -42,6 +42,22 @@ Efekty rządów Stalina do dziś widoczne są w całej Europie.
 
 <img src="./img/march/stalin.jpg"/><br><br>
 
+Prowadzona przez niego polityka pozwoliła nawet na wymordowanie całego dowództwa Armii Czerwonej wywodzącego się jeszcze z czasów caratu z generałem Tuchaczewskim na czele.
+Oficjalną przyczyną śmierci był wylew krwi do mózgu, ale domniemuje się , że w zejściu z tego świata pomogli mu jego partyjni współtowarzysze, którym marzyło się przejęcie władzy.
+Efekty rządów Stalina do dziś widoczne są w całej Europie.
+
+---
+
+22 letni pilot Polskich Sił Powietrznych podporucznik Franciszek Jarecki (zdjęcie) służący w 28 Pułku Myśliwskim w Redzikowie uprowadził podczas ćwiczeń myśliwski samolot odrzutowy MiG-15 bis.
+Była to udana próba ucieczki na Bornholm. Jej taktyka polegała na upozorowaniu przez Jareckiego rozbicia się samolotu, co udało mu się osiągnąć przez obniżenie pułapu lotu do 200 metrów i zrzucenie dodatkowych zbiorników.
+Początkowo uwierzono , że samolot uległ katastrofie, ale po pewnym czasie zorientowano się, że była to ucieczka z kraju. Rosjanie szybko podjęli akcję przechwycenia uciekiniera, która zakończyła się niepowodzeniem.
+Porucznik doleciał nad wyspę
+Bornholm (dokładnie nad Rønne ), gdzie oczekiwał znaleźć się nad dużą amerykańską bazą wojskową. Ku swojemu rozczarowaniu odkrył, że znajduje się tam jedynie małe, tymczasowe lotnisko. Rozważał wprawdzie podjęcie próby ucieczki do
+Kopenhagi , jednak ze względu na brak paliwa zdecydował się wylądować na Bornholmie. Cała ucieczka trwała zaledwie kilkanaście minut.
+Za ten bardzo odważny i ryzykowny czyn pilot został odznaczony w Londynie przez generała Władysława Andersa Krzyżem Zasługi, a po wyjeździe do USA otrzymał 50 000 dolarów nagrody za sprowadzenie radzieckiego samolotu na Zachód.
+
+---
+
 ### 1946
 
 "Od Szczecina nad Bałtykiem po Triest nad Adriatykiem przecina kontynent żelazna kurtyna".
@@ -69,6 +85,16 @@ Po odnalezieniu przez Niemców mogił rozpoczęto ekshumację zwłok. Zidentyfik
 Katyńskie guziki 1940.
 
 <img src="./img/march/mord.jpg"/><br><br>
+
+### 1871
+
+Urodziła się w Zamościu Rozalia (Róża) Luksemburg - działaczka międzynarodowego ruchu robotniczego, teoretyk socjalizmu, pierwsza Polka z doktoratem z ekonomii, i najczęściej cytowana współcześnie polska autorka.
+Odchodząc całkowicie od spiskowych, blankistowskich postaw, częstych dawniej w polskim ruchu socjalistycznym, Róża Luksemburg przekonywała, że najbliższym celem ekonomicznym polskich robotników pod zaborem rosyjskim winna być walka o poprawę warunków ich bytu: o wyższą płacę, 8-godzinny dzień roboczy, ustawodawstwo pracy, najbliższym zaś celem politycznym – masowa walka w sojuszu z robotnikami rosyjskimi o obalenie caratu i o republikę demokratyczną, która zapewni wszystkim wolności obywatelskie, a narodom ujarzmionym pełne równouprawnienie. W ten sposób oczyszczona miała być droga dla dalszej walki o socjalizm, toczonej już wspólnie z całą międzynarodową socjaldemokracją.
+W kwestii polskiej Luksemburg wychodziła z trzech zasadniczych założeń: mapę polityczną Europy może zmienić w okresie kapitalizmu tylko wojna europejska, której proletariat głosić nie może; nie jest też zadaniem proletariatu tworzenie nowych państw klasowych, lecz walka o zniesienie państwa klasowego w ogóle; również burżuazja, wskutek zysków, czerpanych z rozległych rynków rosyjskich, nie jest zainteresowana w walce o niepodległość Polski. Walka proletariatu polskiego toczy się, zdaniem Luksemburg, na «istniejącym gruncie historycznym i w istniejących warunkach państwowych», a jedynym realnym celem walki o zmianę polskiej sytuacji narodowej jeszcze w warunkach kapitalizmu jest walka o pełne równouprawnienie narodowe, będąca organiczną częścią walki o demokratyzację państw zaborczych w ogóle. Ta zaś, ze względu na jej efektywność, winna być toczona wspólnie z proletariatem każdego z odnośnych państw, a więc rosyjskim, niemieckim i austriackim. W tym właśnie sensie Luksemburg uważała, że jedynym rzeczywistym obrońcą sprawy narodowej jest proletariat, który – nie mogąc powstrzymać procesów niezależnych od siebie – uświadamia sobie i w toku walki klasowej realizuje ich rewolucyjną stronę. Możliwość likwidacji państw wielonarodowych wiązała więc dopiero z powstaniem międzynarodowej społeczności socjalistycznej nie znającej problemu granic państwowych.
+
+<img src="./img/march/luksemburgroza.png"><br><br>
+
+Wróg polskiej niepodległości ale i krytyk....Lenina, żydowskiego pochodzenia komunistka.
 
 ### 1813
 

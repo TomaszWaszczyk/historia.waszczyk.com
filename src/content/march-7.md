@@ -3,7 +3,7 @@ layout: post
 title: 7 marca
 image: img/march/emanuel.jpg
 author: Tomasz Waszczyk
-date: 2019-03-07T10:00:00.000Z
+date: 2020-03-07T10:00:00.000Z
 tags:
   - Warszawa
 ---

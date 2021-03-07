@@ -78,6 +78,8 @@ Ludzkie działanie miało 4 wydania amerykańskie i zostało przetłumaczone na 
 
 https://en.wikipedia.org/wiki/Atlas_Shrugged
 
+https://en.wikipedia.org/wiki/Lev_Rebet
+
 ### 1956
 
 " Nie obrażajcie się panowie, że

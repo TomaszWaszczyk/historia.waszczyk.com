@@ -22,6 +22,14 @@ Mamy wcześniaków nawet po dwóch szczepieniach nie są wpuszczane do dzieci. W
 
 ---
 
+### 1942
+
+Outline of the Post-War New World Map
+
+<img src="./img/february/Gomberg_map.jpg"><br><br>
+
+---
+
 ### 1862
 
 https://pl.wikipedia.org/wiki/Stanis%C5%82aw_G%C5%82%C4%85bi%C5%84ski_(polityk)

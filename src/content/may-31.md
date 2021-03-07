@@ -24,6 +24,24 @@ Był to jeden z czterech procesów w tej sprawie. Ostatni miał miejsce w kwietn
 
 <img src="./img/may/kopalniawujek.jpg"><br><br>
 
+---
+
+Andrey Lugovoy calls himself victim in Litvinenko case
+
+Russian businessman Andrey Lugovoy at a press conference in Moscow has called himself a victim, not the murderer in the Litvinenko case, saying the British special services used him as a scapegoat.
+
+Before November, 2006, almost no one had heard the name Aleksandr Litvinenko. Now it’s almost impossible not to.
+
+The former Russian security officer died last November three weeks after falling ill on November 1. He was admitted to hospital and for weeks it was unclear what was causing him to deteriorate.
+
+With the launch of an investigation a media sensation broke out in the UK-the country obsessed by the “Spy Story” with new speculation each day and almost all fingers pointing at the Kremlin.
+
+“The police investigation will proceed and I think people should know that there is no diplomatic or political barrier in the way of that investigation going wherever it needs to go,” British Prime Minister Tony Blair stressed.
+
+Specialist narrowed down the lethal poison to the radio-active substance polonium 210 shortly before Litvinenko died. The fatal dose could have cost close to 20 MLN pounds.
+
+---
+
 ### 1942
 
 W getcie krakowskim funkcjonariusze Gminy Żydowskiej, przy pomocy policjantów z Judischer Ordungsdienst przeprowadzili kontrolę tzw kart rozpoznawczych, co stało się bezpośrednim pretekstem do rozpoczęcia wysiedlenia około 5 tysięcy ludzi. Większość z nich trafiła do obozu zagłady w Bełżcu.

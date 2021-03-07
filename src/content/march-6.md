@@ -44,6 +44,13 @@ W Theater des Volkes w Berlinie odbył się Kongres Polaków w Niemczech. Był o
 
 <img src="./img/march/kongres.jpg"/><br><br>
 
+### 1913
+
+Tę datę postawił Niels Bohr na liście, wysłanym do swojego mentora, Ernesta Rutherforda. W liście opisał swój słynny model budowy atomu – z jądrem w środku, wokół którego krążą elektrony.
+Była to modyfikacja modelu Rutherforda, do której Bohr dodał dwa postulaty, zupełnie niezgodne z ówczesną klasyczną elektrodynamiką. Zgodnie z jednym z nich elektron wokół jądra nie może poruszać się po dowolnej orbicie, lecz tylko po niektórych. Ponadto elektron poruszając się po danej orbicie nie emituje ani nie pochłania energii. Elektron emituje foton, jeżeli spada z orbity wyższej na niższą, a pochłania foton, jeżeli przechodzi z orbity niższej na wyższą. Model Bohra po kilkunastu latach został uznany za przybliżenie rzeczywistości. Obecne teorie są daleko bardziej skomplikowane i znacznie trudniejsze do objaśnienia.
+
+<img src="./img/march/bohr.jpg"><br><br>
+
 ### 1898
 
 Na ulicach Poznania pojawił się pierwszy tramwaj elektryczny.
