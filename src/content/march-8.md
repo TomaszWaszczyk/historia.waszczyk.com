@@ -15,11 +15,25 @@ draft: false
 
 > "Female workers, take the rifle!" Soviet poster, 1918
 
+---
+
+<img src="./img/march/nhs.jpeg"><br><br>
+
+---
+
 ### 2009
 
 Zmarł w wieku 70 lat znany kardiochirurg profesor Zbigniew Religa. Był twórcą nowoczesnej polskiej transplantoligii. W 1985 roku w klinice w Zabrzu dokonał pierwszego w historii polskiej medycyny udanego przeszczepu serca. Był także ministrem zdrowia w rządzie Kazimierza Marcinkiewicza
 
 <img src="./img/march/religa.jpg"/><br><br>
+
+### 1983
+
+W przemówieniu do Narodowego Stowarzyszenia Ewangelików prezydent USA Ronald Reagan nazwał ZSRR „imperium zła”.
+Te dwa słowa określające Związek Sowiecki wypowiedziane 36 lata temu przez prezydenta USA Ronalda Reagana zelektryzowały cały świat.
+Nic nie wskazywało na to, że 8 marca 1983 r. na Narodowym Zgromadzeniu Ewangelików w Orlando na Florydzie, padnie określenie, które zyska sławę podobną do Churchillowskiej „żelaznej kurtyny”. Po raz pierwszy Zachód usłyszał tak jednoznacznie negatywne określenie Związku Radzieckiego i to z ust jednego z najważniejszych polityków tamtych czasów. Reagan powiedział m.in.:
+„To oni mówią o wyższości państwa, o jego wyższości nad jednostką i przewidują, że państwo obejmie władzę nad całym światem. To oni koncentrują na sobie całe zło tego świata. Więc kiedy dyskutujecie o zamrożeniu potencjałów nuklearnych, postarajcie się uniknąć grzechu pychy, która mogłaby was popchnąć do stwierdzenia, że obie strony tego sporu mają rację, że – ignorując fakty i historię – zignorujecie agresywne działania imperium zła i stwierdzicie, że wyścig zbrojeń jest po prostu nieporozumieniem, a nie walką prawdy z kłamstwem i dobra ze złem”.
+Słowa prezydenta USA cytowały na drugi dzień gazety na wszystkich kontynentach. Historycy uważają dziś, że był to jeden z najważniejszych gestów, który pomógł zakończyć zimną wojnę.
 
 ### 1979
 
@@ -143,6 +157,20 @@ Nic nie wskazywało na to, że 8 marca 1983 r. na Narodowym Zgromadzeniu Ewangel
 Słowa prezydenta USA cytowały na drugi dzień gazety na wszystkich kontynentach. Historycy uważają dziś, że był to jeden z najważniejszych gestów, który pomógł zakończyć zimną wojnę.
 
 <img src="./img/march/reagan.jpg"/><br><br>
+
+### 1618
+
+Niemiecki matematyk i astronom Johannes Kepler sformułował swoje trzecie prawo.
+Prawami Keplera nazywamy trzy prawa astronomiczne, odkryte przez Jana Keplera i opisujące ruch planet wokół Słońca. Kepler sformułował je w oparciu o dane obserwacyjne, pozostawione przez Tychona Brache, nadwornego astronoma cesarza Rudolfa II. Wynikało z nich jednoznacznie, że planety nie mogą krążyć wokół Słońca po okręgach, jak chciał tego Kopernik.
+Wierząc jednak w zasadniczą słuszność teorii Polaka, Kepler poszukiwał innej nieskomplikowanej krzywej, po której mógłby odbywać się ruch planet – kilka lat wytrwałych obliczeń i poszukiwań prowadzonych metodą prób i błędów (Kepler rozpoczął współpracę z Brachem w roku 1600) doprowadziło go do wniosku, że odpowiednią krzywą jest elipsa. Rezultaty swe opublikował w roku 1609 w dziele Astronomia nova ... (Nowa astronomia... – pełny tytuł księgi jest znacznie dłuższy). Po kolejnych kilku latach uzupełnił je trzecim prawem, opublikowanym w roku 1619 w Harmonice Mundi (Harmonia świata)
+Pierwsze prawo Keplera głosi, że:
+Każda planeta Układu Słonecznego porusza się wokół Słońca po elipsie, w której w jednym z ognisk jest Słońce.
+Drugie prawo Keplera:
+Drugie prawo Keplera mówi, że w równych jednostkach czasu, promień wodzący planety poprowadzony od Słońca zakreśla równe pola. Wynika stąd natychmiast, że w peryhelium (w pobliżu Słońca), planeta porusza się szybciej niż w aphelium (daleko od Słońca).
+Trzecie prawo Keplera:
+Trzecie prawo Keplera głosi, że stosunek kwadratu okresu obiegu planety wokół Słońca do sześcianu średniej arytmetycznej największego i najmniejszego oddalenia od Słońca jest stały dla wszystkich planet w Układzie Słonecznym.
+
+<img src="./img/march/kepler.jpg"><br><br>
 
 ---
 

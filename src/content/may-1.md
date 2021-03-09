@@ -89,6 +89,10 @@ Grafika; niemiecki polskojęzyczny dziennik informacyjno-propagandowy Kurier War
 
 https://en.wikipedia.org/wiki/Donald_Kagan
 
+### 1906
+
+<img src="./img/may/matura1906.jpg"><br><br>
+
 ### 1905
 
 Odbyła się w Warszawie wielka manifestacja robotnicza. Wojska rosyjskie brutalnie rozprawiły się z protestującymi ludźmi.

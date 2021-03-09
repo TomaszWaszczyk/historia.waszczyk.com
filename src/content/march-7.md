@@ -8,6 +8,10 @@ tags:
   - Warszawa
 ---
 
+### 2021
+
+> Rozpuszczanie własności
+
 ### 2013
 
 ukazało się polskie wydanie książki ,,Ocalały. Auschwitz, marsz śmierci i walka o wolność'' - autorstwa Sama Pivnika.
