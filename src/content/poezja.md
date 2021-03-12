@@ -503,6 +503,8 @@ https://pl.wikipedia.org/wiki/Sergiusz_Piasecki
 
 https://pl.wikipedia.org/wiki/Sylvia_Plath
 
+Ludwik Jerzy Kern
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

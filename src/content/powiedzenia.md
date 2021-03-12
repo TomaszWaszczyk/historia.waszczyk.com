@@ -3613,6 +3613,8 @@ Act as if your future self is watching you at all times.
 
 Kto trywializuje, ten realizuje.
 
+Ten uczynił komu przyniosło korzyść.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

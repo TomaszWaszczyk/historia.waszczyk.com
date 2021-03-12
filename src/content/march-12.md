@@ -3,11 +3,15 @@ layout: post
 title: 12 marca
 image: img/march/pokoj.jpg
 author: Tomasz Waszczyk
-date: 2019-03-12T10:00:00.000Z
+date: 2020-03-12T10:00:00.000Z
 tags:
   - ZSRR
 draft: false
 ---
+
+### 2021
+
+> Obecne w PL mamy najbardziej na świecie negatywne stopy procentowe, które drenują kieszenie oszczędzających obywateli. Taką polityką monetarną NBPu - uwzględniając realną inflację - te 4,5 mln zł w walucie może za 30 lat nie wystarczyć na bochenek chleba. Warto przypomnieć że 1kg wołowiny w 1975 kosztował tyle co dzisiaj, a w 1990 - 15 500zł.
 
 ### 2019
 
