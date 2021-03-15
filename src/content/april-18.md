@@ -217,6 +217,10 @@ Policja wymienia również część floty tzw. wozów wypadowych, używanych prz
 
 Termin składania ofert na dostawę samochodów minął kilka dni temu. Firmy chcące dostarczyć amunicję (według informatorów Radia Zet specyfika zamówienia wskazuje na konkretnego producenta) mają czas do końca kwietnia.
 
+### 2017
+
+https://pl.wikipedia.org/wiki/Oleg_Zakirow
+
 ### 1989
 
 Odbyło się spotkanie przewodniczącego NSZZ Solidarność Lecha Wałęsy z generałem Czesławem Kiszczakiem. W jego trakcie podjęta została decyzja o powołaniu Komisji Porozumiewawczej- organu, którego zadaniem miało być czuwanie nad realizacją porozumień zwartych podczas zakończonych 5 kwietnia 1989 roku obrad Okrągłego Stołu. Tego samego dnia w Sejmie doszło do pierwszego po ponad siedmiu latach spotkania Lecha Wałęsy z gen. Wojciechem Jaruzelskim.

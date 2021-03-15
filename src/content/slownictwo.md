@@ -1462,6 +1462,21 @@ cliffhanger
 
 małpiarnia powiązana ogonami
 
+uniżony sługa
+
+zaordynować
+1. «przepisać lekarstwa lub zalecić jakąś kurację»
+2. «zastosować jakiś środek zaradczy»
+3. daw. «wydać polecenie»
+
+tyrada
+1.«długa mowa na jakiś temat, zwykle utrzymana w podniosłym stylu»
+2. lit. «długie przemówienie bohatera, wygłaszane w ramach dialogu»
+
+profetyczny - proroczy, wieszczy, odnoszący się do profetów lub profetyzmu; profetycki
+
+wiwisekcja - cięcie żywego
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -8,6 +8,14 @@ tags:
   - Polska
 ---
 
+### 2021
+
+Gates krytykuje bitcoina. Ma fatalny wpływ na środowisko
+
+"Dokonując transakcji płatniczej za pomocą bitcoina generujemy więcej energii niż ma to miejsce w przypadku jakiejkolwiek innej metody płatności” – stwierdził. I podkreślił, że "nie jest to rzecz przyjazna środowisku".
+Gates stwierdził jednak, że "problem energochłonności bitcoina mógłby zniknąć, jeśli do jego produkcji zostaną wykorzystywane odnawialne źródła energii, bez jednoczesnego wykluczania innych użytkowników". Wyjaśnił przy tym, że nie uważa, żeby produkcja kryptowaluty jednoznacznie przyczyniała się do zmian klimatu.
+W ostatnim czasie produkcja kryptowalut stała się jednym z najbardziej energochłonnych procesów. Światowa sieć bitcoinów pochłania tyle prądu, ile w 2018 r. wyniosło równowartość roczne zapotrzebowania na energię elektryczną Irlandii. Niedawno opublikowana analiza naukowców z Uniwersytetu Cambridge wskazuje, że bitcoin obecnie konsumuje tyle energii co cała Argentyna.
+
 ### 2020
 
 Corona wirus
@@ -64,6 +72,13 @@ Polskiego.
 Ostatni numer "Bellony" ukazał się w 1939 roku.
 
 <img src="./img/march/bellona.jpg"/><br><br>
+
+### 1567
+
+Wojna osiemdziesięcioletnia: zwycięstwo wojsk hiszpańskich nad niderlandzkimi powstańcami w bitwie pod Oosterweel.
+Bój toczył się na polach wioski Oosterweel, na północ od Antwerpii. Hiszpańskie oddziały tercios dowodzone przez Philippe de Lannoy hrabia Beauvoir pokonały niderlandzkich powstańców, na czele, których stał Jan Marnix van Aldegonde (poległ w boju od postrzału z arkebuzu).
+12 marca dowództwo hiszpańskie potajemnie przygotowało plan błyskawicznego ataku na przeważające siły niderlandzkie składające się z 2500 ludzi. Szybki nocny (z 12 na 13 marca) marsz 800 żołnierzy tercios podzielonych na małe grupy, aby niezważenie mogły przedostać się miedzy czatami niderlandzkimi do miejsca zbornego. Plan powiódł się bez żadnych większych przeszkód. O godzinie 3:30 w punkcie docelowym podjęto decyzję, aby wykorzystać element zaskoczenia przeciwnika. Postanowiono, aby zaatakować przeciwnika w całkowitej ciszy, (Encamisada) ze zwiniętymi sztandarami. Wydano również rozkazy, aby ostrzał arkebuzerów został prowadzony z minimalnej odległości tak, aby po oddaniu salw dym jednocześnie stanowił osłonę dla mniej liczebnych oddziałów tercios. Grupa została podzielona na dwa oddziały: główny 500 ludzi i drugi o liczebności 200. Zadaniem drugiej grupy było zlikwidowanie patrolów, straży oraz osłony baterii 5 dział przy prowizorycznie zbudowanym bastionie ochraniającym główny obóz.
+O brzasku podchodzący od zachodniego lasu grupa hiszpańska czołgając się (bez uzbrojenia ochronnego) pod umocniony holenderskiego obozu zaczęła wykonywać swoje zadania: zlikwidowała śpiących strażników (korzystając z kusz) przy małym bastionie oraz wybiła niczego niespodziewających się artylerzystów. Natychmiast obrócono działa w liczbie 5 w bramę oraz przebrano kilku ludzi znających niderlandzki w odzież poległych Holendrów. Po zajęciu baterii posłano gońca z informacją obwieszającą sukces pierwszej fazy planu oraz jednoczesne ponaglenie, aby główne siły przybyły w miarę możliwości jak najszybciej na pozycje przy bastionie. Nie minęło 40 minut, gdy druga kolumna pojawiła się na skraju lasu. W pewnym momencie rozległ się dzwięk bębnów. Głowna kolumna została zauważona, ale jakież było zdziwienie straży niderlandzkich na wałach, gdy spostrzegli w blasku poranku własne armaty wycelowane w ich kierunku. W obozie zapanował chaos werble, trąbki zaczęły wzywać śpiących ludzi pod broń. W pewnym momencie, gdy obie kolumny hiszpańskie połączyły się wypaliły wszystkie pięć armat w kierunku prowizorycznych umocnień. Hiszpanie z okrzykiem "Za świętego Jakuba i Hiszpanię!" rzucili się na bezradnych Holendrów, którzy wprawdzie stawili dzielny opór jednak zwarte szeregi arkebuzerów hiszpańskich powstrzymały rozpaczliwą próbę kontrataku oddając salwę, po czym razem z pikinierami, (którzy w tej akcji użyli krótszych pik morskich) oraz oddziałami escudados uzbrojonymi w puklerze i broń białą rzucili się na zmieszanych Holendrów. Z 2500 żołnierzach niderlandzkich ok. 200 zdołało ujść z pogromu.
 
 ---
 

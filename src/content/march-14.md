@@ -3,13 +3,23 @@ layout: post
 title: 14 marca
 image: img/march/trump.jpeg
 author: Tomasz Waszczyk
-date: 2019-03-14T10:00:00.000Z
+date: 2020-03-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
 
+### 2021
+
+> We are willing to rebuild the Old Synagogue that once belonged to the city of Katowice, but was completely destroyed in 1939
+
+<img src="./img/march/synagogakatowice.jpg"><br><br>
+
+---
+
 https://en.wikipedia.org/wiki/Pi_Day
+
+---
 
 ### 2020 - Barany chodzą stadami. Orły latają samotnie
 

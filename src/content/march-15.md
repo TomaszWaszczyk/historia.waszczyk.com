@@ -3,11 +3,21 @@ layout: post
 title: 15 marca
 image: img/march/parkiet.jpg
 author: Tomasz Waszczyk
-date: 2019-03-15T10:00:00.000Z
+date: 2020-03-15T10:00:00.000Z
 tags:
   - Blockchain
 draft: false
 ---
+
+### 2021
+
+> „Der Spiegel”: Symptomy upadku Niemiec
+
+U schyłku ery Angeli Merkel w Niemczech dostrzec można zalążki klęski. W kluczowych dziedzinach kraj znajduje się na zaledwie przeciętnym poziomie. Państwo jest dysfunkcjonalne, a społeczeństwo zastygłe w dobrobycie.
+
+Ullrich Fichtner w eseju opublikowanym w najnowszym wydaniu tygodnika „Der Spiegel” maluje w czarnych barwach przyszłość Niemiec.  Autor porównuje RFN do Imperium Osmańskiego, które po okresie świetności, z czasem przestało się rozwijać i uległo w końcu rozpadowi.
+
+„Społeczeństwo, które zamyka się na zmiany, na dłuższą metę nie utrzyma dostatku. Kraj, który próbuje zatrzymać czas, aby korzystać z osiągniętego dobrobytu, upadnie. Kultura, która żywi się jedynie przeszłością i teraźniejszością, a do przyszłości odwraca się plecami, jest skazana na zagładę – pisze Fichtner.
 
 ### 2020
 
