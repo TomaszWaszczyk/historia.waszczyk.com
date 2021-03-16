@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 16 marca
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/march/bierut.jpg
 author: Tomasz Waszczyk
-date: 2019-03-16T10:00:00.000Z
+date: 2020-03-16T10:00:00.000Z
 tags:
   - Polska
 draft: false

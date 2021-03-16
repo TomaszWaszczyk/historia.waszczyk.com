@@ -19,6 +19,12 @@ Ullrich Fichtner w eseju opublikowanym w najnowszym wydaniu tygodnika „Der Spi
 
 „Społeczeństwo, które zamyka się na zmiany, na dłuższą metę nie utrzyma dostatku. Kraj, który próbuje zatrzymać czas, aby korzystać z osiągniętego dobrobytu, upadnie. Kultura, która żywi się jedynie przeszłością i teraźniejszością, a do przyszłości odwraca się plecami, jest skazana na zagładę – pisze Fichtner.
 
+---
+
+Francuski fundusz gra pod wzrost stóp procentowych w Polsce. Inflacja za wysoka
+
+---
+
 ### 2020
 
 <img src="./img/march/parkiet.jpg"/><br><br>
@@ -101,6 +107,23 @@ Obradująca w Paryżu Rada Ambasadorów Ententy, której przewodniczył premier 
 W osobnej klauzuli uznano również granicę polsko-litewską wytyczoną w lutym 1923 roku.
 
 <img src="./img/march/ententa.jpg"/><br><br>
+
+### 1412
+
+W Lubowli na Spiszu zakończyło się spotkanie króla Węgier i Niemiec Zygmunta Luksemburczyka oraz króla Polski Władysława II Jagiełły, w efekcie którego obaj monarchowie zawarli wieczyste przymierze. W jego wyniku węgierski władca otrzymał od Jagiełły pożyczkę w wysokości 37 tys. kop groszy praskich w zamian za zastaw trzynastu miast spiskich, które pozostały przy Polsce do drugiej połowy XVIII w.
+„Traktat w Lubowli miał niezwykle istotne znaczenie dla monarchii jagiellońskiej. Układy z Zygmuntem sprawiły, że król polski został uznany za pełnoprawnego europejskiego, chrześcijańskiego władcę, osłabiały również pozycję Zakonu i niwelowały niekorzystne skutki jego pogrunwaldzkiej propagandy. Jeszcze większe znaczenie miało rozerwanie sojuszu Zygmunta z Krzyżakami. Polska Władysława Jagiełły wychodziła z politycznej izolacji” – oceniał znaczenie traktatu lubowelskiego prof. Stanisław Szczur („Historia Polski. Średniowiecze”).
+Przeszkodą uniemożliwiającą zbliżenie Władysława Jagiełły i Zygmunta Luksemburczyka w pierwszej dekadzie XV stulecia była wojna polsko-krzyżacka, w której król węgierski (od 1387 r.) i niemiecki (od 1411 r.) konsekwentnie popierał zakon. Wyrazem antypolskiej polityki Luksemburczyka był najazd wojsk węgierskich dowodzonych przez Ścibora ze Ściborzyc jesienią 1410 r. zakończony m.in. spaleniem Starego Sącza.
+Po podpisaniu II pokoju toruńskiego w 1411 r., mimo iż Polska i Węgry pozostawały w stanie wojny, doszło do przełomu we wzajemnych relacjach. „O zwrocie w polskiej polityce zagranicznej zadecydowało wiele czynników. Nie bez znaczenia było nastawienie społeczeństw obu krajów. Konflikt z Polską nie był na Węgrzech popularny. Taka sama postawa zaczęła dominować również w Polsce. Elity polityczne obu państw dążyły do zawarcia trwałego porozumienia” – pisał prof. Szczur.
+Dzięki zabiegom mediacyjnym polskiego i węgierskiego możnowładztwa oraz staraniom legata papieskiego kard. Brando de Castiglione 12 marca 1412 r. w Lubowli na Spiszu doszło do spotkania obu władców. Efektem trzydniowych rozmów Jagiełły z Luksemburczykiem, w których uczestniczył również w. ks. Witold, było zawarcie 15 marca tego roku dwustronnego przymierza o charakterze wieczystym, wymierzonego we wszystkich wrogów obu królów.
+Porozumienie z Lubowli dzieliło także strefy wpływów Polski i Węgier: Ruś Halicka i Podole zostały uznane za część Królestwa Polskiego, przy czym w traktacie zapisano, że po upływie pięciu lat od śmierci jednego z władców o przyszłości tych terytoriów miał zadecydować właściwy dla obu stron sąd polubowny. Zygmunt Luksemburczyk uznał polskie zwierzchnictwo nad Mołdawią (będącą lennem Polski od 1387 r.) rządzoną przez hospodara Aleksandra I Dobrego. Ten ostatni miał obowiązek wesprzeć zbrojnie króla Węgier i Niemiec, gdyby zdecydował się on na prowadzenie wojny z Turkami lub innymi „niewiernymi”. Z kolei Jagiełło uznał węgierskie wpływy na Wołoszczyźnie.
+W traktacie lubowelskim obie strony uzgodniły także warunki pożyczki dla Luksemburczyka, który potrzebował pieniędzy m.in. ze względu na spór o Dalmację prowadzony z Republiką Wenecką. Pożyczka miała zostać pokryta z kontrybucji wypłacanych Polakom przez Krzyżaków (ogółem, na mocy porozumienia pokojowego w Toruniu, Zakon miał zapłacić Polsce 100 tys. kop groszy praskich).
+Zdaniem prof. Jadwigi Krzyżaniakowej i prof. Jerzego Ochmańskiego układ z Lubowli „zmieniał dotychczasowy stosunek polityki (Jagiełły – dzieje.pl), wiążąc ją z wielką polityką prowadzoną przez króla węgierskiego i rzymskiego (niemieckiego – dzieje.pl). Zmieniał też układ sił w tej części Europy, gdyż rozrywał, przynajmniej formalnie, sojusz luksembursko-krzyżacki, a z drugiej strony, przez wyłączenie się Jagiełły, osłabiał ligę antyluksemburską” („Władysław II Jagiełło”).
+Zawarcie przymierza w Lubowli umożliwiło normalizację stosunków między Polską a Węgrami, czego przejawem było m.in. zwrócenie Jagielle polskich insygniów koronacyjnych, które w 1370 r. wywiózł na Węgry Ludwik Andegaweński.
+Podczas zjazdu w Budzie w czerwcu 1412 r. obaj monarchowie uzgodnili, że wszelkie spory polsko-krzyżackie zostaną przekazane pod arbitraż króla Węgier i Niemiec; z kolei zatargi Luksemburczyka z książętami austriackimi miał rozstrzygać Jagiełło.
+Podczas spotkania w Budzie oraz w wyniku negocjacji na Zamku Dunajec (w Niedzicy) zdecydowano o przekazaniu Węgrom 37 tys. kop groszy praskich (ok. 7,5 tony srebra). W zamian za pożyczkę Luksemburczyk przekazał Polsce pod zastaw 13 miast spiskich: Białą Spiską, Lubicę, Matejowce, Nową Wieś Spiską, Poprad, Spiską Sobotę, Wierzbów, Straże, Ruszkinowce, Wielką, Spiskie Podgrodzie, Spiskie Włochy, Twarożnę oraz 15 pobliskich wsi.
+„Te zaś ziemie , zamki, miasta i wsie rzeczony pan Władysław król polski, następcy, prałaci i baronowie jego będą dzierżyć, posiadać i mieć tak długo, póki jemu lub jego następcom, prałatom lub baronom wymieniona suma 37 000 kóp szerokich groszy monety czeskiej, dobrej i sprawiedliwej wagi, albo wartość ich w złocie lub srebrze, nie zostanie przez nas lub naszych następców rzeczywiście wypłacona” – zapisano w dokumencie królewskim dotyczącym zastawu spiskiego z 8 listopada 1412 r.
+Na mocy porozumień z Węgrami Polska odzyskała także Podoliniec, Gniazda oraz Lubowlę z zamkiem, którą ustanowiono siedzibą nowo utworzonego z zastawionych terenów starostwa spiskiego.
+W 1489 r. decyzją sądu papieskiego we Wrocławiu zastawione miejscowości na Spiszu zostały przyznane Polsce na stałe. Pomimo kilku prób, Węgrzy nigdy nie wykupili zastawu spiskiego. W 1769 r. starostwo spiskie zostało zajęte przez wojska austriackie i ostatecznie oderwane od Polski.
 
 ---
 
