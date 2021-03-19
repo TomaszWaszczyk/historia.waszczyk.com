@@ -73,6 +73,10 @@ W trakcie cumowania na lotnisku w Lakehurst w amerykańskim stanie New Jersey sp
 
 <img src="./img/may/hindenburg.jpg"><br><br>
 
+### 1882
+
+https://en.wikipedia.org/wiki/Chinese_Exclusion_Act
+
 ### 1856
 
 Urodził się lekarz, neurolog i twórca psychoanalizy Sigmund Freud

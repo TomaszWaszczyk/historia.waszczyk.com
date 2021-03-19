@@ -3,11 +3,15 @@ layout: post
 title: 7 marca
 image: img/march/anna.jpg
 author: Tomasz Waszczyk
-date: 2019-03-07T10:00:00.000Z
+date: 2020-03-17T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2021
+
+> Tarnowskie Góry. Zamykają urologię i chirurgię. Będą leczyć COVID. „Przyszedł nakaz”
 
 ### 2020
 
@@ -50,6 +54,13 @@ Wspomina Władysław Lewkowicz:
 
 <img src="./img/march/plotnicka.jpg"/><br><br>
 
+### 1938
+
+W wyniku incydentów granicznych i śmierci 11 marca żołnierza KOP Stanisława Serafina zostało wystosowane polskie ultimatum wobec Litwy z żądaniem natychmiastowego nawiązania stosunków dyplomatycznych.
+W Tallinnie, stolicy Estonii, poseł polski Wacław Przesmycki wręczył posłowi litewskiemu Broniusowi Dailide ultimatum, w którym Polska żądała od Litwy nawiązania w ciągu 48 godzin stosunków dyplomatycznych. W razie odmowy miało dojść do interwencji zbrojnej. Pretekstem wywarcia nacisku na Kowno było zastrzelenie żołnierza Korpusu Ochrony Pogranicza, ścigającego mężczyznę próbującego nielegalnie przekroczyć granicę. Według polskiej dyplomacji był to skutek nieuregulowania sytuacji między państwami. Dwa dni później rząd i litewski Sejm pod naciskiem Anglii, Francji, Niemiec i ZSRR przyjęły ultimatum. Nawiązana została łączność telekomunikacyjna i pocztowa oraz ustanowieni posłowie.
+
+<img src="./img/march/kop.jpg"><br><br>
+
 ---
 
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
+<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

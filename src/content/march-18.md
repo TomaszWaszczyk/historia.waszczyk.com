@@ -3,7 +3,7 @@ layout: post
 title: 18 marca
 image: img/march/nbp.jpg
 author: Tomasz Waszczyk
-date: 2019-03-18T10:00:00.000Z
+date: 2020-03-18T10:00:00.000Z
 tags:
   - Polska
 ---
@@ -113,7 +113,6 @@ It didn’t matter. The note could have said, “give it to me.” When the insa
 Qusay and a friend loaded bag after bag into the three trucks. They left with one-quarter of the bank’s reserves that day without lifting a gun or making a single threat.
 
 Like most bank thieves, they didn’t get away with it. Qusay and Uday paid the most precious price for their roles in Iraq; their lives. So did Saddam. Of course, the heist didn’t have to do with any of that, unless you believe in karma.
-
 
 ---
 

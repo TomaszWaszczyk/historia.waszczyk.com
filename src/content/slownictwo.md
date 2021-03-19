@@ -1477,6 +1477,8 @@ profetyczny - proroczy, wieszczy, odnoszący się do profetów lub profetyzmu; p
 
 wiwisekcja - cięcie żywego
 
+humbug «bardzo rozreklamowana sprawa, która po pewnym czasie okazuje się oszustwem»
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
