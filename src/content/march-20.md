@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 20 marca
-image: img/9-04/Second_world_war_europe_1940_map_de.png
+image: img/march/plebiscyt.jpg
 author: Tomasz Waszczyk
-date: 2019-03-20T10:00:00.000Z
+date: 2020-03-20T10:00:00.000Z
 tags:
-  - Historia
-draft: true
+  - Plebiscyt
+draft: false
 ---
 
 ### 2020
