@@ -158,6 +158,16 @@ Słowa prezydenta USA cytowały na drugi dzień gazety na wszystkich kontynentac
 
 <img src="./img/march/reagan.jpg"/><br><br>
 
+### 1769
+
+Konfederacja barska: Rosjanie zdobyli twierdzę Okopy Świętej Trójcy.
+Niewielka wioska położona niedaleko Kamieńca Podolskiego na trwałe zapisała się w historii Polski i w… rodzimej literaturze. Wszystko zaczęło się po utracie przez Polskę Kamieńca Podolskiego. Hetman Stanisław Jan Jabłonowski zwrócił uwagę króla Jana III Sobieskiego na to, że znajdujący się w Okopach niewielki szaniec jest doskonale położony i świetnie nadaje się na twierdzę, która będzie mogła blokować Turków czy Tatarów. Król wyraził aprobatę i niewielka miejscowość szybko zmieniła się w ufortyfikowane orle gniazdo. W roku 1699 właśnie tutaj zatrzymała się podążająca do odzyskanego Kamieńca ludność Polska. Powstał wtedy pomysł aby uczynić z Okopów miasto. Pozyskano nawet przychylność Augusta II Sasa, ale niestety czasy nie sprzyjały rozwojowi miast. Osada bardzo szybko się wyludniała i nic nie mogło zmienić tego stanu rzeczy.
+Podczas konfederacji barskiej bohaterską obroną twierdzy dowodził Wawrzyniec Potocki. Kiedy sytuacja stała się krytyczna wojsko polskie wycofało się za Dniestr. Błędne informacje w raportach rosyjskich (zaniżone straty własne i brak informacji o jeńcach) mogą dowodzić, że część polskich żołnierzy została dobita przez wrogów. Ruiny twierdzy zwiedził jako dziecko Zygmunt Krasiński. Można domniemywać, że historia bohaterskiej obrony, jaką przyszły poeta wtedy usłyszał, tak mocno zapadła mu w pamięć, że uczynił on Okopy bastionem arystokratów w swym dramacie "Nie-boska komedia". Pisze on o zamku tymi słowami:
+"Na wyspie granitowej, nagiej stoją wieże zamku, wbite w skałę pracą dawnych ludzi i zrosłe ze skałą, jak pierś ludzka z grzbietem u centaura. Ponad niemi sztandar się wznosi, najwyższy i sam jeden wśród szarych błękitów."
+Jeszcze pod koniec XIX wieku zamek był w stosunkowo dobrym stanie. Kamieniecki historyk Antoni J. Rolle wspominał w 1880 roku, że wprawdzie wały porastają wiekowe drzewa, ale "mury utrzymane są dobrze". W okresie międzywojennym wieś należała do Polski. W jej pobliżu zbiegały się trzy granice - polska, rumuńska i radziecka.
+
+<img src="./img/march/konfederacjabarska.jpg"><br><br>
+
 ### 1618
 
 Niemiecki matematyk i astronom Johannes Kepler sformułował swoje trzecie prawo.
