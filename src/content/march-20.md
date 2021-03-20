@@ -108,6 +108,14 @@ uprawnionych. .
 
 <img src="./img/march/plebiscyt.jpg"/><br><br>
 
+### 1345
+
+Nastąpiła koniunkcja Marsa, Jowisza i Saturna, łączona przez ówczesnych astrologów z rozpoczętą wkrótce epidemią tzw. „czarnej śmierci” w Europie.
+Sprawa jest ciekawa również z astrologicznego punktu widzenia, a zwłaszcza z punktu widzenia historii astrologii, bo sięga ona czasów średniowiecznej zarazy. Kiedy w latach 1347-1350 w Europie szalała dżuma, zwana „Czarną Śmiercią”, blisko 30 procent mieszkańców Europy straciło życie. To była najstraszliwsza epidemia w historii ludzkości, a ogrom zniszczeń był dla wszystkich zatrważający. Nic więc dziwnego, że ci, co uszli z życiem, usiłowali na różne sposoby tłumaczyć sobie przyczyny tej okropnej zarazy.
+Na prośbę króla Francji, Filipa VI, profesorowie z paryskiego uniwersytetu przygotowali specjalny raport wyjaśniający powody pojawienia się Czarnej Śmierci. W średniowieczu każdy wykształcony lekarz był dobrze obeznany z astrologią medyczną, toteż nie jest zaskoczeniem, że w raporcie odnajdujemy odwołania do wpływu gwiazd. Uczeni zauważyli, że na trzy lata przed epidemią doszło do potrójnej koniunkcji Marsa, Saturna i Jowisza w powietrznym znaku Wodnika. Co więcej, było to tuż po zaćmieniu Księżyca i niecałe dwa tygodnie przed całkowitym zaćmieniem Słońca. Horoskop średniowiecznej dżumy astrologowie obliczyli na 20 marca 1345 roku, godz. 12:50.
+
+<img src="./img/march/koniunkcja.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-20.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
