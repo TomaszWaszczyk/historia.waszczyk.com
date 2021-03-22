@@ -146,6 +146,13 @@ To jest tylko fragment wielkiej listy Polaków i Niemców, którzy za pracę wyw
 
 Jeżeli dodamy do tego, że nawet w tak "świętym" miejscu dla polskiego przedwojennego wywiadu, jakim były budynki w Pyrach, grupy poszukiwawcze złożone z oficerów Abwehry znalazły książki szyfrowe jednego z rodzajów wojsk, a w tym książkę szyfrową służącą do łączności z Oddziałem II SG, to cóż można myśleć o profesjonalizmie polskich oficerów. Zresztą długo przed wrześniem 1939 r. Niemcy złamali szyfry polskiego MSZ do łączności z placówkami dyplomatycznymi rozmieszczonymi w różnych punktach świata. Chodzi o szyfr do komunikacji zarówno w języku polskim, jak i w języku przedwojennej dyplomacji, a więc francuskim. Zebrałem ogromny materiał dokumentacyjny na ten temat i zamierzam w ciągu kilku miesięcy opublikować wyniki moich żmudnych poszukiwań. Mogę opublikować również wierne kopie polskich ksiąg szyfrowych znalezionych przez niemieckie jednostki wojskowe w Pyrach.
 
+### 1933
+
+Decyzją Heinricha Himmlera został założony pierwszy niemiecki obóz koncentracyjny Dachau.
+Ale to nie był wynalazek Niemców. Pierwsze obozy zastosowały władze hiszpańskie (gen. Valeriano Weyler y Nicolau) w 1896 roku na Kubie – wobec rebeliantów, ale także wobec chłopów niebędących powstańcami. Obozy nazwano „campos de concentración. Władze brytyjskie (gen. Horatio Herbert Kitchener) w czasie II wojny burskiej (1899–1902) też zorganizowały „concentration camps” (obozy koncentracyjne) dla kobiet i dzieci Burów walczących przeciwko Anglikom. W obozach zmarło z głodu i chorób ok. 27 tys. (1/4) więźniów.
+
+<img src="./img/march/dachau.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-21.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
