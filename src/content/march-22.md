@@ -29,6 +29,12 @@ Częściowo na podstawie listów generała do rodziny, w 2006 powstał amerykań
 
 <img src="./img/march/tadamichi.jpg"><br><br>
 
+### 1929
+
+https://pl.wikipedia.org/wiki/Yayoi_Kusama
+
+<img src="./img/march/polkadot.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-22.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

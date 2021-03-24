@@ -3,10 +3,36 @@ layout: post
 title: 24 marca
 image: img/march/mennica.jpeg
 author: Tomasz Waszczyk
-date: 2019-03-24T10:00:00.000Z
+date: 2020-03-24T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2021: podwyżki - rekompensaty, powrót do PRL
+
+> Obecne próby ratowania wizerunku dobrego rządu broniącego obywateli przed podwyżkami, przypominają monolog Jacka Fedorowicza z czasów PRL. W skrócie: rząd zapowiedział podwyżki cen o 64 proc., lider związków zawodowych Alfred Miodowicz grzmiał, groził strajkiem, więc rząd przystąpił do negocjacji. Jak oznajmił Alfred Miodowicz, zakończyły się wielkim sukcesem - podwyżka będzie tylko o 63 proc., więc będzie obniżka. Miejmy nadzieję, że obecne rekompensaty nie pójdą w tym kierunku.
+> Takie zabiegi w PRL nazywano operacjami cenowo-dochodowymi. W ten sposób władza kilka razy wprowadzała drastyczne podwyżki, a potem częściowo rekompensowała je ludności. Obecny rząd powinien pamiętać, jak wielkie niepokoje społeczne może to wzbudzić i jakie efekty przynieść podczas wyborów.
+
+---
+
+<!-- To co się wyprawia to już przechodzi wszelkie granice.
+
+✅Zapraszam do lektury COVIDowego kabaretu w trakcie porodu:
+W dniu wczorajszyn mieliśmy zaplanowany termin porodu naszego synka. Od miesiąca byliśmy spakowani, przygotowani i zadowoleni z możliwości porodu rodzinnego. Dzisiaj rano nadszedł ten długo wyczekiwany moment, zaczęły się skurcze, czekaliśmy spokojnie, aż skurcze były co około 7 minut i zadowoleni ZDROWI i z uśmiechem na twarzy wybraliśmy się we dwoje o 9:30 do Mazowiecki Szpital Wojewódzki w Siedlcach... no i zaczął się kabaret. Najpierw żeby upewnić się że to już ten czas, zaprowadziłem przyszłą mamę do wejścia, po czym czekałem spokojnie w samochodzie na informację czy to już ten moment (żeby nie robić dwa razy testu jakby okazało się że za wcześnie) Po kilku minutach ZDROWEJ przyszłej mamie zrobiono oczywiście test. Takie procedury... Który jak się okazało wyszedł pozytywny, zdziwienie nasze było ogromne tym bardziej, że oboje czuliśmy się bardzo dobrze. Zrobiono badania, okazało się, że pacjentka kwalifikuje się do przyjęcia na oddział, z tym że problem jest taki, że w szpitalu wojewódzkim w Siedlcach nie przyjmują pacjentek z pozytywnym wynikiem... super... takie procedury... i nikt z tęgich głów, pomimo że nalegaliśmy wielokrotnie nie pomyślał o tym żeby może jednak powtórzyć test zważając na sytuacje i brak objawów... zdecydowano, że pacjentkę trzeba przewieźć do innego szpitala - takie procedury. Z tym, że kolejny problem to brak miejsc w szpitalu miejskim w Siedlcach, a najbliższy szpital jest w Warszawie... poruszyliśmy niebo i ziemię żeby powtórzyli test, ale nic z tego. Takie procedury... A więc przygotowano karetkę i personel (BEZ LEKARZA!) ubrany jakby conajmniej jechali do Czarnobyla i ze skurczami co 5 minut wysłano o godzinie 11:40 przyszłą mamę w półtorej godzinną podróż do Warszawy... Takie procedury... jak można było się spodziewać w drodze do Warszawy, w Kałuszynie skurcze były już co 2-3 minuty, w związku z czym zdecydowano się pacjentkę zostawić w szpitalu w Mińsku Mazowieckim - który oczywiście nie jest przygotowany na przyjmowanie pacjentek z pozytywnym wynikiem... przewieźli i pozbyli się problemu... takie procedury... w Mińsku panika, nikt nie wie co zrobić, pacjentkę więc zabrano do jakieś oddzielnej sali (chociaż podobno ciężko to nazwać salą), gdzie podłączono ją do KTG, bez możliwości wyjścia do toalety i z informacją, że po porodzie nasz synek zostanie w szpitalu w Mińsku, a ją będą musieli przewieźć do innego szpitala... takie procedury... ja dojechałem 20 minut później, ale oczywiście szpital pozamykany można jedynie porozmawiać przez domofon, więc niewiele mogłem zrobić. Dodzwoniłem się do lekarza który powiedział, że czekają na wynik testu i żeby zadzwonić za godzinę. Po tym czasie oczywiście przez kolejne 40 minut nikt nie odbierał telefonu, po czym Karola się odezwała i napisała mi że wynik testu UWAGA - NEGATYWNY 🤦‍♂️ to ja już zadowolony idę do szpitala dzwonię domofonem, a tam Pani mi mówi że mnie nie wpuści, bo poród rodzinny trzeba zgłaszać wcześniej 🤯 podano mi numer do lekarza i poinformowano, że jak się zgodzi to mnie wpuszczą. Dzwonię ale oczywiście lekarz nie odbiera, dodzwoniłem się do kogoś na oddziale i poinformowano mnie, że mnie nie wpuszczą i że muszą zrobić jeszcze jeden test ⁉️⁉️ i żeby zadzwonić za godzinę... po godzinie oczywiście dodzwonić do lekarza się nie da, jedynie ktoś odebrał z oddziału i mnie poinformowała że Karola rodzi, a wyniku testu jeszcze nie ma, ale że w sumie nie jest pewna bo jest gdzie indziej i prosi żeby czekać cierpliwie ... no to stoję i czekam w samochodzie, ciekawy co jeszcze nas dzisiaj czeka 🙈
+Ja się pytam:
+Co w takim razie mówi nam pozytywny wynik testu, a co negatywny ? 
+Po co robić testy skoro równie dobrze można rzucić monetą - będzie taniej ...
+Jak żyć Panie premierze Mateusz Morawiecki? Czy Was już nie poebało doszczętnie ? 
+I tak z zaplanowanego pięknego dnia zafundowaliście nam dramat... nawet nie chcę myśleć jak się czuła przez te wszystkie godziny Karola, mam tylko nadzieję, że nasz Jaś urodzi cały i zdrowy i że przede wszystkim nie zabiorą go młodej mamie...
+—EDIT—
+3 test PCR negatywny, pozdrawiamy Siedlecki szpital wojewódzki 🤦‍♂️
+—EDIT2— 
+To nie koniec❗️
+Paranoi i kabaretu ciąg dalszy:
+Pomimo dwóch negatywnych testów i przeniesienia Karoliny na normalny oddział w szpitalu w Mińsku, po wyjściu ze szpitala z skontaktował się z nią sanepid informując, że podlega kwarantannie 🤯 🤣
+Według sanepidu Karolina o 9:30 robiac pierwszy test miała jeszcze ślady wirusa, a o 13 już nie i mimo wszystko jest zakwalifikowana jako osoba chora ... Takie procedury... 😳 czy komuś przypadkiem cytując „sufit na łeb się nie spadł”? -->
+
 ---
 
 ### 2020

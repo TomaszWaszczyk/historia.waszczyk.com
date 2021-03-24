@@ -3,11 +3,27 @@ layout: post
 title: 23 marca
 image: img/march/vix.png
 author: Tomasz Waszczyk
-date: 2019-03-23T10:00:00.000Z
+date: 2020-03-23T10:00:00.000Z
 tags:
   - Dr Zhou Xiaochuan
 draft: false
 ---
+
+### 2021
+
+The Federal Reserve Is No Longer Publishing The M2
+
+Translation:
+
+The American Central Bank
+
+Will No Longer Tell You
+
+How Much Money They Are Printing
+
+<img src="./img/march/m2usamarch.jpeg"><br><br>
+
+(True for February and March, 2021)
 
 ### 2020 - Fed Unleashes Unprecedented Measures to Shore Up Reeling Economy (like infinite QE??)
 
