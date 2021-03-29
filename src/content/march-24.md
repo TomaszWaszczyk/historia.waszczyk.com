@@ -16,6 +16,12 @@ draft: false
 
 ---
 
+Prezes Fed uważa, że Bitcoin jest zbyt zmienny, aby być pieniądzem. - Powell
+
+<img src="./img/march/powellbitcoin.jpeg"><br><br>
+
+---
+
 <!-- To co się wyprawia to już przechodzi wszelkie granice.
 
 ✅Zapraszam do lektury COVIDowego kabaretu w trakcie porodu:

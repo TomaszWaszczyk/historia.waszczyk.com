@@ -77,6 +77,10 @@ Herb zmieniono dopiero po wojnie w 1945 roku. Niedawno telewizja TVN opatrując 
 
 https://pl.wikipedia.org/wiki/Plan_Czteroletni_(III_Rzesza)
 
+### 1923
+
+https://pl.wikipedia.org/wiki/Gulden_gda%C5%84ski
+
 ### 1813
 
 VI koalicja antyfrancuska: porażka wojsk napoleońskich w bitwie pod Lipskiem (tzw. „Bitwie Narodów”). W czasie odwrotu w nurtach Elstery utonął książę Józef Poniatowski.

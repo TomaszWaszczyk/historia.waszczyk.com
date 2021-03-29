@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Goldman Sachs has now filed for a Bitcoin ETF.
+
+Last year, they called bitcoin "not an asset class"
+
+---
+
+(Bloomberg) -- Argentina is unable to repay its $45 billion debt with the International Monetary Fund under current negotiating conditions, influential Vice President Cristina Fernandez de Kirchner said Wednesday, diminishing the possibility of an agreement with the country’s largest creditor.
+
+“We can’t pay because we don’t have the money to pay,” Fernandez de Kirchner said at an event in Buenos Aires, adding that the terms and conditions are “unacceptable.”
+
+Fernandez de Kirchner’s comments come after discussions between Economy Minister Martin Guzman and IMF Managing Director Kristalina Georgieva in Washington on Tuesday that what was described by both sides as a “very good meeting.”
+
+<img src="./img/march/argentyna2021.jpg"><br><br>
+
+---
+
 ### 2020
 
 Doniesienia wydają się potwierdzać, że mamy stan wyjątkowy de facto, bez wprowadzenia go de iure...

@@ -39,6 +39,8 @@ Powstanie zakończyły władze austriackie, które uznały, że chłopski bunt n
 
 <img src="./img/february/rzez.jpg"/><br><br>
 
+https://pl.wikipedia.org/wiki/Jakub_Szela
+
 ---
 
 Został aresztowany Ignacy Łukasiewicz.

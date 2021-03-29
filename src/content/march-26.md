@@ -3,11 +3,15 @@ layout: post
 title: 26 marca
 image: img/march/unemployment.jpg
 author: Tomasz Waszczyk
-date: 2019-03-26T10:00:00.000Z
+date: 2020-03-26T10:00:00.000Z
 tags:
   - Koronawirus
 draft: false
 ---
+
+### 2021
+
+> Poproszę o pomoc. Zostałam oddelegowana od dzisiaj do Szpitala Tymczasowego i będąc w kadrach usłyszałam ze moją podstawą będzie 2x pensja młodszego asystenta (która jest niższa niższa od rezydentury), jestem rezydentem i tak tez paniom powiedziałam, na co orzekły ze jestem oddelegowana i w szpitalu tymczasowym nie jestem rezydentem tylko młodszym asystentem. Czy tak można?
 
 ### 2020
 
@@ -139,6 +143,8 @@ Rozpoczęło się trwające do 4 kwietnia 1813 rosyjskie oblężenie Jasnej Gór
 
 Sejm Czteroletni podjął uchwałę o opodatkowaniu szlachty i duchowieństwa daniną o nazwie "podatek dziesiątego grosza".
 Był to sposób na zebranie pieniędzy przeznaczonych na powiększenie i dobrojenie armii. Od szlachty pobierano 10 procent kwoty dochodów, a od duchowieństwa 20 procent. Danina nie obowiązywała poddanych ani wiernych.
+
+Ofiara wieczysta, ofiara dziesiątego grosza, podatek dochodowo-gruntowy uchwalony 1789 przez Sejm Czteroletni, w dobrach szlacheckich wynosił 10% (dziesiąty grosz) stałych dochodów z ziemi uprawnej, w duchownych (z pewnymi wyjątkami) — 20%; ofiary wieczystej utrzymała się na ziemiach II i III zaboru pruskiego w znacznie wyższym wymiarze (odpowiednio 24% i 50%), następnie w Księstwie Warszawskim (według stopy pruskiej) i Królestwie Polskim (24%); 1866–68 została zastąpiona innymi podatkami.
 
 ---
 

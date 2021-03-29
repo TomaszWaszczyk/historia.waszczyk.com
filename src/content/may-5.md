@@ -98,6 +98,8 @@ Minister spraw zagranicznych Józef Beck udzielił odpowiedzi kanclerzowi III Rz
 
 > Pokój jest rzeczą cenną i pożądaną. Nasza generacja skrwawiona w wojnach na pewno na pokój zasługuje. Ale pokój, jak prawie wszystkie sprawy tego świata ma swoją cenę wysoką, ale wymierną. My w Polsce nie znamy pojęcia pokoju za wszelką cenę. Jest jedna tylko rzecz w życiu ludzi, narodów i państw, która jest bezcenna. Tą rzeczą jest honor.
 
+https://pl.wikisource.org/wiki/Przem%C3%B3wienie_J%C3%B3zefa_Becka_w_Sejmie_RP_5_maja_1939_r
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
