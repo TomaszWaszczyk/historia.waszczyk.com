@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2021
+
+No i stało się, obligacje amerykańskie "płacą" więcej niż polskie. Ten wykres absolutnie nie służy prognozowaniu USDPLN. Czy ma to sens? czy to banki centralne drukując pieniądze (sarkazm) psują rynki? Czy Polska stała się nową bezpieczną przystanią? To zostawię bez odpowiedzi, ale trzeba pamiętać, że "rynek ma zawsze rację" i warto spojrzeć szerzej na obecną sytuację.
+
+<img src="./img/march/obligacje2021marzec.jpeg"><br><br>
+
 ### 2020
 
 ## Egypt's banks told to limit withdrawals and deposits

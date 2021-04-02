@@ -3,7 +3,7 @@ layout: post
 title: 1 kwietnia
 image: img/april/fired.png
 author: Tomasz Waszczyk
-date: 2019-04-01T10:00:00.000Z
+date: 2020-04-01T10:00:00.000Z
 tags:
   - Polska
 ---

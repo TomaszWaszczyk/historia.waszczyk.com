@@ -3,7 +3,7 @@ layout: post
 title: 2 kwietnia
 image: img/april/ceidg.png
 author: Tomasz Waszczyk
-date: 2019-04-02T10:00:00.000Z
+date: 2020-04-02T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false
@@ -92,6 +92,14 @@ Został zamordowany Józef Marcinkowski ps "Łysy"- weteran wojny polsko-bolszew
 Prezydent RP Ignacy Mościcki nadał pośmiertnie Karolowi Szymanowskiemu (na zdjęciu) Wielką Wstęgę Orderu Odrodzenia Polski za twórczość muzyczną o wiekopomnym znaczeniu dla kultury polskiej i ogólnoświatowej. Karol Szymanowski to jeden z najwybitniejszych kompozytorów XX wieku, którego znaczenie dla muzyki polskiej porównać można z pozycją Fryderyka Chopina. Należał do czołowych przedstawicieli Młodej Polski. Wypracował indywidualny styl oparty m.in. na elementach polskiego folkloru, zwłaszcza góralskiego i kurpiowskiego. Jego ważniejsze kompozycje to: 4 symfonie, opery (Król Roger), balety (Harnasie), Stabat Mater, utwory kameralne, fortepianowe (mazurki, Metopy, Maski), skrzypcowe (2 koncerty, Mity), chóralne, pieśni (Pieśni miłosne Hafiza).
 
 <img src="./img/april/moscicki.jpg"/><br><br>
+
+### 1801
+
+II koalicja antyfrancuska: zwycięstwo floty brytyjskiej nad duńską w bitwie pod Kopenhagą.
+Na początku XIX w. Anglia prowadziła działania wojenne przeciwko flocie duńskiej, w celu zmuszenia Danii do ustępstw politycznych i gospodarczych. W dniu 02.04.1801 Horatio Nelson otrzymał od dowódcy Floty Bałtyckiej, admirała Hyde'a Parkera rozkaz wdarcia się ze swoją eskadrą złożoną z dwunastu liniowców i pięciu fregat, do silnie bronionego i częściowo zablokowanego portu w Kopenhadze. W czasie przejścia przez płytki kanał, pomiędzy małą wysepką a Zelandią, dwa liniowce Nelsona utknęły na mieliźnie, ale reszta przedarła się do wewnątrz i rozpoczęła morderczy pojedynek z, prawie dwukrotnie większą, flotą duńską, bateriami brzegowymi i pontonami artyleryjskimi. Po trzech godzinach admirał Parker, którego siły główne pozostawały poza zasięgiem Duńczyków, wysłał sygnał nakazujący Nelsonowi wycofanie okrętów, ponieważ uznał, że bitwa może zakończyć się dla Brytyjczyków klęską. Nelson poinformowany o wywieszeniu rozkazu na okręcie flagowym przyłożył lunetę do ślepego oka i oświadczył, że żadnego rozkazu nie widzi. Po dalszych dwóch godzinach niezwykle krwawej bitwy Duńczycy przyjęli propozycję zawieszenia broni.
+Efektem tego starcia było zerwanie związku neutralnych państw, które łamiąc brytyjski system blokady, handlowały z Francją, podkopując w ten sposób wysiłki Wielkiej Brytanii zmierzające do jej ekonomicznego i gospodarczego "zdławienia".
+
+<img src="./img/april/koalicjaantyfarancuska.jpg"><br><br>
 
 ---
 
