@@ -59,6 +59,12 @@ Urodził się Ralf Merkle https://en.wikipedia.org/wiki/Ralph_Merkle
 
 https://pl.wikipedia.org/wiki/Anne_Frank
 
+### 1944
+
+W Warszawie żołnierze oddziału specjalnego Kedywu Komendy Głównej AK dokonali udanego zamachu na Franza Kutscherę, szefa SS i policji Dystryktu Warszawskiego.
+
+O godz. 9.07 żołnierze Armii Krajowej zastrzelili w Alejach Ujazdowskich warszawskiego dowódcę SS i policji SS-Brigadeführera (generała majora) Franza Kutscherę. Akcję przeprowadził oddział „Pegaz” Kierownictwa Dywersji (Kedywu), którym dowodził Bronisław Pietraszewicz ps. „Lot”. W zamachu uczestniczyło wraz z łączniczkami 12 akowców. Czterech zginęło: Pietraszewicz oraz Marian Senger ps. „Cichy” zmarli w szpitalu w wyniku odniesionych ran, Kazimierz Sott ps. „Sokół” i Zbigniew Gęsicki „Juno” zostali osaczeni przez Niemców na moście Kierbedzia. Dzień po zamachu w Alejach Niemcy rozstrzelali sto osób. Jednak potem, aż do wybuchu powstania warszawskiego, zaniechali tej formy terroru.
+
 ### 1943
 
 W kościele pod wezwaniem św. Stanisława w Siedlcach odbył się demonstracyjny pogrzeb 30 dzieci przywiezionych tu z Zamojszczyzny dwa dni wcześniej. Dzieci te przybyły z transportem ponad 1000 mieszkańców tego regionu Polski objętego akcją wysiedleńczą. Ciężkie warunki, choroby, a przede wszystkim ogromny mróz sprawiły,że 30 małych Polaków nie przeżyło tej podróży. Jeden ze świadków tamtych wydarzeń tak wspomina tamten czas:

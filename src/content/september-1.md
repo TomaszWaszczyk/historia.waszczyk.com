@@ -192,6 +192,17 @@ Foto: Albert Forster - gauleiter Wolnego Miasta Gdańska odczytuje proklamację 
 
 <img src="./img/september/gdanskzajety.jpg"><br><br>
 
+---
+
+Poprzez agresje Niemiec na Polskę rozpoczęła się wojna. Mało kto w ówczesnej Polsce wierzył w wojnę. Dzieci szły do szkoły. Pierwsze bomby, niemiecka Luftwaffe zrzuciła na Wieluń, spokojnie śpiące miasto nie dające żadnego powodu aby w nalocie dywanowym je zniszczyć, a mieszkańców wymordować. W sukurs Niemcom przyszły jeszcze 2 państwa Słowacja i ZSRR. Polska napadnięta ze wszystkich stron i zdradzona przez wszystkich sojuszników nie miała szans obrony. Dziś już wiadomo że w maju 1939 r sztab generalny armii francuskiej podjął decyzje o nie reagowaniu czynnym na agresje Niemiec na Polskę. Mimo udzielonych gwarancji bezpieczeństwa nie zawiadomili nas o tym. W ich planach po trzech latach II wojny światowej mieli nas wyzwolić od okupacji niemieckiej Rzeczpospolitą. Polska nigdy się nie poddała. W odróżnieniu od Czech, Francji, Belgii, Holandii, Danii, Norwegii, które ochoczo rozpoczęły współprace z Niemcami. Zamiast współpracy zafundowaliśmy Niemcom państwo podziemne, ewenement w skali świata. Z własnym szkolnictwem dbaniem o kulturę i pamięć narodu polskiego. Państwo podziemne stworzyło struktury wojskowe, które w szczytowym momencie liczyły ponad 300 tys. żołnierzy. Poza granicami państwa polskiego Polacy zdołali utworzyć pod sztandarami polskimi potężne związki taktyczne. Pływaliśmy po morzach i oceanach, walczyliśmy w Afryce, Europie zach. i na foncie wschodnim. Broniliśmy nieba ( o ironio ) nad Francją i włożyliśmy potężny wkład w obronę Wielkiej Brytanii. Naszym lotnikom należały się słowa uznania wypowiedziane przez Winstona Churchilla.
+„Nigdy tak wielu nie zawdzięczało tak wiele, tak nielicznym”
+Te wszystkie dokonania są wynikiem wyjątkowego hartu ducha Polaków, przywiązania do ojczyzny i przywiązania do własnej historii, w której nie ma ani jednego akcentu agresywnej postawy wobec sąsiadów.
+Dziś nie ma już żadnej wątpliwości, że Polska została wciągnięta w wir polityki światowej, w której poza naszymi plecami, nasi sojusznicy dogadywali się, jak nie wywiązać się z traktatów, a Niemcy z Rosją jak podzielić łupy. II wojna światowa przyniosła Polsce zagładę 1/3 narodu oraz straty materialne sięgające 2 bilionów euro. Polska jest jedynym krajem, któremu nie zostały wypłacone reparacje wojenne. Nigdy nie usłyszeliśmy słowa przepraszam od Brytyjczyków i Francuzów za pozostawienie nas samych. Tę historię, którą przed chwilą opowiedziałem trzeba opowiadać co roku, aby zapamiętać, że przyjaciół szuka się blisko, a wrogów daleko. Ale zawsze należy liczyć tylko i wyłącznie na siebie. Tego uczy nas historia.
+
+<img src="./img/september/niemcyatakuja.jpg"><br><br>
+
+---
+
 ### 1940
 
 Fragment pamiętnika Ireny Glück, nastoletniej żydowskiej dziewczynki z Krakowa.
