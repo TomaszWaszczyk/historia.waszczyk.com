@@ -3,11 +3,15 @@ layout: post
 title: 6 kwietnia
 image: img/april/kaczynski.png
 author: Tomasz Waszczyk
-date: 2019-04-06T10:00:00.000Z
+date: 2020-04-06T10:00:00.000Z
 tags:
   - TVP - TV Propaganda
 draft: false
 ---
+
+### 2021
+
+<img src="./img/april/publicdebt.jpeg"><br><br>
 
 ### 2020 - pomoc dla firm w które koronawirus uderzył wprost
 

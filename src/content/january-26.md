@@ -10,15 +10,71 @@ tags:
 
 ### 2021
 
+Jan 26, 2021: Yellen Says U.S. Faces Climate, Economic Crises on Top of Covid
+
+June 27, 2017: Yellen sees no new financial crisis in 'our lifetimes'
+
 ...
 
 <img src="./img/january/szczepimysie.jpeg"><br><br>
+
+<!-- Większość ludzi ma w dupie,  ale co jest niezrozumiałe dla CIEBIE !!!!..??
+To tylko maska..
+To tylko 1,5 metrów..
+To tylko na dwa tygodnie..
+To są tylko niepotrzebne firmy..
+To tylko niepotrzebni pracownicy..
+To tylko puby..
+To tylko restauracje..
+To tylko impreza i wesele, których Wam zakażemy..
+To tylko do momentu, kiedy liczba zarażonych spadnie..
+To tylko po to, żeby zmniejszyć zużycie szpitali..
+Zostało tylko kilka tygodni..
+To tylko kościoły..
+To tylko dopóki nie przyjdzie szczepienie..
+To tylko bransoletka śledząca..
+To tylko aplikacja..
+To tylko system rozpoznawania twarzy..
+To tylko po to, żeby ludzie wiedzieli, że obok ciebie jest bezpiecznie..
+To tylko po to, żeby wiedzieć, kogo spotykasz..
+Zostało tylko kilka miesięcy..
+To tylko niewygodny film, który został skasowany..
+To tylko post, który zaraz zostanie zbanowany..
+To tylko e-mail..
+To niewiele cenzury..
+To są tylko przeciwnicy Corona..
+To tylko naziści..
+To tylko anarchiści..
+To tylko chip i czujnik..
+To tylko informacje medyczne..
+To tylko po to, żebyś mógł podróżować..
+To tylko po to, żebyś mógł robić zakupy..
+To tylko po to, żebyś mógł głosować..
+To tylko na kilka lat..
+To tylko TWOJA WOLNOŚĆ, KTÓRA CODZIENNIE ZNIKA , a ty nawet tego nie widzisz..
+To tylko koniec życia, jakie znaliśmy jeśli przyzwolenie społeczne będzie nadal bierne na rzeczy, które się dzieją.😞 -->
 
 ---
 
 “At the World Economic Forum’s (WEF) virtual Davos Agenda summit on Tuesday, French President Emmanuel Macron declared that in the wake of the Chinese coronavirus modern capitalism “can no longer work”.
 
 Appearing before a question and answer session conducted with ‘Great Reset’ architect and founder-chairman of the WEF, Klaus Schwab, Mr Macron said that while capitalism has historically driven down poverty globally, he claimed that it came with the cost of furthering inequality.”
+
+---
+
+W poniedziałek podczas wystąpienia na Światowym Forum Ekonomicznym w Davos przywódca Chin Xi Jinping przestrzegł przed „nową zimną wojną” i dążeniem do globalnej dominacji. Wystąpienie generalnie jest bardzo ciekawe i warto się z nim zapoznać. Xi po pierwsze zaczyna wystąpienie od stwierdzenia, iż pandemia jest daleka od zakończenia. Następnie wymienia cztery główne wyzwania stojące przed światem.
+
+1. Wzmocnienie koordynacji polityki makroekonomicznej i wspólne promowanie silnego, trwałego, zrównoważonego i sprzyjającego wyłączeniu społecznemu wzrostu gospodarki światowej.
+
+2. Porzucenie ideologicznych uprzedzeń i wspólne podążanie drogą pokojowego współistnienia, wzajemnych korzyści i współpracy typu win-win.
+3. Likwidacja przepaści między krajami rozwiniętymi a rozwijającymi się i wspólne doprowadzenie do wzrostu gospodarczego i dobrobytu dla wszystkich.
+4. Zjednoczenie się przeciwko globalnym wyzwaniom i wspólne tworzenie lepszej przyszłości dla ludzkości.
+Dalej Xi jako sposób na rozwiązanie tych problemów podkreśla rolę podtrzymania multilateralizmu oraz daje konkretne cztery rozwiązania:
+1. Należy pozostać przywiązanym do otwartości i inkluzywności zamiast zamknięcia i wykluczenia. Podkreśla iż w multilateralizmie chodzi o to, aby sprawy międzynarodowe były rozwiązywane w drodze konsultacji, a o przyszłości świata decydowali wszyscy, którzy ze sobą współpracują. Ostrzega iż, tworzenie małych kręgów współpracy skończy się rozpoczęciem nowej zimnej wojny.
+2. Pozostanie wierności prawu międzynarodowemu i międzynarodowym zasadom, zamiast dążyć do supremacji jednego z krajów lub kręgów. Ostrzega, iż bez poszanowania międzynarodowego prawa i międzynarodowych zasad, które są tworzone i uznawane przez globalną społeczność, świat może powrócić do prawa dżungli, a konsekwencje tego byłyby katastrofalne dla ludzkości!
+3. Zaangażowanie w konsultacje i współpracę, a nie w konflikt i konfrontację. Przypomina, iż rzeczywistość wielokrotnie jasno pokazała, że błędne podejście polegające na antagonizowaniu i konfrontacji, czy to w formie zimnej wojny, gorącej wojny, wojny handlowej, czy wojny technologicznej, ostatecznie zakończyły się niekorzystnie dla każdej ze stron.
+4. Nadążać za zmianami, zamiast je odrzucać. Xi przekazuje, iż aby podtrzymać multilateralizm w XXI wieku, powinniśmy promować jego piękną tradycję, przyjąć nowe perspektywy i patrzeć w przyszłość. Podkreśla rolę Światowej Organizacji Zdrowia w budowaniu globalnej wspólnoty zdrowia dla wszystkich. Przypomina o konieczności wywiązywania się z porozumienia paryskiego w sprawie zmiany klimatu i promowaniu rozwoju ekologicznego. 
+Na koniec swojego wystąpienia XI informuje, iż Chiny są na dobrej drodze do ukończenia budowy umiarkowanie zamożnego społeczeństwa pod każdym względem, a Chiny będą współpracować z innymi krajami w celu zbudowania otwartego, integrującego, czystego i pięknego świata, który cieszy się trwałym pokojem, powszechnym bezpieczeństwem i wspólnym dobrobytem. Podkreśla, iż Chiny będą więcej inwestować w naukę i technologię, rozwijając i umożliwiając systemy innowacji jako priorytet, przekształcając w szybszym tempie przełomowe odkrycia naukowe i technologiczne w rzeczywistą wydajność oraz wzmacniając ochronę własności intelektualnej, a wszystko to w celu wspierania napędzanego innowacjami wzrostu gospodarczego o wyższej jakości. "Gra o sumie zerowej" lub "Zwycięzca bierze wszystko" nie jest filozofią przewodnią narodu chińskiego.
 
 ---
 

@@ -1,12 +1,20 @@
 ---
 layout: post
 title: 5 kwietnia
-image: img/april/Executive_Order_6102.jpg
+image: img/april/goldfed.png
 author: Tomasz Waszczyk
-date: 2019-04-05T10:00:00.000Z
+date: 2020-04-05T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2021
+
+Kaczyński: będziemy musieli szybko rozwijać zdolności militarne
+
+Wicepremier Jarosław Kaczyński stwierdził, że Polska będzie musiała szybko rozwijać swoje zdolności obronne, bo świat staje się coraz bardziej niebezpieczny, a „to, co mamy dzisiaj jest niewystarczające”.
+
+Wicepremier i prezes Prawa i Sprawiedliwości był gościem na wirtualnym spotkaniu klubów „Gazety Polskiej”, które odbyło się na portalu społecznościowym Albicla.com, a nagranie z tego wydarzenia zostało wyemitowane w niedzielę w TV Republika. Jarosław Kaczyński mówił m.in. o planach związanych z przyspieszeniem rozwoju gospodarczego, jakie jego zdaniem powinno nastąpić po zakończeniu pandemii koronawirusa.
 
 ### 2020
 
@@ -68,17 +76,59 @@ I mamy chociażby wyrok, który dostał znajomy. Kilka lat temu jego spółka mi
 
 A na koniec taka rada. Przedsiębiorcy powinni mieć oszczędności. Schowane, ukryte, zakopane 12 kroków na północ od starego dębu. Firmy niekoniecznie. Gdy firma ma oszczędności to w sytuacji kryzysowej musi je wydać. Gdy nagle lody zaczną być zamrożonym sokiem i będzie trzeba oddać pieniądze to będzie z czego zabierać. Gdy nagle zjawi się była żona wspólnika aby szkodzić, będzie miała na czym się zaspokoić. Gdy Twój pracownik przejedzie po pijanemu zakonnice w ciąży na pasach to naczelnik nie wygra wyborów, ale firma pieniądze straci. Gdy pojawi się jakiekolwiek roszczenie to firma te pieniądze straci. Nie dziwmy się, że firmy oszczędności nie mają. Takie rządy ludzie wybierają. Tak jest system zachęt zbudowany. Tak jest lepiej.
 
+### 1992
+
+Rozpoczęło się trwające do 29 lutego 1996 r oblężenie Sarajewa w czasie wojny domowej w byłej Jugosławii. 4 lata trwała tragedia mieszkańców Sarajewa. 4 lata masakr ludności cywilnej i ostrzałów. Szacuje się, że w mieście w czasie oblężenia zginęło ok. 10 tys.osób. W gronie tym było ponad 1,5 tys. dzieci. Dodatkowo rannych zostało blisko 56 tys. osób, w tym prawie 15 tys. dzieci. Było to najdłuższe i najbardziej krwawe oblężenie w historii…
+
 ### 1933
 
 <https://en.wikipedia.org/wiki/Executive_Order_6102>
 
 <img src="./img/april/goldfed.png"><br><br>
 
+### 1925
+
+W Ostrowcu Świętokrzyskim urodził się Jerzy Kędziora (zdjęcie) funkcjonariusz Ministerstwa Bezpieczeństwa Publicznego, jeden z najbardziej okrutnych oficerów śledczych, zbrodniarz stalinowski. 
+Jest absolwentem szkoły powszechnej i gimnazjum we Lwowie. Podjął tam również naukę w Gimnazjum Handlowym, którego nie ukończył. W roku 1943 wstąpił w szeregi Gwardii Ludowej. Został członkiem grupy bojowej przy Sztabie Głównym Oddziału II Gwardii Ludowej. Rok później rozpoczął służbę w Ludowym Wojsku Polskim. W maju 1945 roku został uczniem Centralnej Szkoły Ministerstwa Bezpieczeństwa Publicznego. Już po miesiącu w pionie śledczym. Od roku 1950 został kierownikiem Sekcji I Wydziału II. Trzy lata później został uczestnikiem Wyższego Kursu Przeszkolenia Oficerów Bezpieczeństwa. W drugiej połowie lat 40. dwukrotnie odznaczony Srebrnym Krzyżem Zasługi. 
+Prowadził sprawy kierownictwa Delegatury Sił Zbrojnych i Zrzeszenia Wolność i Niezawisłość. Przesłuchiwał między innymiEdwarda Bzymek-Strzałkowskiego– szefa Brygad Wywiadowczych DSZ-WiN, podpułkownika Łukasza Cieplińskiego, majora Hieronima Dekutowskiego-Zaporę, Władysława Jedlińskiego – oficera wywiadu AK, po wojnie kierownika sieci informacyjnej IV Zarządu Głównego WiN, czy pułkownika Franciszka Niepokólczyckiego. 
+Słynął z brutalności, co w roku 1955 wywarło ogromny wpływ na jego karierę w bezpiece. Na fali odwilży, po śmierci Stalina, jego przełożeni wyciągnęli na światło dzienne sprawę pobicia podczas przesłuchania Wacława Dobrzyńskiego, podczas okupacji niemieckiej oficera Sztabu Głównego AL, po wojnie naczelnika wydziału w IV Departamencie MBP, w wyniku czego Dobrzyński zmarł. Pod pretekstem zatajenia przynależności do Polskiego Związku Powstańczego został przeniesiony do Departamentu Szkolenia MBP. W lipcu 1955 został wydalony z szeregów bezpieki, a w styczniu 1956 roku skazany przez Sąd Wojewódzki dla miasta stołecznego Warszawy na trzy lata więzienia z czego odsiedział zaledwie kilka miesięcy. 
+Od kilkudziesięciu lat Jerzy Kędziora jest na emeryturze i pobiera wysoką, „resortową” emeryturę. Dopiero kilka lat temu Urząd do Spraw Kombatantów i Osób Represjonowanych pozbawił go uprawnień kombatanckich, będących uhonorowaniem szczególnych zasług dla Polski.
+
+<img src="./img/april/kedziora.jpg"><br><br>
+
+### 1919
+
+W czasie wojny bolszewickiej żołnierze 34 pułku piechoty pod dowództwem majora Aleksandra Łuczyńskiego dokonali masakry Żydów w zajetym miesiąc wcześniej Pińsku. Pod ścianą katedry rozstrzelano wówczas 35 osób.
+
+<img src="./img/april/zolnierzepulku.jpg"><br><br>
+
 ### 1883
 
 Dwaj polscy naukowcy z Uniwersytetu Krakowskiego Zygmunt Wróblewski i Karol Olszewski jako pierwsi na świecie dokonali skroplenia tlenu. 8 dni później udało im się skroplić wodór stosowany dziś powszechnie w paliwach rakietowych.
 
 <img src="./img/april/skraplenie.jpg"/><br><br>
+
+### 1573
+
+Otwarty został w Warszawie pierwszy most stały przez Wisłę zwany też mostem mistrza Erazma nazwany tak od imienia jego konstruktora Erazma Cziotko z Zakroczymia.
+Budowę tej konstrukcji rozpoczęto w 1567 roku. Most miał 500 metrów długości i był przedłużeniem ulicy Mostowej od strony Pragi.
+Inicjatorem budowy mostu Erazma był sam król Zygmunt II August, który Warszawę leżącą na szlaku Wilno-Kraków obrał sobie za miejsce spotkań sejmów. Po śmierci króla patronat nad budową objęła jego siostra i żona króla Stefana Batorego Anna Jagiellonka.
+W 1576 roku most został poważnie uszkodzony, ale król Stefan Batory postanowił sobie za cel jego odbudowę. Drewno do tego celu spławiano Sanem aż z Bieszczad. Odbudowę ukończono w 1582 roku.
+Pragnąc zwrócić skarbowi niemałe koszty budowy, Batory wprowadził pobieranie opłaty za przejazd, czyli tzw. mostowego. Oto fragmenty jego rozporządzeń na ten temat:
+" A iż ta teraz naprawa i kończenie mostu silnego nakładu potrzebuje, tedy potrzeba jest tego, którybykolwiek przez most jechać chciał, aby mostowe tak jako przewóz płacił, żadnego któregokolwiek stanu, dostojeństwa albo przełożeństwa człowieka stąd nie wyjmując...
+... a jeśliby kto więc takim płaceniem mostowego się obrażał, tedy będą łodzie przewoźne gotowe, zaczem mu wolno będzie nie przez most jechać, ale się w łodziach przewieźć..."
+Historia tej budowli nie trwała jednak długo, ponieważ w 1603 roku został on całkowicie zniszczony przez powódź. Dopiero w 1864 roku otwarto kolejny stały most. Tym razem była to konstrukcja stalowa czyli Most Kierbedzia.
+
+<img src="./img/april/erazm.jpg"><br><br>
+
+### 1566
+
+Delegacja szlachty niderlandzkiej przybyła do hiszpańskiej namiestniczki Niderlandów Małgorzaty Parmeńskiej aby przedstawić petycję (tzw. „kompromis brukselski”) z żądaniami reform. Jeden z dostojników namiestniczki nazwał wówczas delegatów żebrakami (franc. gueux), od czego wziął swą nazwę ruch wyzwoleńczy – gezowie.
+Małgorzata - przyrodnia siostra króla Filipa II - była namiestnikiem Niderlandów, należących wówczas do Hiszpanii. Sytuacja w prowincji nie była najlepsza. Reformacja odnosiła znaczne sukcesy, a mieszkańcy północnych części prowincji masowo przyjmowali kalwinizm. Zamierzeniem Filipa II była rekatolicyzacja tych terenów, jednak - mimo wykorzystania radykalnych środków - szło to dosyć opornie.
+Pod koniec 1565 roku przedstawiciele szlachty niderlandzkiej podpisali kompromis brukselski, pomiędzy katolickim południem i protestancką północą, a w kwietniu 1566 udali się do namiestniczki z żądaniem zaprzestania prześladowań. Gdy doszło do wyczekiwanego spotkania, jeden z dostojników hiszpańskich powiedział o przybyłych: "Ce n'est qu'un tas de gueux" - "To tylko gromada żebraków".
+Gdy wkrótce później wybuchło antyhiszpańskie powstanie, powstańcy przybrali ową szyderczą nazwę "żebraków" i zjednoczeni pod symbolem żebraczej torby, wywalczyli dla swojego kraju niepodległość.
+
+<img src="./img/april/kompromisbrukselski.jpg"><br><br>
 
 ---
 

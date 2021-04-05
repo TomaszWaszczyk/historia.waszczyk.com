@@ -12,6 +12,12 @@ tags:
 
 <a href="./documents/august/KomunikatdlaklientowI-UPS.pdf" target="_blank">Komunikat dla klientow I-UPS.pdf</a>
 
+### 2000
+
+Witten, Magik (Piotr Łuszcz), Fokus (Wojciech Alszer) i Rahim (Sebastian Salbert) podczas wspólnych wakacji w Niemczech. W 1998 roku, po rozstaniu charyzmatycznego Magika z „Kalibrem 44”, Rahim nieśmiało wrócił do swojego marzenia o nagraniu z przyjacielem wspólnej płyty, a niesamowicie bezpośredni Fokus od razu rzucił pomysł założenia nowego zespołu – „Paktofoniki” („paktu przy dźwiękach głośnika”). Kolejne dwa lata młodzi śląscy hiphopowcy poświęcają na poszukiwania godnego zaufania wydawcy, a przede wszystkim przygotowanie materiału na wspólną płytę. Teraz, w Witten, razem z niemieckimi raperami, nagrywają ostatni, dwujęzyczny utwór „2kilo”. Wydany kilkanaście tygodni później album „Kinematografia” (czyli „filmy” na różne tematy, w trzech różnych stylach ich autorów) okaże się wielkim artystycznym wydarzeniem, prawdziwym przełomem w historii polskiego hip-hopu i zarazem głośną tragedią (osiem dni po premierze Magik wyskoczy z dziewiątego piętra swojego bloku). Dwadzieścia lat po „Kinematografii” Sebastian Salbert „Rahim” opowiedział szczerze Przemkowi Corso o ponad dwudziestu latach swojej muzycznej kariery – książkę „Ludzi z tylnego siedzenia”.
+
+<img src="./img/august/magik.jpg"><br><br>
+
 ### 1944
 
  https://pl.wikipedia.org/wiki/Powstanie_warszawskie

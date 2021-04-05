@@ -3,7 +3,7 @@ layout: post
 title: 4 kwietnia
 image: img/april/tarcza.jpg
 author: Tomasz Waszczyk
-date: 2019-04-04T10:00:00.000Z
+date: 2020-04-04T10:00:00.000Z
 tags:
   - Destroy
 draft: false
@@ -144,6 +144,13 @@ Mimo, iż testowano go przez 10 lat, ze względu na kilka wypadków i sporą awa
 W drugiej połowie lat osiemdziesiątych jedyny jego egzemplarz został odrestaurowany i przekazany do Muzeum Lotnictwa Polskiego w Krakowie.
 
 <img src="./img/april/smiglowiec.jpg"/><br><br>
+
+### 1944
+
+Miała miejsce bitwa w Bronisławach w gminie Rybno. Wtedy to właśnie 25 osobowy Oddział Partyzancki " Socha" dotarł dotarł do tej miejscowości,gdzie postanowił założyć swoją kwaterę. Pod nieobecność dowódcy,który został wezwany do sztabu 500 osoby oddział niemiecki przypuścił atak na partyzantów.
+W wyniku zażartej walki zginęło 20 partyzantów, 4 wzięto do niewoli. W kolejnych dniach 2 z nich rozstrzelano na Pawiaku zaś 2 zbiegło z posterunku Schutzpolizei w Chodakowie.
+
+<img src="./img/april/bronislawy.jpg"><br><br>
 
 ### 1943
 

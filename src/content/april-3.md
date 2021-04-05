@@ -84,6 +84,16 @@ Po zakończeniu wojny polsko-bolszewickiej marszałek Józef Piłsudski (zdjęci
 
 <img src="./img/april/pilsudski.jpg"/><br><br>
 
+### 1420
+
+Zostały uchwalone tzw. Cztery artykuły praskie zawierające zasady doktrynalne husytyzmu.
+My, burmistrz, rajcy, ławnicy i cały lud miasta Pragi, stolicy królestwa czeskiego i innych wiernych temu królestwu - postanawiamy etc. Niech wiedzą wszyscy wierni chrześcijanie, że królestwo czeskie niezmiennie trwa i z bożą pomocą trwać będzie, na śmierć i życie dokąd tylko można, przy niżej spisanych artykułach.
+Po pierwsze: by w królestwie czeskim swobodnie i bezpiecznie głoszono słowo Boże i by księża głosili je bez przeszkód [...].
+Po drugie: by Ciało i Krew najświętszego ukrzyżowanego Chrystusa Pana rozdawane były pod postacią chleba i wina, wszystkim wiernym wolnym od grzechu śmiertelnego, jak postanowił Chrystus. Pan i Zbawca [...].
+Po trzecie: by (księżom) odebrano i zniesiono ich świecką władzę nad bogactwem, dobrem doczesnym, szkodzącą ich stanowisku, i aby księża dla zbawienia swego wrócili do reguły Pisma św. i żywota apostolskiego, jaki wiódł Chrystus ze swymi apostołami.
+Po czwarte: by wszystkie grzechy śmiertelne zwłaszcza jawne, a także inne występki przeciw prawu bożemu karano i potępiano (niezależnie) od stanowiska (grzeszącego). Śmierci są godni ci co popełniają grzechy i ci co potakują (grzechom takim) jak: rozpusta, obżarstwo, cudzołóstwo, złodziejstwo, grabież, nienawiść, kłamstwo, krzywoprzysięstwo, zbędna praca, czary, żądza bogactwa, lichwa, a wśród księży: świętokupstwo, kacerstwo, branie pieniędzy za chrzest, za bierzmowanie, za spowiedź, za komunię, za oleje święte, za wodę (święconą), za msze, targowanie się, kupowanie i sprzedawanie mszy, (branie pieniędzy za msze modlitwy za zmarłych, od postów, za msze zaduszne i inne rzeczy, za kazania za pogrzeb, od (bicia) dzwony, za poświęcenie kościołów, ołtarzy i kaplic, za probostwa, za stanowiska i prałatury, za dostojeństwa, za odpusty; (dalej) stąd wynikające herezje i hańbiące Kościół Chrystusowy: cudzołóstwo i przeklęte płodzenie synów i córek, inne rozpusty. gniew, kłótnie, zwady, obmowa, pozywanie, dręczenie prostego ludu, ograbianie go, (ściąganie) opłat, danin i ofiar. Każdy sprawiedliwy syn swej matki, kościoła świętego, wyrzec się i sprzeciwiać temu. nienawidzić jak diabła i mieć to w obrzydzeniu.
+Cztery artykuły praskie - 1421 r. w wyborze, za WHŚ, t. 5, s. 469:
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-3.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
