@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/april/swieta2021.jpg"><br><br>
+
 ### 2020
 
 Obserwujemy zapaść państwa. Nie wszyscy to jeszcze widzą, ale za kilka tygodni zobaczą to nawet widzowie TVP. Pomińmy sympatyczne nauczycielki matematyki opowiadające w TVP jakieś androny o liczbach mających parę, pomińmy to, że uczniowie piszący próbną maturę dostali najpierw zadania z matury z 2015 roku a kolejnego dnia z roku 2017 i przejdźmy do prawdziwych katastrof. Dyrektor szpitala w Bytomiu zorganizował kwarantannę lekarzom na sali z chorymi na covid, bez jedzenia i bez środków ochronnych. Dyrektor szpitala w Toruniu zakazał lekarzom zakładania maseczek ochronnych, bo przed niczym nie chronią a poza tym sprowokują pozostały personel do zażądania ochrony. Jeden z oddziałów szpitala został wkrótce później zamknięty przez 22 przypadki koronawirusa. Pozostałym lekarzom odmawia się testów. Chodzą i dalej zarażają. Dyrektor szpitala odmówił też przyjęcia od Uniwersytetu darowizny w postaci przyłbic ochronnych, bo nie miały atestu. Takie rzeczy dzieją się w całej Polsce, ale wiemy o tym mało, bo lekarze mają zakaz wypowiadania się o tym co się dzieje w szpitalach. Firmuje to wszystko minister Szumowski, który stał się najpopularniejszym politykiem w kraju, bo wygląda jakby był zmęczony. A mamy dopiero sam początek epidemii! Wyobrażacie sobie jaki sajgon tam będzie za trzy tygodnie?

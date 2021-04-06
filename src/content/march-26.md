@@ -13,6 +13,12 @@ draft: false
 
 > Poproszę o pomoc. Zostałam oddelegowana od dzisiaj do Szpitala Tymczasowego i będąc w kadrach usłyszałam ze moją podstawą będzie 2x pensja młodszego asystenta (która jest niższa niższa od rezydentury), jestem rezydentem i tak tez paniom powiedziałam, na co orzekły ze jestem oddelegowana i w szpitalu tymczasowym nie jestem rezydentem tylko młodszym asystentem. Czy tak można?
 
+---
+
+Since the Suez Canal is the news, it's a good moment to share some history: From 1967 to 1975 the canal was intentionally blocked by the Egyptian military (using ships and naval mines) in response to the Israeli seizure of the Sini Peninsula during the Six-Day War.
+
+---
+
 ### 2020
 
 <img src="./img/march/enemployment.gif"/><br><br>
