@@ -3,10 +3,16 @@ layout: post
 title: 9 kwietnia
 image: img/april/bezrobocie2.jpg
 author: Tomasz Waszczyk
-date: 2019-04-09T10:00:00.000Z
+date: 2020-04-09T10:00:00.000Z
 tags:
   - USA
 ---
+
+### 2021
+
+Książę Filip nie żyje
+
+<img src="./img/april/filip.jpg"><br><br>
 
 ### 2020
 

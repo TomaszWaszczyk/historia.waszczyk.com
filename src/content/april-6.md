@@ -103,6 +103,17 @@ Na zdjęciu płonący Reichstag.
 
 <img src="./img/april/reichstag.jpg"/><br><br>
 
+### 2004
+
+Zakończyła się trwająca cztery dni obrona ratusza w irackim mieście Karbala, operacja znana również jako obrona City Hall. Była to seria potyczek między oddziałami rebeliantów pod dowództwem szyickiego przywódcy religijnego Muktady-as Sadra, a polskimi i bułgarskimi żołnierzami Wielonarodowej Dywizji Centrum-Południe pod dowództwem podpułkownika Tomasza Domańskiego i kapitana Grzegorza Kaliciaka.
+Początek walk przypadł na jedno z najważniejszych świąt szyickich-święto Aszura. Wobec faktu, iż do miasta zaczęły ściągać olbrzymie ilości pielgrzymów, komendant miejscowej policji irackiej poprosił o pomoc. Jeszcze tego samego dnia wieczorem przybyły z bazy "Juliet" polskie siły szybkiego reagowania. Pierwsze walki rozpoczęły się około godziny pierwszej po północy. Na miejsce walk przybył również bazy "Lima" pluton sił szybkiego reagowania z zapasem amunicji oraz trzema lekko opancerzonymi samochodami Honker, 12 żołnierzami w samochodzie Star z plutonu ochrony kompanii logistycznej 17 WBZ, a także sanitarka z pielęgniarką. Przybyli żołnierze do ratusza, dostając się następnie w środek ciężkich walk o budynek. Tymczasem zmieniły się rozkazy i oddział z bazy „Juliet” dostał polecenie natychmiastowego powrotu do bazy „Charlie” w Al-Hilla. W ratuszu pozostało 14 polskich żołnierzy, pielęgniarka, 3 Honkery, 1 samochód ciężarowy Star oraz 8 żołnierzy bułgarskich z bazy „Kilo”, jak również dwa bułgarskie pojazdy opancerzone BRDM-2.
+Następnego dnia (4 kwietnia 2004 roku) w wyniku zakrojonej na szeroką skalę serii zamachów dokonanych przez oddziały Armii Mahdiego, w wyniku których śmierć poniosło 140 irackich cywilów, Polacy i Bułgarzy zostali zmuszeni do przygotowania stanowisk w ratuszu. Sytuację komplikował fakt masowej dezercji oddziałów irackiej policji, obsadzającej wraz z Polakami i Bułgarami ratusz.
+W nocy doszło do zainicjowanego przez Szyitów starcia z Polakami i Bułgarami, w którego następstwie śmierć poniosło 80 rebeliantów. Strony polska i bułgarska nie poniosły żadnych strat w ludziach.
+Kolejne trzy dni były serią nieustannych ataków szyickich, które były skutecznie odpierane przez polsko-bułgarskie wojska. Jedynie w wyniku ostrzału moździerzowego na dachu budynku City Hall ranny został jeden z żołnierzy bułgarskich. Ze względu na przewagę ogniową obrońców, rebelianci atakowali prawie wyłącznie nocami.
+Po czterech dniach wyczerpujących walk z pomocą przybli na miejsce 18 Bielskiego Batalionu Desantowo-Szturmowego. Wykrwawieni rebelianci zostali zmuszeni do wycofania się.
+Zastanawiającą ciekawostką jest fakt, że bitwa ta nie znalazła się z początku z szerszym zainteresowaniem polskich mediów. Dopiero cztery lata później w Gazeta Wyborcza zamieściła wywiad z kilkoma weteranami. Niektórzy z nich zostali odznaczeni Gwiazdą Iraku. W 2009 r. kpt. Kaliciak otrzymał Krzyż Kawalerski Orderu Krzyża Wojskowego, a w 2015 (wraz z częścią innych obrońców City Hall) Krzyż Wojskowy.
+Podczas obchodów 15 rocznicy tej bitwy prezydent Andrzej Duda powiedział "Rzeczpospolita przez te 15 lat zbiera plony waszej wspaniałej postawy"
+
 ### 1994
 
 Rozpoczęło się ludobójstwo w Rwandzie. W zaledwie ok. 100 dni bestialsko zamordowano od 800 tysięcy do nawet ponad miliona Rwandyjczyków których jedyną winą był niewłaściwy wpis w dowodzie osobistym.
@@ -205,6 +216,21 @@ Trzeci skutek, to paradoksalne zbliżenie Wschodu i Zachodu na płaszczyźnie ku
 Pewnym symbolem tej „wymiany” mogą być słynne lwy weneckie, zrabowane w Konstantynopolu w 1204 roku, które zachwycają nas, podobnie jak weneckie zabytki, do dnia dzisiejszego. A z drugiej strony wiadomo jak tam dotarły.
 
 <img src="./img/april/wyprawakrzyzowa.jpg"><br><br>
+
+### 1199
+
+Jan bez Ziemi został królem Anglii.
+"...Według Rogera z Howden, Ryszard w ostatnich dniach życia wskazał swego brata jako następcę tronu. Nie ma sposobu na określenie, czy to prawda, ale jedno było pewne - wokół umierającego króla znajdowali się ludzie wywodzący się przede wszystkim z rodów anglo-normańskich, którzy chcieli widzieć na tronie Jana..."
+"...Tymczasem w tym samym Rouen dwaj wierni towarzysze oczekiwali ze smutkiem na potwierdzenie posępnej wiadomości, którą kilka dni wcześniej przywiózł im posłaniec do Vaudreuil. Wilhelm Le Marechal udał się wtedy natychmiast do miasta Notre-Dame-du-Pre, gdzie rezydował Hubert Walter, arcybiskup Canterbury. Kronikarz przytacza ich krótką rozmowę, gdy w przeddzień Palmowej Niedzieli została potwierdzona fatalna wiadomość. Arcybiskup skłaniał się do tego, by następstwo tronu Ryszarda oddać Arturowi z Bretanii. Na co Wilhelm Le Marechal odparł:
+"Artur ma tylko złych doradców, jest podejrzliwy i pyszny. Jeśli postawimy go na czele państwa, przysporzy nam kłopotów, gdyż nie lubi Anglików."
+Sam Ryszard wyznaczył na swego dziedzica i następcę Jana Bez Ziemi. "Marechal - rzekł arcybiskup - stanie się zgodnie z waszym życzeniem, lecz mówię wam, nigdy, żadnej rzeczy, jakiej dokonaliście, nie będziecie tak żałować jak tego."
+"Zgoda, ale jednak takie jest moje zdanie" - zakończył Le Marechal..."
+"...Sukcesja Jana w 1199 roku była mniej oczywista i trudniejsza do przeprowadzenia niż Ryszarda 10 lat wcześniej. Wilhelm Bretończyk uważał, że Jan objął tron „w najbardziej niesprzyjających okolicznościach".
+Podczas krucjaty, a następnie niewoli Ryszarda Jan buntował się przeciw bratu i w rezultacie nigdy nie otrzymał poważniejszego dowództwa lub prowincji, którą mógłby rządzić. W 1199 roku nie miał więc żadnego doświadczenia w rządzeniu ani solidnego zaplecza potrzebnego do sprawowania władzy. Jego jedynym samodzielnym doświadczeniem militarnym była nieudana ekspedycja do Irlandii za panowania jego ojca, Henryka II. Poza tym słabości charakteru Jana były już dobrze znane. Nie trzeba było geniusza, aby w 1199 roku wiedzieć, że Plantageneci w osobie Jana nie będą mieli tak dobrego przywódcy, jak to było w przypadku Ryszarda..."
+
+<img src="./img/april/janbezziemii.jpg"><br><br>
+
+Jeden z najgorszych królów Anglii. Uległy wobec króla Francji Filipa II Augusta. Stracił prawie wszystkie kontynentalne posiadłości Plantagenetów.
 
 ---
 

@@ -1483,6 +1483,8 @@ https://en.wiktionary.org/wiki/peu_%C3%A0_peu
 
 https://www.wikiwand.com/de/Lohnarbeit
 
+"wiek porębny"
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

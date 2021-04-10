@@ -3627,6 +3627,8 @@ If you want a new idea, read an old book.
 
 KKR, TPG and The carlyle Group own America
 
+Na pochyłe drzewo koza skacze.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

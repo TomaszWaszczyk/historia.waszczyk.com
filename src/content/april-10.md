@@ -3,7 +3,7 @@ layout: post
 title: 10 kwietnia
 image: img/april/mmt.jpeg
 author: Tomasz Waszczyk
-date: 2019-04-10T10:00:00.000Z
+date: 2020-04-10T10:00:00.000Z
 tags:
   - Lenin
 ---

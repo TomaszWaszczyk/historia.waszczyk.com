@@ -3,7 +3,7 @@ layout: post
 title: 7 kwietnia
 image: img/april/adamsolski.jpg
 author: Tomasz Waszczyk
-date: 2019-04-07T10:00:00.000Z
+date: 2020-04-07T10:00:00.000Z
 tags:
   - NKWD
 draft: false

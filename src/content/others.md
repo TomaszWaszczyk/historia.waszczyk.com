@@ -179,7 +179,7 @@ https://en.wikipedia.org/wiki/Pitirim_Sorokin
 
 ### Jedzenie, food
 
-Zupa: Kasza pęczak, pieczarki, marchewka, cebula, piepsz
+Zupa: Kasza pęczak, pieczarki, marchewka, cebula, piepsz, pietruszka
 
 https://ncez.pl/przepisy
 
