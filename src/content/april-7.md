@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Węgierski bank centralny ogłosił w środę, że rozmiary krajowych rezerw złota wzrosły z 31,5 tony do 94,5 tony. To drugie w ostatnich latach tego typu posunięcie Madziarów – w październiku 2018 r. ogłosili dziesięciokrotny wzrost rezerw, startując z poziomu zaledwie 3,1 tony.
+
+- ''Z historycznej perspektywy złoto pełniło kilka funkcji w różnych systemach finansowych. Chociaż z perspektywy polityki monetarnej metal ten stracił na znaczeniu w latach 70., jego rola jako tradycyjnego aktywa rezerwowego została zachowana. Z racji braku ryzyka kredytowego lub ryzyka trzeciej strony złoto zwiększa zaufanie do kraju we wszystkich realiach gospodarczych i wciąż jest jednym z najważniejszych aktywów rezerwowych świata, obok rządowych obligacji'' – czytamy w komunikacie węgierskiego banku centralnego.
+
+Jak dodano, wpływ na decyzję o zwiększeniu poziomu rezerw miały też „ryzyka wynikające z pandemii koronawirusa”.
+
+- ''Wzrost globalnego zadłużenia oraz inflacji wzmacnia znaczenie złota jako bezpiecznej przystani i środka przechowywania wartości'' – napisano.
+
 ### 2020 - „Wrogie przejęcie”. Niemcy chcą chronić swoje firmy
 
 Władze Niemiec chcą zaostrzyć przepisy dotyczące kontroli inwestycji zagranicznych w kraju. Chodzi o to, aby chronić niemieckie firmy przed „wrogim przejęciem” przez inwestorów spoza Unii Europejskiej. Sprawa staje się pilna w obliczu spodziewanej recesji i problemów gospodarczych spowodowanych pandemią koronawirusa.
