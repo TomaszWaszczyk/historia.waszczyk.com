@@ -13,6 +13,12 @@ draft: false
 
 > Obecne w PL mamy najbardziej na świecie negatywne stopy procentowe, które drenują kieszenie oszczędzających obywateli. Taką polityką monetarną NBPu - uwzględniając realną inflację - te 4,5 mln zł w walucie może za 30 lat nie wystarczyć na bochenek chleba. Warto przypomnieć że 1kg wołowiny w 1975 kosztował tyle co dzisiaj, a w 1990 - 15 500zł.
 
+---
+
+<img src="./img/march/ratunek.jpeg"/><br><br>
+
+---
+
 ### 2019
 
 Australia cuts benchmark interest rate to record low 0.25% Australia’s central bank has cut its benchmark interest rate to a record low 0.25%, seeking to ease the cost of credit.

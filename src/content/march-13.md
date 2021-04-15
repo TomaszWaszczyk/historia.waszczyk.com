@@ -16,6 +16,19 @@ Gates krytykuje bitcoina. Ma fatalny wpływ na środowisko
 Gates stwierdził jednak, że "problem energochłonności bitcoina mógłby zniknąć, jeśli do jego produkcji zostaną wykorzystywane odnawialne źródła energii, bez jednoczesnego wykluczania innych użytkowników". Wyjaśnił przy tym, że nie uważa, żeby produkcja kryptowaluty jednoznacznie przyczyniała się do zmian klimatu.
 W ostatnim czasie produkcja kryptowalut stała się jednym z najbardziej energochłonnych procesów. Światowa sieć bitcoinów pochłania tyle prądu, ile w 2018 r. wyniosło równowartość roczne zapotrzebowania na energię elektryczną Irlandii. Niedawno opublikowana analiza naukowców z Uniwersytetu Cambridge wskazuje, że bitcoin obecnie konsumuje tyle energii co cała Argentyna.
 
+---
+
+> Fed doesn’t see inflation running out of control, Harker says
+
+The Federal Reserve sees inflation moving up towards its 2% annual target but doesn’t see runaway price pressure, said Philadelphia Fed President Patrick Harker on Tuesday.
+
+“At this point, we don’t expect inflation to be running out of control,” Harker said, during a webinar hosted by the Delaware State Chamber of Commerce.
+
+“We have time to move because we’re not seeing inflation running out of control. If it does, we’ll act accordingly,” he said.
+
+The consumer price index rose 0.6% in March, the largest month-on-month gain since 2012. The 12-month rate rose to 2.6%. 
+
+---
 ### 2020
 
 Corona wirus
