@@ -274,6 +274,8 @@ https://waitbutwhy.com/2019/08/story-of-us.html
 
 ---
 
+<img src="./img/wychowanie-mlodego-czlowieka/dzieci.jpeg"><br><br>
+
 <img src="./img/wychowanie-mlodego-czlowieka/gitmerge.jpeg"><br><br>
 
 <img src="./img/wychowanie-mlodego-czlowieka/gitpush.jpeg"><br><br>

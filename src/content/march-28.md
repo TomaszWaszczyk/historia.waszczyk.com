@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Since the Suez Canal is the news, it's a good moment to share some history: From 1967 to 1975 the canal was intentionally blocked by the Egyptian military (using ships and naval mines) in response to the Israeli seizure of the Sini Peninsula during the Six-Day War.
+
 ### 2020
 
 Pandemia zrodziła się w Chinach, ale kiedy zachód zatrzymał swoje gospodarki, kraje  takie jak:
