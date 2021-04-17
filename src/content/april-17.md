@@ -3,11 +3,61 @@ layout: post
 title: 17 kwietnia
 image: img/april/konieczabawy.png
 author: Tomasz Waszczyk
-date: 2019-04-17T10:00:00.000Z
+date: 2020-04-17T10:00:00.000Z
 tags:
   - Morawiecki
 draft: false
 ---
+
+### 2021
+
+"Na łące opodal krzaczka,
+
+Mieszkała kaczka-dziwaczka,
+
+Lecz zamiast trzymać się łąki
+
+szukała dobrej szczepionki.
+
+Raz poszła więc do tawerny:
+
+"Dajcie mi fiolkę Moderny!"
+
+Tuż obok była apteka,
+
+"Poproszę Astra Zeneca!"
+
+Udała się do dilera:
+
+"Chciałabym dawkę Pfizera!"
+
+a potem, nienasycona:
+
+"Gdzie tu dostanę Johnsona?"
+
+W kącie za starym śmietnikiem
+
+ktoś ją ostrzyknął Sputnikiem.
+
+Martwiły się inne kaczki:
+
+"Co będzie z takiej dziwaczki?"
+
+Aż nagle znalazł się kupiec:
+
+"Na obiad można ją upiec!"
+
+Pan kucharz kaczkę starannie
+
+Piekł, jak należy, w brytfannie.
+
+Lecz zdębiał, obiad podając, 
+
+bo z kaczki zrobił się zając -
+
+miał Wi-Fi, czip i walonki...
+
+Takie to były szczepionki!
 
 ### 2020
 

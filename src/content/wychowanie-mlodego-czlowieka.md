@@ -24,6 +24,10 @@ draft: false
 
 * Johnny Profit - Malgeri Michael A.
 
+* Jak powstaje bogactwo, i kiedy nie powstaje
+
+* Wielka Wyprawa Felicii
+
 * Opowiadania dla dzieci cz. 2 4CD - Singer Bashevis Isaac
 
 * BLIŹNIĘTA TUTTLE I CUDOWNY OŁÓWEK - Connor Boyack

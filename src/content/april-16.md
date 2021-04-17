@@ -3,11 +3,15 @@ layout: post
 title: 16 kwietnia
 image: img/april/donotworry.png
 author: Tomasz Waszczyk
-date: 2019-04-16T10:00:00.000Z
+date: 2020-04-16T10:00:00.000Z
 tags:
   - Niedzielski
 draft: false
 ---
+
+### 2021
+
+> Moskwa komentuje wydalenie dyplomatów. Polska "jak wasal", zapomina, że "USA są daleko, a Rosja blisko"
 
 ### 2020
 

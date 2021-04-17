@@ -3629,6 +3629,12 @@ KKR, TPG and The carlyle Group own America
 
 Na pochyłe drzewo koza skacze.
 
+Integrity means doing the right thing, even when no one's watching C.S. Lewis
+
+People love games because it gives them a sense of agency; something that most people lack in real life.
+
+Done is beautiful.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

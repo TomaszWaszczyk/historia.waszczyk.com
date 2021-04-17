@@ -3,11 +3,15 @@ layout: post
 title: 11 kwietnia
 image: img/april/recession.jpeg
 author: Tomasz Waszczyk
-date: 2019-04-11T10:00:00.000Z
+date: 2020-04-11T10:00:00.000Z
 tags:
   - Cryptography
 draft: false
 ---
+
+### 2021
+
+Board of Directors (the “Board”) of MicroStrategy Incorporated (the “Company”) modified the compensation arrangements for non-employee directors. Going forward, non-employee directors will receive all fees for their service on the Company’s Board in bitcoin instead of cash.
 
 ### 2020
 

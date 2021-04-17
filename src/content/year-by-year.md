@@ -245,6 +245,8 @@ https://en.wikipedia.org/wiki/Medicaid
 
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
+https://pl.wikipedia.org/wiki/Choroba_holenderska
+
 ### 1976
 
 Real King of the World:
@@ -376,6 +378,8 @@ https://en.wikipedia.org/wiki/Operation_Bernhard - próba wyparcia pieniądza!!
 ### 1939
 
 https://en.wikipedia.org/wiki/Monster_Study
+
+https://pl.wikipedia.org/wiki/Operacja_Tannenberg
 
 ### 1938
 
