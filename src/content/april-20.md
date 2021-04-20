@@ -3,11 +3,16 @@ layout: post
 title: 20 kwietnia
 image: img/april/fed.png
 author: Tomasz Waszczyk
-date: 2019-04-20T10:00:00.000Z
+date: 2020-04-20T10:00:00.000Z
 tags:
   - Polski Fundusz Rozwoju
 draft: false
 ---
+
+### 2021
+
+Ani IKE, ani ZUS nie gwarantują, że emerytury Polaków będą godziwe - powiedział PAP ekspert ekonomiczny Instytutu Jagiellońskiego i wykładowca SGH dr Artur Bartoszewicz.
+Na wtorkowym posiedzeniu Sejmu zaplanowano głosowanie rządowego projektu ustawy o przeniesieniu pieniędzy z otwartych funduszy emerytalnych (OFE) na indywidualne konta emerytalne (IKE) i do ZUS. Projekt zakłada likwidację OFE i daje uczestnikom wybór (sic!-ale wybór, moje) czy zgromadzone środki (ok. 148,6 mld zł) trafią na IKE, czy też zostaną przeniesione na konto w ZUS.
 
 ### 2020 - Oszczędności Polaków są bezpieczne – twierdzi prezes Polskiego Funduszu Rozwoju
 

@@ -121,6 +121,12 @@ Na przykładzie losów głównych bohaterów przedstawia się wielowątkową opo
 
 <img src="./img/october/polskiedrogi.jpg"><br><br>
 
+### 1970
+
+Stamps issued in East Germany to celebrate Lenin's 100th birthday.
+
+<img src="./img/april/eastgermanystamp.jpeg"><br><br>
+
 ### 1952
 
 Po sfingowanym procesie opartym na wymuszonych i fałszywych zeznaniach byłych podwładnych został skazany na karę śmierci generał August Emil Fieldorf "Nil".

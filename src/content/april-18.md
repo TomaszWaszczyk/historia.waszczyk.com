@@ -3,11 +3,34 @@ layout: post
 title: 18 kwietnia
 image: img/april/milionerzy.jpg
 author: Tomasz Waszczyk
-date: 2019-04-18T10:00:00.000Z
+date: 2020-04-18T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2021
+
+Chiny oczyszczają biblioteki szkolne z „kultu Zachodu”
+
+"Chińskie władze nakazały szkołom podstawowym i średnim oczyścić swoje biblioteki z książek, które mogą prowadzić do kultu Zachodu kosztem promowania patriotyzmu."
+
+"Posunięcie Ministerstwa Edukacji zaczęło obowiązywać około 1 kwietnia. Oczekuje się, że szkoły podstawowe, gimnazja i licea skupią się na tzw. myśli Xi Jinpinga - ideologii prezydenta, oficjalnie nazwanej „Myśl Xi Jinpinga o socjalizmie z chińskimi cechami dla nowej Ery.""
+
+"Zamówienie będzie miało wpływ na 240 milionów uczniów szkół podstawowych i średnich w kraju, w tym przedszkolaków. Dotyczy to również książek polecanych przez szkoły.
+Wyraźnym celem jest wspieranie lojalności i oddania Xi wśród młodych ludzi przed setną rocznicą powstania Komunistycznej Partii Chin, która przypada 1 lipca."
+
+
+ok. 100 lat temu "też" jedna władza zaczęła palić książki - skutki odczuł cały świat. Rywalizacja geopolityczna zaczyna nabierać obrotów. Jest powód do niepokoju...
+
+Before 2024 US Presidential election: 
+
+<!-- 1. #BTC
+ worth trillions 
+2. BTC - world reserve currency 
+3. Countries locked in Hash War
+4. Most banks will be gone, replaced with Central Bank ‘crypto’
+5. Combined political power of BTC billionaires will dominate policy -->
 
 ### 2020
 

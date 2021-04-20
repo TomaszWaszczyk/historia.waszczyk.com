@@ -13,6 +13,14 @@ draft: false
 
 <img src="./img/january/theeconomist-inflation.png"><br><br>
 
+> "When Chairman Powell, no matter how well-intentioned, says in June, “We’re not even thinking about thinking of raising rates,” at Stone Ridge we respond, “We’re not even thinking about thinking of not buying more #Bitcoin ,” and we did."
+
+> Bitcoin is our peaceful weapon of choice against central bank driven time theft." - Stone Ridge 2020 Shareholder
+
+<img src="./img/january/neobanks.png"><br><br>
+
+<img src="./img/january/neobanks2.png"><br><br>
+
 ### 2020
 
 <img src="./img/january/peso2020.jpg"><br><br>

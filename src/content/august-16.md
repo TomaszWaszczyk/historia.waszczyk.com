@@ -14,6 +14,12 @@ Białoruś
 
 <img src="./img/august/protesty-bialorus.jpeg"><br><br>
 
+---
+
+> We must pass The Great Filter - Elon Musk
+
+---
+
 ### 1971
 
 Nixon severs convertibility between US dollar and gold.

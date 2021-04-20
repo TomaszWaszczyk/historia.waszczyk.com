@@ -3,7 +3,7 @@ layout: post
 title: 19 kwietnia
 image: img/april/getto.jpg
 author: Tomasz Waszczyk
-date: 2019-04-19T10:00:00.000Z
+date: 2020-04-19T10:00:00.000Z
 tags:
   - Getto
 draft: false
