@@ -26,6 +26,11 @@ Dokładna liczba ofiar jego rządów nie jest znana, ale większość historykó
 
 ---
 
+Germany’s famed Kurzarbeitergeld programme, which funnels government cash to workers whose hours are cut by employers, is the “gold standard” of furlough schemes, reckons the imf. It has been widely imitated across Europe by governments seeking to protect jobs and incomes from the full ravages of covid-19 lockdowns. In Germany, under relaxed criteria introduced in March that were extended to nearly 7m workers, it has limited the rise in unemployment to around 600,000 and kept consumer spending buoyant.
+The extraordinary rescue package assembled by Angela Merkel’s government, which also included bridging loans to firms and a suspension of fiscal rules to allow stimulus spending, was broadly endorsed by Germany’s economic establishment. It has fuelled a more robust recovery than elsewhere in Europe. But two recent decisions have seen that consensus start to fray. The first was an extension of Kurzarbeitergeld payments to 24 months. The second was a further moratorium on Germany’s strict requirement for overly indebted companies to declare bankruptcy.
+
+---
+
 Przyklad labilności słabego społeczeństwa:
 
 > „W związku z podejrzeniem, że komunikaty Sanepidu mogą negatywnie wpływać na zachowania społeczne i przyczyniać się do eskalacji zjawiska psychozy strachu oraz do wywoływania stanów lękowych u wielu osób, od dnia dzisiejszego zaprzestajemy ich publikowania...”

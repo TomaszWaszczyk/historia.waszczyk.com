@@ -114,6 +114,12 @@ Dzisiaj żadna ze spółek, która notowana była na pierwszej sesji, nie jest j
 
 <img src="./img/april/gpw.jpg"><br><br>
 
+Tak naprawdę giełda warszawska w Pałacu Saskim powstała w 1817 r. z inicjatywy władz Królestwa Polskiego. Spełniała ten sam cel, co starsze od niej giełdy w Londynie i Amsterdamie - obsługiwała dług państwowy. Do pośredniczenia w transakcjach ustanowiono sześciu „meklerów” 😉
+
+Wkrótce uwłaszczenie chłopów i uprzemysłowienie dolały giełdowego paliwa wszystkim, ale giełda została zdominowana przez dwóch arcywrogów: L. Kronenberga oraz J. Blocha. Ta para rywali dominowała w W-wie do tego stopnia, że ich walka destabilizowała rynek finansowy Królestwa. Aby mieć blisko do Saskiego, Bloch zamieszkał w pałacu przy Marszałkowskiej, a Kronenberg wybudował pałac jeszcze bliżej na placu ewangelickim. Na giełdzie wciąż pożyczali pieniądze na bardzo wysoki procent, byle tylko zyskać środki na nowe budowy kolei. Wojnę dwóch finansowych imperiów z uwagą obserwowali mieszkańcy Królestwa, bo Bloch był szanowanym obywatelem i filantropem, nawet polskim kandydatem do pokojowego Nobla, a Kronenberg patriotą i przyjacielem J. I. Kraszewskiego. Późniejsza giełda była już tylko cieniem tej z XIX w...
+
+Niestety w 1944 r. wszystkie trzy pałace ww. zostały celowo wysadzone tuż przed wkroczeniem Armii Czerwonej. W ich miejscu dziś stoją Grób Nieznanego Żołnierza, Victoria i poprzednia siedziba BZ WBK.
+
 ### 1977
 
 Telewizja Polska rozpoczęła emisję serialu wojennego Polskie drogi - w reżyserii Janusza Morgensterna. Akcja rozgrywa się w latach 1939-43 i skupia się ona na losach podchorążego Władysława Niwińskiego, w którego rolę wcielił się Karol Strasburger, oraz kaprala Leona Kurasia - w tej roli Kazimierz Kaczor. Polskie drogi to jeden z najpopularniejszych polskich seriali telewizyjnych wielki portret Polski Walczącej z okresu okupacji hitlerowskiej.

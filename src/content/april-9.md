@@ -89,6 +89,12 @@ Na początku lat 70-tych XX wieku stworzył najlepszy minikomputer (K-202) na ś
 
 <img src="./img/april/karpinski.jpg"/><br><br>
 
+Jacek Karpiński - mógł budować polski przemysł informatyczny. Ale miał pecha. Urodził się za wcześnie...
+
+Jacek Karpiński chciał pracować dla Polski. I wierzył, że "Ruscy sobie kiedyś pójdą. A technologia zostanie". Stworzył pierwszy na świecie komputer osobisty. Wybitny polski wynalazca, nie miał jednak szans na sukces w PRL. Szkoda, bo może dzisiaj bylibyśmy potęgą informatyczną.
+
+W tej historii jest wszystko : wielki talent i wielka zawiść, wielkie nadzieje i równie wielkie porażki. Jacek Karpiński. Genialny polski konstruktor, twórca pierwszej na świecie maszyny do opracowywania długoterminowych prognoz pogody i minikomputera - na 10 lat przed erą pecetów. O takich ludziach kręci się filmy, ich imieniem nazywa się szkoły i ulice. W Polsce na razie doczekał się hasła w Wikipedii, ekspozycji w Muzeum Techniki w Pałacu Kultury i Nauki.....
+
 ### 1835
 
 Zbudował prywatne państwo i mordował masowo ludzi: https://pl.wikipedia.org/wiki/Leopold_II_Koburg

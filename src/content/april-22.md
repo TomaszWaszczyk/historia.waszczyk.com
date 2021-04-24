@@ -3,7 +3,7 @@ layout: post
 title: 22 kwietnia
 image: img/april/odezwa.jpg
 author: Tomasz Waszczyk
-date: 2019-04-22T10:00:00.000Z
+date: 2020-04-22T10:00:00.000Z
 tags:
   - Ukraina
 draft: false

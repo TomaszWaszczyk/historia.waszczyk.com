@@ -3,12 +3,18 @@ layout: post
 title: 23 kwietnia
 image: img/april/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2019-04-23T10:00:00.000Z
+date: 2020-04-23T10:00:00.000Z
 tags:
   - UBI
 ---
 
 ### 2020
+
+https://en.wikipedia.org/wiki/East_Asian_rainy_season
+
+<!--
+1. With an average revenue from 2019-2021 of $0.183 TH/day. Using this average, current USD/EUR rates and BTC current pricing, this represents a hair over $400k over 3 years.
+-->
 
 #### Canada - towards the UBI
 
@@ -60,6 +66,13 @@ Inną relację podaje francuski dziennikarz i historyk żydowskiego pochodzenia 
 „Na miejski cmentarz żydowski wdarły się dwie kolumny wojskowe. Mając nadzieję na znalezienie ukrytej broni lub złota wywrócono wiele nagrobków, sprofanowano mnóstwo grobów. Inna kolumna wojskowa, która weszła do centrum miasta, napadła na dzielnicę żydowską. Przez trzy dni żołnierze rabowali i niszczyli miasto. Włamywali się do mieszkań, wypędzali z nich mieszkańców, rabowali, dewastowali sklepy, okrutnie bili Żydów, Polacy zamordowali około 80 osób. Inne oddziały wdarły się na Lipówkę i zmuszały miejscowych Żydów do kopania sobie grobów. Niektórych Żydów przywiązywano do koni i byli ciągnięci przez wiele kilometrów ulicami miasta. Innych z kolei wyrzucano przez okna. Religijnych Żydów, którym obcięto brody, liczono na setki. Kilku spalono żywcem, inni ze związanymi rękoma zostali wrzuceni do Wilii. Trzeciego dnia oddział polskich żołnierzy otoczył budynek w centrum miasta i wypędził z niego wszystkich mieszkańców. Wśród nich byli i pisarze Aaron Wajter, Leiba Jaffe oraz Szmuel Niger. Wajter został przez legionistów zastrzelony, gdyż podejrzewano go o probolszewickie sympatie. Pozostali dwaj byli przez wiele dni więzieni”.
 
 <img src="./img/april/rydz.jpg"><br><br>
+
+---
+
+Rozpoczęła się zorganizowana przez bolszewików akcja otwarcia relikwii Rosyjskiego Kościoła Prawosławnego, mająca obalić rozpowszechniany przez Cerkiew pogląd, że ciała świętych nie ulegają po śmierci rozkładowi.
+Z jednej strony zakończyła się sukcesem bolszewików – ekshumowane ciała były naturalnie w stanie rozkładu – z drugiej nastąpiła klapa: rosyjskie chłopstwo wcale nie wyzbyło się dawnego kultu. Znane są przekazy o chłopach tłumaczących nieoczekiwane dla nich wyniki otwarcia rak interwencją świętych, którzy postanowili uchronić swoje ziemskie ciała przed profanacją i zawczasu zamienili je w nagie kości lub słomę.
+
+<img src="./img/april/relikwie.jpg"><br><br>
 
 ### 1911
 

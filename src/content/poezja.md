@@ -546,4 +546,8 @@ Ty znów spierdolisz, spakujesz torby.." -->
 
 ---
 
+pięść o spusztoszeniu podola problematyka
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!<a>

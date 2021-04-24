@@ -72,4 +72,16 @@ Od lewej.
 
 ---
 
+Antoni Patek (1812-77) pochodził z rodziny szlacheckiej herbu Prawdzic zamieszkałej na Lubelszczyźnie. Uczestniczył w powstaniu listopadowym za co otrzymał Krzyż Złoty Orderu Virtuti Militari.
+
+W 1831 wyjechał do Francji, a zaraz potem do Szwajcarii, gdzie zainteresował się zegarmistrzostwem. W 1839 zakłada spółkę z polskim emigrantem Franciszkiem Czapkiem.
+
+Drogi podążającego z duchem czasu Patka i konserwatywnego w swych poglądach Czapka rozeszły się i Polak przyjmuje do spółki Francuza- Adriena Philippe'a. Produkty Patek- Philippe wyróżniają: piękno, precyzja i niezawodność.
+
+Na początku lat 40 XIX w. firma po raz pierwszy instaluje w zegarkach niezależny sekundnik. Prawdziwa rewolucja następuje w 1868– rusza na szeroką skalę produkcja czasomierzy na rękę. Mówi się, że zegarki Patka mają duszę.
+
+Patek-Philippe to dziś najsłynniejsza manufaktura, produkująca najdroższe zegarki na świecie.
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/ziemianstwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -226,4 +226,13 @@ Początkowo płacili go tylko bogaci. Opodatkowano dochody powyżej 60 funtów r
 
 ---
 
+Historycy szacują, że dziś fortuna Fuggera byłaby warta ok. 400 mld dolarów. Oznaczałoby to, że Fugger byłby ponad dwukrotnie bogatszy od Jeffa Bezosa, założyciela Amazona.
+W przeciwieństwie do innych ówczesnych bogaczy, urodzony w 1459 roku w niemieckim Augsburgu Jakob Fugger nie przyszedł na świat w arystokratycznym domu. Fugger pochodził z nizin społecznych – jego dziad był zwykłym bawarskim chłopem, który pewnego dnia porzucił uprawę roli i przenieść się do miasta. Miał on smykałkę do interesów.
+Jakob Fugger nie planował kariery w biznesie. Poszedł na studia teologiczne. Szybko porzucił te plany i przeniósł się z Niemiec do Wenecji, stał się agentem handlowym rodzinnego przedsiębiorstwa. Nawiązał mnóstwo niezwykle przydatnych kontaktów i poznał świat bankowości.
+Swoją fortunę Fugger zawdzięczał przede wszystkim wydobyciu metali, szczególnie miedzi. Przejmował kopalnie w całej Europie, wiele z nich wpadło w jego ręce jako zabezpieczenie pożyczek, których ich właściciele nie byli w stanie spłacać.
+Dzięki pożyczkom udzielanym władcom w całej Europie, Fugger osiągnął olbrzymie wpływy.
+Jedna z gałęzi rodu Fuggerów przeniosła się do Polski, stając się Fukierami. 
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/money.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

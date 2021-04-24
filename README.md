@@ -6,6 +6,8 @@ Przedwojenny 1PLN = 0.17grama XAU
 
 Bolszewicy a złoto
 
+https://whu.org.pl/2015/01/17/zapomniany-potentat-jan-gotlieb-bloch/
+
 Bierut - ustawa złoto platyna dewizy
 
 niewolnicy w rzymie = brak rodzin

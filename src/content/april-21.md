@@ -3,17 +3,30 @@ layout: post
 title: 21 kwietnia
 image: img/april/1920-Umowa-Warszawska-7-1280x640.jpg
 author: Tomasz Waszczyk
-date: 2019-04-21T10:00:00.000Z
+date: 2020-04-21T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2021
+
+Doroczne orędzie Władimira Putina.
+
+> Sami określimy, gdzie leży czerwona linia
 
 ### 2020
 
 Polska w rankingu World Press Freedom Index:
 2015 - 18. miejsce
 2020 - 62. miejsce
+
+### 1991
+
+Klub Paryski zredukował o 50% polski dług zagraniczny.
+Państwom zrzeszonym w Klubie Paryskim, m.in. Francji, RFN, Wielkiej Brytanii i USA, Polska była winna ok. 60 mld dolarów. Wskutek zabiegów rządu Jana Krzysztofa Bieleckiego i prezydenta Lecha Wałęsy udało się umorzyć połowę zadłużenia pod warunkiem kontynuowania wolnorynkowych reform. Ówcześni analitycy sejmowi określali tę decyzję jako bezprecedensową w historii międzynarodowych finansów, porównywalną jedynie do umorzenia niemieckich długów w 1953 r. (50 proc.) i indonezyjskich w latach 1966-70 (60 proc.). Rok później łączne zadłużenie Polski wynosiło „zaledwie” 46 mld dol. Według Ministerstwa Finansów Polska jest dziś zadłużona na ok. 273 mld dolarów.
+
+<img src="./img/april/klubparyski.jpg"><br><br>
 
 ### 1945
 

@@ -84,6 +84,22 @@ W Cheseaux-sur-Lausanne w Szwajcarii zmarł 84-letni Stefan Kudelski, elektronik
 
 <img src="./img/january/kudelski.jpg"/><br><br>
 
+### 1972
+
+Na wysokości 10 km przy granicy NRD z Czechosłowacją w samolocie ✈ McDonnell Douglas DC-9 jugosłowiańskich linii lotniczych wybuchła bomba🧨, prawdopodobnie podłożona przez chorwackich nacjonalistów . Samolot , a następnie runął na ziemię 🛬. Zginęło 27 osób.
+
+Czy ktokolwiek mógł przeżyć katastrofę oraz upadek z 10 km❓ TAK, cudem przeżyła jedna stewardesa, Vesna Vulović.
+
+Gdy na pokładzie doszło do eksplozji, maszyna rozpadła się na dwie części.
+
+Vulović znajdowała się w ogonie samolotu. Wózek od cateringu przygniótł ją do ściany, dzięki czemu nie została wyssana na zewnątrz. Ponadto, uderzenie w zalesiony stok 🏞 oraz warstwa śniegu❄ znacznie wyhamowała zderzenie.
+
+Vulović przeżyła jako jedyna osoba na pokładzie. Mimo pękniętej czaszki, złamanych trzech kręgów i obu nóg. Stewardessę znaleziono wśród fragmentów samolotu i ciał innych ofiar podniebnej tragedii.
+
+Przypadek Vesny Vulović jest powszechnie uznawany za cud, za coś co nie miało prawa się wydarzyć. Stewardessa twierdziła jednak, że nie miała szczęścia, ale ogromnego pecha.
+
+Bohaterka trafiła także do Księgi Rekordów Guinnessa jako osoba, która wykonała skok bez spadochronu z najwyższej wysokości.
+
 ### 1938
 
 Gen. Tadeusz Kutrzeba określił w przedstawionych marszałkowi Edwardowi Rydzowi-Śmigłemu założeniach planu wojny z Niemcami. Przewidywano w nim, że do 1941 r. potencjał wojenny Niemiec będzie trzykrotnie wyższy od osiągniętego w tym samym czasie przez Polskę.
