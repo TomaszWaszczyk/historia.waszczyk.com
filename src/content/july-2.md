@@ -12,6 +12,8 @@ tags:
 
 <img src="./img/july/inflacja.jpg"><br><br>
 
+<img src="./img/july/brrrrrrrrr.jpeg"><br><br>
+
 ---
 
 Likwidacja limitu długu publicznego? Młodzi ekonomiści są na "tak"

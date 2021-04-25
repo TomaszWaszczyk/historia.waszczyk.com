@@ -3,11 +3,23 @@ layout: post
 title: 25 kwietnia
 image: img/april/battery1.jpeg
 author: Tomasz Waszczyk
-date: 2019-04-25T10:00:00.000Z
+date: 2020-04-25T10:00:00.000Z
 tags:
   - Cryptocurrency systems
 draft: false
 ---
+
+### 2021
+
+<img src="./img/april/zdziczeniepolityczne.jpeg"><br><br>
+
+ <!-- „Face the Future” Seghers 1981:
+„W przyszłości porozmawiamy o znalezieniu sposobu na zmniejszenie populacji. Zaczniemy od starych, ponieważ jak tylko osoba skończy 60-65 lat, żyje już dłużej niż produkuje, a to drogo kosztuje społeczeństwo. Potem słabi, a potem bezużyteczni, którzy społeczeństwu nic nie wnoszą, bo będzie ich coraz więcej, a zwłaszcza głupich. Eutanazja jest skierowana do tych grup; we wszystkich przypadkach eutanazja powinna być ważnym narzędziem dla naszych przyszłych społeczeństw. Oczywiście nie możemy dokonywać egzekucji ludzi ani zakładać obozów. Pozbędziemy się tego, przekonując ich, że jest to dla ich własnego dobra. Zbyt duża populacja i w większości niepotrzebna jest zbyt kosztowna z ekonomicznego punktu widzenia. Ze społecznego punktu widzenia znacznie lepiej jest, gdy ludzka maszyna nagle się zatrzyma, niż stopniowo się pogarsza. Nie będziemy też w stanie przetestować inteligencji milionów ludzi. Pomyśl dobrze! Znajdziemy coś lub sprawimy: pandemię wymierzoną w niektórych ludzi, prawdziwy kryzys gospodarczy lub wirus, który wpłynie na starych lub więcej, cokolwiek, słabi ulegną temu, przestraszeni i głupi uwierzą i poproszą o leczenie. Zadbamy o zaplanowanie Twojego zabiegu, który będzie ROZWIĄZANIEM. Zatem selekcja idiotów będzie dokonywana samodzielnie: oni sami pójdą na BITWĘ” 
+---
+Nie zapominajmy że przygotowania do tej swiatowej hucpy trwaly dziesiatki lat, miliardy wydane na badania reakcji społecznych, darmowe media socjalne których roczne utrzymanie kosztuje setki milionów USD, sprzedaż smartphonów poniżej kosztów produkcji, oraz pytanie bez odpowiedzi: kto finansuje LI? Mamy wszelkie rodzaje fundacji ktore za friko rozdaja stypendia aby nic nie robić, finansowanie i instytucjonalizacja doktoratów, organizacja tzw doktoratów przez studia. Czy jeszcze o czymś zapomnialem? A teraz sie dziwimy zę ludzie są gotowi chodzic na czworakach z trzema maskami? I to bez specjalnego straszenia n-tą falą? Napotkałem forum, na którym ludzie wyplakiwuja sie sobie w kolnierz ze tak naprawde to daliby sie wyszczepic i zyc na kolanach za ta filizankę kawy wypitą na mieście aby sie odprężyc.
+-->
+
+<img src="./img/april/adoptionbtc.jpeg"><br><br>
 
 ### 2020
 

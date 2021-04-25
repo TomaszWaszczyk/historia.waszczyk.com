@@ -12,9 +12,21 @@ tags:
 
 <img src="./img/august/profesor-longterm.png"><br><br>
 
+---
+
+<img src="./img/august/wsbtc.jpeg"><br><br>
+
+<!-- my therapist just told me that i am such a product of capitalism that ive replaced any real joy with accomplishments 
+
+and ive never been so accurately dragged in my life -->
+
+---
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
+
+<img src="./img/august/nixon.jpeg"><br><br>
 
 ### 1952
 

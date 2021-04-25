@@ -10,6 +10,12 @@ tags:
 
 ### 2020
 
+Godzina policyjna w Sylwestra.
+
+<img src="./img/december/godzinapolicyjna2020.jpeg"><br><br>
+
+### 2020
+
 > Dziś zadzwoniła do mnie moja siostra - pracująca w Instytucie Onkologii. Rząd zmniejszył nakłady na onkologię. W tym roku wydali 7mln zł na terapie. Na 2021 dadzą 3 mln. Dziś cofnęli jej urlop - siedzi w pracy i liczy komu mogą dać leczenie komu nie. Nowi nie dostaną. Liczą dla kontynuujących. Na pytanie do rządu co będzie jak braknie kasy we wrześniu - rząd każe PRZERWAĆ LECZENIE ONKOLOGICZNE ‼️‼️‼️
 >Skur..wysyny.
 >Zarządzenie przyszło przed wczoraj.

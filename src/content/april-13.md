@@ -37,6 +37,16 @@ Kolejna odprawa: na stole lądują spawalnicze przyłbice od znajomego hutnika, 
 
 Ginie <https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Dziemieszkiewicz>
 
+### 1941
+
+W Otwocku 15 letni chłopiec Sławomir Lewiński (zdjęcie) dokonał zniszczenia faszystowskiego godła znajdującego się przed tamtejszą siedzibą gestapo.
+Czyn ten miał dosyć poważne konsekwencje dla mieszkańców tego miasta, ponieważ ówczesny niemiecki starosta warszawski nałożył na mieszkańców kontrybucję w wysokości 20 tysięcy złotych, a także przesunął godzinę policyjną z 22 na 20.
+W odwecie za zniszczenie hitlerowskiego
+godła Niemcy wysadzili w powietrze pomnik
+Tadeusza Kościuszki znajdujący się na
+ówczesnej Al. Tadeusza Kościuszki w
+Otwocku.
+Historia 15 letniego Sławka miała jednak swój tragiczny koniec. W wyniku czynu, którego dokonał Niemcy aresztowali kilkunastu zakładników, których chcieli zabić w przypadku, gdyby nie udało się znaleźć sprawcy. Chcąc uniknąć śmierci niewinnych ludzi zgłosił się do ówczesnego otwockiego komendanta gestapo Otto Schlichta ojciec chłopca, który wszystko opowiedział. Wkrótce obaj Lewińscy trafili do obozu koncentracyjnego, gdzie zostali zamordowani.
 ### 1927
 
 Pierwsi badacze dotarli do miejsca katastrofy tunguskiej z 1908 roku.

@@ -108,4 +108,12 @@ Bitwa nad Bzurą, mimo że w końcowym rezultacie zakończyła się klęską arm
 
 ---
 
+Niemieccy kaci spalili Wielką Synagogę w Katowicach
+
+<img src="./img/september/kattowitz.jpeg"><br><br>
+
+---
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

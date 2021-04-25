@@ -8,6 +8,12 @@ tags:
   - Sopot
 ---
 
+### 2020
+
+<img src="./img/october/nowoczesnosc2020.jpeg"><br><br>
+
+<img src="./img/october/interestrates.jpeg"><br><br>
+
 ### 2019
 
 Chiny zaprezentowały DF-41 - broń, o której mówi się, że można by jej użyć w "dzień Sądu Ostatecznego". Chińczycy pochwalili się budzącym respekt uzbrojeniem podczas wielkiej parady z okazji 70-lecia rządów komunistycznych.
