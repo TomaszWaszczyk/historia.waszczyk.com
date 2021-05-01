@@ -3,7 +3,7 @@ layout: post
 title: 28 kwietnia
 image: img/april/fakenews.jpg
 author: Tomasz Waszczyk
-date: 2019-04-28T10:00:00.000Z
+date: 2020-04-28T10:00:00.000Z
 tags:
   - Work from home
 draft: false

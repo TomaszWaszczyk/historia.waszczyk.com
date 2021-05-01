@@ -44,6 +44,12 @@ W Radomiu rozpoczął się trwający 49 dni strajk okupacyjny w Wyższej Szkole 
 
 <img src="./img/october/strajk.jpg"><br><br>
 
+### 1945
+
+"Prezydent" kolaboracyjnej wobec okupanta sowieckiego KRN Bolesław #Bierut wydał dekret "o własności i użytkowaniu gruntów na obszarze m. st. Warszawy", czyli o grabieży na rzecz komunistycznych władz nieruchomości prywatnych położonych w granicach stolicy Polski.
+
+<img src="./img/october/bierut.jpeg"><br><br>
+
 ### 1911
 
 https://pl.wikipedia.org/wiki/Samuel_Reshevsky

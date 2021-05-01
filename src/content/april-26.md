@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/april/digitalbond.jpeg"><br><br>
+
 ### 2020
 
 Polski rząd persona non grata na obchodach 14 lipca. Prezydent Francji wycofał zaproszenie z okazji dnia Bastylii, ale najgorsze dopiero przed nami.

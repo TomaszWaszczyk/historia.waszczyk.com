@@ -3639,6 +3639,8 @@ Done is beautiful.
 
 People love games because it gives them a sense of agency; something that most people lack in real life, perhaps including myself.
 
+Ludzie uczą się przez pięć lat jak zgromadzić kapitał a przez dwadzieścia jak go nie stracić.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

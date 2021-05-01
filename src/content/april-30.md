@@ -3,11 +3,15 @@ layout: post
 title: 30 kwietnia
 image: img/april/poalej.jpg
 author: Tomasz Waszczyk
-date: 2019-04-30T10:00:00.000Z
+date: 2020-04-30T10:00:00.000Z
 tags:
   - "Proletarjusze"
 draft: false
 ---
+
+### 2021
+
+Inflacja w kwietniu 4,3%!
 
 ### 2020
 
