@@ -206,6 +206,12 @@ Szakszuka
 
 Czystek
 
+### Służby specjalne
+
+Oleg Pieńkowski
+
+Sylwester Kaliski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

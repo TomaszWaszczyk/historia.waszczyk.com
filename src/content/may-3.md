@@ -3,7 +3,7 @@ layout: post
 title: 3 maja
 image: img/may/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2019-05-03T10:00:00.000Z
+date: 2020-05-03T10:00:00.000Z
 tags:
   - Warren Buffett
 draft: false

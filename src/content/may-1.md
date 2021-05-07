@@ -8,6 +8,18 @@ tags:
   - Goebells
 ---
 
+### 2021
+
+Trwa akcja #wyszczepsie
+
+> No właśnie jade po szczepienie 200km zeby dostac pierwsza dawkę dziś a nie za 3-4 tygodnie jak to w moim mieście. Oczywiście wypadki i korki... ech organizacja - Warszawa
+
+<img src="./img/april/kolejkadoszczepieniaslask.jpg"><br><br>
+
+Szczepienia jednak nie odbyły się na Śląsku, ludzie czekali sobie i jednak nie wyszczepili się - widocznie nie mają co robić z czasem/sobą.
+
+<img src="./img/april/1maja.jpg"><br><br>
+
 ### 2020
 
 Liczba bezrobotnych w USA przekroczyła 30 milionów.

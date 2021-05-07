@@ -1487,6 +1487,8 @@ https://www.wikiwand.com/de/Lohnarbeit
 
 bezeceństwo «postępowanie, czyn budzące odrazę»
 
+Habibi is an Arabic word that literally means “my love” (sometimes also translated as “my dear,” “my darling,” or “beloved.”)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

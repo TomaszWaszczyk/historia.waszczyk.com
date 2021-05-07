@@ -3,7 +3,7 @@ layout: post
 title: 5 maja
 image: img/may/beck.jpg
 author: Tomasz Waszczyk
-date: 2019-05-05T10:00:00.000Z
+date: 2020-05-05T10:00:00.000Z
 tags:
   - Beck
 draft: false

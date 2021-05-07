@@ -43,6 +43,10 @@ Zespół urbanistów pod kierunkiem Friedricha Pabsta, od 1939 r. naczelnego arc
 
 Rodzi się Witold Kieżun https://en.wikipedia.org/wiki/Witold_Kie%C5%BCun
 
+### 1910
+
+Urodził się Roman Czerniawski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

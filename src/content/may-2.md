@@ -3,7 +3,7 @@ layout: post
 title: 2 maja
 image: img/may/polskawniemczech.jpg
 author: Tomasz Waszczyk
-date: 2019-05-02T10:00:00.000Z
+date: 2020-05-02T10:00:00.000Z
 tags:
   - Polska
 draft: false

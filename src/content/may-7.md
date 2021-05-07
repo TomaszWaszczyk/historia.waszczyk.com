@@ -3,11 +3,18 @@ layout: post
 title: 7 maja
 image: img/may/bolszewicy.jpg
 author: Tomasz Waszczyk
-date: 2019-05-07T10:00:00.000Z
+date: 2020-05-07T10:00:00.000Z
 tags:
   - Bolszewicy
 draft: false
 ---
+
+### 2021
+
+PREZES NBP NA DZISIEJSZEJ KONFERENCJI:
+
+> Inflację podbijają czynniki całkowicie niezależne od NBP i polityki pieniężnej, jak droższe paliwa i żywność – oświadczył prezes NBP Adam Glapiński. Jak oszacował, czynniki te podnoszą wskaźnik inflacji o ok. 2 pkt proc.
+> Jak powtórzył, inflacja powyżej górnej granicy celu może się utrzymać w kolejnych miesiącach. “To jest do przewidzenia, obserwując obecne trendy” – zaznaczył Glapiński.
 
 ### 2020
 
