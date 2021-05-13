@@ -3,10 +3,29 @@ layout: post
 title: 9 maja
 image: img/may/targowica.jpg
 author: Tomasz Waszczyk
-date: 2019-05-09T10:00:00.000Z
+date: 2020-05-09T10:00:00.000Z
 tags:
   - Narodowy Bank Polski
 draft: false
+---
+
+### 2021
+
+> "W czterech zakładach firmy Żywiec Zdrój SA, należącej do koncernu Danone, trwa spór zbiorowy z pracodawcą. W ubiegłym roku zwolniono część pracowników produkcji. Jednocześnie otrzymali oni propozycję zatrudnienia w Żywcu Zdrój SA poprzez agencję pracy tymczasowej, jednak na znacznie gorszych warunkach"
+
+---
+
+Wszechobecne propagandowo-infantylizujące zwroty takie jak "bądź sobą", "bądź, kim chcesz", "możesz wszystko", "spełniaj marzenia", "kochaj siebie", "nie pozwalaj się osądzać" itp. można odbierać dwojako. Z jednej strony można się nauczyć je całkowicie ignorować jako lukrowane pustosłowie i pop-psychologiczną mowę-trawę - i to jest dla zdecydowanej większości osób wybór optymalny. Z drugiej jednak strony można do tego stopnia bezwiednie przesiąknąć ich wpływem, że sukcesywnie traci się wskutek tego zdolność do rozumowania w poważnych normatywnych kategoriach, takich jak obowiązki, cnoty, przywary, wyrzeczenia, samodyscyplina, skrucha czy sprawiedliwa kara. To zaś może być z moralnego punktu widzenia wyjątkowo i nieodwracalnie wyniszczające.
+Dla porównania, bycie konsekwentnie indoktrynowanym abstrakcyjnymi, pseudonaukowymi frazami powiązanymi z ideologią udającą logicznie skonstruowany system myślowy może być w ostatecznym rachunku mniej groźne. Jeśli np. słyszy się bezustannie o "wartości poznawczej materializmu dialektycznego", "niewątpliwych ustaleniach laborystycznej teorii wartości" czy "walce klas jako o sile napędowej historii", to w pewnym momencie próbuje się przeanalizować wszystkie te ezoteryczne stwierdzenia i zrekonstruować we własnym umyśle opartą na nich doktrynę. Wówczas nasze zdolności dedukcyjne zostają mimo wszystko pobudzone do działania - i możemy wówczas dojść do wniosku, że rzeczona doktryna jest w ostatecznym rachunku jednym wielkim zbiorem sofizmatów i przekłamań.
+Jeśli natomiast nasze zdolności dedukcyjne i nasza moralna wrażliwość zostaną wystarczająco rozmiękczone "byciem sobą", "kochaniem siebie" i resztą wspomnianej wcześniej lakierowanej paplaniny (wszakże logika to, jak wiadomo, etyka myślenia), wówczas możemy być całkowicie - choć bezwiednie - gotowi na to, by w następnej kolejności ochoczo połykać sałatki słowne na temat "zrównoważonego rozwoju", "holistycznej ekologii", "bezwarunkowego dochodu" czy "gospodarki inkluzywnej". Innymi słowy, tam, gdzie marksizm-leninizm ze swoimi naukowo-filozoficznymi pretensjami może się rozbić o mur obronny naszego zdrowego rozsądku, tam marksizm-lennonizm ze swoim upupiająco-sztubackim trajkotem może obrócić ten mur obronny w kartonową atrapę.
+Podsumowując, przed wielopiętrowymi ideologiami należy się mieć w równym stopniu na baczności, co przed parowyrazowymi sloganami. Zwłaszcza, że intelektualne spustoszenie wywołane przez te pierwsze może być niczym innym, jak przygotowaniem gruntu pod skuteczne rozpanoszenie się tych drugich - najpierw trzeba zrujnować kulturę intelektualną, żeby potem zbudować w jej miejsce brokatową imitację. A zatem to przede wszystkim tę ostatnią należy starannie usunąć, żeby móc cokolwiek odbudować na stałych fundamentach rozumu, sumienia i dobrego smaku - w innym razie będzie się jedynie coraz dalej brnęło na manowce iluzji.
+
+---
+
+Łukaszenka podpisał dekret „O ochronie suwerenności i porządku konstytucyjnego”.
+Teraz, w przypadku śmierci Łukaszenki, wszystkie agencje rządowe będą działać zgodnie z rezolucjami Rady Bezpieczeństwa.
+Na terytorium kraju natychmiast zostanie wprowadzony stan wyjątkowy lub stan wojenny, po którym Rada Bezpieczeństwa z udziałem zarządzających obwodów podejmie decyzję o przeprowadzeniu wyborów.
+
 ---
 
 ### 2020

@@ -3,10 +3,14 @@ layout: post
 title: 12 maja
 image: img/may/halving.png
 author: Tomasz Waszczyk
-date: 2019-05-12T10:00:00.000Z
+date: 2020-05-12T10:00:00.000Z
 tags:
   - Bitcoin
 ---
+
+### 2021
+
+> Mieszkaniowe szaleństwo. "Hipoteczny boom ogarnął banki i Polaków"
 
 ### 2020
 

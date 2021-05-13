@@ -18,6 +18,8 @@ https://pl.wikipedia.org/wiki/Roman_Damian_Sanguszko
 
 Księżna Helena Jabłonowska z Reyów
 
+W marcu 1916 r. jego majątek szacowano na 26,1 mln rubli, 300 mln rubli w długach wekslowych oraz 950 milionów rubli w złocie i w nieruchomościach, łącznie 1 mld 276 mln rubli. Kontrolował dziesiątki krajowych przedsiębiorstw branż metalurgicznej, mechanicznej, tekstylnej, transportu parowego i kolejowego, cukierniczej i innych. Przy parytecie 1 rubel równy wówczas 0,7742 gramów złota, majątek Karola Jaroszyńskiego miał równowartość około jednego tysiąca ton złota. Przeliczając go na pieniądze dzisiejsze, byłoby to ponad 200 mld zł.
+
 ### Książki
 
 * Arystokracja, Miller Marek

@@ -3,11 +3,15 @@ layout: post
 title: 8 maja
 image: img/may/fed.jpeg
 author: Tomasz Waszczyk
-date: 2019-05-08T10:00:00.000Z
+date: 2020-05-08T10:00:00.000Z
 tags:
   - TVP
 draft: false
 ---
+
+### 2021
+
+<img src="./img/may/moneyvelocity.jpeg"><br><br>
 
 ### 2020
 
@@ -56,6 +60,43 @@ Centrale Handlu Zagranicznego
 Anatol Lawina
 
 Ireneusz Sekuła
+
+### 1945
+
+Niemcy w berlińskiej Szkole Saperów w miejscowości Karlhorst,  Niemcy podpisały bezwarunkowy akt kapitulacji wobec czterech mocarstw, kończąc tym samym II wojnę światową w Europie - największą w historii wojnę rozpoczętą 1 września 1939 roku swoją agresją na Polskę, mającą zapewnić panowanie tysiącletniej III Rzeszy nad całym światem poprzez poddanie swojemu władztwu a następnie biologiczne wyniszczanie podbitych narodów, poczynając od biologicznego wyniszczenia Żydów. Wojna rozprzestrzeniła się na inne kontynenty. Dla Polski wojna ta trwała 5 lat 8 miesięcy i 8 dni. Przez cały ten czas setki tysięcy Polaków walczyło na lądzie , morzu w powietrzu, wspólnie z innymi armiami aliantów, o jeden jedyny cel - odbudowę swojego wolnego i suwerennego państwa w wolnej, demokratycznej Europie. W ostatniej fazie II wojny światowej w jednostkach regularnych wszystkich państw alianckich walczyło łącznie ok. 600 tys. Polaków oraz kilkaset tysięcy w armii podziemnej w kraju. Straty wśród ludności polskiej wyniosły 6 027 000. Szacuje się, że całkowita liczba poległych żołnierzy polskich w Europie w latach 1939- 1945 wynosi 300 000 tysięcy. W liczbę poległych żołnierzy polskich wlicza się także żołnierzy z AK oraz WP pod kierownictwem sowieckim.Głównym celem bombardowań w latach 1939-44 była Warszawa, liczba ofiar bombardowań wśród ludności cywilnej wyniosła 90 000. 
+Zgładzono około 3 milionów polskich Żydów i około 3 milionów Żydów - obywateli innych krajów, wymordowanych przez nazistów w ośrodkach zagłady założonych przez aparat terroru państwa Hitlera w poważnej części na okupowanym terytorium Polski. Ofiarą krwawego terroru padło równocześnie ponad 2 miliony polskich chrześcijan. Co czwarty polski ksiądz katolicki i co czwarty polski uczony, co piąty polski nauczyciel padli ofiarą zbrodni. Liczby te nie obejmują ciężkich doświadczeń ok. 2,3 miliona ludzi wysiedlonych przymusowo ze swych domów, ponad 2,5 miliona robotników przymusowych z Polski oraz ok. 200 tys. dzieci wywiezionych w celach germanizacyjnych, z czego 3/4 nie wróciło nigdy do swych rodzin, do Polski.
+Trudno oszacował ofiary całej II wojny światowej. Jedno z ostrożniejszych źródeł podaje liczbę 14 201 000 ofiar wśród żołnierzy, 24 042 000 ofiar wśród ludności cywilnej i ogólną liczbę 38 243 000, włączając w to Stany Zjednoczone, Chiny i Japonię. Jeśli odejmiemy od tego liczbę ofiar odnoszącą się do Ameryki Północnej, Dalekiego Wschodu i Wspólnoty Brytyjskiej, otrzymuje się wiarygodną liczbę ofiar śmiertelnych związanych z wojną w Europie : 
+wojskowi 9 326 000
+ludność cywilna:16 625 000.
+Straty odnotowane w rejestrach (Niemcy, Włochy, Austria, Finlandia, Zjednoczone Królestwo, Francja, kraje Beneluksu, Norwegia) 2 961 000
+Straty szacowane na podstawie prognoz (ZSRR, Rumunia, Włochy, Polska, Czechosłowacja, Jugosławia, Grecja, Bułgaria, Albania) 25 327 000. Łącznie 28 288 000.
+AKT KAPITULACJI TRZECIEJ RZESZY Z 8 MAJA 1945 r.
+My niżej podpisani, działając z upoważnienia Naczelnego Dowództwa Niemieckich Sił Zbrojnych, niniejszym bezwarunkowo poddajemy przed Najwyższym Dowództwem Alianckich Sił Ekspedycyjnych i jednocześnie przed Najwyższym Dowództwem Armii Czerwonej wszystkie siły na lądzie, morzu i powietrzu, które pozostają w dniu dzisiejszym pod niemiecką kontrolą.
+Naczelne Dowództwo Niemieckich Sił Zbrojnych natychmiast wyda rozkazy niemieckim władzom wojskowym, wodnym, powietrznym i wszystkim siłom pod niemiecką kontrolą zaprzestania aktywnych działań o godzinie 2301 czasu środkowoeuropejskiego 8 maja i pozostania na pozycjach zajmowanych w tym czasie. Żaden statek, jednostka pływająca ani też statek powietrzny nie zostanie zatopiony, ani też nie zostaną dokonane żadne uszkodzenia w ich kadłubach, maszynach lub wyposażeniu, ani też w jakichkolwiek urządzeniach, wyposażeniu, aparatach i wszelkich środkach technicznych służących ogólnie do prowadzenia wojny.
+Naczelne Dowództwo Niemieckich Sił Zbrojnych natychmiast wyda odpowiednim dowódcom, i zapewni przekazywanie wszelkich innych rozkazów wydanych przez Najwyższe Dowództwo Alianckich Sił Ekspedycyjnych i przez Najwyższe Dowództwo Armii Czerwonej.
+Niniejszy akt kapitulacji nie będzie obowiązywał, i zostanie zastąpiony przez, ogólny dokument kapitulacji nałożony przez, lub w imieniu Narodów Zjednoczonych w stosunku do Niemiec i niemieckich sił zbrojnych jako całości.
+W przypadku, jeżeli Naczelne Dowództwo Niemieckich Sił Zbrojnych lub też jakiekolwiek siły pod jego kontrolą będą działać w sprzeczności z niniejszym Aktem Kapitulacji, Najwyższe Dowództwo Alianckich Sił Ekspedycyjnych i Najwyższe Dowództwo Armii Czerwonej podejmą działania karne bądź takie, jakie uznają za stosowne.
+Niniejszy Akt został sporządzony w języku angielskim, rosyjskim i niemieckim. Tylko wersje angielska i rosyjska są autorytatywne.
+Podpisano 8 maja 1945 r. w Berlinie.
+W imieniu Naczelnego Dowództwa Niemieckich Sił Zbrojnych
+Von Friedeburg, Keitel, Stumpff
+
+W obecności:
+W imieniu Najwyższego Dowództwa Armii Czerwonej
+Marszałek Związku Radzieckiego
+G. Żukow
+W imieniu Najwyższego Dowództwa Alianckich Sił Ekspedycyjnych
+Marszałek Lotnictwa
+Tedder
+W podpisaniu uczestniczyli także jako świadkowie:
+Generał Dowodzący Strategicznymi Siłami Powietrznymi Stanów Zjednoczonych
+Spaaz
+Generał Dowódca Pierwszej Armii Francuskiej
+F. de Lattre-Tassigny
+Foto: Podpisywanie aktu bezwarunkowej kapitulacji Niemiec. 
+Od lewej siedzą: generał Stumpf, feldmarszałek Keitel oraz admirał Friedeburg.
+
+<img src="./img/may/kapitulacja.jpg"><br><br>
 
 ### 1943
 

@@ -3,11 +3,21 @@ layout: post
 title: 14 maja
 image: img/may/1rozbior.jpg
 author: Tomasz Waszczyk
-date: 2019-05-14T10:00:00.000Z
+date: 2020-05-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2021
+
+Politycy PiS coraz częściej mówią o konieczności przywrócenia poboru wojskowego. Za podjęciem tej decyzji przemawia rosnące niebezpieczeństwo ze strony Rosji i Białorusi oraz niestabilna sytuacja w Europie. Czy przywrócenie tego obowiązku jest możliwe?
+
+Zasadnicza służba wojskowa została zawieszona w 2009 roku po jednogłośnej decyzji Sejmu, którą następnie zatwierdził ówczesny prezydent Lech Kaczyński. Obecnie część polityków oraz ekspertów uważa, że te zarządzenie było błędem.
+
+Największą zwolenniczką powrotu służby zasadniczej jest sędzia TK oraz była posłanka PiS, Krystyna Pawłowicz. Jak twierdzi, nakazuje tego nawet konstytucja, której jeden z artykułów głosi, że "obowiązkiem obywatela polskiego jest obrona Ojczyzny". Podobnego zdania jest również były szef MON Antoni Macierewicz.
+
+Obecnie już wiadomo, że decyzja o likwidacji obowiązku odbywania zasadniczej służby wojskowej była nieprzemyślana i spowodowała tak duże szkody, że naprawić je można tylko poprzez powrót do przymusowego poboru - stwierdził w rozmowie z Defence24.pl, kmdr ppor. rez. Maksymilian Dura.
 
 ### 2020
 

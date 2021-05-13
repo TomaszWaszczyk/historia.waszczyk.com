@@ -3,11 +3,21 @@ layout: post
 title: 11 maja
 image: img/may/tarcza.png
 author: Tomasz Waszczyk
-date: 2019-05-11T10:00:00.000Z
+date: 2020-05-11T10:00:00.000Z
 tags:
   - Tarcza antykryzysowa
 draft: false
 ---
+
+### 2021
+
+If every military aged Palestinian male were disarmed tomorrow, what would happen?
+
+There would be peace.
+
+If every military Israeli male were disarmed tomorrow, what would happen?
+
+Palestinian males would come to Israeli, and kill every Jewish man woman and child they can find.
 
 ### 2020
 

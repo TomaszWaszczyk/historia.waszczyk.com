@@ -3,11 +3,31 @@ layout: post
 title: 13 maja
 image: img/may/templestairs.jpg
 author: Tomasz Waszczyk
-date: 2019-05-13T10:00:00.000Z
+date: 2020-05-13T10:00:00.000Z
 tags:
   - Bank of England
 draft: false
 ---
+
+### 2021
+
+Członek RPP, Jerzy Kropiwnicki, dla PAP Biznes (ten lead jest dla Darka Filara, żeby nie myślał, że to co niżej jest moje):
+
+"Ubolewam, że z obniżaniem stóp prawdopodobnie poszliśmy zbyt daleko, ale uważam jednocześnie, że polityka monetarna prowadzona przy pomocy stóp procentowych jest mało skuteczna dla pobudzania gospodarki, natomiast jest bardzo skuteczna dla hamowania jej wzrostu. Stąd też nie sądzę, by do końca mojej kadencji w Radzie, która upływa w styczniu 2022 r., wniosek o podniesienie stóp procentowych mógłby znaleźć u mnie poparcie".
+"Mam na myśli również ewentualne wnioski o niewielkie podwyżki stóp, uzasadniane ograniczeniem oczekiwań inflacyjnych. Najważniejszym problemem jest wyciągnięcie gospodarki z zapaści, a w tym roku odbuduje ona w znacznej części lub w całości poziom sprzed pandemii".
+
+Po pierwsze - objaśnienia rozbieżnej efektywności wpływu stóp procentowych na sferę realną wymagałyby od członka RPP czegoś więcej niż dowodu w postaci zabójczego argumentu: "uważam jednocześnie".
+Po drugie - członek RPP, który w warunkach wciąż dużej niepewności spieszy z deklaracją, że przez 8 kolejnych miesięcy palcem nie kiwnie dla zapanowania nad rosnącymi oczekiwaniami inflacyjnymi, bo interesuje go wzrost gospodarczy, sprzeniewierza się swojemu mandatowi.
+
+---
+
+<img src="./img/may/deutschebank.jpeg"><br><br>
+
+---
+
+Wojna w Izraelu
+
+<img src="./img/may/deleted.gif"><br><br>
 
 ### 2020 - BoE warns UK set to enter worst recession for 300 years Central bank predicts 30 per cent drop in output in first half of 2020 but opts against new stimulus
 
@@ -96,6 +116,13 @@ Fragment pamiętnika Anny Hinel (zdjęcie) zamordowanej w wieku 19 lat w KL Ausc
 Przerwana nauka i wiążąca się z tym bezpośrednio sprawa wywozu do Niemiec, używam celowo tego wyrazu „wywóz” ponieważ lepiej on maluje sytuację niż „wyjazd na przymusowe roboty”. Tak, wywóz ludzi, tak jak wywóz bydła na odkrytych platformach i gonionych, wyłapywanych na ulicach, zabijanych i zakłuwanych bagnetami przy każdej próbie ucieczki. Granica wieku od 16 do 25 lat zaznaczona w odpowiednim ogłoszeniu nie jest wcale przestrzegana. Widziałam ludzi powyżej lat 50 i dzieci poniżej 14 ciągniętych do zakrytych wozów dziwnie podobnych do karawanów przynajmniej w moich oczach. Krążą pogłoski o morderczych transfuzjach krwi, dokonywanych na dzieciach, które to wypadki kończą się w większej części śmiercią ofiar. Wypijają z nas krew dosłownie. Dobrze, że nie jestem okazem kwitnącego zdrowia. Nędzny wygląd też czasem się przyda, ale z drugiej strony szepcą sobie na ucho takie okropne wieści o samym wywozie, że robi mi się na przemian to zimno to gorąco, gdy myślę o tym. W ogóle ogarnia mnie to okropny zwierzęcy strach przed mającym nastąpić nieszczęściem, to znów obojętność, jakby to wszystko zupełnie mnie nie dotyczyło. Mówią, że wszystko zależy od losu szczęścia i przypadku. Więc cała moja przyszłość zależy tylko i jedynie od przypadku, więc mało znaczące głupstewko zadecyduje o moim życiu?
 
 <img src="./img/may/hinkel.jpg"><br><br>
+
+---
+
+Nowy brytyjski premier Winston Churchill powiedział w inauguracyjnym przemówieniu przed Izbą Gmin, że może obiecać jedynie krew, pot i łzy.
+Mogę wam obiecać tylko krew, znój, łzy i pot. Stoimy przed ciężką próbą najbardziej bolesnego rodzaju. Mamy przed sobą wiele, wiele miesięcy walki i cierpienia - mówił w Izbie Gmin nowy brytyjski premier Winston Churchill, prosząc o wotum zaufania dla swego gabinetu z udziałem opozycyjnej Partii Pracy. W tej słynnej mowie Churchill krótko przedstawił program. - Zapytacie: "Jaka jest nasza polityka?". Prowadzić wojnę na ziemi, na morzu i w powietrzu, z całą naszą mocą i ze wszystkich sił danych nam przez Boga. Zapytacie: "Jaki jest nasz cel?". Zwycięstwo. Zwycięstwo za wszelką cenę. Kiedy mówił te słowa, na froncie zachodnim od pięciu dni trwała ofensywa niemiecka. 14 maja skapitulowała Holandia. Kilka tygodni później Wielka Brytania pozostała niemal samotna w wojnie z Hitlerem.
+
+---
 
 ### 1916
 

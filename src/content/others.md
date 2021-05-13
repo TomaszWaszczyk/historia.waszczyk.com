@@ -202,6 +202,24 @@ Co do herbaty proste: najlepiej lipton earl grey, pozniej jak lekko ostygnie zeb
 
 Szakszuka
 
+Może oni po prostu nie wiedzą, że poziom WITAMINY D3, który gwarantuje sprawne działanie układu odpornościowego to 50-70ng/ml i że w Naszej szerokości geograficznej przy standardowym trybie życia jest po prostu nie możliwy do osiągnięcia bez suplementacji.
+Że CYNK nie jest niczym nadzywczajnym i powinien być uzupełniany jeśli w Naszym żywieniu nie ma pestek, pełnych ziaren i orzechów na codzień.
+Że SELEN jest jednym z mocniejszych odtruwaczy organizmu i modulatorem odpornosci, a osławione w jego wysoką zawartość orzechy brazylijskie pochodzą z Boliwi i wcale go nie zawierają.
+Że ekspozycja na niebieskie światło (z TV, smartfonów i tabletów) przed, którym przeciętny Polak spedza dziennie 5h! (szok!) blokuje wydzielanie melatoniny, która to jest najmociejszym wewnetrznym antyoksydantem, a jej niedobór jest także jednym z głównych czynników rozwoju nowotworów.
+Że MAGNEZ działa przeciwlękowo i reguluje nadciśnienie przyczynowo, a nie objawowo jak leki.
+Że kwasy tłuszczowe OMEGA 3, szczególnie DHA zmniejszają stany zapalne, a te automatycznie wpływają na odporność organizmu.
+Smażąc na kujawskim czy innym badziewiu skutecznie blokujesz nawet te minimalne ilości dostarczone w modnym i toksycznym łososiu.
+Że serek wiejski i bułeczka to najgorszy (prozapalny) posiłek jaki możesz zafundować swoim jelitom.
+Że odporność pochodzi z jelit i że to jedyna prawdziwa informacja jaką możesz usłyszeć w TV.
+Że OTYŁOŚĆ TO CHOROBA, która niesie za sobą bardzo dużo obciążeń nie tylko w gorszym funkcjonowaniu narządów i hormonów, ale często jest też powiązana z wieloma przewlekłymi infekcjami.
+Że każdy kilogram dodatkowej tkanki tłuszczowej to PRZEWLEKŁY STAN ZAPALNY, nie widoczny w podstawowym badaniu CRP i OB. W Polsce mamy 60% ludzi z nadmierną masą ciała, a polskie dzieci są najszybciej tyjącymi w Europie (na przestrzeni ostatnich lat).
+Mamy stadnie skrajne niedobory WITAMINY B12, ponieważ jednym z ulubionych leków Polaków są IPP (inhibitory pompy protonowej) czyli słynne "osłonowe", które blokują wydzielanie kwasów żoładkowych, automatycznie blokując wchłanianie tej witaminy. Jej niedobór prowadzi do anemii, a to z kolei znów obniża odporność. 
+Nie wiedzą, że każdy zbędny gram CUKRU obniża ilość leukocytów (komórek odpornościowych) po posiłku o 70%. Też nie wiedzą, że chleb, sok czy ukochane kluski to cukier.
+Negatywne emocje: ZŁOŚĆ, ŻAL, ZAZDROŚĆ skutecznie niszczą nawet dobrze odżywiony organizm.
+Że ALKOHOL jest tak mocną toksyną, że na jego usunięciecie organizm musi uruchomić specjalne procesy, czyli znów niepotrzebnie jest eksploatowany. Wiec lepiej wybierz kiszoną kapustę, której składniki skracają infekcję niż wódkę z pieprzem, ten sławetny polski lek na każde zło.
+Że GLIFOSAT (Roundup) to większe świństwo niż DDT. Oni nie wiedzą co to jest glifosat...
+Że uziemianie i KONTAKT Z NATURĄ zmniejszają stany zapalne oraz poziom glukozy, znów bezpośrednio powiązane z odpornością.
+
 ### Zioła
 
 Czystek
@@ -211,6 +229,8 @@ Czystek
 Oleg Pieńkowski
 
 Sylwester Kaliski
+
+Marian Pękalski - http://www.rytm-wydawnictwo.pl/nowosci/klamstwo-i-podstep-we-wspolczesnym-swiecie_p_1894.html
 
 ---
 

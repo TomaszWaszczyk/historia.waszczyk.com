@@ -3,11 +3,17 @@ layout: post
 title: 10 maja
 image: img/may/miezynski.jpg
 author: Tomasz Waszczyk
-date: 2019-05-10T10:00:00.000Z
+date: 2020-05-10T10:00:00.000Z
 tags:
   - Przedsiębiorcy
 draft: false
 ---
+
+### 2021
+
+> Bez surowców ziem rzadkich nie ma transformacji energetycznej. Chiny i Kongo zacierają ręce
+
+> "Lit odnotowuje najszybszy wzrost, z ponad 40-krotnym wzrostem popytu w scenariuszu zrównoważonego rozwoju (SDS) do 2040 r. Następne są grafit , kobalt i nikiel (wzrost około 20-25 razy)"
 
 ### 2020
 

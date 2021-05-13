@@ -46,6 +46,10 @@ https://en.wikipedia.org/wiki/Quadratic_voting
 
 ---
 
+### 2025
+
+Made in China 2025
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???
