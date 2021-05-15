@@ -3,11 +3,22 @@ layout: post
 title: 15 maja
 image: img/may/majowy.jpg
 author: Tomasz Waszczyk
-date: 2019-05-15T10:00:00.000Z
+date: 2020-05-15T10:00:00.000Z
 tags:
   - Przewrót majowy
 draft: false
 ---
+
+### 2021
+
+Nowy Ład:
+
+Polskie państwo do obywatela: bogać się, ale jak przekroczysz 8 tys. netto, to cię dojedziemy, wyciśniemy i ograbimy. Dla ambitnych, niezależnych, wybijających się ponad przeciętność w tym planie miejsca brak. To wielki plan łapówkowy dla grupy wyborców, których PiS uznał za swój potencjalny cel.
+
+Wg PiSu polski oligarcha mieszka w 70-metrowej rezydencji z płaskim dachem i zarabia 10 tysięcy złotych brutto. 30 lat przemian, w tym 6 "dobrej zmiany" i dorobiliśmy się kilku procent bogaczy zarabiających miesięcznie 2.200€, których trzeba opodatkować, bo im się w dupach z nadmiaru poprzewraca.
+
+No cóż - tak właśnie działa d***kracja.
+Właściwie to już ochlokracja.
 
 ### 2020
 

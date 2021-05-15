@@ -42,6 +42,13 @@ Przypomnijmy, że wcześniej nowe przepisy i ułatwiony dostęp do zwodu oprotes
 
 ---
 
+### 2016
+
+Ciemna strona Żabki nadal nieznana. Autorka bała się procesów i wstrzymała druk oskarżycielskiej książki.
+
+Ta książka miała wszystko. Sensacyjną, emocjonalną i tragiczną treść, kampanię promocyjną w mediach, 16 tys. zł dotacji od internautów na druk, a nawet zaprojektowaną okładkę. Ale na razie się nie ukaże. Autorka i wydawca boją się procesów o odszkodowania ze strony sieci handlowej Żabka.
+"Dekada ajentów" o dramatycznych losach sklepikarzy z Żabki miała wstrząsnąć polskim kapitalizmem. Pokazać, jak wielka firma może żerować na naiwnym zapale przedsiębiorców, by wepchnąć ich w otchłań długów. Niestety.
+
 ### 1940
 
 W Czortkowie (obecnie Ukraina) wybuchło powstanie antyradzieckie. Było ono inicjatywą działającego na Kresach Stronnictwa Narodowego czyli polskiej organizacji konspiracyjnej pod kierownictwem Tadeusza Bańkowskiego, Henryka Kamińskiego i Heweliusza Malawskiego.
