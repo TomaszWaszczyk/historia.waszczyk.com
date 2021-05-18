@@ -8,6 +8,10 @@ tags:
   - Kraków
 ---
 
+### 2021
+
+<img src="./img/may/nowylad.jpg"><br><br>
+
 ### 1994
 
 https://en.wikipedia.org/wiki/Bielefeld_Conspiracy

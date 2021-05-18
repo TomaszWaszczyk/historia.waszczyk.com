@@ -78,6 +78,14 @@ W okrążonym przez wojska wersalskie i pruskie Paryżu, na ulicy Myrrha poległ
 
 <img src="./img/may/dabrowski.jpg"><br><br>
 
+### 1883
+
+W przytułku dla ubogich w Paryżu zmarł Cyprian Kamil Norwid - poeta i plastyk; od 1842 roku przebywający za granicą. Odkryty został przez Młodą Polskę (Z. Przesmycki). Tworzył nowatorską, zintelektualizowaną lirykę (cykl Vade - mecum), poematy (Quidam, Assunta, Promethidion), utwory dramatyczne (Pierścień wielkiej damy), nowele (Bransoletka, Ad leones), filozoficzne eseje wspomnieniowe ( Białe kwiaty, Czarne kwiaty). Pierwotnie spoczął na cmentarzu w Ivry.
+W 1888 roku pochowany został w zbiorowej mogile na cmentarzu polskim Montmorency we Francji, symboliczna ziemia z jego grobu została w 2001 roku przewieziona do Polski i umieszczona w Krypcie Wieszczów Narodowych w Katedrze na Wawelu.
+Artysta był uważany za dziwaka i samotnika. Niewiele osób potrafiło dostrzec jego artystyczną i twórczą duszę. Bardzo lubił pisać listy. Próbował angażować się w sprawy polityczne. Tworzył teksty publicystyczne i aktywnie komentował aktualny bieg wydarzeń w polityce, tworzył programy polityczne, jednak bez większych sukcesów.
+
+<img src="./img/may/norwid.jpg"><br><br>
+
 ### 1733
 
 Sejm Konwokacyjny przyjął uchwałę o wykluczeniu kandydatur cudzoziemców do tronu polskiego. Uchwała ta była odpowiedzią polskiej szlachty na tzw "pakt czarnego orła", który w roku 1732 zawarły Rosja i Austria, które prowadziły zabiegi o to, by do władzy nie doszedł Stanisław Leszczyński. Wspólnym pretendentem do korony polskiej był infant portugalski Dom Emanuel Bragança (grafika).

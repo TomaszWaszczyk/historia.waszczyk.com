@@ -3,11 +3,17 @@ layout: post
 title: 17 maja
 image: img/may/tarcza5.jpg
 author: Tomasz Waszczyk
-date: 2019-05-17T10:00:00.000Z
+date: 2020-05-17T10:00:00.000Z
 tags:
   - Tarcza 5.0
 draft: false
 ---
+
+### 2021
+
+> „Dobrze by było, gdyby odpowiednie instytucje przejrzały umowy hipotek złotowych i sprawdziły, czy niosą zagrożenia” – powiedział Zbigniew Jagiełło, odchodzący właśnie prezes PKO BP. Bo ostatnio Polacy zaciągają te kredyty jak szaleni, a jak wzrosną stopy procentowe i będą mieli kłopot z ich spłatą, zaczną szukać haczyków prawnych i zrobi się cyrk jak frankowiczami."
+
+<img src="./img/may/bikindeks.png"><br><br>
 
 ### 2020
 

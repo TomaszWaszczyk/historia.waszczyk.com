@@ -73,6 +73,10 @@ Osoby, które są zainteresowane tym, w jaki sposób Wachowscy rozwinęli w II i
 
 https://www.filmweb.pl/film/Matrix-1999-628/discussion/Filozoficzne+i+religijne+motywy+obecne+w+Matrixie%2C+na+kt%C3%B3re+warto+zwr%C3%B3ci%C4%87+uwag%C4%99%2C+aby+w+pe%C5%82ni+zrozumie%C4%87+fabu%C5%82%C4%99+i+tre%C5%9B%C4%87+filmu.,2540786
 
+### 1994
+
+<img src="./img/march/tabelakursow.jpeg"><br><br>
+
 ### 1945
 
 W siedzibie Urzędu Bezpieczeństwa Publicznego w Hrubieszowie miał miejsce zamach na życie kierownika tej placówki Jacentego Feliksa Grodka. Poprzedził go splot wydarzeń, które miały swój początek w nocy z 2 na 3 marca 1945 roku, kiedy funkcjonariusze bezpieki zlikwidowali sześciu mieszkańców Hrubieszowa. Był to odwet UB za udaną akcję eliminacji przez podziemie antykomunistyczne ubeka Józefa Chmarzyńskiego. Wspomniany Grodek wydał rozkaz zabicia w odwecie sześciu Hrubieszowian. Przebieg akcji likwidacji kierownika UB miał był bardzo spektakularny. Organizatorzy wykorzystali do tego celu 10- letniego chłopca, który nie budził żadnych podejrzeń. Chłopiec dostarczył Grodkowi butelkę alkoholu i koszyk z jedzeniem i kwiatami, który chwilę po wręczeniu eksplodował w jego rękach. Kierownik hrubieszowskiego UB zginął na miejscu.

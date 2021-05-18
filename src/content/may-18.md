@@ -3,10 +3,14 @@ layout: post
 title: 18 maja
 image: img/may/skladki.jpg
 author: Tomasz Waszczyk
-date: 2019-05-18T10:00:00.000Z
+date: 2020-05-18T10:00:00.000Z
 tags:
   - Digital Dollar
 ---
+
+### 2021
+
+Yesterday, ECB Director Isabel Schnabel came up with some explanations on the current inflation spike in the Eurozone which I did not really manage to understand even after many years in the banking sector. However, I do understand the 2 major drivers of markets which are simply supply and demand. Unfortunately she forgot to mention that her institution‘s balance sheet hit a new ATH at T7.5+ Euro. I wonder if she ever had a ketchup bottle accident.
 
 ### 2020
 
