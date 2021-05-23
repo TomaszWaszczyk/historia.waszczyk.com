@@ -232,6 +232,8 @@ Sylwester Kaliski
 
 Marian Pękalski - http://www.rytm-wydawnictwo.pl/nowosci/klamstwo-i-podstep-we-wspolczesnym-swiecie_p_1894.html
 
+Leszek Chróst
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

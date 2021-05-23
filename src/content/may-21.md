@@ -3,7 +3,7 @@ layout: post
 title: 21 maja
 image: img/may/gniadek.png
 author: Tomasz Waszczyk
-date: 2019-05-21T10:00:00.000Z
+date: 2020-05-21T10:00:00.000Z
 tags:
   - Ksiądz Jacek Gniadek
 draft: false

@@ -47,7 +47,9 @@ Czy mam żal do polityków i wyborców PiS? Nie, umówiliśmy się w Magdalence 
 
 Nieznajomość prawideł ekonomii i politycznych kłamstw nie jest okolicznością łagodzącą.
 
+### 2007
 
+https://en.wikipedia.org/wiki/Munich_speech_of_Vladimir_Putin
 
 ---
 

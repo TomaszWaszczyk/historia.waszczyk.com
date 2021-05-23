@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/may/zrywpolski.jpg"><br><br>
+
+> Bitcoin nie zdechnie, bo gangsterka musi mieć możliwość anonimowego handlu bronią i kokainą w dark-necie. Oczywiście BTC sam w sobie jest bezwartościowy i nie ma znaczenia po jakim kursie chodzi, bo i tak jest niemal natychmiast wymieniany na prawdziwą walutę. Tylko frajerzy myślą, że to jest prawdziwe aktywo i da się na nim zarobić.
+
 ### 1967
 
 Egipt rozpoczął remilitaryzację półwyspu Synaj po wycofaniu na jego żądanie międzynarodowych sił pokojowych UNEF.
