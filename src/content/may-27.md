@@ -3,11 +3,15 @@ layout: post
 title: 27 maja
 image: img/may/gs.jpeg
 author: Tomasz Waszczyk
-date: 2019-05-27T10:00:00.000Z
+date: 2020-05-27T10:00:00.000Z
 tags:
   - Niemcy
 draft: false
 ---
+
+### 2021
+
+Europejska Agenda Cyfrowa
 
 ### 2020 - Niemcy zjednoczone czy niezjednoczone..?
 

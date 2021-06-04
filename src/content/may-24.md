@@ -3,11 +3,21 @@ layout: post
 title: 24 maja
 image: img/may/dodruk.png
 author: Tomasz Waszczyk
-date: 2019-05-24T10:00:00.000Z
+date: 2020-05-24T10:00:00.000Z
 tags:
   - Pauperyzacja systemowa
 draft: false
 ---
+
+### 2021
+
+Tayyip Erdogan i Andrzej Duda podpisali w dniu 24 maja porozumienie o bezpiecznej turystyce, umowę o wzajemnej ochronie informacji niejawnych w dziedzinie przemysłu obronnego oraz umowę w sprawie zakupów tureckich dronów.
+
+- Turcja "po raz pierwszy w swojej historii" będzie eksportować drony do Polski, kraju członkowskiego NATO i UE - powiedział Erdogan. Polska zakupi cztery zestawy bezzałogowych dronów bojowych Bayraktar TB2, czyli 24 maszyny.
+
+Dodał, że Turcja i Polska "twardo kroczą" w kierunku osiągnięcia celu 10 mld dolarów w dwustronnej wymianie handlowej. - Turcja w ramach misji NATO w regionie Morza Bałtyckiego rozmieści wkrótce w Polsce swoje odrzutowce F-16 - zapowiedział.
+
+Erdogan mówił również, że z zadowoleniem przyjmuje rozmieszczenie polskich sił w bazie lotniczej Incirlik na południu kraju. Stacjonują tam polscy żołnierze w ramach misji obserwacyjno-patrolowej. Ich zadaniem jest patrolowanie rejonu Morza Czarnego i Śródziemnego.
 
 ### 2020
 

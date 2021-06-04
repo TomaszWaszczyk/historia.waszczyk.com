@@ -3,7 +3,7 @@ layout: post
 title: 4 czerwca
 image: img/june/kolejchiny.jpg
 author: Tomasz Waszczyk
-date: 2019-06-04T10:00:00.000Z
+date: 2020-06-04T10:00:00.000Z
 tags:
   - Chiny, Kennedy
 draft: false
@@ -83,6 +83,12 @@ Wygrane wybory tak oto podsumowała w telewizji aktorka Joanna Szczepkowska:
 "Proszę państwa,4 czerwca 1989 roku upadł w Polsce komunizm". Teoretycznie..
 
 <img src="./img/june/wybory.jpg"><br><br>
+
+---
+
+Tiananmen Square protests
+
+<img src="./img/june/tianenmen.jpeg"><br><br>
 
 ---
 

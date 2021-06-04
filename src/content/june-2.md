@@ -3,7 +3,7 @@ layout: post
 title: 2 czerwca
 image: img/june/usa.png
 author: Tomasz Waszczyk
-date: 2019-06-02T10:00:00.000Z
+date: 2020-06-02T10:00:00.000Z
 tags:
   - USA - the third world
 draft: false

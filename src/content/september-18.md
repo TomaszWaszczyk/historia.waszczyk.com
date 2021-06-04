@@ -81,6 +81,10 @@ Kultury powściągliwe unikają kontaktu wzrokowego, zachowują o wiele większy
 Powściągliwe nacje zaś to:
 Głównie kraje azjatyckie -->
 
+### 1931
+
+Incydent mukdeński
+
 ### 1794
 
 W czasie insurekcji kościuszkowskiej Rada Najwyższa Narodowa wydała dekret na mocy którego zamieniono pospolite ruszenie włościan na pobór 1 rekruta z 10 domów i 1 konia z 50 domów.

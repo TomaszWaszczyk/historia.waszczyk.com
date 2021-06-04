@@ -3,7 +3,7 @@ layout: post
 title: 1 czerwca
 image: img/june/batoh.jpg
 author: Tomasz Waszczyk
-date: 2019-06-01T10:00:00.000Z
+date: 2020-06-01T10:00:00.000Z
 tags:
   - Bitcoin
 draft: false

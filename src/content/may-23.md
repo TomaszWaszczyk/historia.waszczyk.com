@@ -12,6 +12,18 @@ tags:
 
 <img src="./img/may/tvnbisbtc.jpg"><br><br>
 
+---
+
+Białoruś: porwany samolot linii Ryanair przez białoruskie KGB. Morawiecki interweniuje. "Akt terroryzmu". Tusk: "Łukaszenka stał się zagrożeniem"
+
+„W 1975 r. KGB porwało w Wiedniu kapitana marynarki wojennej Nikołaja Artamonowa, który uciekł na Zachód. Artamanow zmarł w drodze do Moskwy, bo porywacze wstrzyknęli mu zbyt mocną dawkę środka usypiającego.
+Rosyjskie służby kontynuują tę tradycję. W 2012 r. działacz opozycji antykremlowskiej Leonid Razwozżajew na oczach przechodniów został porwany przez nieznanych sprawców na ulicy w Kijowie. Ślad po nim zaginął — do następnego dnia, gdy pojawił się w sądzie w Moskwie oskarżony o nakłanianie do przemocy. Dostał cztery i pół roku obozu pracy.
+Białoruskie KGB (Łukaszenko nie uważał, że po upadku ZSRR należy zmienić nazwę tajnej policji) rozzuchwalone dokonaniami swych rosyjskich towarzyszy sięgnęło po podobne metody. Ich celem stał się znany dysydent, chroniony litewskim azylem, porwany z pokładu polskiego samolotu lecącego na trasie wewnątrz Unii Europejskiej.”
+
+„Teraz pora na stanowczą reakcję Litwy, Polski i całej Unii Europejskiej. Inaczej mamy niemal pewność, że po Londynie i Berlinie ludzie, których nie lubi Łukaszenko, zaczną ginąć, a w najlepszych razie znikać, również na naszych i z naszych ulic.”
+
+---
+
 ### 1989
 
 Chińscy robotnicy zasłaniający ubrudzony farbą portret Mao Tse -Tunga.

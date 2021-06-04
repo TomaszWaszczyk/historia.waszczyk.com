@@ -3,11 +3,17 @@ layout: post
 title: 28 maja
 image: img/may/gs2.jpeg
 author: Tomasz Waszczyk
-date: 2019-05-28T10:00:00.000Z
+date: 2020-05-28T10:00:00.000Z
 tags:
   - Szkolnictwo
 draft: false
 ---
+
+### 2021
+
+Marynarze z ORP Orzeł piszą list. "Nie chcemy umierać za nieudolność i kaprysy zwierzchników"
+
+"Załoga okrętu podwodnego podkreśliła, że list ma pokazać dramatyczną sytuację, w jakiej się znalazła - i nie tylko ona. "Przesyłamy ten apel bez wiedzy naszego dowódcy oraz naszych zwierzchników, gdyż to ich działania połączone z absolutną nieudolnością obecnej ekipy rządzącej doprowadziły do sytuacji, w której nasze życie jest zagrożone" - zaznaczyli marynarze. Jak dodali, okręt podwodny ORP Orzeł jest w opłakanym stanie, a każdy rejs może skończyć się jego zatonięciem, a tym samym ich śmiercią."
 
 ### 2020
 

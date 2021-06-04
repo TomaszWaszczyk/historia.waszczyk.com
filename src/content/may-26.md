@@ -3,11 +3,15 @@ layout: post
 title: 26 maja
 image: img/may/Polkadot_is-_live.png
 author: Tomasz Waszczyk
-date: 2019-05-26T10:00:00.000Z
+date: 2020-05-26T10:00:00.000Z
 tags:
   - Austrians in 2020
 draft: false
 ---
+
+### 2021
+
+Polscy biskupi jesienią mają pojechać do Rzymu. Na wizytę do papieża zostali wezwani w trybie pilnym, a na przygotowanie się dostali bardzo mało czasu - ustaliła "Rzeczpospolita".
 
 ### 2020 - W3F Initiates Launch: Polkadot is Live
 

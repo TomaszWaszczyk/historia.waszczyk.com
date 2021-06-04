@@ -3,7 +3,7 @@ layout: post
 title: 3 czerwca
 image: img/june/oszczednosci.png
 author: Tomasz Waszczyk
-date: 2019-06-03T10:00:00.000Z
+date: 2020-06-03T10:00:00.000Z
 tags:
   - Polacy oszczędzają
 draft: false
