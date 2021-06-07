@@ -3,7 +3,7 @@ layout: post
 title: 7 czerwca
 image: img/june/berezowski.jpg
 author: Tomasz Waszczyk
-date: 2019-06-07T10:00:00.000Z
+date: 2020-06-07T10:00:00.000Z
 tags:
   - USA
 draft: false

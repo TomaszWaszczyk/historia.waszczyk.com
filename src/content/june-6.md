@@ -3,10 +3,14 @@ layout: post
 title: 6 czerwca
 image: img/june/beatyfikacja.jpg
 author: Tomasz Waszczyk
-date: 2019-06-06T10:00:00.000Z
+date: 2020-06-06T10:00:00.000Z
 tags:
   - D-Day
 ---
+
+### 2021
+
+<img src="./img/june/bitcoinsalwador.jpeg"><br><br>
 
 ### 2020
 

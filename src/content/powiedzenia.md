@@ -3653,6 +3653,8 @@ https://pl.wikiquote.org/wiki/Diogenes_z_Synopy
 
 „najbardziej obawiaj się tych naukowców, którzy mówią, ale nie chcą rozmawiać”
 
+Jaskinia Platona jest to metaforyczne przedstawienie ludzi w ziemskim świecie oraz wpływ idei na ten świat. Obraz ten przedstawiony jest w jednym z platońskich dialogów pod tytułem "Politea" (nazywanym również Państwem) w VII księdze. Przedstawia uwięzionych w jaskini ludzi, skrępowanych łańcuchami, którzy oglądają jedynie cienie (zjawiska) prawdziwej rzeczywistości. Przebywają oni w ciemnościach na końcu, w głębi, jaskini. Ich twarze zwrócone są w stronę ściany na którą padają cienie rzeczy które znajdują się przed ogniskiem, zapalonym powyżej nich. Dno jaskini w którym znajdują się ludzie to świat doczesny w jakim żyjemy. Łańcuchy które krepują ludzi to rzeczy, sprawy, które nas wiążą ze światem doczesnym. Cienie natomiast, które widzą Ci ludzie są odbiciem prawdziwej idei. Platon uważał, że tylko dzięki wyzwoleniu się z łańcuchów tj. od spraw życia doczesnego, jesteśmy w stanie poznać prawdę wyższą, czyli świat idei. Dusza ludzka jest w stanie po przez anamnesis, czyli przypomnienie dojść do świata idei.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
