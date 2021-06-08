@@ -9,6 +9,13 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Indyjski rząd wyjaśnia: nie ma indyjskiej mutacji Corony
+W oficjalnym oświadczeniu rząd zwrócił się do mediów, a w szczególności do platform mediów społecznościowych o usunięcie wszelkich treści informujących o rzekomym indyjskim wariancie Corony. "Nawet WHO nie prowadzi w rejestrach tak zwanego wariantu indyjskiego o nazwie B.1.617" , stwierdza rząd indyjski.
+
+<img src="./img/june/wariantindyjski.jpeg"><br><br>
+
 ### 2020
 
 <img src="./img/june/americame.jpg"><br><br>

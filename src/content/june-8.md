@@ -3,11 +3,20 @@ layout: post
 title: 8 czerwca
 image: img/june/blockchain.jpeg
 author: Tomasz Waszczyk
-date: 2019-06-08T10:00:00.000Z
+date: 2020-06-08T10:00:00.000Z
 tags:
   - Mateusz Morawiecki
 draft: false
 ---
+
+### 2021
+
+<img src="./img/june/brunobtc.png"><br><br>
+
+<!-- https://twitter.com/bitfalls/status/1402294652024274945
+
+https://twitter.com/ohmzeus/status/1401772029263683585
+ -->
 
 ### 2020
 

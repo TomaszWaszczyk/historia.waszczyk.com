@@ -10,6 +10,10 @@ tags:
 
 ### 2021
 
+This El Salvador headline was embedded in the 686,604th block of Bitcoin and shall remain there until the end of time.
+
+"Diario El Salvador 6/Jun/2021 Bitcoin tendra validez legal" (Bitcoin will have legal validity)
+
 <img src="./img/june/bitcoinsalwador.jpeg"><br><br>
 
 ### 2020
