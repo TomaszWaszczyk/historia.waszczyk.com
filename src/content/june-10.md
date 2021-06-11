@@ -3,11 +3,15 @@ layout: post
 title: 10 czerwca
 image: img/june/balancesheet.png
 author: Tomasz Waszczyk
-date: 2019-06-10T10:00:00.000Z
+date: 2020-06-10T10:00:00.000Z
 tags:
   - Balancesheet
 draft: false
 ---
+
+### 2021
+
+<img src="./img/june/texasdepartment.jpeg"><br><br>
 
 ### 2020
 

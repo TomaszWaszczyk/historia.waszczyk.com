@@ -3,7 +3,7 @@ layout: post
 title: 12 czerwca
 image: img/june/dobrorodziny.png
 author: Tomasz Waszczyk
-date: 2019-06-12T10:00:00.000Z
+date: 2020-06-12T10:00:00.000Z
 tags:
   - Polska
 draft: false

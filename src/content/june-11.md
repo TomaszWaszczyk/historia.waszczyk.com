@@ -3,10 +3,16 @@ layout: post
 title: 11 czerwca
 image: img/june/gdansk.jpg
 author: Tomasz Waszczyk
-date: 2019-06-11T10:00:00.000Z
+date: 2020-06-11T10:00:00.000Z
 tags:
   - Gdańsk
 ---
+
+### 2021
+
+> Niemal 400 tys. zł – taki kredyt hipoteczny mogą wziąć dwie osoby, które otrzymują jedynie minimalne wynagrodzenie
+
+<img src="./img/june/glapinski.jpg"><br><br>
 
 ### 2020
 
