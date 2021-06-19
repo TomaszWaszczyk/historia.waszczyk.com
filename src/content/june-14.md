@@ -3,7 +3,7 @@ layout: post
 title: 14 czerwca
 image: img/june/sobor.jpg
 author: Tomasz Waszczyk
-date: 2019-06-14T10:00:00.000Z
+date: 2020-06-14T10:00:00.000Z
 tags:
   - Sobór Watykański II
 draft: false

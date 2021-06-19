@@ -3,11 +3,15 @@ layout: post
 title: 19 czerwca
 image: img/june/chreptowicz.jpg
 author: Tomasz Waszczyk
-date: 2019-06-19T10:00:00.000Z
+date: 2020-06-19T10:00:00.000Z
 tags:
   - Joachim Chreptowicz
 draft: false
 ---
+
+### 2021
+
+<img src="./img/june/planb.png"><br><br>
 
 ### 1955
 

@@ -3657,6 +3657,14 @@ Jaskinia Platona jest to metaforyczne przedstawienie ludzi w ziemskim świecie o
 
 Sir Mervyn King, legendarny szef BoE. - "Price stability is when people stop talking about inflation".
 
+Kto chce znaleźć w życiu szczęście, powinien związać się z jakimś celem, a nie z ludźmi czy rzeczami.
+Albert Einstein
+
+qui pro quo
+
+Jeśli dorabiasz się od złotówki, Twoja dusza i wnętrze dorasta razem z pieniędzmi.
+
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

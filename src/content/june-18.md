@@ -3,7 +3,7 @@ layout: post
 title: 18 czerwca
 image: img/june/chinacurrency.png
 author: Tomasz Waszczyk
-date: 2019-06-18T10:00:00.000Z
+date: 2020-06-18T10:00:00.000Z
 tags:
   - Digital Currency in China
 draft: false

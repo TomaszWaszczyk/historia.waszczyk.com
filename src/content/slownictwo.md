@@ -1489,6 +1489,10 @@ bezeceństwo «postępowanie, czyn budzące odrazę»
 
 Habibi is an Arabic word that literally means “my love” (sometimes also translated as “my dear,” “my darling,” or “beloved.”)
 
+antyszambrować - przestarzałe: długo wyczekiwać w przedpokojach, poczekalniach na audiencję, posłuchanie, rozmowę z osobami ustosunkowanymi, wpływowymi
+
+rekapitulacja to inaczej streszczenie wykładu, dyskusji etc. z wymienieniem tego, co było w nich najważniejsze. W znaczeniu biologicznym to regularne powtarzanie się cech przodków w pokoleniach potomnych.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

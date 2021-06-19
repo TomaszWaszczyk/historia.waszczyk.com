@@ -3,7 +3,7 @@ layout: post
 title: 13 czerwca
 image: img/june/kuklinski.jpg
 author: Tomasz Waszczyk
-date: 2019-06-13T10:00:00.000Z
+date: 2020-06-13T10:00:00.000Z
 tags:
   - Ryszard Kukliński
 draft: false

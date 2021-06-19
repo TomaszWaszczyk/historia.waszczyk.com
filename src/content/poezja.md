@@ -545,6 +545,18 @@ A kiedy wszystko wróci do normy,
 Ty znów spierdolisz, spakujesz torby.." -->
 
 ---
+```
+somsiad kupił dżwi bronzowe
+ale nadal tszyma krowe
+czymś wyrużnić sie wjenc musze
+bo mam artystycznom dusze
+dźwi czerwone se kupiłam
+wcale nic nie oszczendziłam
+troche w oczy mnie juz kujom
+bo nihuja niepasujom
+elewancje narpiew se dorobie
+puźniej farbe tom zeskrobie
+```
 
 pięść o spusztoszeniu podola problematyka
 
