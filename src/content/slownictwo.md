@@ -1493,6 +1493,10 @@ antyszambrować - przestarzałe: długo wyczekiwać w przedpokojach, poczekalnia
 
 rekapitulacja to inaczej streszczenie wykładu, dyskusji etc. z wymienieniem tego, co było w nich najważniejsze. W znaczeniu biologicznym to regularne powtarzanie się cech przodków w pokoleniach potomnych.
 
+https://pl.wikipedia.org/wiki/Atawizm
+
+homoniepewny
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

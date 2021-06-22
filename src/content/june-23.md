@@ -3,10 +3,23 @@ layout: post
 title: 23 czerwca
 image: img/june/christian.png
 author: Tomasz Waszczyk
-date: 2019-06-23T10:00:00.000Z
+date: 2020-06-23T10:00:00.000Z
 tags:
   - Ekonomia
 ---
+
+### 2021
+
+The top Chinese party leadership, led by Chairman Xi Jinping, attended the exhibition of the history of the Chinese Communist Party and once again pronounced the text of the oath upon joining the party.
+
+“I want to join the Chinese Communist Party, uphold the party program, abide by the party charter, fulfill party responsibilities, abide by party decisions, strictly observe party discipline, guard party secrets, be loyal to the party, work hard, fight for communism all my life, be I am ready at all times to sacrifice everything for the sake of the party and the people, and never betray the party. "
+
+Amen, communism is inevitable.
+
+<video width="640" height="480" controls>
+  <source src="./movies/june/inevitable.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

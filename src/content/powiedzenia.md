@@ -3664,6 +3664,9 @@ qui pro quo
 
 Jeśli dorabiasz się od złotówki, Twoja dusza i wnętrze dorasta razem z pieniędzmi.
 
+Sądy sądami, ale sprawiedliwość musi być #granat
+
+“Beginning is easy, continuing is hard.”
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 

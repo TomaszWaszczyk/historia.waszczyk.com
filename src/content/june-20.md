@@ -3,7 +3,7 @@ layout: post
 title: 20 czerwca
 image: img/june/Wojciech_Roszkowski.jpg
 author: Tomasz Waszczyk
-date: 2019-06-20T10:00:00.000Z
+date: 2020-06-20T10:00:00.000Z
 tags:
   - Zachód upadnie?
 ---
@@ -77,6 +77,12 @@ Brutalne śledztwo i tortury nie były w stanie jej złamać. Nie wydała nikogo
 Miała 30 lat.
 
 <img src="./img/june/sokalowna.jpg"><br><br>
+
+### 1940
+
+Niemcy rozstrzelali w największej egzekucji w Palmirach 378 osób. Zamordowano m.in. marszałka Sejmu RP - Macieja Rataja, lekkoatletę, złotego medalistę olimpiady w Los Angeles - Janusza Kusocińskiego, posła PPS - Mieczysława Niedziałkowskiego, panią poseł i senator - Halinę Jaroszewicz, wiceprezydenta Warszawy - Jana Pohoskiego. Rozstrzelano także Agnieszkę Dowbor-Muśnicką, siostrę Janiny Lewandowskiej, jedynej kobiety zamordowanej w Katyniu. W Palmirach rozstrzelano wielu wybitnych działaczy społecznych i politycznych, nauczycieli, dziennikarzy, lekarzy, adwokatów, księży, w 21 przeprowadzonych egzekucjach od grudnia 1939 do lipca 1941 roku zginęło ponad 1700 osób. Palmiry obok Katynia stanowią najbardziej znany symbol martyrologii inteligencji polskiej w okresie II wojny światowej.
+
+<img src="./img/june/palmiry.jpg"><br><br>
 
 ### 1937
 

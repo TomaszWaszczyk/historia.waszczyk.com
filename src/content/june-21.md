@@ -3,11 +3,23 @@ layout: post
 title: 21 czerwca
 image: img/june/commercialindustrialloans.png
 author: Tomasz Waszczyk
-date: 2019-06-21T10:00:00.000Z
+date: 2020-06-21T10:00:00.000Z
 tags:
   - Commercial and Industrial Loans
 draft: false
 ---
+
+### 2021
+
+Rodzina „2 plus 1” zarabiająca 13 tys. zł miesięcznie może zaciągnąć kredyt hipoteczny na kwotę przekraczającą 1,5 mln zł, wynika z analizy Bankier.pl.
+
+> Mieszkaniowy amok. Do czego to prowadzi?
+
+Ceny szybują, a klienci kupują wszystko. Eksperci boją się przegrzania rynku - pisze w poniedziałek "Rzeczpospolita".
+
+Jak pisze gazeta, jest coraz drożej. Dodaje, że RynekPierwotny.pl podaje, że w ciągu roku ofertowe ceny nowych mieszkań wzrosły od 2 proc. w Poznaniu do aż 14 proc. w Łodzi. Deweloperzy nie nadążają z budową. "Bywa, że deweloperowi budującemu duże wieloetapowe osiedla zostało w ofercie kilka lokali" – mówi w "Rz" Marcin Krasoń z Obido.pl.
+
+Zdaniem Tomasza Błeszyńskiego, doradcy na rynku nieruchomości, cytowanego przez "Rz" mieszkania drożeją nieracjonalnie. "Klienci kupują praktycznie wszystko, nawet mieszkania w kiepskich lokalizacjach i w złym stanie – mówi. – Rynek jest ciągle podsycany różnymi czynnikami – a to mizernymi odsetkami na lokatach, a to tanim kredytem, a to obawami, że deweloperzy jeszcze podniosą ceny albo inflacja wzrośnie i wszystko podrożeje" – tłumaczy.
 
 ### 2020
 

@@ -3,7 +3,7 @@ layout: post
 title: 22 czerwca
 image: img/june/bagration.jpg
 author: Tomasz Waszczyk
-date: 2019-06-22T10:00:00.000Z
+date: 2020-06-22T10:00:00.000Z
 tags:
   - Stalin
 draft: false
