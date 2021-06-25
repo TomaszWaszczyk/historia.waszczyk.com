@@ -1497,6 +1497,8 @@ https://pl.wikipedia.org/wiki/Atawizm
 
 homoniepewny
 
+Fachowca - ma słuchać inwestor a nie na odwrót. Bo gdy jest na odwrót to ten Pan co słucha potocznie nazywany jest majstrem co przyjęło się już w 18/19 wieku. Majster był to chłop który trafiał do zamożnych i robił co mu każą w przedziale roboty fizycznej i szeroko pojętej budowlanki, gdy zabrakło prac w tej dziedzinie to jebał przy bydle, trzodzie i całej reszcie aby hajs się zgadzała. Nazywali majstrem tylko po to by nie urażać godności nazywaniem parobkiem bo chłop odpowiedzialny był za dość istotne sprawy jak dach nad głową. Gdy czasem inwestorzy mówią do mnie majster to mnie to wkurwia i prosto z mostu mówię że nie jestem majstrem tylko fachowcem żartobliwie dodając że majster musi mieć wąsy i roboty bez 0,5l z rana nie zaczyna. Także reasumując: majster jest od słuchania swojego Pana a ten sam Pan ma słuchać fachowca bo fachowiec jak nazwa wskazuje zna się na fachu i nie bez powodu został wezwany na robotę. Inwestor zawsze będzie chwalił to za co zapłacił a fachowiec dla własnego dobra jedzie ocenić sam jak to wygląda by się przygotować.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

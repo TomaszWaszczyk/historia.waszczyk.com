@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Pekin sfinansował już ponad 3 tys projektów kolejowych w Afryce. Walka o wpływy na kontynencie ociekającym surowcami naturalnymi trwa.
+
+<img src="./img/june/chinyafryka.jpeg"><br><br>
+
 ### 2020
 
 Liczba osób ubiegających się po raz pierwszy o zasiłek dla bezrobotnych w ubiegłym tygodniu w USA wzrosła o 1,508 mln do 45,67 mln - poinformował Departament Pracy USA. Ekonomiści z Wall Street spodziewali się, że liczba nowych bezrobotnych wyniesie 1,29 mln, czyli wyniki nie są pozytywne.

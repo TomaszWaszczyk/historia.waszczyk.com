@@ -21,6 +21,12 @@ Amen, communism is inevitable.
 Your browser does not support the video tag.
 </video>
 
+---
+
+<img src="./img/june/banbtcbbc-alotofthis.png"><br><br>
+
+---
+
 ### 2020
 
 TVP robi wszystko, by przekonać Polaków, że likwidacja tej stacji to bardzo dobry pomysł.

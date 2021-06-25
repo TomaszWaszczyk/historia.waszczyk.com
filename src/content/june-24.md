@@ -3,10 +3,23 @@ layout: post
 title: 24 czerwca
 image: img/june/wojnanagorze.jpg
 author: Tomasz Waszczyk
-date: 2019-06-24T10:00:00.000Z
+date: 2020-06-24T10:00:00.000Z
 tags:
   - Wojna na górze
 draft: false
+---
+
+### 2021
+
+Szef banku centralnego Danii ostrzega przed załamaniem rynku nieruchomości
+
+Lars Rohde uważa, że w Danii może dojść do załamania na rynku nieruchomości podobnego do tego, które nastąpiło po kryzysie finansowym 2008 roku.
+Dania jest rekordzistą pod względem okresu utrzymywania ujemnej stopy procentowej. Trwa to już prawie dekadę. Tani kredyt spowodował wzrost cen na rynku nieruchomości, który według szefa banku centralnego osiągnął już moment krytyczny. Rohde uważa, że nadszedł czas, aby rząd Danii rozpoczął działania zaostrzające warunki uzyskiwania kredytów hipotecznych. Ujawnił, że minister odpowiedzialny za prawodawstwo finansowe nie kwapi się jednak do tego.
+
+---
+
+<img src="./img/june/procentycovid.png"><br><br>
+
 ---
 
 ### 1990
@@ -75,6 +88,16 @@ też Żydom mieszkania u Polaków (.....).
 Ludowy komisarz spraw wewnętrznych Ławrientij Beria (zdjęcie) wydał rozkaz rozstrzelania wszystkich więźniów politycznych przetrzymywanych w zachodnich obwodach ZSRR, których ewakuacja w głąb kraju była niemożliwa. W ślad za tym rozkazem przystąpiono do masowej likwidacji osadzonych. Odbywała się ona w więzieniach, aresztach i obozach, a także na szlakach ewakuacyjnych. Masakry, których apogeum przypadło na miesiące letnie 1941 roku, przyniosły prawdopodobnie kilkadziesiąt tysięcy ofiar, z czego około 20–30 tysięcy zamordowano na Kresach Wschodnich II Rzeczypospolitej.
 
 <img src="./img/june/beria.jpg"><br><br>
+
+---
+
+"Wieczorem 24 czerwca usłyszeliśmy odgłosy mordowania aresztowanych. Słyszało się kolejne otwieranie cel, jęki, szamotania i od czasu do czasu strzał. Później dowiedzieliśmy się, że przemocą wlewano w usta więźniom truciznę. Ile osób wykończono w ten sposób - trudno jest mi określić. (...) W tych ostatnich chwilach odbył się jeden z najsilniejszych nalotów na Mińsk. Wtedy przerwano mordowanie więźniów i po nalocie otworzono drzwi wszystkich cel, i kazano wychodzić. Wypędzono nas na podwórko więzienne. (...) Otoczono nas silną strażą i pędzono biegiem przez płonący Mińsk. Grupa nasza liczyła około 200 ludzi. Po wyjściu z Mińska zatrzymano nas w lesie odległym od miasta o 5 km na odpoczynek, gdzie zgromadzono wszystkich aresztowanych z więzień mińskich. Liczba ogólna dochodziła do 20 tys.
+Ja z kilkoma swoimi najbliższymi znalazłem się w grupie lewej. Grupa liczyła około 700 więźniów. Wyprowadzono nas z więzienia pod silną eskortą (nocą) i pędzono w kierunku wschodnim. Po przejściu 3-4 km piaszczystym gościńcem weszliśmy do lasu. Usłyszeliśmy strzały z tyłu, okazało się, że kolejno zaczęto strzelać do ostatnich szeregów kolumny, biorąc każdego za kołnierz i odrzucając zastrzelonego na bok. Przyspieszyliśmy kroku, wtedy NKWD znajdujące się po obydwu stronach drogi otworzyło ogień do nas. Upadliśmy. (...) Po chwili eskorta wydała rozkaz: „Uciekać do lasu, będziemy strzelać”. Leżałem na gościńcu przy Witoldzie Daszkiewiczu z Lidy, trzymaliśmy się za ręce. Gdy chciał się poderwać po wydanym rozkazie, przytrzymałem go. Większość poderwała się, wtedy opiekunowie nasi otworzyli z broni maszynowej huraganowy ogień, prócz tego rzucali granaty. Huk strzałów zagłuszał krzyki i jęki.
+Grupa prawa z Czerwieni została wyprowadzona z więzienia do lasu na polanę, otoczona bronią maszynową i wystrzelana. Dla sprawdzenia, czy są żywi, jeździły po nich samochody. Z tej grupy jeden człowiek ciężko ranny ocalał".
+Powyższy tekst to fragment wspomnień pułkownika Janusza Szlaskiego-Prawdzica (zdjęcie), późniejszego dowódcy Komendy Okręgu Nowogródzkiego Armii Krajowej, który uczestniczył w marszu śmierci więźniów więzienia w Mińsku, którego ewakuację do Czerwieni rozpoczęło NKWD 24 czerwca 1941 roku.
+Wyobrażenie tego dramatu daje fakt, że z ogólnej liczby kilkunastu tysięcy prowadzonych w tym marszu ludzi, do celu dotarło zaledwie 2 tysiące. Część więźniów zamordowano jeszcze przed ewaukacją więzienia. Samemu Szlaskiemu udało się uciec z marszu 27 czerwca 1941 roku.
+
+<img src="./img/june/trucisna.jpg"><br><br>
 
 ---
 
