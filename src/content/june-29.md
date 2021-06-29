@@ -3,11 +3,17 @@ layout: post
 title: 29 czerwca
 image: img/june/tischner.jpg
 author: Tomasz Waszczyk
-date: 2019-06-29T10:00:00.000Z
+date: 2020-06-29T10:00:00.000Z
 tags:
   - Panoptikum
 draft: false
 ---
+
+### 2021
+
+Nigdy w historii publikacji danych przez NBP (od 1996 roku) z polskiego systemu bankowego nie odpłynęło tyle pieniędzy. Gospodarstwa domowe wycofywały (wydawały) środki zarówno z lokat, jak i z rachunków bieżących.
+
+W maju banki "pozbyły" się niemal 6 mld PLN.
 
 ### 2020
 

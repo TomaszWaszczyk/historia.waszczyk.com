@@ -3,7 +3,7 @@ layout: post
 title: 28 czerwca
 image: img/june/nalog.png
 author: Tomasz Waszczyk
-date: 2019-06-28T10:00:00.000Z
+date: 2020-06-28T10:00:00.000Z
 tags:
   - Wybory prezydenckie 2020
 ---
@@ -67,6 +67,12 @@ https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand
 ### 1906
 
 https://pl.wikipedia.org/wiki/Boles%C5%82aw_Soboci%C5%84ski
+
+### 1794
+
+Wzburzony lud Warszawy dokonał samosądów na członkach konfederacji targowickiej oraz osobach ją wspierających, którzy zamiast interesów polskich realizowali dyrektywy płynące z Petersburga czy Berlina.  Powieszeni zostali: biskup wileński Ignacy Massalski, kasztelan przemyski Antoni Czetwertyński, poseł do Turcji Karol Boscamp-Lasopolski, szambelan Stefan Grabowski, instygator królewski Mateusz Roguski, szpieg rosyjski Marceli Piętka, adwokat Michał Wulfers i instygator sądów kryminalnych Józef Majewski.
+
+<img src="./img/june/targowicarachunek.jpg"><br><br>
 
 ### 1651
 

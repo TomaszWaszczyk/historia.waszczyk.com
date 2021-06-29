@@ -3,7 +3,7 @@ layout: post
 title: 26 czerwca
 image: img/june/baizuo.jpeg
 author: Tomasz Waszczyk
-date: 2019-06-26T10:00:00.000Z
+date: 2020-06-26T10:00:00.000Z
 tags:
   - 白左
 draft: false

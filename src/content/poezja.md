@@ -545,6 +545,29 @@ A kiedy wszystko wróci do normy,
 Ty znów spierdolisz, spakujesz torby.." -->
 
 ---
+
+Mamy większe domy, lecz mniejsze rodziny.
+Więcej możliwości, lecz mniej czasu.
+Mamy więcej tytułów, lecz mniej rozsądku.
+Więcej wiedzy, lecz mniej zdrowej oceny sytuacji.
+Mamy więcej specjalistów, lecz i więcej problemów.
+Więcej leków, lecz mniej zdrowia.
+Mnożymy majątki, okrajamy własne wartości.
+Mówimy za dużo, kochamy za mało, kłamiemy zbyt często.
+Uczymy się, jak zarabiać na życie, lecz nie uczymy się, jak żyć.
+Mamy stabilne budowle, lecz kruche charaktery.
+Coraz szersze autostrady, lecz coraz węższe poglądy.
+Przebywamy drogę na księżyc i z powrotem, lecz mamy problem przekroczyć ulicę i poznać nowego sąsiada.
+Tworzymy coraz więcej komputerów, przechowujemy coraz więcej informacji, lecz komunikujemy się coraz mniej, mniej i mniej.
+To czas szybkiego jedzenia, lecz wolnego trawienia.
+Wielkich mężczyzn, małych charakterów.
+Czas większej ilości pracy, mniejszej ilości zabawy.
+Większej ilości różnych posiłków, mniejszej ilości witamin i minerałów.
+Czas, kiedy mamy mnóstwo w oknie, a nic w pokoju.– 
+
+Dalajlama
+
+---
 ```
 somsiad kupił dżwi bronzowe
 ale nadal tszyma krowe

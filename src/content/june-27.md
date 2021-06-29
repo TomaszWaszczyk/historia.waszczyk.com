@@ -3,7 +3,7 @@ layout: post
 title: 27 czerwca
 image: img/june/takilajf.jpeg
 author: Tomasz Waszczyk
-date: 2019-06-27T10:00:00.000Z
+date: 2020-06-27T10:00:00.000Z
 tags:
   - Segregacja
 draft: false

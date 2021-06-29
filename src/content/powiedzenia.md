@@ -3670,6 +3670,10 @@ Sądy sądami, ale sprawiedliwość musi być #granat
 
 https://lubimyczytac.pl/cytaty/5594/ksiazka/mechaniczna-pomarancza
 
+When you have something to say, silence is a lie.
+
+If You're Going Through Hell, Keep Going
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

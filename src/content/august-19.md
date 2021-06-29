@@ -8,6 +8,9 @@ tags:
   - Gold
 ---
 
+### 2021
+
+Ashura
 ### 2020
 
 Buffett kupuje akcje kopalni złota, cena kruszcu znów powyżej 2000 USD
