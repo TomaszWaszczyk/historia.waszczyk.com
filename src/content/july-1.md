@@ -3,10 +3,16 @@ layout: post
 title: 1 lipca
 image: img/july/1mln.jpeg
 author: Tomasz Waszczyk
-date: 2019-07-01T10:00:00.000Z
+date: 2020-07-01T10:00:00.000Z
 tags:
   - Banknot 500PLN - inflacja
 ---
+
+### 2021
+
+<img src="./img/july/chinaban.png"><br><br>
+
+<img src="./img/july/kredyty2021.jpeg"><br><br>
 
 ### 2020
 

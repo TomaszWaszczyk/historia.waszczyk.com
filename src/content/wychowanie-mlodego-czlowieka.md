@@ -227,6 +227,9 @@ Your browser does not support the video tag.
 
 * Podręcznik „Wolna przedsiębiorczość”
 
+*  Dzieci ojczyzny opowiadania historyczne dla młodzieży
+Autor: Maria Dąbrowska
+
 * https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci
 
 * https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html

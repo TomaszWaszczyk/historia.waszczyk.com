@@ -3,7 +3,7 @@ layout: post
 title: 3 lipca
 image: img/july/prognozy-nfz.png
 author: Tomasz Waszczyk
-date: 2019-07-03T10:00:00.000Z
+date: 2020-07-03T10:00:00.000Z
 tags:
   - NFZ
 ---
@@ -112,6 +112,17 @@ Wśród wielu konstrukcji jego pomysłu były między innymi takie projekty jak 
 Powodem aresztowania Tańskiego była prowadzona przez niego, od czasu upadku wojny obronnej, działalność konspiracyjna. Został wywieziony do KL Auschwitz, gdzie 23 marca 23 marca 1941 roku został zabity za odmowę współpracy z Niemcami.
 
 <img src="./img/july/tanski.jpg"><br><br>
+
+---
+
+### ~1939
+
+Twarz szermierza po walce, po której pamiątką będzie tzw. Schmisse, czyli blizna po pojedynku, początek XX wieku.
+Blizny odniesione w pojedynkach szermierczych postrzegan jako "odznaka honoru " już od 1825 r. 
+Po takiej bliźnie można było poznać, że jej właściciel wywodzi się z wyższych sfer i brał udział w honorowych i chwalebnych onegdaj akademickich pojedynkach szermierczych na początku XX w. , tzw. menzurach.
+Menzury są (rzekomo wciąż), tradycyjnym elementem niektórych zrzeszeń, bractw czy też stowarzyszeń akademickich Niemiec, Austrii czy Szwajcarii. Obecnie podczas menzur stosuje się bandaże i Osłony, które uniemożliwiają zadanie śmiertelnego obrażenia. Przykładem osoby z tego typu blizną, był oficer niemieckich jednostek Waffen-SS, Otto Skorzeny.
+
+<img src="./img/july/twarzszermierza.jpg"><br><br>
 
 ---
 

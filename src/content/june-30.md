@@ -3,11 +3,22 @@ layout: post
 title: 30 czerwca
 image: img/june/samsonowicz.jpg
 author: Tomasz Waszczyk
-date: 2019-06-30T10:00:00.000Z
+date: 2020-06-30T10:00:00.000Z
 tags:
   - Inflacja bazowa
 draft: false
 ---
+
+### 2021
+
+Apokalipsa polskich księgarni. Czy to już koniec?
+
+"Zamówiłam książkę z allegro (…) Pani rozpłakała się i dziękowała mi sto razy, że od nich zamówiłam, bo są na skraju bankructwa. To jest mała księgarnia, którą prowadzą od 30 lat” – ten post zrobił kilka tygodni temu furorę na Facebooku. Niestety, w Polsce rozpoczęła się zagłada polskich księgarń. Rynek przejmują wielkie, międzynarodowe korporacje.
+Francuscy politycy od wielu lat czuli, że sprzedaż książek przez hipermarkety i sprowadzenie ich do roli jedynie „towaru”, a nie dobra kultury zagrozi egzystencji niezależnych księgarni.
+Agresywne działania wielkich korporacji natknęły się na mur w Niemczech. Amerykański Amazon rozpoczął „rozwalcowywanie” niemieckiego rynku księgarskiego, ale nie udało mu się go zdominować. Zderzył się z przepisami, które by chronić rynek książki nie pozwalają na agresywną sprzedaż i agresywny marketing, z czego znany jest amerykański gigant. 
+W potężnych korporacjach wygrywa filozofia kopiowania pomysłów, towarów i proponowania za podobny produkt jak niższej ceny. Ich dewizą jest zaspokajanie potrzeb klienta za wszelką cenę, ale bez misji.
+Na brytyjski rynek księgarski wszedł amerykański Amazon i sprawił, że teraz należy do niego 80 proc. brytyjskiego rynku księgarskiego. Zostało trochę sieci księgarskich, ale małych księgarni, świątyń książki, praktycznie nie ma. W ciągu kilkunastu lat ceny książek wzrosły o niemal połowę.
+W Polsce, póki co, księgarzy omijają tarcze antykryzysowe i ustawy zabezpieczające księgarnie, jednak wciąż jest szansa, aby rząd dostrzegł zagrożenia doskonale widoczne na horyzoncie. Czy Polska wyciągnie z nich wnioski?
 
 ### 2020
 

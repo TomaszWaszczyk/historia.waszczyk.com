@@ -3,7 +3,7 @@ layout: post
 title: 4 lipca
 image: img/july/kluszyn.jpg
 author: Tomasz Waszczyk
-date: 2019-07-04T10:00:00.000Z
+date: 2020-07-04T10:00:00.000Z
 tags:
   - Kłuszyn
 ---
