@@ -3,10 +3,39 @@ layout: post
 title: 7 lipca
 image: img/july/wilno_1944.jpg
 author: Tomasz Waszczyk
-date: 2019-07-07T10:00:00.000Z
+date: 2020-07-07T10:00:00.000Z
 tags:
   - Operacja Ostra Brama
 ---
+
+### 2021
+
+<img src="./img/july/anton.jpg"><br><br>
+
+Russia will eliminate the dollar from its National Wellbeing Fund, shifting to euros, yuan, and gold, Finance Minister Anton Siluanov said, as the Kremlin seeks to reduce exposure to U.S. assets amid threats of sanctions.
+
+The transfer, which affects about $119 billion in liquid assets, will take place within the central bank’s huge reserves. As a result, its market impact — if there is one — could be hard to trace. The Bank of Russia has steadily reduced holdings of dollars in the last several years as sanctions pressures from the U.S. and European Union have grown.
+
+“We can make this change rather quickly, within a month,” Siluanov told reporters at the St. Petersburg International Economic Forum.
+
+The dollar pared gains and the ruble hit the day’s highs on the news Thursday.
+
+“The central bank can make these changes to the Wellbeing Fund without resorting to market operations,” said Sofya Donets, economist at Renaissance Capital in Moscow. “This in some sense a technical thing.”
+
+Putin’s Bid to Ditch Dollar Picks Up as Exports Move to Euro
+
+Jordan Rochester, currency strategist at Nomura International PLC, said, “This is a transfer of euros from the central bank to the wealth fund, we’ll then see the central bank the holder of the USDs and it’s up to them to manage it. No initial market impact.”
+
+Eventually, the central bank may sell those holdings but it’s not clear how quickly they will do so, he said. There could be market impact if the central bank sells its remaining holdings of U.S. treasuries, he added.
+
+The wealth fund currently holds 35% of its liquid assets in dollars, worth about $41.5 billion, with the same amount in euros and the rest spread across yuan, gold, yen and pounds.
+
+After the change, the fund’s assets will be held 40% in euros, 30% in yuan, 20% in gold, and 5% each in yen and pounds, Siluanov said.
+
+The wealth fund holds savings from Russia’s oil revenues above a cutoff price and is used to help offset shortfalls when the market falls below that level. Together with illiquid assets, its total value is $185.9 billion. With the economy recovering faster than expected, the budget deficit will be 1% of gross domestic product this year, Siluanov said, narrower than the 2.4% initially planned.
+
+The central bank reports the currency distribution of its reserves with a six-month lag, declining to provide information on its current holdings.
+
 
 ### 2020
 

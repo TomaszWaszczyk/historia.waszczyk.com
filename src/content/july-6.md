@@ -3,7 +3,7 @@ layout: post
 title: 6 lipca
 image: img/july/haller.jpg
 author: Tomasz Waszczyk
-date: 2019-07-06T10:00:00.000Z
+date: 2020-07-06T10:00:00.000Z
 tags:
   - Józef Haller
 ---

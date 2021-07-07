@@ -3,7 +3,7 @@ layout: post
 title: 5 lipca
 image: img/july/gabreski.jpg
 author: Tomasz Waszczyk
-date: 2019-07-05T10:00:00.000Z
+date: 2020-07-05T10:00:00.000Z
 tags:
   - Francis Gabreski
 ---
