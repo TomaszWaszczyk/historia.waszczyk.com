@@ -161,6 +161,8 @@ Your browser does not support the video tag.
 
 * W PARYŻU DZIECI NIE GRYMASZĄ
 
+* odezwać się po spotkaniu
+
 ### Toys
 
 * Dobble!!

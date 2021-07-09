@@ -3,10 +3,17 @@ layout: post
 title: 9 lipca
 image: img/july/planmarshalla.jpg
 author: Tomasz Waszczyk
-date: 2019-07-09T10:00:00.000Z
+date: 2020-07-09T10:00:00.000Z
 tags:
   - Plan Marshalla
 ---
+
+### 2021
+
+<video width="640" height="480" controls>
+  <source src="./movies/july/elitapolska.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

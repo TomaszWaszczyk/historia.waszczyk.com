@@ -3,9 +3,29 @@ layout: post
 title: 8 lipca
 image: img/july/tesla.jpeg
 author: Tomasz Waszczyk
-date: 2019-07-08T10:00:00.000Z
+date: 2020-07-08T10:00:00.000Z
 tags:
   - Gold $1800
+---
+
+### 2021
+
+> European Central Bank policy makers have agreed to raise their inflation goal to 2% and allow room to overshoot it when needed.
+
+---
+
+Oficjalnie: KONIEC PRYWATNOŚCI. Unia Europejska zatwierdza masową inwigilację
+
+Parlament Europejski zatwierdził tymczasowe rozporządzenie, które kończy z prywatnością. Służby będą miały dostęp do wszystkich prywatnych korespondencji cyfrowych – od e-maili po komunikatory internetowe.
+Oficjalnie UE wprowadza takie prawo, by skuteczniej chronić przed wykorzystywaniem seksualnym dzieci.
+Przepisy oficjalnie obowiązywać będą przez maksymalnie trzy lata. Mogą też obowiązywać krócej, jeżeli w międzyczasie Rada i Parlament osiągną porozumienie w sprawie nowych stałych przepisów o walce ze znęcaniem się nad dziećmi w internecie.
+Parlament Europejski poparł te rozwiązania 537 głosami za (m.in. wszyscy z PiS), 133 przeciw i 24 wstrzymującymi się. Rozporządzenie musi zostać zatwierdzone przez Radę, a następnie będzie opublikowane w Dzienniku Urzędowym Unii Europejskiej. Wejdzie w życie trzeciego dnia po publikacji.
+
+Totalitaryści robią to pod płaszczykiem szlachetnej idei walki z dziecięcą pornografią. Zamiast jednak zintensyfikować działania uderzające w faktycznych przestępców, wprowadzać służby w kręgi związane z pedofilami i dziecięcą pornografią, zreformować sądy, by przyspieszyć procesy i surowo karać dewiantów, nie stosować taryfy ulgowej dla wysoko postawionych szych, UE przyznaje sobie możliwość kontrolowania wszystkich prywatnych wiadomości.
+Weryfikowane mają być także treści w teorii chronione szyfrowaniem end-to-end. Twórcy programów będą musieli stworzyć specjalne „luki”, by służby miały dostęp do wiadomości.
+Oczywiście nikt nie powinien mieć wątpliwości, że uprawnienia te zostaną wykorzystane nie tylko do ścigania pedofilii. 
+Nowe rozporządzenie uderza w fundament pierwotnych wartości europejskich, jak wolność słowa czy ochrona prywatności.
+
 ---
 
 ### 2020
@@ -40,6 +60,18 @@ W efekcie gospodarczego szowinizmu i kapitalizmu państwowego istotnie ucierpi w
 <a href="./documents/july/great-reset-collapse-biggest-bubble.pdf" target="_blank">Debt reset</a>
 
 ---
+
+### 1889
+
+Giełda potrzebuje mediów. Wiedzieli o tym dobrze Charles Dow, Edward Jones i Charles Bergstresser zmieniając #TegoDnia 8 lipca 1889 r. skromny popołudniowy biuletyn w profesjonalną gazetę. Tak powstał The Wall Street Journal.
+
+Początki najbardziej wpływowego na światową gospodarkę tytułu były raczej skromne. Dystrybucja jego poprzednika, Customers' Afternoon Letter, odbywała się metodą manualną. Inwestorom na Wall Street po prostu sprzedawano czterostronicową ulotkę w budynku amerykańskiej giełdy. Profesjonalne medium rozpoczęto budować wraz z uruchomieniem WSJ, wtedy też ruszył serwis informacyjny zapewniany za pomocą telegrafu. To na jej łamach po raz pierwszy opublikowano jeden z największych indeksów akcji spółek - Dow Jones Industrial Average w 1896 r.
+
+Dziś gazeta wychodzi sześć razy w tygodniu, nakład utrzymuje się na poziomie ok 2,8 mln egzemplarzy wydania papierowego i 3 mln 200 tys. elektronicznych subskrypcji. W ciągu 126 lat jej dziennikarze trzydzieści sześć razy zdobywali Nagrodę Pulitzera, m.in. wnikliwe analizy zagrożeń związanych z szybkością rozwoju chińskiej gospodarki. Za stworzenie niezależnego, odważnego tytułu odpowiada Clarence W. Barron, który kupił WSJ w 1903 r. i aż do swej śmierci w 1928 r. odpowiadał za jego profesjonalizm.
+
+Obecnie The Wall Street Journal wydawany jest przez Dow Jones & Company należącą do grupy News Corp Ruperta Murdocha.
+
+<img src="./img/july/wsjournal.jpg"><br><br>
 
 ### 1824
 
