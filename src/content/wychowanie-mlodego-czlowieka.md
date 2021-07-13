@@ -147,6 +147,8 @@ Your browser does not support the video tag.
 
 * Neural Networks for Babies - Chris Ferrie
 
+* Brainwashed: How Universities Indoctrinate America's Youth
+
 * https://www.kiwico.com/
 
 * https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/

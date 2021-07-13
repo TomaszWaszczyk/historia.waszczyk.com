@@ -3,10 +3,18 @@ layout: post
 title: 12 lipca
 image: img/july/exitpools.png
 author: Tomasz Waszczyk
-date: 2019-07-12T10:00:00.000Z
+date: 2020-07-12T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2021
+
+The Central Banksters engineered Asset Bubble to end all Asset Bubbles via the Cantillon Effect and its pandemic debt monitorization..
+
+The central banksters money printing via debt monitorization is happening in a moment of severe deflation. So the issue is not that prices will rise, though of course they could. And we do see shortages in certain products, which is a form of inflation. I suspect purchasing power will matter more in who can afford to hold financial assets, not who can afford McDonalds. But the basic outline of the Cantillon Effect, that some people have more purchasing power and others have less in the same economy, if the channels of money creation make it so, is still operative.
+
+<a href="./documents/july/assetbubble.pdf" target="_blank">Asset bubble</a>
 
 ### 2020
 

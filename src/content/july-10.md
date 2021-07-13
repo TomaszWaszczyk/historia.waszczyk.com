@@ -3,10 +3,14 @@ layout: post
 title: 10 lipca
 image: img/july/husky.jpg
 author: Tomasz Waszczyk
-date: 2019-07-10T10:00:00.000Z
+date: 2020-07-10T10:00:00.000Z
 tags:
   - Gracjan Fróg "Szczerbiec"
 ---
+
+### 2021
+
+Metropolita katowicki, arcybiskup Wiktor Skworc złożył rezygnację z ważnych funkcji. To efekt śledztwa Watykanu.
 
 ### 2020
 
