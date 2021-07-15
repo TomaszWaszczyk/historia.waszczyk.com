@@ -3,9 +3,24 @@ layout: post
 title: 13 lipca
 image: img/july/matwa.jpg
 author: Tomasz Waszczyk
-date: 2019-07-13T10:00:00.000Z
+date: 2020-07-13T10:00:00.000Z
 tags:
   - Jan Karski
+---
+
+### 2021
+
+<video width="640" height="480" controls>
+  <source src="./movies/july/zaszczepsieloteria.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Cezary Pazura również brał udział w reklamie szczepień.
+
+---
+
+Fabryka maszyn rolniczych Ursus upada na wniosek banku PKO BP.
+
 ---
 
 ### 2020
@@ -50,6 +65,12 @@ honorowe obywatelstwo państwa Izrael. W
 1995 roku otrzymał Order Orła Białego.
 
 <img src="./img/july/karski4.jpg"><br><br>
+
+### 1949
+
+Papież Pius XII wydał dekret potępiający komunizm, grożąc ekskomuniką wszystkim katolikom należącym do partii komunistycznych lub je wspierającym.
+
+<img src="./img/july/piuskomunizm.jpeg"><br><br>
 
 ### 1945
 

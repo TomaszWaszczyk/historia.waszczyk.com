@@ -16,6 +16,21 @@ The central banksters money printing via debt monitorization is happening in a m
 
 <a href="./documents/july/assetbubble.pdf" target="_blank">Asset bubble</a>
 
+---
+
+Zamieszki i demonstracje na Kubie. Reżim wzywa do obrony komunizmu
+
+W kilku miastach Kuby doszło w niedzielę do antyrządowych demonstracji – według opozycyjnych portali internetowych – największych od 1994 roku. Kubańskie władze oskarżyły Stany Zjednoczone o ich wywołanie.
+Agencja Reutera napisała, że tysiące Kubańczyków wyszło w niedzielę na ulice, aby by wyrazić frustrację z powodu ograniczeń pandemicznych, tempa szczepień przeciwko Covid-19 i zaniedbań rządu.
+Uczestnicy demonstracji wznosili m.in. okrzyki „Wolność” i „Precz z dyktaturą”.
+Podczas protestów nie odnotowano poważniejszych incydentów. Policja i wojsko nie interweniowały.
+Uczestnicy demonstracji protestowali przeciwko brakom w zaopatrzeniu w żywność i artykuły pierwszej potrzeby. Sytuację szybko pogarsza spadająca ze względu na pandemię liczba zagranicznych turystów oraz kryzys gospodarczy w Wenezueli, która jest dla Kuby głównym dostawcą ropy naftowej.
+Prezydent Kuby i szef Partii Komunistycznej Miguel Diaz-Canel wezwał w niedzielnym wystąpieniu telewizyjnym zwolenników rządu, aby również wyszli na ulice i „dali odpór” przeciwnikom rewolucji.
+– Wzywamy wszystkich rewolucjonistów, wszystkich komunistów, aby ruszyli na ulice i pojawili się w miejscach tych wszystkich prowokacji – apelował Diaz-Canel.
+Na ulicach doszło do starć przeciwników i zwolenników reżimu.
+
+---
+
 ### 2020
 
 Zysk sektora bankowego w pierwszych miesiącach br. spadł o ponad 40 proc. Jest bardzo źle - ocenia prof. Marian Noga, były członek Rady Polityki Pieniężnej.

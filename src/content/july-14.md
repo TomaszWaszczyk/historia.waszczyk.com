@@ -3,10 +3,14 @@ layout: post
 title: 14 lipca
 image: img/july/wolnyrobotnik.jpg
 author: Tomasz Waszczyk
-date: 2019-07-14T10:00:00.000Z
+date: 2020-07-14T10:00:00.000Z
 tags:
   - Wolny Robotnik
 ---
+
+### 2021
+
+NBP dołączył do grona innych banków centralnych, które kupują akcje oraz futures na akcje i na indeksy już od kilku lat. Bank centelny drukuje z powietrza gotówkę i za te gotówkę kupuje udziały w firmach.
 
 ### 2020
 

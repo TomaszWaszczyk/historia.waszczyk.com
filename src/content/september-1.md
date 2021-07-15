@@ -38,6 +38,8 @@ Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
 
 ### 1939 - Polska jako "państwo sezonowe" - Saisonstadt
 
+[Drang nach Osten](https://pl.wikipedia.org/wiki/Drang_nach_Osten)
+
 <img src="./img/september/niemcyatakauj.jpg"><br><br>
 
 O godz. 4:40 Niemcy zrzucili kilkaset śmiercionośnych pocisków na bezbronne miasto Wieluń (miasto które spało). Tu została dokonana pierwsza wojenna zbrodnia na bezbronnej ludności miasta. Zabili co najmniej kilkuset mieszkańców. Wielu ludzi nie obudziło się już więcej..

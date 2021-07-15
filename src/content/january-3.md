@@ -25,6 +25,10 @@ Eksperci Polskiego Instytutu Ekonomicznego zwrócili uwagę, że banki centralne
 
 ---
 
+### 2019
+
+<img src="./img/january/universitiescredit.jpeg"><br><br>
+
 ### 2009 - The revolution has started
 
 <br>

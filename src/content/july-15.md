@@ -3,7 +3,7 @@ layout: post
 title: 15 lipca
 image: img/july/glapinski.jpg
 author: Tomasz Waszczyk
-date: 2019-07-15T10:00:00.000Z
+date: 2020-07-15T10:00:00.000Z
 tags:
   - NBP
 ---
