@@ -1,3 +1,12 @@
+---
+layout: page
+title: 1 września
+image: img/september/wielun.png
+author: Tomasz Waszczyk
+date: 2021-07-15T10:00:00.000Z
+tags:
+  - Niemcy
+---
 <!-- You might not be interested in war, but war is interested in you. 
 
 The entire world launched two wars in 2020, the war on covid and the war on currency. Covid war is about your health and digital transformation. Currency war is about your purchasing power and monetary expansion.
