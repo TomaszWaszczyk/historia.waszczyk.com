@@ -1,11 +1,11 @@
 ---
-layout: page
-title: 1 września
+layout: post
+title: Notes on digital assets
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2021-07-15T10:00:00.000Z
+date: 2018-07-15T10:00:00.000Z
 tags:
-  - Niemcy
+  - Digital Assets
 ---
 <!-- You might not be interested in war, but war is interested in you. 
 
