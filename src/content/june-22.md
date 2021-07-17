@@ -61,6 +61,13 @@ III Rzesza zaatakowała ZSRR wydawało się, że będzie to bardzo szybka kampan
 
 ---
 
+22 czerwca 1941 r. - początek operacji „Barbarossa” - atak III Rzeszy Niemieckiej na Związek Sowiecki.
+22 czerwca 1944 r. - Armia Czerwona rozpoczęła operację "Bagration", która doprowadziła do całkowitej klęski niemieckiej Grupy Armii „Środek” oraz osiągnięcia przez sowietów linii Wisły.
+
+Stalin świadomie wybrał tę datę.
+
+---
+
 List generała broni Kazimierza Sosnkowskiego (zdjęcie) do Naczelnego Wodza generała Władysława Sikorskiego z 22 czerwca 1941 roku.
 
 "Nie wiedząc, czy stan zdrowia mi pozwoli przyjechać w dniach najbliższych do Londynu, pozwalam sobie przesłać Panu Generałowi w kilku zwięzłych zdaniach swój pogląd na sytuację, wytworzoną przez wybuch wojny niemiecko-sowieckiej.

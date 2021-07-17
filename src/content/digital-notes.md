@@ -60,4 +60,4 @@ It's a asymmetric bet like the early stage of involving in internet.
 16-Dec-17: $19,497 (Bull Top)
 16-Dec-18: $3,283 (Bear Bottom) -->
 
-
+Mariano 20k

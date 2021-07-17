@@ -75,6 +75,14 @@ W raporcie w którym wystąpiono dla niego o awans na stopień SS- Hauptsturmfü
 
 <img src="./img/june/wittmann.jpg"><br><br>
 
+### 1934
+
+Z trzydniową oficjalną wizytą przybył do Polski minister propagandy III Rzeszy Joseph Goebbels.
+17 czerwca 1934 roku w swoim dzienniku zapisał: „Przejazd przez Warszawę. Dzielnica żydowska. Smród i pełno brudu. Wschodni Żydzi. Tacy oni są. Rozmowa z Beckiem o wymianie kulturalnej. On jest przyjazny i przebiegły. Jak wszyscy Polacy. Obiecuje wszystko i nic. Także tej sztuki musimy się nauczyć. Pod tym względem Polacy nas wyprzedzają. I nie wolno nam robić sobie żadnych złudzeń (…). Następnie do Piłsudkiego. Francuzi chcieli to udaremnić. Ale to się nie udało. Marszałek jest faktycznie chory. Ale rozmawia ze mną prawie godzinę. Bardzo jowialny i szarmancki. Na wpół Azjata. Schorowany. Stary rewolucjonista. Jeszcze starszy niż Hindenburg. Ale jasność (umysłu) żołnierza. Armia jest generalnie dobra. Piłsudski trzyma Polskę w swych rękach. Wielki człowiek i fanatyczny Polak. Nienawiść do ludzi i wielkiego miasta. Despota jak sądzę. Podczas rozmowy sypie anegdotami. Na jego życzenie zostaliśmy razem sfotografowani”
+Foto: Poseł nadzwyczajny i minister pełnomocny Niemiec w Polsce Hans Adolf von Moltke (z lewej) wita ministra propagandy Niemiec Josepha Goebbelsa na mokotowskim lotnisku.
+
+<img src="./img/june/goebbelswarszawa.jpg"><br><br>
+
 ### 1942
 
 Między godziną 15.00 a 17.00 z komanda pracującego poza obozem, przy wycinaniu wikliny nad Sołą, uciekło 3 Polaków. Byli to więźniowie: Marian Mykala (nr 1363), Zygmunt Piotrowski (nr 15303) oraz Franciszek Sykosz (nr 15402).

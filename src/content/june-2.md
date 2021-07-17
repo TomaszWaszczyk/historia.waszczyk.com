@@ -9,6 +9,13 @@ tags:
 draft: false
 ---
 
+### 2021
+
+"Nigdy w historii ludzkości żaden masowy opór ani żadna rewolucja nie była wspierana jednocześnie przez mainstreamowe media, rządy, uczelnie i artystów. Więc jeśli Twoje poglądy są zbieżne z tym co mówią wielkie media, czołowi politycy, wykładowcy i artyści, to można śmiało stwierdzić, że wcale nie jesteś za rewolucją, tylko za utrzymaniem obecnego układu."
+Na ilustracji największe korporacje stosujące jeden z wielu tzw. #virtuesignalling (PrideMonth, BLM, etc.) przy jednoczesnych głosach "uciemiężonych mniejszosci" o życiu w rzekomym "opresyjnym sytemie". Niczym wielu zachodnich komunistów żyjących w kapitalizmie i krytykujących system przy jednoczesnym czerpaniu z niego maksimum korzyści.
+
+<img src="./img/june/lgbt.jpg"><br><br>
+
 ### 2020
 
 W zapisie minutes z kwietniowego posiedzenia Rady Polityki Pienieznej, znalazlo sie oszalamiajace stwierdzenie.
@@ -213,6 +220,15 @@ Suchozanet nie posiadał dostatecznego przygotowania administracyjnego i był ni
 Królestwa Polskiego.
 
 <img src="./img/june/suchozanet.jpg"><br><br>
+
+### 1611
+
+W Wilnie, podczas uroczystości Bożego Ciała został zlinczowany przez tłum włoski kalwinista Franco de Franco. Przed tym incydentem brał udział w odbywającym się w zborze wileńskim nabożeństwie w czasie którego pastor Andrzej Chrząstowski ostro skrytykował katolickie obrzędy Bożego Ciała nazywając je bałwochwalstwem. Wywarło to na niego tak ogromny wpływ, że po wyjściu ze zboru udał się w miejsce, gdzie odbywała się procesja i obok jednego z ołtarzy wykrzyczał w stronę zgromadzonych przed nim wiernych:
+"Wy niebożęta zaślepieni, wielkie bałwochwalstwo czynicie, gdy opłatkowi cześć oddawacie i śpiewacie o nim. Bogu chwałę oddawajcie, który jest w niebiosach, a bałwochwalstwa zaniechajcie, ani boskiej chwały rzeczom ziemskim nie dawajcie!”
+Tłum rzucił się na niego, a on sam wkrótce trafił do więzienia, gdzie został poddany całonocnym torturom. Sprawa odbiła się głośnym echem i szybko dotarła do samego papieża. Głównym oskarżycielem Franco był kaznodzieja królewski Piotr Skarga, który osobiście zabiegał o jak najsurowsze ukaranie bluźniercy. W efekcie złożono mu propozycję darowania życia w zamian za przejście na katolicyzm, z  której nie skorzystał.
+Został stracony w lochach wileńskiego ratusza 30 czerwca 1611 roku w wieku około 25 lub 26 lat. Kat wyrwał Franco język (była to zwyczajowa kara za bluźnierstwo), następnie jego ciało zostało porąbane na części, które zawieszono na pręgierzu. Potem ciało spalono, a popioły wrzucono do rzeki.
+
+<img src="./img/june/franko.jpg"><br><br>
 
 ### 1537
 

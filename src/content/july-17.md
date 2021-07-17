@@ -8,6 +8,12 @@ tags:
   - Polska
 ---
 
+### 2021
+
+Tak wygląda Polska dla redakcji "Zeitschrift für internationalen Kulturaustausch",  wydany przez Institut für Auslandsbeziehungen.
+
+<img src="./img/july/polskazeitschrift.jpeg"><br><br>
+
 ### 2020 - Wzrost cen w Polsce jest najwyższy od 19 lat
 
 Inflacja bazowa, czyli taka po wyłączeniu najbardziej chwiejnych komponentów cen żywności i energii, w czerwcu 2020 r. wyniosła nad Wisłą 4,1 proc., wobec 3,8 proc. miesiąc wcześniej - podał Narodowy Bank Polski. To oznacza, że wzrost cen jest najwyższy od grudnia 2001 r.
