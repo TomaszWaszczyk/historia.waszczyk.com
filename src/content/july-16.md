@@ -3,7 +3,7 @@ layout: post
 title: 16 lipca
 image: img/july/inflacja2020.jpeg
 author: Tomasz Waszczyk
-date: 2019-07-16T10:00:00.000Z
+date: 2020-07-16T10:00:00.000Z
 tags:
   - Polska
 ---
@@ -15,6 +15,14 @@ tags:
 ### 2001
 
 https://en.m.wikipedia.org/wiki/Public_Finance_Balance_of_Smoking_in_the_Czech_Republic
+
+### 1996
+
+W wieku 84 lat zmarł Hipolit Duljasz (zdjęcie ) pułkownik Milicji Obywatelskiej, dyrektor Centralnego Zarządu Więziennictwa MSW, dyrektor Departamentu VI Ministerstwa Bezpieczeństwa Publicznego, kierownik Wojewódzkiego Urzędu Bezpieczeństwa Publicznego w Kielcach i Bydgoszczy.
+Z wykształcenia był ślusarzem- mechanikiem . W wieku 19 lat został skazany na osiem lat pozbawienia wolności za prowadzenie działalności komunistycznej. Po agresji niemiecko-sowieckiej we wrześniu 1939 roku uciekł do Łucka, gdzie brał udział w organizowaniu tam władzy sowieckiej. Rok później przeniósł się do Lwowa, gdzie został racjonalizatorem i przewodniczącym Komitetu Fabrycznego w Remontowej Bazie Samochodów i Czołgów. We wrześniu 1943 roku podjął służbę w 2. Dywizji Piechoty imienia Jana Henryka Dąbrowskiego, w której pełnił funkcję zastępcy dowódcy do spraw polityczno-wychowawczych. W roku 1944 objął tę samą funkcję w sowieckim oddziale partyzanckim dowodzonym przez majora Czesława Klima. W sierpniu tego samego roku został kierownikiem kieleckiej placówki UB. W 1956 roku ukończył Centralną Szkołę Partyjną.  Został pochowany na Cmentarzu Komunalnym Północnym w Warszawie.
+Odznaczony Krzyżem Kawalerskim Orderu Odrodzenia Polski i Krzyżem Walecznych.
+
+<img src="./img/july/duljasz.jpg"><br><br>
 
 ### 1949
 

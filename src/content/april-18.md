@@ -250,6 +250,10 @@ Odbyło się spotkanie przewodniczącego NSZZ Solidarność Lecha Wałęsy z gen
 
 <img src="./img/april/nszz.jpg"><br><br>
 
+### 1963
+
+<img src="./img/april/phone.jpg"><br><br>
+
 ### 1947
 
 Poniższy tekst to Nota Rządu RP do Rządu ZSRR złożona przez ambasadora Mariana Naszkowskiego (na zdjęciu po prawej) na ręce wiceministra spraw zagranicznych ZSRS Andrieja Wyszyńskiego.

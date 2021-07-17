@@ -3,7 +3,7 @@ layout: post
 title: 17 lipca
 image: img/july/glapinski.jpg
 author: Tomasz Waszczyk
-date: 2019-07-17T10:00:00.000Z
+date: 2020-07-17T10:00:00.000Z
 tags:
   - Polska
 ---

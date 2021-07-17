@@ -8,6 +8,10 @@ tags:
   - NBP
 ---
 
+### 2021
+
+<img src="./img/july/akcjakowidowa.png"><br><br>
+
 ### 2020
 
 NBP: Recesja może być znacznie głębsza, niż się spodziewacie.
@@ -38,6 +42,16 @@ Przy okazji będzie bieda, bezrobocie, a gospodarka się zawali... ale za to dos
 2) Smuci mnie, że kandydaci, zamiast skupić się na realnych problemach, dyskutują o tym, co podrzucają im media, bo to są chwytliwe tematy i tylko one mogą pomóc zdobyć poparcie -->
 
 ---
+
+### 1975
+
+Podczas próby ucieczki z Polski do Austrii czechosłowacki myśliwiec zestrzelił AN-2, którego pilotem był emerytowany pilot Ludowego Wojska Polskiego Dionizy Bielański. Do incydentu doszło zaledwie 8 km od granicy z Austrią. Bielański zginął na miejscu. Zostawił żonę i dwie małe córki.
+Według śledztwa prowadzonego przez IPN, czechosłowaccy wojskowi mieli zeznać, że rozkaz zestrzelenia Bielańskiego wydał ówczesny minister obrony narodowej generał Wojciech Jaruzelski. Ma to również potwierdzać notatka służbowa wysokiego rangą funkcjonariusza wrocławskiej Służby Bezbieczeństwa. 
+Ówczesne władze Czechosłowacji i Polski starały się wyciszyć sprawę zestrzelenia An-2 i śmierci Bielańskiego, nazywając to awarią.
+
+Dionizy Bielański miał 36 lat.
+
+<img src="./img/july/bielanski.jpg"><br><br>
 
 ### 1963
 
