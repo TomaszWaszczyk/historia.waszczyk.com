@@ -100,6 +100,10 @@ Według Bugaja Leszek Balcerowicz "właściwie nie próbował reformować przeds
 Efekty tamtych decyzji przekładają się na zamożność Polaków. Jak mówi Bugaj:
 - Wykształca się powoli taka grupa ludzi, która zawsze istniała w USA, ale nigdy w Europie. Są to tzw. „pracujący biedni”, (...) posiadający formalnie pełnoetatową pracę, ale otrzymujących tak niskie wynagrodzenia, że spadają poniżej minimum socjalnego. W Polsce powoli powstaje taka grupa ludzi.
 
+### 1915
+
+<img src="./img/january/christmastruce.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

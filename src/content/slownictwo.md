@@ -1501,6 +1501,10 @@ Fachowca - ma słuchać inwestor a nie na odwrót. Bo gdy jest na odwrót to ten
 
 edgy project
 
+wyeradykować
+
+safanduła
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

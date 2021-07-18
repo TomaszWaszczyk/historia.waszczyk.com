@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 lipca
-image: img/july/glapinski.jpg
+image: img/july/skarbek.jpg
 author: Tomasz Waszczyk
 date: 2020-07-15T10:00:00.000Z
 tags:
@@ -56,6 +56,13 @@ Dionizy Bielański miał 36 lat.
 ### 1963
 
 https://de.wikipedia.org/wiki/Neues_%C3%96konomisches_System_der_Planung_und_Leitung
+
+### 1961
+
+Sejm PRL przyjął uchwałę, na mocy której ze szkół zostało usunięte nauczanie religii. Uchwała ta była głównym narzędziem w rękach władz komunistycznych, które posłużyć miało do jak największej ateizacji polskiego społeczeństwa. Jakby tego było mało, jeszcze w listopadzie tego samego roku minister oświaty i wychowania wydał instrukcję przewidującą tryb postępowania represyjnego w stosunku do księży proboszczów, którzy nie chcieli rejestrować terenowych punktów katechetycznych oraz którzy odmawiali pisania sprawozdań z prowadzonej katechizacji.
+Naukę religii w szkołach przywrócono w roku 1990
+
+<img src="./img/july/katecheza.jpg"><br><br>
 
 ### 1952
 

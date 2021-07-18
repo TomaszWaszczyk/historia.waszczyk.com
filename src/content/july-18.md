@@ -3,10 +3,16 @@ layout: post
 title: 18 lipca
 image: img/july/great-fire.jpg
 author: Tomasz Waszczyk
-date: 2019-07-18T10:00:00.000Z
+date: 2020-07-18T10:00:00.000Z
 tags:
   - Rzym
 ---
+
+### 2021
+
+Zasobów brak.
+
+<img src="./img/july/zasoby.jpg"><br><br>
 
 ### 2020
 
