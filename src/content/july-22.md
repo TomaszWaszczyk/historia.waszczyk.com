@@ -3,7 +3,7 @@ layout: post
 title: 22 lipca
 image: img/july/hansfrank.jpg
 author: Tomasz Waszczyk
-date: 2019-07-22T10:00:00.000Z
+date: 2020-07-22T10:00:00.000Z
 tags:
   - Hans Frank
 ---

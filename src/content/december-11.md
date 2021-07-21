@@ -92,6 +92,10 @@ Sowieci, którzy wkroczyli 19 stycznia. Naprędce zorganizowano pogotowie opieku
 
 Polska jedyny raz w historii XX wieku wypowiedziała wojnę obcemu państwu. Krajem tym było geograficznie dla nas odległe Cesarstwo Japonii. Jedną z pryczyn tego kroku był japoński atak na bazę Marynarki Amerykańskiej w Pearl Harbour, co sprawiło,że tocząca się do tej pory jedynie w Europie wojna stała się konfliktem na skalę globalną. Władze Japonii, które uznały, że wypowiedzenie to zostało dokonane pod presją władz brytyjskich , nie przyjęły go. Oficjalnie koniec wojny polsko-japońskiej nastąpił 8 lutego 1957 roku, kiedy to polski wiceminister spraw zagranicznych Józef Winiewicz i ambasador Japonii Kase Toshikazu podpisali porozumienie o normalizacji stosunków polsko-japońskich.
 
+### 1931
+
+<img src="./img/december/wroclawskiewiadomoscinaukowe.jpeg"><br><br>
+
 ### 1866
 
 W Warszawie pod nazwą "Żelazna droga" uruchomiono pierwsze połączenie tramwajowe obsługiwane przez tramwaj konny. Połączyła ona Dworce Kolei Wiedeńskiej i Kolei Petersburskiej.
