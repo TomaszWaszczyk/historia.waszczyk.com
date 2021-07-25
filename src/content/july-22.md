@@ -8,6 +8,13 @@ tags:
   - Hans Frank
 ---
 
+### 2021
+
+<video width="640" height="480" controls>
+<source src="./movies/july/biden.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2020
 
 Russian Lawmakers Finally Pass Country’s Major Crypto Bill

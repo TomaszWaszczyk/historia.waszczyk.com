@@ -3,7 +3,7 @@ layout: post
 title: 23 lipca
 image: img/july/majdanek.jpg
 author: Tomasz Waszczyk
-date: 2019-07-23T10:00:00.000Z
+date: 2020-07-23T10:00:00.000Z
 tags:
   - Polska
 ---

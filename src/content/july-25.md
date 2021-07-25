@@ -3,7 +3,7 @@ layout: post
 title: 25 lipca
 image: img/july/kapitulacja.jpg
 author: Tomasz Waszczyk
-date: 2019-07-25T10:00:00.000Z
+date: 2020-07-25T10:00:00.000Z
 tags:
   - Karol Gustaw
 ---
