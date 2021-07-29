@@ -3,10 +3,19 @@ layout: post
 title: 29 lipca
 image: img/july/usdindex.png
 author: Tomasz Waszczyk
-date: 2019-07-29T10:00:00.000Z
+date: 2020-07-29T10:00:00.000Z
 tags:
   - USD
 ---
+
+### 2021
+
+Wytłumaczenie inflacji w 2021. Insane.
+
+<video width="640" height="480" controls>
+<source src="./movies/july/transitorydefinition.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

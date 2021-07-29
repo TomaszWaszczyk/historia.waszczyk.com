@@ -3,7 +3,7 @@ layout: post
 title: 28 lipca
 image: img/july/moneysupplypoland.png
 author: Tomasz Waszczyk
-date: 2019-07-28T10:00:00.000Z
+date: 2020-07-28T10:00:00.000Z
 tags:
   - Polska
 ---
