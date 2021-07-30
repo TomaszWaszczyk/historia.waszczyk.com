@@ -17,25 +17,46 @@ Wytłumaczenie inflacji w 2021. Insane.
 Your browser does not support the video tag.
 </video>
 
+---
+
+> Morawiecki: Inflację należy zestawiać ze wzrostem wynagrodzeń
+
+Inflacja jest kwestią, którą należy odnosić do wzrostu wynagrodzeń; kiedy wynagrodzenia rosną dwa razy szybciej niż inflacja, oznacza to, że za zarabianą kwotę możemy kupić dwa razy więcej - powiedział w piątek podczas konferencji prasowej premier Mateusz Morawiecki.
+
+---
+
 ### 2020
 
 The German state TV praises Bitcoin? If you don't speak German, BTC seems to act as a safe haven. Feel free to start your research with the facts:
 
 Borderless - Gold ✅ vs. Bitcoin ✅
+
 Decentralized - Gold ✅ vs. Bitcoin ✅
+
 Capped Supply - Gold ✅ vs. Bitcoin ✅
+
 Easy Verifiable - Gold ✅ vs. Bitcoin ✅
+
 Easy Value Transfer - Gold ❌ vs. Bitcoin ✅
+
 No Censorship - Gold ❌ vs. Bitcoin ✅
+
 Weightless - Gold ❌ vs. Bitcoin ✅
+
 Counterfeiting Safety - Gold ❌ vs. Bitcoin ✅
+
 Easily Divisible - Gold ❌ vs. Bitcoin ✅
+
 Low Transfer/Storage Cost - Gold ❌ vs. Bitcoin ✅
+
 Low Vola - Gold ✅ vs. Bitcoin ❌
+
 6000 yrs of proven history - Gold ✅ vs. Bitcoin ❌
 
 Hits:  
+
 Gold: ⚽ ⚽ ⚽ ⚽ ⚽ ⚽
+
 Bitcoin: ⚽ ⚽ ⚽ ⚽ ⚽ ⚽ ⚽ ⚽ ⚽ ⚽
 
 ---
