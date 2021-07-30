@@ -8,6 +8,10 @@ tags:
   - Freigeld
 ---
 
+### 2021
+
+> The standard technique of privatization: defund, make sure things don't work, people get angry, you hand it over to private capital. - Noam Chomsky
+
 ### 1987
 
 https://en.wikipedia.org/wiki/Spycatcher
