@@ -3,7 +3,7 @@ layout: post
 title: 1 sierpnia
 image: img/august/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-01T10:00:00.000Z
+date: 2020-08-01T10:00:00.000Z
 tags:
   - Powstanie warszawskie
 ---

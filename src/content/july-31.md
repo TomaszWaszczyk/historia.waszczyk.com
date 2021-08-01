@@ -12,9 +12,27 @@ tags:
 
 > The standard technique of privatization: defund, make sure things don't work, people get angry, you hand it over to private capital. - Noam Chomsky
 
+### 1991
+
+Właściciele spółki Art-B, Bogusław Bagsik i Andrzej Gąsiorowski, uciekli do Izraela.
+
+<img src="./img/july/artb.jpeg"><br><br>
+
+Andrzej Gąsiorowski w Izraelu:
+
+<img src="./img/july/gasiorowskiwizraelu.jpeg"><br><br>
+
 ### 1987
 
 https://en.wikipedia.org/wiki/Spycatcher
+
+### 1977
+
+W wodach Zalewu Solińskiego odnaleziono ciało Stanisława Pietraszko (zdjęcie) krakowskiego studenta Wydziału Fizyki Uniwersytetu Jagiellońskiego, świadka w sprawie śmierci Stanisława Pyjasa. 
+Pietraszko był bliskim kolegą Pyjasa, osobą która najprawdopodobniej widziała go ostatniego żywego. Według ustaleń historyków i śledczych miał on widzieć swojego kolegę na krótko przed jego śmiercią w towarzystwie nieznanego mężczyzny. W tej sprawie zgłosił się nawet dobrowolnie na komendę w celu złożenia zeznań, a nawet dokładnego przedstawienia rysopisu mężczyzny towarzyszącemu Pyjasowi. Jakiś czas później utonął w niejasnych okolicznościach w Zalewie Solińskim podczas wakacji, które spędzał z niedawno poznaną dziewczyną. 
+Śmierć Stanisława Pietraszko budzi spore wątpliwości ze względu na fakt, iż według osób, które dobrze go znały cierpiał on na wodowstręt.
+
+<img src="./img/july/pietraszko.jpg"><br><br>
 
 ### 1972
 
@@ -31,6 +49,23 @@ Gen. „Bór” Komorowski wydał rozkaz rozpoczęcia powstania w Warszawie
 Po analizie sytuacji związanej z nadejściem Armii Czerwonej, generał „Bór”, za zgodą Delegata Rządu RP na Kraj, wicepremiera Jana Stanisława Jankowskiego „Sobola”, wydaje rozkaz komendantowi Okręgu Warszawskiego AK pułkownikowi Antoniemu Chruścielowi „Monterowi” rozpoczęcia powstania w Warszawie 1 sierpnia o godz. 17.00.
 
 1649 roku w czasie powstania Chmielnickiego pod Łojowem (obecnie Białoruś) liczące 5 tysięcy żołnierzy wojska litewskie hetmana polnego Janusza Radziwiłła pokonały 17 tysięczną armię kozacką Stanisława Krzeczkowskiego.
+
+### 1940
+
+W Olkuszu miała miejsce tzw "Krwawa środa"-akcja przeprowadzona przez Niemców w odwecie za zabicie jednego niemieckiego żandarma.Wszystkich mężczyzn z Olkusza spędzono na rynek główny i poddawano ich torturom w tym wielogodzinnym leżeniu w upale.
+Tak wspominał ten dzień jeden z mieszkańców Olkusza:
+" Leżeliśmy twarzą do ziemi. Ręce
+założone z tyłu. Twarz musiała być
+podparta nosem o ziemię. Jeśli któryś z
+mężczyzn kładł na ziemi policzki – Niemiec kopnięciem w głowę lub wprost w twarz przywracał go do porządku. Przyprowadzono partię Żydów. Poczęto znęcać się nad nimi w tak okrutny sposób, że pióro najzdolniejszegopisarza nie byłoby w stanie odtworzyć tych bestialskich zbrodni"
+
+<img src="./img/july/krwawasroda.jpg"><br><br>
+
+### 1934
+
+W Berlinie odbyło się pierwsze posiedzenie Trybunału Ludowego (Volksgerichtshof).
+
+<img src="./img/july/volksgericht.jpeg"><br><br>
 
 ### 1932
 
