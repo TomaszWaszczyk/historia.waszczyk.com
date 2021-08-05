@@ -3,11 +3,15 @@ layout: post
 title: 4 sierpnia
 image: img/august/bzdura.png
 author: Tomasz Waszczyk
-date: 2019-08-04T10:00:00.000Z
+date: 2020-08-04T10:00:00.000Z
 tags:
   - Bogusław Wolniewicz
 draft: false  
 ---
+
+### 2021
+
+> Lloyd Blankfein: If I were a bitcoin regulator I would be ‘hyperventilating’ “You don’t know whether or not you’re paying the North Koreans or Al Qaeda or the Revolutionary Guard,” Lloyd Blankfein, former Goldman Sachs CEO, told CNBC’s “Squawk Box” Monday. “If I were a regulator, I would be kind of hyperventilating at the success of it at the moment and I’d be arming myself to deal with it.” - CNBC
 
 ### 2020
 

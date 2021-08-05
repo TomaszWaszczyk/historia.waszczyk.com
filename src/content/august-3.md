@@ -3,11 +3,15 @@ layout: post
 title: 3 sierpnia
 image: img/august/klamcastalin.jpg
 author: Tomasz Waszczyk
-date: 2019-08-01T10:00:00.000Z
+date: 2020-08-03T10:00:00.000Z
 tags:
   - Stalin
 draft: false  
 ---
+
+### 2021
+
+> Jak wynika z najnowszych danych Biura Informacji Kredytowej, popyt na kredyty mieszkaniowe był w lipcu w polskich bankach wyższy aż o jedną trzecią rok do roku. Choć w porównaniu z czerwcem nieco spadł, nadal jest bardzo wysoki. Znów rekord pobiła średnia wartość wnioskowanego kredytu - wyniosła aż 328 tys. zł i była aż o 42 tys. zł wyższa niż raptem rok temu.
 
 ### 1946
 

@@ -3,10 +3,16 @@ layout: post
 title: 5 sierpnia
 image: img/august/hirszfeld.jpg
 author: Tomasz Waszczyk
-date: 2019-08-05T10:00:00.000Z
+date: 2020-08-05T10:00:00.000Z
 tags:
   - Ludwik Hirszfeld
 ---
+
+### 2021
+
+<img src="./img/august/centralbanking.png"><br><br>
+
+<img src="./img/august/inflacjaglapinski.jpg"><br><br>
 
 ### 1940
 

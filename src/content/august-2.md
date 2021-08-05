@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 2 sierpnia
-image: img/1-08.jpeg
+image: img/august/archiwumskarbowe.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-02T10:00:00.000Z
+date: 2020-08-02T10:00:00.000Z
 tags:
-  - 
+  - Archiwum Skarbowe
 draft: false  
 ---
 
@@ -14,6 +14,12 @@ draft: false
 https://en.wikipedia.org/wiki/Gulf_War
 
 Wygrywa USA: https://pl.wikipedia.org/wiki/Agresja_Iraku_na_Kuwejt
+
+### 1871
+
+Założono Archiwum Skarbowe w Warszawie.
+
+<img src="./img/august/archiwumskarbowe.jpeg"><br><br>
 
 ---
 
