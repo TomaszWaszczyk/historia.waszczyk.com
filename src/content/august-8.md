@@ -3,10 +3,30 @@ layout: post
 title: 8 sierpnia
 image: img/august/sierakowiak.jpg
 author: Tomasz Waszczyk
-date: 2019-08-08T10:00:00.000Z
+date: 2020-08-08T10:00:00.000Z
 tags:
   - Getto Łódzkie
 ---
+
+### 2021
+
+Today's Thought?
+
+The destruction of the euro
+
+If ever there was a political construct the unstated objective of which is to enslave its population, it is the European Union. The EU represents Ayn Rand’s vision of the socializing state as looter in action.
+
+Brussels does not realise it, but they are partying into the dawn of the next world, and they will have nowhere left to go. Outside of the Brussels hothouse and EU capitals it is hard to discern any support for a failing political system, beyond simply keeping the show on the road.
+
+The EU is a Faustian pact between creditors and debtors to ignore the reality of their respective positions. It is the method of imperialism; but instead of being applied to other nations, Brussels applies imperial suppression to its own member states. And now that they been hollowed out, there is nothing left to sustain Brussels.
+
+The Eurozone’s banking system is a heartbeat from collapse. at the bottom there are the commercial banks with rapidly escalating non-performing loans, a phrase which hides the truth, that they are irretrievable bad debts. At the top is the Eurozone-wide settlement system, TARGET2, which is increasingly used to hide the bad debts accumulating at national levels.
+
+The imbalances are all guaranteed by the ECB. In theory, they shouldn’t exist. They partially reflect accumulating trade imbalances between member states without the balancing payment flows the other way. Additionally, imbalances arise when the ECB instructs a regional central bank to purchase bonds issued by its government and other local corporate entities. As the imbalances between national banks grew, the ECB has stopped paying for some of its bond purchases, leading to a TARGET2 deficit of €297bn at the ECB. The corresponding credits conceal the true scale of the deficits on the books of the PIGS national central banks.
+
+The EU has only one solution a return to sovereign currencies by all EU nations, before the Euro collapses into itself.
+
+<img src="./img/august/euro2021.jpeg"><br><br>
 
 ### 1943
 

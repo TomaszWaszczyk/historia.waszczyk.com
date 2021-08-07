@@ -3,10 +3,14 @@ layout: post
 title: 6 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2019-08-06T10:00:00.000Z
+date: 2020-08-06T10:00:00.000Z
 tags:
   - Rozbiory
 ---
+
+### 2021
+
+> Liniowy PIT od działalności gospodarczej jest po prostu skierowany do osób osiągających najwyższe dochody niezależnie od tego, czym oni się zajmują. Ci ludzie często ani nie zatrudniają, ani nie inwestują, nie podejmują jakiegoś wysokiego ryzyka - po prostu dużo zarabiają. - Główny ekonomista Ministerstwa Finansów Łukasz Czernicki
 
 ### 1945
 

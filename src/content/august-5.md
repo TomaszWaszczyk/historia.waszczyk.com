@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 sierpnia
-image: img/august/hirszfeld.jpg
+image: img/august/inflacjaglapinski.jpg
 author: Tomasz Waszczyk
 date: 2020-08-05T10:00:00.000Z
 tags:
@@ -62,15 +62,6 @@ mieszkańców), utrzymując poza tym swój
 protektorat nad resztą okrojonego kraju.
 Polska straciła 211 tys. km² i 4,5 miliona
 ludności.
-
-### 1844
-
-W Warszawie urodził się Ludwik Hirszfeld - polski profesor doktor habilitowany żydowskiego pochodzenia, wybitny serolog, bakteriolog i immunolog, który odkrył prawa dziedziczenia grup krwi, zaproponował oznaczenie grup krwi A, B, AB i O (którymi obecnie się posługujemy) oraz oznaczył czynnik Rh i odkrył przyczynę konfliktu serologicznego.
-
-Studiował medycynę na Uniwersytetach w Würzburgu i Berlinie.
-Był asystentem w Instytucie Badań Raka w Heidelbergu oraz w Zakładzie Higieny Uniwersytetu w Zurychu. W czasie I wojny światowej zwalczał epidemię tyfusu plamistego w Serbii. W czasie okupacji hitlerowskiej został przesiedlony do warszawskiego getta, gdzie nielegalnie zajmował się leczeniem chorych na tyfus. W lipcu 1942 roku uciekł z getta i ukrywał się pod fikcyjnym nazwiskiem. Po wyparciu żołnierzy Wehrmachtu z Lublina w 1944 rozpoczął wykłady na UMCS. W 1950 został nominowany do nagrody Nobla w dziedzinie medycyny za wyjaśnienie zagadki zjawiska konfliktu serologicznego między matką a płodem. W 1952 utworzył we Wrocławiu Instytut Immunologii i Terapii Doświadczalnej PAN, którego został dyrektorem. Profesor zmarł 7 marca 1954 roku we Wrocławiu. Pozostawił po sobie blisko 400 prac naukowych, które mają olbrzymie znaczenie w dziedzinie biologii, medycyny, a także w prawie (w kwestii ustalenia ojcostwa).
-
-<img src="./img/august/hirszfeld.jpg"><br><br>
 
 ---
 

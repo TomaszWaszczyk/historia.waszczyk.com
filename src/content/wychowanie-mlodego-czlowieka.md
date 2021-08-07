@@ -153,6 +153,8 @@ Your browser does not support the video tag.
 
 * https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/
 
+* https://mitsloan.mit.edu/ideas-made-to-matter/lost-einsteins-us-may-have-missed-out-millions-inventors
+
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
 * https://usstocks.pl/edukacja-finansowa-dzieci/

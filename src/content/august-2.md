@@ -9,6 +9,12 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+The IMF has just approved a helicopter drop of $650 billion in SDRs to boost global liquidity. An allocation of SDRs hasn't happened since 2009.
+
+“This is a historic decision – the largest SDR allocation in the history of the IMF and a shot in the arm for the global economy at a time of unprecedented crisis. The SDR allocation will benefit all members, address the long-term global need for reserves, build confidence, and foster the resilience and stability of the global economy. It will particularly help our most vulnerable countries struggling to cope with the impact of the COVID-19 crisis,” IMF Managing Director Kristalina Georgieva said. 
+
 ### 1990
 
 https://en.wikipedia.org/wiki/Gulf_War
