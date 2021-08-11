@@ -10,6 +10,8 @@ draft: false
 
 <img src="./img/others/poezja/czas.jpg"><br><br>
 
+https://www.sparknotes.com/lit/bravenew/infographic/
+
 <!-- Cyprian Kamil NorwidFortepian Chopina  -->
 
 ### Pan Cogito o potrzebie ścisłości
