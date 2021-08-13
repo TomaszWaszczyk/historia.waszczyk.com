@@ -3,7 +3,7 @@ layout: post
 title: 13 sierpnia
 image: img/august/profesor-longterm.png
 author: Tomasz Waszczyk
-date: 2019-08-13T10:00:00.000Z
+date: 2020-08-13T10:00:00.000Z
 tags:
   - Nixon shock
 ---
