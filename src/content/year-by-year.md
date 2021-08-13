@@ -28,6 +28,10 @@ The megatrend of the 2020s will be (in addition to broad adoption of the above) 
 
 ---
 
+Sustainable Development Strategy:Egypt's vision 2030And Planning Reform
+
+---
+
 ### The billionaire flippening
 
 As a bonus final item, my friends Olaf Carlson-Wee and Balaji Srinivasan estimate that at a price of $200,000 per Bitcoin, more than half the world’s billionaires will be from cryptocurrency. Whether you think this is a good thing or a bad thing, it means there will be more pro-technology people with access to large amounts of capital in the 2020s. Presumably, this will increase the amount of investment made in science and technology, and I think we’ll see more crypto folks turn to philanthropy (we’ve seen this already with efforts like the Pineapple fund, GiveCrypto.org, and the GivingPledge).

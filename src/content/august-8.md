@@ -28,6 +28,17 @@ The EU has only one solution a return to sovereign currencies by all EU nations,
 
 <img src="./img/august/euro2021.jpeg"><br><br>
 
+---
+
+> "Rolnicy są przerażeni". Ardanowski: Muszę to powiedzieć ze smutkiem
+
+Były minister rolnictwa i rozwoju wsi wskazuje, że plany Unii Europejskiej dotyczące redukcji gazów cieplarnianych spowodują gigantyczne straty w polskim rolnictwie. – Społeczeństwa krajów takich jak Polska, krajów, które mają ograniczone możliwości zmiany źródeł energii, w pierwszej kolejności będą pokrzywdzone – stwierdził Jan Krzysztof Ardanowski.
+Ma być zredukowanie gazów cieplarnianych. Jednym z oskarżonych jest rolnictwo. Według polityków Unii Europejskiej gazy, które powstają w żołądkach zwierząt, są jednym z najważniejszych elementów emisji gazów i zmian klimatycznych – wskazywał były minister.
+Plany eurokratów oznaczają dla społeczeństw państw Wspólnoty bardzo drastyczny wzrost kosztów życia.
+Szacuje się, że wprowadzenie zmian w rolnictwie doprowadzi to tego, że niektóre rośliny nie będą po prostu uprawiane, zmieni się ich struktura. W Polsce jako pierwsza upadnie uprawa rzepaku i buraków cukrowych – dodał.
+
+---
+
 ### 1943
 
 W łódzkim getcie zmarł z powodu wycieńczenia, niedożywienia i zapalenia płuc 

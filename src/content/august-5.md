@@ -14,6 +14,27 @@ tags:
 
 <img src="./img/august/inflacjaglapinski.jpg"><br><br>
 
+### 2008
+
+Lech Kaczyński w Tbilisi
+
+<video width="640" height="480" controls>
+<source src="./movies/august/leczkaczynski.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### 1944
+
+Oddziały Heinza Reinefartha mordują cywilnych mieszkańców Woli w czasie pacyfikacji Powstania Warszawskiego. Ginie ok. 50 tysięcy ludzi. W jednym z raportów do dowódca donosi, że nie ma już amunicji do dalszych rozstrzeliwań.
+RFN, sierpień, lata 50. burmistrz Heinz Reinefarth miasta Westerland na wyspie Sylt z dumą patrzy na tłumy turystów na plaży nadmorskiego kurortu, wkrótce najmodniejszego na wybrzeżu Szlezwika-Holsztynu. W 1958 będzie wybrany do parlamentu landu, a po zakończeniu kadencji w 1967 zacznie pracować jako wzięty prawnik. Reinefarth, który urodził się w Gnieźnie jeszcze przed wstąpieniem do NSDAP, a później SS ukończył aplikację sądową. Mimo licznych wezwań władz polskich do ekstradycji zbrodniarza, niemieckie władze konsekwentnie odmawiały i nawet przyznały Reinefarthowi rentę generalską.
+SS- Gruppenführer Heinz Reinefarth “Kat Woli” zmarł jako 76-letni emerytowany generał i zasłużony mieszkaniec gminy w swojej rezydencji na wyspie Sylt. 
+Jak to się stało, że człowiek literalnie odpowiedzialny za zamordowanie kilkudziesięciu tysięcy ludności cywilnej uniknął odpowiedzialności karnej? Po pacyfikacji został mianowany dowódcą twierdzy w Kostrzynie nad Odrą, ale odmówił wykonania rozkazu Hitlera aby bronić jej do ostatniego żołnierza. Wydano nawet na niego wyrok, ale nie zdołano go wykonać. To pozwoliło mu twierdzić, że był bojownikiem antyfaszystowskiego ruchu oporu. Wszystkie próby ekstradycji do Polski spotykały się ze sprzeciwem Amerykanów. Mógł zatem swobodnie rozpocząć karierę polityczną w Niemczech Zachodnich.
+Zdjęcie po prawej stronie pochodzi z filmu dokumentalnego “Urlaub auf Sylt” nakręconego przez filmowców z NRD w roku 1957. Autorzy Andrew Thorndike, Annelie Thorndike, Karl Raddatz użyli fortelu podając się za dokumentalistów przygotowujących materiał o miejscowości wczasowej, dlatego zdołali nagrać burmistrza w swoim gabinecie (kopię filmu można znaleźć w sieci).
+W latach 70. XX wieku Krzysztof Kąkolewski zdołał dotrzeć do zbrodniarza i przeprowadzić z nim rozmowę w ramach cyklu reportaży “Co u pana słychać”. Reinefarth zaprzeczał swojej winie zasłaniając się wyrokiem sądu, który uniewinnił go po wojnie i zdradził, że Himmler wydał decyzję pacyfikacji Powstania nie zdając sobie sprawy z jego skali. “To było nie do rozróżnienia kto jest ludnością cywilną, bo nie wszyscy nosili opaski” - stwierdził w rozmowie z polskim pisarzem. “Żołnierze opowiadali: Dzieci do nas strzelają, więc my strzelamy do dzieci”.
+Szacuje się, że podczas tylko trzech dni mogło zginąć od 30 do 60 tysięcy Polaków. Niemcy systematycznie i bezwzględnie mordowali bezbronnych mieszkańców dom po domie. Nie było takiego drugiego wydarzenia w dziejach Polski i Europy, nie tylko podczas II wojny światowej.
+
+<img src="./img/august/heinz.jpg"><br><br>
+
 ### 1940
 
 Rządy Polski i Wielkiej Brytanii podpisały status organizacyjny i operacyjny na mocy którego Polskie Siły Zbrojne pod względem operacyjnym podlegać miały dowództwu brytyjskiemu.

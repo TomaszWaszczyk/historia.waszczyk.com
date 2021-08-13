@@ -3,10 +3,17 @@ layout: post
 title: 12 sierpnia
 image: img/august/cukier.jpg
 author: Tomasz Waszczyk
-date: 2019-08-12T10:00:00.000Z
+date: 2020-08-12T10:00:00.000Z
 tags:
   - MicroStrategy Incorporated
 ---
+
+### 2021
+
+Globalny festiwal zadłużania
+
+Tak wielkiego poziomu długu jak obecnie ludzkość nie osiągnęła nawet w czasach totalnej mobilizacji na potrzeby drugiej wojny światowej. Mało kto bije jednak na alarm, a wręcz przeciwnie, niektórzy ekonomiści wieszczą nawet nadejście „nowej ekonomii”.
+Średni poziom długu w krajach rozwiniętych osiągnął w obecnym roku poziom ponad 124 proc. wartości PKB, co stanowi wynik wyższy niż w rekordowym do tej pory 1946 r. Wówczas najbogatsze kraje świata były tuż po wielkiej wojnie, która uzasadniała wszelkie wydatki. Współcześnie twierdzi się, że również trwa wielka wojna,tym razem z koronawirusem, ale bezprecedensowe w swojej skali wydatki budżetowe nie do końca ten fakt oddają. Za skokowy przyrost długu odpowiadają bowiem przede wszystkim wydatki związane z wcielaniem w życie agendy zrównoważonego rozwoju.
 
 ### 2020
 

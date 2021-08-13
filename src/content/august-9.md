@@ -3,9 +3,19 @@ layout: post
 title: 9 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2019-08-09T10:00:00.000Z
+date: 2020-08-09T10:00:00.000Z
 tags:
   - Rozbiory
+---
+
+### 2021
+
+<img src="./img/august/anestezjologia2021.jpeg"><br><br>
+
+---
+
+<img src="./img/august/cynthia.png"><br><br>
+
 ---
 
 ### 1990
