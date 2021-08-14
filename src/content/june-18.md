@@ -71,6 +71,10 @@ Jednym ze skazanych w tym procesie zwanym też "procesem 16 " był ostatni dowó
 
 <img src="./img/june/proces.jpg"><br><br>
 
+### 1936
+
+<a href="./documents/june/polskazachodnia.pdf" target="_blank">Polska Zachodnia</a>
+
 ### 1574
 
 Król Henryk III Walezy ucieka z Polski do Francji.

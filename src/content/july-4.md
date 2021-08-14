@@ -16,6 +16,10 @@ tags:
 
 $370 million for an integer overflow. The June 4, 1996 Ariane 5 bug: 64 bit float relating to the horizontal velocity of the rocket was converted to a 16 bit signed integer
 
+### 1994
+
+<a href="./documents/july/dziennikurzedowy.pdf" target="_blank">Dziennik Urzędowy</a>
+
 ### 1975
 
 W Hamburgu zakończył się trwający ponad rok proces przeciwko Ludwigowi Hahnowi (zdjęcie) oficerowi SS, zbrodniarzowi niemieckiemu, komendantowi Sicherheitsdienst (Służby Bezpieczeństwa Reichsführera SS) na Dystrykt Krakowski i Warszawski.

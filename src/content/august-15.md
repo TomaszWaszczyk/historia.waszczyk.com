@@ -3,11 +3,18 @@ layout: post
 title: 15 sierpnia
 image: img/august/merian.jpg
 author: Tomasz Waszczyk
-date: 2019-08-15T10:00:00.000Z
+date: 2020-08-15T10:00:00.000Z
 tags:
   - Battle of Warsaw
 draft: false  
 ---
+
+### 2021
+
+<a href="./documents/august/niskie-stopy.pdf" target="_blank">Długofalowe skutki polityki niskich stóp i poluzowania polityki pieniężnej</a>
+
+<a href="./documents/august/Debauch-the-Currency.pdf" target="_blank">Who Said “Debauch the Currency”:
+Keynes or Lenin?</a>
 
 ### 2020
 

@@ -47,6 +47,10 @@ Nastąpiło uroczyste podniesienie bandery RP na niszczycielu ORP "Burza", dowó
 
 <img src="./img/august/orzel.jpg"><br><br>
 
+### 1904
+
+<a href="./documents/august/Ludwik_Glowacki.pdf" target="_blank"></a>
+
 ### 1702
 
 W czasie III wojny północnej wojska szwedzkie ponownie zajęły Kraków. Najbardziej spektakularnym wydarzeniem z tym związanym był trwający 4 dni pożar Wawelu. Jego sprawcami byli żołnierze szwedzcy, którzy rozpalalili ogień na jednej z posadzek. Jedna z ówczesnych relacji tak opisuje to wydarzenie:

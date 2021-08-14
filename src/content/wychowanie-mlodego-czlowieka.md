@@ -250,6 +250,8 @@ Autor: Maria Dąbrowska
 
 <!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol -->
 
+<a href="./documents/wychowanie-mlodego-czlowieka/The_Case_Against_Education_by_Bryan_Caplan.pdf" target="_blank">The_Case_Against_Education_by_Bryan_Caplan</a>
+
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
 <video width="640" height="50" controls>
