@@ -8,6 +8,18 @@ tags:
   - Nixon shock
 ---
 
+### 2021
+
+NIK skontroluje NBP. Problemem dodruk banknotów
+
+Jak podaje nieoficjalnie RMF FM, Najwyższa Izba Kontroli wejdzie no Narodowego Banku Polskiego. Ma zbadać, czy dochowano rzetelności w trakcie dodruku pieniędzy.
+
+----
+
+<img src="./img/august/szczepieniaprzymusowe.jpeg"><br><br>
+
+<img src="./img/august/brudzinski.jpeg"><br><br>
+
 ### 2020
 
 <img src="./img/august/profesor-longterm.png"><br><br>

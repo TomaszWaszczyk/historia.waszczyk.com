@@ -1016,3 +1016,4 @@ Kielce 1995
 
 https://vk.com/doc493916742_476409984?hash=21989a6380fb04bba1&dl=1948f08ac6c2360317
 
+https://pl.wikipedia.org/wiki/Afera_%E2%80%9E%C5%BBelazo%E2%80%9D

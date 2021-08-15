@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Poezja"
+title: "Poezja (i opowiadania)"
 author: Tomasz Waszczyk
 tags: ["Poezja"]
 image: img/others/poezja/czas.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
+
+https://en.wikipedia.org/wiki/Sturm_und_Drang
 
 <img src="./img/others/poezja/czas.jpg"><br><br>
 
@@ -508,6 +510,10 @@ https://pl.wikipedia.org/wiki/Sergiusz_Piasecki
 https://pl.wikipedia.org/wiki/Sylvia_Plath
 
 Ludwik Jerzy Kern
+
+### Opowiadania
+
+https://pl.wikipedia.org/wiki/Kraina_%C5%9Blepc%C3%B3w
 
 ---
 
