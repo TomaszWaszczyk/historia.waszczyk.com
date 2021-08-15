@@ -16,6 +16,14 @@ draft: false
 <a href="./documents/august/Debauch-the-Currency.pdf" target="_blank">Who Said “Debauch the Currency”:
 Keynes or Lenin?</a>
 
+---
+
+BBC's lie:
+
+<img src="./img/august/lie.jpeg"><br><br>
+
+---
+
 ### 2020
 
 One hundred years ago, a fierce battle was fought near Warsaw, which the then British diplomat, Lord d'Abernon, named as the eighteenth most decisive battle in world history. Not only was the war between Poland and Soviet Russia decided there, but also the fate of many European nations, whose existence could have certainly been menaced, had Poland not emerged victorious in 1920. The significance of the Battle of Warsaw, the defeat of the Red Army was reflected in the slogans, under which the Soviets sent its army on a mission to take over Poland:

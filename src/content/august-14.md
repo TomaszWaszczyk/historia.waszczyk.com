@@ -3,10 +3,15 @@ layout: post
 title: 14 sierpnia
 image: img/august/inflacja.png
 author: Tomasz Waszczyk
-date: 2019-08-14T10:00:00.000Z
+date: 2020-08-14T10:00:00.000Z
 tags:
   - Covid
 ---
+
+### 2021
+
+Izrael odwołuje swoją chargé d’affaires z Polski. Jednocześnie polskiemu ambasadorowi w Izraelu dano do zrozumienia, że nie jest tam mile widziany.
+To efekt nowelizacji KPA, którą podpisał dziś Andrzej Duda. Uniemożliwia ona restytucję przedwojennego mienia.
 
 ### 2020
 
