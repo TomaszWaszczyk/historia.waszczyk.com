@@ -40,6 +40,19 @@ Glapiński: Chciałbym, żeby złoto w jeszcze większym stopniu znalazło się 
 
 Podwojenie rezerw złota i sprowadzenie ich części do Polski to nie koniec „złotych planów” kreślonych przez prezesa NBP Adama Glapińskiego. Jego zdaniem, udział kruszcu w polskich rezerwach walutowych powinien się podwoić.
 
+### 1940
+
+Dziś Niemcy usunęli pomnik Adama Mickiewicza. To jest wielki cios dla Polaków. Gdy zdejmowano pomnik, przyleciały bociany i krążyły nad rynkiem, co jest bardzo dziwne.
+--- zapis pochodzi z pamiętnika Ireny Szczęście, żydowskiej dziewczynki.
+
+<img src="./img/august/mickiewiczniemcy.jpg"><br><br>
+
+Foto: 17 sierpnia 1940. Kraków. Niemcy niszczą pomnik Adama Mickiewicza.
+
+### 1945
+
+https://en.wikipedia.org/wiki/Raoul_Wallenberg
+
 ### 1920
 
 W USA została wprowadzona prohibicja. Dziś ustawę o prohibicji uważa się za jedno z najgłupszych rozwiązań prawnych XX wieku.

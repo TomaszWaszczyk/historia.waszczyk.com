@@ -40,6 +40,12 @@ Do internetu trafiła tzw. lista Wildsteina, czyli spis nazwisk i sygnatur z kat
 
 https://pl.wikipedia.org/wiki/Traktat_nicejski
 
+### 1983
+
+Biały Dom, spotkanie Ronalda Reagana z przedstawicielami „afgańskich wojowników wolności”, w celu omówienia sowieckich zbrodni wojennych w trakcie interwencji w tym kraju. Dla prezydenta USA mudżahedini są cennymi sojusznikami w „wojnie zastępczej” ze Związkiem Radzieckim, ich własne islamskie plany po przejęciu władzy są mniej istotne. Amerykanie w dozbrajanie muzułmańskich partyzantów zainwestują setki milionów dolarów, a w celu zniwelowania sowieckiej  przewagi w powietrzu przekażą im nawet przenośne pociski Stinger. Bazą do działań bojowników jest sąsiedni Pakistan – wszystko za cenę „planu pomocy” wartego ponad trzy miliardy dolarów i wycofania sprzeciwu Waszyngtonu wobec programu atomowego Islamabadu. Kilkanaście lat później, już po ostatecznej klęsce Moskwy i dekompozycji stronnictw mudżahedińskich, władzę w Kabulu przejmą wspierani przez Pakistan talibowie, ogłaszając powstanie islamskiego emiratu. Tych Wuj Sam zdecyduje się pozbawić władzy w 2001 roku, po atakach na World Trade Center. Amerykańskie złudzenia, że górzysty Afganistan można zdobyć i trwale utrzymać, potrwają dłużej niż sowieckie – całe dwadzieścia lat. Zdjęcie: Michael Evans, Ronald Reagan Presidential Library, U.S. National Archives and Records Administration/domena publiczna.
+
+<img src="./img/february/algancscywojownicy.jpg"><br><br>
+
 ### 1946
 
 Norweg Trygve Lie został wybrany pierwszym sekretarzem generalnym ONZ.

@@ -48,6 +48,10 @@ Zmarła 7 marca 1995 roku w Łodzi.
 
 <img src="./img/january/herman.jpg"/><br><br>
 
+### 1264
+
+https://pl.wikipedia.org/wiki/Statut_kaliski
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

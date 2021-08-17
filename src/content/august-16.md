@@ -3,10 +3,16 @@ layout: post
 title: 16 sierpnia
 image: img/august/powstanie_slaskie.jpg
 author: Tomasz Waszczyk
-date: 2019-08-16T10:00:00.000Z
+date: 2020-08-16T10:00:00.000Z
 tags:
   - Wielki Strajk Chłopski
 ---
+
+### 2021
+
+Amerykanie opuszczają Afganistan a to jest efekt:
+
+<img src="./img/august/efektdzialanamerykanskich.jpg"><br><br>
 
 ### 2020
 
@@ -25,6 +31,13 @@ Białoruś
 Nixon severs convertibility between US dollar and gold.
 
 <img src="./img/august/goldnixon.jpeg"><br><br>
+
+### 1945
+
+W Moskwie delegacje polska i radziecka podpisały umowę na podstawie której wschodnią granicą Polski stała się tzw "Linia Curzona (nazwana od nazwiska brytyjskiego ministra spraw zagranicznych lorda Georgea Curzona ,który pierwszy w 1919 roku uznał zachodnią granicę Rosji z 1795 roku za linię demarkacyjną rozdzielającą wojska polskie i rosyjskie).
+Z polskiej strony porozumienie podpisał premier Tymczasowego Rządu Jedności Narodowej Edward Osóbka Morawski. Stronę rosyjską reprezentował minister spraw zagranicznych Wiaczesław Mołotow.
+
+<img src="./img/august/curzon.jpg"><br><br>
 
 ### 1943
 

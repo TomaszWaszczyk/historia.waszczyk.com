@@ -24,6 +24,15 @@ Your browser does not support the video tag.
 
 https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
+### 1944
+
+Z lotniska w Brindisi wystartował samolot Liberator KG 890GR-S z załogą
+w składzie: piloci - kpt. Zbigniew Szostak, plut.Józef Bielicki; nawigator: kpt. Stanisław Daniel; radiotelegrafista: plut. Józef Witek; bombardier: plut. Tadeusz Dubowski; mechanik pokładowy: plut. Wincenty Rutkowski; strzelec: plut. Stanisław Malczyk - na pokładzie.
+Lotnicy mieli za zadanie wykonanie zrzutu w okolicach Pałacu Krasińskich w Warszawie.Jednak w drodze powrotnej nad Puszczą Niepołomicką dopadła go eskadra niemieckich myśliwców.Niemiecki as Luffwaffe pilot Gustaw Eduard Frasci oddał celny strzał w kierunku polskiej załogi. Dowódca Liberatora Zbigniew Szostak rozkazał załodze ewakuować się i wtedy doszło do tragicznego wypadku. Spadochrony lotników z powodu zbyt niskiego pułapu nie otworzyły się. Jedynego lotnika, którego spadochron nie zawiódł zestrzelono.
+Żołnierze miejscowego oddziału AK kapitana Stanisława Sasaka ("Wir") chcieli zabezpieczyć zwłoki członków załogi Liberatora i sprzęt. Jednak okoliczna ludność z Nieszkowic rozkradła, co się dało unieść. Później partyzanci odebrali zagrabione mienie, w tym rzeczy osobiste pilotów. Mimo zakazu wydanego przez Niemców poległym urządzono na cmentarzu w Pogwizdowie uroczysty pogrzeb. Na ich grobach stanął brzozowy krzyż wykonany przez chłopów ze wsi Zawady.
+
+<img src="./img/august/brindisi.jpg"><br><br>
+
 ### 1941
 
 ,,Kości ludzkie są najważniejszym fundamentem pod dzieła Boże'' - powiedział bratu Arnoldowi w styczniu 1941 roku, przed swoim aresztowaniem, jakby widząc przyszłość, w której koło krematorium oświęcimskim można jeszcze znaleźć niedopalone kości ludzkie. Stały się relikwią przez obecność w nim kości świętego.  --- Krzysztof Kąkolewski ,,Węzły Wojny''.

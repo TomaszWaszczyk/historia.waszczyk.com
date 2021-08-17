@@ -49,6 +49,17 @@ Communist totalitarian rule collapsed. However, thinking in imperialist categori
 
 Andrzej Nowak, historian, Jagiellonian University/Polish Academy of Sciences
 
+### 1950
+
+W lasach w okolicach Janowa Lubelskiego miała miejsce obława, której celem było schwytanie żołnierzy oddziału Narodowego Zjednoczenia Wojskowego pod dowództwem Adama Kusza "Garbatego" ( zdjęcie) . W operacji tej udział wzięło 3 tysiące żołnierzy Korpusu Bezpieczeństwa Wewnętrznego, funkcjonariusze Urzędu Bezpieczeństwa oraz Milicji Obywatelskiej.
+Akcja była wynikiem prowokacji ze strony komunistów, którym do oddziału " Garbatego " udało się wprowadzić szpiegów- Tadeusza Mikszę „Wampira” oraz Wacława Topolskiego „Jabłońskiego”, podającego się za „kapitana” z Komendy Okręgu WiN Lublin. W ramach gry operacyjnej w lipcu 1950 r. oddziałowi przekazano radiostację, którą obsługiwali dwaj radiotelegrafiści. Pod pozorem przesyłania meldunków organizacyjnych przekazywali UB dane dotyczące stanu liczebnego, uzbrojenia i miejsca pobytu oddziału.
+Tak o tym wydarzeniu mówił ujęty przez UB w roku 1961, w lasach w okolicach Huty Krzeszowskiej Andrzej Kiszka "Dąb" - żołnierz NOW, oddziału Franciszka Przysiężniaka ,,Ojca Jana'', następnie NZW Józefa Zadzierskiego ''Wołyniaka:
+" W lipcu 1950 r. „Garbaty” nawiązał kontakt z ludźmi podobno godnymi zaufania. Dostarczyli nam pieniądze na zakup żywności, obiecali wyrobić lewe dokumenty na wyjazd na Zachód. „Kapitan” miał być z Komendy Okręgu WiN Lublin. Z jego to inicjatywy, celem utrzymania kontaktu z Zachodem, dostarczono do oddziału radiostację i dwuosobową obsługę. Niestety, okazało się, że byli to agenci UB, a radiostacja służyła do lokalizacji naszego miejsca postoju.
+15 sierpnia 1950 r. lasy janowskie zostały okrążone przez KBW, UB, MO w ilości trzech tysięcy żołnierzy. Dowódca rozdzielił nas na dwie grupy, ja z pięcioma kolegami poszedłem oddzielnie. „Garbaty” z resztą oddziału i radiotelegrafistami poszedł w przeciwnym kierunku. Uciekaliśmy w stronę lasów lipskich. Udało nam się przejść przez okrążenie. W trzecim dniu przeprawiliśmy się, idąc bagnami.
+„Garbaty” znal lasy janowskie jak własną kieszeń, z całą pewnością przeszedł przez okrążenie, z całą pewnością został zamordowany wraz z kolegami przez radiotelegrafistów-ubeków".
+
+<img src="./img/august/janowlubelski.jpg"><br><br>
+
 ### 1971
 
 https://en.wikipedia.org/wiki/Nixon_shock
