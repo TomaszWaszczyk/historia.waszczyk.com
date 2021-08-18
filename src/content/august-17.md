@@ -3,7 +3,7 @@ layout: post
 title: 17 sierpnia
 image: img/august/usadep.png
 author: Tomasz Waszczyk
-date: 2019-08-17T10:00:00.000Z
+date: 2020-08-17T10:00:00.000Z
 tags:
   - Recesja
 draft: false  

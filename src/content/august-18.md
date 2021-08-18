@@ -3,10 +3,26 @@ layout: post
 title: 18 sierpnia
 image: img/august/WasserkraftwerkamDnjepr.jpg
 author: Tomasz Waszczyk
-date: 2019-08-18T10:00:00.000Z
+date: 2020-08-18T10:00:00.000Z
 tags:
   - Saul Wahl
 ---
+
+### 2021
+
+> “Zaszczepienie się szczepionkami zaaprobowanymi przez kompetentne władze jest aktem miłości. I przyczynienie się do tego, by większość osób zaszczepiło się jest aktem miłości; miłości do siebie samych, do rodziny i przyjaciół, miłości do wszystkich narodów” - Papież Franciszek
+
+### 1944
+
+Wojska radzieckie II Frontu Ukraińskiego zajęły Sandomierz. Główną formacją opanowującą miasto był 1180 Pułk Strzelców pod dowództwem podpułkownika Wasyla Skopenki.  Walki na przyczółku sandomierskim pociągnęły za sobą wiele ofiar po obu stronach frontu.
+Radziecki dowódca tak pisał o tym wydarzeniu w liście do żony Anny:
+"„Podeszliśmy pod jedno z bardzo pięknych miast. Położone jest ono nad stromym brzegiem szerokiej rzeki. Ludzie tam, Aniu, ja wierzę, są dobrzy. Czegoż oni nie wycierpieli w tej niewoli. Faszyści tak łatwo stąd nie odejdą. A tak by się chciało, żeby piękne miasto nie było obiektem działań. W ogóle chciałoby się, żeby Ziemia nasza była nie w ogniu, lecz w kwiatach..."
+24 stycznia 1945 roku Skopenko otrzymał awans na stopień pułkownika. Zginął trzy dni później 27 stycznia 1945 roku podczas walk o Wrocław. W szpitalu konając powiedział:
+"Pochowajcie mnie na brzegu Wisły, w Sandomierzu. To miasto i ludzie są dla mnie najbliższą rodziną”.
+
+<img src="./img/august/sandomierz.jpg"><br><br>
+
+Zdjęcie: tablica nagrobna pułkownika Skopenki
 
 ## 1941
 

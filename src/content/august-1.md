@@ -18,6 +18,14 @@ Witten, Magik (Piotr Łuszcz), Fokus (Wojciech Alszer) i Rahim (Sebastian Salber
 
 <img src="./img/august/magik.jpg"><br><br>
 
+### 1972
+
+Fabryka Autobusów w Jelczu zakupiła licencję na produkcję autobusu Berliet PR-100.
+Autobus ten znany w Polsce pod nazwą Jelcz Berliet PR -100 lub jak kto woli "Stodoła", był jak na tamte czasy nowoczesną konstrukcją, która doskonale odpowiadała wymaganiom państwowych wówczas firm przewozowych. Posiadał on kanciastą linię nadwozia, duże okna, szerokie drzwi. Zainstalowanie silnika na zwisie tylnym i zastosowanie napędu osi tylnej pozwalało na obniżenie przebiegu podłogi do wartości około 500 mm w drzwiach przednich oraz około 700 mm w drzwiach środkowych.
+Jego produkcję zakończono w 1975 roku, a zastąpił go model o nazwie Jelcz Berliet PR 110U.
+
+<img src="./img/august/jelcz.jpg"><br><br>
+
 ### 1944
 
  https://pl.wikipedia.org/wiki/Powstanie_warszawskie
@@ -101,7 +109,8 @@ Heinz Reinefarth był cenionym burmistrzem w Westerland na wyspie Sylt i posłem
 ---
 
 1944 roku w Berlinie miała miejsce rozmowa Heinricha Himmlera z Adolfem Hitlerem, w czasie której ten pierwszy powiedział:
-" Mój Führerze, moment jest niekorzystny. Uważam wszakże za szczęśliwe zrządzenie losu, że Polacy to czynią . Za 5-6 tygodni opuścimy te obszary. Wtedy jednak zniszczona będzie Warszawa, stolica i serce tego 16-17 milionowego narodu, który od siedmiuset lat blokuje wschód, a od bitwy pod Grunwaldem stale zagradza nam drogę w tym kierunku. Warszawa zostanie zniszczona wraz z jej inteligencją . W konsekwencji problem polski przestanie być wielkim problemem dla naszych dzieci, dla dalszych potomków, a nawet już dla nas."
+
+> Mój Führerze, moment jest niekorzystny. Uważam wszakże za szczęśliwe zrządzenie losu, że Polacy to czynią . Za 5-6 tygodni opuścimy te obszary. Wtedy jednak zniszczona będzie Warszawa, stolica i serce tego 16-17 milionowego narodu, który od siedmiuset lat blokuje wschód, a od bitwy pod Grunwaldem stale zagradza nam drogę w tym kierunku. Warszawa zostanie zniszczona wraz z jej inteligencją . W konsekwencji problem polski przestanie być wielkim problemem dla naszych dzieci, dla dalszych potomków, a nawet już dla nas.
 
 ---
 

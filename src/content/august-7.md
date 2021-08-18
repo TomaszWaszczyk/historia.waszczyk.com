@@ -35,6 +35,14 @@ Stanisław Prauss wspominał tamten rekordowy lot:
 
 <img src="./img/august/zwirek.jpg"><br><br>
 
+### 1862
+
+Polski bohater Ludwik Ryll dokonał pierwszego z dwóch nieudanych zamachów na naczelnika Rządu Cywilnego margrabiego Aleksandra Wielopolskiego (zdjęcie). Próbował on strzelić do wychodzącego z budynku Komisji Skarbu Wielopolskiego, ale nie wypalił mu pistolet. 8 dni pózniej inny polski zamachowiec Jan Rzońca dokonał próby zasztyletowania go. To również się nie udało.
+Niedługo po tym obaj zamachowcy zostali schwytani wyrokiem Sądu Wojennego skazani na karę śmierci przez powieszenie. 26 sierpnia
+1862 roku zostali straceni na stokach Cytadeli.
+
+<img src="./img/august/wielopolski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-7.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -53,6 +53,17 @@ Foto: 17 sierpnia 1940. Kraków. Niemcy niszczą pomnik Adama Mickiewicza.
 
 https://en.wikipedia.org/wiki/Raoul_Wallenberg
 
+---
+
+W nakładzie 4500 egzemplarzy w Wielkiej Brytanii ukazała się powieść "Folwark zwierzęcy" George’a Orwella.
+Orwell, jak stwierdził w ukraińskiej przedmowie do wydania Folwarku zwierzęcego, chciał stworzyć opowieść demaskującą sowiecki mit, którą mógłby zrozumieć każdy.
+Ksiązkę Orwell ukończył pod koniec 1944 r. lecz kilku wydawców odmówiło jej publikacji ze względu na sugestię pochodzącą z brytyjskiego Ministerstwa Informacji, które zaznaczało jej antyrosyjski charakter. Dziś uważa się, że osobą odpowiedzialną za wydanie takiej opinii był Peter Smolka - dziennikarz, wydawca i agent sowiecki.
+W Polsce powieść była niemal do końca PRLu zakazana przez cenzurę, pierwsze jej krajowe wydanie ukazało się w 1988 r. 
+Ponadczasowe:
+"Zwierzęta w ogrodzie patrzyły to na świnię, to na człowieka, potem znów na świnię i na człowieka, ale nikt już nie mógł się połapać, kto jest kim."
+
+<img src="./img/august/animal.jpg"><br><br>
+
 ### 1920
 
 W USA została wprowadzona prohibicja. Dziś ustawę o prohibicji uważa się za jedno z najgłupszych rozwiązań prawnych XX wieku.

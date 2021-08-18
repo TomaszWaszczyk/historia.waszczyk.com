@@ -39,6 +39,12 @@ Szacuje się, że wprowadzenie zmian w rolnictwie doprowadzi to tego, że niekt�
 
 ---
 
+### 1946
+
+W okolicach Więcborka w województwie kujawsko-pomorskim funkcjonariusze Urzędu Bezpieczeństwa Publicznego zorganizowali obławę na podporucznika Emila Cuprysia (zdjęcie) byłego żołnierza 24 Dywizji Piechoty Armii Krajowej, uczestnika Akcji "Burza", działacza podziemia antykomunistycznego.  Cupryś był twórcą i dowódcą oddziału pod nazwą Żandarmeria Polowa, którego żołnierze zajmowali się walką z oddziałami sowieckimi dokonującymi gwałtów na Polkach i rabunków polskiego mienia. Najprawdopodniej na skutek donosu jego oddział został zdemaskowany, w on sam w lipcu 1945 roku trafił do więzienia w Bydgoszczy, z którego wkrótce uciekł w okolice Więcborka. Przyjmując pseudonim "Hardy" ponownie podjął działalność dywersyjną i propagandową. Wpadł w ubecką pułapkę podczas spotkania z łącznikiem w Więcborku. Został zastrzelony podczas próby ucieczki. Miał 21 lat.
+
+<img src="./img/august/emilacuprysia.jpg"><br><br>
+
 ### 1943
 
 W łódzkim getcie zmarł z powodu wycieńczenia, niedożywienia i zapalenia płuc 
