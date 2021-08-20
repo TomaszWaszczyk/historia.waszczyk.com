@@ -23,6 +23,23 @@ Warszawa, 22.05.2020 (ISBnews) - Sprzedaż detaliczna (w cenach stałych) spadł
 
 <img src="./img/may/pizzaday.jpg"><br><br>
 
+### 1943
+
+"W środku sali, gdzie dawano program, usłyszałem strzał -najpierw jeden, potem drugi, trzeci, czwarty, piąty... O parę kroków ode mnie, po prawej stronie zrobił się zgiełk. Przewracano stoły, naczynia, stołki, butelki. Wycie i krzyki. Po kilku minutach grupa żołnierzy poruszonych do ostatnich granic utorowała sobie przejście wśród tłumu krzycząc: 'Zamach' i trzymając rewolwery
+w ręku. Wysoki młodzieniec z twarzą zbroczoną krwią padł na ziemię, gdy rzucono w niego kilkoma krzesłami" - wspominał
+Alceo Valcini włoski dziennikarz przebywającego wtedy w Warszawie. Niemcy rzucili się na niego i zmasakrowali, bijąc flaszkami i stołkami.
+Przy mnie wyzionął ducha, w swym
+brązowym ubraniu, za obszernym jak na gruźlika. Zmarł, gdy agent gestapo usiłował wydobyć od niego jakąś tajemnicę".
+22 maja 1943 roku 21 letni Jan Kryst ps Alan ( zdj.) dokonał zamachu na lokal Adria w Warszawie,w którym spotykali się Gestapowcy.
+Była to planowa akcja AK.
+Kryst przed śmiercią zabił kapitana oraz dwóch poruczników gestapo (meldunek niemiecki wymienia dwóch urzędników cywilnych gestapo i kaprala) oraz prawdopodobnie ranił dwóch innych.
+Niemcy natychmiast rozpoczęli śledztwo -aresztowano personel lokalu a do "Adrii" przybył gubernator Warszawy gen. Ludwig
+Fischer. Hitlerowcy byli przekonani, że zamachowiec był Żydem z getta. Ciało "Alana" przewieziono do kostnicy przy ul. Oczki, skąd zostało wykradzione przez
+żołnierzy podziemia i pochowane na cmentarzu Wolskim.
+Za ten czyn Alan został pośmiertnie odznaczony Krzyżem Walecznych.
+
+<img src="./img/may/alan.jpg"><br><br>
+
 ### 1919
 
 Obrona Lwowa – polsko-ukraiński konflikt zbrojny o Lwów, trwający od 1 listopada 1918 do 22 maja 1919 roku, zakończony zniesieniem ukraińskiego okrążenia. Walki o Lwów rozpoczęły się od opanowania 1 listopada przez żołnierzy austro-węgierskich pochodzenia ukraińskiego większości gmachów publicznych we Lwowie. Proklamowano utworzenie Zachodnioukraińskiej Republiki Ludowej. Przeciw temu aktowi agresji  wystąpili polscy mieszkańcy Lwowa, w tym młodzież, nazwana później Orlętami Lwowskimi. W późniejszym okresie wsparcia udzieliło im powstające Wojsko Polskie. Pierwszy etap konfliktu 1918–1919 roku zakończył się w nocy z 22 na 23 listopada 1918 roku, zmuszeniem do wycofania się oddziałów Armii Halickiej ze Lwowa. Jednak wycofanie miasta nie oznaczało jeszcze obrony Lwowa. Rozpoczęło się oblężenie miasta. Wobec ofensywy Wojska Polskiego wojska ukraińskie  wycofały się 22 maja 1919 i przestały oblegać Lwów. Miasto zostało obronione, ale nie na zawsze. W 1939 roku utracono je i nie wróciło do teraz do Rzeczpospolitej. Obecnie Lwów leży w granicach Ukrainy.

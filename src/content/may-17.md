@@ -79,6 +79,15 @@ Ponad pół miliona ludzi przeszło z Błoń do Rynku Głównego, gdzie pod koś
 
 <img src="./img/may/bialymarsz.jpg"><br><br>
 
+### 1972
+
+W Bonn Bundestag zatwierdził ustalenia podpisanego w Warszawie 7 grudnia 1970 roku przez premiera Józefa Cyrankiewicza i kanclerza Willy Brandta układu między Polską Rzeczpospolitą Ludową, a Republiką Federalną Niemiec o podstawach normalizacji ich wzajemnych stosunków” . 
+Postanowienia tego układu, w którym zapisano, iż obie strony uzają granicę na Odrze i Nysie Łużyckiej nigdy nie zostały oficjalnie zapisane w konstytucji RFN, a co za tym idzie, oznaczało to brak oficjalnego uznania przez Zachodnie Niemcy oddania Polsce swoich wschodnich terenów.
+
+<img src="./img/may/bonn.jpg"><br><br>
+
+RFN GmbH
+
 ### 1944
 
 Wywizje 2 Korpusu Polskiego pod dowództwem generała Władysława Andersa przystąpiły do rozpoczęcia głównego szturmu na opanowane przez Niemców wzgórze Monte Cassino i znajdujący się na nim klasztor.

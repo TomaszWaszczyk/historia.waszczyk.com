@@ -50,6 +50,23 @@ Po analizie sytuacji związanej z nadejściem Armii Czerwonej, generał „Bór�
 
 1649 roku w czasie powstania Chmielnickiego pod Łojowem (obecnie Białoruś) liczące 5 tysięcy żołnierzy wojska litewskie hetmana polnego Janusza Radziwiłła pokonały 17 tysięczną armię kozacką Stanisława Krzeczkowskiego.
 
+---
+
+Premier Stanisław Mikołajczyk podczas rozmowy z sowieckim ministrem spraw zagranicznych Wiaczesławem Mołotowem stwierdził:
+"Pomimo braku stosunków polsko-sowieckich Rząd Polski, kierując walką z Niemcami w Kraju, pracowował nad konkretnymi planami wojskowego współdziałania pomiędzy Armią Krajową, a wojskami sowieckimi, w decydującej fazie działań wojennych na ziemiach polskich. Związane z tym nasze projekty zostały przedstawione Brytyjczykom i Amerykanom z prośbą o zaznajomienie się z nimi strony sowieckiej. Faktyczne współdziałanie trwa jednak już znacznie dłużej, zgodnie z instrukcjami Rządu Polskiego dla Armii Krajowej".
+
+<img src="./img/july/mikolajczyk.jpg"><br><br>
+
+---
+
+### 1943
+
+Podczas żniw w kolonii  Przebraże powiat Łuck nastąpił atak około 3500 Ukraińców, w tym 2,5 tys. uzbrojonych w broń  palną oraz około 1 tysiąca uzbrojonych w dzidy, siekiery, drągi, noże. Komendant Henryk Cybulski rzucił do boju wszystkie siły samoobrony (3 kompanie). Do walki byli gotowi nawet cywile uzbrojeni w broń białą. Front walk rozciągnął się na kilka kilometrów. Walki trwały do wieczora. Z bitwy zwycięsko wyszli Polacy - pocisk wystrzelony z 45-mm działka trafił w skład ukraińskiej amunicji, to zmusiło Ukraińców do odwrotu. 
+
+<img src="./img/july/cybulski.jpg"><br><br>
+
+Foto: Henryk Cybulski, porucznik AK, komendant samoobrony Przebraża.
+
 ### 1940
 
 W Olkuszu miała miejsce tzw "Krwawa środa"-akcja przeprowadzona przez Niemców w odwecie za zabicie jednego niemieckiego żandarma.Wszystkich mężczyzn z Olkusza spędzono na rynek główny i poddawano ich torturom w tym wielogodzinnym leżeniu w upale.

@@ -33,6 +33,19 @@ Ogłoszony przez komunistyczną polską propagandę pierwszym przodownikiem prac
 
 <img src="./img/july/jadwiga.jpg"><br><br>
 
+### 1941
+
+We Lwowie zakończyły się "Dni Petlury" czyli pogrom około 2000 Żydów inspirowany przez Niemców, a wykonany rękoma ukraińskich szowinistów z milicji ukraińskiej i OUN-B.
+Nazwa "Dni Petlury"pochodzi od zamordowanego w 1926 roku przez żydowskiego agenta  OGPU byłego prezydenta Ukrainy Semena Petlury.
+
+<img src="./img/july/petlura.jpg"><br><br>
+
+### 1794
+
+Podczas insurekcji kościuszkowskiej wojska pruskie wykorzystując całkowite zaskoczenie Polaków zdobyły ich pozycje na Woli. Pomógł im w tym polski jeniec, który zdradził polskie plany. Siłą dwóch batalionów wojska pruskie wspierane przez huzarów uderzyły na oddziały generała Józefa Zajączka broniące reduty wolskiej. Polacy, prowadząc szarżę próbowali bezskutecznie odzyskać utracone pozycje. Pokonali ich wspierający Prusaków Ukraińcy z I Ukraińskiej Brygady Kawalerii Narodowej.
+
+<img src="./img/july/insurekcja2.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-27.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

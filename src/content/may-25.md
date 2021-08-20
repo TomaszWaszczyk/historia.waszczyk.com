@@ -36,6 +36,21 @@ Gdyby w naszym kraju panowała elementarna sprawiedliwość, Roch zgniłby w wi�
 
 GDPR rusza w Polsce.
 
+### 1953
+
+Na amerykańskim poligonie atomowym Nevada Test Site z działa M65 Atomic Annie wystrzelono po raz pierwszy pocisk atomowy.
+Po zakończeniu II wojny światowej Amerykanie zintensyfikowali prace nad rozwojem arsenału nuklearnego. Oprócz bomb lotniczych planowano wprowadzić do uzbrojenia również mniejsze rodzaje uzbrojenia atomowego. Testowano wiele nośników broni nuklearnej a wśród nich jednym z ciekawszych jest działo atomowe M65 nazywane często Atomic Annie.
+Prace nad systemem artyleryjskim M65 rozpoczęły się w 1949 roku pod kierownictwem Roberta Szwartza w Picatinny Arsenal. W maju 1950 roku rozpoczęto budowę prototypowego działa w Watervliet Arsenal. Otrzymało ono oznaczenie 280 mm Gun T131 i miało być przystosowane do wystrzeliwania pocisków T124 wyposażonych w 15-kilotonowe głowice.
+Równocześnie firma Kenworth Motor Company rozpoczęła budowę ciągników artyleryjskich M249 4×4 Heavy Gun-Lifting Front i M250 4×4 Heavy Gun-Lifting Rear Truck przeznaczonych dla całego zestawu. Każde działo miało być holowane przez dwa pojazdy, oba dysponujące własnym systemem kierowania. Dzięki temu ustawienie działa na pozycji było łatwiejsze.
+Każdy z ciągników posiadał 6-cylindrowy silnik Continental AO-895-4 o mocy 375 KM, pozwalający na osiągnięcie prędkości około 70 km/h. M249 ważył 19 ton a M250 18 ton. Warto dodać, że ustawienie działa na pozycji i przygotowanie do działania zajmowało 12 minut, a złożenie zestawu zajmowało 15 minut. Cały zestaw ważył 86 ton.
+Wiosną 1951 roku gotowe działo zamontowano na specjalnym łożu T72 Gun Carriage i rozpoczęto testy fabryczne zestawu. Były one na tyle udane, że wojsko zamówiło 20 zestawów artyleryjskich jeszcze zanim przeprowadzono próbne strzelanie pociskami atomowymi. Koszt jednego zestawu wynosił 800 000 dolarów (współcześnie około 7 mln dolarów).
+25 maja 1953 roku jeden zestaw M65 wysłano na próby na poligonie Nevada Test Site, a dokładnie na równinę Frenchman. W ramach operacji Upshot-Knothole w trakcie której planowano zdetonować 11 urządzeń nuklearnych, M65 miało oddać swój pierwszy i jak się później okazało ostatni strzał.
+O godzinie 8.30 rano, M65 wystrzelił pocisk z 15-kilotonową głowicą na odległość około 11 km (maksymalny zasięg działa T131 to 32 km, ale niektórzy wojskowi sugerowali, że faktyczny zasięg wynosił aż 56 km). Pocisk wybuchł 160 m nad ziemią bardzo blisko punktu celowania.
+Próba zakończyła się pomyślnie, w związku z tym zestawy M65 postanowiono wysłać do Korei i Europy. Kariera Atomic Annie (nieoficjalna nazwa zestawu) szybko dobiegła jednak końca, wraz z opracowaniem lżejszych i mniejszych pocisków z ładunkami nuklearnymi, dla dział kalibru 203 i 155 mm. W związku z tym wszystkie M65 wycofano z eksploatacji, a 12 zezłomowano. Pozostałe 8 można znaleźć w różnych muzeach w USA.
+Warto dodać, że równolegle z M65 opracowano pociski z ładunkami nuklearnymi przystosowane do wystrzeliwania z armat kalibru 406 mm w które uzbrojone były pancerniki typu Iowa.
+
+<img src="./img/may/m65.jpg"><br><br>
+
 ### 1948
 
 O godz. 21.30 w obecności Wiceprokuratora Naczelnej Prokuratury Wojska Polskiego mjr S. Cypryszewskiego, Naczelnika więzienia Mokotowskiego – por. Ryszarda Mońko, lekarza por. dr. Kazimierza Jezierskiego, duchownego – ks. kpt. Wincentego Martusiewicza rozstrzelano Witolda Pileckiego, a ciało potajemnie pogrzebano prawdopodobnie na tzw. „Łączce” dziś kwatera „Ł” cmentarza Powązkowskiego. Wyrok śmierci na rotmistrzu Pileckim osobiście wykonał dowódca jednoosobowego plutonu egzekucyjnego Piotr Śmietański. Kat Śmietański za pozbawienie życia rotmistrza Pileckiego otrzymywał kwotę tysiąca złotych. Mordu dokonano na podstawie wyroku sądu wojskowego, który zapadł 15 marca 1948 r. Unieważnienie wyroku nastąpiło w 1990 roku.
@@ -61,6 +76,19 @@ Heinrich Himmler w swoim tajnym memorandum pt "Traktowanie obcych rasowo na wsch
 ### 1926
 
 Kaczyńskich nauczał Jan Józef Lipski: https://pl.wikipedia.org/wiki/Jan_J%C3%B3zef_Lipski
+
+### 1921
+
+III powstanie śląskie: Zakończyła się nierozstrzygnięta bitwa w rejonie Góry św. Anny (21-26 maja).
+Walki o Górę Świętej Anny, toczone w trakcie III powstania śląskiego były punktem wyjścia dla Niemców, bez kontroli nad tym wzniesieniem i drogami biegnącymi w stronę Okręgu Przemysłowego, nie można było myśleć o sukcesie. Stąd tak duża zaciętość tych walk, które trwały prawie pięć dni.
+20 marca 1921 roku odbył się plebiscyt. W głosowaniu dopuszczono udział osób, które wcześniej wyemigrowały ze Śląska. W tym celu z Niemiec przyjechało 182 tys. emigrantów, z Polski -10 tys. Ostatecznie w plebiscycie wzięło udział ok. 97 proc. uprawnionych osób, z czego ok. 19 proc. stanowili wcześniejsi emigranci. Za przynależnością do Polski głosowała mniejszość, 40,3 proc. głosujących.
+Komisja Plebiscytowa zdecydowała o przyznaniu prawie całego obszaru Niemcom. Na tę wieść wcześniejsze pojedyncze strajki niezadowolonych z trudnych warunków materialnych i bezrobocia mieszkańców regionu przekształciły się 2 maja w strajk generalny.
+W nocy z 2 na 3 maja rozpoczęło się III powstanie. Na jego czele stanął znany działacz społeczny, a wcześniej komisarz plebiscytowy Wojciech Korfanty. - Zwycięstwo osiągniemy za wszelka cenę i nie ma takiego mocarza na świecie, który by mógł nas okuć ponownie w kajdany germańskie - pisał 3 maja w odezwie do rodaków Korfanty.
+III powstanie śląskie było ostatnim zbrojnym zrywem polskiej ludności na Śląsku w latach 1919-1921. Ważyła się wtedy sprawa przynależności państwowej tego obszaru, należącego wcześniej do państwa niemieckiego. Powstanie niepodległej Polski w 1918 roku wzmogło działający tam polski ruch narodowy, zwalczany przez niemiecką administrację i wojsko.
+Walki trwały dwa miesiące - powstańcy zdołali opanować prawie cały obszar plebiscytowy, później broniąc go przed siłami niemieckimi. Najpoważniejsze starcia miały miejsce w okolicach Góry św. Anny. W III powstaniu śląskim wzięło udział około 60 tys. Polaków -1218 spośród nich poległo, 794 odniosło rany.
+W wyniku tego zrywu Rada Ambasadorów zdecydowała o korzystniejszym dla Polski podziale Śląska. Z obszaru plebiscytowego, czyli ponad 11 tys. km kw., zamieszkanego przez ponad 2 mln ludzi, do Polski przyłączono 29 procent terenu i 46 procent ludności. W Polsce znalazły się m.in. Katowice, Świętochłowice, Królewska Huta (obecny Chorzów), Rybnik, Lubliniec, Tarnowskie Góry i Pszczyna. Podział był też korzystny dla Polski gospodarczo - na przyłączonym terenie znajdowały się 53 z 67 istniejących kopalni, 22 z 37 wielkich pieców oraz 9 z 14 stalowni.
+
+<img src="./img/may/swanna.jpg"><br><br>
 
 ### 1918
 

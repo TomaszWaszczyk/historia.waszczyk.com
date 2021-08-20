@@ -9,9 +9,17 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+Standardowe wiadomości jakie można było zobaczyć w bieżącym roku, znaczy procent społczeństwa nie widzi problemu.
+
+<img src="./img/august/zmartwychwstanie.png"><br><br>
+
 ### 2020
 
 U.S. industrial production: two decades of no growth.
+
+<img src="./img/august/usadep.png"><br><br>
 
 ### 1989
 

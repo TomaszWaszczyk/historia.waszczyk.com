@@ -3,7 +3,7 @@ layout: post
 title: 21 sierpnia
 image: img/august/china.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-21T10:00:00.000Z
+date: 2020-08-21T10:00:00.000Z
 tags:
   - China
 draft: false  

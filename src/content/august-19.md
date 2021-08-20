@@ -3,12 +3,16 @@ layout: post
 title: 19 sierpnia
 image: img/august/2-rozbior.png
 author: Tomasz Waszczyk
-date: 2019-08-19T10:00:00.000Z
+date: 2020-08-19T10:00:00.000Z
 tags:
   - Gold
 ---
 
 ### 2021
+
+<img src="./img/august/wiecznewzrosty.jpeg"><br><br>
+
+---
 
 Ashura
 ### 2020

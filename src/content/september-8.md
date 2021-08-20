@@ -114,6 +114,16 @@ Niemieccy kaci spalili Wielką Synagogę w Katowicach
 
 ---
 
+### 1929
+
+> Przewrót bolszewicki za niemieckie pieniądze. - Karol Jaroszynski
+
+Zmarł Karol Jaroszyński - Карл Иосифович Ярошински
+
+Karol Jaroszyński był jednym z najbogatszych Polaków w historii, geniuszem ówczesnego biznesu i bankowości. Po odziedziczeniu, na początku XX wieku, majątku po ojcu, traci niemal wszystkie pieniądze w kasynie w Monte Carlo. Ale w końcu rozbija bank i wygrywa ogromną fortunę. Zaczyna inwestować w przemysł i w krótkim czasie staje się finansowym potentatem. Po wybuchu I wojny światowej w 1914 roku, mając poparcie kół rządowych, zaczął organizować w Rosji przemysł wojenny i uzyskał na ten cel kredyt w Banku Państwa do 400 milionów rubli. W 1917 roku stał na czele wielkiego koncernu, w skład którego wchodziły kopalnie, huty, fabryki, banki, cukrownie, towarzystwa ubezpieczeniowe, towarzystwa kolejowe, lasy, a nawet towarzystwa łowieckie i duże hotele. Wszystko stracił po dojściu do władzy bolszewików. Doradca cara Mikołaja II i Józefa Piłsudskiego. Urodzony i wychowany w Rosji nigdy nie przestał być polskim patriotą. Współzałożyciel Katolickiego Uniwersytetu Lubelskiego. Odznaczony Wielką Wstęgą Orderu Świętego Grzegorza Wielkiego, największym odznaczeniem papieskim, nadawanym osobom świeckim za szczególne zasługi dla Kościoła.
+
+<a href="./documents/september/jaroszynski.pdf" target="_blank">Karol Jaroszyński</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

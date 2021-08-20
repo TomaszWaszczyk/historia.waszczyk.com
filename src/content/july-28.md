@@ -10,6 +10,16 @@ tags:
 
 ### 2020
 
+,,Był wielkim polskim patriotą, chociaż nie był typowym Polakiem. Kulturowo należał do tradycji Morza Śródziemnego, a genealogicznie był Polakiem tylko w niewielkim stopniu. Jego ojciec był pół-Ormianinem, a druga połowa była niemiecko-austriacko-czeska. Prababka Zbyszka ze strony matki była z rodziny niemieckich kolonistów, słabo mówiła po polsku. A on był wychowany w duchu tradycyjnego polskiego patriotyzmu. I jako polski patriota tym bardziej nie mógł się pogodzić z polskością. Bo kochał Polskę idealną, może wyidealizowaną. A Polska jest, jaka jest. I Polacy też są, jacy są. Widział tę naszą małość. Najbardziej ją widział, kiedy wróciliśmy do Polski w latach 90. I to go bolało, bo widział, że ten kraj nie może się podnieść. To był jego osobisty dramat. A ja marzę o jednym: żeby postać Zbyszka nareszcie przestała być używana do robienia taniej polityki przez ludzi, którzy w ostatnich latach życia zaczęli go oklejać. On był zawsze wobec ludzi otwarty, ale pod koniec ta otwartość stała się naiwnością. Stał się bezbronny jak dziecko. I różni cwaniacy go za nos wodzili. Bo dopóki kogoś nie złapał za rękę, to mu bezgranicznie ufał. Ale też jak się do kogoś zniechęcił, jak się zirytował, nie liczył się ze słowami. Po prostu mówił to, co akurat myślał. Nie wszyscy to dobrze znosili. Nie wszyscy rozumieli to, co się z nim wtedy działo. Ale tak z przyjaźniami bywa. Bardzo mądrze powiedział Różewicz: z miłością nie ma problemu. Wybucha, potem jej nie ma. A z przyjaźnią sprawa jest tajemnicza. Są wzloty i upadki. Nie wiadomo dokładnie, kiedy się zaczyna, czasem zamiera, potem się odradza, znów przygasa i znów się odradza. Tylko że nie każde nieporozumienie ludzie zdążą wyjaśnić, nie każda przyjaźń zdąży się odrodzić. W pewnym momencie niestety czas się kończy. A czas Zbyszka się skończył o wiele za wcześnie. Miał tylko 74 lata.''
+(fragment wywiadu udzielonego przez Katarzynę Herbert, wdowę po Zbigniewie Herbercie dla Gazety Wyborczej - 30/12/2000-01/01/2001)
+28 lipca 1998 roku w Warszawie zmarł Zbigniew Herbert- poeta, eseista i dramaturg, podejmujący w swojej twórczości problemy moralno-filozoficzne będące świadectwem duchowego oporu literatury polskiej w okresie jej zniewolenia. Autor zbiorów wierszy Struna światła, Przesłanie Pana Cogito, Raport z oblężonego miasta, Elegia na odejście, a także esejów (Barbarzyńca w ogrodzie, Martwa natura z wędzidłem), dramatów i słuchowisk radiowych. Jego książki zostały przetłumaczone na 38 języków obcych. Herbert był laureatem ponad dwudziestu polskich i zagranicznych nagród literackich m.in. Nagrody Fundacji im. Kościelskich,  Nagrody im. Herdera,  Nagrody Polskiego PEN Clubu im. Jana Parandowskiego, Nagrody im. Brunona Schulza, Nagrody Jerozolimskiej i wielu innych. Od końca lat 60. XX w. był jednym z najpoważniejszych pretendentów do Literackiej Nagrody Nobla. W życiu prywatnym najlepszym przyjacielem Zbigniewa Herbarta był Czesław Miłosz. Katarzyna Herbert, żona poety, o relacjach męża z Czesławem Miłoszem w „wywiadzie rzece” dla Gazety Wyborczej z 2000 roku powiedziała: ,, Oni byli sobie naprawdę bardzo bliscy. To było coś więcej niż znajomość albo nawet przyjaźń. Zbyszek w jakiś sposób kochał Miłosza i jestem przekonana, że Czesław – chociaż dziś może by się tego wyparł – darzył Zbyszka prawdziwym uczuciem. A przy tym Zbyszek był jednym z niewielu ludzi, których tolerowała żona Czesława Janka, bardzo dbająca o to, żeby różni polscy literaci Czesława nie nachodzili. A Zbyszek był u Miłoszów zawsze mile widziany (...)''.
+
+<img src="./img/july/pancogito.jpg"><br><br>
+
+Zbigniew Herbert spoczął na Cmentarzu Powązkowskim w Warszawie. Miał 74 lata.
+
+### 2020
+
 > Myśleć to znaczy wiedzieć przed (i działać).
 
 ZMIANA LIMITU ZADŁUŻENIA
@@ -87,6 +97,20 @@ Na każde pytanie oczekiwał precyzyjnych i jasnych odpowiedzi […] zrobił na 
 (źródło: J. KARSKI, TAJNE PAŃSTWO, WARSZAWA 2004, S. 290)
 
 <img src="./img/july/karski3.jpg"><br><br>
+
+### 1941
+
+W KL Auschwitz miał miejsce pierwszy przypadek realizacji programu eutanazji.
+Komisja lekarska, która tego dnia przyjechała do obozu wybrała spośród więzniów 575 inwalidów, przewlekle chorych i starców, których następnie wywieziono do Sonnenstein w Saksonii i zabito tlenkiem węgla.
+
+<img src="./img/july/eutanazja.jpg"><br><br>
+
+---
+
+W Warszawie żołnierz małego sabotażu Czesław Zadrożny "Mykita" dokonał aktu spalenia niemieckiej instalacji znajdującej się na placu przed Pałacem Saskim. 
+Zadrożny oblał benzyną, a następnie podpalił pięciometrową literę "V", która symbolizowała niemieckie zwycięstwo. Drewniana konstrukcja w białym kolorze z napisem „Deutschland siegt an allen Fronten” (Niemcy zwyciężają na wszystkich frontach) uległa zniszczeniu, co zmusiło Niemców do jej całkowitego usunięcia.
+
+<img src="./img/july/mykita.jpg"><br><br>
 
 ---
 

@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+Karol Jaroszyński
+
 https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 
 https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska

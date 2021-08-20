@@ -26,11 +26,32 @@ Coraz więcej sygnałów świadczących o początku dłuższego trendu spadkoweg
 
 Produkt Krajowy Brutto Niemiec w II kwartale 2020 r. spadł o 10,1 proc. kdk, po uwzględnieniu czynników sezonowych - poinformował w komunikacie Federalny Urząd Statystyczny w Wiesbaden w I wyliczeniu.
 
+### 1946
+
+Amon Goeth, były komendant KL Płaszów został przewieziony na proces do Polski razem z Rudolfem Hoessem, byłym komendantem KL Auschwitz. Na dworcu głównym w Krakowie czekał na nich tłum rozwścieczonych ludzi. Przy czym to nie Rudolfa Hoessa rozpoznali zgromadzeni ludzie, lecz Amona Goetha zwanego ,,rzeźnikiem z Płaszowa''. Rudolf Hoess wspominał tamten dzień w swoim pamiętniku: ,,30 lipca przybyłem wraz z siedmioma innymi Niemcami do Krakowa. Na dworcu musieliśmy przez dłuższą chwilę czekać na samochód. W tym czasie zgromadziło się koło nas sporo ludzi, którzy nam złośliwie urągali. Götha zaraz poznano. Gdyby samochód nie nadjechał zaraz, obrzucono by nas kamieniami.''
+Foto:  Hauptsturmführer-SS Amon Leopold Göth (ur. 11. 12.1908 r.), członek NSDAP od 1930 r. i SS od 1932 r., był od lutego 1943 r. do września 1944 r. komendantem obozu pracy przymusowej w Płaszowie pod Krakowem, przekształconego w 1944 r. na obóz koncentracyjny. Göth przeprowadził w 1943 r. ostateczną likwidację gett w Krakowie i w Tarnowie.Wyrokiem Najwyższego Trybunału Narodowego z dnia 5. 9. 1946 r. został skazany na karę śmierci i stracony.
+
+<img src="./img/july/goeth.jpg"><br><br>
+
+### 1944
+
+Rozpoczęła się bitwa pancerna pod Wołominem, jedna z największych bitew czołgowych w historii drugiej wojny światowej i prawdopodobnie trzecia , co do wielkości po bitwach pod Kurskiem i Falaise.Szacuje się, że wzięło w niej udział łącznie 1000 czołgów z czego około 500 zostało całkowicie zniszczonych.W batalii tej wzięły udział jednostki 3 Korpusu Pancernego,8 Gwardyjskiego Korpusu Pancernego i 16 Korpusu Pancernego 2 Armii Radzieckiej idącej od strony Lublina i Dęblina.Po przeciwnej stronie stanęły:1 Spadochronowo-Pancerna Dywizja "Herman Goering", 5 Dywizja Pancerna SS "Wiking",3 Dywizja Pancerna SS "Totenkopf"oraz 4 i19 Dywizje Pancerne. Bitwa zakończyła się po tygodniu sromotną klęską Rosjan.
+Straty sowieckie były duże, jednak nie na tyle, aby zatrzymać ofensywę 1 Frontu Białoruskiego.
+2 sierpnia Stalin wydał rozkaz zatrzymania ofensywy pod Warszawą. Decyzja ta była reakcją na wybuch powstania w Warszawie.
+
+<img src="./img/july/wolomin.jpg"><br><br>
+
 ### 1941
 
 W Londynie podpisano układ Sikorski-Majski przywracający stosunki dyplomatyczne RP z ZSRR. Otwierał on drogę do utworzenia w Sowietach polskiej armii. Przypomnijmy, że stosunki dyplomatyczne między obu państwami zostały zerwane 17 września 1939 r. po agresji ZSRR na Polskę. Obecny układ podpisany przez premiera RP na uchodźstwie gen. Władysława Sikorskiego i ambasadora ZSRR w Londynie Iwana Majskiego uznawał traktaty radziecko-niemieckie z 1939 r. za nieważne, przewidywał wspólną walkę z III Rzeszą, a w dodatkowym protokole władze sowieckie zagwarantowały „amnestię” dla obywateli polskich: więźniów politycznych i zesłańców przebywających w obozach Gułagu. Mieli oni trafić do utworzonej z ZSRR armii polskiej pod polskim dowództwem.
 
 <img src="./img/july/sikorski.jpg"><br><br>
+
+### 1937
+
+W Moskwie szef NKWD Nikołaj Jeżow (zdjęcie) wydał rozkaz numer 0O447, na mocy którego od sierpnia 1937 roku do września 1938 roku radzieckie sądy wydały zaocznie ponad 700 tysięcy wyroków śmierci na "wrogów ludu". W ramach tej masowej eksterminacji wyroki takie wydano na ponad 111 tysięcy Polaków zamieszkujących na terenach ówczesnego Związku Radzieckiego, a także terenach wchodzących kiedyś w skład Rzeczypospolitej Obojga Narodów.
+
+<img src="./img/july/jezow.jpg"><br><br>
 
 ### 1514
 

@@ -45,6 +45,10 @@ Waszyngton, debata telewizyjna kandydatów na prezydenta USA – Johna F. Kenned
 
 <img src="./img/october/debata.jpg"><br><br>
 
+### 1957
+
+<img src="./img/october/russians.png"><br><br>
+
 ### 1942
 
 Hermann Friedrich Graebe, niemiecki inżynier budowlany opowiada o eksterminacji Żydów w Dubnie na Wołyniu, 5 października 1942 r.
