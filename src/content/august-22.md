@@ -3,11 +3,15 @@ layout: post
 title: 22 sierpnia
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-22T10:00:00.000Z
+date: 2020-08-22T10:00:00.000Z
 tags:
   - Allied Forces Act
 draft: false  
 ---
+
+### 2021
+
+<img src="./img/august/globalbonds.png"><br><br>
 
 ### 1940
 
