@@ -140,6 +140,10 @@ Nie ja, nie my, ale historia was oceni. Tak jak oceniła Smoleńsk, mimo setek p
 
 Jesteście hańbą, największą hańbą rządów po 1989 roku. Jeszcze żaden rząd tak kompletnie nie odwrócił się od społeczeństwa w tak krytycznym momencie. I to tylko po to by się nażreć i nażreć władzy.
 
+### 2002
+
+Prezydent Rzeczypospolitej Polskiej Aleksander Kwaśniewski wręczył w uznaniu wybitnych zasług w stworzeniu Światowego Forum Ekonomicznego, za działalność na rzecz międzynarodowej współpracy gospodarczej i ekonomicznej Krzyż Komandorski z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej profesorowi Klausowi Szwabowi. Zwracając się do zebranych Prezydent RP powiedział: Mam dziś zaszczyt i przyjemność wręczenia Panu Profesorowi Klausowi Schwabowi Krzyża Komandorskiego z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej.
+
 ### 1950
 
 Odbył się próbny lot pierwszego polskiego śmigłowca BŻ -1 GIL.

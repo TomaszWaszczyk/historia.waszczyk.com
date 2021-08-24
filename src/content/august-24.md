@@ -3,10 +3,21 @@ layout: post
 title: 24 sierpnia
 image: img/august/patkowski.jpg
 author: Tomasz Waszczyk
-date: 2019-08-24T10:00:00.000Z
+date: 2020-08-24T10:00:00.000Z
 tags:
   - Patkowski
 draft: false  
+---
+
+### 2021
+
+W szpitalu w Ostrowcu Świętokrzyskim pracuje pierwszy lekarz z zagranicy zatrudniony w tej placówce w oparciu o przepisy trybu szczegółowego. Będą następni.
+- To nie jest działanie przeciwko kolegom lekarzom, ale dla poprawy ich warunków pracy. W szpitalu wielu lekarzy pracuje ponad 400 godzin miesięcznie, czyli prawie na trzech etatach, ponad siły - mówi dr Adam Karolik, dyrektor szpitala.
+
+---
+
+<img src="./img/august/apelnaukowcow.jpg"><br><br>
+
 ---
 
 ### 2020

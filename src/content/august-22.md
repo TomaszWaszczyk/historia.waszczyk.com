@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 22 sierpnia
-image: img/1-08.jpeg
+image: img/august/globalbonds.png
 author: Tomasz Waszczyk
 date: 2020-08-22T10:00:00.000Z
 tags:
