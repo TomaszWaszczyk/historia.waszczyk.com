@@ -25,6 +25,16 @@ BANK OF ENGLAND HAS SAID NEGATIVE INTEREST RATES NOW UNDER CONSIDERATION.
 
 http://xxpzhp.umcs.lublin.pl/
 
+### 2013
+
+Linux supremo Linus Torvalds has jokingly admitted US spooks approached him to put a backdoor in his open-source operating system.
+
+During a question-and-answer ‪session ‬at ‪the LinuxCon gathering in New Orleans this week‪, Torvalds ‬and his fellow kernel programmers ‪w‬ere‪ asked by moderator Ric Wheeler whether America's g-men leaned on the Finn to compromise Linux's security, allowing spies to infiltrate computers.
+
+Torvalds replied with a firm "no" while nodding his head to say yes, a response greeted with laughter fr‪o‬m the audience. He quickly followed up by repeating "no" while shaking his head in the negative.
+
+South Korean Red Hat developer Tejun Heo, sitting alongside the kernel boss, quipped: "Not that I can talk about." A video of the Q&A session is below - the short exchange about US spooks starts at the 24-minute mark.
+
 ### 1939
 
 https://pl.wikipedia.org/wiki/Stanis%C5%82aw_D%C4%85bek

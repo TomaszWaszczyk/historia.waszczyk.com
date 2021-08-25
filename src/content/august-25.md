@@ -3,9 +3,21 @@ layout: post
 title: 25 sierpnia
 image: img/august/schleswig.jpg
 author: Tomasz Waszczyk
-date: 2019-08-25T10:00:00.000Z
+date: 2020-08-25T10:00:00.000Z
 tags:
   - sojusz polsko-brytyjski
+---
+
+### 2021
+
+> No więc Gdynia buduje miejsca odosobnienia dla podejrzanych o styczność z Covid-19. Klatek będzie aż 18. Budowa ma się zakończyć w marcu 2022 🤷🏻‍♂️ Zdjęcia zrobiłem przed chwilą. Klatki duże nie będą, będzie łatwo zwariować. W tym tygodniu złożę interpelację z prośbą o szczegóły. - Artur Dziambor
+
+<img src="./img/august/gdyniacovid.jpg"><br><br>
+
+---
+
+> "People who received two vaccine shots walk around feeling like they are protected... they don't understand that the second vaccine has faded against the "Delta" - they must quickly get vaccinated with the 3rd dose!". - Israel's Prime Minister
+
 ---
 
 ### 2020
@@ -15,6 +27,12 @@ Już teraz widać, że nasza gospodarka bardzo ucierpi, a my możemy niedługo z
 Lockdown jest metodą średniowieczną, niezwykle dewastującą życie gospodarcze i społeczne. Tak zresztą mówił były już, niestety, wiceminister finansów rządu PiS Konrad Raczkowski. To jest skandal, że ktokolwiek jeszcze to rozważa, w szczególności ktokolwiek z MF. Czy myśli ktoś tam, co stanie się z budżetem, z przedsiębiorcami, z miejscami pracy i z naszym długiem? Co z konstytucyjnym progiem zadłużenia? Ostatnią rzeczą, którą chciałby usłyszeć teraz przedsiębiorca jest drugi lockdown. Same zapowiedzi ponownego niszczenia firm działają druzgocąco na inwestycje i plany rozwoju przedsiębiorstw.
 Rozumiałbym, gdyby zamknięcia firm chciało Ministerstwo Zdrowia, sprzedawcy masek, czy instruktorzy narciarscy. Ale Ministerstwo Finansów? To tak jakby karp czekał na Wigilię, albo Jacek Sasin domagał się rozliczenia 70 mln zł, które wydał na wybory, które się nie odbyły.
 MF w pierwszej kolejności powinno zadeklarować, że drugiego lockdownu już nie będzie. Nie można pozwolić wejść sobie na głowę ludziom z Ministerstwa Zdrowia i instruktorom narciarskim. Jest to niezbędne dla pobudzenia inwestycji, przywrócenia przedsiębiorcom nadziei i ustabilizowania naszej gospodarki. To fatalna wiadomość, że nawet Ministerstwo Finansów tego nie rozumie. To ministerstwo powinno stać w pierwszym rzędzie walki z kolejnymi pomysłami niszczenia gospodarki. Jeżeli nawet tam nie ma krzty zrozumienia dla sytuacji polskiej gospodarki, to ratuj się kto może, rządzą nami szaleńcy.
+
+### 1991
+
+21 years old Finnish computer science student Linus Torvalds sent a mail announcing that he was working on a new operating system which was ‘just a hobby, won’t be big and professional’.
+
+<img src="./img/august/linux.webp"><br><br>
 
 ### 1983
 

@@ -49,6 +49,10 @@ Communist totalitarian rule collapsed. However, thinking in imperialist categori
 
 Andrzej Nowak, historian, Jagiellonian University/Polish Academy of Sciences
 
+### 1994
+
+William R. Della Croce, Jr. filed for the trademark Linux, and then demanded royalties from Linux distributors. After court battles, Linus Torvalds got the trademark rights back in 1997.
+
 ### 1950
 
 W lasach w okolicach Janowa Lubelskiego miała miejsce obława, której celem było schwytanie żołnierzy oddziału Narodowego Zjednoczenia Wojskowego pod dowództwem Adama Kusza "Garbatego" ( zdjęcie) . W operacji tej udział wzięło 3 tysiące żołnierzy Korpusu Bezpieczeństwa Wewnętrznego, funkcjonariusze Urzędu Bezpieczeństwa oraz Milicji Obywatelskiej.

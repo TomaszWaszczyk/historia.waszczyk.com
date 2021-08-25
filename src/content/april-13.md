@@ -10,6 +10,8 @@ tags:
 
 ### 2020
 
+Steal $20, it’s a crime. Steal $20 trillion, it's called monetary policy.
+
 <img src="./img/april/m2supply2020.jpg"><br><br>
 
 A staggering $976.7B 3-week expansion in M2 money supply has brought its YoY growth rate to a record 14.57%, which has increased by 10.71pp in less than one year. This dramatic acceleration is unprecedented.

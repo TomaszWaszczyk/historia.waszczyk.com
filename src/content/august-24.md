@@ -20,6 +20,12 @@ W szpitalu w Ostrowcu Świętokrzyskim pracuje pierwszy lekarz z zagranicy zatru
 
 ---
 
+Pierwsze miejsca na listach rekrutacyjnych dostały osoby z Ukrainy/Białorusi, gdzie jak wiadomo szerzy się korupcja i za paczkę Malborasków można kupić sobie świadectwo/maturę. Przez to wielu Polaków nie dostało się na studia mimo całkiem dobrych wyników. Na informatyce 70% przyjętych to osoby zza wschodniej granicy, poniżej skrin z psychologii. Podobnie wygląda to na dziennikarstwie, politologii i jeszcze na kilku kierunkach. Ja jestem jak najbardziej za wspieraniem Ukraińców i Białorusinów, ale na Boga, niech oni zdają jakieś miarodajne egzaminy, a nie dostają full punktów za nic. Współczuję tym, którzy harowali 3 lata w liceum, napisali całkiem dobrze rozszerzenia a i tak się nie dostali, bo jakiś Sasza czy Valeria dostali się na listy z maxem punktów. Jak widać polskie uczelnie wolą przyjąć masę osób zza granicy o wątpliwych umiejętnościach, niż Polaków, bo dostają z tego większe pieniądze. Po wybuchu afery, na profilu na fb UAM zaczęto usuwać nieprzychylne komentarze.
+
+<img src="./img/august/uam.jpg"><br><br>
+
+---
+
 ### 2020
 
 Ciekawą rozmowę uciął sobie w TOK FM Maciek Głogowski z wiceministrem finansów Piotrem Patkowskim. Młody wiceminister w pewnym momencie zdradził, dlaczego rząd aż tak bardzo się nie przejmuje rosnącym zadłużeniem. Otóż wiceminister powiedział, że po pierwsze PKB będzie nominalnie rósł, więc ten sam dług z czasem „rozpuści się” w większym bogactwie Narodu, a po drugie, że…
