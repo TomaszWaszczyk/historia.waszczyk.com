@@ -9,6 +9,14 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+Businessinsider.pl:
+
+> Nadchodzi budżetowe zaciskanie pasa. Minister finansów potwierdza
+
+W 2023 r. będziemy wracać do unijnych i krajowych reguł fiskalnych - zapowiada minister finansów Tadeusz Kościński. Ekonomiści od dawna ostrzegają, że Unia może przestać tolerować wysoki deficyt w Polsce.
+
 ### 2020
 
 Chinese are doing a runner, taking their wealth out of China using the Bitcoin Express
