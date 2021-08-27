@@ -10,6 +10,14 @@ draft: false
 
 Karol Jaroszyński
 
+<!-- http://www.polskipetersburg.pl/hasla/jaroszynski-karol-lucjan-jan
+
+https://amp.ww.pl.freejournal.org/1488840/1/karol-jaroszynski.html
+
+https://przekroj.pl/nauka/karol-jaroszynski-sponsor-cara-adam-weglowski
+
+ -->
+
 https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 
 https://pl.wikipedia.org/wiki/Helena_Jab%C5%82onowska

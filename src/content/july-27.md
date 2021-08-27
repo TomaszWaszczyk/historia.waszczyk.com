@@ -40,6 +40,20 @@ Nazwa "Dni Petlury"pochodzi od zamordowanego w 1926 roku przez żydowskiego agen
 
 <img src="./img/july/petlura.jpg"><br><br>
 
+### 1918
+
+Z inicjatywy księdza Idziego Radziszewskiego powołano Katolicki Uniwersytet Lubelski.
+
+Po tym, jak bolszewicy zlikwidowali petersburską Akademię Duchowną, gdzie kształcili się między innymi polscy duchowni, ksiądz Idzi Radziszewski zaczął kwestować u tamtejszej Polonii i zabiegał o powołanie kolejnej uczelni.
+
+Głównymi fundatorami tej instytucji byli przemysłowiec Karol Jaroszyński i inżynier Franciszek Skąpski. Na miejsce placówki wybrano Lublin.
+
+Polscy biskupi przychylili się do pomysłu i 27 lipca 1918 roku, w trakcie zjazdu duchowieństwa Królestwa Polskiego w Warszawie z udziałem nuncjusza apostolskiego Achillesa Ratti, powołano do życia uczelnię, która początkowo nosiła nazwę Uniwersytetu Lubelskiego
+
+Celem nowo utworzonej instytucji, której pierwszym rektorem został ksiądz Radziszewski, było prowadzenie badań naukowych w duchu harmonii między nauką i wiarą, kształcenie kadry inteligencji katolickiej oraz podnoszenie narodu na wyższy poziom życia religijnego i intelektualnego. Dewizą uczelni stało się hasło "Deo et Patriae" - "Bogu i Ojczyźnie".
+
+Jesienią 1918 roku Uniwersytet rozpoczął działalność, a inauguracja miała miejsce 8 grudnia. Początkowo Uniwersytet Lubelski korzystał z budynków seminarium duchownego. Obejmował wtedy cztery wydziały: Teologiczny (otwarty w 1918), Prawa Kanonicznego, Prawa i Nauk Społeczno-Ekonomicznych oraz Nauk Humanistycznych.
+
 ### 1794
 
 Podczas insurekcji kościuszkowskiej wojska pruskie wykorzystując całkowite zaskoczenie Polaków zdobyły ich pozycje na Woli. Pomógł im w tym polski jeniec, który zdradził polskie plany. Siłą dwóch batalionów wojska pruskie wspierane przez huzarów uderzyły na oddziały generała Józefa Zajączka broniące reduty wolskiej. Polacy, prowadząc szarżę próbowali bezskutecznie odzyskać utracone pozycje. Pokonali ich wspierający Prusaków Ukraińcy z I Ukraińskiej Brygady Kawalerii Narodowej.

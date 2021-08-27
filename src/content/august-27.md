@@ -3,10 +3,17 @@ layout: post
 title: 27 sierpnia
 image: img/august/pzpr.jpg
 author: Tomasz Waszczyk
-date: 2019-08-27T10:00:00.000Z
+date: 2020-08-27T10:00:00.000Z
 tags:
   - PZPR
 ---
+
+### 2021
+
+<video width="640" height="480" controls>
+<source src="./movies/august/morawiecki-inflacja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 
