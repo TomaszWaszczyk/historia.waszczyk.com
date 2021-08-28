@@ -21,7 +21,9 @@ https://www.brainyquote.com/authors/johann-gottlieb-fichte-quotes
 
 * Edukacja Domowa, Wiesław Stebnicki
 
-* Czy to puszcza bąki? 
+* Czy to puszcza bąki?
+
+* https://lubimyczytac.pl/autor/7000/janusz-korczak
 
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
