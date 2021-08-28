@@ -6,6 +6,8 @@ Przedwojenny 1PLN = 0.17grama XAU
 
 Bolszewicy a złoto
 
+http://www.doomedsoldiers.com/
+
 https://whu.org.pl/2015/01/17/zapomniany-potentat-jan-gotlieb-bloch/
 
 https://historia.org.pl/2012/03/05/przyczyny-i-konsekwencje-upadku-cesarstwa-rzymskiego-na-zachodzie/
