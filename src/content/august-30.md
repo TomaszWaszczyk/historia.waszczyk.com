@@ -3,10 +3,16 @@ layout: post
 title: 30 sierpnia
 image: img/august/koronaberlin.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-30T10:00:00.000Z
+date: 2020-08-30T10:00:00.000Z
 tags:
   - Eberhard Schöngarth
 ---
+
+### 2021
+
+W  trakcie  wakacji  rząd  przygotował  radykalne zmiany  przepisów  dot.  funkcjonowania  szkoły, które już we wrześniu mogą zostać uchwalone przez Sejm.
+
+<a href="./documents/august/ulotka-a6_wolna_szkola.pdf" target="_blank"></a>
 
 ### 2020
 

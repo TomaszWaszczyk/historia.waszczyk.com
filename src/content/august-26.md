@@ -31,6 +31,13 @@ The era of the nation-state is finished
 
 The full implementation of Agenda 21, the Programme for Further Implementation of Agenda 21 and the Commitments to the Rio principles, were strongly reaffirmed at the World Summit on Sustainable Development (WSSD) held in Johannesburg, South Africa from 26 August to 4 September 2002.
 
+### 1943
+
+W okolicach Ożarowa w województwie świętokrzyskim żołnierze Narodowych Sił Zbrojnych pod  wodzą plutonowego Tomasza  Wójcika zorganizowali zasadzkę, w którą wpadł dowódca 174 Dywizji Rezerwowej Wojsk Lądowych Wehrmachtu generalleutenant Kurt Renner (zdjęcie). Celem akcji było nie tylko schwytanie niemieckiego oficera, ale również uwolnienie 14 Polaków aresztownych przez ożarowskie Gestapo.  
+Razem z Rennerem, który był najwyższym rangą niemieckim oficerem zabitym przez żołnierzy polskiego podziemia niepodległościowego zginęło dwóch oficerów sztabowych i pięciu ochraniających go żołnierzy Waffen-SS.
+
+<img src="./img/august/kurt.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-26.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

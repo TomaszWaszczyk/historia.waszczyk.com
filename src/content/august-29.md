@@ -3,11 +3,16 @@ layout: post
 title: 29 sierpnia
 image: img/august/starzyludzie.jpeg
 author: Tomasz Waszczyk
-date: 2019-08-29T10:00:00.000Z
+date: 2020-08-29T10:00:00.000Z
 tags:
   - CBDC
 draft: false
 ---
+
+### 2021
+
+To, co obecnie obserwujemy, to nie tyle przyspieszony upadek cywilizacji, co przyspieszone obnażanie jej już od dawna podupadłego charakteru. Jest to zasadniczo korzystne zjawisko, pozwalające ostatecznie zerwać z fasadowymi iluzjami i zająć się obroną osobistych "wysp cywilizacji".
+Innymi słowy, to, co dzieje się od półtora roku, doskonale obnażyło fakt, że żyjemy w cywilizacji kadłubkowej, posiadającej mnóstwo technicznych gadżetów, ale za grosz siły charakteru. W związku z tym zamiast zachwycać się tymi pierwszymi, należy zacząć wreszcie likwidować deficyt tej drugiej: konserwować lub odbudowywać w skali lokalnej - a przede wszystkim indywidualnej - to, co od dawna było konsekwentnie podkopywane lub burzone w skali kolektywnej i globalnej. Narzędzi ku temu mamy aż nadto - grunt jednak w tym, żeby nie stały się one w naszych rękach jałowymi zabawkami.
 
 ### 2020
 
@@ -33,6 +38,14 @@ And remember that in a free market economy you should always have options as to 
 
 ---
 
+### 1994
+
+Prokuratorzy, w asyście brygad antyterrorystycznych policji, zamknęli w Warszawie, Krakowie, Opolu, Lublinie, Poznaniu i Szczecinie 6 stacji telewizyjnych należących do sieci Polonia 1.
+
+<img src="./img/august/polonia.jpeg"><br><br>
+
+Stacja nie dostała koncesji na nadawanie.
+
 ### 1946
 
 „W ubeckich piwnicach przestrzelone czaszki, To śpiący rycerze majora Łupaszki Wieczna chwała zmarłym, hańba ich mordercom Tętno Polski bije w przestrzelonych sercach”.
@@ -48,6 +61,12 @@ Foto: Wachmistrz Feliks Selmanowisz ,,Zagończyk'', żołnierz zgrupowania ,,Łu
 Danuta Siedzikówna „Inka”, sanitariuszka i łączniczka zgrupowania ,,Łupaszki'', walcząca w obronie niezawisłości. Niewinnie skazana na śmierć przez polskich komunistów.
 
 <img src="./img/august/tetno.jpg"><br><br>
+
+### 1939
+
+W całej Polsce zostały powieszone takie plakaty, autorstwa Henryka Tomaszewskiego.
+
+<img src="./img/august/kazdyzolnierzem.jpeg"><br><br>
 
 ### 1931
 

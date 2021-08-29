@@ -57,12 +57,19 @@ W Bydgoszczy przy ulicy Wileńskiej 6 urodził się Marian Adam Rejewski pseudon
 
 <img src="./img/august/rejewski.jpg"><br><br>
 
-## 1794
+### 1794
 
 W czasie insurekcji kościuszkowskiej do obiegu weszły pierwsze polskie banknoty.
 Pomysł ten będący nowym sposobem finansowania armii zrodził się w głowie samego Tadeusza Kościuszki, który inspirowany doświadczeniami amerykańskimi postanowił rozwiązanie to przenieść na polski grunt.
 Nazwa "banknot" nie była wtedy jednak nikomu znana, używano określenia "bilet skarbowy". Ciekawostką jest fakt, że już wtedy w Polsce istniały kantory, w których można było dokonywać transakcji w formie ,jak to dziś mówimy "rozmieniania na drobne".
 Wartość wyemitowanych wówczas papierowych pieniędzy wyniosła prawie 8 milionów ówczesnych złotych.
+
+### 1264
+
+Statut kaliski
+
+Więcej: Przywilej żydowski Bolesława [Pobożnego] i jego potwierdzenia
+, „Biblioteka Warszawska”, t. I, 1880, s. 438 [dostęp 2016-02-03], Cytat: Opierając się na tém wszystkiém, stanowczo twierdzimy, że przerobiony przywilej Bolesława, jest fabrykatem czasów po Kazimierzu W[ielkim]. Dopiéro téż teraz pojmujemy, dlaczego żydzi poznańscy przedstawiając go do potwierdzenia Kazimierzowi Jagiellończykowi, nie przedstawili oryginału onego, ale kopią, bo oryginału rzeczywiście nigdy nie było, a powołanie się na pożar w Poznaniu było tylko zręczném skorzystaniem z okoliczności, zresztą prawdziwéj. (pol.).
 
 ---
 

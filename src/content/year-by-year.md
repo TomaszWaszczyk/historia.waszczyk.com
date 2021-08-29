@@ -162,6 +162,8 @@ Michael Casey, co-author of the 2018 book "The Truth Machine: The Blockchain and
 
 https://en.wikipedia.org/wiki/Belt_and_Road_Initiative
 
+https://en.wikipedia.org/wiki/Black_Lives_Matter
+
 ### 2012
 
 https://liberprimus.org/

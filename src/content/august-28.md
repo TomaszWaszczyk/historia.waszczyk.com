@@ -57,6 +57,12 @@ https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)
 
 <img src="./img/august/fineybanks.png"><br><br>
 
+### 1991
+
+Podczas prac budowlanych na terenach dawnej strzelnicy na Zaspie odkryto 38 szczątków ludzkich. Badania potwierdziły, że są to Obrońcy Poczty Polskiej , których niemiecki pluton egzekucyjny rozstrzelał 5 października 1939 roku. Obrońcy Poczty Polskiej w Gdańsku dowodzeni przez inżyniera podporucznika Konrada Guderskiego i podreferendarza kaprala Alfonsa Flisykowskiego zostali  wzięci do niewoli 1 września 1939 roku przez żołnierzy SS Heimwehr Danzig. Wcześniej dzielnie odpierali ataki nieprzyjaciół, broniąc budynku poczty przez 14 godzin. Skazano ich na karę śmierci na podstawie bezprawnego wyroku wydanego przez niemiecki sąd, któremu przewodniczyli prokurator generalny dr Kurt Bode i sędzia sądów polowych dr Hans Werner Giesecke. Wyrok łamał postanowienia konwencji haskiej, gdyż 30 sierpnia pocztowcy zostali objęci mobilizacją, a więc w świetle prawa byli żołnierzami. Uroczystości pogrzebowe, którym patronował prezydent RP odbyły się 4 kwietnia 1992 roku. Bohaterska załoga Poczty Polskiej została pośmiertnie uhonorowana Krzyżami Virtuti Militari. W 1999 roku niemiecki wymiar sprawiedliwości przyznał rodzinom ofiar odszkodowania finansowe.
+
+<img src="./img/august/obrony-poczty.jpg"><br><br>
+
 ### 1989
 
 Lider Solidarnosci Walczącej Kornel Morawiecki (zdjęcie) wystosował list otwarty do premiera Tadeusza Mazowieckiego, w którym apelował o podjęcie zdecydowanych kroków w celu przejęcia państwa i obalenia komunizmu. List kończył się życzeniami, aby za kadencji nowego szefa rządu „rozkład komunizmu następował szybciej niż jego dopasowanie się do nowej sytuacji".
@@ -75,7 +81,21 @@ W Gdańsku została zamordowana przez komunistyczną bezpiekę Danuta Siedzików
 
 Oskarżycielem w procesie sanitariuszki był prokurator Wacław Krzyżanowski, który dla 17-letniej wówczas dziewczyny zażądał kary śmierci. Zbrodniarz sądowy był oskarżany przez Instytut Pamięci Narodowej o udział w przestępstwach komunistycznych, jednak dwukrotnie został uniewinniony przez sąd. Zmarł w 2014 r. Został pochowany z wojskowymi honorami na cmentarzu w Koszalinie. Skandal wywołany tym wydarzeniem doprowadził do dymisji dowódcy i komendanta miejscowego garnizonu.
 
+### 1943
 
+UPA rozpoczęła trwającą cztery dni serię morderczych ataków na około 85 miejscowości zamieszkałych przez Polaków. Celami ataków stały się wioski w powiatach: kowelskim, włodzimierskim i lubomelskim ( Ostrówki i Wola Ostrowiecka, o czym napiszemy jutro). 
+Makabrycznym kuriozum jest fakt, że tego samego dnia we wsi Sztuń w gminie Bereżce w powiecie lubomelskim odbyła się msza, w czasie której ukraiński prawosławny duchowny o nazwisku Pokrowskyj poświęcił, a następnie rozdał swoim parafianom noże, kosy i siekiery przeznaczone do mordowania "Lachów".
+Na zdjęciu: Biskup grekokatolicki Jozafat Kocyłowski wygłasza kazanie do ochotników do dywizji SS Galizien podczas uroczystego nabożeństwa polowego na stadionie sportowym w Przemyślu – 4 lipca 1943 roku.
+
+<img src="./img/august/upa.jpg"><br><br>
+
+### 1939
+
+W Tarnowie dwaj niemieccy zamachowcy Anton Guzy i Jakub Hessler dokonali wysadzenia części tarnowskiego dworca kolejowego.
+Zamach miał być szokiem dla Polaków. Sam Guzy, którego ojciec był Polakiem po aresztowaniu wyznał "Czynu przestępczego jakiego się dopuściłem dokonałem dlatego, że czuję się Niemcem".
+W wyniku wybuchu bomb zniszczeniu uległa 1/3 budynku dworca od strony zachodniej. Eksplozja zdewastowała m.in. posterunek policji i restaurację oraz doprowadziła do zawalenia się stropu i części ścian nośnych. Trudno ustalić liczbę ofiar ataku. Meldunek policyjny z 29 sierpnia mówił o 14 zabitych i 38 rannych (w tym 15 ciężko), w aktach sądowych pojawiła się liczba 22 zabitych, zaś ówczesna prasa wspominała o 35 ofiarach śmiertelnych. Ilość poszkodowanych byłaby prawdopodobnie większa, gdyby pociąg do Krakowa nie spóźnił się, bądź też na dworcu stałby któryś z transportów wojskowych.
+
+<img src="./img/august/tarnow.jpg"><br><br>
 
 ### 1610
 
