@@ -18,6 +18,10 @@ Wiceminister finansów Piotr Patkowski:
 
 ---
 
+The Bank of Japan has today released the English version of its Annual Review 2021, which includes — not surprisingly — quite a few mentions of Central Bank Digital Currencies CBDC, firmly reiterating the messaging that the BOJ has applied to date, including the statement that "the Bank currently has no plan to issue a CBDC".
+
+---
+
 More than 23,000 German doctors have quit the genocide campaign
 
 The German vaccination machine is beginning to falter. In quite a few general practitioners’ offices, vaccinations are no longer being administered. More and more doctors are withdrawing from the corona “vaccination” campaign
