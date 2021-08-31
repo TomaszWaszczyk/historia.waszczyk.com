@@ -3,10 +3,30 @@ layout: post
 title: 31 sierpnia
 image: img/august/Komarow_pomn.jpg
 author: Tomasz Waszczyk
-date: 2019-08-31T10:00:00.000Z
+date: 2020-08-31T10:00:00.000Z
 tags:
   - Kiszczak - Wałęsa
 ---
+
+### 2021
+
+Wiceminister finansów Piotr Patkowski:
+
+> Zawsze podwyższona inflacja pojawia się tam, gdzie jest dość dynamiczny wzrost gospodarczy.
+
+<img src="./img/august/patkowski2.jpg"><br><br>
+
+---
+
+More than 23,000 German doctors have quit the genocide campaign
+
+The German vaccination machine is beginning to falter. In quite a few general practitioners’ offices, vaccinations are no longer being administered. More and more doctors are withdrawing from the corona “vaccination” campaign
+
+according to figures from the Robert Koch Institut, accessed by the newspaper Welt am Sonntag.
+
+In the week from August 2 to 8, only 29,300 practices still “vaccinated people against the coronavirus”, meaning many dropped out. At the time the vaccines were rolled out in Germany, a total of 52,600 practices were participating in the genocide campaign. This means that 23,300 (44%) practices have stopped giving the shot.
+
+<img src="./img/august/impfkampagne.png"><br><br>
 
 ### 2020
 

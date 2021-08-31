@@ -1,12 +1,85 @@
 ---
 layout: post
-title: "Powiedzenia"
+title: "Historia pieniądza"
 author: Tomasz Waszczyk
-tags: ["Powiedzenia", "Sentecje", "Cytaty"]
+tags: [ "Historia pieniądza" ]
 image: img/demo4.jpg
 date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
+
+https://pl.wikipedia.org/wiki/Kryzys_bankowy_w_Polsce_w_1793
+
+### Jak zubożyć obywatela. Reforma walutowa 1950 roku
+
+W przeciągu 11 lat Polacy trzykrotnie stracili swoje oszczędności: w 1939, 1945 i 1950 roku. Ten ostatni raz wynikał z dążenia władz komunistycznych do przestawienia gospodarki na nowe tory.
+
+
+Odbudowa kraju z wojennych zniszczeń zaczynała się niemal od razu po ucichnięciu wystrzałów przesuwającego się frontu. Wracająca do swych domów ludność zastawała często ruiny, podobnie zresztą, jak Polacy przesiedlani na tzw. Ziemie Odzyskane. Wprawdzie słabo zindustrializowane Kresy zamieniono na Dolny Śląsk czy Pomorze Zachodnie, jednak przejęte od Niemców ziemie były zdewastowane i rozgrabione przez Armię Czerwoną. Komuniści musieli bezzwłocznie przystąpić do odbudowy kraju, pamiętając przy tym o możliwości podjęcia dalszego marszu przeciw aliantom.
+
+## Trudne początki
+
+W roku 1947 przystąpiono do realizacji planu trzyletniego. Opracowany przez Czesława Bobrowskiego, był swoistym ewenementem w całej historii Polski Ludowej: jako jedyny nakierowany był na poprawę sytuacji ludności, jako jedyny też zakończył się sukcesem. W latach 1947–1949 dochód narodowy wzrósł o 53%.
+
+Było to możliwe dzięki równoprawnemu potraktowaniu sektorów państwowego, spółdzielczego i prywatnego oraz równomiernej odbudowie przemysłu, rolnictwa i usług, w przeciwieństwie do tradycyjnego dla socjalizmu prymatu państwowego przemysłu ciężkiego. Nie było również mowy o budowie kolejnych zakładów pracy, lecz odbudowie i restrukturyzacji już istniejących, co nie było może równie efektowne propagandowo, ale pozwoliło w miarę szybko zacząć zaspakajać potrzeby ludności.
+
+Jednocześnie niemal od chwili wdrożenia planu kierownictwo komunistyczne zaczęło torpedować działania Bobrowskiego. Trwała „bitwa o handel”, starano się też innymi sposobami ograniczyć działalność sektora prywatnego, np. poprzez zmniejszanie przydziału materiałów. Wprowadzano system norm oraz współzawodnictwa pracy, przymierzano się także do skolektywizowania rolnictwa i próbowano faworyzować przemysł ciężki.
+
+Nie ma wprawdzie możliwości oceny, na ile plan trzyletni wzmógł naturalne procesy odbudowy oraz jakie efekty by przyniósł, gdyby Bobrowskiemu dano faktyczną wolną rękę, mimo to jednak uważa się, że zakończył się on pomyślnie.
+
+## Socjalizm wymaga pieniędzy
+
+Już pod koniec 1948 roku zaczęto opracowywać plan sześcioletni, który miał być wdrożony po zakończeniu zamysłów Bobrowskiego. Tym razem celem nie była już poprawa warunków bytowych ludności. Resort gospodarki pod przewodnictwem Hilarego Minca zamierzał przeprowadzić forsowną industrializację kraju na wzór sowiecki. Postawiono na przemysł ciężki, a sztandarową inwestycją zostały huty im. Lenina i Warszawa.
+
+Bardzo szybko okazało się, że wykonanie nowego planu nastręczy poważnych trudności finansowych. Złotówka balansowała na krawędzi spirali inflacyjnej, a planowane wydatki na pewno by ją z tej krawędzi zepchnęły. Do tego nieustanny brak towarów na rynku oraz niepewność jutra skłaniały ludność do tezauryzowania zarobków. Pieniądz zamiast krążyć, chowany był w przysłowiowej skarpecie.
+
+Dodatkowo, mimo podkreślanych już sukcesów planu trzyletniego, sytuacja bytowa ludności wciąż była niesatysfakcjonująca, mimo że od zakończenia wojny upłynęło już pięć lat. Władza nie mogła dać ludziom realnych sukcesów, oferowała więc propagandowe w postaci walki z „obszarnikami i spekulantami”. Jednym z jej elementów miało być pozbawienie ich rezerw gotówki. Prawdopodobnie z tych powodów przystąpiono do przygotowywania reformy walutowej.
+
+## Tajne przez poufne
+
+Napisałem „prawdopodobnie”, nie mamy bowiem całkowitej pewności co do motywacji decydentów. Planowanie wymiany pieniądza przebiegało w całkowitym utajnieniu, zapiski na ten temat zostały zaś potem zniszczone. Podane powyżej przyczyny odtwarza się nie na podstawie zachowanych materiałów, lecz analizy uwarunkowań ówczesnej polityki gospodarczej państwa.
+Hilary Minc, przewodniczący Państwowej Komisji Planowania Gospodarczego i członek ścisłego kierownictwa PZPR musiał odegrać ważną rolę w planowaniu reformy walutowej (fot. domena publiczna)
+
+Nie wiadomo nawet, kiedy zaczęto prace nad reformą. Banknoty nowego wzoru miały wydrukowaną datę emisji 1 lipca 1948 roku, co jednak nie musi niczego oznaczać – przypomnijmy, że banknoty poprzedniej emisji nosiły nadruk Narodowy Bank Polski, nawet gdy ten jeszcze nie istniał.
+
+Banknoty drukowane były w Szwecji, Czechosłowacji i na Węgrzech, do Polski trafiły zaś pod wojskową eskortą. Zagadką jest również wybór daty całej operacji. Najprawdopodobniej chodziło o sprzęgnięcie polskiej wymiany pieniądza z reformą rubla, dla którego przyjęto w marcu 1950 roku parytet 0,222 grama złota. Liczono też na to, że na przełomie października i listopada pogoda z jednej strony jeszcze nie utrudni logistyki, z drugiej zniechęci ludzi do protestów.
+
+28 października 1950 roku, podczas wieczornej sesji, wprowadzono nieoczekiwanie pod obrady sejmu nowy punkt: reformę walutową. Jej założenia zreferował Konstanty Dąbrowski, minister finansów. Jej zadaniem było, mówiąc jego słowami, wydrzeć kapitalistom i spekulantom zagrabiony przez nich kapitał.
+
+Nowa złotówka miała mieć kurs 1:1 względem rubla i 4:1 względem dolara amerykańskiego, a wymiana przebiegać miała w relacji 100:1 w przypadku posiadanej gotówki oraz 100:3 w przypadku pensji, cen i wkładów bankowych. Wszystko miało się odbyć od 30 października do 8 listopada. Ustawę przyjęto jednogłośnie, a zaraz w następnym punkcie przegłosowano zakaz posiadania walut obcych. O 22:45 zamknięto obrady.
+
+## Kataklizm
+
+W kraju rozpętało się pandemonium. Polacy rychło uświadomili sobie, że rząd próbuje pozbawić ich znacznej części oszczędności, zaczęli postępować więc zgodnie z doświadczeniem okupacyjnym. W panice, jeszcze w nocy z soboty na niedzielę, zaczęli kupować bydło, trzodę chlewną, meble, wyposażenie domów, odzież, absolutnie wszystko, co tylko zdołali. Oczywiście metoda działała tylko wtedy, jeśli sprzedający nie wiedział o reformie, gdyż inaczej odmawiał sprzedaży.
+
+Wszystkie placówki handlowe próbowały zmniejszać obroty wszelkimi możliwymi sposobami. Najprostsze było ich zamykanie, lecz wtedy interweniowały patrole MO, ORM, aktywu PZPR i organizacji młodzieżowych, wymuszając wznowienie handlu. Oddawano stare długi, spłacano kredyty (choć w tym wypadku fałszowano dokumenty tak, jakby spłaty dokonano 28 października), cały kraj desperacko próbował pozbyć się gotówki, mało kto zaś ją przyjmował. W kościołach wrzucano na tacę rekordowe datki, konsumowano też rekordowe ilości alkoholu.
+
+Kiedy minął okres gorączkowej przedsiębiorczości (i konsumpcji), nadeszła wściekłość. Na wymianę dano bardzo mało czasu, nowych pieniędzy permanentnie brakowało, tworzyły się długie kolejki chcących wymienić banknoty. Nie pomagała świadomość, że dzięki różnicy kursów właśnie ograbiano ich z 2/3 oszczędności.
+
+<video width="640" height="480" controls>
+<source src="./movies/money/Polska KronikaFilmowaReformawalutowa_360p.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Reforma z 1945 roku, choć również złodziejska, została generalnie z mniejszą lub większą niechęcią zaakceptowana, dawało się ją bowiem wytłumaczyć obecnością na rynku reichsmarki i tzw. złotego krakowskiego, jak i poświęceniem dla odbudowy kraju. Tym razem jednak te czynniki nie istniały. Wszyscy doskonale wiedzieli, że władza ich w biały dzień okrada.
+
+Zdarzali się tacy, którzy przyjmowali za dobrą monetę wyjaśnienia o „niwelowaniu niesprawiedliwości”, szybko jednak przekonywali się, że reforma najsilniej uderza po kieszeni zwykłych ludzi. W obliczu ryzyka inflacji osoby posiadające grubszą gotówkę już dawno zainwestowały ją w dobra materialne.
+
+Przyjmuje się, że reforma miała jeden pozytywny skutek: wprowadzenie do obiegu nowej złotówki. Była ona bez porównania trwalsza i staranniej wykonana niż drukowany w Moskwie polski złoty z 1945 roku, lepiej też zabezpieczono ją przed fałszerstwem. Dla obywateli jednak skończyło się to niejako traumą: nieoczekiwanie, z dnia na dzień, pozbawiono ich pieniędzy, nie dając nic w zamian.
+
+Pieniądze zdobyte przez państwo wskutek reformy zostały wydane na budowę wielkich hut i kombinatów metalurgicznych, z których obywatele nie mieli wielkiego pożytku, one same zaś rychło miały okazać się nierentowne.
+Bibliografia
+
+    Dominik Balawender, Wymiana czy kradzież? Reforma walutowa z 1950 roku, „Banking-Magazine.pl”, 9 grudnia 2014 [dostęp: 5 listopada 2018], <http://banking-magazine.pl/2014/12/09/wymiana-kradziez-reforma-walutowa-1950/>
+    Bartosz Dziewanowski-Stefańczyk, Wymiany pieniądza w Polsce w latach 1944–1950, „Mówią Wieki”, nr 4/2015.
+    Robert Furtak, Reformy pieniężne w Polsce w latach 1944–1950, „Annales Universitatis Mariae Curie-Skłodowska. Sectio H, Oeconomia”, t. 29/30 (1995/1996).
+    Jerzy Lasocki, Emisja pieniądza w latach 1944–1982, „Bank i Kredyt”, r. 14 (1983).
+    Janusz Kaliński, Zbigniew Landau, Gospodarka Polski Ludowej. 1944–1955, Książka i Wiedza, Warszawa 1986.
+    Jerzy Kochanowski, Dziesięć dni, które wstrząsnęły portfelem, „Polityka”, 30 października 2010 [dostęp: 5 listopada 2018], <https://www.polityka.pl/tygodnikpolityka/historia/1509906,1,1950-r-dziesiec-dni-ktore-wstrzasnely-portfelem.read>.
+    Plan Trzyletni, [w:] Serwis internetowy Muzeum Historii Polski, [dostęp: 5 listopada 2018], <http://muzhp.pl/pl/e/1698/plan-trzyletni>.
+    Reforma walutowa, czyli skok na kasę obywatela, „Dzieje.pl”, 28 października 2015; aktualizacja 13 lipca 2016 [dostęp: 5 listopada 2018], <https://dzieje.pl/aktualnosci/reforma-walutowa-czyli-skok-na-kase-obywatela>.
+    Ustawa z dnia 28 października 1950 r. o zmianie systemu pieniężnego, „Dziennik Ustaw”, nr 50, poz. 459.
+
 
 ### Psucie pieniądza
 

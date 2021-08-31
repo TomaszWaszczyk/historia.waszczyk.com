@@ -46,6 +46,10 @@ Prokuratorzy, w asyście brygad antyterrorystycznych policji, zamknęli w Warsza
 
 Stacja nie dostała koncesji na nadawanie.
 
+### 1949
+
+Zmarł Adam Władysław Doboszyński, prekursor i jeden z czołowych przedstawicieli polskiego dystrybucjonizmu. Jego proces polityczny i śmierć była jednym z symboli rozpoczęcia w Polsce terroru stalinowskiego
+
 ### 1946
 
 „W ubeckich piwnicach przestrzelone czaszki, To śpiący rycerze majora Łupaszki Wieczna chwała zmarłym, hańba ich mordercom Tętno Polski bije w przestrzelonych sercach”.

@@ -54,6 +54,8 @@ https://en.wikipedia.org/wiki/Quadratic_voting
 
 Made in China 2025
 
+[OPINION]: Digital currencies from central banks.
+
 ### 2020+
 
 Stagflacja??? Inflacje w Polsce???

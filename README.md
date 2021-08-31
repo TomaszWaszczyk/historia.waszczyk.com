@@ -6,6 +6,10 @@ Przedwojenny 1PLN = 0.17grama XAU
 
 Bolszewicy a złoto
 
+http://www.mysl-polska.pl/2028
+
+https://hrabiatytus.pl/category/historia-w-obrazach/
+
 http://www.doomedsoldiers.com/
 
 https://whu.org.pl/2015/01/17/zapomniany-potentat-jan-gotlieb-bloch/
@@ -70,8 +74,6 @@ https://adst.org/
 
 https://13grudnia81.pl/
 
-http://www.biblia.deon.pl/
-
 https://poszukiwania.ipn.gov.pl/bbp/artykuly
 
 http://polishhistory.pl
@@ -116,8 +118,6 @@ https://forumzydowpolskichonline.org/2019/10/10/te-slowa-noblistki-zapamietalem/
 
 http://www.aan.gov.pl - Archiwum Akt Nowych
 
-https://codepen.io/anon/pen/KOyGgO
-
 https://www.britannica.com/topic/USA-PATRIOT-Act
 
 Książka: The mythology and fables of the ancients, explain'd from history
@@ -148,15 +148,11 @@ https://lodz.ipn.gov.pl/
 
 https://www.nac.gov.pl
 
-https://szukajwarchiwach.pl
-
 https://www.loc.gov/collections/
 
 http://dlibra.umcs.lublin.pl/dlibra/plain-content?id=5188
 
 https://archive.org/details/Wagener1978HitlerAusNchsterNNhe/page/n1
-
-https://library.harvard.edu
 
 capitaljewishmuseum.org
 
@@ -1273,12 +1269,6 @@ Linki:
 
 http://vod.tvp.pl/audycje/historia
 
-https://www.youtube.com/user/Historienfilm/
-
-https://www.youtube.com/user/HistoriaBezCenzuryMB/
-
-
-
 Niemcy kupiły LeFigaro w 1916 po to żeby siać defetyzm podczas I Wojny Światowej.
 
 https://pl.wikipedia.org/wiki/Edward_%C5%9Amig%C5%82y-Rydz
@@ -1296,8 +1286,6 @@ https://pl.wikipedia.org/wiki/Akty_Nawigacyjne
 http://www.davidrumsey.com/luna/servlet/
 
 SZAMPAŃSKIE TARGI
-
-https://pl.wikipedia.org/wiki/Kryzys_bankowy_w_Polsce_w_1793
 
 https://pl.wikipedia.org/wiki/New_Deal
 
@@ -1332,9 +1320,6 @@ https://culture.pl/pl/artykul/kolonializm-po-polsku-czyli-dlugi-cien-panszczyzny
 https://www.marxists.org/polski/trocki/1930/hrr/index.htm
 
 https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
-
-
-Rotmistrz Pilecki poczytać o nim
 
 Roman Dmowski
 
