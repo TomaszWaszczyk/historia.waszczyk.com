@@ -8,6 +8,18 @@ Bolszewicy a złoto
 
 http://www.mysl-polska.pl/2028
 
+https://dzieje.pl/
+
+## Książki
+
+* Churchil, Hitler i Niepotrzebna Wojna, Patrick J. Buchanan
+
+* Historia Polityczna Polski 1935 - 1945, Paweł Wieczorkiewicz
+
+* Pakt Ribbentrop-Beck, Piotr Zychowicz
+
+* Historia Polski od 11 listopada 1918 do 17 września 1939, Stanisław Cat-Mackiewicz
+
 https://hrabiatytus.pl/category/historia-w-obrazach/
 
 http://www.doomedsoldiers.com/

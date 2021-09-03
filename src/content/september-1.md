@@ -8,6 +8,12 @@ tags:
   - Niemcy
 ---
 
+### 2021
+
+> Lech Wałęsa i władze Gdańska miały swoje uroczystości, a rząd i NSZZ "Solidarność" - swoje.
+
+Po 41 latach od porozumień sierpniowych Polacy są podzieleni. Nawet obchody były osobne Otworzyły drogę do powstania Solidarności i do wolności. Podpisane 41 lat temu porozumienia sierpniowe stały się początkiem przełomu. We wtorek w Gdańsku odbyły się obchody rocznicowe. Lech Wałęsa i władze Gdańska miały swoje uroczystości, a rząd i NSZZ "Solidarność" - swoje. Kiedy Polacy będą świętować wspólnie? - Jak wymrze nasze pokolenie - ocenił były prezydent Lech Wałęsa.
+
 ### 2017
 
 The demand for long-term data storage is reaching unprecedented levels. By 2023, it’s expected that over 100 zettabytes of data will be stored in the cloud. Operating at such scales requires a fundamental re-thinking of how we build large-scale storage systems, as well as the underlying storage technologies that underpin them.
@@ -35,6 +41,28 @@ Zdjęcie: Leszek Biernacki
 Obwieszczenie wydane przez Kierownictwo Walki Podziemnej.
 
 <img src="./img/september/obwieszczenie.jpg"/><br><br>
+
+---
+
+Ekonomia II Wojny Światowej
+
+Rok 1943. Sankt-Florian, niedaleko Linzu. Minister Uzbrojenia i Amunicji III Rzeszy ( Reichsminister für Bewaffnung und Munition) podczas konferencji z udziałem przedstawicieli niemieckich producentów broni i amunicji, prezentuje prognozę wzrostu produkcji zbrojeniowej na 1944 rok.
+Pozwoliłem sobie zamieścić kilka wykresów, które ilustrują wzrost produkcji zbrojeniowej w III Rzeszy i to pomimo alianckich bombardowań i ograniczonych zasobów surowcowych. Wzrost produkcji związany był nie tylko z faktem ograniczania do minimum produkcji cywilnej i rozbudową istniejących i budową nowych fabryk uzbrojenia. Ważnym czynnikiem sprzyjającym wzrostowi produkcji były też działania, którym osobiście patronował Speer, takie jak:
+1. Wzrost produktywności. Przyjmując lata 1941-42 za 100% to w następnych latach mamy 1942-43 157%; 1943-44 189% i rekordowe miesiące czerwiec-lipiec 1944 234%. Dzisiaj wskaźnik produktywności jest z reguły prezentowany jako OEE (Overall Equipment Effectiveness). Wykorzystanie więźniów obozów koncentracyjnych i robotników przymusowych miało również wpływ na zwiększenie produktywności.
+2. Zużycie materiałów i surowców. Pomiędzy rokiem 1941 a 1944 wskaźnik średniego zużycia został zredukowany z 4:1 do 2:1 – oznacza to np., że z 4 ton stali uzyskiwano 1 tonę wyrobu gotowego. Za tym stało usprawnianie procesów wytwórczych np.: eliminacja obróbki skrawaniem na rzecz tłoczenia.
+Zamieszczam również wykres, który ilustruje różnicę pomiędzy PKB (GDP - gross domestic product) Państw Osi (Axis). W 1940 roku był najkorzystniejszy - przed przystąpieniem USA do wojny i po wyeliminowaniu Francji PKB Aliantów wynosiło 158% PKB Państw Osi
+
+<img src="./img/september/ekonomiawojny.jpg"><br><br>
+
+<img src="./img/september/ekonomiawojny2.jpg"><br><br>
+
+<img src="./img/september/ekonomiawojny3.jpg"><br><br>
+
+<img src="./img/september/ekonomiawojny4.jpg"><br><br>
+
+Źródło: Alfred C. Mierzejewski: The Collapse of the German War Economy, 1944-1945, US, The University of North Carolina Press-Chapel Hill, 1988,
+
+---
 
 ### 1940
 
@@ -211,7 +239,7 @@ Dziś nie ma już żadnej wątpliwości, że Polska została wciągnięta w wir 
 
 ---
 
-## 1925
+### 1925
 
 https://pl.wikipedia.org/wiki/Tadeusz_Ste%C4%87
 
@@ -227,19 +255,11 @@ https://pl.wikipedia.org/wiki/Tadeusz_Ste%C4%87
 
 ---
 
-## Książki
+### 1910
 
-* Churchil, Hitler i Niepotrzebna Wojna, Patrick J. Buchanan
+Papież Pius X wprowadził obowiązek składania tzw. "Przysięgi antymodernistycznej" przez wszystkich księży i biskupów przed uzyskaniem święceń oraz przez nauczycieli religii i profesorów w seminariach duchownych.
 
-* Historia Polityczna Polski 1935 - 1945, Paweł Wieczorkiewicz
-
-* Pakt Ribbentrop-Beck, Piotr Zychowicz
-
-* Historia Polski od 11 listopada 1918 do 17 września 1939, Stanisław Cat-Mackiewicz
-
-## Muzyka
-
-* Krzysztof Penderecki - "Polish Requiem"
+<img src="./img/august/piusx.jpeg"><br><br>
 
 ---
 

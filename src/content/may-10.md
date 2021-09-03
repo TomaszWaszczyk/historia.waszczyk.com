@@ -174,6 +174,14 @@ Wypuszczony z więzienia po wejściu w życie układu Sikorski-Majski, w marcu 1
 
 <img src="./img/may/kaczorowski.jpg"><br><br>
 
+### 1939
+
+W Warszawie z Józefem Beckiem spotkał się Władimir Potiomkin, zastępca ludowego komisarza spraw zagranicznych ZSRR.
+'Pokój jest rzeczą cenną i pożądaną. (...) Ale pokój, jak prawie wszystkie sprawy tego świata, ma swoją cenę, wysoką, ale wymierną. My w Polsce nie znamy pojęcia pokoju za wszelką cenę. Jest tylko jedna rzecz w życiu ludzi, narodów i państw, która jest bezcenną. Tą rzeczą jest honor'
+Podczas półtoragodzinnej rozmowy szef polskiego MSZ zapewnił go, że Polska nie planuje antysowieckiej akcji we współpracy z hitlerowskimi Niemcami. Z kolei Potiomkin zapowiedział, że w wypadku agresji z zachodu Polska może liczyć na pomoc ZSRR. Beck był zadowolony, że pierwszy raz od lat rozmowa była wolna od nieufności i że pan Potiomkin doskonale zrozumiał polską politykę. Nie zorientował się, że dyplomata miał za cel wzmocnić nieugięte stanowisko Polski wobec Niemiec. Od tygodnia bowiem szefem Potiomkina był Wiaczesław Mołotow - zwolennik porozumienia sowiecko-niemieckiego.
+
+<img src="./img/may/potomkin.jpg"><br><br>
+
 ### 1936
 
 Szaleństwo wojny domowej w Hiszpanii. Wyrzucanie z trumien zmarłych, bezczeszczenie zwłok, niszczenie obiektów kultu religijnego, terror, samosądy i wiele innych. Na zdjęciach żołnierze strony republikańskiej i ich dzieło
@@ -213,6 +221,22 @@ Francuski pionier lotów baloniarskich Jean Pierre Blanchard (grafika) odbył pi
 Francuz przybyły do Polski na zaproszenie króla Stanisława Augusta Poniatowskiego wystartował z ogrodu Foksal w Warszawie, by po 49 minutach wylądować w Białołęce. Udało mu się osiągnąć pułap dwóch kilometrów wysokości.
 
 <img src="./img/may/blanchard.jpg"><br><br>
+
+### 70
+
+Zostaje rozpoczęte oblężenie Jerozolimy przez wojska rzymskie pod dowództwem Tytusa.
+W 66 roku ery wspólnej rozpoczęło się ostatnie powstanie, ostatni bunt narodu wybranego, skierowany przeciwko Rzymianom. Po czterech latach walk Tytus, młody następca tronu, skierował swoje wojska pod Święte miasto, by w ciągu kilku miesięcy krwawych walk i okrutnego oblężenia, obrócić je w perzynę.
+Jerozolima była miastem, zdawałoby się, nie do zdobycia. Wzniesione na wzgórzach, chronione było wąwozami; źródło Siloe tryskające w dolnym mieście, zapewniało stały dostęp do świeżej wody. Od strony północnej i północno-zachodniej potrójne mury obronne otaczały miasto. Mur zewnętrzny, którego budowę rozpoczął w roku 42 Agryppa I, chronił Bezetę. Niestety, budowa muru została przerwana; dokończony w pośpiechu po rozpoczęciu wojny, nie było wystarczająco mocny. Za nim biegł drugi mur, łączący się z twierdzą Antonią, chroniącą Świątynię. Mur pierwszy - najstarszy - otaczał dzielnice łączące się ze Świątynią. Jego obwód liczył koło 7 kilometrów. Na każdym z murów umieszczone były masywne wieże strażnicze. Po przebudowach czasów helleńskich każdy pałac był równocześnie twierdzą.
+Jednak w samej Jerozolimie działy się rzeczy straszne. Trwała wojna domowa. Trzy stronnictwa walczyły o władzę, nie potrafiąc w obliczu zagrożenia pogodzić się. Przerażający konflikt prowadziły trzy stronnictwa: Eleazar, syn Szymona z zelotami, Jan z Gischali i Szymon, syn Goriasa. Walki doprowadziły do spalenia zapasów żywności, która mogłaby pozwolić na przetrwanie wieloletniego oblężenia. Trzy bratobójcze frakcje opamiętały się dopiero na widok rzymskich wojsk oblegających miasto. Jan wykorzystuje święto Pesach i niszczy stronnictwo Eleazara. Jednak nadal dwa pozostałe obozy rywalizowały wewnątrz miasta.
+Tytus, decydując się na oblężenie, wiedział, że nie ma przed sobą łatwego zadania. Starał się równocześnie prowadzić wojnę psychologiczną - jak okazało się, bezskuteczną. Do oblężenia zatrudnił cztery legiony; rozmieścił je początkiem maja na okolicznych wzgórzach, sam zajmując stanowisko na górze Skopos - z widokiem na "jaśniejące gmachem Przybytku miasto".
+Na początku znikła cała część Jerozolimy poza murami - wyrównana przez oblegających. Zaatakowano z trzech stron równocześnie. Mimo oporu obrońców (Józef Flawiusz podaje, że było ich 23 403), piętnastego dnia w zewnętrznym murze powstaje wyłom. Żydzi zmuszeni zostali do wycofania się poza dwa pozostałe. Mimo silnego oporu, Tytusowi wystarczyło pięć dni, aby zawładnąć drugim murem. Wspaniałomyślnie darował życie zamieszkującym w jego obrębie rzemieślnikom i sklepikarzom. Jednak wojownicy zmusili oddziały rzymskie do odwrotu. Przy ponownym szturmie Żydzi własnymi ciałami przez trzy dni zasłaniali wyłom w murze - by czwartego dnia odsłonić nowy. Tym razem Tytus bezzwłocznie obalił cały mur.
+Przed rozpoczęciem następnego oblężenia - mającego obalić ostatni pozostały mur - wódz rzymski zdecydował się wznieść wały do ataku na Świątynie i górne miasto. Pomimo rozpaczliwego, beznadziejnego położenia, głodu i mnożących się dezercji, obrońcy zdecydowali się walczyć do samego końca.
+Rzymianie w błyskawicznym tempie - w ciągu trzech dni - zbudowali siedmiokilometrowy mur z trzynastoma strażnicami, zamykający święte miasto w pułapce. Następujące potem kilkutygodniowe walki przerosły okropieństwami wszystkie dotychczasowe.
+W pewnej chwili oblegający byli bliscy upadku morale - gdy po rozbiciu muru wokół Antonii i Świątyni odkryli, że za nim wznosi się drugi. Jednak Tytusowi udało się utrzymać w ryzach żołnierzy. Rozpoczęły się walki wręcz. Starcia trwały po kilkanaście godzin. Maszyny oblężnicze uderzały w głazy zewnętrznego muru Świątynni, podkopywano się pod fundamenty - na próżno, twierdza stworzona przez Heroda Wielkiego trzymała się mocno.
+Po kolejnym szturmie Żydzi schronili się w wewnętrznym okręgu Sanktuarium, by tam pościć w rocznicę zburzenia Świątyni przez Nabudonozora - przypadającą akurat tego dnia - 9 aw. W takich okolicznościach jeden z rzymskich żołnierzy, nie zważając na rozkazy Tytusa, który chciał uniknąć zniszczenia pięknej budowli, wzniecił pożar. Pchnięci jego czynem legioniści, owładnięci wściekłością i rządzą walki, podsycali go, wdarli się do wewnątrz, siejąc mord. Zrównano z ziemią wszystkie budowle wokół zgliszcz Świątyni. Pożoga rozszerzyła się na dolne miasto aż po Siloę, pochłaniając pałace, domy pełne trupów, ulice.
+Pozostało górne miasto, wciąż broniące się pod wodzą Szymona. Szturm przypuszczono osiemnaście zaledwie dni po zburzeniu Świątyni. Szybkie zwycięstwo upoiło rzymskich żołnierzy, którzy wdarli się do miasta, zalewając je krwią.
+
+<img src="./img/may/oblezeniejerozolimy.jpg"><br><br>
 
 ---
 

@@ -3,9 +3,27 @@ layout: post
 title: 2 września
 image: img/september/volks.png
 author: Tomasz Waszczyk
-date: 2019-09-02T10:00:00.000Z
+date: 2020-09-02T10:00:00.000Z
 tags:
   - ECB
+---
+
+### 2021
+
+Prezydent Andrzej Duda podjął decyzją o wydaniu rozporządzenia o wprowadzeniu stanu wyjątkowego na okres 30 dni w przygranicznym pasie z Białorusią, czyli na części województw podlaskiego i lubelskiego – podał rzecznik prezydenta Błażej Spychalski. Pas ten obejmuje 183 miejscowości (115 w woj. podlaskim i 68 w woj. lubelskim) bezpośrednio przylegające do granicy.
+
+---
+
+Przeglądam koszty wojny w Afganistanie, niemal wszystkie media przytaczają dane z raportu Brown University i podają kwotę $2,29 bln. Forbes nawet skrupulatnie przelicza te koszty na $300mln DZIENNIE, statystyczny Amerykanin zapłacił za tę wojnę $24tys. niektórzy dodają do tego koszty, które trzeba będzie ponieść na weteranów, odsetki itd wówczas suma urasta do $6,5bln
+
+Ale kiedy sięgam do źródeł czyli do Raportu to koszt wojen USA po 11-tym września 2001 roku (Afganistan, Irak, Syria) zamyka się kwotą $8bln, dla porównania CAŁY budżet USA w 2021 r. to tylko $3,4 bln a budżet Polski to zaledwie $0,1 bln.
+
+<img src="./img/september/wojnausa.jpeg"><br><br>
+
+---
+
+Nie wyegzekwujemy sprawiedliwego zadośćuczynienia za skutki napaści 1 września 1939 na nasz kraj, skoro dziś w Polsce według mediów polskie armie walczyły tego dnia z wybuchem wojny światowej, a nie z niemieckimi armiami.
+
 ---
 
 ### 2020
@@ -36,6 +54,10 @@ P. K. Dick to the FBI [2 September 1974] :
 ### 1949
 
 https://pl.wikipedia.org/wiki/Hans-Hermann_Hoppe
+
+### 1944
+
+https://en.wikipedia.org/wiki/Stefan_Rowecki - Grot Rowecki
 
 ### 1939
 

@@ -3,10 +3,30 @@ layout: post
 title: 4 września
 image: img/september/katowice.jpg
 author: Tomasz Waszczyk
-date: 2019-09-04T10:00:00.000Z
+date: 2020-09-04T10:00:00.000Z
 tags:
   - Agenda 21
 ---
+
+### 2021
+
+AFGAŃSKI TORT
+
+Wszyscy wiecie co się ostatnio wydarzyło, internet zalały informacje o tym co dzieje się w Afganistanie. Ja natomiast pokażę Wam pewne zdarzenia, która jasno pokazują jaki to piękny teatr przygotowany przez elity dla mass. Afgański cyrk się nie skończy, a to dopiero początek nowych problemów, które czekają Bliski Wschód. W mediach wykreowano narrację jakoby USA sobie nie poradziło. To jest bzdura, oni od samego początku wszystko przemyślnie kontrolują i sterują Talibami jak chcą.
+Na poniższym zdjęciu widzicie Sekretarza stanu Mike'a Pompeo, który spotykał się z mułłą Abdulem Ghanim Baradarem, szefem talibskiego zespołu negocjacji pokojowych, podczas rozmów między talibami a rządem afgańskim, 21 listopada 2020 r. w Doha w Katarze. Mike Pompeo oprócz tego, że był sekretarzem stanu także jest członkiem grupy Bilderberg, zaprzyjaźniony z Henrym Kissingerem (jedna z czołowych postaci w kreowaniu NWO).
+Rozmowy pokojowe rozpoczęły się za prezydentury D. Trumpa, ale w tym momencie to jest już bez znaczenia. Prezydenci to tylko kukły. Ważne natomiast jest to kto uwolnił Abdul Ghani Baradar "Pakistan uwolnił współzałożyciela talibów Mullaha Abdula Ghaniego Baradara na prośbę USA, aby pomógł przyspieszyć afgańskie rozmowy pokojowe, powiedział specjalny wysłannik Waszyngtonu w Afganistanie Zalmay Khalilzad." Uwolnili go w październiku 2018 roku.
+
+Co z tego wynika? Amerykanie ustanowili rząd Afgański, stworzyli im armię, dali sprzęt i jednocześnie zaczęli uwalniać czołowych przywódców Talibów żeby zaprowadzić pokój w Afganistanie? Coś tu nie gra. 😉
+Kolejną ciekawą informacją jest to, że Dyrektor CIA William Burns spotkał się z politycznym przywódcą talibów Abdulem Ghanim Baradarem potajemnie.
+
+Inną ciekawą kwestią o której mało się mówi jest współpraca Chin z Talibami. Abdul Ghani Baradar spotkał się z Chińskim ministrem spraw zagranicznych Wang Yi.
+
+Chiny zapowiedziały pomoc i ścisłą współpracę z Afganistanem pod rządami Talibów. Ważną sprawą dla Chińczyków jest tzw. "Korytarz Wachański". Jest to wąski pas terytorium, który ma około 300 km długości i kilkadziesiąt kilometrów szerokości i łączy Afganistan z Chinami. To może być dla Chin ważny szlak handlowy, ale też sam Afganistan odgrywa kluczową rolę jeśli chodzi o Iran. 
+Ministrowie spraw zagranicznych Iranu i Chin, Dżawad Zarif i Wang Yi, 27 marca podpisali w Teheranie 25-letnią umowę o współpracy. Jest to konkretna umowa szacunkowo Chiny mają zainwestować w Iranie 400 miliardów dolarów. Mówi się głównie o infrastrukturze i surowcach (które potrzebne są Chinom), ale współpraca na pewno się na tym nie skończy i kwestie militarne też wejdą w grę. Dlatego m.in. Zachodnie państwa wolą dogadać się z Iranem niż słuchać Psów Wojny z Izraela by zaatakować Persów. Nowy Premier Izraela chce storpedować Porozumienie Nuklearne z Iranem, tym samym wywołać wojnę jakiej jeszcze ten świat nie widział. Co rusz większość mediów straszy nas ile to już Iran nie wyprodukował tego Uranu, ilu tam jest terrorystów i inne bzdety wymyślone na potrzeby propagandy skierowanej przeciwko Iranowi.
+
+Deal Chin z Afganistanem pozwoli na lepszą współpracę z Iranem. Tylko po to Chinom potrzebni są Talibowie. Problem w tym, że globalne elity sterują od samego początku całym tym Afgańskim cyrkiem za pomocą służb jak choćby CIA i raczej nie czeka nas nic dobrego. Ktoś serio myśli, że amerykańska armia zostawiłaby od tak tony sprzętu? To ma czemuś służyć i myślę, że wkrótce przekonamy się jaki był ich zamiar.
+Po za tym rozwożenie po całym świecie (ta ich tzw. ewakuacja) kolaborantów CIA, NSA i w tym także terrorystów może znowu doprowadzi do powrotu zamachów, Koronka się trochę nudzi, a strach wśród społeczeństwa trzeba podtrzymywać. Wmawia nam się, że na granicy Białorusko - Polskiej są biedne kobiety i dzieci z Afganistanu to bzdura, ci ludzie są z innych państw Arabskich.
+I tak właśnie manipulują opinią publiczną, zapytajcie kogokolwiek czy ma jakieś pojęcie o tym co napisałem? Ludzie muszą sami zacząć łączyć kropki jak chcą zrozumieć o co tak na prawdę toczy się gra. Przez ich chorą walkę o władzę, znowu zginie mnóstwo ludzi. Tych wątków jest tutaj o wiele więcej, ale chciałem przedstawić ogólny zarys jak to realnie wygląda. Kto będzie chciał sam znajdzie więcej "smaczków" na ten temat. Za wszystkim zawsze stoją globalne elity, szczególnie ci, którzy sterują służbami i należą do nieoficjalnych grup jak choćby grupa Bilderberg. Tutaj mogę Wam polecić poszukać informacji z 1971 roku na temat wizyt Kissingera w Chinach. 😉
 
 ### 2020
 

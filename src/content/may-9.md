@@ -91,6 +91,13 @@ Poniższy tekst to fragment książki Emanuela Ringebluma pt "Kronika Getta Wars
 
 <img src="./img/may/ringeblum.jpg"><br><br>
 
+### 1917
+
+I wojna światowa: na froncie zachodnim zakończyła się nieudana ofensywa Nivelle’a. Ofensywa była krótka lecz obfita w straty dla... atakujących. Francuzi - 187 tysięcy, Brytyjczycy - 160 tysięcy. W końcu Francuzi mieli tego dość. 27 V 1917 roku wybuchł w Armii Francuskiej otwarty bunt.
+Ofensywa wojsk francuskich i brytyjskich przeprowadzona na froncie zachodnim podczas I wojny światowej przeciwko siłom niemieckim. Rozpoczęta 9 kwietnia, trwała do 9 maja 1917. Plan jej opracował szef Sztabu Generalnego generał Robert Nivelle. Ofensywa zakończyła się niepowodzeniem wojsk francuskich i usunięciem ze stanowiska Roberta Nivelle’a.
+
+<img src="./img/may/nivelle.jpg"><br><br>
+
 ### 1831
 
 W czasie powstania listopadowego pod Firlejem w województwie lubelskim miała miejsce bitwa powstańców dowodzonych przez generała Chrzanowskiego z rosyjskim korpusem generała Kreutza.

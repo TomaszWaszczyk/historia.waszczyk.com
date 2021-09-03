@@ -120,6 +120,13 @@ Na zdjęciu członkowie Poalej Syjon-Lewica oddziału Szydłowiec (1934)
 
 <img src="./img/april/poalej.jpg"><br><br>
 
+### 1803
+
+USA kupiły od Francji kolonię Luizjana.
+- Niepokoicie się o wasze interesy w Nowym Orleanie, to go kupcie - powiedział w 1802 r. ambasadorowi USA szef francuskiej dyplomacji Talleyrand. 30 kwietnia 1803 r. Francuzi za nieco ponad 23 mln ówczesnych dolarów oddali Amerykanom tereny zajmujące 2,14 mln km kw., a obszar ten niemal podwoił powierzchnię USA. Ostatecznie powstało tam 13 nowych stanów stanowiących dziś niemal 25 proc. powierzchni kraju. Odkrywanie Luizjany, nazwanej tak na cześć króla Ludwika XIV, zaczęło się w 1673 r. Z czasem obszar francuskiej Luizjany obejmował obszar pomiędzy Appalachami a Górami Skalistymi, ale nie zamieszkiwało go więcej niż 30 tys. białych. W 1763 r. po przegranej przez Paryż wojnie siedmioletniej część Luizjany przypadła Wielkiej Brytanii i Hiszpanii, by w 1800 r. wrócić na chwilę do Francji.
+
+<img src="./img/april/luizjana.jpg"><br><br>
+
 ### 1777
 
 https://pl.wikipedia.org/wiki/Carl_Friedrich_Gauss

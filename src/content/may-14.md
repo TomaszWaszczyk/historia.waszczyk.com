@@ -19,6 +19,17 @@ Największą zwolenniczką powrotu służby zasadniczej jest sędzia TK oraz by�
 
 Obecnie już wiadomo, że decyzja o likwidacji obowiązku odbywania zasadniczej służby wojskowej była nieprzemyślana i spowodowała tak duże szkody, że naprawić je można tylko poprzez powrót do przymusowego poboru - stwierdził w rozmowie z Defence24.pl, kmdr ppor. rez. Maksymilian Dura.
 
+---
+
+Hamas rockets on the right ready to get intercepted by IronDome tamir interceptors on the left
+Now imagine if Israel didn't have the Iron Dome with 2000 rockets pounding into Israel, the pure horror and thousands of dead Israelis.
+
+Jerusalem Jane
+
+<img src="./img/may/hammasrockets.jpg"><br><br>
+
+---
+
 ### 2020
 
 🔴78 mld zł, aż 3 proc. polskiego PKB, to dług, jaki polski rząd zaciągnął w ciągu zaledwie dwóch tygodni.

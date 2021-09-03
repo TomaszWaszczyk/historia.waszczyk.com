@@ -42,6 +42,14 @@ Pochowana na warszawskich Powązkach.
 
 Ciekawostka: Jako mała dziewczynka bardzo bała się osób niepełnosprawnych.
 
+### 1945
+
+W Amsterdamie na placu Dam doszło do masakry ludności holenderskiej oczekujacej nadejścia wojsk alianckich.
+
+Przed pałacem królewskim w Amsterdamie zgromadził się tłum oczekujący nadejścia wojsk alianckich. Holendrzy świętowali koniec wojny, bo w nocy w Reims kapitulację Niemiec podpisał gen. Alfred Jodl. Mieszkańcy śpiewali, tańczyli i machali pomarańczowymi flagami. Wydarzenie z okien kamienicy obserwowali pijani oficerowie niemieckiej marynarki. W pewnym momencie zaczęli strzelać do bezbronnego tłumu z karabinu maszynowego zamontowanego na balkonie. Być może bezpośrednim powodem rozpoczęcia masakry była próba rozbrojenia niemieckich żołnierzy przez Holendrów. Do dziś nie wiadomo, ile osób zginęło tego dnia na pl. Dam – zapewne ok. 20-30, a ponad 100 odniosło rany.
+
+<img src="./img/may/amsterdam.jpg"><br><br>
+
 ### 1943
 
 W ruinach getta przy ulicy Dzielnej 27 w Warszawie rozstrzelany został przez Niemców Jan Wilhelm Hörl (zdjęcie) podporucznik broni pancernych, Cichociemny, członek Okręgu Lublin Armii Krajowej.

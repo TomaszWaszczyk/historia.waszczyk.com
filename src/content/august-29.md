@@ -72,6 +72,14 @@ W całej Polsce zostały powieszone takie plakaty, autorstwa Henryka Tomaszewski
 
 <img src="./img/august/kazdyzolnierzem.jpeg"><br><br>
 
+### 1938
+
+Amerykański magazyn "Life" w jednym z artykułów tak opisywał Polskę:
+„Polska oznacza Kraj Pól. Jest tak duża, jak Hiszpania, a kształtem przypomina meduzę. Polska została zrekonstruowana jako republika jedyne 20 lat temu przez prezydenta USA Woodrow Wilsona. Jej "historia" jako narodu jest starsza i bardziej chwalebna, niż Niemiec czy Rosji”, ale zarazem. Polska posiada „najniższy standard życia w Europie". 
+„Kraj Pól” nawiedzają klęski głodu. 40 procent obywateli nie umie czytać ani pisać. Ale najważniejszą rzeczą, która determinuje sytuację geopolityczną Polski jest fakt, że kraj ten leży między Niemcami a Rosją. Kraj „jest podminowany wiecznym strachem przed tymi dwoma wielkimi zagrożeniami na raz”. Polacy nienawidzą Rosjan, ponieważ Polacy są dobrymi katolikami, a bolszewicy – areligijni. I dlatego, że Rosja tyranizowała Polskę przez 200 lat. Polska jest "szakalem" przy niemieckim lwie. Gdy Niemcy zajęły Austrię Polacy próbowali zająć Litwę. Kiedy Niemcy zajęli Czechy, Polska odkroiła swój „ochłap szakala”: Śląsk."
+
+<img src="./img/august/polska1938.jpg"><br><br>
+
 ### 1931
 
 https://en.wikipedia.org/wiki/Evelyn_de_Rothschild

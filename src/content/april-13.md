@@ -35,6 +35,21 @@ Kolejna odprawa: na stole lądują spawalnicze przyłbice od znajomego hutnika, 
 
 ---
 
+### 1990
+
+Podczas wizyty prezydenta RP generała Wojciecha Jaruzelskiego w Moskwie miało miejsce przekazanie dokumentów w sprawie Zbrodni Katyńskiej. 
+Strona radziecka wyraziła przy tej okazji głębokie ubolewanie z powodu, jak to nazwano " jednej z najcięższych zbrodni okresu stalinizmu", obciążając jednocześnie odpowiedzialnością za nią komisarza NKWD Ławrientija Berię i jego zastępcę Wsiewołoda Mierkułowa.
+Podczas wizyty Jaruzelski otrzymał z rąk Michaiła Gorbaczowa (obaj na zdjęciu, po środku Józef Czyrek) między innymi kopie list więźniów skierowanych w kwietniu i maju 1940 roku z obozu jenieckiego w Kozielsku do Smoleńska i z obozu w Ostaszkowie do Kalinina (obecny Twer), a także wykaz akt ewidencyjnych jeńców wojennych, których wywieziono z obozu NKWD w Starobielsku. Prezydent ZSRR oficjalnie zlecił wówczas wyjaśnienie sprawy katyńskiej.
+
+<img src="./img/april/zbrodniakatynska.jpg"><br><br>
+
+### 1957
+
+Kościół Mariacki w Krakowie odzyskał ołtarz Wita Stwosza, wywieziony do Niemiec w czasie II wojny światowej.
+Po 18 latach ołtarz Wita Stwosza znów można oglądać w krakowskim kościele Mariackim. We wrześniu 1939 r. prof. Karol Estreicher ukrył figury z ołtarza w katedrze w Sandomierzu, ale Niemcy je znaleźli i wywieźli do schronu na zamku w Norymberdze. Natomiast konstrukcję nośną - skrzynię i skrzydła - nietkniętą od czasów Wita Stwosza rozpiłowali i ukryli w zamku Wiesenthau, 30 km od Norymbergi. Po wojnie Estreicher, któremu pomogli Amerykanie, odnalazł ołtarz i konstrukcję. Wraz z innymi zrabowanymi skarbami dzieło przyjechało do Krakowa pociągiem w maju 1946 r. Renowacja w pracowni konserwatorskiej na Wawelu trwała długo, na swoje miejsce ołtarz wrócił dopiero 11 lat po przywiezieniu do Polski.
+
+<img src="./img/april/oltarzkrakow.jpg"><br><br>
+
 ### 1951
 
 Ginie <https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Dziemieszkiewicz>

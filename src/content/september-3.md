@@ -3,10 +3,16 @@ layout: post
 title: 3 września
 image: img/september/wojna.png
 author: Tomasz Waszczyk
-date: 2019-09-03T10:00:00.000Z
+date: 2020-09-03T10:00:00.000Z
 tags:
   - Józef Bik
 ---
+
+### 2021
+
+Majority of Salvadorans do not want Bitcoin, poll shows.
+
+At least 67.9% of 1,281 people surveyed said they disagree or strongly disagree with the use of Bitcoin as a legal tender, said the poll by UCA, a Jesuit university based in El Salvador - Reuters 
 
 ### 1967
 

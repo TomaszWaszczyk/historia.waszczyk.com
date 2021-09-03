@@ -44,6 +44,23 @@ Miały być nowe elity? To proszę jak można temacik ogarnąć. Polityka to jed
 
 <img src="./img/april/ethereumelon.jpeg"><br><br>
 
+### 1942
+
+Niemiecki as lotnictwa Joachim Munchenberg zestrzelił nad Francją asa polskiego lotnictwa pilota Dywizjonu 303 podpułkownika Mariana Pisarka.
+Marian Pisarek należał do grupy najbardziej doświadczonych polskich pilotów myśliwskich. W 1939 roku pełnił obowiązki zastępcy dowódcy 141. Eskadry Myśliwskiej. 1 września 1939 zestrzelił samolot rozpoznawczy Hs 126 (wg niektórych danych było to zwycięstwo wspólne ze Stanisławem Skalskim). 
+2 września brał udział w tragicznym ataku eskadry na niemiecką kolumnę zmotoryzowaną, tracąc wielu kolegów. Tego samego dnia wieczorem omyłkowo zestrzelił "Karasia", biorąc go za Ju 87.       
+Od 3 września - dowódca eskadry. 4 września 1939 Pisarek nie zrobił już pomyłki i zestrzelił prawdziwego Ju 87. 
+Mjr Pisarek znajduje się na 7 miejscu na liście najlepszych polskich pilotów z wynikiem:  12 pewnych - 1 prawdopodobny - 2 uszkodzone.
+Odznaczenia, które otrzymał to :
+Krzyż Złoty Orderu Wojennego Virtuti Militari – pośmiertnie 11 czerwca 1945, krzyż nr 00143
+Krzyż Srebrny Orderu Wojennego Virtuti Militari – 17 września 1940, krzyż nr 08830, dekoracja 23 grudnia 1940 
+Krzyż Walecznych – czterokrotnie (czwarty raz 30 października 1941), 
+Medal Lotniczy, 
+Polowa Odznaka Pilota,
+brytyjski Distinguished Flying Cross - 30 października 1941.
+
+<img src="./img/april/pisarek.jpg"><br><br>
+
 ### 1933
 
 Lotnisko na Polu Mokotowskim. Wiele lat później hasło "LOTem Bliżej" reklamowało polskie linie lotnicze. Chyba wtedy jeszcze niewielu klientów mogło to potwierdzić. Zdjęcie ze zbiorów NAC.

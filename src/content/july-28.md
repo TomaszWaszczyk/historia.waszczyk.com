@@ -88,6 +88,12 @@ Na zdjęciu Gerald Ford i Edward Gierek.
 
 <img src="./img/july/fordgierek.jpg"><br><br>
 
+### 1945
+
+Empire State Building po uderzeniu bombowca B-25
+
+<img src="./img/july/bomowiec.jpg"><br><br>
+
 ### 1943
 
 W prywatnym apartamencie w Białym Domu w Waszyngtonie (USA) odbyło się spotkanie emisariusza władz Polskiego Państwa Podziemnego Jana Karskiego z prezydentem Stanów Zjednoczonych Franklinem Delano Rooseveltem. W czasie trwającego godzinę i piętnaście minut spotkania Karski przedstawił Roosveltowi swój raport  na temat tragicznej sytuacji ludności polskiej i żydowskiej pod okupacją niemiecką. Przedstawił skalę demoralizacji okupanta, stosowane  przez niego środki terroru, działalność podziemia żydowskiego i strukturę polskiej konspiracji. Jan Karski przekazał postulaty, jakie wysuwali wobec aliantów przywódcy żydowscy, którzy wprowadzili Karskiego do getta warszawskiego. Jan Karski odpowiadał również na bardzo szczegółowe pytania samego prezydenta. Po latach Karski wspominał: ,,Serce biło mi mocno, kiedy wchodziłem do Białego Domu z ambasadorem Polski. Miałem spotkać najpotężniejszego człowieka na świecie. Prezydent Roosevelt sprawiał wrażenie silnego, wypoczętego i dalekiego od zapracowania. Wydawało się, że ma dużo czasu. Przywitał się z nami i poprosił o zajęcie miejsc w fotelach. Zapalił papierosa w wyjątkowo długiej srebrnej lufce. Już pierwsze pytanie pokazywało, że jest bardzo dobrze poinformowany o sytuacji w Polsce, ale chce wiedzieć więcej.
