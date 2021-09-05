@@ -10,14 +10,20 @@ tags:
 
 ### 2021
 
-AFGAŃSKI TORT
+[OPINIA] AFGAŃSKI TORT
 
 Wszyscy wiecie co się ostatnio wydarzyło, internet zalały informacje o tym co dzieje się w Afganistanie. Ja natomiast pokażę Wam pewne zdarzenia, która jasno pokazują jaki to piękny teatr przygotowany przez elity dla mass. Afgański cyrk się nie skończy, a to dopiero początek nowych problemów, które czekają Bliski Wschód. W mediach wykreowano narrację jakoby USA sobie nie poradziło. To jest bzdura, oni od samego początku wszystko przemyślnie kontrolują i sterują Talibami jak chcą.
 Na poniższym zdjęciu widzicie Sekretarza stanu Mike'a Pompeo, który spotykał się z mułłą Abdulem Ghanim Baradarem, szefem talibskiego zespołu negocjacji pokojowych, podczas rozmów między talibami a rządem afgańskim, 21 listopada 2020 r. w Doha w Katarze. Mike Pompeo oprócz tego, że był sekretarzem stanu także jest członkiem grupy Bilderberg, zaprzyjaźniony z Henrym Kissingerem (jedna z czołowych postaci w kreowaniu NWO).
 Rozmowy pokojowe rozpoczęły się za prezydentury D. Trumpa, ale w tym momencie to jest już bez znaczenia. Prezydenci to tylko kukły. Ważne natomiast jest to kto uwolnił Abdul Ghani Baradar "Pakistan uwolnił współzałożyciela talibów Mullaha Abdula Ghaniego Baradara na prośbę USA, aby pomógł przyspieszyć afgańskie rozmowy pokojowe, powiedział specjalny wysłannik Waszyngtonu w Afganistanie Zalmay Khalilzad." Uwolnili go w październiku 2018 roku.
 
+> Pakistan released Taliban co-founder Mullah Abdul Ghani Baradar at US’ request to help expedite the Afghan peace talks
+
+<img src="./img/september/abdhulghani.jpg"><br><br>
+
 Co z tego wynika? Amerykanie ustanowili rząd Afgański, stworzyli im armię, dali sprzęt i jednocześnie zaczęli uwalniać czołowych przywódców Talibów żeby zaprowadzić pokój w Afganistanie? Coś tu nie gra. 😉
 Kolejną ciekawą informacją jest to, że Dyrektor CIA William Burns spotkał się z politycznym przywódcą talibów Abdulem Ghanim Baradarem potajemnie.
+
+<img src="./img/september/williamburns.webp"><br><br>
 
 Inną ciekawą kwestią o której mało się mówi jest współpraca Chin z Talibami. Abdul Ghani Baradar spotkał się z Chińskim ministrem spraw zagranicznych Wang Yi.
 
