@@ -3,11 +3,117 @@ layout: post
 title: 5 września
 image: img/september/naszpremier.jpg
 author: Tomasz Waszczyk
-date: 2019-09-05T10:00:00.000Z
+date: 2020-09-05T10:00:00.000Z
 tags:
   - Eric Schmidt
 draft: false
 ---
+
+### 2021
+
+Paweł Borys prognozuje, kiedy stopy procentowe pójdą w górę. 
+
+> Raty kredytów mogą wzrosnąć o 200-300 zł.
+
+Bankowcy się cieszą: w tym roku zaciągniemy najwyższy dług hipoteczny w historii. Przy najwyższych cenach mieszkań i tuż przed wzrostem rat.
+
+---
+
+Łączny koszt Polskiego Ładu do 2030 roku to 650 mld zł. 
+
+"ludzie uwierzą we wszystko!" trzeba obiecywać, a potem stopniowo wygaszać oczekiwania!
+✍️7% PKB na służbę zdrowia dopiero w 2027 roku - nie wystarczy, trochę późno ludzie potrzebują teraz! Btw, Składki zdrowotnej nie odliczymy od podatku czyli zapłacimy wyższy podatek. Tak czy Nie ? 
+Bardziej potrzebna jest raczej reforma ZUS.
+✍️ Możliwość budowy domów do 70 m kw. bez pozwolenia, bez księgi i bez kierownika budowy!
+✍️ Kwota wolna od podatku wzrośnie do 30 tys. złotych. Drugi próg podatkowy od 120 tys. zł. (Pies pogrzebany w szczegółach). Dług będzie rósł jak w USA.... prwd nikt nie będzie tego spłacał.
+✍️ mocny cios w osoby samozatrudnione.
+✍️liniowy 19% wzrośnie do 28%. Zatem przedsiębiorcy przerzuca koszty na klientów.
+✍️ prwd nie będzie podwyżek cen energii.Obecnie płacimy 9,5 % więcej niż rok temu (dane GUS).
+✍️ Szykujmy się na 20 metrowe kawalerki za 500 tysięcy w kredycie na 40 lat. Banki zacierają już ręce. 
+✍️ Przy galopującej inflacji każdy będzie klasą średnią🤸🏻‍♀️
+
+Dla GPW do góry prawdopodobnie: deweloperka, firmy budowlane, spółki medyczne, banki, spółki surowcowe( stal/cynk)-> podparte kapitałem zagranicznym 📈 krótkoterminowo.
+
+info-PAP: Bezzwrotny bon mieszkaniowy nawet do 185 tys. zł już od 2023 roku.
+
+<!-- "Chcesz być milionerem?  To nic trudnego. Wystarczy zaufać władzy.
+Już przecież to przerabialiśmy. Kiedyś takie banknoty każdy nosił w swoim portfelu.
+W 1970 r. średnie wynagrodzenie wynosiło 2 235 zł. Byliśmy wtedy biedni. Chleb kosztował 2,50 zł. 
+W roku 1994 byliśmy już milionerami. Średnie wynagrodzenie wynosiło wtedy 5,3 mln zł. 
+Tylko dlaczego znów byliśmy biedni? Ponieważ chleb kosztował już 7,4 tys. zł.
+Potem była denominacja i historia zaczęła się od początku. 
+Chleb kosztował już tylko 0,62 zł, ale nadal byliśmy biedni.
+Dlaczego? Przecież ciężko pracowaliśmy.
+Dlatego, że niewolnictwo nigdy nie zostało zniesione, ono przybrało tylko inną formę.
+Dzisiaj jest najlepszy moment żeby to zrozumieć.
+Ten post podzielę na dwie części. Jeśli ktoś próbując przebrnąć przez część I stwierdzi, że właśnie przepalają mu się zwoje w mózgu, niech od razu przejdzie do części II, zanim zrezygnuje z czytania całości.
+Część I.
+Rząd ogłosił, że w najbliższym czasie obdarzy polskie przedsiębiorstwa zawrotną kwotą 100 mld zł, w celu ratowania gospodarki.
+Skąd rząd weźmie te pieniądze, skoro w budżecie ich nie ma?
+Istnieją co najmniej trzy sposoby, żeby zdobyć pieniądze – można je zarobić, można je pożyczyć, albo można je ukraść. 
+Rząd postanowił pójść tą trzecią drogą.
+W tym celu Polski Fundusz Rozwoju wyemituje obligacje na kwotę 100 mld zł., gwarantowane przez państwo. Obligacje te zostaną skupione przez banki komercyjne, od których następnie odkupi je Narodowy Bank Polski.
+Czyli ostatecznym wierzycielem PFR zostanie NBP, a banki komercyjne poprzez przepływ pieniądza zainkasują gwarantowane zyski. Tak więc wszystko zostanie w rodzinie i właściwie nikt nikomu nie będzie nic winien, bo kasa będzie się zgadzać.
+Co prawda w księgach rachunkowych PFR powstanie zobowiązanie, ale wobec swoich, więc później się to umorzy.
+Dlaczego tworzy się takie kombinacje i po prostu rząd nie pożyczy pieniędzy od NBP?
+Dzieje się tak z dwóch powodów.  Pierwszy to art. 220 ust. 2 Konstytucji RP, który zabrania przewidywania w ustawie budżetowej pokrywania deficytu budżetowego poprzez zaciąganie zobowiązania w centralnym banku państwa.
+Drugim powodem jest próba ukrycia rzeczywistego długu publicznego.
+Ponieważ faktycznie pieniądze do przedsiębiorców popłyną z PFR a nie z budżetu. Wcześniej zostaną wykreowane przez banki komercyjne.
+Po co się tak kombinuje? Po to, żeby premier Morawiecki nadal mógł się chwalić zrównoważonym budżetem pomimo kryzysu, co będzie fikcją, ale w kwitach wszystko będzie się zgadzać.
+Odbywa się tutaj właśnie kreatywna księgowość na najwyższym poziomie. Czyli wszyscy kłamią zgodnie z prawem.
+Gdzie tutaj jest kradzież, o której pisałem na początku, skoro wszystko jest zgodne z prawem?
+O tym właśnie będzie część II.
+Część II.
+Jeśli zrozumiałeś część I to znaczy, że należysz do 1% społeczeństwa i jesteś ekonomistą, albo przynajmniej pasjonatem ekonomii.
+Jeśli nie zrozumiałeś tego o czym jest część I, to znaczy że należysz do 99% społeczeństwa i jesteś zupełnie normalnym obywatelem, bo nie każdy musi mieć doktorat z ekonomii albo być głównym księgowym.
+Żadnej władzy nie zależy na tym żeby obywatele rozumieli jej działalność finansową, ponieważ następnego dnia wszyscy by wyszli na ulice. Dlatego w szkołach nie uczy się podstaw ekonomii. 
+W szkołach wychowuje się posłusznych obywateli.
+Właśnie dlatego tak bardzo się to wszystko komplikuje, żebyś niczego z tego nie zrozumiał i wtedy przyjmiesz bezkrytycznie wszystko co ci wmówi władza.
+Żeby pojąć co się obecnie dzieje w tym kraju, trzeba zrozumieć na czym polega funkcja pieniądza na przykładzie chłopa i krowy.
+Jeśli chłop wykonał ciężką pracę, to za tę pracę mógł dostać krowę. Krowę mógł doić i mleko zamieniać na inne dobra.
+Trudno jednak zamienić krowę na większą ilość mniej wartościowych dóbr, więc ludzie wymyślili pieniądze.
+Za wykonaną pracę mógł więc chłop dostać pieniądze, za które mógł kupić albo krowę, albo mleko, albo inne dobra. 
+Krowę trudno jest podrobić ale pieniądze znacznie łatwiej. Tak więc kiedy pojawiły się pieniądze, pojawili się też ich fałszerze.
+Dotychczas, żeby posiadać określone dobra, trzeba było wykonać określoną pracę. Kiedy fałszerze zaczęli podrabiać pieniądze, mogli na tym samym rynku nabywać różne dobra nie wykonując żadnej pracy. Wystarczyło, że mieli fałszywe pieniądze. 
+Kogoś takiego nazywamy dzisiaj pasożytem.
+Czyli, jeśli ktoś się bogacił nie wykonując żadnej pracy, to oznaczało, że inni uczestnicy rynku musieli jeszcze ciężej pracować, żeby utrzymać fałszerzy pieniędzy, czyli pasożytów.
+Jeśli fałszywych pieniędzy jest coraz więcej, to zaczynają wypierać pieniądze prawdziwe. To z kolei oznacza, że ludzie uczciwie pracujący muszą pracować coraz ciężej, ponieważ mają na utrzymaniu coraz większą liczbę pasożytów. Dlatego, że większość dóbr, które powstają dzięki ich pracy trafia do oszustów, natomiast im pozostaje tylko niewielka część.
+Pieniądz fałszywy miesza się na rynku z pieniądzem realnym i dlatego w pewnym momencie nie można ich odróżnić i wszyscy są przekonani, że wszystkie są prawdziwe.
+Jak to się ma do obecnej sytuacji w Polsce?
+Polski Fundusz Rozwoju jest spółką akcyjną, której właścicielem jest skarb państwa, ale nie jest jednostką budżetową, czyli jej długi nie obciążają budżetu państwa.
+PFN emituje obligacje wartości 100 mld zł, chociaż nie posiada majątku wartości 100 mld zł. 
+Jeśli więc te obligacje sprzeda bankom, to znaczy że pieniądze, które otrzyma od banków są „pustymi” pieniędzmi, ponieważ nie stoi za nimi żadna realna wartość, żadna praca ani żaden realny majątek, który jest efektem wykonanej pracy.
+Nazywając rzecz po imieniu są to fałszywe pieniądze, które trafią na polski rynek. Ponieważ nikt tych pieniędzy nie zarobił. 
+Jeśli więc otrzymasz wypłatę, to część z tych pieniędzy będzie fałszywa.
+Na przykład - jeśli na rynek trafia 20% fałszywych pieniędzy w stosunku do ilości, która jest w obiegu, to z 5 000 zł. wynagrodzenia, które otrzymasz, 1000 zł, będzie fałszywe.
+Czyli za kwotę 5 000 zł. będziesz mógł nabyć dobra, za które dotychczas płaciłeś tylko 4 000 zł.
+To zjawisko nazywa się inflacją.
+Czyli jeśli ty podrobisz pieniądze, to będzie to fałszerstwo. Jeśli rząd sfałszuje pieniądze, nazywa się to inflacją.
+Jedno i drugie jest jednak tym samym.
+Większość ludzi się temu nie dziwi uznając, że takie są prawa ekonomii, której jednak nie znają.
+Problem w tym, że rynek potrzebuje czasu, żeby uruchomić mechanizmy inflacyjne. To może potrwać kilka miesięcy albo dłużej. Kiedy zaczniesz zauważać, że potrzebujesz więcej pieniędzy, żeby żyć na poprzednim poziomie, twój umysł już wtedy nie będzie kojarzył skutku z przyczyną.
+Wtedy pobiegniesz do pracodawcy po podwyżkę i będziesz się cieszył, że jesteś bogatszy gdy w rzeczywistości jest to tylko złudzenie, gdyż tak naprawdę, to tylko powróciłeś do poziomu materialnego, w którym już kiedyś byłeś.
+Taka finansowa fatamorgana.
+Weź kalkulator i policz. Kalkulator nie kłamie. Umysł tak.
+Nie należy winić za to pracodawcy, bo to nie on sfałszował pieniądze. On również padł ofiarą oszusta.
+To jest przestępstwo doskonałe, kiedy kradnie się dając. 
+Takiej historii nikt nie przeczyta nawet w najlepszej powieści kryminalnej..
+Co się dzieje dzisiaj? Dzisiaj niewolnicy biją pokłony swojemu panu, który rzuca im pieniądze, nie zdając sobie sprawy, że w rzeczywistości on ich w ten sposób okrada.
+Co się stało z waszymi pieniędzmi? Wczoraj przecież jeszcze były. Dzisiaj zostaliście bez pieniędzy i bez możliwości ich zarabiania. Nikt się temu nie dziwi?
+Ktoś wam zabrał realne pieniądza a w zamian dostaniecie fałszywe. Rachunek będzie się zgadzał a wy nadal niczego nie będziecie rozumieć.
+To się właśnie teraz odbywa.
+Niemcy w ciągu dwóch dni wypłacili pieniądze przedsiębiorcom. 
+Dlatego, że je mieli. Realne pieniądze, które gromadzili w czasie koniunktury jako rezerwę na trudne czasy. To były pieniądze tych, którzy je otrzymali, ponieważ to oni je zarabiali i płacili podatki. To są prawdziwe pieniądze, które są efektem ich pracy.
+Dlaczego nasz rząd tego nie zrobił? Bo musi je dopiero podrobić a to zajmuje trochę czasu.
+Niemcy nie będą mieć inflacji, ponieważ ich pieniądze są prawdziwe.
+Nasze dopiero się produkują, bo te które zarobiliśmy zostały przejedzone i przehulane.
+Nikt nie pyta co rząd zrobił z pieniędzmi, które zabierał jako podatki?
+Niedługo Morawiecki znów wyjdzie na mównicę i powie, że wszyscy będą musieli ponieść ciężar tego kryzysu. To znaczy, WY wszyscy. Nie ONI wszyscy.  Wmówi wam, że niedługo potem będziecie milionerami. Będzie miał rację. Zapomni tylko dodać, że będziecie jeszcze bardziej biedni.
+Kto jest złodziejem?
+Wystarczy sprawdzić, kto się będzie bogacił wtedy, kiedy inni będą biednieć.
+Zajrzyjcie do majątków banksterów, polityków i ich rodzin i innych cwaniaków w nimi powiązanych.
+Może wtedy ktoś zrozumie, że milioner nigdy nie będzie dbał o majątek biedaka, bo gdyby tak było, to by się z nim podzielił i wtedy nie byłby już milionerem.
+Znów bogaci będą tanio kupować działki i inne nieruchomości, które będą im sprzedawać biedni. Następnie za 10 lat biedni odkupią je od bogatych po znacznie wyższych cenach i historia się powtórzy. Wtedy zacznie się kolejny kryzys."  -->
 
 ### 2020
 

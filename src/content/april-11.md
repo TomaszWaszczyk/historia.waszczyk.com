@@ -72,6 +72,15 @@ Z rozkazu Hitlera nazwa miasta Łódź została zmieniona na Litzmannstadt. Uhon
 
 Adolf Hitler podpisał tzw plan "Fall Weiss". Była to strategia ataku na Polskę, która zakładała rozpoczęcie wojny bez jej wcześniejszego wypowiedzenia. ''Fall Weiss'' sprowadzał się do uderzenia na Polskę z trzech kierunków: główne uderzenie Wehrmachtu wzdłuż zachodniej granicy Polski, uderzenie z północy, a więc z terenu Prus Wschodnich i Pomorza oraz uderzenie z południa - z terenu zależnej od Niemiec Słowacji.
 
+### 1079
+
+W Krakowie zmarł męczeńską śmiercią biskup Stanisław ze Szczepanowa. Został skazany na śmierć przez króla Bolesława Szczodrego,  z którym popadł w konflikt. Najprawdopodobniej jego przyczyną była krytyka postawy króla w stosunku do podwładnych oraz powodowanie zgorszenia. Biskup miał też grozić władcy ekskomuniką i upadkiem królestwa.  Całości dopełnił fakt, że nie stawił się on również na wezwanie króla przed sąd królewski, czego zabraniało prawo kanoniczne. Wobec powyższego został on bezprawnie skazany na śmierć przez obcięcie członków. 
+Stanisław ze Szczepanowa uchodził za dobrego organizatora i głosiciela wiary chrześcijańskiej. Istnieją również tezy twierdzące, że został zamordowany za zdradę narodu lub za udział w spisku możnych przeciwko królowi.
+
+<img src="./img/april/smiercbiskupa.jpg"><br><br>
+
+Grafika; publiczna Śmierć biskupa Stanisława na obrazie Aleksandra Augustynowicza.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-11.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -47,6 +47,8 @@ Na zdjęciu Bruno Streckenbach w środku,po lewej Heinrich Himmler.
 
 <img src="./img/may/konferencja.jpg"><br><br>
 
+---
+
 ### 1902
 
 1902 roku w Sosnowcu przy ulicy Majowej 6 urodził się Jan Wiktor Kiepura - polski śpiewak operowy, międzynarodowy talent.

@@ -99,6 +99,13 @@ W tej historii jest wszystko : wielki talent i wielka zawiść, wielkie nadzieje
 
 Zbudował prywatne państwo i mordował masowo ludzi: https://pl.wikipedia.org/wiki/Leopold_II_Koburg
 
+### 1388
+
+Wojna austriacko-szwajcarska: zwycięstwo wojsk szwajcarskich w bitwie pod Näfels.
+"...Wojowniczy Leopold III wplątał się w konflikt ze Szwajcarami, który wybuchł w grudniu 1385 r. i którego końca nie było widać. Zawarty w lutym następnego roku rozejm miał obowiązywać jedynie do czerwca, po czym wznowiono walki. Leopold nie miał więc za bardzo ani czasu, ani być może nawet chęci, by osobiście zająć się sprawą syna. Poza tym jego położenie nie było zbyt wygodne, ponieważ znajdował się w obozie awiniońskim, a więc nie mógł liczyć na wsparcie Urbana VI. Austriacka klęska w bitwie pod Sempach w lipcu 1386 r. i żołnierska śmierć, jaką poniósł w niej Leopold III, ułatwiły powrót do polityki dynastycznej..."
+
+<img src="./img/april/nafels.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-9.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

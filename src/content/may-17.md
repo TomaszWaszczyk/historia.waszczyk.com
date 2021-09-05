@@ -151,6 +151,17 @@ Utrwalił fonograficznie pieśni i mowę Ajnów. Do Polski przybył przez Japoni
 
 Źródło: NBP / Mennica Polska S.A
 
+### 1897
+
+Został zwodowany USS „Holland”, pierwszy okręt podwodny pełniący służbę w US Navy i jednocześnie pierwszy na świecie wcielony do służby, w którym zastosowano napęd spalinowy na powierzchni i elektryczny w zanurzeniu.
+Część opracowań określa USS Holland (SS-1) mianem pierwszego okrętu podwodnego US Navy. Inne zaś są zdania, że honor ten przysługuje jednostce o nazwie Alligator, zwodowanej w roku 1862, którą zaprojektował francuski inżynier Brutus de Villeroi. Alligator nie wszedł jednak oficjalnie do służby w US Navy i dlatego nie przysługuje mu prefiks USS. Drugą z kolei jednostką podwodną będącą własnością marynarki amerykańskiej był Inteligent Whale.
+Okręt, nazwany później USS USS Holland , wybudowano w ramach prywatnych przedsięwzięć konstrukcyjnych w stoczni Crescent Shipyard w Elizabeth (New Jersey). Autorem projektu był znany w końcu XIX wieku inżynier i wynalazca irlandzkiego pochodzenia, John Philip Holland. W piśmiennictwie znany jako USS Holland VI, zyskał akceptację komisji rządowej i zakupiony został dla amerykańskiej marynarki wojennej za kwotę 150 000 dolarów. Oficjalnie wszedł do służby 12 października 1900 pod nazwą USS Holland . Po paru latach otrzymał oznaczenie alfa- numeryczne SS-1.
+USS Holland służył w US Navy jako jednostka szkolna w Akademii Floty w Annapolis do 17 lipca 1905. Skreślony z listy floty z dniem 21 listopada 1910. Odkupiła go od US Navy za 100 dolarów firma Henry A. Hitner & Sons z Filadelfii (Pennsylvania). Ciekawostką jest fakt, że musiała ona wpłacić kaucję w wysokości 5000 dolarów, mającą gwarantować, że USS USS Holland nigdy nie będzie już pływać i nikomu przed złomowaniem nie zostanie sprzedany.
+USS Holland aż do roku 1932 eksponowany był publicznie w miejskim parku w Paterston w stanie New Jersey nim wreszcie uległ złomowaniu.u rozpoczęto w listopadzie 1896, zaś ceremonia wodowania miało miejsce pół roku później, 17 maja 1897 roku.
+Widoczny na dziobie otwór wylotowy dla pneumatycznej armaty pocisków dynamitowych kalibru 213 mm. Warto zwrócić uwagę także na uderzające podobieństwo tej jednostki do budowanych w czasie II wojny światowej brytyjskich miniaturowych okrętów podwodnych, zwanych X-crafts.
+
+<img src="./img/may/ussholland.jpg"><br><br>
+
 ### 1792
 
 W Bonn Bundestag zatwierdził ustalenia podpisanego w Warszawie 7 grudnia 1970 roku przez premiera Józefa Cyrankiewicza i kanclerza Willy Brandta układu między Polską Rzeczpospolitą Ludową, a Republiką Federalną Niemiec o podstawach normalizacji ich wzajemnych stosunków” .

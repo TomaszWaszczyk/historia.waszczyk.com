@@ -100,6 +100,11 @@ Minister spraw zagranicznych Józef Beck udzielił odpowiedzi kanclerzowi III Rz
 
 https://pl.wikisource.org/wiki/Przem%C3%B3wienie_J%C3%B3zefa_Becka_w_Sejmie_RP_5_maja_1939_r
 
+### 1350
+
+W bitwie pod Żukowem król Kazimierz III Wielki rozgromił wojska litewskie, odzyskując Ruś halicko-wołyńską.
+"...Według tradycji mazowieckiej, utrwalonej w tzw. Spominkach sochaczewskich, w roku 1350 „pewien książę litewski ze swoim wojskiem spustoszył ziemię łęczycką w Zielone Świątki", które wypadały wówczas 16 maja. Wielu ludzi zginęło. Kazimierz postępował za najeźdźcą i 20 maja dopadł jego wojsko we wsi Żukowo koło Sochaczewa. Natarł na nie i zadał mu klęskę. Wielu Litwinów zatonęło w rzece Bzurze. Autor kończy swoją relację morałem, że „dlatego tak licho zginęli, ponieważ byli złodziejami"..."
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/may-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -89,6 +89,13 @@ Wśród zwolnionych z Auschwitz znaleźli się m.in tacy ludzie jak: Wiktor Toł
 
 https://pl.wikipedia.org/wiki/Tadeusz_Pietrzykowski
 
+### 1783
+
+Katarzyna II wydała manifest "O włączeniu do państwa rosyjskiego Półwyspu Krymskiego, wyspy Tamania i całego Kraju Kubańskiego".
+Katarzyna II wydała manifest "O włączeniu do państwa rosyjskiego Półwyspu Krymskiego, wyspy Tamania i całego Kraju Kubańskiego", co było częścią planu odnowienia cesarstwa bizantyjskiego. Aneksja Krymu przyczyniła się do wybuchu kolejnej już wojny z Turcją (1787-92), ale Katarzyna II utrzymała swoje zdobycze na północ od Morza Czarnego. Po rewolucji październikowej i wojnie domowej z jej zmiennymi kolejami Krym stał się ostatecznie częścią ZSRR. W 1954 r. Nikita Chruszczow oddał go radzieckiej Ukrainie. W niepodległej Ukrainie stał się autonomiczną republiką. Od aneksji w marcu 2014 r. do dziś mimo protestów demokratycznego świata pozostaje w rękach Rosji.
+
+<img src="./img/april/polwysepkrymski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/april-8.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

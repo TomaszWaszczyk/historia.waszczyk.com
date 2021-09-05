@@ -82,6 +82,31 @@ Podczas intubacji zakażonego w pomieszczeniu aż gęsto od wirusowego aerozolu.
 
 Lekarz z Bydgoszczy: W walce z wirusem służymy za mięso armatnie
 
+### 1952
+
+Prezydent Rzeczypospolitej Polskiej Bolesław Bierut tak pisał w liście do Józefa Stalina:
+" Towarzysze, niemal codziennie z zachwytem podziwiamy najwspanialszy prezent, jaki dostaliśmy od przyjaciół Rosjan. Tak, tak to Pałac Kultury i Nauki - symbol PRL-u i perła stolicy. Partia rozpoczyna akcję edukacyjno - propagandową , mającą przybliżyć obywatelom czasy, w których to socjalizm triumfował nad karłami reakcji. A cóż innego lepiej symbolizuje
+radziecką  potęgę niż Pałac Kultury."
+
+<img src="./img/april/bierutstalin.jpg"><br><br>
+
+### 1943
+
+Powstała Polska Armia Ludowa ( nie mylić z Armią Ludową). Była to lewicowa organizacja zbrojna o charakterze konspiracyjnym licząca kilka tysięcy żołnierzy. W jej skład wchodziła Milicja Ludowa i ta część Korpusu Ochrony Pogranicza, która nie podporządkowała się Armii Krajowej.
+PAL działała głównie w Warszawie i
+województwie warszawskim oraz w Lublinie i województwach lubelskim, łódzkim i kieleckim. Jej działalność koncentrowała się głównie na sabotażu kolejowym i propagandzie. Została rozwiązana w 1945 roku.
+
+<img src="./img/april/armialudowa.jpg"><br><br>
+
+### 1941
+
+Niemcy rozpoczęli wysiedlanie Brzezinki i okolic. Na terenach tej wsi utworzonej w XIV wieku powstał niemiecki obóz koncentracyjny Konzentriationslager Auschwitz-Birkenau.
+Tak ten czas wspomina Jan Tobiasz, 7 -letni wówczas mieszkaniec Brzezinki:
+" To było w kwietniu 1941 roku. – W dniu, w którym nas wysiedlano, spadł jeszcze śnieg. O tym, że Niemcy coś planują, wiadomo było kilka miesięcy wcześniej, gdy we wsi pojawili się esesmani z komandem więźniów i znaczyli domy, malując na nich znaki przypominające „X”. Jednocześnie spisywali, co było w domach, szczególnie wszystkie żelazne sprzęty, nawet kuchenne moździerze. Wtedy też zaczęli rekwirować mieszkańcom dobytek. Zabrali nam dwie krowy i jałówkę. Rano pod nasz dom zajechał wóz, na który mieliśmy się spakować. Rodzicom udało się zabrać łóżko, kufer, pościel. Na opuszczenie domu mieliśmy niewiele ponad godzinę. Początkowo jeszcze rodzice łudzili się, że za jakiś czas będą mogli wrócić do swojego domu. Mama nawet wysyłała nas z ojcem, aby go przewietrzyć. Wkrótce jednak do mieszkańców Brzezinki zaczęły docierać wieści o rozpoczętych przez Niemców wyburzeniach ich domów. Dla moich rodziców, ale także dla innych wysiedlonych to była prawdziwa trauma."
+Skalę tego przedsięwięzia oddają liczby, które mówią, że ze znajdujących się we wsi 537 domów oszczędzono tylko 6.
+
+<img src="./img/april/brzezinka.jpg"><br><br>
+
 ### 1940
 
 80 lat temu Stalin podpisał rozkaz wymordowania blisko 22 tysięcy oficerów wojska Polskiego i jeńców wojennych🇵🇱️
@@ -168,6 +193,16 @@ propagandzie. Została rozwiązana w 1945 roku.
 Ówczesny Sejm RP przyjął Ustawę o ochronie Imienia Józefa Piłsudskiego. Dokument ten powstał bardzo szybko, bo prace nad nim rozpoczęły się już 17 lutego 1938 roku. Ustawa była nie tylko wyrazem kultu zmarłego marszałka, ale przede wszystkim rodzajem cenzury zapobiegającej próbom szkalowania jego imienia.
 
 <img src="./img/april/pilsudski2.jpg"/><br><br>
+
+### 1861
+
+Rosyjski oficer Jan Peucker popełnił samobójstwo, nie chcąc strzelać do uczestników patriotycznego pochodu w Warszawie.
+Postać Jana Peuckera związana jest z wypadkami rozgrywającymi się w Warszawie w okresie poprzedzającym wybuch powstania styczniowego. Protestując przeciw rozwiązaniu przez władze rosyjskie Towarzystwa Rolniczego ludność Warszawy wzięła masowy udział w manifestacji w dniu 7 kwietnia 1861 r. Pochód wyruszył spod siedziby Towarzystwa przy Placu Ewangelickim (obecnie Małachowskiego) i skierował się w stronę placu Zamkowego. Jeden z oficerów Zarządu Kwatermistrzostwa Wojsk Rosyjskich, podpułkownik Jan Peucker, wiedząc o czynionych przygotowaniach do użycia siły przeciw manifestantom i nie chcąc uczestniczyć w tej masakrze, wystrzałem z pistoletu pozbawił się życia na terenie Zamku Warszawskiego. Namiestnik, zaszokowany jego postawą, kazał wycofać wojsko do koszar, a manifestanci spokojnie opuścili plac. Jest rzeczą oczywistą, iż przez swą śmierć Jan Peucker uratował wówczas życie wielu ludziom. Samobójcza śmierć Peuckera zrobiła wielkie wrażenie na mieszkańcach Warszawy i całego Królestwa, a nawet odbiła się głośnym echem za granicą. Jeszcze kilka lat później Oskar Awejde zeznał, iż śmierć Peuckera oraz podobne czyny innych oficerów rosyjskich napełniły społeczeństwo polskie wiarą i otuchą, iż myśl o wyzwoleniu się z jarzma obudziła się również w narodzie rosyjskim.
+Rosyjski działacz niepodległościowy Aleksander Hercen, redagujący w tym czasie w Londynie antycarskie pismo „Kołokoł", na wieść o śmierci Peuckera tak pisał: „...zastrzelił się w Warszawie, aby nie być pomocnikiem katów. Wieczne odpoczywanie, to bohater, ale dlaczego strzał ten został oddany w czystą pierś? Jeśli już strzelać, to lepiej do tych generałów, którzy każą rozstrzeliwać bezbronnych."
+Jego mogiła na Cmentarzu Ewangelicko-Augsburskim przy ul. Młynarskiej stała się miejscem pielgrzymek mieszkańców Warszawy. Wykorzystując okoliczność odbywającego się w dniu 15 kwietnia 1861 pogrzebu warszawskiego kupca Edwarda Andrzeja Koelichena, patriotyczna młodzież zgromadziła się na cmentarzu i udekorowała grób Peuckera naręczami kwiatów. Na skutek tych wystąpień władze rosyjskie zakazały udziału w pogrzebach osobom nie należącym do rodziny zmarłego.
+Inną formą uczczenia pamięci Jana Pauckera było wybicie w Warszawie srebrnego medalu. Na awersie umieszczono nazwisko i datę śmierci Peuckera, na rewersie zaś widnieje krzyż i złamana szpada w cierniowej koronie, a w otoku napis: „Za cnotliwy czyn." Pochowany został w alei D nr 85.
+
+<img src="./img/april/peucker.jpg"><br><br>
 
 ---
 

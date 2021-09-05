@@ -144,6 +144,10 @@ Wspomniany już pistolet maszynowy "Blyskawica", którego konstrukcja opierała 
 
 <img src="./img/january/gospodarkanarodowa.png"/><br><br>
 
+### 1945
+
+Umiera Antoni Ossendowski
+
 ### 1925
 
 Benito Mussolini rozwiązał włoski parlament i ogłosił się dyktatorem.
