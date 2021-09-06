@@ -22,14 +22,22 @@ Bankowcy się cieszą: w tym roku zaciągniemy najwyższy dług hipoteczny w his
 Łączny koszt Polskiego Ładu do 2030 roku to 650 mld zł. 
 
 "ludzie uwierzą we wszystko!" trzeba obiecywać, a potem stopniowo wygaszać oczekiwania!
+
 ✍️7% PKB na służbę zdrowia dopiero w 2027 roku - nie wystarczy, trochę późno ludzie potrzebują teraz! Btw, Składki zdrowotnej nie odliczymy od podatku czyli zapłacimy wyższy podatek. Tak czy Nie ? 
 Bardziej potrzebna jest raczej reforma ZUS.
+
 ✍️ Możliwość budowy domów do 70 m kw. bez pozwolenia, bez księgi i bez kierownika budowy!
+
 ✍️ Kwota wolna od podatku wzrośnie do 30 tys. złotych. Drugi próg podatkowy od 120 tys. zł. (Pies pogrzebany w szczegółach). Dług będzie rósł jak w USA.... prwd nikt nie będzie tego spłacał.
+
 ✍️ mocny cios w osoby samozatrudnione.
-✍️liniowy 19% wzrośnie do 28%. Zatem przedsiębiorcy przerzuca koszty na klientów.
-✍️ prwd nie będzie podwyżek cen energii.Obecnie płacimy 9,5 % więcej niż rok temu (dane GUS).
+
+✍️ liniowy 19% wzrośnie do 28%. Zatem przedsiębiorcy przerzuca koszty na klientów.
+
+✍️ nie będzie podwyżek cen energii.Obecnie płacimy 9,5 % więcej niż rok temu (dane GUS).
+
 ✍️ Szykujmy się na 20 metrowe kawalerki za 500 tysięcy w kredycie na 40 lat. Banki zacierają już ręce. 
+
 ✍️ Przy galopującej inflacji każdy będzie klasą średnią🤸🏻‍♀️
 
 Dla GPW do góry prawdopodobnie: deweloperka, firmy budowlane, spółki medyczne, banki, spółki surowcowe( stal/cynk)-> podparte kapitałem zagranicznym 📈 krótkoterminowo.
