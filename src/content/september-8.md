@@ -3,7 +3,7 @@ layout: post
 title: 8 września
 image: img/september/krld.jpeg
 author: Tomasz Waszczyk
-date: 2019-09-08T10:00:00.000Z
+date: 2020-09-08T10:00:00.000Z
 tags:
   - Upadek
 draft: false

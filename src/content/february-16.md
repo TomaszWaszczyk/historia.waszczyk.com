@@ -64,6 +64,10 @@ Odzyskanie przez Polskę niepodległości w 1918 r. wzmogło działający tam po
 
 https://pl.wikipedia.org/wiki/Michai%C5%82_Tuchaczewski
 
+### 1822
+
+https://pl.wikipedia.org/wiki/Francis_Galton
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

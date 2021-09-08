@@ -44,6 +44,14 @@ Dla GPW do góry prawdopodobnie: deweloperka, firmy budowlane, spółki medyczne
 
 info-PAP: Bezzwrotny bon mieszkaniowy nawet do 185 tys. zł już od 2023 roku.
 
+---
+
+Średnia wieku chirurgów to 60 lat. "Polska chirurgia powoli umiera"
+
+Średnia wieku chirurgów wynosi 60 lat, 25 proc. z nich przekroczyło wiek emerytalny, pracują w poradniach, na oddziałach, ale to wiek emerytalny, dziś są, jutro może ich nie być - alarmuje prof. Dawid Murawa.
+
+---
+
 <!-- "Chcesz być milionerem?  To nic trudnego. Wystarczy zaufać władzy.
 Już przecież to przerabialiśmy. Kiedyś takie banknoty każdy nosił w swoim portfelu.
 W 1970 r. średnie wynagrodzenie wynosiło 2 235 zł. Byliśmy wtedy biedni. Chleb kosztował 2,50 zł. 

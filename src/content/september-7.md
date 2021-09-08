@@ -3,9 +3,35 @@ layout: post
 title: 7 września
 image: img/september/westerplatte.jpg
 author: Tomasz Waszczyk
-date: 2019-09-07T10:00:00.000Z
+date: 2020-09-07T10:00:00.000Z
 tags:
   - Borodino
+---
+
+### 2021
+
+<img src="./img/september/preparaty1.jpg"><br><br>
+
+<img src="./img/september/preparaty2.jpg"><br><br>
+
+---
+
+Adam Glapiński na 2 dni przed decyzyjnym posiedzeniem RPP, udzielił PAP Biznes wywiadu mającego wpływ na rynek.
+W związku ze złamaniem przez prezesa NBP, przewodniczacego RPP, zawartego w kodeksie dobrych praktyk, zakazu publicznych wypowiedzi członków RPP na 7 dni przed decyzyjnym posiedzeniem Rady i 2 dni po nim (blackout period), defensywny głos wydał z siebie NBP. Każdy kto chciał mógł tam zaś przeczytać:
+
+> Wypowiedzi Prezesa NBP w wywiadzie dla PAP traktować należy jako wypowiedzi Przewodniczącego Zarządu NBP i Prezesa NBP, a nie Przewodniczącego Rady Polityki Pieniężnej.
+
+No, to mamy problem. Oto bowiem, co o obecności na posiedzeniach Rady stanowi (w tej niezmienionej jeszcze dotąd części) Regulamin RPP:
+
+"§5. 1. W posiedzeniach Rady uczestniczą wiceprezesi NBP bez prawa udziału w głosowaniu.
+2. Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady inni członkowie Zarządu NBP oraz pracownicy NBP właściwi w sprawach objętych porządkiem obrad posiedzenia.
+3. Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady eksperci zewnętrzni celem przedstawienia opinii."
+
+Ani słowa o obecności na posiedzeniu PREZESA NBP. SĄ TYLKO WICEPREZESI.
+Prezes, w funkcji oddzielonej od przewodniczącego Rady, a więc wyłącznie w swej prezesowskiej capacity, jest więc na posiedzeniach RPP NIELEGALNIE.
+
+Jak ktoś upiera się, by siekierą rozdzielać funkcje prezesa od przewodniczącego, to może zafundować bankowi niezły pasztet. Nie lepiej po prostu przeprosić i obiecać, że więcej łamania blackoutu nie będzie?
+
 ---
 
 ### 1942

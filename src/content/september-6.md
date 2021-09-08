@@ -10,6 +10,10 @@ tags:
 
 ### 2021
 
+Biznes nie zostawia na rządowym pomyśle wprowadzenia przymusowych urlopów bezpłatnych dla niezaszczepionych pracowników suchej nitki. "Nie po to zatrudniamy pracowników, by ich zwalniać z obowiązku świadczenia pracy" - mówią zgodnie pracodawcy.
+
+---
+
 Dane o śmiertelności w Polsce.
 
 > Ukazały się dane o śmiertelności w Polsce do połowy sierpnia 2021 i warto się nad nimi pochylić, bo w letnich tygodniach śmiertelność spadła poniżej średniej z lat poprzednich. Bez danych o strukturze wieku, a te nie są podawane na bieżąco, trudno o głębsze analizy, ale z wykresu widać, że przedwczesna śmierć ponad 133 tysięcy osób w ostatnim sezonie musiała zaważyć na statystykach w miesiącach następnych. Lapidarnie możemy ten koszmarny proces podsumować zdaniem, że przyspieszając śmierć wielu ludzi w miesiącach poprzednich teraz będziemy mieć „lepsze wyniki”, bo po ludzku nie ma komu umierać...
@@ -33,6 +37,14 @@ Jak ktoś rok temu słusznie zauważył covid-19 jest to test na inteligencję, 
 Dlatego w środę, 15 września 2021 o 16:00, bez względu na sympatie polityczne, musimy pod sejmem pokazać co o tym myślimy. Wiatr historii wieje mocno, wszystkie ręce na pokład!
 
 Źródło: https://pawelklimczewski.pl/2021/09/05/czwarta-fala-panowie-ministrowie-nie-bylo-pierwszej-a-wy-zdrowych-ludzi-do-psychiatryka-chcecie-wysylac-sami-tam-sie-ustabilizujcie/
+
+---
+
+BEIJING, Sept 6 (Reuters) - Germany's ambassador to China, Jan Hecker, who was a former foreign policy adviser to Chancellor Angela Merkel, has died suddenly, less than two weeks after taking up his post.
+
+Hecker, 54, had presented his credentials at China's foreign ministry on Aug. 24, the embassy in Beijing told Reuters by social media. The cause of death has yet to be confirmed.
+
+---
 
 ### 2020
 
