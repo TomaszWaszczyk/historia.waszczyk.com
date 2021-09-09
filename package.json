@@ -17,7 +17,7 @@
   "dependencies": {
     "@emotion/core": "10.1.1",
     "@emotion/styled": "10.0.15",
-    "@emotion/styled-base": "10.0.15",
+    "@emotion/styled-base": "11.0.0",
     "classnames": "2.2.6",
     "cssnano": "4.1.10",
     "emotion": "10.0.23",
@@ -51,7 +51,7 @@
     "polished": "3.4.1",
     "postcss-color-function": "4.1.0",
     "prism-themes": "1.4.0",
-    "prismjs": "1.24.0",
+    "prismjs": "1.24.1",
     "react": "16.14.0",
     "react-dom": "16.13.0",
     "react-emotion": "10.0.0",
