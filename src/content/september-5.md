@@ -46,6 +46,14 @@ info-PAP: Bezzwrotny bon mieszkaniowy nawet do 185 tys. zł już od 2023 roku.
 
 ---
 
+Papież Franciszek zaapelował w niedzielę o przyjmowanie uchodźców z Afganistanu i zapewnienie im ochrony. Zapewnił także o swej modlitwie o to, aby młodzi Afgańczycy mogli się uczyć, a wszyscy obywatele tego kraju żyli w pokoju i braterstwie.
+
+Zwracając się do wiernych zgromadzonych na modlitwie Anioł Pański w Watykanie papież powiedział: „W tych burzliwych chwilach, w których Afgańczycy szukają schronienia, modlę się za tych najsłabszych wśród nich. Modlę się o to, aby wiele krajów przyjęło i chroniło tych, którzy szukają nowego życia”.
+
+„Modlę się także za wewnętrznych uchodźców, aby otrzymali konieczną pomoc i ochronę. Niech młodzi Afgańczycy otrzymają edukację, niezbędne dobro dla rozwoju ludzkiego. Oby wszyscy Afgańczycy, zarówno ci w ojczyźnie, jak i w drodze i w krajach, które ich goszczą, mogli żyć w godności, w pokoju i braterstwie ze swoimi sąsiadami” – oznajmił Franciszek.
+
+---
+
 Średnia wieku chirurgów to 60 lat. "Polska chirurgia powoli umiera"
 
 Średnia wieku chirurgów wynosi 60 lat, 25 proc. z nich przekroczyło wiek emerytalny, pracują w poradniach, na oddziałach, ale to wiek emerytalny, dziś są, jutro może ich nie być - alarmuje prof. Dawid Murawa.
@@ -177,6 +185,10 @@ dziwnej sytuacji, w której nagle głos
 pana Piłsudskiego się znajdzie"
 
 <img src="./img/september/glosludzki.jpg"><br><br>
+
+### 1812
+
+Pod Borodino Wielka Armia Napoleona starła się z rosyjską, dowodzoną przez gen. Michaiła Kutuzowa. Zwycięstwo otworzyło francuskiemu cesarzowi drogę do Moskwy, ale jednocześnie stało się przyczyną późniejszej klęski.
 
 ---
 

@@ -24,7 +24,9 @@ Kongestia w rejonie Shenzen: Yantian, Hong Kong, Shekou:
 Uwaga: gdzieś pisali o gorszej sytuacji niż podczas zablokowania Suezu. Jakiś kolega, kilka dni temu, dał już to info. Pozdrawiam. Dodam, że to nr 1 rejon na świecie jeśli chodzi o składowanie, import/eksport puszek.
 US LAX: dalej, miesiąc w miesiąc, na rekordzie:
 * https://gcaptain.com/port-of-los-angeles-processes-record-10-million-teus-for-new-western-hemisphere-record
+
 Obserwacyjnie:
+
 W chwili obecnej jestem na stoczni w północnych Chinach, Cosco Shipyards z Cosco Shipping Holding. Dygresyjnie: mam dość, w lipcu kolejny raz porozsyłam swoje cv'ki do Waszych firm 😉
 https://sg.finance.yahoo.com/quote/601919.ss/
 [zobaczcie jaki tam jest kosmos od roku]
