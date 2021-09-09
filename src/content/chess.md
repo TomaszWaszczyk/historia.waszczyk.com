@@ -20,6 +20,12 @@ Na okładce znajduje się grafika „Szachy w gazie bojowym” Zygmunta Nasiół
 
 Charakter książki można określić jako faktograficzny. Sporo w niej tabel, wyników, dat i liczb. Jednakże ma też kilku swoich głównych bohaterów, do których zaliczyłbym: mistrzów międzywojnia – „niekoronowanego króla” Akiwę Rubinsteina, poetę i arcymistrza w jednej osobie Sawielija Tartakowera, genialnego problemistę Dawida Przepiórkę, zapomnianego Mojżesza Łowckiego; zmarłych w latach 20. XX wieku Józefa Dominika i Aleksandra Flamberga; szachistów i działaczy lokalnych, jak pochodzącego z rodziny o patriotycznych tradycjach Adama Żuk-Skarszewskiego, malarza Ludomira Benedykowicza, który stracił obie dłonie podczas Powstania Styczniowego, Jana Kleczyńskiego i Kazimierza Wasilewskiego – organizatorów widowiska „żywych szachów” w Warszawie w 1917 roku, czy wreszcie Chaima Janowskiego z Łodzi, którego brat Dawid rywalizował przez pewien czas z Emanuelem Laskerem o miano najsilniejszego szachisty świata. Dużo miejsca poświęciłem też wojennym peregrynacjom małego Szmulika Rzeszewskiego z Ozorkowa – późniejszego reprezentanta USA i pretendenta do tytułu championa globu, znanego jako Samuel Reshevsky. Jeden z rozdziałów poświęcony jest opisaniu szachowych aktywności najwyższej rangi oficjeli i wojskowych dwudziestolecia międzywojennego na czele z Marszałkiem Józefem Piłsudskim, gen. Kazimierzem Sosnkowskim, czy Prezydentem RP na Uchodźstwie Władysławem Raczkiewiczem.
 
+### Szybkie zagrania
+
+Oto jeden z najszybszych możliwych Szach-Matów w Szachach. 4 ruchy.
+
+<img src="./img/others/chess/szachmat.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

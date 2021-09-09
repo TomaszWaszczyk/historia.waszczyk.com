@@ -9,6 +9,36 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Transport
+
+ATH na kontenerowym indexie frachtowym w Azji:
+
+* https://en.sse.net.cn/indices/scfinew.jsp
+[polecam przeanalizować inne indexy ze strony, wybór po lewej]
+EU index, dla masowych ładunków:
+* https://tradingeconomics.com/commodity/baltic
+Kongestia w rejonie Shenzen: Yantian, Hong Kong, Shekou:
+* https://www.reuters.com/world/china/congestion-south-china-ports-worsens-anti-covid-19-measures-2021-06-11
+Uwaga: gdzieś pisali o gorszej sytuacji niż podczas zablokowania Suezu. Jakiś kolega, kilka dni temu, dał już to info. Pozdrawiam. Dodam, że to nr 1 rejon na świecie jeśli chodzi o składowanie, import/eksport puszek.
+US LAX: dalej, miesiąc w miesiąc, na rekordzie:
+* https://gcaptain.com/port-of-los-angeles-processes-record-10-million-teus-for-new-western-hemisphere-record
+Obserwacyjnie:
+W chwili obecnej jestem na stoczni w północnych Chinach, Cosco Shipyards z Cosco Shipping Holding. Dygresyjnie: mam dość, w lipcu kolejny raz porozsyłam swoje cv'ki do Waszych firm 😉
+https://sg.finance.yahoo.com/quote/601919.ss/
+[zobaczcie jaki tam jest kosmos od roku]
+Cosco ma swoje stocznie w całych Chinach, we wszystkich głownych miastach portowych. Stocznia to nie budynek, a miejsce w porcie gdzie prowadzone są remonty + tzw. suchy dok, gdzie wpływa się statkiem, ustawia na keel blockach, zamyka furtę od doku i wypompowuje wodę aby przeprowadzić remonty na podwodnej części kadłuba. Na 'mojej' stoczni jest w tej chwili 9 statków jednocześnie naprawianych. Każdy statek musi iść na taką stocznię co 5/7 lat. 
+Rozmawiałem z vice prezydentem naszego oddziału Cosco Shipyards (gruby boss):
+* zamówień na remonty ponad ich możliwości, nie mają miejsc na takie zapotrzebowanie,
+* nie mają problemów ze stalą, ALE to ważne: napomknął że chińskie stocznie mają priorytet od rządu. To już nam wiele mówi, prawda? Skoro coś się priorytyzuje to problem jest.
+* Największe trudności mają z siłą roboczą (!), co zresztą ja też widzę. Nie ma prostego człowieka do fizycznej roboty... więc nawet ja trochę sobie pospawałem...
+* Naprawiają największe złomy kontenerowe jakie istnieją, takie jest zapotrzebowanie w tym segmencie. Zresztą stawka za wynajem statku kontenerowego skoczyła o 100% w ostatnich dwóch latach. 15k do 30k USD / dzień, pi drzwi, w zależności od wielkości. 
+To tyle na dziś, nic wielkiego, ale może komuś się przyda. Martwi mnie ten fracht... i ta bańka, bo to balon bańkowy straszny. Te ceny są kosmiczne i sztucznie, grubo napompowane, bo statków, kontenerów, linii żeglugowych jest więcej niż przed wirusem, obostrzeń mniej na świecie, porty otwarte - zdolne do pracy... Nikt nie chce odpuścić, na każdym pretekście podwyższają, czują gruby pieniądz, wielkie firmy mogą na te ceny sobie pozwolić, a mikro przedsiębiorstwa? 
+"chodźmy stąd bo będzie na nas"
+
+<img src="./img/june/shanghai.jpg"><br><br>
+
 ### 2020
 
 The pandemic has converted it to the joys of deficit spending. This may not last Europe

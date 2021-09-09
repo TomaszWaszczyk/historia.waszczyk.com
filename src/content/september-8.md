@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<!-- Bochenek chlebka za 30 zł?? Nie?
+To może piwko ze średniej półki za 25 zł?? Nie?
+A może kawalerkę 25m2 poza centrum np. Wa-wy za 1,5 MILIONA zł?? Nie??
+No to może lepiej wynająć kawalerkę już w centrum Wa-wy za 15k miesięcznie?? Tak???
+To kierunek w którym idziemy - hiperinflacja. Nie żadne zapewnienia np. szefa FED czy naszego szefa NBP, że inflacja jest tymczasowa... Daję na to 2-3 lata, jeśli dalej będą zwlekać z podwyżką stóp. -->
+
+Historia już prawie zatoczyła koło - dokładnie 100 temu w latach 1918-20 mieliśmy hiszpankę, a wcześniej powstał FED w 1914, zaczęto drukować na niespotykaną wtedy skalę i nastała hiperinflacja w Niemczech w latach 1919-1923, gdzie w roku 1922 wynosiła ona 29 tyś%.... 
+Teraz mamy identyczną sytuację, wirus, dodruk i pewnie w okolicach 2022-23 hiperinflacja-tylko że ogólnoświatowa, co wywinduje ceny akcji w USA i doprowadzi do tego samego co ówcześnie stało się dopiero w 1929 roku, czyli do największego krachu w historii świata.. 
+<!-- Wszystko się już kiedyś wydarzyło, ale władcy świata zdają się myśleć (albo udają), że tym razem będzie inaczej....
+Ile czasu nam jeszcze zostało??? Na pewno będę wiedział, ale czy jest możliwe, że potrwa to aż do 2029 roku??? i tam koło historii się zamknie?? 
+A tydzień mamy właśnie ze stopami %...
+Dziś (7.9.21) Australia pozostawiła stopy na 0%.
+Jutro (8.9.21) mamy stopy% w Polsce, ale nie spodziewajmy się podwyżek-my kopiujemy USA i tak jak im, tak i nam nie straszna INFLACJA NA POZIOMIE 5% od kilku miesięcy... Przypomnę, że to oficjalna inflacja, a realnie na pewno jest w okolicach 10%....
+Jutro też stopy% w Kanadzie o godzinie 16. (USDCAD - dobry ruch będzie do podłączenia 😀😀☝).
+I czwartek 13.45 st% w Strefie Euro oraz konferencja po posiedzeniu o 14.30... -->
+
 ### 2020
 
 Upadek norm etycznych elit w Starożytnym Rzymie doprowadził do upadku cywilizacji. Czy obecne wydarzenia w Polsce są zapowiedzią powtórki z historii?

@@ -3,11 +3,23 @@ layout: post
 title: 9 września
 image: img/september/tarcza76.jpg
 author: Tomasz Waszczyk
-date: 2019-09-09T10:00:00.000Z
+date: 2020-09-09T10:00:00.000Z
 tags:
   - Tarcza 76
 draft: false
 ---
+
+### 2021
+
+🇨🇳 Komunistyczna Partia Chin ma ponad 90 milionów członków, więc w naturalny sposób są tam różni ludzie, różne frakcje. Szczególnie niezadowoloną jest frakcja najstarsza, czyli osoby, które osobiście doświadczyły Rewolucji Kulturalnej. Im zdecydowanie nie podoba się fakt, że Xi Jinping rozmontował „kolektywnego cesarza” i wrócił do rządów jednoosobowych – mówi prof. Bogdan Góralczyk.
+
+🇨🇳 Wygląda na to, że Chiny znowu dotknął, jak to opisywał Francis Fukuyama, „syndrom cesarza”. Chińczycy mieli wypracowany system, w którym przywódca owszem był primus inter pares, ale nie rządził sam. Starannie to opisałem w tomie „Wielki renesans. Chińska transformacja i jej konsekwencje”, do którego lektury serdecznie zachęcam. Niestety, wróciły poprzednie tryby. Znowu mamy „syna niebios” z nadania Komunistycznej Partii Chin. Ile będzie rządził Xi Jinping? Prawdopodobnie tyle, na ile mu partia i koledzy w najbliższym otoczeniu pozwolą. Jak będą sukcesy, to dożywotnio, natomiast jeśli straciłby „mandat niebios”, to nieco krócej.
+
+🇨🇳 W tej chwili rozmawianie na temat sukcesji władzy w Chinach jest bezsensowne, bo Xi Jinping ma zagwarantowane długie rządy. Myślę prywatnie, chociaż mówię to publicznie, że będzie rządził przynajmniej do 2035 roku, kiedy to zgodnie z jego wizją Chiny mają stać się państwem i społeczeństwem innowacyjnym. Patrząc na jego datę urodzenia i życiorys, może spokojnie tyle wytrwać u władzy.
+
+🇨🇳 Chiny przeprowadzają reformę w trzech etapach. Pisał o tym Zheng Yongnian, dziś jeden z najbliższych intelektualnych doradców Xi Jinpinga, choć formalnie nadal zatrudniony w Singapurze (także w Szanghaju). Powołując się na Deng Xiaopinga pisze on, że pierwszy etap od 1978 do 2008-2010 to była odbudowa siły państwa. Teraz podczas kadencji Xi Jinpinga obserwujemy odbudowę siły nabywczej obywateli. Stąd pozbycie się biedy, ale też hasło xiǎokāng shèhuì, czyli społeczeństwo umiarkowanego dobrobytu. W Chinach wielkość klasy średniej to około 400 milionów, a celem jest 600 milionów. To więcej niż liczba obywateli Unii Europejskiej. Ta odbudowa może trwać 30 lat, a więc gdzieś do końca rządów Xi Jinpinga, do połowy czwartej dekady. Potem dopiero mają nastąpić reformy polityczne.  Ja się takowych reform spodziewam, leczone nie przyniosą one liberalnej demokracji, takiego systemu jak u nas.
+
+<img src="./img/september/xi.jpg"><br><br>
 
 ### 2020
 

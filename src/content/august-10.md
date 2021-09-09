@@ -8,6 +8,16 @@ tags:
   - ORP Burza
 ---
 
+### 1976
+
+Wincenty Kraśko -  działacz komunistyczny, prawnik i dziennikarz. Poseł na Sejm PRL II, III, IV, V, VI i VII kadencji, członek Rady Państwa w latach 1972–1976. Wiceprezes rady Ministrów w rządzie Piotra Jaroszewicza. Budowniczy Polski Ludowej, utrwalacz socjalizmu.
+
+Tadeusz Kraśko - w czasach PRL zastępca redaktora naczelnego Redakcji Publicystyki Kulturalnej TVP1, szef Redakcji Reportażu i Filmu Dokumentalnego TVP2. Na przełomie lat 70/80 pełnił funkcję radcy ambasady PRL i był dyrektorem Instytutu Kultury Polskiej w Sztokholmie. W wyborach parlamentarnych 2011 do Sejmu RP startował w okręgu wyborczym 19 z listy Sojuszu Lewicy Demokratycznej, mandatu nie uzyskał, otrzymał 164 głosy.
+
+Piotr Kraśko - w czasach PRL występował w Telewizji Polskiej jako prezenter programu dla dzieci i młodzieży 5-10-15. Pracował jako korespondent telewizii publicznej w Rzymie, następnie przeniesiony do Waszyngtonu. Od 27 maja 2008 był gospodarzem głównego wydania Wiadomości, a od 26 stycznia 2012 również redaktorem naczelnym tego programu. Od kwietnia 2016 związany z Grupą TVN.
+
+<img src="./img/august/klankrasko.jpg"><br><br>
+
 ### 1955
 
 https://pl.wikipedia.org/wiki/Zdzis%C5%82aw_Krygowski
