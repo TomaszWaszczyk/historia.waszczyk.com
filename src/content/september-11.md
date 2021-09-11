@@ -3,11 +3,17 @@ layout: post
 title: 11 września
 image: img/september/jankazimierz.jpg
 author: Tomasz Waszczyk
-date: 2019-09-11T10:00:00.000Z
+date: 2020-09-11T10:00:00.000Z
 tags:
   - Związek Braterski
 draft: false
 ---
+
+### 2021
+
+Największa manifestacja pracowników ochrony zdrowia w historii Polski
+
+<img src="./img/september/protestymedykow.jpeg"><br><br>
 
 ### 1946
 
