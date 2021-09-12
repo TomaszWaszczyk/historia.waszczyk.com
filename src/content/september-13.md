@@ -3,11 +3,15 @@ layout: post
 title: 13 września
 image: img/september/sumabilansowa.png
 author: Tomasz Waszczyk
-date: 2019-09-13T10:00:00.000Z
+date: 2020-09-13T10:00:00.000Z
 tags:
   - GOLD
 draft: false
 ---
+
+### 2021
+
+<img src="./img/september/wszystkodobrze.jpeg"><br><br>
 
 ### 2020
 

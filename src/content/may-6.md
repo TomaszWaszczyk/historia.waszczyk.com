@@ -83,6 +83,14 @@ W trakcie cumowania na lotnisku w Lakehurst w amerykańskim stanie New Jersey sp
 
 <img src="./img/may/hindenburg.jpg"><br><br>
 
+### 1933
+
+Looting of the Institute of Sexology
+
+On 6 May 1933, the Institute of Sexology, an academic foundation devoted to sexological research and the advocacy of homosexual rights, was broken into and occupied by Nazi-supporting youth. Several days later the entire contents of the library were removed and burned.
+
+<img src="./img/may/palenieksiazek.jpeg"><br><br>
+
 ### 1882
 
 https://en.wikipedia.org/wiki/Chinese_Exclusion_Act
