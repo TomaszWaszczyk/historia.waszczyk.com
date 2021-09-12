@@ -15,6 +15,8 @@ Największa manifestacja pracowników ochrony zdrowia w historii Polski
 
 <img src="./img/september/protestymedykow.jpeg"><br><br>
 
+> Największym wrogiem zdrowia nie jest choroba, tylko hipochondria; największym wrogiem życia nie jest śmierć, tylko wegetacja; największym wrogiem dobrobytu nie jest nędza, tylko wygodnictwo; największym wrogiem sprawiedliwości nie jest niesprawiedliwość, tylko roszczeniowość; a największym wrogiem szczęścia nie jest cierpienie, tylko samozadowolenie. Prawdziwy i uświadomiony brak ma szansę pobudzić do działania, podczas gdy pozór zaspokojenia lub złudzenie krzywdy wpędza wyłącznie w odrętwienie lub jałową szamotaninę.
+
 ### 1946
 
 W białostockim więzieniu Urzędu Bezpieczeństwa przy ulicy Kopernika 21 rozstrzelano 6 działaczy antykomunistycznych, członków stowarzyszenia Wolność i Niezawisłość. Był wśród nich 19- letni Marian Piekarski "Ryś" (zdjęcie) dowództwa patrolu dywersyjnego w batalionie "Moczary", uczestnik akcji uwolnienia 6 byłych żołnierzy Armii Krajowej osadzonych w areszcie w Suwałkach. Wydarzenie to miało miejsce 12 marca 1945 roku. Tego samego dnia zabity został również Aleksander Rybnik- prezes Okręgu Białystok WiN.

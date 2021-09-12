@@ -3,10 +3,24 @@ layout: post
 title: 12 września
 image: img/september/abbeville.jpg
 author: Tomasz Waszczyk
-date: 2019-09-12T10:00:00.000Z
+date: 2020-09-12T10:00:00.000Z
 tags:
   - Hamletyzm
 ---
+
+### 2021
+
+Tego jeszcze nie było. Prezes Rafako Radosław Domagalski-Łabędzki stawia rządowi ultimatum: albo państwo zrenacjonalizuje kierowaną przez niego spółkę, albo Rafako ogłosi upadłość, a wtedy władza musi się liczyć z poważnymi kłopotami energetycznymi.
+
+Prezes, który jeszcze niedawno był zaufanym współpracownikiem Mateusza Morawieckiego, teraz narzeka, że nikt z władz nie chce rozmawiać. Ma więc pomysł, jak do tego skłonić rząd.
+
+Rafako to raciborska spółka specjalizująca się w produkcji instalacji do wytwarzania energii, zwłaszcza wielkich kotłów do elektrowni i elektrociepłowni węglowych. Jedyna taka w Polsce. Większość kotłów w polskich elektrowniach i elektrociepłowniach powstała w Rafako. Dziś to prywatna spółka giełdowa z problemami i dość pechową przeszłością.
+
+Rafako popłynęło na kilku kontraktach, zbyt optymistycznie kalkulując ceny. W efekcie z trudem wywinęło się od bankructwa, wynegocjowało układ z wierzycielami i wychodzi na prostą. Tyle że, jako się rzekło, nie ma normalnego właściciela, bo nadzorca nie ma prawa wykonywać obowiązków właścicielskich.
+
+Od pół roku spółką zarządza Radosław Domagalski-Łabędzki, którego rada nadzorcza wybrała ze względu na jego dobre kontakty z obecną władzą. Jako człowiek Morawieckiego, który był przy nim wiceministrem rozwoju, a potem rozwijał się na kolejnych stanowiskach w instytucjach państwowych i spółkach Skarbu Państwa – w KNF, jako prezes KGHM, członek zarządu Polskiej Grupy Zbrojeniowej – wydawało się, że może Rafako pomóc swoimi kontaktami. Na początku tego roku przeszedł do Rafako i od tego czasu zabiega o to, by państwo uratowało raciborską spółkę. Bo z niewyjaśnioną sytuacją właścicielską Rafako nie może startować w przetargach ani podejmować się dużych zleceń. Żaden bank nie da jej większych pieniędzy, nie wiedząc, co stanie się ze spółką. Agencja Rozwoju Przemysłu dała wprawdzie 100 mln zł kredytu, ale nie rozwiązała problemu własnościowego.
+
+
 
 ### 1939
 
