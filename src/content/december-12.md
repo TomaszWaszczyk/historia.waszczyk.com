@@ -66,6 +66,13 @@ W Warszawie odbył się zorganizowany przez Ministerstwo Bezpieczeństwa Publicz
 
 <img src="./img/december/episkopat.jpg"/><br>
 
+### 1671
+
+> Polska z Turcją walczyła a finalnie korzystali Habsburgowie i Rosjanie.
+
+Sułtan Imperium Osmańskiego Mehmed IV wypowiedział wojnę Polsce.
+Główną przyczyną wybuchu tego konfliktu było oddanie się Kozaków, pod wodzą hetmana Piotra Doroszenki w 1666 r. pod zwierzchnictwo Porty. Wojna wybuchła dopiero 6 lat od tego wydarzenia, bowiem Turcja była zamieszana w konflikt z Wenecją i Austrią. Pierwszym starciem wojsk polsko-tureckich była Bitwa pod Ładyżynem. Do najważniejszych wydarzeń tej kampanii należy m.in. zdobycie Kamieńca Podolskiego przez Turków. Porażka ta zmusiła Polskę do zawarcia traktatu w Buczaczu. Na jego mocy Rzeczypospolita musiała płacić haracz Turcji oraz wyrzec się części Ukrainy oraz Podola. Sejm polski nie ratyfikował tego traktatu i zorganizował armię, na czele której stanął hetman Jan Sobieski. Wojska pod jego dowództwem pokonały w 1673 roku siły tureckie pod Chocimiem. Wojnę zakończył dopiero traktat w Żurawnie w 1676 roku. Na jego mocy Rzeczypospolita uzyskała zwolnienie od haraczu oraz odzyskała część ziem utraconych 4 lata wcześniej w Buczaczu.
+
 ### 1586
 
 W Grodnie zmarł zasiadający przez 10 lat na polskim tronie król Stefan Batory (grafika).

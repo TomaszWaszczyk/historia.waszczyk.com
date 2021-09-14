@@ -3,10 +3,30 @@ layout: post
 title: 14 września
 image: img/september/germanizacja.jpg
 author: Tomasz Waszczyk
-date: 2018-09-14T10:00:00.000Z
+date: 2020-09-14T10:00:00.000Z
 tags:
   - Germanizacja
 ---
+
+### 2021
+
+<img src="./img/september/pielegniarkipl.jpeg"><br><br>
+
+<img src="./img/september/protestmedykow2.jpg"><br><br>
+
+---
+
+<img src="./img/september/telewizjapensje.jpg"><br><br>
+
+vs rzeczywistość:
+
+> Ratownik medyczny - 12 lat pracy z dodatkiem stażowym 12 %.
+
+<img src="./img/september/pracownikmedyczny.jpg"><br><br>
+
+Rząd i medycy wyglądają tak:
+
+<img src="./img/september/rzadimedycy.jpg"><br><br>
 
 ### 2020
 

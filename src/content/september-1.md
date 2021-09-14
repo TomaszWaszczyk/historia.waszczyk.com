@@ -239,6 +239,12 @@ Dziś nie ma już żadnej wątpliwości, że Polska została wciągnięta w wir 
 
 ---
 
+Losy polskiego złota po 1939:
+
+<img src="./img/september/losyzlotapo1939.jpeg"><br><br>
+
+---
+
 ### 1925
 
 https://pl.wikipedia.org/wiki/Tadeusz_Ste%C4%87

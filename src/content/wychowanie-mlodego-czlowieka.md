@@ -25,6 +25,8 @@ https://www.brainyquote.com/authors/johann-gottlieb-fichte-quotes
 
 * https://lubimyczytac.pl/autor/7000/janusz-korczak
 
+* https://lemgalaxy.com/en
+
 * Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
 
 * https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/Americas%20Great%20Depression_Polish_3.pdf

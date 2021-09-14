@@ -61,6 +61,13 @@ Biuletyn Informacyjny opublikował artykuł autorstwa Komendanta Głównego Armi
 
 "W obecnych warunkach Polski, kiedy groza germańskiego terroru sięga co dnia po setki Polaków i Polek, kiedy sowiecki sprzymierzeniec naszych aliantów wciąż jeszcze nie wyrzekłsię zaborczych względem nas zamiarów, kiedy front wschodni pożogą bojów przesuwać się pocznie przez wschodnie połacie Rzeczpospolitej − w takich chwilach każdy, kto działa przeciw jedności wojska, jest szaleńcem. Komenda NSZ wykazała brak instynktu państwowego. Samowolne, nieprzemyślane kroki wojskowe i polityczne tej organizacji kosztują Polskę zbyt wiele, aby mogły być dalej tolerowane. Wszystko co zdrowe musi szybko i zdecydowanie opuścić szeregi szkodników”.
 
+### 1939
+
+Na wysokości Newcastle upon Tyne zatonął transatlantyk „Piłsudski”.
+25 listopada 1939 r. o godz. 23 m/s „Piłsudski”, który z luksusowego transatlantyka przedzierzgnął się w transportowiec, wyszedł z portu Newcastle w pierwszy rejs wojenny do Australii, skąd miał zabrać żołnierzy. O godz. 4.36, w odległości 29 mil morskich na południowy wschód od latarni Flamborough Head statkiem wstrząsnęły dwie eksplozje. Pierwsza na dziobie przy lewej burcie, a druga na śródokręciu pod maszynownią zatrzymała silniki oraz uszkodziła zasilanie. Statek dość szybko nabierał wody i znacznie przechylił się na lewą burtę więc kapitan Mamert Stankiewicz zarządził ewakuację. Nie uratowali się jedynie czwarty mechanik Tadeusz Piotrowski, śmiertelnie uderzony zerwaną z lin szalupą, oraz zmarły na skutek wyziębienia kapitan Stankiewicz, który został na statku do końca i ratował się na tratwie. Nie jest jasne, czy statek został storpedowany, czy wszedł na miny.
+
+<img src="./img/november/pilsudskitransatlantyk.jpg"><br><br>
+
 ### 1764
 
 Na króla Polski koronowano w kolegiacie św Jana w Warszawie 32 -letniego stolnika litewskiego Stanisława Antoniego Poniatowskiego (grafika).

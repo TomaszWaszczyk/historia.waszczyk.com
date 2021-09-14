@@ -11,6 +11,38 @@ draft: false
 
 ### 2021
 
+Merkel goes to Moscow?
+
+German-Russian love in bloom… and the Nord Stream II gas pipeline will show who rules Europe.
+Gerhard Schroeder,Matthias Warnig...
+They are wonderful people, they can break stereotypes and show love to other people
+Earning extra money for retirement ... is already a German tradition.
+Gerhard Schroeder, former German chancellor in the management of the Russian oil company Rosneft.
+Matthias Warnig, former Stasi agent who was also supposed to work with Vladimir Putin, then a KGB agent, during the communist era.
+The names of Schroeder and Warnig also appear on the payroll of another Russian giant, Gazprom
+
+<img src="./img/september/gerhard.jpeg"><br><br>
+
+---
+
+> Z czego jutro…?
+
+Przez 400 lat w Cesarstwie Rzymskim bito monety wyłącznie z pieczęcią cesarza dzięki uporządkowaniu systemu przez Oktawiana Augusta. Został on zniszczony przez polityki inflacyjne kolejnych cesarzy, co w konsekwencji doprowadziło do upadku samego Cesarstwa i regresu cywilizacyjnego, który prof. H. Samsonowicz zobrazował skurczeniem się znajomość kuli ziemskiej z obszaru obejmującego około 30 milionów kilometrów kwadratowych w starożytności do zaledwie 5 milionów we wczesnym Średniowieczu.
+
+Inflacja pojawiła się w połowie I wieku za sprawą decyzji cesarza Nerona, który jako pierwszy władca zdewaluował oficjalną walutę, redukując do 90 proc. zawartość srebra w denarze. Kolejni cesarze dewaluowali denara doprowadzając do rosnących cen i topniejących oszczędności obywateli. Zawartość srebra w denarach malała i za rządów Marka Aureliusza w 180 roku wynosiła już tylko 75 proc. pierwotnej zawartości. Trzydzieści lat później srebro stanowiło 50 proc., a w 268 roku w denarze znajdowało się już tylko 0,5 proc. srebra. W wyniku psucia własnego pieniądza, Cesarstwo pogrążyło się w szalejącej hiperinflacji. W niektórych okresach ceny rosły o około 1000 proc. rocznie. Reakcją rządzących na wywołaną przez nich samych hiperinflację, było ustanowienie cen maksymalnych na najważniejsze towary, co już wtedy wywołało niedobór towarów i doprowadziło do finansowej ruiny kupców oraz zaniku handlu pomiędzy różnymi obszarami cesarstwa. W trakcie wywołanych w ten sposób kryzysów gospodarczych w III i IV wieku upada również większość banków. W cesarstwie przestaje istnieć bankowość, która dopiero osiem wieków później zostaje na nowo odkryta we włoskich państwach-miastach.
+
+Inflacja - parafrazując Stanisława J. Lecą, to zbiór faktów, które nie musiały zajść. Rządzący od udokumentowania jej skutków już w czasach Cesarstwa Rzymskiego uważali jednak, że jest korzystna dla finansów publicznych, bo m.in. redukuje dług publiczny oraz sprawia, że pieniądz będąc tańszym, staje się bardziej dostępny, nie bacząc, że redukuje oszczędności gospodarstw domowych i obciąża je kolejnymi podatkami.
+
+Inflacja w polskiej literaturze ekonomicznej oraz społecznej dość dobrze została rozpoznana i zdiagnozowana zwłaszcza w II Rzeczpospolitej. Jednym z autorów, który poświęcał jej prace był prof. Adam Krzyżanowski. Uważał, że jednym ze źródeł inflacji jest ogólna suma konsumpcji publicznej, która jest zbyt wielka w stosunku do zamożności ówczesnego społeczeństwa, a wzrost wydatków budżetowych wywołał katastrofę̨. Bronił poglądu, wedle którego „równowaga budżetowa bez przeciążenia podatkowego zabezpiecza przed drożyzną i spadkiem waluty, ale tej gwarancji nie daje równowaga budżetowa sama przez się (...) i że także budżet zrównoważony, ale oparty na przeciążeniu podatkowym podbija ogólny poziom cen i wywraca walutę̨”. Pod koniec XX wieku, o którym Adam Krzyżanowski napisał książkę, prof. Milton Friedman stwierdził, że „kiedy inflacja ulega przyspieszeniu prędzej czy później prowadzi do zniszczenia istniejącego porządku społecznego, gdyż generuje tak wiele niesprawiedliwości i cierpień, że może dojść do niezadowolenia społecznego jak np. w USA w 1980 r. (...) oraz, że obywatele otrzymują straty z inflacji a rząd z jej tytułu większe wpływy”. W tym czasie polskie społeczeństwo masowo protestowało przeciwko drożyźnie i brakowi towarów, co doprowadziło do porozumień sierpniowych i tym samym zapoczątkowało upadek systemu, z którego dziedzictwem, czyli hiperinflacją zmagała się III RP. Wydawałoby się, że tak bolesne i nieodległe doświadczenie z konsekwencjami psującego się pieniądza jest wystarczającym zabezpieczeniem przed eksperymentowaniem z inflacją. Prof. Konrad Raczkowski w sierpniowym raporcie „Wpływ inflacji na gospodarkę” zauważa, że „ inflacja wywołuje niewłaściwą̨ alokację zasobów i tracą̨ na niej zwłaszcza wierzyciele, posiadacze gotówki oraz właściciele depozytów gotówkowych na rachunkach oszczędnościowych. (...) Determinanty inflacji to nadmierna emisja pieniądza, która skutkuje zbyt dużą ich ilością̨ w gospodarce i niezrównoważony budżet państwa (...) Inflacja może być́ kształtowana zarówno przez politykę̨ monetarną, jak i polityką fiskalną, gdzie dyscyplina fiskalna wpływa na obniżenie inflacji”.
+
+W 1999 r. Krzysztof Dzierżawski jako ekspert Centrum im. Adama Smitha w artykule „Inflacja” przestrzegał, że „dzisiejszy poziom inflacji wciąż stanowi główną przeszkodę w rozwoju mieszkalnictwa i innych długookresowych inwestycji. Konieczność ograniczenia wzrostu cen pozostawać musi przeto nadal jednym z najważniejszych celów polskiej polityki gospodarczej”.
+
+Trwające przeciążanie inflacją sztucznie ożywia stan finansów publicznych, jednak w konsekwencji prowadzi do zniszczenia oszczędności obywateli, a co najgorsze -zaufania do polskiej waluty, po której zniszczeniu przyjęcie Euro będzie wybawieniem.
+
+Andrzej Sadowski założyciel i prezydent Centrum im. Adama Smitha - pierwszego w Polsce think tanku działającego od 16 września 1989 roku.
+
+---
+
 <img src="./img/september/wszystkodobrze.jpeg"><br><br>
 
 ### 2020

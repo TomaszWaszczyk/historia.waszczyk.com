@@ -8,6 +8,62 @@ tags:
   - McDonald
 ---
 
+### 2021
+
+Central bank digital currency: the future starts today
+
+Speech by Benoît Cœuré, Head of the BIS Innovation Hub, at The Eurofi Financial Forum, Ljubljana, Friday 10 September 2021.
+
+Distinguished guests, ladies and gentlemen.
+
+Thank you for inviting me to speak here today. We all experienced how the pandemic accelerated the shift to virtual events, but I am pleased that today we are gathering in person. 
+
+Yet the world is not returning to the old normal. Payments are a case in point. The pandemic has accelerated a longer-running move to digital. Mobile and contactless payments are already part of our daily lives; QR codes and "buy now, pay later" options are gaining popularity; gloves, badges and Olympic uniforms with payment functions are being prepared for the Beijing Winter Olympics; and the tech-savvy generation will soon dream about money and payments for the metaverse.
+
+Alongside these developments, the world's central banks are stepping up efforts to prepare the ground for digital cash – central bank digital currency (CBDC).1 They have a job to do – delivering price stability and financial stability – and they must retain their ability to do it.
+
+Let me explain.
+
+Central bank money has unique advantages – safety, finality, liquidity and integrity. As our economies go digital, they must continue to benefit from these advantages. Money is at the heart of the system and it has to continue to be issued and controlled by trusted and accountable institutions which have public policy – not profit – objectives. Central bank money will have to evolve to be fit for the digital future.
+
+So what are the priorities now? Know where you are going – as Dag Hammarskjöld once said2, "only he who keeps his eye fixed on the far horizon will find the right road". And get going. 
+
+Let me elaborate.
+
+Why do we need to know where are we going? Because today, the financial system is shifting under our feet.
+
+Big techs are expanding their footprint in retail payments. Stablecoins are knocking on the door, seeking regulatory approval. Decentralised finance (DeFi) platforms are challenging traditional financial intermediation. They all come with different regulatory questions, which need fast and consistent answers.
+
+Banks are worried about the implications of CBDCs for customer deposits. Central banks are mindful of these concerns and are working on answers. They see banks as part of future CBDC systems. But make no mistake: global stablecoins, DeFi platforms and big tech firms will challenge banks' models regardless.
+
+Stablecoins may develop as closed ecosystems or "walled gardens", creating fragmentation. With DeFi protocols,3 any concerns about the assets underlying stablecoins could see contagion spread through a system. And the growing footprint of big techs in finance raises market power and privacy issues, and challenges current regulatory approaches.4
+
+Will the new players complement or crowd out commercial banks? Should central banks open accounts to these new players, and under which regulatory conditions? Which kind of financial intermediation do we need to fund investment and the green transformation? How should public and private money coexist in new ecosystems – for example, should central bank money be used in DeFi rather than private stablecoins?
+
+We urgently need to ask ourselves these kinds of questions about the future. This is the far horizon for the financial system  but we are approaching it ever faster. Central banks need to know where they want to go as they embark on their CBDC journey.
+
+CBDC will be part of the answer. A well-designed CBDC will be a safe and neutral means of payment and settlement asset, serving as a common interoperable platform around which the new payment ecosystem can organise. It will enable an open finance architecture that is integrated while welcoming competition and innovation.5 And it will preserve democratic control of the currency.
+
+This brings me to my second message: the time has passed for central banks to get going. We should roll up our sleeves and accelerate our work on the nitty-gritty of CBDC design. CBDCs will take years to be rolled out, while stablecoins and cryptoassets are already here. This makes it even more urgent to start. 
+
+In the design thinking methodologies we use in the BIS Innovation Hub, the ideal product stands in a sweet spot at the intersection of desirability, viability and feasibility. When applied to CBDCs, these translate into three dimensions: consumer use cases, public policy objectives and technology.
+
+We have to ask ourselves why consumers would want a CBDC and what would they want it to do? The recent European Central Bank (ECB) public consultation showed that they value privacy, security and broad usability.6 In order to meet consumers' expectations, CBDCs need to be made to work most conveniently. Payment data must be protected. Digital functions that are not available with cash can be developed, such as programmability or viable micro-payments.
+
+Then CBDCs should meet public policy objectives.7 Central banks exist to safeguard monetary and financial stability for the public good. CBDCs are a tool to pursue this through enhancing safety and neutrality in digital payments, financial inclusion and access, innovation and openness. Important questions remain. How can CBDC systems interoperate, and should offshore use be discouraged?
+
+Technology opens up design choices. System design will be complex. It involves a hands-on operational and oversight role for central banks and public-private partnerships to develop the core features of the CBDC instrument and its underlying system. These features are: ease of use, low cost, convertibility, instant settlement, continuous availability and a high degree of security, resilience, flexibility and safety.8 Complex trade-offs will be addressed by central banks including how to balance scale, speed and open access with security; and how to balance offline functionality with complexity and security.
+
+Across the world, central banks are coming together to focus on their common mission. Charged with stability, they will not rush. They want to move fast, but not to break things. Consultations with payment systems and providers, banks, the public and a broad range of stakeholders have begun in some countries. To build a CBDC for the public, a central bank needs to understand what they need, and work closely with other authorities. The BIS Innovation Hub is helping central banks. We already have six CBDC-related proofs of concept and prototypes being developed in our centres, and more to come.9
+
+The European Union is uniquely placed to face the future. You can build on a state-of-the-art fast payment system, on the strong protections provided by the General Data Protection Regulation and on the open philosophy of the Second Payment Services Directive. The ECB's report on a digital euro sets the stage.
+
+A CBDC's goal is ultimately to preserve the best elements of our current systems while still allowing a safe space for tomorrow's innovation. To do so, central banks have to act while the current system is still in place – and to act now.
+
+I thank you for your attention.
+
+Source: https://www.bis.org/speeches/sp210910.htm
+
 ### 2020
 
 > I was honoured to speak at the Deutsche Bundesbank about payments in today’s fast-moving world. With our lives going digital, it's natural for people to change the way they pay. We must ensure that our payment systems continue to modernise along with European consumers’ preferences.
