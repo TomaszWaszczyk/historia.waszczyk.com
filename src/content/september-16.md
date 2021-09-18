@@ -3,7 +3,7 @@ layout: post
 title: 16 września
 image: img/september/rosjajaponia.jpg
 author: Tomasz Waszczyk
-date: 2019-09-16T10:00:00.000Z
+date: 2020-09-16T10:00:00.000Z
 tags:
   - Komitet Rady Ministrów ds. Cyfryzacji
 draft: false

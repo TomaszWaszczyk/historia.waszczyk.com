@@ -3,7 +3,7 @@ layout: post
 title: 18 września
 image: img/september/rada.jpg
 author: Tomasz Waszczyk
-date: 2019-09-18T10:00:00.000Z
+date: 2020-09-18T10:00:00.000Z
 tags:
   - FIAT Money
 draft: false

@@ -3,7 +3,7 @@ layout: post
 title: 17 września
 image: img/september/boe.jpg
 author: Tomasz Waszczyk
-date: 2019-09-17T10:00:00.000Z
+date: 2020-09-17T10:00:00.000Z
 tags:
   - CBDC
 draft: false

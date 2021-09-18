@@ -3,7 +3,7 @@ layout: post
 title: 15 września
 image: img/september/lehman.jpg
 author: Tomasz Waszczyk
-date: 2019-09-15T10:00:00.000Z
+date: 2020-09-15T10:00:00.000Z
 tags:
   - Lehman
 draft: false
@@ -11,7 +11,9 @@ draft: false
 
 ### 2020
 
-PARIS,France​,​September15th,2020,​Today,SocieteGenerale–ForgehasselectedtheTezosblockchainforCentralBankDigitalCurrency(CBDC)experiments.OnJuly20,2020,BanquedeFranceselectedSocieteGenerale–ForgeaspartofitscallforapplicationstoexperimenttheuseofCentralBankDigitalCurrencyforinterbanksettlements.Theexperimentwillexplorethefeasibilityoffinancial securities being digitally settled and delivered in Central Bank Digital Currency.
+PARIS,France 
+
+​Societe Generale – Forgehas selected the Tezos blockchain for Central Bank Digital Currency(CBDC)experiments. OnJuly20,2020, Banquede France selected Societe Generale – Forgeaspart of its call for applications to experiment the use of Central Bank Digital Currency for interbank settlements. The experiment will explore the feasibility of financial securities being digitally settled and delivered in Central Bank Digital Currency.
 
 ### 2008
 
