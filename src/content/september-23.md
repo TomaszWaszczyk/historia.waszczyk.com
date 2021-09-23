@@ -3,7 +3,7 @@ layout: post
 title: 23 września
 image: img/september/indeks.png
 author: Tomasz Waszczyk
-date: 2019-09-23T10:00:00.000Z
+date: 2020-09-23T10:00:00.000Z
 tags:
   - 
 draft: false

@@ -40,6 +40,18 @@ Manipulacja:
 Your browser does not support the video tag.
 </video>
 
+---
+
+UBI/BDG czyli 500+ na sterydach (Universal Basic Income / Bezwarunkowy Dochód Gwarantowany) już na stronach parlamentu polskiego. Tylko ciekawi mnie z czego nasz kraj zamierza to sfinansować 🧐
+Nawet jak znacjonalizują 50% własności prywatnej w kraju i zbudują komunizm 2.0 to utrzymanie pensji dla 36 mln pracowników to jakieś 100 mld zł / m-c. 
+Takie PKN Orlen generuje 5-10 mld zł zysku rocznie. KGHM jakiś 1 mld zł rocznie. PKO jakieś 2 mld zł. Taka Biedronka 2 mld zł rocznie. Tylko zastanawia mnie co na to akcjonariusze tych spółek. Też ciekawe jaki to będzie miało wpływ na sam rynek.
+Doktryna szoku - to doktryna wojenna USA, która pozwala wprowadzać ekstremalne zmiany gospodarcze. Najpierw kryzys, a potem ludzie w desperacji zgodzą się na wszystko.
+To co dzieje się obecnie napewno może otworzyć furtkę do ekstremalnych zmian.
+
+<a href="./documents/january/ubi-polska.pdf" target="_blank">UBI w Polsce</a>
+
+---
+
 ### 1902
 
 W Łodzi urodziła się Róża Herman (zdjęcie) wybitna polska szachistka żydowskiego pochodzenia, z zawodu lekarka chorób wewnętrznych, absolwentka Wydziału Medycznego Uniwersytetu Warszawskiego.

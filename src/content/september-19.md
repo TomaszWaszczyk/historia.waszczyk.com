@@ -3,7 +3,7 @@ layout: post
 title: 19 września
 image: img/september/agencjamodys.png
 author: Tomasz Waszczyk
-date: 2019-09-19T10:00:00.000Z
+date: 2020-09-19T10:00:00.000Z
 tags:
   - Polska
 draft: false

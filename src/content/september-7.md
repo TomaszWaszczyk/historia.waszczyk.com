@@ -10,6 +10,10 @@ tags:
 
 ### 2021
 
+<img src="./img/september/elsalvadorbtc.jpeg"><br><br>
+
+---
+
 <img src="./img/september/preparaty1.jpg"><br><br>
 
 <img src="./img/september/preparaty2.jpg"><br><br>

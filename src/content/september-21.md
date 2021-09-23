@@ -3,10 +3,49 @@ layout: post
 title: 21 września
 image: img/september/umgang.jpg
 author: Tomasz Waszczyk
-date: 2019-09-21T10:00:00.000Z
+date: 2020-09-21T10:00:00.000Z
 tags:
   - HSBC
 draft: false
+---
+
+### 2021
+
+Today's Thought?
+
+Pandemic-Era Central Banking Is Creating Bubbles Everywhere...
+
+A common thread runs through these scenes from the plague year 2020: Cheap money, gushing in from the world’s major central banks, inflated assets and reshaped how we save, invest, and spend. And that’s not the end of it. Unlike past recoveries, when investors had no clarity on when the monetary taps would be tightened, this time officials have explicitly said they’re going to stick to their loose policies well into a post-Covid recovery.
+
+The strategy is clear and deliberate: make debt the cheapest it’s ever been to deter saving and encourage asset bubbles everywhere.
+
+Central banks know they are basically lowering the return of safe assets to increase demand for risky ones. The wealth of the past and the future has been brought forward into the present and gifted to the bankers mates...
+
+$17.8 trillion in debt is trading with a negative yield. Governments from Australia to Spain were effectively getting paid to borrow. Junk bonds in the U.S. were trading at yields similar to those of investment-grade corporate debt that priced just two years earlier.
+When the shells stop, people will find that no pea exists under any of the central bankers shells. just empty air...
+
+The world’s 500 richest people added $1.8 trillion to their combined net worth last year, taking it to $7.6 trillion, according to the Bloomberg Billionaires Index. 
+
+Just saying: asset bubbles are designed to transfer wealth to those who own assets, from those who do not...
+
+<img src="./img/september/centralbanks.jpeg"><br><br>
+
+---
+
+The government said all construction projects in Metropolitan Melbourne, Ballarat, Greater Geelong, Surf Coast Shire and Mitchell Shire would be closed, "with a strictly limited exemption for workers to attend the sites to respond to an emergency or perform urgent and essential work to protect health and safety".
+"An amnesty will be put in place so that a limited number of workers can attend construction sites in order to shut them down safely," the government said in a statement.
+"All government construction projects in metropolitan Melbourne and relevant LGAs will be closed, with no new work to be completed - other than work required to make the site safe and secure."
+
+<img src="./img/september/outlawworkers.jpeg"><br><br>
+
+---
+
+The last upgrade of the Tezos protocol, Granada, activated on August 6th, 2021. We are now glad to announce a new protocol proposal, Hangzhou, the result of a collaborative work from various teams.
+
+(As usual, Hangzhou’s “true name” is its hash, which is PtHangzHogokSuiMHemCuowEavgYTP8J5qQ9fQS793MHYFpCY3r).
+
+Hangzhou is the capital of East China's Zhejiang province, with a population of more than 10 millions. Founded in the 7th century, it is a city with a rich history ; more recently, it has become a dynamic economic zone, and is considered a major technological and innovation hub.
+
 ---
 
 ### 2020

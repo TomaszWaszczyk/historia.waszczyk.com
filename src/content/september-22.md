@@ -3,11 +3,17 @@ layout: post
 title: 22 września
 image: img/september/kapitalacjalwowa.jpg
 author: Tomasz Waszczyk
-date: 2019-09-22T10:00:00.000Z
+date: 2020-09-22T10:00:00.000Z
 tags:
   - Ursula von der Leyen
 draft: false
 ---
+
+### 2021
+
+<img src="./img/september/bankgermany1.jpeg"><br><br>
+
+<img src="./img/september/bankgermany2.jpeg"><br><br>
 
 ### 2020
 

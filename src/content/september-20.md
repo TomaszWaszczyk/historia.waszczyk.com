@@ -3,11 +3,17 @@ layout: post
 title: 20 września
 image: img/september/wiesentahl.jpg
 author: Tomasz Waszczyk
-date: 2019-09-20T10:00:00.000Z
+date: 2020-09-20T10:00:00.000Z
 tags:
   - Bitwa nad Niemnem
 draft: false
 ---
+
+### 2021
+
+Those who are pointing out the #stagflation risk are vindicated this morning. While the evergrande crisis puts global growth at risk, we are getting not so good news on the #inflation front from Europe. Indeed, price pressure keeps rising in the #1 europan economy as German producer prices (PPI) jumped 12% YoY in August, most since 1974, mainly driven by energy and intermediate product prices. Meanwhile, prices of consumer goods are also increasingly on the rise. The bond market seems more concerned about #deflationary risk which might arise from #china as the Bund is down -3bps, deep into negative territory at -31bps.
+
+<img src="./img/september/ppigermany.jpeg"><br><br>
 
 ### 2005
 
@@ -38,6 +44,12 @@ O, cierpliwości! Gratuluję przeczytania artykułu. Jeśli Ci się spodobał, t
 Na zdjęciu Konrad Adenauer.
 
 ---
+
+### 1998
+
+After Long-Term Capital Management contacted the New York Fed, then-President William McDonough sent a team to visit the firm.
+
+<a href="./documents/september/economic_history.pdf" target="_blank">Economic history</a>
 
 ### 1944
 
