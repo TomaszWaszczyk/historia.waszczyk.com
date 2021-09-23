@@ -69,7 +69,6 @@ module.exports = {
         urlCleanup: false,
       },
     },
-
     {
       resolve: 'gatsby-transformer-remark',
       options: {
