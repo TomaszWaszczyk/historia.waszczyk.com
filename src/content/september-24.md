@@ -3,10 +3,14 @@ layout: post
 title: 24 września
 image: img/september/paga.jpg
 author: Tomasz Waszczyk
-date: 2019-09-24T10:00:00.000Z
+date: 2020-09-24T10:00:00.000Z
 tags:
   - GPW
 ---
+
+### 2021
+
+<img src="./img/september/urodzeniasmierci.jpeg"><br><br>
 
 ### 2020
 

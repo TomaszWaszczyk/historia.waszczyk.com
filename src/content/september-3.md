@@ -12,7 +12,13 @@ tags:
 
 Majority of Salvadorans do not want Bitcoin, poll shows.
 
-At least 67.9% of 1,281 people surveyed said they disagree or strongly disagree with the use of Bitcoin as a legal tender, said the poll by UCA, a Jesuit university based in El Salvador - Reuters 
+At least 67.9% of 1,281 people surveyed said they disagree or strongly disagree with the use of Bitcoin as a legal tender, said the poll by UCA, a Jesuit university based in El Salvador - Reuters
+
+---
+
+<img src="./img/september/mieszkaniapodwyzka.png"><br><br>
+
+---
 
 ### 1967
 

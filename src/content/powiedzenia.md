@@ -3692,6 +3692,9 @@ Nie tanki a banki
 
 "𝙄𝙢 𝙬𝙞𝙚̨𝙠𝙨𝙯𝙚 𝙯𝙖𝙨𝙤𝙗𝙮 𝙥𝙖𝙥𝙞𝙚𝙧𝙤𝙬𝙮𝙘𝙝 𝙥𝙞𝙚𝙣𝙞𝙚̨𝙙𝙯𝙮 𝙣𝙖 𝙨́𝙬𝙞𝙚𝙘𝙞𝙚, 𝙩𝙮𝙢 𝙬𝙞𝙚̨𝙠𝙨𝙯𝙚 𝙪𝙗𝙤́𝙨𝙩𝙬𝙤, 𝙠𝙩𝙤́𝙧𝙚 𝙥𝙤 𝙣𝙞𝙢 𝙣𝙖𝙨𝙩𝙖̨𝙥𝙞" - 𝙍𝙤𝙡𝙖𝙣𝙙 𝘽𝙖𝙖𝙙𝙚𝙧 𝟮𝟬𝟬𝟴
 
+Slavery is likely to be abolished by the war power, and chattel slavery destroyed. This I and my European friends are in favor of, for slavery is but the owning of labor and carries with it the care of the laborer, while the European plan, led on by England, is capital control of labor by controlling wages. THIS CAN BE DONE BY CONTROLLING THE MONEY.
+– Hazard Circular, 1862
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

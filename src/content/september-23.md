@@ -16,6 +16,12 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+---
+
+Pres Erdogan has announced that Turkey is ‘in a war with Bitcoin’.
+
+---
+
 ### 1939
 
 ,,Nigdy nie zapomnę 23 września, Dnia Pokuty w 1939 roku. Niemcy rozmyślnie wybrali to żydowskie święto na bombardowanie żydowskiej dzielnicy. W trakcie bombardowania miało miejsce dziwne zjawisko meteorologiczne: w samym środku jasnego, słonecznego dnia zaczął padać gęsty śnieg i grad. Na chwilę bombardowanie zostało przerwane, a Żydzi interpretowali ten śnieg jako specjalny akt boskiej interwencji; nawet najstarsi nie pamiętali czegoś podobnego. Ale później tego samego dnia wróg nadrabiał stracony czas ze zdwojoną siłą.''
@@ -25,6 +31,14 @@ Your browser does not support the video tag.
 
 Foto:
 Niemieckie bombowce Heinkel He 111 – zrzucają bomby na Warszawę, Wrzesień 1939
+
+---
+
+Francuski krążownik „Emile Bertin”,  w tajemnicy przybył do Bejrutu, tam załadowano na niego 57 ton, pierwszą część rezerw złota polskiego i wywieziono go Tulonu we Francji. Odprawę i załadunek doglądał płk Ignacy Matuszewski. Pozostał on w Bejrucie oczekując na dalszy załadunek na kontrtorpedowce „Vauban” i „Epervier”.
+
+<img src="./img/september/emilebertin.jpg"><br><br>
+
+---
 
 ### 1889
 

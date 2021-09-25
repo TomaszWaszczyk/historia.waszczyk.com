@@ -3,11 +3,15 @@ layout: post
 title: 25 września
 image: img/september/lotnisko.jpg
 author: Tomasz Waszczyk
-date: 2019-09-25T10:00:00.000Z
+date: 2020-09-25T10:00:00.000Z
 tags:
   - Pekin-Daxing
 draft: false
 ---
+
+### 2021
+
+<a href="./documents/september/Modern_Money_Mechanics.pdf" target="_blank">Modern Money Mechanics</a>
 
 ### 2020
 
