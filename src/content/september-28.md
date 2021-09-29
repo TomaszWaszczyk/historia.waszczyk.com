@@ -3,10 +3,32 @@ layout: post
 title: 28 września
 image: img/september/churchill.jpg
 author: Tomasz Waszczyk
-date: 2019-09-28T10:00:00.000Z
+date: 2020-09-28T10:00:00.000Z
 tags:
   - Rosja
 draft: false
+---
+
+### 2021
+
+TVN:
+
+> Pracownicy punktów informują, że z dnia na dzień widać coraz większe zainteresowanie szczepieniami dawką przypominającą.
+
+---
+
+WASHINGTON, Sept 28 (Reuters) - JPMorgan Chase & Co has begun preparing for the possibility of the United States hitting its debt limit, Chief Executive Jamie Dimon told Reuters on Tuesday, adding he nevertheless expected policymakers to find a solution to avoid that “potentially catastrophic” event.
+
+The country’s largest lender has begun scenario-planning for how a potential U.S. credit default would affect the repo and money markets, client contracts, its capital ratios, and how ratings agencies would react, Dimon said in an interview.
+
+“This is like the third time we’ve had to do this, it is a potentially catastrophic event,” he said.
+
+“Every single time this comes up, it gets fixed, but we should never even get this close. I just think this whole thing is mistaken and one day we should just have a bipartisan bill and get rid of the debt ceiling. It’s all politics,” he added.
+
+Congressional Democrats are scrambling to find a way to raise the government’s $28.4-trillion borrowing cap before the Treasury Department runs out of ways to service the nation’s debt. Treasury Secretary Janet Yellen has said the Treasury will likely exhaust extraordinary measures by Oct. 18.
+
+<!-- https://wyborcza.pl/7,82983,27620414,partia-i-spolki-wielkie-sledztwo-wolnych-mediow-rozmowa-z.html -->
+
 ---
 
 ### 2008

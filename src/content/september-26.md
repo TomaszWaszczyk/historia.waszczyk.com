@@ -3,11 +3,20 @@ layout: post
 title: 26 września
 image: img/september/zatrzymania.jpg
 author: Tomasz Waszczyk
-date: 2019-09-26T10:00:00.000Z
+date: 2020-09-26T10:00:00.000Z
 tags:
   - Karpathen-Öl AG
 draft: false
 ---
+
+### 2021
+
+> Przerwie pani ten program.
+
+<video width="640" height="480" controls>
+<source src="./movies/september/przerwiepanitenprogram.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1985
 

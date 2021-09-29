@@ -3,7 +3,7 @@ layout: post
 title: 29 września
 image: img/september/kurek.jpg
 author: Tomasz Waszczyk
-date: 2019-09-29T10:00:00.000Z
+date: 2020-09-29T10:00:00.000Z
 tags:
   - Sonda
 draft: false

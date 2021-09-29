@@ -329,6 +329,10 @@ Nie ma boga! (Radziecki plakat antyreligijny z lat 60. XX wieku)
 
 <img src="./img/year-by-year/niemaboga.jpg"/><br><br>
 
+### 1962
+
+OGAS (Общегосударственная автоматизированная система учёта и обработки информации, "ОГАС", Obszczegosudarstwiennaja awtomatizirowannaja sistiema uczota i obrabotki informacyi) – radziecki projekt stworzenia ogólnokrajowej sieci informacyjnej. Projekt ten rozpoczął się w 1962 roku, ale w 1970 roku odmówiono mu niezbędnych środków finansowych. Była to jedna z serii prób stworzenia ogólnokrajowej sieci analogicznej do Internetu, które zakończyły się niepowodzeniem.
+
 ### 1958
 
 https://en.wikipedia.org/wiki/Meritocracy

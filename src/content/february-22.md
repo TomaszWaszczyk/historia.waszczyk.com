@@ -74,6 +74,10 @@ Rosja ma prawo zabezpieczenia się przeciwko dalszym atakom z zachodu-i kroczymy
 
 <img src="./img/february/churchill.jpg"/><br><br>
 
+### 1921
+
+Gosplan (OGAS)
+
 ### 1915
 
 Urodził się Zygmunt Rumel ps. "Mały", oficer Armii Krajowej, poeta, męczennik Wołynia.

@@ -21,6 +21,37 @@ https://en.wikipedia.org/wiki/Pi_Day
 
 ---
 
+✅Średnia krajowa porównana z tą, którą mieliśmy w pl ponad 40 lat temu...  pokrywa się idealnie. 😲
+
+<img src="./img/march/bedziemymilionerami.jpg"><br><br>
+
+💪Jestem dumny z sukcesów prezesa Narodowego Banku Polskiego Glapińskiego który to powtarza w kółko, że robi wszystko aby utrzymać strategię celu inflacyjnego (czytaj: wzrost cen) Komunista z krwi i kości, który grabi obywateli poprzez inflację.
+Za niecałe 10 lat, wszyscy możemy być milionerami, jeśli(!).. historia z hiperinflacją powtórzy się w Polsce po raz trzeci.‼️ ... a podbudowa jest dobra, wzrost waluty za 2020r. to aż +16% r/r.
+
+Pierwszy raz, w latach '20 ubiegłego wieku, spowodowane to było nadmiernym deficytem budżetowym i dodrukiem pieniędzy - problem rozwiązano zastąpieniem marki polskiej, przez złoty polski, o kursie równemu kursowi franka szwajcarskiego, podatek inflacyjny został zastąpiony nadzwyczajnym podatkiem majątkowym oraz „zwyczajnymi” podatkami, takimi jak: dochodowy i przychodowy...
+Lata '80 to powtórka z rozrywki... dodrukowywanie pieniądza i parę lat później denominacja (wprowadzenie nowego polskiego złotego). Wprowadzano pakiety ustaw, które były procedowane w przyspieszonym tempie, by uniknąć wprowadzania poprawek w komisjach sejmowych (kolejne podatki, cła, opłaty)...
+
+W latach 80-tych też tworzono coraz wyższe nominały, a to wszystko dla naszego dobra by łatwiej było obracać milionami.
+Dla przypomnienia:
+- w 1990r. wyszedł banknot 0.5mln zl
+- w 1991r. - banknot 1 mln zl
+- w 1992r. - banknot 2 mln zl
+- w 1993r. - banknot 3 mln zl
+- w 1994r. - banknot 4mln zl
+
+Warto zobaczyć jak wyglądały ceny przed denominacją. Słynne hasło: 
+
+> zakryj ręką zera cztery - zyskasz złoty nowej ery
+
+<img src="./img/march/cenymilionerow.jpg"><br><br>
+
+<!-- zobowiązanie staje się łatwiejsze w spłacie, bo jego realna wartość spada w stosunku do „nowej” wartości pieniądza. Wiec jak godziwie zarabiasz w „nowym pieniądzu” to masz promocję na spłatę zobowiązań (e.g. Przyjmijmy, że teraz fajna pensja w zawodzie X to 10k, szaleje inflacja i w nowym otoczeniu masz już 40k za tę samą pracę. Przy okazji wszystko podrożało 4x więc jedynie zachowałeś siłę nabywczą, ale kredyt na 100k spłacasz już z 2,5 miesiąca pracy, a nie z 10 miesięcy jak przedtem. Jak nie masz takiego dochodu, to raty zobowiązania Cię niszczą, bo też mocno wzrastają. 
+---
+Polska nie była nigdy wcześniej w systemie wolnorynkowym gdzie 95% obywateli miało zobowiązania kredytowe przy szalejącej inflacji. Jednak patrząc na historię dobrym zobrazowaniem jest rok 1991. Rekordowo wysoką stopę w NBP odnotowano właśnie w roku 1991, gdy władze podwyższyły ją z 34% do 72% (obecnie jest 0,1%). Był to szok dla dłużników, ale czym było 70% przy 400-procentowej dynamice wynagrodzeń? Rok później stopy spadły do 40%. Ale dopiero w 1995 zeszły poniżej 30%, a trzy lata później poniżej 20%. kredytobiorcom było więc coraz łatwiej, choć trzymiesięczny Wibor spadł z 30% w roku 1995 poniżej 10% dopiero w XXI wieku. Właśnie dopiero zejście "rynkowych" stóp procentowych do jednocyfrowych poziomów zapoczątkowało w Polsce erę komercyjnego kredytu mieszkaniowego. Od tamtej pory Wibor nie wzrastał już powyżej 7%. Zatem ciężko jest prognozować co mogłoby się wydarzyć przy rozdmuchanej hiperinflacji. Na pewno kupno nieruchomości za środki uzyskane z kredytu w oczekiwaniu, że przez kolejne 15 lat, w efekcie wysokiej inflacji kredyt sam się spłaci jest delikatnie mówiąc mrzonką. Żaden kraj nie chce mieć śmieciowej waluty i podnosząc stopy proc. podnosimy jej wartość. Prawdziwym wygranym w czasie hiperinflacji nie są osoby, których wartość kredytu spadła w skutek hiperinflacji, lecz osoby, które posiadają kapitał, za który mogą nabyć wiele aktywów po bardzo atrakcyjnych cenach gdyż depresja gospodarcza oraz wstrzymanie kredytowania nowych nieruchomości w bardzo dużym stopniu przyczynia się do załamania cen. ➡Gdyby ponownie doszło do wprowadzenia nowej waluty oczekiwać by można raczej powtórki sytuacji z Meksyku. Gdy upadał system monetarny wprowadzono nową walutę, aby przywrócić stabilizację gospodarczą. Wprowadzono, jednak dwa różne kursy, po których przeliczano waluty. Po innym kursie zostały przeliczone depozyty ulokowane w bankach, w taki sposób, że większość z nich stała się bezwartościowa. Po zupełnie innym kursie przeliczono, natomiast zaciągnięte kredyty, tak aby ich wartość odpowiadała realnej inflacji oraz aktualnej wartości nieruchomości będących zabezpieczeniem kredytu. Innymi słowy, jeśli spłaciłeś realnie do tej pory 20% kredytu, to po przeliczeniu na nową walutę pozostanie ci 80% do spłaty. Żadnej taryfy ulgowej. ✅Absolutnie nie liczyłbym na sytuację, w której dojdzie do hiperinflacji, zaś stopy procentowe pozostaną na niskich poziomach, a nasz kredyt dzięki temu znacznie się zdewaluuje. W Polsce sektor bankowy, póki co jest zbyt silnie chroniony
+-->
+
+---
+
 ### 2020 - Barany chodzą stadami. Orły latają samotnie
 
 <img src="./img/march/agenda.png"/><br><br>
