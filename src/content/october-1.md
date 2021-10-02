@@ -3,10 +3,19 @@ layout: post
 title: 1 października
 image: img/october/sopot.jpg
 author: Tomasz Waszczyk
-date: 2019-10-01T10:00:00.000Z
+date: 2020-10-01T10:00:00.000Z
 tags:
   - Sopot
 ---
+
+### 2021
+
+Protesty we Francji przeciwko segregacji (TVP milczy)
+
+<video width="640" height="480" controls>
+<source src="./movies/october/parisseptember.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

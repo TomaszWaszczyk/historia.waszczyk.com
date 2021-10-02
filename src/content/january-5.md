@@ -25,6 +25,14 @@ draft: false
 
 <img src="./img/january/peso2020.jpg"><br><br>
 
+---
+
+Augustyn Pelanowski: W styczniu 2020 zostało wydane oświadczenie zakonu paulinów, podpisane przez sekretarza generalnego o. Pawła Przygodzkiego, w którym poinformowano, że zakon odcina się od niektórych błędnych doktrynalnie wypowiedzi Pelanowskiego oraz nie akceptuje jego braku szacunku dla papieża Franciszka. W dokumencie znajduje się także informacja, że zakonnik swoje najnowsze publikacje wydaje bez zgody przełożonych oraz bezprawnie przebywa od lutego 2019 poza wspólnotą zakonną, czym łamie złożone śluby zakonne.
+
+W styczniu 2020 r. został wydalony z Zakonu św. Pawła I Pustelnika dekretem Generała Zakonu potwierdzonym przez Kongregację ds. Instytutów Życia Konsekrowanego i Stowarzyszeń Życia Apostolskiego kilka miesięcy później. 
+
+---
+
 ### 2017
 
 W wieku 96 lat zmarł Janusz Brochwicz-Lewiński (zdjęcie) generał brygady Wojska Polskiego, żołnierz batalionu AK "Parasol".

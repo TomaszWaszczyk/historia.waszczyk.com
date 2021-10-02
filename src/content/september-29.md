@@ -49,6 +49,10 @@ Tego samego dnia zarządził również zwolnienie wszystkich polskich nauczyciel
 
 <img src="./img/september/greiser.jpg"/><br><br>
 
+### 1913
+
+Mieszkali w Wiedniu jednocześnie: Adolf Hitler, Józef Stalin, Lew Trocki, Josip Broz Tito, Zygmunt Freud, Carl Jung, Ludwig Wittgenstein, Ludwig von Mises, Friedrich August von Hayek, Karl Popper, Erwin Schrödinger i Ferdinand Porsche.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-29.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

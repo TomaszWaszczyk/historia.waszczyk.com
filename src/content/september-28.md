@@ -31,6 +31,10 @@ Congressional Democrats are scrambling to find a way to raise the government’s
 
 ---
 
+### 2019
+
+<img src="./img/september/debtusa.jpeg"><br><br>
+
 ### 2008
 
 Został uprowadzony przez talibów Piotr Stańczak, polski geolog, który przebywał w Pakistanie jako pracownik firmy PGNiG Geofizyka Kraków, realizującej kontrakt „Soghri 3D” dla pakistańskiego przedsiębiorstwa Oil & Gas Development Company Limited. 7 lutego 2009 r. talibowie oświadczyli, że Piotr Stańczak został zabity poprzez dekapitację. W pierwszej połowie października 2008 r. porywacze wysłali nagranie video do redakcji pakistańskiego tygodnika Dawn. Na kilkuminutowym filmie Piotr Stańczak odczytywał oświadczenie po polsku i angielsku, prosząc o spełnienie żądań porywaczy, którzy domagali się uwolnienia 110 talibów z pakistańskich więzień. Na materiałach, którymi dysponowała redakcja, widać było wycelowaną w Polaka broń. Według relacjonującego nagranie dziennikarza, żądania były niemożliwe do spełnienia przez pakistański rząd. W wyniku obławy policyjnej w Pakistanie po 12 latach od porwania i 11 latach od śmierci Polaka porwanego w Rawalpindi udało się schwytać jego bezpośrednich egzekutorów. Okazało się, że było nimi dwóch terrorystów z ugrupowania Tahreek-i-Taliban (TTP): Kaleemullah Khan oraz Derra Adam Khel. Mężczyźni wskazali siebie na dawnym nagraniu ze Stańczakiem i potwierdzili, że to oni go zamordowali.
