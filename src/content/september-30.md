@@ -14,6 +14,12 @@ tags:
 
 <img src="./img/september/wos.jpeg"><br><br>
 
+### 2019
+
+Zmarł Kornel Morawiecki, fizyk, nauczyciel akademicki, działacz opozycji antykomunistycznej w czasach PRL, założyciel i przewodniczący Solidarności Walczącej, poseł i marszałek senior Sejmu VIII kadencji. Ojciec premiera Mateusza Morawieckiego miał 78 lat. Prezydent Andrzej Duda nadał Kornelowi Morawieckiemu Order Orła Białego 27 września 2019 r., w uznaniu znamienitych zasług na rzecz przemian demokratycznych w Polsce, za wybitne osiągnięcia w działalności publicznej i państwowej.
+
+<img src="./img/september/morawieckisb.jpg"><br><br>
+
 ### 2006
 
 Zlikwidowane zostały Wojskowe Służby Informacyjne- służba specjalna Rzeczposolitej Polskiej założona w roku 1991. Oficjalnie wykonywała ona zadania na rzecz Sił Zbrojnych RP z zakresu wywiadu oraz kontrwywiadu wojskowego. Nieofijalnie WSI, według opublikowanego przez Antoniego Macierewicza raporty były organizacją przestępczą działającą na szkodę Polski. Według zapisów tym samym dokumencie stwierdzono również, że WSI dopuszczały się bezprawnych działań w mediach, świecie polityki i biznesie.
@@ -80,6 +86,12 @@ Zajęcie Zaolzia - wkroczenie wojsk polskich do Karwiny. 1938 r. Fot. NAC
 <img src="./img/september/beckzaolzie.jpg"><br><br>
 
 ---
+
+### 1917
+
+Brytyjska propagandowa mapa przedstawia zasięg niemieckich dążeń terytorialnych w 1917 roku.
+
+<img src="./img/september/germanywants.jpg"><br><br>
 
 ### 1655
 

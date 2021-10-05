@@ -3,11 +3,24 @@ layout: post
 title: 5 października
 image: img/october/debata.jpg
 author: Tomasz Waszczyk
-date: 2019-10-05T10:00:00.000Z
+date: 2020-10-05T10:00:00.000Z
 tags:
   - Złoto
 draft: false
 ---
+
+### 2021
+
+> jeśli powierzone mi będzie pełnienie zaszczytnej funkcji Prezesa NBP na kolejną kadencję, będę proponował wprowadzenie do obiegu banknotu o nominale tysiąca złotych.
+
+> To będzie pierwszy wśród obecnych w powszechnym obiegu banknot z wizerunkiem kobiety. Będę proponował św. Jadwigę Andegaweńską.
+Prof. Adam Glapiński, Prezes NBP, „Polska Times w wywiadzie ze Zbigniewem Biskupskim (Strefa Biznesu, 5–6.10.2021)
+
+<img src="./img/october/prezesnbpglapinski.jpeg"><br><br>
+
+<img src="./img/october/1000pln.jpeg"><br><br>
+
+<img src="./img/october/1mlnpln.jpeg"><br><br>
 
 ### 2020
 

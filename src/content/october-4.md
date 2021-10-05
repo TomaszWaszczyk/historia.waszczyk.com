@@ -3,7 +3,7 @@ layout: post
 title: 4 października
 image: img/october/haller.jpg
 author: Tomasz Waszczyk
-date: 2019-10-04T10:00:00.000Z
+date: 2020-10-04T10:00:00.000Z
 tags:
   - Rembrandt
 ---

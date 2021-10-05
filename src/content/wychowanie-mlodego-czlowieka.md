@@ -12,7 +12,7 @@ draft: false
 
 John Dury
 https://www.brainyquote.com/authors/johann-gottlieb-fichte-quotes
-
+https://unibot.us.edu.pl/dzieci-moga-patentowac/
 -->
 
 ### Książki i bajki

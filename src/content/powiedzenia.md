@@ -3695,6 +3695,8 @@ Nie tanki a banki
 Slavery is likely to be abolished by the war power, and chattel slavery destroyed. This I and my European friends are in favor of, for slavery is but the owning of labor and carries with it the care of the laborer, while the European plan, led on by England, is capital control of labor by controlling wages. THIS CAN BE DONE BY CONTROLLING THE MONEY.
 – Hazard Circular, 1862
 
+Na słowach buduje się tak samo jak na fundamencie.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.
