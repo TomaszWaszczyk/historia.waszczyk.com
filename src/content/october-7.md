@@ -16,6 +16,8 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+In 1972, the famous first Report for the Club of Rome - 'The Limits to Growth' - showed how an economic system that demands infinite growth in a finite world is fundamentally unsustainable. This new Report explains our present monopolistic money system and the flawed thinking that underpins it. Our money system is the 'Missing Link'. We assume that we must have a single, monopolistic currency, funded through bank debt, enforced by a central bank. In fact, the present system is outdated, brittle and unfit for purpose (witness the eurozone crisis). It's profitable at first but ultimately a recipe for economic environmental disasaster. Money - Sustainability.
+
 ### 2020
 
 Kryzys zaczyna się teraz. Komitet Stabilności Finansowej ostrzega
