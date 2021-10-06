@@ -3,11 +3,26 @@ layout: post
 title: 6 października
 image: img/october/lawki.jpg
 author: Tomasz Waszczyk
-date: 2019-10-06T10:00:00.000Z
+date: 2020-10-06T10:00:00.000Z
 tags:
   - Ławki
 draft: false
 ---
+
+### 2021
+
+> JPMorgan Chase CEO Jamie Dimon: Bitcoin is a little bit of fool's gold
+
+---
+
+Stopa referencyjna NBP w górę, zmiana z 0,1% do 0,5%
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/october/neonowkachleb.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1939
 
