@@ -3,11 +3,17 @@ layout: post
 title: 12 października
 image: img/october/banki.jpg
 author: Tomasz Waszczyk
-date: 2019-10-12T10:00:00.000Z
+date: 2020-10-12T10:00:00.000Z
 tags:
   - Banki
 draft: false
 ---
+
+### 2021
+
+> “I personally think that #Bitcoin is worthless” - Jamie Dimon, CEO of JPMorgan Chase & Co.
+
+<img src="./img/october/jpmorganbtc.png"><br><br>
 
 ### 2020
 

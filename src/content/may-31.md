@@ -42,6 +42,14 @@ Specialist narrowed down the lethal poison to the radio-active substance poloniu
 
 ---
 
+### 1999
+
+To okładka z 31 maja 1999, która wyśmiewa się z pomysłu na Amazon
+
+<img src="./img/images/bezos.jpg"><br><br>
+
+A to komentarz Jeffa: "Listen and be open, but don’t let anybody tell you who you are. This was just one of the many stories telling us all the ways we were going to fail. Today, Amazon is one of the world’s most successful companies and has revolutionized two entirely different industries."
+
 ### 1942
 
 W getcie krakowskim funkcjonariusze Gminy Żydowskiej, przy pomocy policjantów z Judischer Ordungsdienst przeprowadzili kontrolę tzw kart rozpoznawczych, co stało się bezpośrednim pretekstem do rozpoczęcia wysiedlenia około 5 tysięcy ludzi. Większość z nich trafiła do obozu zagłady w Bełżcu.

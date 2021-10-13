@@ -3,7 +3,7 @@ layout: post
 title: 10 października
 image: img/october/MisesLibrary.jpg
 author: Tomasz Waszczyk
-date: 2019-10-10T10:00:00.000Z
+date: 2020-10-10T10:00:00.000Z
 tags:
   - Mises
 ---

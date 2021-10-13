@@ -3,7 +3,7 @@ layout: post
 title: 11 października
 image: img/october/gierkowa.jpg
 author: Tomasz Waszczyk
-date: 2019-10-11T10:00:00.000Z
+date: 2020-10-11T10:00:00.000Z
 tags:
   - Gierek
 ---

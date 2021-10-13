@@ -3,7 +3,7 @@ layout: post
 title: 8 października
 image: img/october/malczewski.jpg
 author: Tomasz Waszczyk
-date: 2019-10-08T10:00:00.000Z
+date: 2020-10-08T10:00:00.000Z
 tags:
   - Polska
 ---
