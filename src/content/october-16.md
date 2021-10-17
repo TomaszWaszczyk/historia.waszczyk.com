@@ -3,7 +3,7 @@ layout: post
 title: 16 października
 image: img/october/piotrnowak.jpeg
 author: Tomasz Waszczyk
-date: 2019-10-16T10:00:00.000Z
+date: 2020-10-16T10:00:00.000Z
 tags:
   - GetBack
 draft: false

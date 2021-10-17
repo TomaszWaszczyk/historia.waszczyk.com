@@ -3,11 +3,15 @@ layout: post
 title: 17 października
 image: img/october/krasiczyn.jpg
 author: Tomasz Waszczyk
-date: 2019-10-17T10:00:00.000Z
+date: 2020-10-17T10:00:00.000Z
 tags:
   - Komunizm
 draft: false
 ---
+
+### 2021
+
+> "The European Central Bank is exploring raising its limit on purchases of EU-issued bonds, in a move that would enhance its flexibility in asset-buying schemes and boost the status of the bloc’s groundbreaking joint debt programme launched this year." - FT, October 17, 2021
 
 ### 1944
 
