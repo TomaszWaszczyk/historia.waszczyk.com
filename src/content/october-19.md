@@ -3,10 +3,19 @@ layout: post
 title: 19 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2019-10-19T10:00:00.000Z
+date: 2020-10-19T10:00:00.000Z
 tags:
   - Lekarze
 ---
+
+### ~2029
+
+Ciekawe czy przeszłość stanie się przyszłością...
+
+<video width="640" height="480" controls>
+<source src="./movies/october/inflacja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

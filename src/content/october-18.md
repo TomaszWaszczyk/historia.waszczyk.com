@@ -3,7 +3,7 @@ layout: post
 title: 18 października
 image: img/october/forster.jpg
 author: Tomasz Waszczyk
-date: 2019-10-18T10:00:00.000Z
+date: 2020-10-18T10:00:00.000Z
 tags:
   - Gospodarka
 ---
