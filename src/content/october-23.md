@@ -3,7 +3,7 @@ layout: post
 title: 23 października
 image: img/october/grossaction.jpg
 author: Tomasz Waszczyk
-date: 2019-10-23T10:00:00.000Z
+date: 2020-10-23T10:00:00.000Z
 tags:
   - Grossaktion
 draft: false
@@ -96,6 +96,16 @@ Po wybuchu wojny znalazł się w Rumunii. Był tam prezesem Komitetu Opieki nad 
 Na konferencji w Teheranie w grudniu 1943 roku Stalin wymienił nazwisko Kowalewskiego i zażądał jego odwołania z placówki w Lizbonie. Działalność Kowalewskiego stanowiła przeszkodę w planach Stalina sowietyzacji Europy Środkowo-Wschodniej.
 
 20 marca 1944 roku Kowalewski wyjechał z Lizbony do Londynu. Mieszkał tam do końca życia. Był wydawcą dziennika „East Europe”, współpracował z Radiem Wolna Europa, publikował w prasie emigracyjnej. Jeszcze na 2 lata przed śmiercią rozszyfrował depesze Romualda Traugutta z czasów Powstania Styczniowego. Zmarł na raka 31 października 1965 roku.
+
+---
+
+### 1885
+
+Urodził się Jan Czochralski. UB w Polsce próbowało zamazać istnienie Jana Czochralskiego.
+
+<img src="./img/october/J.-Czochralski.jpg"><br><br>
+
+<a href="./documents/october/czochralski.pdf" target="_blank"></a>
 
 ---
 
