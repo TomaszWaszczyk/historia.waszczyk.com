@@ -105,7 +105,7 @@ Urodził się Jan Czochralski. UB w Polsce próbowało zamazać istnienie Jana C
 
 <img src="./img/october/J.-Czochralski.jpg"><br><br>
 
-<a href="./documents/october/czochralski.pdf" target="_blank"></a>
+<a href="./documents/october/czochralski.pdf" target="_blank">Jan Czochralski</a>
 
 ---
 
