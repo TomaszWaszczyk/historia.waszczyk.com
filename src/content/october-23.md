@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+> "Hyperinflation is going to change everything. It’s happening." - Jack Dorsey, Twitter CEO
+
 ### 2020
 
 <img src="./img/october/propaganda.png"><br><br>
@@ -105,7 +109,7 @@ Urodził się Jan Czochralski. UB w Polsce próbowało zamazać istnienie Jana C
 
 <img src="./img/october/J.-Czochralski.jpg"><br><br>
 
-<a href="./documents/october/czochralski.pdf" target="_blank"></a>
+<a href="./documents/october/czochralski.pdf" target="_blank">Jan Czochralski</a>
 
 ---
 

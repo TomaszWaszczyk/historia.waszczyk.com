@@ -8,6 +8,10 @@ tags:
   - Gospodarka
 ---
 
+### 2021
+
+<img src="./img/october/centralbanks.png"><br><br>
+
 ### 2020
 
 Liczba rejestracji podmiotów gospodarczych w II kwartale 2020 r. wyniosła 64 410 wobec 94 385 w analogicznym okresie roku poprzedniego.
