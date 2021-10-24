@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/october/barrons.jpeg"><br><br>
+
 ### 2020
 
 Dr Andrzej Sadowski, prezydent Centrum im. Adama Smitha:
