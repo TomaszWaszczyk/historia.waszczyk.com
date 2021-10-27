@@ -3,10 +3,14 @@ layout: post
 title: 27 października
 image: img/october/swietlicawroclaw.jpg
 author: Tomasz Waszczyk
-date: 2019-10-27T10:00:00.000Z
+date: 2020-10-27T10:00:00.000Z
 tags:
   - Bukowski
 ---
+
+### 2021
+
+<img src="./img/october/usdindex.png"><br><br>
 
 ### 2020
 
@@ -25,6 +29,19 @@ W Monitorze Polskim zostało opublikowane zarządzenie premiera Mateusza Morawie
 ### 2019
 
 Umiera https://pl.wikipedia.org/wiki/W%C5%82adimir_Bukowski
+
+### 1997
+
+Kryzys azjatycki, DJIA spada o więcej niż 500 pkt , handel na NYSE zawieszony do kolejnego dnia.
+
+
+### 1994
+
+Polska wyemitowała w dniu 27.10.1994 r. sześć różnych rodzajów obligacji Brady’ego, o łącznej wartości 8,25 mld USD (Afera FOZZ)
+
+### 1986
+
+Tak zwany Big Bank w Wielkiej Brytanii - Wielka Brytania drastycznie zmieniła organizację handlu na giełdzie.
 
 ### 1980
 

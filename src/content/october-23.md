@@ -13,6 +13,17 @@ draft: false
 
 > "Hyperinflation is going to change everything. It’s happening." - Jack Dorsey, Twitter CEO
 
+---
+
+Milan: anti vax mandate:
+
+<video width="640" height="480" controls>
+<source src="./movies/october/milan.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2020
 
 <img src="./img/october/propaganda.png"><br><br>

@@ -3,7 +3,7 @@ layout: post
 title: 25 października
 image: img/october/korfanty.jpg
 author: Tomasz Waszczyk
-date: 2019-10-25T10:00:00.000Z
+date: 2020-10-25T10:00:00.000Z
 tags:
   - Xi Jinping
 draft: false
