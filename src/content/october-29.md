@@ -3,10 +3,14 @@ layout: post
 title: 29 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2019-10-29T10:00:00.000Z
+date: 2020-10-29T10:00:00.000Z
 tags:
   - Stanisław Maczek
 ---
+
+### 2021
+
+> “A society that puts equality before freedom will get neither. A society that puts freedom before equality will get a high degree of both.” - Milton Friedman
 
 ### 2020
 
@@ -81,6 +85,12 @@ Prawie wszystko w tej sprawie było dziełem przypadku, ponieważ lwowski cmenta
 Na zdjęciu Cmentarz Orląt Lwowskich – grób, z którego zabrano zwłoki Nieznanego Żołnierza do Warszawy – zdjęcie przedwojenne.
 
 <img src="./img/october/ekshumacja.jpg"/><br><br>
+
+### 1914
+
+Tekst pochodzi z kalendarza "Nasz Rok 1914" wydanego przez Towarzystwo Akcyjne Wydanictwa "Świat" przy Zgoda 1 pod redakcyą Stanisława Sierosławskiego
+
+<img src="./img/october/lichwa.jpeg"><br><br>
 
 ---
 

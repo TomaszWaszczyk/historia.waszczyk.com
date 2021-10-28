@@ -3,11 +3,29 @@ layout: post
 title: 28 października
 image: img/october/lauterbach.jpeg
 author: Tomasz Waszczyk
-date: 2019-10-28T10:00:00.000Z
+date: 2020-10-28T10:00:00.000Z
 tags:
   - Lauterbach
 draft: false
 ---
+
+### 2021
+
+Zaproponowana ustawa wprowadza:
+
+✅ 250 tys. żołnierzy zawodowych i 50 tys. żołnierzy Wojsk Obrony Terytorialnej jako minimum.
+
+✅ podwyższenie zdolności wojska do samodzielnej obrony przez dłuższy czas, w razie by nasi sojusznicy zaniemogli/spóźnili się/wyrażali wątpliwość, co zresztą w przeszłości zawsze się zdarzało,
+
+✅ wprowadza system zachęt dla kandydatów do służby wojskowej
+
+✅ Zasadnicza służba jest zawieszona, ale wprowadzają dobrowolną zasadniczą służbę wojskową
+
+✅ studenci studiów wojskowych będą mieli takie uposażenia, jak uposażenia żołnierzy zawodowych
+
+✅ powstaną Wojska Obrony Cyberprzestrzeni
+
+✅ nastąpi intensyfikacja ćwiczeń rezerwy
 
 ### 2020
 
