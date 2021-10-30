@@ -14,6 +14,8 @@ https://dzieje.pl/
 
 https://whu.org.pl/
 
+https://www.jugendopposition.de/
+
 ## Książki
 
 * Churchil, Hitler i Niepotrzebna Wojna, Patrick J. Buchanan
