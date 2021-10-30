@@ -3,7 +3,7 @@ layout: post
 title: 30 października
 image: img/october/manifest.jpg
 author: Tomasz Waszczyk
-date: 2019-10-30T10:00:00.000Z
+date: 2020-10-30T10:00:00.000Z
 tags:
   - Popiełuszko
 draft: false
