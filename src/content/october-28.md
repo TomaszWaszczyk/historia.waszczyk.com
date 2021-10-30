@@ -74,6 +74,12 @@ Czwarty po Niemcach, ZSRR i Słowacji okupant wkroczył na tereny należące do 
 
 <img src="./img/october/kuzwyciestwu.jpg"><br><br>
 
+### 1906
+
+Wysłano mediom pierwszą informację prasową. Od "public should be damned" do "public should be informed". Mój ulubiony smaczek - notka dotyczyła sytuacji kryzysowej
+
+<img src="./img/october/informacjaprasowa.jpeg"><br><br>
+
 ### 1845
 
 W Grodnie urodził się Zygmunt Wróblewski (zdjęcie)-polski fizyk, któremu razem z chemikiem Karolem Olszewskim 5 kwietnia 1883 roku udało się dokonać pierwszego w historii skroplenia tlenu i azotu, co było kamieniem milowym w dziejach światowej chemii i fizyki.

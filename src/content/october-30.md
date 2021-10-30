@@ -9,6 +9,14 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Przykład poziomu publicznej debaty ekonomicznej w społeczeństwie gdzie standardem jest "wyższe wykształcenie":
+
+> Tusk, twierdzi, że przeciwieństwem inflacji jest stagflacja. Wczoraj po ogłoszeniu przez GUS, tzw. szybkiego szacunku wskaźnika cen towarów i usług konsumpcyjnych w październiku w wysokości 6,8% w ujęciu rok do roku, Donald Tusk zorganizował konferencję prasową, na której mówił o wręcz szalejącej inflacji w naszym kraju.
+
+> Oczywiście ani słowem nie odniósł się do silniejszych niż zwykle procesów inflacyjnych, z którymi ma do czynienia większość krajów na świecie w tym także kraje UE, a szczególnie te, będące w strefie euro.
+
 ### 2020
 
 Jak wynika z raportu Euler Hermes liczba niewypłacalności polskich firm opublikowanych w oficjalnych źródłach była w trzecim kwartale na rekordowym poziomie – 369 firm. Lipiec, sierpień i wrzesień to miesiące z trzema najwyższymi dotychczas liczbami niewypłacalności. W ciągu 3 kwartałów 2020 opublikowano informacje o 849 niewypłacalnościach, czyli o 12 proc. więcej niż przed rokiem i najwięcej w obecnej dekadzie.

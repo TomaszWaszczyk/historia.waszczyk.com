@@ -92,6 +92,10 @@ Tekst pochodzi z kalendarza "Nasz Rok 1914" wydanego przez Towarzystwo Akcyjne W
 
 <img src="./img/october/lichwa.jpeg"><br><br>
 
+### 1611
+
+<img src="./img/october/holdruski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/october-29.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

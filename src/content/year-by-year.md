@@ -651,6 +651,8 @@ Decline in morals. The Roman Empire Falls – Decline And Fall Of The Roman Empi
 
 https://pl.wikipedia.org/wiki/Sejm_Rozbiorowy_(1773%E2%80%931775)
 
+https://pl.wikipedia.org/wiki/Prawa_kardynalne
+
 ### 1768
 
 Władysław Konopczyński - Konfederacja barska Tom I & II

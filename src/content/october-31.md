@@ -3,10 +3,19 @@ layout: post
 title: 31 października
 image: img/october/wueska.jpg
 author: Tomasz Waszczyk
-date: 2019-10-31T10:00:00.000Z
+date: 2020-10-31T10:00:00.000Z
 tags:
   - WSK
 ---
+
+### 2021
+
+Covidowy PEPP wygasa w marcu 22. PEPP był fajny. PEPP na wiele pozwalał. Pozwalał kupować Europejskiemu Bankowi Centralnego dług rządowy krajów strefy euro poza limitem ograniczającym zakupy do 1/3 emisji. Pozwalał też kupować obligacje o ratingu nieinwestycyjnym, co było istotne np. dla Greków.
+Będzie teraz w EBC mała bitwa o to, co zrobić z normalnymi, sięgającymi 20 mld euro miesięcznie, znacznie już mniej elastycznymi niż PEPP, zakupami aktywów.
+Będzie też bitwa o to, czy zwiększyć ponad dzisiejszy 10% limit zakupy długu ponadnarodowego. EBC na rynku w czasie, gdy KE będzie intensywnie emitować 800 mld euro w ramach programu NG EU, może oznaczać niższe koszty finansowania programu odbudowy. Ale oznaczać będzie też kolejne wydłużenie bilansu EBC. I to w czasie, kiedy Fed zacznie swój bilans skracać.
+Masywna i aktywna obecność instytucjonalna banku centralnego na rynku długu jest jednym z najbardziej kontrowersyjnych elementów post-kryzysowej globalnej gospodarki. Ta obecność zniekształca funkcjonowanie rynku finansowego i wycenę aktywów. Wpływa istotnie na percepcję ryzyka inwestycyjnego. Powoduje olbrzymie problemy, kiedy pod wpływem rosnących oczekiwań inflacyjnych rynkowe stopy rosną, a te nominalne banki centralne trzymają blisko zera. Co ciekawe, programy QE nie wpływają natomiast zauważalnie - jak dotąd- na samą inflację.
+
+Jeśli EBC przedłuży aż po rok 23, a być może zwiększy nawet i uelastyczni program skupu aktywów, to polaryzacja kierunków polityk monetarnych między Stanami i strefą euro zaznaczy się jeszcze silniej niż dziś. Z korzyścią dla USA, jaką na długą metę dają zawsze rynkowe relacje między podmiotami gospodarczymi.
 
 ### 2020
 
