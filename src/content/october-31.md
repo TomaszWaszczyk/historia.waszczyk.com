@@ -17,6 +17,12 @@ Masywna i aktywna obecność instytucjonalna banku centralnego na rynku długu j
 
 Jeśli EBC przedłuży aż po rok 23, a być może zwiększy nawet i uelastyczni program skupu aktywów, to polaryzacja kierunków polityk monetarnych między Stanami i strefą euro zaznaczy się jeszcze silniej niż dziś. Z korzyścią dla USA, jaką na długą metę dają zawsze rynkowe relacje między podmiotami gospodarczymi.
 
+---
+
+Jesteśmy na początku drogi do budowy metawersum, to jest projekt na 5-15 lat; to ma być internet, w którym będziemy, a nie na który patrzymy - mówi PAP Angelika Gifford, wiceprezes Meta (d. Facebooka) na Europę Środkową.
+
+---
+
 ### 2020
 
 Kryzys to transfer z tych którzy żyją na kredyt na tych którzy mają kapitał.

@@ -42,6 +42,10 @@ W roku 1973 Instytut Yad Vashem uhonorował go medalem Sprawiedliwego Wśród Na
 
 <img src="./img/september/beitz.jpg"><br><br>
 
+### 1908
+
+Akcja pod Bezdanami
+
 ### 1878
 
 W Nowy Rok uroczyście otworzono postępową Wielką Synagogę na Tłomackiem w Warszawie.

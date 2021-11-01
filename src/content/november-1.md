@@ -3,9 +3,29 @@ layout: post
 title: 1 listopada
 image: img/november/groby.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-01T10:00:00.000Z
+date: 2020-11-01T10:00:00.000Z
 tags:
   - Gold
+---
+
+### 2021
+
+// jesteśmy w przededniu najszybszej "wyprodukowanej" hiperinflacji??
+
+Glapiński, stary komunista robi to czego został nauczony za młodu..
+
+> Zuber: Jeśli Polacy przestraszą się cen i zaczną kupować na zapas, to zobaczymy dwucyfrową inflację
+
+## Global Finance: Polska ma najgorszego prezesa banku centralnego w Europie.
+
+> Jak co roku Global Finance zaprezentował kolejny Raport Bankierów Centralnych. W nim redaktorzy wspomnianego portalu wraz z analitykami i ekonomistami przeanalizowali działania prezesów banków centralnych ze 100 krajów z całego świata. Prezes Narodowego Banku Polskiego został oceniony przez nich jako jeden z najgorszych bankierów centralnych w Europie. Adam Glapiński otrzymał taką samą ocenę jak prezesi banków centralnych Ukrainy i Białorusi.
+
+<img src="./img/november/glapinski.jpg"><br><br>
+
+---
+
+<img src="./img/november/wojskowymodelkariery.jpeg"><br><br>
+
 ---
 
 ### 2020
