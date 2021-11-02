@@ -10,7 +10,7 @@ tags:
 
 ### 2021
 
-// jesteśmy w przededniu najszybszej "wyprodukowanej" hiperinflacji??
+// jesteśmy w przededniu najszybciej "wyprodukowanej" hiperinflacji??
 
 Glapiński, stary komunista robi to czego został nauczony za młodu..
 

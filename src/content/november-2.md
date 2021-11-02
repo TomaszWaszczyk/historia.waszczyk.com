@@ -3,10 +3,24 @@ layout: post
 title: 2 listopada
 image: img/november/lagarde.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-02T10:00:00.000Z
+date: 2020-11-02T10:00:00.000Z
 tags:
   - Digital Euro
 draft: false
+---
+
+### 2021
+
+> „Książę Karol twierdzi, że „ogromna kampania w stylu militarnym” jest wymagana, aby przeprowadzić „fundamentalną transformację gospodarczą”
+
+---
+
+> Pracodawca sprawdzi zaszczepienie pracowników. Niedzielski: ustawa na najbliższym posiedzeniu Sejmu
+
+<img src="./img/november/niedzielski.jpg"><br><br>
+
+Minister zdrowia Adam Niedzielski powiedział w "Gościu Wydarzeń", że resort spodziewa się za dwa tygodnie wzrostu średniej liczby zakażeń do 10 tys. Odpowiedzią ma być ustawa, która da pracodawcom możliwość sprawdzenia, czy pracownik jest zaszczepiony. - Ustawa będzie kierowana na rząd i trafi na Sejm - powiedział polityk. - Wyborem jest zdrowie innych - wyjaśnił.
+
 ---
 
 ### 2020

@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/september/morawiecki.jpg"><br><br>
+
+<img src="./img/september/ziobro.jpg"><br><br>
+
+<img src="./img/september/brudzinski.jpg"><br><br>
+
+<img src="./img/september/gowin.jpg"><br><br>
+
 ### 2020
 
 Mosbacher do Polaków: Jesteście po złej stronie historii

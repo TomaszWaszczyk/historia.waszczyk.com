@@ -31,6 +31,27 @@ Druga fala pandemii uderzyła z pełną siłą, na co od razu zareagowały rynki
 
 ---
 
+Cześć wszystkim. 
+Staram się nie pisać o swojej pracy, ale to co dzisiaj się wydarzyło, to już przesada., więc jeśli ktoś ma ochotę poświecić 5 minut, to zapraszam do lektury. 
+Media i politycy podają, że jest tak słodko w „służbie zdrowia”. Może i w służbie zdrowia tak, ale ona nie istnieje od 1999 roku. 
+System ochrony zdrowia upadł i nie wiem czy się prędko podniesie o ile w ogóle się podniesie. 
+Opowiem Wam o mojej dzisiejszej sytuacji na dyżurze. Ja z moim kolegą z zespołu ratownictwa medycznego dostaliśmy wyjazd do nagłego zatrzymania krążenia (inaczej nazywana przez niektórych zatrzymaniem akcji serca lub dla totalnych laików zgonem). 
+Nie było by w tym nic dziwnego prawda? GDYBY NIE TO, ŻE DYSPOZYTOR NIE MIAŁ WOLNEGO ZESPOŁU I SYN SWOJEGO OJCA REANIMOWAŁ PRZEZ PRAWIE GODZINĘ!
+A przecież do takich przypadków zostaliśmy szkoleni. Proszę pamiętać, że ratownikiem medycznym zostaje się po studiach. 
+Więc gdzie były wszystkie zespoły? A no pewnie czekały na zdanie pacjenta pod szpitalami( obecnie od kilku do kilkunastu godzin), były u pacjentów na których wypiął się lekarz rodzinny i przez teleporadę kazał wezwać ZRM-bo tak jest najłatwiej, bądź były na dekontaminacji po pacjencie z COVID. 
+Wracając do wyjazdu, syn pacjenta wezwał ZRM o godzinie około 15, dopiero po godzinie dyspozytor znalazł zespół wolny (nas) i wysłał nas na zdarzenie. Byliśmy zaskoczeni tym wyjazdem, ponieważ jak większość ludzi wie, bo o tym się trąbi na każdych kursach pierwszej pomocy, że mózg umiera po około 4 minutach po nagłym zatrzymaniu krążenia, gdy nie podejmiemy RKO-resuscytacji krążeniowo oddechowej. Chłop miał tyle samozaparcia, że reanimował swojego ojca przez godzinę, bo nie było żadnego wolnego zespolu(karetki dla laików)! W momencie przejęcia pacjenta od syna zapytaliśmy jak to się stało. No to on nam na to odpowiedział, że zaczął tak kaszleć jakby chciał płuca wypluć. Poprosiłem wtedy o pokazanie dokumentacji medycznej pacjenta. Czytam i widzę: w płucach obraz matowej szyby-podejrzenie COVID... Na szczęście byliśmy zabezpieczeni. Gdy próbowałem zaintubować pacjenta, zobaczyłem dużo krwi w drogach oddechowych. Niektórzy powiedzą, że ten post jest po to, żeby bigpharma, albo medycy mogli zarabiać. 
+Nie! Covid to nie ściema, ja nie mam za to żadnych dodatkowych pieniędzy a jego płuca przez to „eksplodowały”. W trakcie wtłaczania powietrza w płuca, one praktycznie w ogóle się nie unosiły a w rurce pojawiała się krew!
+Pewnie jak się domyślacie, po naszych 45 minutach bez efektu, skończyło się to niestety zgonem, ale ile jeszcze ludzi musi zginąć, byście się ogarneli, że chodzenie w kombinezonach nie jest ani dla nas trochę przyjemne. Załóżcie na siebie szczelnie worek na śmieci, załóżcie szczelnie maskę, google, które wżynają wam się w twarz i siedźcie tak przez kilka godzin, nie mogąc załatwić potrzeb fizjologicznych, bo nie ma miejsc w szpitalach. 
+Więc, jeśli jakiś mój znajomy uważa, że covid to ściema i tą ochronę zdrowia mamy taką super niech mnie usunie ze znajomych. 
+Dziękuje za uwagę. 
+Uważajcie na siebie, bo to nie są już żarty. 
+Może być jeszcze gorzej. 
+Poniżej wstawiam zdjęcie z dzisiejszego wyjazdu, obrazujące naszą obecną sytuacje w ochronie zdrowia.
+
+<img src="./img/october/sluzbazdrowia.jpg"><br><br>
+
+---
+
 ### 2008
 
 Z linii montażowej Zakładów Samochodowych Jelcz S.A zjechał ostatni autobus Jelcz. Był to model M083C, który pojechał do Krakowa wozić pasażerów tamtejszego MPK. Ostatni autobus, który wyjechał z fabryki, był niskopodłogowy, klasy midi. Miał drzwi otwierane do środka.
