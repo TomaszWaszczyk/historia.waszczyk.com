@@ -3,11 +3,21 @@ layout: post
 title: 3 listopada
 image: img/november/szareszeregi.jpg
 author: Tomasz Waszczyk
-date: 2019-11-03T10:00:00.000Z
+date: 2020-11-03T10:00:00.000Z
 tags:
   - McDonald
 draft: false
 ---
+
+### 2021
+
+"rekompensaty" z lat 198x w nowej wersji, ceteris paribus, idzie hiperinflacja
+
+> Wiceminister finansów Piotr Patkowski spodziewa się, że inflacja w Polsce może wynieść 8%. Skok cen rząd chce zrekompensować BONEM ENERGETYCZNYM.
+
+<img src="./img/november/patkowskibon.webp"><br><br>
+
+Patkowski zapowiada, że Polacy sami zdecydują, na co wydadzą pieniądze z bonu.
 
 ### 2020
 
