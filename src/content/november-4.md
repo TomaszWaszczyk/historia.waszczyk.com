@@ -14,7 +14,30 @@ tags:
 
 > Prezes NBP: Nie mamy wpływu na bieżącą inflację. Jest wysoka i jeszcze wzrośnie.
 
-// Ciekawe czy stopy procentowe wzrosną do poziomu ~15% w celu wywłaszczenia społeczeństw/a z zakredytowanych nieruchomości
+// Ciekawe czy stopy procentowe wzrosną do poziomu ~15% w celu wywłaszczenia społeczeństw/a z zakredytowanych nieruchomości?
+
+<img src="./img/november/glapinskioinflacji.jpeg"><br><br>
+
+Usunięty ćwierk:
+
+<img src="./img/november/usunietytweet.jpg"><br><br>
+
+Zysk za wszelką cenę a później szybka konwersja do twardego aktywa, śmieciowa waluta zostaje dla ludu.
+
+---
+
+Szczyt klimatyczny. Polska liderem w dekarbonizacji.
+
+Jak potwierdza min. P. Naimski: "...minister Soboń już podpisał i wysłał pisma do Komisji Europejskiej ws. harmonogramu wyłączeń elektrowni Bełchatów, Turów, Kozienice z nowymi blokami, Połaniec." w niewyemitowanym wywiadzie.
+
+Ceny energii w średnim terminie mogą wzrosnąć ~3x, w dłuższym ~7x+
+
+<video width="640" height="480" controls>
+<source src="./movies/november/polskielektrownie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 ### 2020
 
