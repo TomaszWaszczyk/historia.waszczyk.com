@@ -19,6 +19,18 @@ draft: false
 
 Patkowski zapowiada, że Polacy sami zdecydują, na co wydadzą pieniądze z bonu.
 
+---
+
+From 1 to 29 Oct ’21, the ECB’s balance sheet increased by 92.9 €bn after 81.9 €bn in Sep, 203.9 €bn in Aug and 110.2 €bn in July. In other words: The ECB continues with its inflationary policy.
+
+<img src="./img/november/europeaninflationlady.jpeg"><br><br>
+
+---
+
+<img src="./img/november/managedebt.jpeg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/november/mcdonald.jpg"><br><br>

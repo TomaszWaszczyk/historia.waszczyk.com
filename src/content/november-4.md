@@ -3,10 +3,18 @@ layout: post
 title: 4 listopada
 image: img/november/furia.jpg
 author: Tomasz Waszczyk
-date: 2019-11-04T10:00:00.000Z
+date: 2020-11-04T10:00:00.000Z
 tags:
   - Furia
 ---
+
+### 2021
+
+Żodyn się ni spodziewoł, dosłownie żodyn ykonomysta
+
+> Prezes NBP: Nie mamy wpływu na bieżącą inflację. Jest wysoka i jeszcze wzrośnie.
+
+// Ciekawe czy stopy procentowe wzrosną do poziomu ~15% w celu wywłaszczenia społeczeństw/a z zakredytowanych nieruchomości
 
 ### 2020
 
