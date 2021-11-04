@@ -3,11 +3,24 @@ layout: post
 title: 5 listopada
 image: img/november/polska2020.png
 author: Tomasz Waszczyk
-date: 2019-11-05T10:00:00.000Z
+date: 2020-11-05T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2021
+
+<img src="./img/november/kreskryptowalut.jpeg"><br><br>
+
+---
+
+Tak wyglądają umowy rządów europejskich z korporacjami farmaceutycznymi:
+
+<video width="640" height="480" controls>
+<source src="./movies/november/umowyeu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 
