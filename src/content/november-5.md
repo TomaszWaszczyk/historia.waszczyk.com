@@ -11,6 +11,14 @@ draft: false
 
 ### 2021
 
+> Wystąpienie Adama Glapińskiego spotkało się z natychmiastową reakcją ekspertów: "Fidel Castro polskich finansów".
+
+Nastroje Stooq.com:
+
+<img src="./img/november/inflacjanastroje.png"><br><br>
+
+---
+
 <img src="./img/november/kreskryptowalut.jpeg"><br><br>
 
 ---
@@ -21,6 +29,19 @@ Tak wyglądają umowy rządów europejskich z korporacjami farmaceutycznymi:
 <source src="./movies/november/umowyeu.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+---
+
+USA jest oficjalnie republiką bananową. Nie dlatego, że na tamtejszych uczelniach cenzuruje się Szekspira czy naucza, że istnieją "bezpłciowi ludzie", nie dlatego, że tamtejszych policjantów coraz trudniej odróżnić od wojskowych, i nawet nie dlatego, że wszystkim tamtejszym firmom zatrudniającym ponad 100 pracowników narzucono ostatnio ścisły totalitaryzm hipochondryczny (choć wszystko to są istotne sprawy), ale dlatego, że tamtejsze główne indeksy giełdowe zachowują się jak spółki groszowe, co oznacza, że tamtejsza giełda już de facto nie istnieje, zastąpiona wielką oligarchiczną pralnią brudnych (dekretowych) pieniędzy. Jak zaś pisał Ludwig von Mises, gdzie nie ma giełdy, tam de facto nie ma kapitalizmu, a gdzie nie ma kapitalizmu, tam nie ma cywilizacji (a już zwłaszcza cywilizacji aspirującej do przewodzenia światu).
+
+Wielu chłopców wiele razy krzyczało już w tamtym kierunku "wilk, wilk!", ale teraz, kiedy w zasadzie wszystkim znudziło się już takie krzyczenie, rzeczonego wilka większość widzi już bez problemu. Nie ma w tym nic zaskakującego - od Rzymu po Austro-Węgry, śmiertelny cios imperiom zadawała hiperinflacja, będąca przeważnie ostatecznym zwieńczeniem i kardynalnym przejawem wielu skumulowanych, toczących je procesów gnilnych. Przykro się to stwierdza, zwłaszcza w odniesieniu do byłej republiki, która miała ambicję być "miastem na wzgórzu" dającym całemu światu przykład kapitalistycznego dobrobytu, ale pod pewnymi względami historia nie przestaje się rymować - sic transit gloria mundi.
+Pozostaje mieć nadzieję, że będzie się jednak wśród tych, którzy w decydującej chwili wyciągną właściwą lekcję z coraz pokaźniejszego rezerwuaru podobnych historycznych epizodów, tym samym nie zasilając go wkładem własnym. Nawet niewielka nadzieja umiera ostatnia - grunt, żeby przeżyła tych, którzy będą ją mocno żywić.
+
+---
+
+> Volkswagen płacąc w ciągu 5 lat zaledwie pół miliona zł podatku CIT, otrzymał pomoc publiczną o wartości niemal miliarda złotych.  Jeśli ten raport nic nie zmieni, to znaczy, że jesteśmy Bantustanem. Dane są szokujące! Dopłacamy do montowni!
+
+---
 
 ### 2020
 

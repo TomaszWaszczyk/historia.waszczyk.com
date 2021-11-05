@@ -3,10 +3,20 @@ layout: post
 title: 6 listopada
 image: img/november/prof.jpg
 author: Tomasz Waszczyk
-date: 2019-11-06T10:00:00.000Z
+date: 2020-11-06T10:00:00.000Z
 tags:
   - Banki
 ---
+
+### 2021
+
+> Kowalczyk: Jeśli ktoś zarabia o 20 proc. więcej, a inflacja jest 6 proc., to mu 14 proc. zostaje w kieszeni.
+
+<img src="./img/november/kowalczyk.webp"><br><br>
+
+Nie jestem zwolennikiem obniżania inflacji kosztem duszenia gospodarki. Podwyżka stóp była na ten moment potrzebna, ale nie sądzę, aby mocny ich wzrost osłabił inflację, za to może ostudzić gospodarkę – powiedział wicepremier i minister rolnictwa Henryk Kowalczyk w czwartek.
+
+Nie jestem zwolennikiem obniżania inflacji kosztem duszenia gospodarki, to był błąd, jaki popełniliśmy w latach 90-tych. Jeśli chcemy zdusić inflacje kosztem drastycznego zduszenia gospodarki, to jestem przeciw – powiedział wicepremier i minister rolnictwa Henryk Kowalczyk w czwartek w Radiu Zet.
 
 ### 2020
 
