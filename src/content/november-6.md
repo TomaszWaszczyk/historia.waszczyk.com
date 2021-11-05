@@ -5,7 +5,7 @@ image: img/november/prof.jpg
 author: Tomasz Waszczyk
 date: 2020-11-06T10:00:00.000Z
 tags:
-  - Banki
+  - Nie tanki a banki
 ---
 
 ### 2021
