@@ -3,10 +3,22 @@ layout: post
 title: 7 listopada
 image: img/november/sektorpanstwowy.jpg
 author: Tomasz Waszczyk
-date: 2019-11-07T10:00:00.000Z
+date: 2020-11-07T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2021
+
+Czy w Europie nastała już „zimna wojna” między Rosją a NATO. Spore zaniepokojenie na łamach zagranicznych mediów wywołały coraz większe napięcia związane z działaniami białoruskiego reżimu. „Nowa żelazna kurtyna zawisła na wschodzie Europy”. „Europa ma poważny problem na wschodzie kontynentu” – to tylko część nagłówków, które pojawiły się w ostatnich dniach we francuskich mediach w związku z sytuacją geopolityczną na granicy Polski i Białorusi.
+
+<img src="./img/november/rosjabialorus.jpg"><br><br>
+
+---
+
+<img src="./img/november/woda.jpg"><br><br>
+
 ---
 
 ### 2020
@@ -18,6 +30,14 @@ draft: false
 <img src="./img/november/wybory.jpeg"><br><br>
 
 <img src="./img/november/wybory2.png"><br><br>
+
+### 1984
+
+The Stasi assesses the mood of the GDR population. Citizens are unhappy about supplies in general, do not like the emergence of a 2-tiered shopping system (based on West German money) and increasingly blame the USSR for the problems.
+
+<img src="./img/november/citizenmood.jpeg"><br><br>
+
+<img src="./img/november/citizenmood2.jpeg"><br><br>
 
 ### 1983
 
@@ -39,6 +59,13 @@ W 1984 r. Ryszard Kukliński skazany został przez sąd wojskowy w Warszawie na 
 Z rozkazu Heinricha Himmlera, generał SS Erich von dem Bach -Zelewski (zdjęcie) objął stanowisko pełnomocnika Komisarza Rzeszy do spraw Umacniania Niemczyzny na Śląsku. Do jego obowiązków należało między innymi organizowanie masowych deportacji Ślązaków w celu stworzenia miejsca dla osiedlenia się etnicznych Niemców.
 
 <img src="./img/november/himmler.jpg"/><br><br>
+
+### 1918
+
+W nocy z 6 na 7 listopada 1918 r. ukonstytuował się w Lublinie Tymczasowy Rząd Ludowy Republiki Polskiej z Ignacym Daszyńskim jako premierem. Tekę spraw wojskowych otrzymał Józef Piłsudski. Wobec uwięzienia Komendanta w Magdeburgu, w jego zastępstwie resort objął E. Śmigły-Rydz. Po pięciu dniach, 12 listopada TRLRP przekazał władzę na ręce Naczelnego Wodza, Józefa Piłsudskiego, który 10 listopada przybył do Warszawy.
+W pierwszym akapicie, pierwszego manifestu, pierwszy polski rząd obsobaczył Rozwadowskiego.
+
+<img src="./img/november/rzadludowy.jpg"><br><br>
 
 ### 1899
 

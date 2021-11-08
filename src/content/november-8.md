@@ -3,10 +3,28 @@ layout: post
 title: 8 listopada
 image: img/november/patkowski.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-08T10:00:00.000Z
+date: 2020-11-08T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
+---
+
+### 2021
+
+// tzw. klasa średnia Polski nie jest w stanie autonomicznie odpowiedzieć na pytanie 1+1, prawdopodobny "najlepszy" scenariusz to w miarę łagodna rusyfikacja terenów nad Wisłą (bez Berlina), jednak wcześniej **wyniszczenie przez pracę**. Wykrzywienie w dół życiowych oczekiwań młodego pokolenia nie mającego nic niż aspiracje zaczerpane z Instagram, będzie skutkowało/skutkuje tworzeniem się miejsca dla imigracji, która jest nieunikniona, z czasem masowej imigracji.
+
+Obalanie krajów narodowych w praktyce:
+
+<img src="./img/november/imigracja.jpeg"><br><br>
+
+Tłum migrantów na granicy. Rzecznik rządu: Dzisiaj może dojść do najtrudniejszej sytuacji od czasu rozpoczęcia działań wymierzonych przez Białoruś - poinformował rzecznik rządu Piotr Müller. Na granicę skierowano dodatkowych funkcjonariuszy.
+
+---
+
+Ceny gazy są podnoszone (na 100%) już dwa razy w roku. Znaleźliśmy się w bardzo ciekawym momencie historii. Niczego nie sugeruję ale to nie jest przypadek, że niemiecki agent Lenin też został przez nich wyposażony i wysłany aby zniszczyć Rosję. Dziś, Niemcy wszelkimi dostępnymi sposobami, próbują doprowadzić do upadku Rzeczpospolitą. W zamian obiecują.. nawet niczego nie muszą obiecywać. Póki co, podobnie jak w Rosji idzie im gładko. Wystarczą użyteczni idioci, którym po prostu się wmawia, że są najsłodszą solą tej ziemi.
+
+<img src="./img/november/lenin.jpeg"><br><br>
+
 ---
 
 ### 2020

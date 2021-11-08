@@ -35,6 +35,12 @@ Takimi słowami gubernator Hans Frank podsumował akcję Sonderaktion Krakau, kt
 
 Rodzi się zbrodniarz, zabójca Pileckiego https://pl.wikipedia.org/wiki/Eugeniusz_Chimczak
 
+### 1863
+
+Poległ pod Jaworem Soleckim - Dionizy Feliks Czachowski, pułkownik, naczelnik województwa sandomierskiego. Jeden z najwybitniejszych wodzów powstania styczniowego, charyzmatyczny dowódca, wielokrotnie ścierał się z przeważającymi siłami wroga, wychodząc z potyczek zwycięsko. "Odważny partyzant, wykonawca poleceń trudnych, uparty żołnierz, surowy przełożony, sam zresztą trochę niekarny, stosował względem wroga prawo odwetu, przez co ściągnął na siebie szczególniejszą jego nienawiść i miano okrutnika". Walczył w bitwach pod Małogoszczą, Pieskową Skałą, Grochowiskami, Ostrowcem czy Chrobrzem. 29 listopada 1938 roku z okazji 75 rocznicy śmierci ekshumowano prochy Czachowskiego i przewieziono uroczyście do Radomia. 30 listopada, pochowano je w mauzoleum przed kościołem Bernardynów w Radomiu. Płk Dionizy Czachowski był również patronem 72. pp stacjonującego w okresie międzywojennym w Radomiu.
+
+<img src="./img/november/czachowski.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-6.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

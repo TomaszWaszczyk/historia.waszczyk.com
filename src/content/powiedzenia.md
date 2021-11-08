@@ -3701,6 +3701,8 @@ Na słowach buduje się tak samo jak na fundamencie.
 
 “Mental clarity is the greatest weapon a man can yield” - Ray Dalio
 
+Kto nie był ten będzie, kto był ten nie zapomni.
+
 <!-- “The longer I live, the more I realize the impact of attitude on life.
 
 Attitude, to me, is more important than facts. It is more important than the past, the education, the money, than circumstances, than failure, than successes, than what other people think or say or do.

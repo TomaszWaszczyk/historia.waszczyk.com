@@ -28,6 +28,10 @@ Glapiński, stary komunista robi to czego został nauczony za młodu..
 
 ---
 
+Władze w Pekinie zawiesiły z dniem 1 listopada br. na okres trzech miesięcy płacenie podatku dochodowego, od wartości dodanej (VAT), konsumpcyjnego oraz innych danin przez firmy średnie, małe i mikro, prowadzące działalność gospodarczą na zasadzie analogicznej do polskich działalności rejestrowanych w CEIDG. Obowiązek podatkowy dla tych firm powróci z dniem 1 lutego 2022. Rząd chiński podjął taką decyzję, by pomóc firmom działającym jako działalności gospodarcze w wyjściu ze stagnacji, w którą popadły w wyniku pandemii. To jedyny sektor w Chinach, który wciąż nie może odzyskać wigoru sprzed epidemii.
+
+---
+
 ### 2020
 
 Wszystkich Świętych 2020. Zamknięte cmentarze 1 i 2 listopada.
