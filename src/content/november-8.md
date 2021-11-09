@@ -19,6 +19,8 @@ Obalanie krajów narodowych w praktyce:
 
 Tłum migrantów na granicy. Rzecznik rządu: Dzisiaj może dojść do najtrudniejszej sytuacji od czasu rozpoczęcia działań wymierzonych przez Białoruś - poinformował rzecznik rządu Piotr Müller. Na granicę skierowano dodatkowych funkcjonariuszy.
 
+> Do Mińska zaplanowano około 40 lotów tygodniowo ze Stambułu, Damaszku i Dubaju. Z tych kierunków przybywa najwięcej migrantów.
+
 ---
 
 Ceny gazy są podnoszone (na 100%) już dwa razy w roku. Znaleźliśmy się w bardzo ciekawym momencie historii. Niczego nie sugeruję ale to nie jest przypadek, że niemiecki agent Lenin też został przez nich wyposażony i wysłany aby zniszczyć Rosję. Dziś, Niemcy wszelkimi dostępnymi sposobami, próbują doprowadzić do upadku Rzeczpospolitą. W zamian obiecują.. nawet niczego nie muszą obiecywać. Póki co, podobnie jak w Rosji idzie im gładko. Wystarczą użyteczni idioci, którym po prostu się wmawia, że są najsłodszą solą tej ziemi.
