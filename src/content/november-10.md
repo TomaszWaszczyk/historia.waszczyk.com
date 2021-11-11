@@ -3,10 +3,18 @@ layout: post
 title: 10 listopada
 image: img/november/bekanntmachung.jpg
 author: Tomasz Waszczyk
-date: 2019-11-10T10:00:00.000Z
+date: 2020-11-10T10:00:00.000Z
 tags:
   - Berliner Mauer
 ---
+
+### 2021
+
+Oficjalnie recesja?
+
+Musk sold 676K $TSLA shares yesterday, totalling millions.
+
+<img src="./img/november/elonmusk.jpeg"><br><br>
 
 ### 2020
 
@@ -15,6 +23,8 @@ Wiceminister finansów: konsumenci nie odczuli w kieszeniach skutków epidemii
 Wiceminister finansów Piotr Patkowski, mówiąc o wsparciu przy drugiej fali pandemii, wyjaśnił, że tarczy dla konsumentów nie będzie, bo rząd skupia się na pomocy dla firm, by ochronić miejsca pracy. Ocenił, że jeśli konsumenci nie stracili pracy, to w kieszeniach mają pieniądze zaoszczędzone na rozrywce czy rekreacji. Zastrzegł jednak, że jeśli resort zauważy, że kredytobiorcy nie będą w stanie spłacać rat kredytów hipotecznych, jakaś interwencja może nastąpić.
 
 <img src="./img/november/patkowski.webp"><br><br>
+
+<img src="./img/november/inflacja19502017.png"><br><br>
 
 ---
 
@@ -41,6 +51,23 @@ Zwracam całej ludności Okręgu Warszawskiego wyraźnie uwagę na to nowe posta
 ### 1939
 
 https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+
+### 1938
+
+We czwartek 10 listopada 1938 r. Niemcy obudzili się w swoich domach, ale noc miniona była inna od poprzednich. Niektórych idących po poranne zakupy mogły zdziwić splądrowane sklepy, spalone synagogi i wybite szyby, których srebrzyste okruchy dały minionej nocy nazwę KRYSZTAŁOWEJ.
+#DobraHistoria
+Ale w sumie czy powinni się dziwić? Po wprowadzonych w 1935 r. Ustawach norymberskich uczyniono z osób narodowości żydowskiej obywateli drugiej kategorii. Stworzono według niech osobną grupę wewnątrz zbiorowości obywateli Niemiec. Na mocy tych dokumentów Żydów można było pozbawić obywatelstwa Rzeszy, ochrony prawnej i własności. Nie mogli również pełnić służby w urzędach państwowych ani w wojsku. Zakazano im również wywieszać flagę państwową. Zabroniono zawierania małżeństw między „Aryjczykami” i „nie-Aryjczykami”, zezwalano rozwiązywać już zawarte małżeństwa tego typu, zaś stosunki intymne między nimi podlegały karze.
+Pod koniec października 1938 r. siedemnaście tysięcy osób narodowości żydowskiej, posiadających do niedawna obywatelstwo polskie, zostało zmuszonych do natychmiastowego opuszczenia Rzeszy. Spodziewając się takiego obrotu spraw już w marcu polskie władze przyjęły ustawę, która pozbawiała Żydów obywatelstwa jako przebywających ponad 5 lat poza granicami RP. W ten sposób na przygranicznych stacjach kolejowych pęczniał kilkutysięczny tłum de facto bezpaństwowców pozbawionych zarówno prawa powrotu do Polski jak i do Niemiec. Kryzys humanitarny starali się łagodzić działacze Polskiego Czerwonego Krzyża, jednakże skala problemu zmusiła polskie MSZ do podjęcia zdecydowanych działań. Zagroziło ono wydaleniem z Rzeczypospolitej obywateli niemieckich, wobec czego  deportację Żydów z Niemiec wstrzymano. Niestety tych, których Niemcy nie zdołali przepędzić przez granicę, zabierano z powrotem w głąb kraju, najczęściej do obozów koncentracyjnych.
+Wśród tych, którzy udali się do Polski była rodzina Grynszpanów. Ich syn, Herszel, już w 1936 r. uciekł z Niemiec chcąc osiedlić się w Palestynie. W okresie tymczasowym zamieszkał w Paryżu. Przejęty antysemicką polityką udał się do ambasady niemieckiej w Paryżu, w której ubiegał się o rozmowę z ambasadorem. Przyjął go niższy rangą sekretarz Ernst von Rath, do którego Grynszpan pięciokrotnie strzelił. Rath po dwóch dniach zmarł z odniesionych ran. Choć zamach, jako akt zemsty Grynszpana, miał znaczenie drugorzędne, niemiecka propaganda określiła go jako "atak międzynarodowego żydostwa na Rzeszę Niemiecką". 
+9 listopada, po śmierci von Ratha, Goebbels oznajmił towarzyszom partyjnym, że należy zadać zadośćuczynienie społeczności żydowskiej w Niemczech, ale nie mogą być to oficjalne wystąpienia partyjne. Hitler wcześniej wyszedł z konwentu, by nie uczestniczyć w wyrażanych przez Goebbelsa zachętach. Spotkanie z ministrem propagandy zakończyło się o 22:50. Tuż po nim do ośrodków partyjnych dotarło polecenie do działania...
+Paramilitarne oddziały NSDAP, czyli SA i SS dostały w ciągu kilkudziesięciu minut polecenie ochrony mienia aryjskiego, co zgodnie z linią partii zinterpretowano jako nakaz niszczenia mienia żydowskiego. W ciągu kilku godzin zamordowano ponad dwa tysiące obywateli niemieckich wyznania mojżeszowego, spalono ponad tysiąc synagog (często o wielkie wartości historycznej), zniszczono około siedem tysięcy sklepów i dwadzieścia dziewięć domów towarowych należących do Żydów. Wszystkie cmentarze żydowskie zostały zdemolowane. Po nocy około trzydzieści tysięcy żydów zostało zamkniętych w obozach koncentracyjnych.
+Co więcej, Hermann Göring wydał rozporządzenie nakazujące, by Żydzi zebrali 1 mld marek (faktycznie zebrano 1,2 mld marek) jako odszkodowanie na rzecz państwa niemieckiego.
+Był to pierwszy w historii pogrom zorganizowany przez organizację partyjną, czyli w przypadku III Rzeszy de facto władzę państwową. Straż pożarna nie reagowała kiedy ogień trawił biblioteki i synagogi. Policja ograniczyła się do osłony mienia aryjskiego, kiedy wybijano szyby, rabowano sklepy i mordowano obywateli Niemiec narodowości żydowskiej.
+Rankiem, 10 listopada 1938 roku, ulice niemieckich miast pokrywała warstwa tłuczonego szkła, które dało minionej nocy nazwę KRYSZTAŁOWEJ.
+
+<img src="./img/november/hanover.jpg"><br><br>
+
+Na zdjęciu płonąca w tę noc synagoga w Hanowerze. 
 
 ### 1918
 

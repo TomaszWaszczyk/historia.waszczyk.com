@@ -3,9 +3,35 @@ layout: post
 title: 11 listopada
 image: img/november/rada_regencyjna.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-11T10:00:00.000Z
+date: 2020-11-11T10:00:00.000Z
 tags:
   - "Niepodległość Polski"
+---
+
+### 2021
+
+Bez waluty nie ma kraju, a waluty narodowe się sypią.
+
+We are in an inflation surge.  If you follow me, you know that I have been very critical of the “don’t worry, it is transitory” spin on the recent inflation reports. Even today’s media coverage mainly focuses on the transitory items. Sure, some of the inflation is transitory – that is obvious – but not all. Yes, used cars are up 26.4% YoY but that is only 3.3% of the CPI basket. I have focused on the important shelter component which constitutes one third of the CPI. The latest CPI report shows rent and owners’ equivalent rent up only 2.7% and 3.1% YoY. Yet, Case-Shiller 20 City house price index is up 19.7% and Apartment List median rent is up 16.4% (Jan-Oct). Unfortunately, there is likely more inflation to come.
+
+<img src="./img/november/inflationsurge.jpeg"><br><br>
+
+---
+
+How Japan's new PM is promising a 'new capitalism'. Former Japanese Foreign Minister Fumio Kishida became PM in October.
+
+Japan's new prime minister, Fumio Kishida, has sold his plan to redistribute wealth in the country as the "new capitalism".
+
+<img src="./img/november/kishida.jpg"><br><br>
+
+But some critics on social media suggest the plan sounds more like socialism to them - even dubbing it Japan's "common prosperity", referring to a key policy from the Chinese Communist Party.
+
+---
+
+Prezes NBP udzieli głosu członkom RPP. Muszą mieć jego zgodę na wywiady
+
+Prezes NBP podejmuje decyzje o krajowych i zagranicznych wyjazdach członków Rady oraz o udziale członków Rady w konferencjach i innych wydarzeniach relacjonowanych publicznie - wynika z uchwały RPP z 3 listopada, zmieniającej regulamin Rady, opublikowanej w środę w Monitorze Polskim.
+
 ---
 
 ### 2020

@@ -230,6 +230,8 @@ https://en.wikipedia.org/wiki/Great_Moderation
 
 https://en.wikipedia.org/wiki/Cyberpunk
 
+https://pl.wikipedia.org/wiki/Podatek_od_ponadnormatywnych_wyp%C5%82at_wynagrodze%C5%84
+
 ### 1983
 
 https://pl.wikipedia.org/wiki/Costco

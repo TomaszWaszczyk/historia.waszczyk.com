@@ -73,6 +73,15 @@ Kwiat narodu:
 
 https://pl.wikipedia.org/wiki/Dmitrij_Paw%C5%82ow
 
+### 1794
+
+Rosyjscy żołnierze gen. Aleksandra Suworowa dokonali rzezi mieszkańców warszawskiej Pragi. Liczba zamordowanych jest trudna do ustalenia, szacuje się, że zgineło od 13 do 20 tys. mieszkańców miasta. Mordowano kobiety i dzieci, w klasztorze Bernardynek zgwałcono i zamordowano niemal wszystkie zakonnice. W klasztorze Bernardynów zabito 19 zakonników i wszystkich kalekich starców przebywającyh w tamtejszym przytułku. 
+"Do samej Wisły na każdym kroku spotkać się dawali zabici i umierający różnego stanu ludzie; na brzegu rzeki piętrzyły się stosy żołnierzy, cywilnych, Żydów, księży, zakonników, kobiet i dzieci. Na widok tego wszystkiego serce zamierało w człowieku, a obmierzłość obrazu duszę jego oburzała. W czasie bitwy człowiek nie tylko nie czuje w sobie żadnej litości, ale rozzwierzęca się jeszcze, lecz morderstwa po bitwie, to hańba".- Relacja jednego z rosyjskich dowódców gen. Lwa Nikołajewicza Engelharda.
+„Widok Pragi był okropny, ludzie obojej płci, starcy i niemowlęta u piersi matek pomordowane leżały na kupie; krwią zbroczone i obnażone ciała żołnierzy, połamane wozy, pozabijane konie, psy, koty, nawet świnie. Tu i ówdzie drgały jeszcze członki umierających. Całe miasto Praga stało w płomieniach i w dymie, a dachy zawalały się z trzaskiem, któremu odpowiadało przeraźliwe wycie kozaków, klątwa rozjuszonego żołdactwa”. -Tak notował pruski kronikarz prowiantowy.
+„Z najwyższym żalem informuję Waszą Lordowską Mość, że atakowi na linie obrony Pragi towarzyszyło najstraszliwsze i zupełnie niepotrzebne barbarzyństwo...” – raportował premierowi Wielkiej Brytanii jej warszawski ambasador, pułkownik Wiliam Gardiner
+
+<img src="./img/november/rzezpragi.jpg"><br><br>
+
 ### 1790
 
 Na działce podarowanej przez rodzinę Szymanowskich założony został cmentarz na Powązkach. Jego poświęcenie miało miejsce w maju 1792 roku.

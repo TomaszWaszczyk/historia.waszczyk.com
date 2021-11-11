@@ -69,6 +69,14 @@ Był kilkakrotnie, z różnym skutkiem sądzony w sprawie wspomnianej tu już ma
 
 <img src="./img/november/kiszczak.jpg"/><br><br>
 
+### 1985
+
+<img src="./img/november/religa.jpg"><br><br>
+
+Doc. Zbigniew Religa w asyście doktorów Andrzeja  Bochenka, Mariana Zembali, Bogdana Ryfińskiego i Bolesława Kominka dokonuje pierwszego udanego przeszczepu serca w Polsce, rozpoczynając tym samym program transplantacji tego narządu w kraju.
+
+<img src="./img/november/religa2.jpg"><br><br>
+
 ### 1906
 
 Swój pierwszy wykład na Sorbonie wygłosiła Maria Skłodowska-Curie. Wykład dotyczył elektryczności, rozpadu atomów i substancji promieniotwórczych.
