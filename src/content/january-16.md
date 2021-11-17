@@ -31,6 +31,12 @@ Francja zablokowała przejęcie za 20 mld USD przez kanadyjskiego inwestora siec
 
 ---
 
+### 2009
+
+<img src="./img/january/bitcoin01.png"><br><br>
+
+More: https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html
+
 ### 2000
 
 Manipulacja:

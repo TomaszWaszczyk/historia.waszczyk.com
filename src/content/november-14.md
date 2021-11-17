@@ -3,7 +3,7 @@ layout: post
 title: 14 listopada
 image: img/november/tfibitcoin.png
 author: Tomasz Waszczyk
-date: 2019-11-14T10:00:00.000Z
+date: 2020-11-14T10:00:00.000Z
 tags:
   - Kamala Harris
 draft: false

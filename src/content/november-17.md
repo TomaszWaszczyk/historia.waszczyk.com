@@ -3,10 +3,22 @@ layout: post
 title: 17 listopada
 image: img/november/dziennik.jpg
 author: Tomasz Waszczyk
-date: 2019-11-17T10:00:00.000Z
+date: 2020-11-17T10:00:00.000Z
 tags:
   - Propaganda
 ---
+
+### 2021
+
+Każda merytoryczna próba objaśniania rzeczywistości ekonomicznej przez prezesa NBP jest bolesną kompromitacją.
+
+W wywiadzie dla "Hungarian Business Daily" pan prezes "nie dostrzegł presji rynkowej" na kurs PLN, który przecież taki, jak teraz wspiera aktywność gospodarczą.
+
+4.67 i 4.11 najwyraźniej są jakimś omamem. Zero presji, prawda? Sama czysta aktywność.
+
+Podobnie, jak omamem być musi pozytywny wpływ na koronę i forinta sygnalizowanej przez oba banki centralne kontynuacji cyklu podwyżek stóp procentowych. Tu, najwyraźniej, banki przejęte swoją misją postawiły krzyżyk na "aktywności", bo zajęły się oczekiwaniami inflacyjnymi. A rynek FX to docenił.
+
+Trochę wstyd to powiedzieć, ale chyba lepiej, żeby prezes zajmował się jednak intensywnie dalszą promocją monet i banknotów kolekcjonerskich.
 
 ### 2020
 

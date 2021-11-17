@@ -35,6 +35,8 @@ https://unibot.us.edu.pl/dzieci-moga-patentowac/
 
 * Kot Biznesik - Arkadiusz Błażyca
 
+* Wielcy myśliciele i wielkie idee. Wschodnia i zachodnia filozofia dla dzieci.
+
 * Johnny Profit - Malgeri Michael A.
 
 * Jak powstaje bogactwo, i kiedy nie powstaje

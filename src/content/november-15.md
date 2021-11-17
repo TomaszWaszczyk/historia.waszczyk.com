@@ -3,7 +3,7 @@ layout: post
 title: 15 listopada
 image: img/november/niechjada.jpg
 author: Tomasz Waszczyk
-date: 2019-11-15T10:00:00.000Z
+date: 2020-11-15T10:00:00.000Z
 tags:
   - Lekarze w Polsce
 draft: false
