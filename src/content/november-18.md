@@ -3,10 +3,26 @@ layout: post
 title: 18 listopada
 image: img/november/koscioly2020.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-18T10:00:00.000Z
+date: 2020-11-18T10:00:00.000Z
 tags:
   - Chrześcijaństwo w Europie
 draft: false
+---
+
+### 2021
+
+Alarm na Ukrainie. Coraz większe ryzyko rosyjskiej inwazji
+
+Nigdy od 2014 roku niebezpieczeństwo nowej, zakrojonej na szeroką skalę inwazji rosyjskiej nie było tak duże – alarmuje ambasador Ukrainy w Niemczech.
+
+<img src="./img/november/ukraina.jpg"><br><br>
+
+---
+
+> Business Insider: „Biden chce śledztwa w sprawie cen paliw”
+
+Podoba mi się ten pomysł. Uważam, że wraz z Jerome Powell, Szefem Rezerwy Federalnej powinni usiąść razem przy stole, podliczyć ile „świeżej pustej kasy” razem wydrukowali przez ostatni rok i wreszcie powinni zacząć szukać winnych wysokich cen. Tak jak to w każdym porządnym komunistycznym państwie się dawniej robiło!!!
+
 ---
 
 ### 2020

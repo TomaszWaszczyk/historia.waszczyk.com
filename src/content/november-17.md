@@ -53,6 +53,14 @@ Konwoje w Polsce.
 
 Opinia: Polska akumuluje/zmienienia miejsce trzymania złota.
 
+---
+
+W chińskim Wuhan stwierdzono pierwszy przypadek zachorowania na COVID-19. Jest to ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem SARS-CoV-2
+
+<img src="./img/november/covid.jpg"><br><br>
+
+---
+
 ### 2018
 
 Dzisiaj w nocy miała miejsce kolejna regulacja trudności kopania Bitcoina. Trudność spadła o 7,39%. Tak duży spadek mocy obliczeniowej ostatni raz odnotowany był 23.01 2013 roku ( -8,64% ) i była to kontynuacja spadków mocy obliczeniowych po bańce z 2011 roku. zmieściłem zdjęcie
@@ -64,6 +72,14 @@ Osobiście uważam iż w związku z tak znacznym spadkiem moc obliczeniowa zaraz
 <img src="./img/november/halving1.jpg"><br><br>
 
 <img src="./img/november/halving2.jpg"><br><br>
+
+### 2000
+
+Pod czujnym spojrzeniem prezesa Wiesław Rozłuckiego dokonano inauguracji nowego systemu notowań WARSET, który wówczas był najbardziej nowoczesnym rozwiązaniem technologicznym. 
+
+Nowy system notowań oznaczał dla GPW bezawaryjność działań oraz szybsze przetwarzanie danych. W ciągu zaledwie 9 lat od pierwszej sesji GPW mogła pochwalić się wdrożeniem najnowocześniejszych wówczas rozwiązań technologicznych.
+
+<img src="./img/november/rozlucki.jpeg"><br><br>
 
 ### 1999
 

@@ -1,11 +1,25 @@
 ---
 layout: post
 title: 20 listopada
-image: img/1-08.jpeg
+image: img/november/inflacjaniemcy2021.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-20T10:00:00.000Z
+date: 2020-11-20T10:00:00.000Z
 tags:
   - FED
+---
+
+### 2021
+
+Inflacja producencka w NIEMCZECH 18.4% - Najwyższa od listopada 1951
+
+<img src="./img/november/inflacjaniemcy2021.jpeg"><br><br>
+
+---
+
+> Jestem jedną z nich.
+
+<img src="./img/november/jednaznich.jpeg"><br><br>
+
 ---
 
 ### 2020
