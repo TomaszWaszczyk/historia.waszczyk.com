@@ -81,6 +81,11 @@ Ostatecznie jednak, chcąc uniknąć całkowitej kompromitacji władza zdecydowa
 Wspomina Józef Żarski:
 "Miałem niespełna pięć lat, gdy banderowcy w nocy z 14 na 15 marca 1944 roku podpalili nasz dom. Uciekaliśmy przez pola w kierunku rzeki. Do dziś słyszę świst kul nad naszymi głowami. Rano wróciliśmy do domu. Zastaliśmy pogorzelisko. Wszystko było spalone: zwierzęta, zboże, cały dorobek materialny moich rodziców. Pozostały tylko resztki zboża w nadpalonych workach. Ale żyliśmy. Wiele polskich rodzin doznało wtedy krzywdy ze strony Ukraińców."
 
+### 1937
+
+Died Lars Edvard Phragmén
+
+
 ### 1918
 
 W Warszawie urodził się Bogusław Mierzwa (zdjęcie)-porucznik pilot Wojska Polskiego, porucznik Królewskich Sił Powietrznych.

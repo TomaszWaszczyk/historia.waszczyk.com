@@ -3,10 +3,24 @@ layout: post
 title: 22 listopada
 image: img/november/japantimes.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-22T10:00:00.000Z
+date: 2020-11-22T10:00:00.000Z
 tags:
   - Propaganda
 ---
+
+### 2021
+
+> Zaszczepieni umierają na COVID, a czwarta dawka jest nieunikniona? Odpowiada ekspert
+
+<img src="./img/november/pracarodzina.jpg"><br><br>
+
+> Premier mówi, złoty się umacnia. "Zrobimy wszystko, by złotówka była nieco silniejsza"
+
+Przy poziomach 5.0 i wyżej na parze EURPLN aż prosi się o atak spekulacyjny w społczeństwie, które jest tak silnie zakredytowane przy jednocześnie najdroższych nieruchomościach.
+
+Za trzy kwartały USDPLN po 5.0?
+
+<img src="./img/november/premierpln.webp"><br><br>
 
 ### 2020
 

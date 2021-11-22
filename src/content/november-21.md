@@ -3,10 +3,30 @@ layout: post
 title: 21 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2019-11-21T10:00:00.000Z
+date: 2020-11-21T10:00:00.000Z
 tags:
-  - 
+  - Life as a service
 draft: false
+---
+
+### 2021
+
+> Life as a service.
+
+<img src="./img/november/lifeasaservice.png"><br><br>
+
+---
+
+Coraz więcej głosów "polityków", kapitał chce masowej adopcji już niedługo.
+
+> Hillary Clinton: Bitcoin threatens US dollar as reserve currency.
+
+---
+
+Sad, but true.
+
+<img src="./img/november/sadbuttrue.jpeg"><br><br>
+
 ---
 
 ### 2013

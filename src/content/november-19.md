@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 listopada
-image: img/november/zloto2021png
+image: img/november/zloto2021.png
 author: Tomasz Waszczyk
 date: 2020-11-19T10:00:00.000Z
 tags:
@@ -27,7 +27,7 @@ Marzysz o własnych czterech kątach? 🏠 Dzięki rządowemu programowi #Polski
 
 Złoto wyrażone w PLN najdroższe w historii, PLN najsłabszy w historii.
 
-<img src="./img/november/zloto2021png"><br><br>
+<img src="./img/november/zloto2021.png"><br><br>
 
 ---
 
