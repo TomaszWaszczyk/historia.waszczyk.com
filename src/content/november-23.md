@@ -3,10 +3,29 @@ layout: post
 title: 23 listopada
 image: img/november/mbank.png
 author: Tomasz Waszczyk
-date: 2019-11-23T10:00:00.000Z
+date: 2020-11-23T10:00:00.000Z
 tags:
   - MBank
 draft: false
+---
+
+### 2021
+
+<img src="./img/november/usachina.jpeg"><br><br>
+
+---
+
+Next PLN?
+
+<img src="./img/november/erdocoin.png"><br><br>
+
+1950 w Polsce:
+
+<video width="640" height="480" controls>
+<source src="./movies/november/polskiefinanse1950.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2020

@@ -12,6 +12,8 @@ tags:
 
 > Zaszczepieni umierają na COVID, a czwarta dawka jest nieunikniona? Odpowiada ekspert
 
+<img src="./img/november/warszawaszczepi.jpg"><br><br>
+
 <img src="./img/november/pracarodzina.jpg"><br><br>
 
 > Premier mówi, złoty się umacnia. "Zrobimy wszystko, by złotówka była nieco silniejsza"
@@ -21,6 +23,8 @@ Przy poziomach 5.0 i wyżej na parze EURPLN aż prosi się o atak spekulacyjny w
 Za trzy kwartały USDPLN po 5.0?
 
 <img src="./img/november/premierpln.webp"><br><br>
+
+> Kryptowaluty to GetBack i AmberGold na sterydach, 30 razy gorsza bańka, powiedział Artur Kurasiński
 
 ### 2020
 
