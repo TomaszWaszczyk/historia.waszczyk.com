@@ -8,6 +8,18 @@ tags:
   - NSDAP
 ---
 
+### 2021
+
+Większość przedstawicieli "klasy średniej" nie widzi w tym problemu.
+
+> Rząd da Polakom pieniądze na walkę z inflacją. Nawet 1000 zł
+
+> Wprowadzamy dodatek osłonowy według kryteriów dochodowych, od 400 zł do ponad 1000 zł w zależności od gospodarstwa domowego. Wypłacany będzie w dwóch ratach w 2022 r. - poinformował premier Mateusz Morawiecki.
+
+> Według 67 proc. Polaków, gospodarka w kraju znajduje się w stanie kryzysu, przy czym 41 proc. uważa, że jest to lekki kryzys, natomiast przekonanie o głębokim kryzysie wyraża 26 proc. badanych.
+
+<img src="./img/november/rozdacpieniadze"><br><br>
+
 ### 1990
 
 Odbyła się w Polsce pierwsza tura wyborów prezydenckich. Zgłosiło się 16 kandydatów, z których tylko 7 zebrało 100 tysięcy podpisów potrzebnych do rejestracji. W głosowaniu udział wzięło ponad 60 procent Polaków uprawnionych do głosowania. Prawdziwym czarnym koniem tej był biznesmen prowadzący interesy w obu Amerykach Stanisław Tymiński, który uzyskując 23 procent głosów, przy prawie 40 procentach Lecha Wałęsy przeszedł do drugiej tury wyborów, która odbyła się 9 grudnia 1990 roku.

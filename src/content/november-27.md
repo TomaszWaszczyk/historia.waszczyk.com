@@ -3,10 +3,14 @@ layout: post
 title: 27 listopada
 image: img/november/as.jpg
 author: Tomasz Waszczyk
-date: 2019-11-27T10:00:00.000Z
+date: 2020-11-27T10:00:00.000Z
 tags:
   - COVID
 ---
+
+### 2021
+
+<img src="./img/november/clownworld.jpeg"><br><br>
 
 ### 2020
 

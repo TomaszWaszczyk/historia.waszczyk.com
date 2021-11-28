@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/november/taproot.jpeg"><br><br>
+
 ### 2020
 
 Kobieta która dąży do likwidacji chrześcijaństwa:

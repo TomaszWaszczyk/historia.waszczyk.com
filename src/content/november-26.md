@@ -3,10 +3,14 @@ layout: post
 title: 26 listopada
 image: img/november/kiszczak.jpg
 author: Tomasz Waszczyk
-date: 2019-11-26T10:00:00.000Z
+date: 2020-11-26T10:00:00.000Z
 tags:
   - Kiszczak
 ---
+
+### 2021
+
+<img src="./img/november/siemianowice.jpeg"><br><br>
 
 ### 2020
 
