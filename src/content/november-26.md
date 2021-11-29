@@ -12,6 +12,8 @@ tags:
 
 <img src="./img/november/siemianowice.jpeg"><br><br>
 
+<img src="./img/november/bearmarket.jpeg"><br><br>
+
 ### 2020
 
 Ostatni przemysłowy producent zapałek w kraju - PCC Consumer Products Czechowice, zostanie zlikwidowany. Spółka poinformowała, że w czwartek zadecydowali o tym akcjonariusze podczas nadzwyczajnego walnego zgromadzenia.

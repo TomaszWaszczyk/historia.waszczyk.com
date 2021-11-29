@@ -8,6 +8,12 @@ tags:
   - Amazon
 ---
 
+### 2021
+
+<img src="./img/november/yahyaeth.jpeg"><br><br>
+
+<img src="./img/november/brock.jpeg"><br><br>
+
 ### 2020
 
 „Niech Amazon zapłaci” - pod takim hasłem pracownicy kalifornijskiego giganta na całym świecie domagają się lepszych płac, przestrzegania prawa i szanowania planety. Pracownicy polskich magazynów protestują od dwóch tygodni. „Firma nie poczuwa się do tego, żeby podzielić się z nami tym zyskiem, który przecież wypracowaliśmy”
