@@ -3,9 +3,34 @@ layout: post
 title: 1 grudnia
 image: img/december/ethereum2.jpeg
 author: Tomasz Waszczyk
-date: 2019-12-01T10:00:00.000Z
+date: 2020-12-01T10:00:00.000Z
 tags:
   - Ethereum
+---
+
+### 2021
+
+Morawiecki:
+
+> Ze względu na to, że mamy w Polsce jak i w całej Europie dość silny ruch antyszczepionkowy, to chcemy wspólnie z opozycją wystąpić z pewną ustawą, która pozwoliłaby pracodawcom na sprawdzanie zaszczepienia pracowników, bez wyciągania konsekwencji.
+
+<img src="./img/november/morawiecki.png"><br><br>
+
+---
+
+Komisja Europejska przeciwko Bożemu Narodzeniu. Ujawniono skandaliczny dokument
+
+Nowy wewnętrzny dokument, do którego dotarł włoski portal Il Giornale nosi nazwę "Union Of Equality". Wynika z niego, że eurokraci w ramach "polityki integracyjnej" zamierzają walczyć z obecnością świąt Bożego Narodzenia w przestrzeni publicznej.
+Komisja Europejska podkreśla konieczność unikania "uznania kogokolwiek za chrześcijanina”. Autorzy dokumentu tłumaczą to faktem, że nie każdy obchodzi święta Bożego Narodzenia.
+W imię polityki równości Komisja Europejska atakuje Boże Narodzenie, zachęcając jednocześnie, aby w trakcie rozmów nie używać zwrotów kojarzących się z chrześcijaństwem.
+Komisja posuwa się do tego, że odradza nawet używanie imion chrześcijańskich. "Dlatego zamiast »Maria i Giovanni są parą międzynarodową«, musimy powiedzieć »Malika i Giulio są parą międzynarodową«" – czytamy na portalu Il Giornale.
+Aby spełnić równościowe standardy Komisja zaleca wprowadzenie szeregu kuriozalnych zasad uderzających w międzyludzkie stosunki już na poziomie języka. Np. zabronione jest używanie zwrotu „Panna lub Pani”, jak również zabrania się rozpoczynania konferencji od zwrotu w stronę publiczności „Panie i panowie”. Ponadto wykluczone jest organizowanie dyskusji z przedstawicielami tylko jednej płci.
+Dodatkowo wybierając „obrazy towarzyszące komunikacji", należy się upewnić, że obecne na nich kobiety i dziewczęta "nie są pokazane w domu lub w pasywnych rolach, podczas gdy mężczyźni są aktywni i żądni przygód”.
+
+---
+
+Szef Fed powiedział, że to jest ten moment, w którym trzeba pożegnać się z określeniem "przejściowa" w odniesieniu do inflacji. Na rynku walutowym trwają uroczystości pożegnalne.
+
 ---
 
 ### 2020

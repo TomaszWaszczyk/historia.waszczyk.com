@@ -3,10 +3,18 @@ layout: post
 title: 2 grudnia
 image: img/december/rydz.jpg
 author: Tomasz Waszczyk
-date: 2019-12-02T10:00:00.000Z
+date: 2020-12-02T10:00:00.000Z
 tags:
   - Rydz Śmigły
 ---
+
+### 2021
+
+Glapiński:
+
+> Inflacja to szok zewnętrzny, a w Polsce mamy cud gospodarczy.
+
+<img src="./img/november/szokglapinski.jpeg"><br><br>
 
 ### 2020
 

@@ -3,10 +3,29 @@ layout: post
 title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
-date: 2019-11-30T10:00:00.000Z
+date: 2020-11-30T10:00:00.000Z
 tags:
   - ZUS
 ---
+
+### 2021
+
+Inflacja za listopad wyniosła już 7,7%. Okazało się, że drukowanie pieniędzy, wprowadzanie kolejnych podatków i regulacji, zwiększanie zasiłków, zniechęcanie do pracy i inwestowania prowadzi do wzrostu cen. No kto mógł się tego spodziewać? Przecież najlepsze modele prognostyczne prezesa NBP Adama Glapińskiego przewidywały znaczący spadek inflacji, a nawet groziły nam deflacją.
+
+Inflacja w okolicy 8% oznacza, że jeden miesiąc w roku pracujemy za darmo. Zbliżamy się w ten sposób małymi krokami do ideału, czyli państwa komunistycznego, gdzie cały rok pracuje się za darmo.
+Na szczęście nie ma się co obawiać. Rząd ma już świetny plan. Należy tylko dodrukować trochę pieniędzy, wydać je na zasiłki mające zrekompensować wzrost inflacji. Kolejny krok to oczywiście ceny maksymalne, które wprawdzie spowodują niedobory, ale które pokonamy kartkami, a nie, przepraszam, oczywiście bonami, za które będziemy kupowali żywność. Wtedy pozostanie tylko wyłapywanie spekulantów, którzy będą sprzedawać spod lady po cenach czarnorynkowych oraz specjalne sklepy, gdzie za żółtymi firankami członkowie partii będą mogli kupić jakieś towary luksusowe.
+
+Wszystko zgodnie z najlepszymi metodami wenezuelskiej szkoły ekonomii. To musi się udać.
+
+> Plus jest taki, że wraz z rozprzestrzenianiem się omikronu - nowego, groźniejszego wariantu koronawirusa spadały w ostatnim czasie ceny ropy naftowej (inwestorzy obawiali się lockdownów i spadku mobilności), co może wpłynąć na grudniową inflację.
+
+Przykład pseudoekonomicznego pierdolenia w wykonaniu anallllityków mBank:
+
+> "Fiu fiu, inflacja w listopadzie wzrosła do 7,7 proc.. Grubo powyżej konsensusu (7,4 proc.). Szarpnięcie na rynku ropy naftowej sugeruje, że jest szansa na grudniowy odczyt poniżej 8 proc." - sugerują ekonomiści mBanku.
+
+> Co dalej z inflacją? Co zrobi RPP?
+
+> Z kolei według ekonomistów Polskiego Instytutu Ekonomicznego wzrost cen spowolni dopiero w przyszłym roku. Szacują oni, że rządowa tarcza antyinflacyjna obniży CPI w I kwartale 2022 o ok. 1,2 pkt. proc – inflacja spadnie w okolice 6,5 – 7 proc.. 
 
 ### 2020
 

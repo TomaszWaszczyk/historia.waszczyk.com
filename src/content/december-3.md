@@ -3,10 +3,16 @@ layout: post
 title: 3 grudnia
 image: img/december/jaros.jpg
 author: Tomasz Waszczyk
-date: 2018-12-03T10:00:00.000Z
+date: 2020-12-03T10:00:00.000Z
 tags:
   - Władysław Gomułka
 ---
+
+### 2021
+
+Ma sens, w sumie to ma sens, ciekawe co dalej:
+
+<img src="./img/november/germanyrestrictions.jpg"><br><br>
 
 ### 2020
 

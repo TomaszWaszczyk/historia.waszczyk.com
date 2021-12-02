@@ -8,6 +8,12 @@ tags:
   - Bitcoin
 ---
 
+### 2021
+
+Osobowość ludzi pracujących w korporacjach:
+
+<img src="./img/november/zlozonaosobowosc.jpeg"><br><br>
+
 ### 2020
 
 ## Może prawda a może nie
