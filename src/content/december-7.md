@@ -3,10 +3,14 @@ layout: post
 title: 7 grudnia
 image: img/december/kowalski.jpg
 author: Tomasz Waszczyk
-date: 2019-12-07T10:00:00.000Z
+date: 2020-12-07T10:00:00.000Z
 tags:
   - Józef Kowalski
 ---
+
+### 2021
+
+> PAP: Holandia/Inflacja największa od 40 lat (od września 1982 roku) - poinformował we wtorek Holenderski Urząd Statystyczny (CBS).
 
 ### 2020
 
