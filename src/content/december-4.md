@@ -3,10 +3,25 @@ layout: post
 title: 4 grudnia
 image: img/december/kowalczyk.jpg
 author: Tomasz Waszczyk
-date: 2019-12-04T10:00:00.000Z
+date: 2020-12-04T10:00:00.000Z
 tags:
   - Auschwitz
 ---
+
+### 2021
+
+Raport oparty na danych urzędów państwowych. Prezentacja wybranych, ilościowych aspektów tragicznych skutków „walki” z wirusem covid-19 w Polsce w okresie od marca 2020 do maja 2021.
+
+1. W Polsce i w wielu krajach europejskich nie było pierwszej fali zgonów. Str. 3
+2. Covid-19 nie jest bardziej zjadliwy niż podobne wirusy sezonowe. Str. 3
+3. Są w Europie kraje, gdzie nie było żadnych nadmiarowych zgonów. Str.5
+4. Epidemiologia jako nauka zaprzecza informacjom płynącym z rządowych komunikatów. Str.7
+5. „Liczba zakażonych” w Polsce nigdy nie była znana. Str. 8
+6. Blokada szpitali i masowy rozwój innych chorób śmiertelnych zakończony hekatombą przedwczesnych śmierci. Str. 9
+7. Hekatomba zgonów niecovidowych 2020/21. Str. 11
+8. Dane o zgonach covidowych nie mają źródła w procesach naturalnych, jakim jest umieranie. Str.14
+
+<a href="./documents/december/Prawdziwa_tragedia_narodu_polskiego_2020_2021_walka_z_covid_19_v1.pdf" target="_blank">Raport</a>
 
 ### 2020
 
@@ -26,6 +41,14 @@ Mamy w Polsce bardzo potężną siłę, która wyznaje filozofie: "Po co nam lot
 Ciekawostka: Archiwa służby bezpipieczeństwa w Polsce były/są ułożone według alfabetu.. rosyjskiego ;-)
 
 ---
+
+### 2014
+
+W Katowicach zmarł Kazimierz Świtoń. To On, jako pierwszy człowiek, publicznie oświadczył, że Lech Wałęsa to tajny współpracownik SB o pseudonimie "Bolek".
+
+<img src="./img/december/switon.jpeg"><br><br>
+
+> Rząd światowy zdecydował (…), że Polaków ma być 15 mln, i to zdrowych parobków żydowskich.
 
 ### 2003
 

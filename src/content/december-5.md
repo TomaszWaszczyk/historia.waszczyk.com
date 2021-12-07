@@ -3,9 +3,37 @@ layout: post
 title: 5 grudnia
 image: img/december/centralny.jpg
 author: Tomasz Waszczyk
-date: 2019-12-05T10:00:00.000Z
+date: 2020-12-05T10:00:00.000Z
 tags:
   - Tusk
+---
+
+### 2021
+
+<video width="640" height="480" controls>
+<source src="./movies/december/inflationpain.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/december/centralbanks.jpeg"><br><br>
+
+---
+
+Niemiecka klasa średnia
+
+Media od dawna stale donoszą, że Niemcy są państwem socjalnym … Niemiec pracuje powoli, Niemiec jest leniwy, a mimo to państwo niemieckie dba o Niemców – socjal mają wysoki … wysoki socjal ponoć nie skłania Niemców do pracy …
+
+Ale to jest półprawda… wskaźnik zatrudnienia jest w Niemczech dużo wyższy niż w Polsce…
+A majątki? … połowa Niemców ma tylko długi i nie ma nic… połowa Niemców pracuje na banki… a górne 10% ma 60% wszystkich dóbr… społeczeństwo niemieckie to drapieżny kapitalizm bez klasy średniej…
+
+<img src="./img/december/niemieckaklasasrednia.jpeg"><br><br>
+
+Niemcy nie mają klasy średniej.
+
+---
+
+<img src="./img/december/federalizacja.jpeg"><br><br>
+
 ---
 
 ### 2020

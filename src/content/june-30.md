@@ -97,6 +97,10 @@ Sukces tego sfałszowanego referendum utwierdził komunistów w przekonaniu,że 
 
 <img src="./img/june/trzypytania.jpg"><br><br>
 
+### 1944
+
+W okupowanym kraju Bataliony Chłopskie stanowiły poważną siłę. Stan ewidencyjny organizacji na dzień 30 czerwca 1944 r. wynosił 158 tys. ludzi.
+
 ### 1942
 
 Władze sowieckie ustami ministra spraw zagranicznych ZSRR Wiaczesława Mołotowa zaproponowały władzom brytyjskim przeniesienie Armii Polskiej generała Andersa na teren Środkowego Wschodu. Warto dodać, że o tej inicjatywie nie powiadomiono władz polskich w Londynie.

@@ -3,10 +3,21 @@ layout: post
 title: 6 grudnia
 image: img/december/olszewski.jpg
 author: Tomasz Waszczyk
-date: 2019-12-06T10:00:00.000Z
+date: 2020-12-06T10:00:00.000Z
 tags:
   - Olszewski
 ---
+
+### 2021
+
+II Niedziela Adwentu.
+
+Czy prezydent Izraela złożył już życzenia polskim katolikom z okazji Adwentu?
+Bo przecież prezydent POLSKI złożył życzenia Żydom z okazji chanuki...
+
+Ktoś - coś?
+
+<img src="./img/december/chanuka.jpeg"><br><br>
 
 ### 2018
 
