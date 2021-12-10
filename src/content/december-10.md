@@ -3,11 +3,15 @@ layout: post
 title: 10 grudnia
 image: img/december/massex.jpg
 author: Tomasz Waszczyk
-date: 2019-12-10T10:00:00.000Z
+date: 2020-12-10T10:00:00.000Z
 tags:
   - Github
 draft: false
 ---
+
+### 2021
+
+<img src="./img/december/specjalisci.jpeg"><br><br>
 
 ### 2020
 

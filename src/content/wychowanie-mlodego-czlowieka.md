@@ -112,6 +112,8 @@ https://unibot.us.edu.pl/dzieci-moga-patentowac/
 Your browser does not support the video tag.
 </video>
 
+* https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w
+
 ### Programowanie = szkoła myślenia
 
 * https://shelly.dev/

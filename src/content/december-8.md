@@ -3,9 +3,31 @@ layout: post
 title: 8 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2019-12-08T10:00:00.000Z
+date: 2020-12-08T10:00:00.000Z
 tags:
   - Sowieci
+---
+
+### 2021
+
+// wklejam 8 grudnia, ale Pani Jane wypowiadała się w innym dniu
+
+Dr Jane Goodall podczas panelu na Światowym Forum Ekonomicznym: gdyby było nas mniej, to nie byłoby problemu z klimatem.
+
+<img src="./img/december/janegoodall.jpg"><br><br>
+
+---
+
+Investment in identity management hits new high
+
+Figuring out better ways to ID and authenticate people isn’t new. While new methods are seeing slow adoption, they are also realizing large dollar investment from venture capitalists. This year has already seen $3.2 billion go into the identity management space—about 2.5x the amount of investment from last year’s $1.3 billion, which was already a record.
+
+---
+
+Science in 2021:
+
+<img src="./img/december/science2021.jpeg"><br><br>
+
 ---
 
 ### 2020

@@ -18,6 +18,14 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+---
+
+This one page document from the US government in 1918 on 'Spanish Flu' is more measured, more scientific, and more holistic than everything we have been fed for the past 2 years...
+
+<img src="./img/september/influenza.jpeg"><br><br>
+
+---
+
 ### 1985
 
 Władze komunistyczne zatrzymały uczonych z toruńskiego Uniwersytetu Mikołaja Kopernika - Jana Hanasza, Grzegorza Drozdowskiego, Zygmunta Turło, Leszka Zaleskiego i Eugeniusza Pazderskiego. Mężczyźni byli odpowiedzialni za przeprowadzenie spektakularnego ataku hakerskiego. Wyczynu tego dokonali dzięki komputerowi ZX Spectrum. We wrześniu 1985, podczas trwania ,,Dziennika Telewizyjnego" i serialu ,,07 zgłoś się'' na ekranach widzów pojawiły się hasła: ,,Solidarność Toruń Dość podwyżek cen, kłamstw, represji'' oraz ,,Solidarność Toruń Bojkot wyborów NASZYM obowiązkiem''. Eugeniusz Pazderski został wypuszczony na wolność z braku dowodów. Pozostałym mężczyznom wymierzono karę od roku do półtora w zawieszeniu na trzy lata.

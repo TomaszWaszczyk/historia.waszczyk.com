@@ -3,10 +3,22 @@ layout: post
 title: 9 grudnia
 image: img/december/ropa.jpg
 author: Tomasz Waszczyk
-date: 2019-12-09T10:00:00.000Z
+date: 2020-12-09T10:00:00.000Z
 tags:
   - Jaruzelski
 ---
+
+### 2021
+
+> Koniec giełdowej hossy może być blisko: Listopadowe spadki mogą nie okazać się czymś więcej niż zwykłą korektą. Późna faza cyklu koniunkturalnego oraz rozpoczęta niedawno seria podwyżek stóp procentowych przemawiają za zakończeniem covidowej hossy na warszawskim parkiecie.
+
+> Gdy blisko pół roku temu pisałem, że „to jeszcze nie powinien być szczyt hossy”, inflacja nie dawała się we znaki aż tak mocno i mało kto myślał o nadchodzących podwyżkach stóp procentowych. Od tamtego momentu do listopadowego szczytu WIG urósł o 12,5%, WIG20 o 11% , mWIG40 o blisko 20% i tylko sWIG80 rozczarował, od połowy czerwca do jesiennego szczytu zyskując raptem 5%. Jednakże już na początku grudnia, WIG, WIG20 oraz sWIG80 znalazły się poniżej poziomów z czerwca.
+
+---
+
+> Lewica złożyła w Sejmie projekt ustawy ws. obowiązku szczepień przeciw COVID-19 dla dorosłych
+
+<img src="./img/december/obowiazek.jpg"><br><br>
 
 ### 2020
 

@@ -51,6 +51,10 @@ https://en.wikipedia.org/wiki/Tony_Hoare => https://en.wikiquote.org/wiki/C._A._
 
 > There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
+### 1924
+
+Sejm uchwalił ustawę o naprawie skarbu i reformie walutowej, w wyniku której wprowadzony zostały złoty o parytecie równy frankowi szwajcarskiemu.
+
 ### 1755
 
 https://pl.wikipedia.org/wiki/Alexander_Hamilton
