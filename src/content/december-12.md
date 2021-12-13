@@ -3,7 +3,7 @@ layout: post
 title: 12 grudnia
 image: img/december/w20.png
 author: Tomasz Waszczyk
-date: 2019-12-12T10:00:00.000Z
+date: 2020-12-12T10:00:00.000Z
 tags:
   - WIG20
 draft: false

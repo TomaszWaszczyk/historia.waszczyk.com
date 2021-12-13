@@ -3,11 +3,17 @@ layout: post
 title: 11 grudnia
 image: img/december/dzieci.jpg
 author: Tomasz Waszczyk
-date: 2019-12-11T10:00:00.000Z
+date: 2020-12-11T10:00:00.000Z
 tags:
   - AK
 draft: false
 ---
+
+### 2021
+
+> European Central Bank: Bitcoin doesn't benefit society.
+
+<img src="./img/december/europeancentralbank.jpeg"><br><br>
 
 ### 2019
 

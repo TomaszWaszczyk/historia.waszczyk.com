@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/december/specjalisci.jpeg"><br><br>
 
+<img src="./img/december/impfen.jpeg"><br><br>
+
 ### 2020
 
 <img src="./img/december/chinacoding.jpg"><br><br>

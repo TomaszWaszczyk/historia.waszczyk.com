@@ -3,11 +3,19 @@ layout: post
 title: 13 grudnia
 image: img/december/praca.jpg
 author: Tomasz Waszczyk
-date: 2019-12-13T10:00:00.000Z
+date: 2020-12-13T10:00:00.000Z
 tags:
   - Sowieci
 draft: false
 ---
+
+### 2021
+
+Prawdopodobny szczyt cen mieszkań
+
+<img src="./img/december/szczytcenmieszkan.png"><br><br>
+
+> Ten, kto myślał, że najlepiej przeczekać sytuację w mieszkaniówce i odłożyć zakup mieszkania, już wie, że nie był to dobry pomysł. Ceny rosną w tempie dwucyfrowym i na razie nie widać, by miało się to zmienić.
 
 ### 2020
 
