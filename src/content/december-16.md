@@ -3,10 +3,24 @@ layout: post
 title: 16 grudnia
 image: img/december/wujek.jpg
 author: Tomasz Waszczyk
-date: 2018-12-16T10:00:00.000Z
+date: 2020-12-16T10:00:00.000Z
 tags:
   - ZOMO
 draft: false
+---
+
+### 2021
+
+<img src="./img/december/freiheit.jpeg"><br><br>
+
+---
+
+> Szydło w PE: pakiet Fit for 55 doprowadzi do zubożenia Europejczyków
+
+Komisja Europejska przyjęła największą w historii UE reformę klimatyczno-energetyczną. Celem jest zredukowanie do 2030 roku emisji CO2 o co najmniej 55 proc. w stosunku do roku 1990. Zmiany jednak oznaczają koszty, które odczują również zwykli obywatele.
+
+To jeden z kluczowych dokumentów tak zwanego Europejskiego Zielonego Ładu. Ma on na celu ograniczyć zmiany klimatu i degradację środowiska oraz sprawić, że gospodarki unijnych krajów będą nowoczesne, zasobooszczędne i konkurencyjne.
+
 ---
 
 ### 2020

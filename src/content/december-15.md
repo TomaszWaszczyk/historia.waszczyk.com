@@ -3,10 +3,37 @@ layout: post
 title: 15 grudnia
 image: img/december/boh.jpg
 author: Tomasz Waszczyk
-date: 2019-12-15T10:00:00.000Z
+date: 2020-12-15T10:00:00.000Z
 tags:
   - Polen
 draft: false
+---
+
+### 2021
+
+Polacy (oraz znaczna część Europy) zasługują na socjalizm* co już otwarcie pokazuje poniższa akcja.
+
+<img src="./img/december/socjalizmwpolsce.jpeg"><br><br>
+
+> Morawiecki: Jeżeli inflacja nie będzie spadać, będziemy rozwijać tarczę antyinflacyjną
+
+Jeśli rozdawanie pieniędzy będzie napędzało inflację, to w celu jej zwalczenia będziemy rozdawać jeszcze więcej pieniędzy! To wszystko idzie w publiczne media a ludzie w to wierzą i nie widzą problemu.
+
+*słabą walutę, wysokie stopy procentowe czyli wywłaszczenie zakredytowany salariat z nieruchomości oraz przymieranie głodem ~10-15lat z absurdalnie drogą energią elektryczną.
+
+<img src="./img/december/Morawiecki.jpg"><br><br>
+
+---
+
+> Rządowa Agencja Rezerw Strategicznych: Dziś do Polski dotarła dostawa 1,1 mln dawek dziecięcych szczepionek przeciw #COVID19 od Pfizer-BioNTech, które zostaną rozdysponowane po punktach szczepień. Kolejna dostawa planowana jest w styczniu.
+
+<video width="640" height="480" controls>
+<source src="./movies/december/premierpolski.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+@PremierRP @MZ_GOV_PL
+
 ---
 
 ### 2020
