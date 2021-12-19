@@ -3,7 +3,7 @@ layout: post
 title: 19 grudnia
 image: img/december/narutowicz.jpg
 author: Tomasz Waszczyk
-date: 2019-12-19T10:00:00.000Z
+date: 2020-12-19T10:00:00.000Z
 tags:
   - Gabriel Narutowicz
 draft: false

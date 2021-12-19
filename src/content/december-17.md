@@ -3,10 +3,33 @@ layout: post
 title: 17 grudnia
 image: img/december/klepacz.jpg
 author: Tomasz Waszczyk
-date: 2019-12-17T10:00:00.000Z
+date: 2020-12-17T10:00:00.000Z
 tags:
   - Balcerowicz
 draft: false
+---
+
+### 2021
+
+> Lagarde: Very unlikely ECB will raise rates in 2022
+
+<img src="./img/december/ecb.png"><br><br>
+
+ECB mocno podnosi prognozy inflacji: 
+ 
+2021: 2,2% -> 2,6% 
+2022: 1,7% -> 3,2%  
+2023: 1,5% -> 1,8% 
+2024: 1,8%
+
+---
+
+<img src="./img/december/wyszczepianiedzieci.jpg"><br><br>
+
+---
+
+> Grzechy cielesne nie są najcięższe – powiedział papież podczas konferencji prasowej w samolocie, broniąc arcybiskupa Paryża Michela Aupetita, oskarżanego o romans sprzed lat. „Zresztą chodziło o drobne pieszczoty i masaże sekretarki” – dodał Franciszek.
+
 ---
 
 ### 2020

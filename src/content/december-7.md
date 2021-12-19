@@ -12,6 +12,14 @@ tags:
 
 > PAP: Holandia/Inflacja największa od 40 lat (od września 1982 roku) - poinformował we wtorek Holenderski Urząd Statystyczny (CBS).
 
+---
+
+Although the Senate finally voted to raise the debt limit on the night of Oct. 7 -- a mere 11 days before the US Treasury ran out of money -- this accommodation was only a short-term fix, as it only provided enough borrowing to hold the Treasury over until December. The House of Representatives followed suit.
+
+The US House then passed a bill on Dec. 7 that set up new procedures in the Senate to raise the debt limit. Rather than needing 60 votes (as required for most legislation in the Senate), the procedure sets up an additional vote on the issue that only requires a simple majority of Senate votes -- but just this one time. Mirroring the House, the Senate enacted this fast-track process. This maneuver allows the GOP to "wash its hands" of the decision by allowing Democrats to raise the debt ceiling on their own.
+
+---
+
 ### 2020
 
 "EU chce przyjąć 34 miliony emigrantów, dać im mieszkanie, przywileje socjalne i obywatelstwo czyli prawo głosu. Jeśli lewica europejska da im prawa wyborcze, będzie miała ich głosy przez dziesięciolecia.
