@@ -3,7 +3,7 @@ layout: post
 title: 21 grudnia
 image: img/december/afganistan.jpg
 author: Tomasz Waszczyk
-date: 2019-12-21T10:00:00.000Z
+date: 2020-12-21T10:00:00.000Z
 tags:
   - Afganistan
 draft: false

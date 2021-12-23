@@ -3,10 +3,16 @@ layout: post
 title: 23 grudnia
 image: img/december/volksweihnacht-1.jpg
 author: Tomasz Waszczyk
-date: 2019-12-23T10:00:00.000Z
+date: 2020-12-23T10:00:00.000Z
 tags:
   - Orlen = RSW
 ---
+
+### 2021
+
+Styczniowe posiedzenie RPP (04.01) będzie mieć miejsce jeszcze przed publikacją danych o inflacji CPI za miesiąc grudzień (08.01).
+
+To pierwszy taki przypadek od momentu, gdy GUS publikuje flashowe dane o inflacja w Polsce. 
 
 ### 2020
 
