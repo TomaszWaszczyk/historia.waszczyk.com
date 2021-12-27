@@ -12,6 +12,12 @@ tags:
 
 > Kościński (Minister Finansów): w 2022 roku będziemy mieć średnią inflację 7-8%
 
+---
+
+> Turkey’s President to send Bitcoin and crypto law to parliament “soon without delay.”
+
+---
+
 ### 2020
 
 <img src="./img/december/gold20.jpeg"><br><br>

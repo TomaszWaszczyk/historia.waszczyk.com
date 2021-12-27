@@ -3,9 +3,35 @@ layout: post
 title: 28 grudnia
 image: img/december/sievers.jpg
 author: Tomasz Waszczyk
-date: 2019-12-28T10:00:00.000Z
+date: 2020-12-28T10:00:00.000Z
 tags:
   - Sowieci
+---
+
+### 2021
+
+> Trzeba się przygotowywać na najgorsze – mówi mer ukraińskiej stolicy Witalij Kliczko. W mieście formowany jest sztab obrony terytorialnej.
+
+<img src="./img/december/kliczko.webp"><br><br>
+
+---
+
+Yorke Rhodes, the Director of Digital Transformation at Microsoft, has acknowledged and hailed the outstanding use cases embedded in Ethereum, the world’s largest smart contracts platform.
+
+According to Rhodes, Ethereum is growing to gain even more adoption in the future and become the go-to hub for apps by 2023.
+
+---
+
+> Kościński: Stać nas na kolejne tarcze antyinflacyjne.
+
+<img src="./img/december/koscinski.webp"><br><br>
+
+Budżet Państwa stać na uruchomienie kolejnych tarcz antyinflacyjnych - deklaruje minister finansów Tadeusz Kościński w poniedziałkowym wydaniu "Polska The Times"
+
+Założyliśmy deficyt na ten rok na poziomie 40 mld zł. Na koniec października mieliśmy nadwyżkę, w wysokości ok. 52 mld zł. Więc przez dwa miesiące - teoretycznie powinniśmy wydać około 90 mld zł. Tego oczywiście nie zrobimy" - powiedział dziennikowi szef resortu finansów.
+
+"Tworzymy pewne poduszki finansowe. Chcielibyśmy je wykorzystywać na finansowanie inwestycji, ale gdyby była taka sytuacja, że COVID-19 nie odpuści czy inflacja będzie dalej na wysokim poziomie, to będą pieniądze na pomoc" – dodał.
+
 ---
 
 ### 2020

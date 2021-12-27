@@ -3709,6 +3709,10 @@ Im dalej od wojny tym więcej kombatantów.
 
 Mówienie bardzo przeszkadza w słuchaniu - Kubuś Puchatek
 
+Myślenie kończy się tam gdzie zaczyna się mundur.
+
+Interwencja jest jak szybka parmeńska - musi dojrzeć.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 
