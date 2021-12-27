@@ -3,10 +3,22 @@ layout: post
 title: 24 grudnia
 image: img/december/ox2021.jpeg
 author: Tomasz Waszczyk
-date: 2019-12-24T10:00:00.000Z
+date: 2020-12-24T10:00:00.000Z
 tags:
   - 0x - Wigilia 2020 - China - Japan
 ---
+
+### 2021
+
+Były premier Francji Francois Fillon dołączył do zarządu największego rosyjskiego koncernu petrochemicznego Sibur – podała spółka w komunikacie.
+
+To kolejna intratna posada byłego premiera Francji. W czerwcu tego roku Fillon został wyznaczony przez rząd Rosji na stanowisko rady dyrektorów koncernu naftowego Zarubieżnieft. Reprezentuje w niej Kreml, który jest jednym z udziałowców spółki.
+
+To niejedyny emerytowany europejski polityk, który znalazł intratną posadę w rosyjskich spółkach. Przykładem jest chociażby były kanclerz Niemiec Gerhard Shroeder, który w ciągu kilku tygodni od opuszczenia stanowiska w 2005 r. został mianowany szefem rady dyrektorów kontrolowanego przez Rosjan Nord Stream. Dziś jest też zaangażowany w budowę Nord Stream 2 – gazociągu, który połączy Rosję i Niemcy, uderzając w interesy Polski. Natomiast w 2017 r. został wybrany na szefa rady dyrektorów rosyjskiego koncernu naftowego Rosnieft.
+
+Do rosyjskiego koncernu Lukoil trafił były kanclerz Austrii Wolfgang Schüssel. Z kolei była minister spraw zagranicznych Austrii Karin Kneissl otrzymała nominację do rady dyrektorów Rosnieftu.
+
+<img src="./img/december/jawnakorupcja.png"><br><br>
 
 ### 2020
 

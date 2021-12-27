@@ -3,10 +3,14 @@ layout: post
 title: 27 grudnia
 image: img/december/walesa.jpg
 author: Tomasz Waszczyk
-date: 2019-12-27T10:00:00.000Z
+date: 2020-12-27T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2021
+
+> Kościński (Minister Finansów): w 2022 roku będziemy mieć średnią inflację 7-8%
 
 ### 2020
 
