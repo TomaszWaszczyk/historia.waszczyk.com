@@ -34,6 +34,10 @@ Założyliśmy deficyt na ten rok na poziomie 40 mld zł. Na koniec październik
 
 ---
 
+Putin zlikwidował Stowarzyszenie Memoriał, konsekwentnie krocząc drogą wybielania okresu stalinowskiego. To dzięki Memoriałowi odkrywaliśmy m.in. nieznane fakty o zbrodni katyńskiej czy polskiej czystce w latach 30.
+
+---
+
 ### 2020
 
 "człowiek wolności"

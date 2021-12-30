@@ -3,9 +3,29 @@ layout: post
 title: 29 grudnia
 image: img/december/victor.jpg
 author: Tomasz Waszczyk
-date: 2019-12-29T10:00:00.000Z
+date: 2020-12-29T10:00:00.000Z
 tags:
   - VAT
+---
+
+### 2021
+
+<img src="./img/december/plebiscyt_2021_01_zdrowie.png"><br><br>
+
+---
+
+500000 zgonów
+
+<img src="./img/december/zgony2021.jpeg"><br><br>
+
+<img src="./img/december/zgony2021_2.jpeg"><br><br>
+
+---
+
+> Kaczyński: Możliwe kolejne podwyżki stóp. Glapiński powinien zostać na drugą kadencję
+
+<img src="./img/december/kaczpodwyzki.webp"><br><br>
+
 ---
 
 ### 2020

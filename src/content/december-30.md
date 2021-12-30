@@ -3,9 +3,23 @@ layout: post
 title: 30 grudnia
 image: img/december/kwiatkowski.jpeg
 author: Tomasz Waszczyk
-date: 2019-12-30T10:00:00.000Z
+date: 2020-12-30T10:00:00.000Z
 tags:
   - JP Morgan
+---
+
+### 2021
+
+> Już połowa wszystkich zapasów zbóż, kukurydzy i ryżu znajduje się obecnie w Chinach. Państwo Środka masowo wykupuje surowce żywnościowe. Efekt? Jedzenie będzie coraz droższe.
+
+<img src="./img/december/zywnoscchiny.webp"><br><br>
+
+---
+
+A jednak, pękła 4. Odsetki od długu PL🇵🇱 przebiły dzisiaj na chwilę 4%. To najwyższy poziom od prawie 10 lat. "Świat niskich stóp procentowych" znika w mgnieniu oka. Nie ma żadnej nowej ekonomii, jest po prostu ekonomia. Drukowanie, rozdawnictwo na lewo i prawo tak się kończy.
+
+<img src="./img/december/ply5yrs-bond.png"><br><br>
+
 ---
 
 ### 2020
