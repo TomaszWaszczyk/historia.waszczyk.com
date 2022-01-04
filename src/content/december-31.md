@@ -3,9 +3,23 @@ layout: post
 title: 31 grudnia
 image: img/december/Wiesenthal.jpg
 author: Tomasz Waszczyk
-date: 2019-12-31T10:00:00.000Z
+date: 2020-12-31T10:00:00.000Z
 tags:
   - Księstwo Litewskie
+---
+
+### 2021
+
+Bełkot:
+
+> “Wspólnie będziemy walczyć z inflacją. Jestem przekonany że będzie to walka zwycięska, ale musimy rzeczywiście zastosować nowe instrumenty finansowe, nowe instrumenty gospodarcze, inwestycyjne i je zastosujemy” – powiedział premier Mateusz Morawiecki.
+
+---
+
+Nuta prawdy:
+
+> NBP podnosi prognozę inflacji na 2022. W przyszłym roku średnio ceny mają wzrosnąć o 7,6%
+
 ---
 
 ### 2020

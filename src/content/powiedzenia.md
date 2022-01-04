@@ -3713,6 +3713,8 @@ Myślenie kończy się tam gdzie zaczyna się mundur.
 
 Interwencja jest jak szybka parmeńska - musi dojrzeć.
 
+Służ komuś wiernie to ci w gębę piernie.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 

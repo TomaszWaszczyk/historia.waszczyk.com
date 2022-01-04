@@ -3,14 +3,34 @@ layout: post
 title: 1 stycznia
 image: img/january/wolna-europa.jpg
 author: Tomasz Waszczyk
-date: 2020-01-01T10:00:00.000Z
+date: 2021-01-01T10:00:00.000Z
 tags:
   - Radio Wolna Europa
 ---
 
-### 2023
+### ~2023
 
 Prawdopodobnie wchodzi w życie prawo na Ukrainie o możliwości kupowania przez osoby prawne gruntów.
+
+### 2022
+
+:D
+
+<img src="./img/january/newyear.jpeg"><br><br>
+
+---
+
+Onet uczy jak wiedzieć czy ma się kaca czy omikrona
+
+<img src="./img/january/kacaomikron.png"><br><br>
+
+---
+
+Czułości medyków:
+
+<img src="./img/january/klimatmedykow.png"><br><br>
+
+<img src="./img/january/czuloscimedykow2.png"><br><br>
 
 ### 2020
 

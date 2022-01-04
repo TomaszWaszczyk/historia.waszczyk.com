@@ -3,7 +3,7 @@ layout: post
 title: 4 stycznia
 image: img/january/sikorski.jpg
 author: Tomasz Waszczyk
-date: 2020-01-04T10:00:00.000Z
+date: 2021-01-04T10:00:00.000Z
 tags:
   - Kolejki głodu
 draft: false
@@ -40,6 +40,12 @@ Za osiągnięcia w wypełnianiu zadań bojowych odznaczony został Krzyżem Sreb
 Za zasługi powojenne został odznaczony Krzyżem Komandorskim Orderu Odrodzenia Polski.
 
 <img src="./img/january/gora.jpg"/><br><br>
+
+### 1995
+
+W styczniu 1995 nastąpiła denominacja w stosunku 10 000 do 1. Za naszego życia pewnie doczekamy czasów gdzie za worek banknotów dostaniemy portfel sprzętowy z adekwatną ilością PL COIN... A miny będziemy mieli takie same jak jegomość ze zdjęcia.
+
+<img src="./img/january/denominacja.jpeg"><br><br>
 
 ### 1969
 
