@@ -3,11 +3,21 @@ layout: post
 title: 5 stycznia
 image: img/january/eisenhover.jpg
 author: Tomasz Waszczyk
-date: 2020-01-05T10:00:00.000Z
+date: 2021-01-05T10:00:00.000Z
 tags:
   - Józef Beck
 draft: false  
 ---
+
+### 2022
+
+<img src="./img/january/imprezyikoncerty.jpeg"><br><br>
+
+<img src="./img/january/jakkazdeinne.jpeg"><br><br>
+
+<img src="./img/january/ostro.png"><br><br>
+
+<img src="./img/january/pogromplus.jpeg"><br><br>
 
 ### 2021
 
