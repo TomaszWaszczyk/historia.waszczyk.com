@@ -3,11 +3,15 @@ layout: post
 title: 6 stycznia
 image: img/january/hipolit.jpg
 author: Tomasz Waszczyk
-date: 2020-01-06T10:00:00.000Z
+date: 2021-01-06T10:00:00.000Z
 tags:
   - Hotele
 draft: false  
 ---
+
+### 2022
+
+> Cryptocurrencies are the future and could replace the dollar in 10 years, says chess grandmaster Garry Kasparov
 
 ### 2021
 
