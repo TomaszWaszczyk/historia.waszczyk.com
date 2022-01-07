@@ -9,6 +9,12 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+O mikrofirmach często mówi się, że są kołem zamachowym polskiej gospodarki. Inną opinią podzieliła się Anna-Maria Żukowska. Posłanka Lewicy określiła je jako "biedafirmy" pod artykułem, w którym punktowano, że w najmniejszych podmiotach płaci się relatywnie niskie pensje. Na Twitterze zawrzało: krytyki polityczce nie szczędzą przedsiębiorcy czy ekonomiści.
+
+<img src="./img/january/zukowska.webp"><br><br>
+
 ### 2021
 
 ## Waluty wirtualne zmienią sposób otrzymywania wynagrodzeń?

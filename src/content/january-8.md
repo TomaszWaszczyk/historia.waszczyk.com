@@ -3,10 +3,26 @@ layout: post
 title: 8 stycznia
 image: img/january/wilson.jpg
 author: Tomasz Waszczyk
-date: 2020-01-08T10:00:00.000Z
+date: 2021-01-08T10:00:00.000Z
 tags:
   - Woodrow Wilson
 draft: false  
+---
+
+### 2022
+
+> Morawiecki: Obniżymy VAT na paliwa z 23 proc. do 8 proc.
+
+Podatki stopniowo (prawdopodobnie) będą zmniejszane, podatki związane z konsumpcją.
+
+---
+
+> Gomułka: RPP powinna podnieść stopy do 6-8 proc.
+
+<img src="./img/january/gomulka.webp"><br><br>
+
+> Inflacja ma w tym roku wynieść średniorocznie blisko 8 proc. - przewiduje NBP. Aby spowolnić wzrost cen i przeciwdziałać utrwaleniu groźnego trendu, Rada Polityki Pieniężnej rozpoczęła cykl podwyżek, podnosząc stopę referencyjną z 0,1 proc. do 2,25 proc. Zdaniem głównego ekonomisty BCC Stanisława Gomułki to zdecydowanie za mało.
+
 ---
 
 ### 2021

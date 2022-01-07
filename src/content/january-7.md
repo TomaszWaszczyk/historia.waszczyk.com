@@ -36,6 +36,11 @@ Zdjęcia zrobione dziś w niemieckim gospodarstwie.
 
 Zmarł Murray N. Rothbard.
 
+---
+
+<img src="./img/january/smokecamels.jpeg"><br><br>
+
+---
 ### 1949
 
 W gmachu Ministerstwa Bezpieczeństwa Publicznego przy Koszykowej róg al. Ujazdowskich w Warszawie został zamordowany w czasie śledztwa Jan Rodowicz ,,Anoda'' - harcerz 21. Warszawskiej Drużyny Harcerzy im. gen. Ignacego Prądzyńskiego oraz słynnej „Pomarańczarni” (23 WDH im. Króla Bolesława Chrobrego), student Politechniki, żołnierz oddziału harcerskiego Grup Szturmowych Szarych Szeregów, w Powstaniu warszawskim zastępca dowódcy plutonu ,,Felek'', kompanii ,,Rudy'', batalionu ,,Zośka'', w akcji pod Arsenałem dowódca sekcji ,,butelki'', sierżant podchorąży - porucznik rezerwy piechoty ZWZ-AK, odznaczony Virtuti Militari V-ej klasy i dwukrotnie Krzyżem Walecznych . Jan Rodowicz został aresztowany w Wigilię 1948 roku. Aresztowanie Anody zainicjowała podpułkownik Julia Brystiger, ale formalny nakaz aresztowania wydał w tej sprawie major Wiktor Herer, czyli ówczesnym naczelnik Wydziału IV Młodzieży Departamentu V MBP, który po wielu latach usiłował wytłumaczyć swoją decyzję tym,, że aresztując „Anodę”, chcieli wraz z Brystigier uchronić go przed o wiele groźniejszym w skutkach dostaniem się w ręce słynącego z sadyzmu szefa Departamentu Śledczego, Józefa Różańskiego.
