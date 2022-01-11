@@ -196,6 +196,11 @@ export interface PostCardProps {
   post: PageContext;
 }
 
+// const monthNames = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
+// TODO
+// const d = new Date();
+// console.info( monthNames[d.getMonth()] );
+
 const PostCard: React.FC<PostCardProps> = ({ post }) => {
   return (
     <article

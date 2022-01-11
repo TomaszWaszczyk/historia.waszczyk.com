@@ -3,10 +3,33 @@ layout: post
 title: 11 stycznia
 image: img/january/socialism2021.png
 author: Tomasz Waszczyk
-date: 2020-01-11T10:00:00.000Z
+date: 2021-01-11T10:00:00.000Z
 tags:
   - Computer science
 draft: false  
+---
+
+### 2022
+
+Idiokracja to rzeczywistość:
+
+<img src="./img/january/idiokracja.png"><br><br>
+
+---
+
+<img src="./img/january/emeryci.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/cenyurzedowe.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+> Pfizer CEO says two doses of the poke "offer very limited protection, if any" (see video). He also says the pokes "don't have the safety profile" Pfizer hoped for.
+
 ---
 
 ### 2021

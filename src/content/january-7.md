@@ -3,7 +3,7 @@ layout: post
 title: 7 stycznia
 image: img/january/motti.jpg
 author: Tomasz Waszczyk
-date: 2020-01-07T10:00:00.000Z
+date: 2021-01-07T10:00:00.000Z
 tags:
   - Ministerstwo Bezpieczeństwa Publicznego
 draft: false  

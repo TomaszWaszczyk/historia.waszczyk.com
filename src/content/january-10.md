@@ -3,10 +3,28 @@ layout: post
 title: 10 stycznia
 image: img/january/lublin.jpg
 author: Tomasz Waszczyk
-date: 2020-01-10T10:00:00.000Z
+date: 2021-01-10T10:00:00.000Z
 tags:
   - Rzeczpospolita Obojga Narodów
 draft: false  
+---
+
+### 2022
+
+> 94% emerytów zyska na zmianach podatkowych.
+
+<img src="./img/january/polskilad.jpg"><br><br>
+
+### 2021
+
+> "Jeżeli popatrzymy na średnioroczną inflację względem 2021 roku, to w 2022 wyniesie ona ok. 7 proc. W mojej ocenie od drugiego półrocza tego roku będziemy obserwowali stopniowe wygaszanie inflacji, więc jej dynamika będzie coraz niższa" - Paweł Borys
+
+---
+
+FAZ: Putin dąży do nowej Jałty i stref wpływu w Europie
+
+Władimir Putin dąży do nowej Jałty i podziału Europy na strefy wpływów. Zachód nie powinien ustępować w kwestii prawa do wolnego wyboru sojuszy. Czy Emmanuel Macron podejmie rozmowy z Kremlem na własną rękę?
+
 ---
 
 ### 2021

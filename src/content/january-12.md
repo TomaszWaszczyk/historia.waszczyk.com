@@ -3,11 +3,17 @@ layout: post
 title: 12 stycznia
 image: img/january/usdm1-2021.jpeg
 author: Tomasz Waszczyk
-date: 2020-01-12T10:00:00.000Z
+date: 2021-01-12T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2022
+
+mBank:
+
+<img src="./img/january/stopyzamrozenie.png"><br><br>
 
 ### 2021
 
