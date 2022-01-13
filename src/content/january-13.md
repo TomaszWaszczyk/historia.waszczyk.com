@@ -3,10 +3,33 @@ layout: post
 title: 13 stycznia
 image: img/january/lagarde.png
 author: Tomasz Waszczyk
-date: 2020-01-13T10:00:00.000Z
+date: 2021-01-13T10:00:00.000Z
 tags:
   - Negative interest rates
 draft: false
+---
+
+### 2022
+
+Wygląda na to, że rząd będzie budował hale do e-sportu aby dzieci nie siedziały przed komputerami.
+
+<video width="640" height="480" controls>
+<source src="./movies/january/esport.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+!!!!!!!!!!!!!!!
+
+QT pace question into context:  2.5T of US Treasuries maturing until end of '24, a monthly run-off pace up to 70bn/month if everything was allowed to mature w/out reinvestment. MBS long-dated (frequently pre-paid). Fed wants to normalize MBS more than USTs. Tttl Fed assets 8.8trn
+
+<img src="./img/january/fedsoma.png"><br><br>
+
+---
+
+Bank centralny Rosji opublikował strukturę swoich aktywów rezerwowych. Na znaczeniu zyskały euro i juany, tracił natomiast dolar. Prominentną rolę odgrywało złoto.
+
 ---
 
 ### 2021

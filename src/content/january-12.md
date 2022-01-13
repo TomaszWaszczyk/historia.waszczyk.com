@@ -11,9 +11,35 @@ draft: false
 
 ### 2022
 
+<img src="./img/january/omikron.jpeg"><br><br>
+
+---
+
 mBank:
 
 <img src="./img/january/stopyzamrozenie.png"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/apelacjapremiera.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Dyrektor generalny Pfizer: "Dwie dawki szczepionki zapewniaja bardzo ograniczona ochrone, jesli w ogole..Pracujemy wiec nad nowa szczepionka".
+
+<video width="640" height="480" controls>
+<source src="./movies/january/newversion.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/january/premier.jpg"><br><br>
+
+---
 
 ### 2021
 
