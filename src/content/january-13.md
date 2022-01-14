@@ -20,6 +20,13 @@ Your browser does not support the video tag.
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/january/au.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 !!!!!!!!!!!!!!!
 
 QT pace question into context:  2.5T of US Treasuries maturing until end of '24, a monthly run-off pace up to 70bn/month if everything was allowed to mature w/out reinvestment. MBS long-dated (frequently pre-paid). Fed wants to normalize MBS more than USTs. Tttl Fed assets 8.8trn

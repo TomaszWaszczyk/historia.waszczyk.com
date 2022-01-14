@@ -3,11 +3,17 @@ layout: post
 title: 14 stycznia
 image: img/january/lagarde2.jpeg
 author: Tomasz Waszczyk
-date: 2020-01-14T10:00:00.000Z
+date: 2021-01-14T10:00:00.000Z
 tags:
   - Pakistan
 draft: false  
 ---
+
+### 2022
+
+Clown world:
+
+<img src="./img/january/wearingmask.png"><br><br>
 
 ### 2021
 
