@@ -3,7 +3,7 @@ layout: post
 title: 15 stycznia
 image: img/january/powstanie-styczniowe.jpg
 author: Tomasz Waszczyk
-date: 2020-01-15T10:00:00.000Z
+date: 2021-01-15T10:00:00.000Z
 tags:
   - Powstanie styczniowe
 draft: false  

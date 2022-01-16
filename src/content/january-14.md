@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+Trzynastu z siedemnastu członków Rady Medycznej rezygnuje z doradzania rządowi w sprawie epidemii.
+
+---
+
 Clown world:
 
 <img src="./img/january/wearingmask.png"><br><br>

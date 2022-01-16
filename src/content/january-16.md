@@ -3,11 +3,17 @@ layout: post
 title: 16 stycznia
 image: img/january/herman.jpg
 author: Tomasz Waszczyk
-date: 2020-01-16T10:00:00.000Z
+date: 2021-01-16T10:00:00.000Z
 tags:
   - Szachy
 draft: false
 ---
+
+### 2022
+
+Decentrlizacja bankowości, świata na jednym obrazku. W
+
+<img src="./img/january/decentralizacja.jpg"><br><br>
 
 ### 2021
 
