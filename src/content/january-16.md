@@ -11,9 +11,15 @@ draft: false
 
 ### 2022
 
-Decentrlizacja bankowości, świata na jednym obrazku. W
+Decentralizacja bankowości oraz świata na jednym obrazku.
 
 <img src="./img/january/decentralizacja.jpg"><br><br>
+
+---
+
+<img src="./img/january/kredytyrpp.jpg"><br><br>
+
+---
 
 ### 2021
 

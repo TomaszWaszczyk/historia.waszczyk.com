@@ -3,7 +3,7 @@ layout: post
 title: 17 stycznia
 image: img/january/glapinski2021.jpg
 author: Tomasz Waszczyk
-date: 2020-01-17T10:00:00.000Z
+date: 2021-01-17T10:00:00.000Z
 tags:
   - Ujemne stopy w Polsce
 ---

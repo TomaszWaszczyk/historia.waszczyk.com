@@ -3,9 +3,25 @@ layout: post
 title: 18 stycznia
 image: img/january/twardowski.jpg
 author: Tomasz Waszczyk
-date: 2020-01-18T10:00:00.000Z
+date: 2021-01-18T10:00:00.000Z
 tags:
   - Jan Twardowski
+---
+
+### 2022
+
+> Fidelity: ‘Countries That Secure Some Bitcoin Today Will Be Better Off Than Their Peers’
+
+Even if a country doesn’t agree with the fundamentals of bitcoin, they will be forced to acquire some as a form of insurance, Fidelity wrote in a recent report.
+
+---
+
+Polski Ład receptą na "problemy" przedsiębiorców..
+
+<img src="./img/january/gaz.jpg"><br><br>
+
+<img src="./img/january/socjalizm.png"><br><br>
+
 ---
 
 ### 2021

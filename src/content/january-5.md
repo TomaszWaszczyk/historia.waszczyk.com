@@ -19,6 +19,8 @@ draft: false
 
 <img src="./img/january/pogromplus.jpeg"><br><br>
 
+<img src="./img/january/czwartadawka.jpeg"><br><br>
+
 ### 2021
 
 <img src="./img/january/theeconomist-inflation.png"><br><br>
