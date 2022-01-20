@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 18 stycznia
-image: img/january/twardowski.jpg
+image: img/january/gaz.jpg
 author: Tomasz Waszczyk
 date: 2021-01-18T10:00:00.000Z
 tags:

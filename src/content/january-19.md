@@ -3,10 +3,50 @@ layout: post
 title: 19 stycznia
 image: img/january/ak.jpg
 author: Tomasz Waszczyk
-date: 2020-01-19T10:00:00.000Z
+date: 2021-01-19T10:00:00.000Z
 tags:
   - Armia Krajowa
 draft: false  
+---
+
+### 2022
+
+<a href="./documents/january/GermanAnalysis.pdf" target="_blank">German Analysis about vaccines.</a>
+
+---
+
+Hołd Tuski
+
+<img src="./img/january/holdtuski.jpeg"><br><br>
+
+---
+
+> Gliwice. Znika kultowa piekarnia. Przestaje działać. Wszystko przez podwyżki cen gazu 
+
+Mieszkańcy Gliwic już nigdy nie spróbują kultowego chleba z kultowej piekarni w dzielnicy Ostropa. Lokal zamyka się na dobre. Wszystko przez wysokie podwyżki cen gazu. - Nie mamy szans na dalszą działalność - wyjaśnia Iwona Sobczak, właścicielka piekarni.
+
+---
+
+<img src="./img/january/dobrazmiana.jpg"><br><br>
+
+---
+
+> - To dynamika, z jaką do tej pory nie mieliśmy do czynienia - powiedział podczas specjalnej konferencji prasowej Adam Niedzielski
+
+<img src="./img/january/piatafala.jpg"><br><br>
+
+Administracja publiczna przechodzi na pracę zdalną. Minister apeluje do pracodawców.
+
+- Podjęliśmy decyzję o przejściu na pracę zdalną w administracji publicznej, za wyjątkiem tych zadań, które muszą być realizowane w sposób tradycyjny, by odpowiadać na potrzeby obywateli - zapowiedział w środę minister zdrowia Adam Niedzielski. Zaapelował również do pracodawców, by "gdzie tylko to możliwe, przechodzili na pracę zdalną". - Sytuacja robi się trudna - stwierdził szef resortu zdrowia.
+
+Gdy liczby wzrosną 2- albo 3-krotnie, automatycznie zwiększy się również liczba osób w kwarantannie. Szczególnie że w ostatnich tygodniach zmieniły się w tej sprawie przepisy.
+
+Dziś szczepienie nie wystarczy, by uniknąć kwarantanny w przypadku zakażenia członka rodziny. "Współdomownicy osób, które są chore na COVID-19 obowiązkowo muszą wykonać test na koronawirusa, bez względu na posiadany certyfikat" - czytamy na rządowych stronach.
+
+Naukowcy prognozujący przebieg epidemii nie zajmują się jednak szacowaniem liczby osób objętych kwarantanną.
+
+Nietrudno jednak wyobrazić sobie, że w połowie lutego z rynku pracy nagle "zniknie" 1-1,5 mln Polaków, skierowanych przez sanepid na kwarantannę. Do tego dochodzą setki tysięcy chorych. Dla rynku pracy to prawdziwa katastrofa.
+
 ---
 
 ### 1971
