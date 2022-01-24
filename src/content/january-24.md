@@ -3,10 +3,34 @@ layout: post
 title: 24 stycznia
 image: img/january/biden.webp
 author: Tomasz Waszczyk
-date: 2020-01-24T10:00:00.000Z
+date: 2021-01-24T10:00:00.000Z
 tags:
   - Katyń
 draft: false  
+---
+
+### 2022
+
+<img src="./img/january/czwartadawkaalemao.jpeg"><br><br>
+
+<img src="./img/january/booster.jpeg"><br><br>
+
+---
+
+"Na razie gasimy ten pożar"
+
+Z kolei dopytywany o to, czy może okazać się, że w przy rozliczeniu rocznym podatnicy będą musieli dopłacać znaczne kwoty, minister finansów odpowiedział:
+
+Na razie gasimy ten pożar, żeby pieniądze były dziś na rachunkach. Później będziemy sprawdzać, czy nie ma żadnych luk.
+
+Zrobię wszystko co mogę, żeby to skorygować - dodał.
+
+Nie można nic wykluczyć - stwierdził Kościński pytany o to, czy inflacja przekroczy 10 proc. - Oczywiście robimy wszystko, by schłodzić inflację, by nie rosła tak szybko - dodał.
+
+**Inflacja to w dużym procencie emocje. Jak będziemy mówili, że będzie wysoka inflacja, to będzie wysoka inflacja. Jeśli będziemy podchodzić do tego racjonalnie, spokojnie, to ta inflacja nie będzie tak szybko rosła, nie będzie presji i naturalnie spadnie - stwierdził minister finansów.**
+
+<img src="./img/january/koscinski2.jpg"><br><br>
+
 ---
 
 ### 2021
