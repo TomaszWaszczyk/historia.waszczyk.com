@@ -3,11 +3,23 @@ layout: post
 title: 25 stycznia
 image: img/january/mikolaj.jpg
 author: Tomasz Waszczyk
-date: 2020-01-25T10:00:00.000Z
+date: 2021-01-25T10:00:00.000Z
 tags:
   - Self-Sovereign
 draft: false  
 ---
+
+### 2022
+
+Czy czekają nas najszybciej rosnące stopy procentowe w historii Polski?
+
+> Piątkowa wypowiedź prezesa Narodowego Banku Polskiego Adama Glapińskiego wywarła duże wrażenie na uczestników rynku finansowego. Mocno w górę poszły rentowności polskich obligacji skarbowych. Złoty po początkowym umocnieniu zaczął tracić względem euro.
+
+> **Stopy procentowe w Polsce powinny wzrosnąć mocniej, niż obecnie oczekuje rynek,** biorąc pod uwagę ostatnie dane makro – powiedział, cytowany przez agencję Bloomberg, prezes NBP Adam Glapiński. To bardzo zaskakująca wypowiedź prezesa Glapińskiego, który przez całą pierwszą kadencję jako szef NBP dał się poznać jako zwolennik jak najniższych stóp procentowych. Jeszcze we wrześniu prezes NBP mówił, że „wzrost inflacji jest przejściowy” i że podniesienie stóp procentowych byłoby „szkolnym błędem”.
+
+> Przed piątkową wypowiedzią Adama Glapińskiego rynek terminowy spodziewał się, że do końca roku Wibor dojdzie w pobliże 4%. W poniedziałek rano kontrakty FRA 6x9 implikowały wzrost stopy procentowej w Polsce w pobliże 4,40%. W rezultacie mocno wzrosły rentowności polskich obligacji skarbowych. Papiery 10-letnie znów płacą prawie 4%. Także rentowność obligacji 5-letnich znalazła się w okolicach 4%. Warto dodać, że te ostatnie jeszcze pół roku temu płaciły nieco ponad 2%.
+
+<img src="./img/january/glapinskiwiecejprocent.webp"><br><br>
 
 ### 2021
 

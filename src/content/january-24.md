@@ -17,6 +17,20 @@ draft: false
 
 ---
 
+Darmowe testy w Polsce:
+
+<img src="./img/january/darmowetesty.jpg"><br><br>
+
+---
+
+Wrocław:
+
+<img src="./img/january/nopy-wroclaw.jpg"><br><br>
+
+<img src="./img/january/nopy-wroclaw2.jpg"><br><br>
+
+---
+
 "Na razie gasimy ten pożar"
 
 Z kolei dopytywany o to, czy może okazać się, że w przy rozliczeniu rocznym podatnicy będą musieli dopłacać znaczne kwoty, minister finansów odpowiedział:
@@ -30,6 +44,10 @@ Nie można nic wykluczyć - stwierdził Kościński pytany o to, czy inflacja pr
 **Inflacja to w dużym procencie emocje. Jak będziemy mówili, że będzie wysoka inflacja, to będzie wysoka inflacja. Jeśli będziemy podchodzić do tego racjonalnie, spokojnie, to ta inflacja nie będzie tak szybko rosła, nie będzie presji i naturalnie spadnie - stwierdził minister finansów.**
 
 <img src="./img/january/koscinski2.jpg"><br><br>
+
+---
+
+<img src="./img/january/graf.png"><br><br>
 
 ---
 
