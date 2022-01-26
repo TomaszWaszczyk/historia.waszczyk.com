@@ -21,6 +21,18 @@ Czy czekają nas najszybciej rosnące stopy procentowe w historii Polski?
 
 <img src="./img/january/glapinskiwiecejprocent.webp"><br><br>
 
+Zestawienie wypowiedzi pana G., zestawienie nie jest moje, lecz znalezione w sieci:
+
+1. 03-2020 "Jesteśmy doskonale przygotowani do obecnego kryzysu, złoty jest stabilny"
+2. 04-2020 "W obecnych warunkach inflacja jest ostatnim problemem, a w oczy zagląda nam groźba deflacji."
+3. 09-2020 "W przyszłym roku czeka nas prawdopodobnie dalszy spadek inflacji, co w obecnych uwarunkowaniach makroekonomicznych nie dziwi"
+4. 01-2021 "Nie rozumiem, skąd ogromne zaniepokojenie obserwatorów rzekomą groźbą inflacji"
+5. 04-2021 "Inflację podbijają czynniki, na które polityka NBP nie ma wpływu"
+6. 07-2021 "Inflacja jest przejściowa, nie ma przesłanek do zmian stóp"
+7. 10-2021 "My naprawdę, trzeba w to uwierzyć, jesteśmy taką średnią potęgą gospodarczą. Od czasów rozbiorów nie mieliśmy takich sukcesów" "My w tej chwili żadnej pożyczki nie bierzemy, jako kraj, ani jako Narodowy Bank Polski. Żadnej. To do nas przychodzi cały świat i chce od nas pożyczać"
+8. 12-2021 "Zmieniam retorykę. Inflacja nie jest przejściowa, inflacja jest uciążliwa"
+9. 01-2022 "Inflacja jest przejściowa. Szczyt w połowie roku - powyżej 8 proc"
+
 ### 2021
 
 Czy to wstęp do wprowadzania otwarcia dla społeczeństw (docelowego stanu) Self-Sovereign?

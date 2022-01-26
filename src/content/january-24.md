@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-Darmowe testy w Polsce:
+Darmowe testy w Polsce, jeśli test na COVID wyjdzie pozytywny pracownik dostaje 7 dni wolnego (kwarantanny):
 
 <img src="./img/january/darmowetesty.jpg"><br><br>
 

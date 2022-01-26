@@ -3,9 +3,48 @@ layout: post
 title: 26 stycznia
 image: img/january/brakprzemocy.jpg
 author: Tomasz Waszczyk
-date: 2020-01-26T10:00:00.000Z
+date: 2021-01-26T10:00:00.000Z
 tags:
   - Niemcy
+---
+
+### 2022
+
+> The International Monetary Fund’s executive board has recommended El Salvador no longer use Bitcoin as a legal tender, citing potential risks to financial stability and consumer protection. The country’s use of Bitcoin could make it difficult for it to get a loan from the IMF.
+
+<img src="./img/january/wyborcza-bitcoin.png"><br><br>
+
+<img src="./img/january/daniecki.png"><br><br>
+
+---
+
+Rosjanie zapowiedzieli w dniach 3-8 lutego ćwiczenia morskie na Atlantyku z użyciem ostrej amunicji w wyłącznej strefie ekonomicznej Irlandii.
+
+Niby nic, ale ktoś zadał sobie trudu, i nałożył na mapę pobliskie kable i światłowody telekomunikacyjne łączące Europę z USA.
+
+A od siebie dodam (pracujący w branży IT mogą potwierdzić w komentarzach), że w Irlandii i UK znajdują się potężne centra danych.
+Centra danych mają tam korporacje odpowiedzialne za obsługę większości biznesu w Europie (Microsoft, Amazon, Facebook, Google, IBM etc).
+
+<img src="./img/january/rosjanieirlandia.jpg"><br><br>
+
+---
+
+Andrzej Sadowski:
+
+"Po doświadczeniach ponad dwóch dekad widać, że przyjęcie euro przez kraje UE było sukcesem, ale wyłącznie politycznym. Przypomnijmy, że euro było przede wszystkim instrumentem integracji politycznej, która była i jest głównym celem europejskiej biurokracji. Państwa, które przyjęły euro zanotowały zauważalne obniżenie tempa wzrostu gospodarczego, a z drugiej strony nawet skokowy wzrost bezrobocia. Jednocześnie kraje te nie odniosły tych korzyści, na które wskazywano w raporcie NBP, czyli zmiana kolorów farby na banknotach, które są w obiegu nie zwiększyła sama z siebie wzrostu gospodarczego, ani też nie uporządkowała finansów publicznych, wręcz przeciwnie. Grecja jest przykładem, że mając euro można zbankrutować. Euro potraktowano jako odnowienie religii złotego cielca, do którego zaczęto modlić się o dobrobyt. Spekulacyjny krach finansowy 2007-2008 roku udowodnił, że euro nie jest tzw. bezpieczną przystanią. (...) Państwa strefy euro nie wyszły jeszcze z kryzysu tego roku mimo bilionów dodatkowo wpompowanych euro w ich gospodarki. Warto znać tak elementarne informacje o euro i nie taktować przyjęcia tej waluty jako sposobu do uwolnienia się od odpowiedzialności za własne państwo”.
+
+---
+
+Ułan Bator na Ukrainie według CNN:
+
+<img src="./img/january/ulanbator.jpeg"><br><br>
+
+---
+
+Prawdziwy dramat Polaków. Z dnia na dzień muszą płacić o 1000 zł
+
+Adam Glapiński, prezes Narodowego Banku Polskiego, w wypowiedzi dla Agencji Bloomberga wskazał, że należy się spodziewać dalszego wzrostu stóp. Oliwy do ognia dodały słowa, iż "podwyżka może być zaskakująca i przekroczyć rynkowe oczekiwania". Walka z szalejącą inflacją powoduje, że obrywają kredytobiorcy. Ich miesięczne raty rosną o setki złotych.
+
 ---
 
 ### 2021
@@ -139,6 +178,12 @@ Powiedział, że wizji jego państwa nie da się pogodzić z zasadą równości 
 ### 1880
 
 https://pl.wikipedia.org/wiki/Douglas_MacArthur
+
+### 1797
+
+Rosja, Austria i Prusy podpisały w Petersburgu ostateczną konwencję rozbiorową Rzeczypospolitej (konwencja petersburska). Dodany do niej tajny artykuł mówił, że „samo imię Polski będzie na zawsze wymazane z prawa narodów”.
+
+<img src="./img/january/alegoriapolskiumarlej.jpeg"><br><br>
 
 ### 1521
 
