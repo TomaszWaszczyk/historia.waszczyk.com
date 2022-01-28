@@ -3,11 +3,23 @@ layout: post
 title: 28 stycznia
 image: img/january/socjalizm2021.jpg
 author: Tomasz Waszczyk
-date: 2020-01-28T10:00:00.000Z
+date: 2021-01-28T10:00:00.000Z
 tags:
   - Państwo jako korporacja
 draft: false  
 ---
+
+### 2022
+
+// Czy celem jest 38mln?
+
+Liczba osób przebywających na kwarantannie przekroczyła ostatnio milion, a nie wszyscy mogą pracować zdalnie. W jakimś stopniu to będzie oddziaływać na gospodarkę (w jakim?), a perspektywa na luty nie jest lepsza.
+
+<img src="./img/january/stayathome.png"><br><br>
+
+---
+
+2024 r. nastąpi uwolnienie cen gazu dla ostatniej kategorii odbiorców objętych taryfowaniem – gospodarstw domowych. Politycy i przedstawiciele PGNiG zapewniają, że uwolnione ceny wcale nie muszą automatycznie poszybować w górę. Wszystko jednak zależy po prostu od tego, jak drogi będzie gaz na rynkach. Z tym może być niestety różnie.
 
 ### 2021
 

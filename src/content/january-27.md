@@ -9,6 +9,26 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+cena gazu: + 650%,
+cena energii: +340%,
+cena surowców: +/- 100%,
+płaca minimalna do góry, ZUS do góry, Paliwo do góry - a co za tym idzie, ceny wszystkich komplementarnych dóbr i usług muszą również wzrosnąć.
+
+Obniżka VAT na trzy miesiące niczego tu nie zmieni.
+
+<img src="./img/january/inflacja.jpg"><br><br>
+
+---
+
+Robert Oleniacz, ZWOLNIONY ratownik medyczny UJAWNIA szokujące kulisy działań lekarzy!
+
+Ratownik medyczny Robert Oleniacz został zwolniony ze szpitala w Lubartowie. Powodem był jego udział w proteście przeciwko Covidowej polityce i wypowiedziane na nim słowa. Wcześniej został już zwolniony ze szpitala w Lublinie.
+Podczas protestu przeciwko segregacji sanitarnej i obowiązkowi szczepień, organizowanym w sobotę 22 stycznia w Lublinie pod hasłem „Stop przymusowi szczepień, biedzie i bezprawiu”, przed setkami osób wystąpił ratownik medyczny Robert Oleniacz.
+
+---
+
 ### 2021
 
 Podczas wystąpienia na Światowym Forum Ekonomicznym w Davos przywódca Chin Xi Jinping przestrzegł w przed „nową zimną wojną” i dążeniem do globalnej dominacji. Xi po pierwsze zaczyna wystąpienie od stwierdzenia, iż pandemia jest daleka od zakończenia. Następnie wymienia cztery główne wyzwania stojące przed światem.

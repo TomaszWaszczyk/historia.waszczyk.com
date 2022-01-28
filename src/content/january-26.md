@@ -18,6 +18,20 @@ tags:
 
 ---
 
+Toksyczne opcje barierowe hitem sezonu?
+
+Coraz więcej banków zachęca eksporterow do kupowania opcji barierowych PUT EUR/PLN.
+
+Tym razem bariera OUT jest ustawiona na wysokości 4,40.
+
+Co ciekawe wszystkie banki oferują dokładnie tę samą barierę. Znakiem tego, źródło jest wspólne, a polskie banki jedynie działają jako lokalni dystrybutorzy.
+
+Poprzednio bariery były ustawiana na 4,53 i jak wiemy już jakiś czas temu się aktywowały - pozostawiając eksporterow bez ubezpieczenia z „ręką w nocniku”.
+
+Czyżby teraz zaczęła się wędrówka w dół do 4,40 aby i te bariery aktywować i powyłączać ubezpieczenia?
+
+---
+
 Rosjanie zapowiedzieli w dniach 3-8 lutego ćwiczenia morskie na Atlantyku z użyciem ostrej amunicji w wyłącznej strefie ekonomicznej Irlandii.
 
 Niby nic, ale ktoś zadał sobie trudu, i nałożył na mapę pobliskie kable i światłowody telekomunikacyjne łączące Europę z USA.
