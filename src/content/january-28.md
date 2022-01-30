@@ -17,9 +17,35 @@ Liczba osób przebywających na kwarantannie przekroczyła ostatnio milion, a ni
 
 <img src="./img/january/stayathome.png"><br><br>
 
+Trzeci rok z rzędu Państwo nie wypełnia obowiązków i zamyka szkoły rujnując edukację naszym dzieciom. Wszystko działa poza szkołami…to jest ostatni moment na to aby dzieci wróciły do normalnej stacjonarnej nauki. W innym przypadku nie bedzie co zbierac za 10-15 lat! Czy w ktoryms europejskim Panstwie szkoly rowniez zostaly zamkniete ? Jak najszybciej odsunac tych ludzi od decydowania o przyszlosci dzieci.
+
 ---
 
 2024 r. nastąpi uwolnienie cen gazu dla ostatniej kategorii odbiorców objętych taryfowaniem – gospodarstw domowych. Politycy i przedstawiciele PGNiG zapewniają, że uwolnione ceny wcale nie muszą automatycznie poszybować w górę. Wszystko jednak zależy po prostu od tego, jak drogi będzie gaz na rynkach. Z tym może być niestety różnie.
+
+---
+
+Jan 28 (Reuters) - Bank of America economists said on Friday that they expect the Federal Reserve to hike rates by 25 basis points seven times this year, beginning in March, adopting one of the most aggressive views on Fed tightening among major banks.
+
+---
+
+Doradcy podatkowi nazywają ją "królową innych ulg". Umożliwia odliczenie od dochodu 500 tys. zł rocznie, a nawet i więcej. Wyjaśniamy, jak działa ulga na zabytki, zwana także "Pałacykie plus".
+
+"Nie zajmujmy się jakąś groszową ulgą dla klasy średniej, skoro mamy 'Pałacyk plus'" – napisała w swoim poście w serwisie LinkedIn doradczyni podatkowa Jowita Pustuł. Chodzi o ulgę na zabytki zawartą w Polskim ŁadzieNowe rozwiązania podatkowe wprowadzają w ustawie PIT ulgę z tytułu wydatków ponoszonych na ochronę i konserwację zabytków. Co daje ulga? Odpowiedź na to pytanie znajdziemy w poście Jowity Pustuł.
+"Musisz kupić jakiś dworek lub pałacyk. Cokolwiek. Ważne żeby był wpisany do rejestru zabytków. Następnie wydajesz coś na roboty budowlane, renowację lub konserwację. Nie trzeba dużo. Wystarczy 1 zł" – wyjaśniła doradczyni.
+Ile odliczysz od dochodu?
+"Odliczasz poniesiony wydatek na nabycie pałacyku, nie więcej niż 500 zł za każdy 1m2 powierzchni użytkowej. Maksymalnie 500 tys. zł rocznie. Dodatkowo odejmujesz 50 proc. wydatków poniesionych na usługi budowlane, renowację, czy konserwację. Tu nie ma limitu. Wydasz 2 mln – odliczysz 1 mln. Wydasz 6 mln – odliczysz 3 mln. Sky is the limit. Dzięki 'Pałacyk plus' możesz obniżyć swój dochód do zera i nie płacić PIT. Przy innych ulgach np. rehabilitacyjnej jest limit (odliczenie - max 6 proc. dochodu), ale 'Pałacyk plus' nie ma limitu. Pałacyki są ważniejsze od niepełnosprawnych. To dlatego" – napisała Pustuł.
+
+---
+
+
+Robert Oleniacz, ZWOLNIONY ratownik medyczny UJAWNIA szokujące kulisy działań lekarzy! [WIDEO]
+
+– Nazywam się Robert Oleniacz. Jestem ratownikiem medycznym i pracuję w zawodzie od stycznia 2012 roku. Celem mojego działania jest zarówno tutaj, jak i w pogotowiu ratunkowym zachowanie jak największej liczby jednostek przy życiu. Fakty, które przedstawię poniżej występują wyłącznie z moich obserwacji – mówi o sobie i o zaistniałej sytuacji Robert Oleniacz.
+
+<img src="./img/january/oleniacz.webp"><br><br>
+
+---
 
 ### 2021
 
@@ -31,6 +57,14 @@ Podczas uroczystości podpisania Karty Narodów Zjednoczonych, dokumentu założ
 28 stycznia 1887 r., w Łodzi urodził się Artur Rubinstein, wirtuoz fortepianu, miłośnik cygar, patriota oraz znakomity artysta. Jego największą, życiową pasją była muzyka. Poświecił jej całe swoje życie i to ona uczyniła go wzorem do naśladowań dla wielu pokoleń muzyków. Pianista, zaliczany do najwybitniejszych muzyków XX w., wystąpił na scenie ok. 6 tys. razy. Koncertował w najważniejszych ośrodkach muzycznych całego świata. Propagował muzykę polską, zwłaszcza Fryderyka Chopina i Karola Szymanowskiego. Mawiał; "Kocham mój kraj rodzinny, ale jest to miłość, która nie ma nic wspólnego z nacjonalizmem czy szowinizmem. Małą część życia spędziłem w kraju, ale wszystko, co polskie, ma dla mnie nieodparty urok i często przyprawia mnie o nostalgię. Źródłem tego może być coś, co nazwałbym autentycznością. Pory roku na przykład są tu autentyczne, nie ma mowy o pomyłce, są tym, czym powinna być symfonia, czterema częściami, idealnie ze sobą zharmonizowanymi. Nie ma żadnego pomieszania, każda pora przeżywa swój krótki żywot, osiągając pełnię właściwego dla niej piękna".
 
 <img src="./img/january/rubinstein.jpg"/><br>
+
+### 1941
+
+Na warszawskie ulice wyjechały pierwsze taksówki z napędem drzewnym wyposażone w tak zwane gazogeneratory wytwarzające paliwo nazywane określeniem holzgaz. Pojawienie się tych pojazdów było efektem znacznego braku benzyny spowodowanego jej  wzmożonymi dostawami na front. Taksówki te opalane były zwykle drewnem bukowym, z którego na skutek destylacji rozkładowej pozyskiwano gaz napędzający dowolnie przerobiony samochód. 
+Jednym z przykładów takiej taksówki jest Mercedes 170 VG, który zużywał 15 kilogramów drewna na 100 kilometrów przy zapasie 30 kg drewna. 
+Eksploatacja tych aut przysparzała jednak dosyć dużo problemów, głównie ze względu na to, iż często należało usuwać smołę, a także, że w pojazdach, których silnik powinien dysponować elastycznością w zakresie dysponowanej mocy i obrotów, a generator mający pewną bezwładność w swoim cyklu pracy produkował gazu bądź za mało, bądź za dużo. Do tego dochodził problem rozpalania, a w momencie zatrzymania silnika należało produkowany gaz bądź spalić poza silnikiem, bądź wypuścić do atmosfery.
+
+<img src="./img/january/taksowki.jpg"><br><br>
 
 ### 1606
 

@@ -3,11 +3,19 @@ layout: post
 title: 29 stycznia
 image: img/january/polrus.jpg
 author: Tomasz Waszczyk
-date: 2020-01-29T10:00:00.000Z
+date: 2021-01-29T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2022
+
+Ojciec Rydzyk: Zaszczepiłem się trzy razy. Posłuchałem lekarzy
+
+Na sympozjum „Oblicza pandemii”, organizowanym przez należącą do Fundacji Lux Veritatis uczelnię w Toruniu, ojciec Tadeusz Rydzyk wyznał, że przyjął trzy dawki szczepionki przeciw COVID-19. - Ja posłuchałem lekarzy. Już znałem takich, co nie słuchali lekarzy. Wąchają kwiatki od spodu - tłumaczył.
+
+<img src="./img/january/rydzyk.jpg"><br><br>
 
 ### 2021
 
@@ -75,6 +83,14 @@ Nieustannie podkreślał i przypominał, że fałszywa historia jest mistrzynią
 Zanim tuzy polskiej ekonomii „odkryły kulturę”, recenzując w 1998 roku książkę Ojca Macieja Zięby „Papieże i kapitalizm” zauważył, że „ekonomia jest bowiem jednym ze składników kultury, a obie są od siebie wzajemnie zależne i powinny pozostawać ze sobą - posługując się językiem profesora Feliksa Konecznego - w stosunku współmierności. Upadek jednej z nich musi za sobą pociągnąć klęskę drugiej”.
 
 Krzysztof Dzierżawski pozostawił po sobie głębię myśli, z której pokolenia mogą czerpać wzory logicznego myślenia i analizowania jak u Fryderyka Bastiata, którego był gorącym w Polsce orędownikiem.
+
+### 1990
+
+Na XI Zjeździe PZPR przyjęto uchwałę o zakończeniu działalności partii.🤔 Dziś byli komuniści śmieją się w twarz prawdziwym działaczom Solidarności, którzy umierają w zapomnieniu i biedzie.
+
+<img src="./img/january/europoslowie.jpg"><br><br>
+
+Ełroposłowie.
 
 ### 1982
 

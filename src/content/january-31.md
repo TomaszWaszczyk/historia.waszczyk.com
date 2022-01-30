@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Ewolucja nauki.
+
+Przez wiele wiele lat uczono nas, że szczepionka chroni zaszczepionego przed chorobą. Nie chroni zaś sąsiada, który nie chce się zaszczepić. Wydawało się to logiczne i poparte nauką.
+
+Ale nastała era COVIDU i dawne prawdy naukowe legły w gruzach. Okazało się bowiem, że szczepionka chroni nie tylko mnie osobiscie, ale również sąsiada - a może nawet głównie sąsiada. Mówiono nam, że szczepiąc siebie, chronimy sąsiada. Wydawało się to nielogiczne. Przecież sąsiad może się sam zaszczepić nie liczac na mnie.
+
+Później okazało się, że moja szczpionka jednak nie chroni sąsiada, że jednak on sam musi się zaszczepić aby mieć ochronę.
+
+Po jakimś czasie okazało się jednak, że moja szczepionka nie chroni nawet mnie przed chorobą, lecz jedynie przed ciężkim przebiegiem tej choroby. A co z sąsiadem? Jego chyba też moja szczpionka nie chroni? A może jego chroni, ale mnie nie chroni, bo on się nie zaszczepił? Skomplikowane się to zaczęło robić.
+
+Zaczęto nam wmawiać kolejna naukową prawdę, że szczepionka chroni przed śmiercią, ale pod warunkiem, że wszyscy dookoła się zaszczepią. Tego póki co nie jesteśmy w stanie zweryfikować - dopóki będzie ktoś na świecie kto się nie zaszczepił. W takiej sytuacji zgony osób zaszczepionych mogą byc faktycznie skutkiem tego, że nie wszyscy się zaszczepili.
+
+Problem w tym, że tej tezy chyba nigdy nie uda sie zweryfikować pozytywnie. No bo ciężko będzie doprowadzić do sytuacji gdy 100% populacji ludzkiej bedzie zaszczepione. A wedle tej tezy - tylko wtedy szczepionki zaczną poprawnie działać i chronić przed chorobą oraz przed zgonem.
+
+Może robię błąd, że na drodze logiki matematycznej probuje rozwikłać ten problem. Może ten konkretny problem nie podlega logice matematycznej tylko jakiejś innej logice?
+
 ### 2021
 
 Czy tylko ja uważam, że to traktowanie ludzi jak już totalne bydło?
