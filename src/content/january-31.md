@@ -3,13 +3,23 @@ layout: post
 title: 31 stycznia
 image: img/january/brakslownormalniesiwydym.jpeg
 author: Tomasz Waszczyk
-date: 2020-01-31T10:00:00.000Z
+date: 2021-01-31T10:00:00.000Z
 tags:
   - Propaganda
 draft: false
 ---
 
 ### 2022
+
+> Posłowie tracą na Polskim Ładzie – i ponoć są zresztą zaskoczeni wysokością swoich wypłat. Byliby pewnie mniej, gdyby po prostu czytali ustawy, za którymi głosują. Teraz ponoć wszystko „odkręcać” próbuje Ministerstwo Finansów.
+
+---
+
+<!-- Mam na Facebooku kolegów, którzy oglądają rosyjską telewizję. Oni podrzucili informację o ponad 100 tysiącach żołnierzy, jakich Ukraina zgromadziła przy granicy z Donbasem celem ataku na zbuntowany region, zamieszkały przez Rosjan. Rosja straszy Ukrainę, że w razie ataku Ukrainy na Donbas ruszy na Kijów od północy.
+Powyższa wersja jest dla mnie logiczna. Typowa anglosaska zagrywka. Walczyć ze swoimi wrogami cudzymi rękami. Grzegorz Braun wiele razy opisywał jak Anglosasi walczyli z Rosją polskimi rękami, co dla narodu polskiego kończyło się tragicznie. Dlatego kilka dni temu Grzegorz Braun zagłosował w Sejmie przeciw uchwale popierającej Ukrainę.
+Anglosasi walczyli z Rosją polskimi rękami w czasie powstania listopadowego, powstania styczniowego, i próbowali w latach 70. XIX wieku. Tak twierdzi Grzegorz Braun. Moim zdaniem walczyli również po II wojnie światowej z Rosją polskimi rękami, wspierając tzw. żołnierzy wyklętych.
+Anglosasi zachęcają Ukrainę do walki z Rosją, dają je broń, szkolą jej wojsko. Chcą ukraińskimi rękami walczyć ze swoim wrogiem.
+Sam nie oglądam w Polsce rosyjskich telewizji. Na FB jestem zablokowany do połowy lutego za krytykę obowiązku noszenia masek. -->
 
 Ewolucja nauki.
 
@@ -26,6 +36,12 @@ Zaczęto nam wmawiać kolejna naukową prawdę, że szczepionka chroni przed śm
 Problem w tym, że tej tezy chyba nigdy nie uda sie zweryfikować pozytywnie. No bo ciężko będzie doprowadzić do sytuacji gdy 100% populacji ludzkiej bedzie zaszczepione. A wedle tej tezy - tylko wtedy szczepionki zaczną poprawnie działać i chronić przed chorobą oraz przed zgonem.
 
 Może robię błąd, że na drodze logiki matematycznej probuje rozwikłać ten problem. Może ten konkretny problem nie podlega logice matematycznej tylko jakiejś innej logice?
+
+---
+
+<img src="./img/january/canada.jpeg"><br><br>
+
+---
 
 ### 2021
 
