@@ -3,11 +3,19 @@ layout: post
 title: 2 lutego
 image: img/february/baczynski.jpg
 author: Tomasz Waszczyk
-date: 2020-02-02T10:00:00.000Z
+date: 2021-02-02T10:00:00.000Z
 tags:
   - Merkle Tree
 draft: false  
 ---
+
+### 2022
+
+Smak komunikacji lat 2020-202X
+
+> Paliwo droższe, choć tańsze. VAT w dół, a cena netto w górę. Oto możliwe przyczyny
+
+> Stacje benzynowe wykorzystały moment obniżenia podatku VAT i podwyższyły jednocześnie marżę, co bije w nasze portfele - alarmują w sieci przedsiębiorcy. Na dowód wrzucają m.in. zdjęcia swoich faktur sprzed i po wejściu w życie tzw. tarczy antyinflacyjnej 2.0. Tymczasem ekspert wskazuje, że wyższe ceny netto od 1 lutego mogą mieć inną przyczynę.
 
 ### 2021
 

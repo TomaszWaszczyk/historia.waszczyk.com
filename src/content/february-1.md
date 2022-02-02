@@ -3,11 +3,15 @@ layout: post
 title: 1 lutego
 image: img/february/radiofonia.jpg
 author: Tomasz Waszczyk
-date: 2020-02-01T10:00:00.000Z
+date: 2021-02-01T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
 ---
+
+### 2022
+
+> Inflacja, brak działek i nowe przepisy będą głównymi czynnikami przyczyniającymi się do dalszego wzrostu cen mieszkań - ocenił Polski Związek Firm Deweloperskich. Związek prognozuje, że w tym roku mieszkania na rynku pierwotnym zdrożeją o 7-10 proc.
 
 ### 2021
 

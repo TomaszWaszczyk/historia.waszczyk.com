@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+> Podatki “powinny sprzyjać redystrybucji bogactwa, chroniąc godność ubogich i ostatnich, którym zawsze grozi to, że zostaną zmiażdżeni przez możnych” - oświadczył papież.
+
+---
+
 > Posłowie tracą na Polskim Ładzie – i ponoć są zresztą zaskoczeni wysokością swoich wypłat. Byliby pewnie mniej, gdyby po prostu czytali ustawy, za którymi głosują. Teraz ponoć wszystko „odkręcać” próbuje Ministerstwo Finansów.
 
 ---

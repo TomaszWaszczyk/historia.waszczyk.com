@@ -3,11 +3,19 @@ layout: post
 title: 3 lutego
 image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
-date: 2020-02-03T10:00:00.000Z
+date: 2021-02-03T10:00:00.000Z
 tags:
   - Imperium Rzymskie
 draft: false
 ---
+
+### 2022
+
+Odpowiedź NATO na żądania Rosji:
+
+<img src="./img/january/nato.jpeg"><br><br>
+
+<img src="./img/january/nato2.jpeg"><br><br>
 
 ### 2021
 
