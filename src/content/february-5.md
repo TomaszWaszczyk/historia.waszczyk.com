@@ -3,11 +3,19 @@ layout: post
 title: 5 lutego
 image: img/february/umowagraniczna.jpg
 author: Tomasz Waszczyk
-date: 2020-02-05T10:00:00.000Z
+date: 2021-02-05T10:00:00.000Z
 tags:
   - Sovereign Individual
 draft: false
 ---
+
+### 2022
+
+```
+Politic Based Medicine (PBM) jest jeszcze głupsza niż Eminence Based Medicine (ÊBM) i podobnie bezsensowna co Celebrity Based Medicine (CBM).
+Czekam na wytyczne dla psychiatrii o odczynianiu uroków jajem, kurs z egzorcyzmów i podstawy alchemii.
+Jak szaleć to szaleć! Skuteczne tak samo jak przykładanie stetoskopu w 2 dobie infekcji wirusowej.
+```
 
 ### 2021
 

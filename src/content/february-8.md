@@ -3,11 +3,17 @@ layout: post
 title: 8 lutego
 image: img/february/identity.png
 author: Tomasz Waszczyk
-date: 2020-02-08T10:00:00.000Z
+date: 2021-02-08T10:00:00.000Z
 tags:
   - A Declaration of the Independence of Cyberspace
 draft: false
 ---
+
+### 2022
+
+> ‘I don’t see any big, gigantic market correction’ due to inflation, Carlyle’s David Rubenstein says
+
+<img src="./img/february/rubenstein.jpg"><br><br>
 
 ### 2021
 
@@ -69,6 +75,10 @@ Zwinąć chorągiew z masztu. Krepą jest zasnuta
 Za dywizję Rataja, Okrzei, Traugutta.
 Pociąć sztandar w kawałki. Rozdać śród żołnierzy,
 Na drogę, niech go wezmą. Na sercu niech leży
+
+### ~~1970
+
+<img src="./img/february/kosztbudowydomu.jpg"><br><br>
 
 ### 1940
 

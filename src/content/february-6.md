@@ -3,7 +3,7 @@ layout: post
 title: 6 lutego
 image: img/february/polska2021.png
 author: Tomasz Waszczyk
-date: 2020-02-06T10:00:00.000Z
+date: 2021-02-06T10:00:00.000Z
 tags:
   - Hyperinflation
 draft: true

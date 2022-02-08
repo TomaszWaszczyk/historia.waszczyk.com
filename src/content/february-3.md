@@ -17,6 +17,12 @@ Odpowiedź NATO na żądania Rosji:
 
 <img src="./img/january/nato2.jpeg"><br><br>
 
+---
+
+Wczorajszy gigantyczny spadek cen akcji Facebooka może za parę lat być odnotowany na kartach historii jako symboliczny moment upadku Web2 i narodzin Web3.
+
+---
+
 ### 2021
 
 Today's Thought?

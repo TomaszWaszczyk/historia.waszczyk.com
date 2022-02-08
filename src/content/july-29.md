@@ -79,6 +79,10 @@ domu i działki w Katowicach.
 
 <img src="./img/july/gierek.jpg"><br><br>
 
+### 1958
+
+Ad Apostolorum Principis
+
 ### 1944
 
 Moskiewska radiostacja "Kościuszko" wystosowała do mieszkańców Warszawy apel Związku Patriotów Polskich o rozpoczęcie powstania przeciwko Niemcom. Oto jego treść:

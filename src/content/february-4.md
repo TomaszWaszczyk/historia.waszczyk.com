@@ -3,11 +3,17 @@ layout: post
 title: 4 lutego
 image: img/february/wielkatrojka.jpg
 author: Tomasz Waszczyk
-date: 2020-02-04T10:00:00.000Z
+date: 2021-02-04T10:00:00.000Z
 tags:
   - Wielka trójka
 draft: false
 ---
+
+### 2022
+
+Taką umowę kontraktową na dyżury dostał LEKARZ SPECJALISTA PSYCHIATRII DZIECI I MŁODZIEŻY. W szpitalu publicznym, w oddziale, który nie ma obsady dyżurowej i szuka pracownika. Zdziwieni, że coraz mniej chętnych do pracy w polskich szpitalach?
+
+<img src="./img/february/umowalekarzy.jpeg"><br><br>
 
 ### 2021
 
