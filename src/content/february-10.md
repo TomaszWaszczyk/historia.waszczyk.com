@@ -3,11 +3,18 @@ layout: post
 title: 10 lutego
 image: img/february/broniewski.jpg
 author: Tomasz Waszczyk
-date: 2020-02-10T10:00:00.000Z
+date: 2021-02-10T10:00:00.000Z
 tags:
   - Władysław Broniewski
 draft: false
 ---
+
+### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/february/tusk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

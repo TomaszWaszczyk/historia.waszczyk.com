@@ -3,7 +3,7 @@ layout: post
 title: 9 lutego
 image: img/february/wolyn.png
 author: Tomasz Waszczyk
-date: 2020-02-09T10:00:00.000Z
+date: 2021-02-09T10:00:00.000Z
 tags:
   - Wołyń
 ---
