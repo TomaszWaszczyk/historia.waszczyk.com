@@ -3,7 +3,7 @@ layout: post
 title: 13 lutego
 image: img/february/mongolowie.jpg
 author: Tomasz Waszczyk
-date: 2020-02-13T10:00:00.000Z
+date: 2021-02-13T10:00:00.000Z
 tags:
   - Najazdy
 draft: false

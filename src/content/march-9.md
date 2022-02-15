@@ -13,6 +13,12 @@ draft: false
 
 <img src="./img/march/ujemnestopywpolsce.jpeg"><br><br>
 
+---
+
+<img src="./img/march/pfizer.jpeg"><br><br>
+
+---
+
 ### 1995
 
 https://en.wikipedia.org/wiki/Edward_Bernays

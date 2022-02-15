@@ -3,7 +3,7 @@ layout: post
 title: 12 lutego
 image: img/february/izycki.jpg
 author: Tomasz Waszczyk
-date: 2020-02-12T10:00:00.000Z
+date: 2021-02-12T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false

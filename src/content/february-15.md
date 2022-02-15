@@ -3,11 +3,15 @@ layout: post
 title: 15 lutego
 image: img/february/bolszewizm2.jpg
 author: Tomasz Waszczyk
-date: 2020-02-15T10:00:00.000Z
+date: 2021-02-15T10:00:00.000Z
 tags:
   - Rosja
 draft: false
 ---
+
+### 2022
+
+> "Kanadyjskie banki otrzymały polecenie przyjrzenia się rachunkom i korzystaniu z usług bankowych "wszystkich, którzy uczestniczyli w nielegalnych blokadach". Banki mają przekazywać informacje o wspieraniu blokad policji (RCMP) lub służbom wywiadu CSIS), będą też mogły zawieszać prowadzenie rachunków bez konieczności uzyskiwania postanowienia sądu"
 
 ### 2021
 

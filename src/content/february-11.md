@@ -3,7 +3,7 @@ layout: post
 title: 11 lutego
 image: img/february/kuklinski.jpg
 author: Tomasz Waszczyk
-date: 2020-02-11T10:00:00.000Z
+date: 2021-02-11T10:00:00.000Z
 tags:
   - Jack Strong
 ---
