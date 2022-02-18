@@ -3,7 +3,7 @@ layout: post
 title: 16 lutego
 image: img/february/gornyslask.jpg
 author: Tomasz Waszczyk
-date: 2020-02-16T10:00:00.000Z
+date: 2021-02-16T10:00:00.000Z
 tags:
   - Polska
 draft: false

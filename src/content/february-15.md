@@ -13,6 +13,16 @@ draft: false
 
 > "Kanadyjskie banki otrzymały polecenie przyjrzenia się rachunkom i korzystaniu z usług bankowych "wszystkich, którzy uczestniczyli w nielegalnych blokadach". Banki mają przekazywać informacje o wspieraniu blokad policji (RCMP) lub służbom wywiadu CSIS), będą też mogły zawieszać prowadzenie rachunków bez konieczności uzyskiwania postanowienia sądu"
 
+---
+
+Stopień alarmowy obowiązuje od 15 lutego 2022 r. od godz. 23:59 do 28 lutego 2022 r. do godz. 23:59.
+
+Stopień ALFA-CRP jest najniższym z czterech stopni alarmowych określonych w ustawie o działaniach antyterrorystycznych.
+
+Oznacza to, że administracja publiczna jest zobowiązana do prowadzenia wzmożonego monitoringu stanu bezpieczeństwa systemów teleinformatycznych. Instytucje publiczne będą m.in. monitorować i weryfikować, czy nie doszło do naruszenia bezpieczeństwa komunikacji elektronicznej.
+
+---
+
 ### 2021
 
 <img src="./img/february/20210130_205739.jpg"><br><br>

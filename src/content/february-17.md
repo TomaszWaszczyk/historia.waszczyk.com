@@ -3,7 +3,7 @@ layout: post
 title: 17 lutego
 image: img/february/telefonbezdrutu.jpeg
 author: Tomasz Waszczyk
-date: 2020-02-17T10:00:00.000Z
+date: 2021-02-17T10:00:00.000Z
 tags:
   - Coronavirus
 draft: false
