@@ -3,11 +3,29 @@ layout: post
 title: 19 lutego
 image: img/february/Galician_slaughter_in_1846.PNG
 author: Tomasz Waszczyk
-date: 2020-02-19T10:00:00.000Z
+date: 2021-02-19T10:00:00.000Z
 tags:
   - Niewolnictwo
 draft: false
 ---
+
+### 2022
+
+Pandemia jest wygaszana, ale plakaty zostały.
+
+<img src="./img/february/koniecznoscnowoczesna.jpeg"><br><br>
+
+---
+
+Kanada:
+
+<img src="./img/february/kanada.jpeg"><br><br>
+
+w Kanadzie policja na rozkaz Justin Trudeau podczas pacyfikowania pokojowych demonstracji zabiła bezbronną kobietę, a dziennikarze informują, że niszczony jest im sprzęt i używana jest wobec nich siłą fizyczna.
+
+#TruckerConvoy2022
+
+<img src="./img/february/kanada2.png"><br><br>
 
 ### 2021
 

@@ -3,10 +3,24 @@ layout: post
 title: 22 lutego
 image: img/february/churchill.jpg
 author: Tomasz Waszczyk
-date: 2020-02-22T10:00:00.000Z
+date: 2021-02-22T10:00:00.000Z
 tags:
   - Winston Churchill
 draft: false
+---
+
+### 2022
+
+Ministerstwo Finansów ponownie nie zdecydowało się podnieść oprocentowania obligacji oszczędnościowych Skarbu Państwa, mimo dobijającej do 10 proc. inflacji i kolejnych podwyżek stóp procentowych. **Do marcowej oferty trafiły za to papiery premiowe, które dają nabywcom szansę wygrania nagrody w wysokości nawet 100 tys. zł.**
+
+Przez ostatnie pięć miesięcy Rada Polityki Pieniężnej zdążyła już podnieść stopę referencyjną NBP z 0,1 proc. do 2,75 proc. W ślad za nią w górę poszła rynkowa cena pieniądza - WIBOR 3M wynosi już 3,47 proc. wobec 0,24 proc. na początku października, a WIBOR 6M: 3,88 proc. w porównaniu do 0,31 proc. niespełna cztery miesiące temu.
+
+Efekty odczuwają już osoby, które wzięły kredyt ze zmiennym oprocentowaniem, czyli np. niemal wszyscy pożyczający środki na zakup mieszkania czy budowę domu. Jak wynika z szacunków analityka Bankier.pl Michała Kisiela, kredytobiorcy spłacający 25-letni kredyt na 400 tys. zł muszą się liczyć ze wzrostem raty już o prawie 800 zł w porównaniu z wrześniem. 
+
+---
+
+<img src="./img/february/jake11.jpg"><br><br>
+
 ---
 
 ### 2021

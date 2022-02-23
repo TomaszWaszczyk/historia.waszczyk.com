@@ -3,10 +3,16 @@ layout: post
 title: 23 lutego
 image: img/february/szarecki.jpg
 author: Tomasz Waszczyk
-date: 2020-02-23T10:00:00.000Z
+date: 2021-02-23T10:00:00.000Z
 tags:
   - Armia Krajowa
 ---
+
+### 2022
+
+US President Biden announces 'first tranche' of sanctions on #Russia including sanctions on Russian sovereign debt. But let's keep in mind 2 things: 1) Russia's Debt to GDP ratio is ~18% vs US's 133%; 2) To make himself independent of the West, Putin has stopped investing fx reserves in #us government #bonds as .#Russia now holds only $3.9bn in US Treasuries. It used to be $176bn in 2010... Putin has shifted many reserves into gold.
+
+<img src="./img/february/debtrussia.jpeg"><br><br>
 
 ### 2021
 

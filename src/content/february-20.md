@@ -3,7 +3,7 @@ layout: post
 title: 20 lutego
 image: img/february/goring.jpg
 author: Tomasz Waszczyk
-date: 2020-02-20T10:00:00.000Z
+date: 2021-02-20T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false

@@ -12,6 +12,8 @@ tags:
 
 <img src="./img/october/polexit.jpeg"><br><br>
 
+<img src="./img/october/silnapolska.jpeg"><br><br>
+
 ### 2020
 
 Giza Polish Ventures odsunęła Marcin Beme od kierowania audioteka.pl pomimo iż, Marcin jest największym jej udziałowcem.

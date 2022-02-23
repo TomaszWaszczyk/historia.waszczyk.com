@@ -1513,6 +1513,8 @@ et consortes
 
 helicopter view
 
+VERNUNFT-VERSTAND
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

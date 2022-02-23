@@ -3,7 +3,7 @@ layout: post
 title: 21 lutego
 image: img/february/korwin.jpg
 author: Tomasz Waszczyk
-date: 2020-02-21T10:00:00.000Z
+date: 2021-02-21T10:00:00.000Z
 tags:
   - Słowacja
 draft: false

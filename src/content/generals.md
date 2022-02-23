@@ -8,6 +8,12 @@ date: "2018-05-06T23:46:37.121Z"
 draft: true
 ---
 
+Józef Piłsudski o Rosji i Rosjanach:
+
+"Bez względu na to, jaki będzie jej rząd, Rosja jest zaciekle imperialistyczna. Jest to zasadniczy rys jej charakteru politycznego. Mieliśmy imperializm carski; widzimy dzisiaj imperializm czerwony – sowiecki”.
+"Dusza Rosjanina, jeśli nie każdego, to prawie każdego, jest przeżarta duchem nienawiści do każdego wolnego Polaka i do idei wolnej Polski. Oni są łatwi i zdolni do uczucia nawet wielkiej przyjaźni i będą was kochać szczerze i serdecznie, jak brata, dopóki nie poczują, że w sercu swoim jesteście wolnym człowiekiem i boicie się ich miłości, w której dominującym pierwiastkiem jest żądza opieki nad wami, inaczej mówiąc: władzy. To jest skaza urodzeniowa ich duszy, dziedziczna i kilkusetletnia, za ich niewolę, za Tatarów, za Iwana, za opryczników, za odwieczne bunty topione we krwi". 
+"Jeśli własna wolność jest nieosiągalna, wolność cudza wzbudza zawiść i odrazę. Jesteśmy od wieków zbyt bolesnym dla nich wzorem, zaprzeczeniem ich własnego losu. Obawiam się ,że dużo czasu upłynie, zanim oni zrozumieją, że nikt i nic, chyba śmierć, odbierze nam prawa do wolności".
+
 ### Wilhelm Canaris
 
 Kim właściwie był kontradmirał Wilhelm Canaris, postać zagadkowa i tajemnicza? Na pewno był bardzo inteligentnym i doskonale znającym się na pracy wywiadowczej szefem Abwehry. Organizacji, którą z niewielkim komórki nazywanej Wydziałem Transportu Morskiego rozbudował do rozmiarów jednej z najpotężniejszych agencji wywiadowczych w Europie. Agencji, której raporty pomagały Hitlerowi w planowaniu kolejnych podbojów. Ale też agencji, która prowadziła własną grę tak z aliantami jak z Führerem. Grę, którą zakończył zamach Stauffenberga i rzeź, jaka po nim nastąpiła.

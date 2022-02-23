@@ -8,6 +8,10 @@ tags:
   - USA Brrrrrrrrr
 ---
 
+### 2021
+
+<img src="./img/may/koronawiruswpenisie.jpeg"><br><br>
+
 ### 2020
 
 WIBID Over Night = 0,01%
