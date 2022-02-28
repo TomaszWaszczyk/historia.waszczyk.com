@@ -3,9 +3,9 @@ layout: post
 title: 27 lutego
 image: img/february/granica.jpg
 author: Tomasz Waszczyk
-date: 2020-02-27T10:00:00.000Z
+date: 2021-02-27T10:00:00.000Z
 tags:
-  - 
+  - Ukraina
 draft: false
 ---
 

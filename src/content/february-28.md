@@ -3,10 +3,28 @@ layout: post
 title: 28 lutego
 image: img/february/wojna30.jpg
 author: Tomasz Waszczyk
-date: 2020-02-28T10:00:00.000Z
+date: 2021-02-28T10:00:00.000Z
 tags:
   - Habsburgowie
 draft: false
+---
+
+### 2022
+
+Zgodnie z oczekiwaniami dziś w Rosji mamy do czynienia z dramatycznym spadkiem wartości #RUB, po ogłoszeniu w weekend sankcji wyłączających rosyjskie banki z systemu SWIFT i zamrożeniu zagranicznych aktywów centralnego banku Rosji.
+
+Już wcześnie rano - przed otwarciem oficjalnego rynku kurs spadł o blisko 30% a przed bankami tworzą się duże kolejki. Bank Rosji przesunął otwarcie notowań forex na 10.00 a notowań giełdy rosyjskiej na 15.00 lub później.
+
+Z dużym prawdopodobieństwem zakończy się to ograniczeniem lub wstrzymaniem wypłat gotówki i brakiem możliwości wypłaty walut obcych.
+
+---
+
+<img src="./img/february/who.jpeg"><br><br>
+
+---
+
+<img src="./img/february/rubel.jpeg"><br><br>
+
 ---
 
 ### 1981

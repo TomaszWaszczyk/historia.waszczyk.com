@@ -3,11 +3,20 @@ layout: post
 title: 25 lutego
 image: img/february/listopadowe.jpg
 author: Tomasz Waszczyk
-date: 2020-02-25T10:00:00.000Z
+date: 2021-02-25T10:00:00.000Z
 tags:
   - Powstanie listopadowe
 draft: false
 ---
+
+### 2022
+
+Ukraina:
+
+<video width="640" height="480" controls>
+<source src="./movies/february/wojnaputina.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

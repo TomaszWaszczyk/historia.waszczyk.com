@@ -3,10 +3,24 @@ layout: post
 title: 26 lutego
 image: img/february/maluch.jpg
 author: Tomasz Waszczyk
-date: 2020-02-26T10:00:00.000Z
+date: 2021-02-26T10:00:00.000Z
 tags:
   - PRL
 draft: false
+---
+
+### 2022
+
+<img src="./img/february/ukrainebtc.png"><br><br>
+
+BTC - 357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P
+
+ETH and USDT (ERC-20) - 0x165CD37b4C644C2921454429E7F9358d18A45e14
+
+---
+
+<img src="./img/february/sorosukraine.png"><br><br>
+
 ---
 
 ### 2021

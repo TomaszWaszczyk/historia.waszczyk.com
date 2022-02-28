@@ -3717,6 +3717,9 @@ Służ komuś wiernie to ci w gębę piernie.
 
 Dobry królik ma trzy nory.
 
+"Five great programmers can completely outperform 1,000 mediocre programmers" 
+- Marc Andreessen, founder of Netscape, a16z
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

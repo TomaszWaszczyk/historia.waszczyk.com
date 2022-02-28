@@ -9,6 +9,18 @@ tags:
 draft: false
 ---
 
+### 2022
+
+> Rosja zaatakowała Ukrainę. Rozpoczęła się inwazja
+
+> Wielka Brytania wyśle do Polski mobilny system obrony przeciwlotniczej Sky Sabre.
+
+W nocy ze środy na czwartek Władimir Putin ogłosił w telewizyjny wystąpieniu rozpoczęcie „operacji specjalnej w Donbasie”. Według informacji władz i relacji w sieciach społecznościowych rosyjskie siły zaczęły ostrzał ukraińskich miast także z innych kierunków. Wybuchy słychać było także w stolicy Ukrainy, Kijowie.
+
+Rosyjska flota atakuje Odessę. Trwa też atak na Kijów. Ostrzeliwane są lotniska
+
+<img src="./img/february/wojnaputina.jpg"><br><br>
+
 ### 2021
 
 Umiera Claude Shannon
