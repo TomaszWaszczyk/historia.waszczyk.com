@@ -11,7 +11,20 @@ draft: false
 
 ### 2022
 
+Polacy stoją w kolejkach do kantoru w celu sprzedaży **twardej waluty PLN**
+
 <img src="./img/march/20220308_kantor_katowice.jpg"><br><br>
+
+---
+
+Komunikat NBP:
+
+Od dziś, 8 marca, do nabycia nowa moneta kolekcjonerska NBP – srebrna o nominale 10 zł „200. rocznica urodzin Ignacego Łukasiewicza”.
+Na rewersie monety znajduje się wizerunek Ignacego Łukasiewicza, domniemany prototyp lampy naftowej oraz widok na założoną przez Łukasiewicza najstarszą na świecie kopalnię ropy naftowej w Bóbrce.
+
+<a href="./documents/march/2022_05___lukasiewicz_pl.pdf" target="_blank">Opis monety</a>
+
+---
 
 ### 2021 = 1918
 
