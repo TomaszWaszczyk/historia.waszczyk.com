@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2022
+
+> US official: Russian invasion of Ukraine risks release of dangerous pathogens
+
+Możliwe, że USA rozwija patogeny na Ukrainie w Odessie i teraz amerykanie boją się, że rosjanie przejmą te laboratoria.
+
 ### 1987
 
 Prawdopodobnie zamordowany: https://pl.wikipedia.org/wiki/Franciszek_Blachnicki

@@ -3,10 +3,30 @@ layout: post
 title: 4 marca
 image: img/march/urban.jpg
 author: Tomasz Waszczyk
-date: 2020-03-04T10:00:00.000Z
+date: 2021-03-04T10:00:00.000Z
 tags:
   - Jerzy Urban
 draft: false
+---
+
+### 2022
+
+> Węgiel zamiast rosyjskiego gazu. Timmermans: Wszystko się zmieniło
+
+<img src="./img/march/timmermans.webp"><br><br>
+
+Wszystko się zmieniło. Tydzień temu historia zatoczyła koło i musimy się z tą historyczną zmianą pogodzić - powiedział Timmermans.
+
+Timmermans odniósł się m.in. do przypadku Polski oraz innych państw, które wykorzystują teraz węgiel. Polska i kilka innych krajów planowało odejście od węgla, tymczasowe wykorzystanie gazu ziemnego, a następnie przejście na odnawialne źródła energii. Jeśli pozostaną dłużej przy węglu, a następnie natychmiast przejdą na źródła odnawialne, może to nadal mieścić się w parametrach, jakie ustaliliśmy dla naszej polityki klimatycznej - powiedział.
+
+---
+
+Komunikat NBP.
+
+<img src="./img/march/komunikatspecjalny.jpg"><br><br>
+
+> W dniu dzisiejszym Narodowy Bank Polski dokonał sprzedaży pewnej ilości walut obcych za złote.
+
 ---
 
 ### 2021 - Desperacja EBC

@@ -3,10 +3,22 @@ layout: post
 title: 2 marca
 image: img/march/bekantmachung.jpg
 author: Tomasz Waszczyk
-date: 2020-03-02T10:00:00.000Z
+date: 2021-03-02T10:00:00.000Z
 tags:
   - Niemcy
 draft: false
+---
+
+### 2022
+
+The Russian Central Bank has decided not to pay interest on bonds worth US $ 29 billion (default). After a few days of war, Russia became economically bankrupt. The financial markets will never forget it. Even if Putin withdraws its troops today - the markets will be demanding enormous risk premiums for many, many years. The price that every Russian will pay for the rest of his life.
+
+<img src="./img/march/russiacentralbank.jpeg"><br><br>
+
+---
+
+> Topic: Bitcoin and the Great Filter
+
 ---
 
 ### 1998

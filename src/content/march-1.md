@@ -3,10 +3,26 @@ layout: post
 title: 1 marca
 image: img/march/banknot.jpg
 author: Tomasz Waszczyk
-date: 2020-03-01T10:00:00.000Z
+date: 2021-03-01T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+<img src="./img/march/cenymaksymalne.png"><br><br>
+
+Masowe wypłaty gotówki, nieczynne bankomaty:
+
+<img src="./img/march/bankomat.png"><br><br>
+
+---
+
+> Tak silnego wzrostu cen producentów w strefie euro nie pamiętają najstarsi statystycy. Inflacja PPI przekroczyła w grudniu 26% i wyznaczyła nowy rekord w historii unii walutowej przy całkowitej bierności Europejskiego Banku Centralnego.
+
+> W grudniu 2021 roku ceny producentów – czyli tzw. inflacja PPI (producer price index) – w strefie euro były o 2,9% wyższe niż w listopadzie oraz aż o 26,2% wyższe niż rok temu – poinformował Eurostat. Licząc dla wszystkich państw Unii Europejskiej, wskaźnik ten osiągnął identyczną dynamikę: 2,9% mdm i 26,2% rdr.
+
 ---
 
 ### 2021
