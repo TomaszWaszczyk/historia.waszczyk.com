@@ -3,10 +3,21 @@ layout: post
 title: 9 marca
 image: img/march/veto.jpg
 author: Tomasz Waszczyk
-date: 2020-03-09T10:00:00.000Z
+date: 2021-03-09T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+Ukraine has "biological research facilities," says Undersecretary of State Victoria Nuland, when asked by Sen Rubio if Ukraine has biological or chemical weapons, and says she's worried Russia may get them. But she says she's 100% sure if there's a biological attack, it's Russia.
+
+---
+
+>  Will Inflation Stay High for Decades? One Influential Economist Says Yes
+> Charles Goodhart sees an era of inexpensive labor giving way to years of worker shortages—and higher prices. Central bankers around the world are listening. 
+
 ---
 
 ### 2021

@@ -3,11 +3,15 @@ layout: post
 title: 11 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2020-03-11T10:00:00.000Z
+date: 2021-03-11T10:00:00.000Z
 tags:
   - Historia
 draft: false
 ---
+
+### 2022
+
+Praktycznie jednogłośnie Sejm przyjął Ustawę o obronie ojczyzny w Polsce.
 
 ### 1941
 

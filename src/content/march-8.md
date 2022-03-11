@@ -26,6 +26,18 @@ Na rewersie monety znajduje się wizerunek Ignacego Łukasiewicza, domniemany pr
 
 ---
 
+> Prezes NBP: Stagflacja w Polsce? Chyba meteoryt musiałby w Ziemię uderzyć.
+
+---
+
+<img src="./img/march/manifestacja.jpeg"><br><br>
+
+---
+
+<img src="./img/march/potus.jpg"><br><br>
+
+---
+
 ### 2021 = 1918
 
 <img src="./img/march/dzien-kobiet.jpg"/><br><br>

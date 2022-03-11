@@ -8,6 +8,10 @@ tags:
   - Warszawa
 ---
 
+### 2022
+
+<img src="./img/march/parallels.jpeg"><br><br>
+
 ### 2021
 
 > Rozpuszczanie własności

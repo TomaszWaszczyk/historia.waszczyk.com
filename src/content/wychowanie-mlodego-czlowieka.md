@@ -17,6 +17,8 @@ https://unibot.us.edu.pl/dzieci-moga-patentowac/
 
 ### Książki i bajki
 
+* https://github.com/HollyAdele/awesome-programming-for-kids
+
 * Kodowanie dla dzieci, Marc Scott
 
 * Edukacja Domowa, Wiesław Stebnicki

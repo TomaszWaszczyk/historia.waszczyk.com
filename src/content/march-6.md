@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Anwil SA przygotował nowy cennik swoich nawozów, który ma obowiązywać od 11 marca 2022 r. Cena jest zatrważająca. Tona saletry amonowej kosztuje w nim ok. 6100 zł. Dla porównania w ostatnich dniach tona tego nawozu średnio kosztowała ok. 3 tys. zł, a rok wcześniej 1200 zł.
+
 ### 2021
 
 "In 2021, inflation is coming" – this statement is now common knowledge. Everybody knows, that everybody knows, that inflation will rise this year and into the future. As such, what will the market decide is the asset that everybody should buy to protect their portfolios from the ravages of inflation? I came into the meeting with the fund manager determined to find the answer.

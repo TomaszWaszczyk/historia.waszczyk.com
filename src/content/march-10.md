@@ -3,11 +3,25 @@ layout: post
 title: 10 marca
 image: img/march/lech.jpg
 author: Tomasz Waszczyk
-date: 2020-03-10T10:00:00.000Z
+date: 2021-03-10T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+Wojny wojnami, ale eksploatować trzeba mocniej:
+
+Lotos:
+
+<img src="./img/march/wojnamarza.png"><br><br>
+
+### 2021
+
+<img src="./img/march/astra.jpeg"><br><br>
+
+<img src="./img/march/peppa.jpeg"><br><br>
 
 ### 1981
 
