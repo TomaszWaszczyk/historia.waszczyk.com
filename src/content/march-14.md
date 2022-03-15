@@ -3,11 +3,19 @@ layout: post
 title: 14 marca
 image: img/march/trump.jpeg
 author: Tomasz Waszczyk
-date: 2020-03-14T10:00:00.000Z
+date: 2021-03-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+<img src="./img/march/mica.jpeg"><br><br>
+
+---
+
+> Serwis śledczy stowarzyszenia Disclose podaje, że Francja w latach 2014-2020 sprzedawała Rosji sprzęt wojskowy mimo embarga, wykorzystując lukę prawną w tym zakresie.
 
 ### 2021
 

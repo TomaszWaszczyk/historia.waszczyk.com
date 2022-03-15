@@ -3,10 +3,28 @@ layout: post
 title: 13 marca
 image: img/march/corona.jpeg
 author: Tomasz Waszczyk
-date: 2020-03-13T10:00:00.000Z
+date: 2021-03-13T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2022
+
+Były szef NATO nie ma złudzeń: Putin nie zatrzyma się na Ukrainie
+
+Powinniśmy uświadomić sobie, że mamy wybór pomiędzy konfrontacją z Putinem teraz albo później, bo on nie zatrzyma się na Ukrainie - mówił w wywiadzie dla Radia Wolna Europa b. szef NATO Anders Fogh Rasmussen. Dodał, że jego zdaniem Zachód nie zrobił wystarczająco dużo, by odstraszyć Rosję.
+
+<img src="./img/march/rasmussen.jpg"><br><br>
+
+---
+
+Banki centralne mają teraz diabelską alternatywę: podnosić stopy procentowe i ryzykować recesją, czy nie podnosić i ryzykować spiralą inflacyjną? Problem w tym, że mechanizmy stopy procentowe – inflacja się „zatarł”.
+„Zatarł”, bo inflacja jest importowana przez ceny surowców i towarów rolnych, a stopy procentowe tego nie zahamują. Memento to inflacja w Czechach – rozpoczęli podwyżki o 4 miesiące wcześniej niż RPP, a inflacja rosła i w lutym wyniosła 11,1%.
+Super- jastrząb, prezes NBP, Adam Glapiński, mówi, że możliwe są podwyżki nawet dwa razy w miesiącu. Czy ortodoksyjni ekonomiści mają rację? Wysokie stopy procentowe to: mniejsze inwestycje, mniejszy popyt wewnętrzny (mniej pieniędzy po opłaceniu kredytu), mniejszy PKB.
+Możliwa jest nawet recesja. Uważam, że RPP nie powinna przesadzać – powinna patrzeć na ECB, który do 2023 roku stóp nie podniesie. Patrzeć to nie znaczy nic nie robić, ale uważam, że maksymalny poziom stóp to 4,00%. Potem trzeba zrobić dłuższą przerwę.
+
+> Will Inflation Stay High for Decades? One Influential Economist Says Yes
+> Charles Goodhart sees an era of inexpensive labor giving way to years of worker shortages—and higher prices. Central bankers around the world are listening. 
 
 ### 2021
 

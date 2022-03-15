@@ -3,10 +3,28 @@ layout: post
 title: 15 marca
 image: img/march/parkiet.jpg
 author: Tomasz Waszczyk
-date: 2020-03-15T10:00:00.000Z
+date: 2021-03-15T10:00:00.000Z
 tags:
   - Blockchain
 draft: false
+---
+
+### 2022
+
+Sankcje made by Europa:
+
+<img src="./img/march/sankcje.jpeg"><br><br>
+
+---
+
+Polacy, tolerancyjny i pomocny naród:
+
+<img src="./img/march/tolerancjawpolsce.jpeg"><br><br>
+
+Polska w Ukrainie czy Ukraina w Polsce?
+
+<img src="./img/march/polskaukraina.jpeg"><br><br>
+
 ---
 
 ### 2021

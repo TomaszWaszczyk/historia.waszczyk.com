@@ -13,6 +13,20 @@ draft: false
 
 Praktycznie jednogłośnie Sejm przyjął Ustawę o obronie ojczyzny w Polsce.
 
+Klasa rządząca odrzuciła myśl o powszechnym dostępie Polaków do broni, lecz w razie okupacji z pewnością będzie nas z emigracji w Waszyngtonie gorąco zachęcała do działań partyzanckich.
+
+---
+
+> zespół kruchości
+
+pierwszy raz usłyszałem to określenie w mediach masowych odnośnie osób, które mają problemy po szczepionce C19 lub zmarły
+
+---
+
+### 2015
+
+Launched in 2015, the ZRF Initiative commits governments and oil companies, to end routine flaring no later than 2030. The Initiative aims to support cooperation between all relevant stakeholders so that solutions to gas flaring can be found through appropriate regulation, application of technologies, and financial arrangements.
+
 ### 1941
 
 Amerykański Kongres ostatecznie przełamał impas w stosunkach Stanów Zjednoczonych z innymi państwami. Uchwalona wówczas ustawa federalna popularnie nazywana Lend-Lease Act zezwalała USA na wspomaganie państw koalicji antyfaszystowskiej pożyczkami, wynajmem, sprzedażą oraz nieodpłatnym przekazywaniem dóbr, w tym surowców, żywności, ropy naftowej oraz sprzętu wojennego. Pierwszymi krajami objętymi programem współpracy zostały Wielka Brytania, Chiny oraz tzw. Wolna Francja powołana do życia przez przeciwników kolaboracyjnej Republiki Vichy utworzonej na nieokupowanych przez Niemców terytoriach francuskich. Po niemieckiej agresji przeciwko Związkowi Radzieckiemu pomocą objęto również ZSRR.
