@@ -14,7 +14,7 @@ draft: false
 > Zełenski: Z takimi przyjaciółmi, z takimi sąsiadami będziemy w stanie wygrać
 
 <video width="640" height="480" controls>
-<source src="./movies/march/zelenski.mp4" type="video/mp4">
+<source src="./movies/march/zalenski.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
