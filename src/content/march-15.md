@@ -11,6 +11,14 @@ draft: false
 
 ### 2022
 
+> Zełenski: Z takimi przyjaciółmi, z takimi sąsiadami będziemy w stanie wygrać
+
+<img src="./img/march/polskawyslananawojne.png"><br><br>
+
+...
+
+---
+
 Sankcje made by Europa:
 
 <img src="./img/march/sankcje.jpeg"><br><br>
