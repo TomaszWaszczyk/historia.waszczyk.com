@@ -3,11 +3,20 @@ layout: post
 title: 16 marca
 image: img/march/bierut.jpg
 author: Tomasz Waszczyk
-date: 2020-03-16T10:00:00.000Z
+date: 2021-03-16T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+> Fauci w rozmowie z szefem FB Zuckerbergiem przyznaje, że 'to nie byłby pierwszy raz gdyby okazało się, że szczepionka, która wydawała się być bezpieczna w początkowych badaniach faktycznie pogarszałaby stan osób, które ją przyjęły.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/fauci.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 
