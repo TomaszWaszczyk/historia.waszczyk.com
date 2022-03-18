@@ -20,6 +20,8 @@ Your browser does not support the video tag.
 
 ...
 
+<img src="./img/march/polskanazdjeciu.jpeg"><br><br>
+
 ---
 
 Sankcje made by Europa:
@@ -35,6 +37,17 @@ Polacy, tolerancyjny i pomocny naród:
 Polska w Ukrainie czy Ukraina w Polsce?
 
 <img src="./img/march/polskaukraina.jpeg"><br><br>
+
+Wojna zakryła z dnia na dzień:
+
+- przestępstwa rządu w "walce" z C19,
+- aferę pegasusa,
+- katastrofę Nowego Wału,
+- dwucyfrową inflację,
+- największe w historii zadłużenie PL,
+- setki afer ostatnich 6 lat
+- gnicie państwa,
+- zapaść demograficzną
 
 ---
 

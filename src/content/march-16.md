@@ -18,6 +18,24 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+---
+
+<img src="./img/march/prezydentowa.jpeg"><br><br>
+
+---
+
+<img src="./img/march/inflationhot.jpeg"><br><br>
+
+---
+
+Polska za prezydentury Putina w Rosji zapłaciła blisko 800mld dolarów za surowce.
+
+---
+
+<img src="./img/march/zelenskiwef.png"><br><br>
+
+---
+
 ### 2020
 
 Ciekawa sprawa - NBP uruchomił pierwszy w historii QE. Interesująca decyzja - krótkoterminowo widzę tu wsparcie dla kursu PZU i spadające dochody spółki w dłuższym terminie. Gorsze wieści dla sektora bankowego. Biorąc pod uwagę udział tego drugiego w WIG20, powiedziałbym, że przynajmniej krótkoterminowo NBP dorzucił kolejny argument dla pogłębienia dołków na polskiej giełdzie.

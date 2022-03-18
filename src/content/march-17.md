@@ -96,6 +96,10 @@ Jednak w 1925 roku koniunktura polityczna na wprowadzenie w życie koncepcji blo
 
 <img src="./img/march/porozumieniepiulsudski.jpg"><br><br>
 
+### 1921
+
+Na mocy konstytucji marcowej zlikwidowano stan szlachecki w Polsce. Rzeczpospolita od tamtego momentu nie uznaje przywilejów rodowych i stanowych. Pamiętajcie więc - hrabiowie, baronowie, szlachta i inne książątka w Polsce nie istnieją.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-17.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
