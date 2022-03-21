@@ -9,6 +9,9 @@ tags:
 draft: true
 ---
 
+henry dexler white
+
+
 Cofamy się do roku 1997. Wtedy to koncesję dla spółki Jana Kulczyka na autostradę A2 od granicy niemieckiej do Łodzi podpisuje minister transportu w rządzie SLD-PSL Bogusław Liberadzki. Boguś z klasyczną karierą polityczną - od PZPR, przez SLD, po europosła z listy Koalicji Europejskiej. Przyznanie koncesji firmie Autostrada Wielkopolska odbyło się kilka dni przed wyborami parlamentarnymi w 1997 r. Koncesja obejmowała budowę płatnej autostrady i jej eksploatację, co wiązało się nie tylko z jej utrzymaniem, ale też z POBIERANIEM OPŁAT ZA PRZEJAZD.
 Musiało minąć 21 lat, aby umowami na budowę A2 zawartymi z firmą Autostrada Wielkopolska, zajęła się prokuratura. Na polecenie ministra śledczy mieli wyjaśnić, w jakich okolicznościach doszło do przyznania na 40 LAT (CZTERDZIEŚCI LAT!) spółce Autostrada Wielkopolska koncesji, która daje jej prawo do NIEOGRANICZONEGO podwyższania opłat za przejazd autostradą. ❤
 Prokurator Generalny wyjaśnił, że przedmiotem postępowania ma być też sprawa koncesji na odcinek A2 między Nowym Tomyślem a Świeckiem, którą spółce Autostrada Wielkopolska przyznał w 2009 roku minister infrastruktury w rządzie PO-PSL Cezary Grabarczyk. "W tym przypadku opłaty za przejazd są niższe o połowę, ale spółka otrzymuje wielomilionowe rekompensaty z budżetu państwa, które gwarantują jej wysokie zyski. (...) Mamy jedną z najdroższych czy wręcz najdroższą autostradę w Europie. Pieniądze z kieszeni kierowców płyną szerokim strumieniem do prywatnej spółki, a rząd nie jest w stanie powstrzymać kolejnych podwyżek" - dodał.

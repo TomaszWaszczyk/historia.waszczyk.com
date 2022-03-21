@@ -3,10 +3,35 @@ layout: post
 title: 19 marca
 image: img/march/sejm.jpg
 author: Tomasz Waszczyk
-date: 2020-03-19T10:00:00.000Z
+date: 2021-03-19T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+Rozbiór Polski - oficjalnie.
+
+Żarty żartami ale ten człowiek (jak on mógł być premierem Polski?) powiedział, że tajne ośrodki szkoleniowe polskich służb powinny się stać ośrodkami dla uchodźców! Mówiłem Wam że to są niebezpieczni ludzie dla Polski!
+
+<video width="640" height="480" controls>
+<source src="./movies/march/tusknarodwielki.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+W Polsce panuje moda na bojkotowanie przez klientów detalicznych drobnych produktów wyprodukowanych w Rosji, a tutaj efekt sankcji Europy: 
+
+<img src="./img/march/sankcjerosja.jpg"><br><br>
+
+W tym czasie miliony polaków spradzają czy serek pochodzi z Rosji czy nie.
+
+---
+
+Dugin tells Aljazeera the war for Russia is a matter of "to be or not to be" and that  losing is not even an option. He adds that losing the war will mean the end of Putin and Russia.
+
 ---
 
 ### 2021

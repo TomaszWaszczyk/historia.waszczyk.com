@@ -3,7 +3,7 @@ layout: post
 title: 20 marca
 image: img/march/plebiscyt.jpg
 author: Tomasz Waszczyk
-date: 2020-03-20T10:00:00.000Z
+date: 2021-03-20T10:00:00.000Z
 tags:
   - Plebiscyt
 draft: false

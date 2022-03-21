@@ -3,11 +3,27 @@ layout: post
 title: 21 marca
 image: img/march/badylak.jpg
 author: Tomasz Waszczyk
-date: 2020-03-21T10:00:00.000Z
+date: 2021-03-21T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+> Polski rząd chce konfiskować rosyjskie majątki
+
+Trochę takich majątków u nas jest – mówi premier Mateusz Morawiecki. Ten temat ma się pojawić podczas spotkania rządu z opozycją.
+
+"Na spotkaniu (z opozycją) chcielibyśmy poruszyć kwestię, w jaki sposób Polska mogłaby przeprowadzić zamrożenie i konfiskatę majątków rosyjskich, które znajdują się w naszym kraju" – powiedział Morawiecki w rozmowie z serwisem "Wprost".
+
+<img src="./img/march/pajacmorawiecki.webp"><br><br>
+
+"Z jednej strony mamy konstytucyjne ograniczenia takiego działania, związane z prawem własności, a z drugiej – coraz więcej Polaków nie rozumie, dlaczego, skoro Włosi konfiskują jachty rosyjskich oligarchów, my nie możemy takich działań przeprowadzić w naszym kraju" – dodał premier.
+
+"Chcemy to przeprowadzić przez Sejm i uznaliśmy, że opozycja powinna być włączona w ten proces" – zaznaczył Morawiecki.
+
+Premier przyznał przy tym, że w Polsce raczej nie ma jachtów rosyjskich oligarchów. Stwierdził jednak, że jest nieco nieruchomości należących do Rosjan. Są też "aktywa finansowe, czyli akcje spółek", które jego zdaniem Polska może przejmować.
 
 ### 2020
 

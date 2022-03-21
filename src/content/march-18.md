@@ -8,6 +8,16 @@ tags:
   - Polska
 ---
 
+### 2022
+
+Wojna trwa na wielu frontach. Nie mam na myśli tylko terytorium Ukrainy. Na drugim planie rozgrywa się wojna ekonomiczna. Chińska polityka "zero-covid" to nie tylko walka z wirusem. Dochodzą do nas wiadomości, że całkowitym lockdownem objęte zostało 17,5 mln miasto Shzenzem. To nie ma sensu, by z powodu kilku zakażeń zamykać całe miasto. Chińczycy nie robią tego jednak z powodu wirusa. Shzenzem to "chińska dolina krzemowa". To tu znajdują się fabryki największych światowych producentów elektroniki https://tiny.pl/9ndg8 Pojawiają się tytuły, że "COVID-19 paraliżuje Chiny" https://tiny.pl/9n153 W rzeczywistości covidowe lockdowny nie paraliżują Chin, a tych, którzy mają w Shzenzem swoje fabryki. 
+Kilka dni temu rozpoczęły się rozmowy Chin z Saudyjczykami w sprawie ropy i nabierają tempa. Arabowie są gotowi sprzedawać ropę naftową Chińczykom za juany. Takie rozwiązanie osłabiłoby dominację dolara amerykańskiego na światowym rynku ropy. https://tiny.pl/9n11s
+Na rynkach metali wszyscy uwagę kierują na nikiel, którego notowania wzrosły w Londynie w ubiegłym tygodniu o 100  procent. To spowodowało, że London Metal Exchange zawiesiła handel tym metalem i do tej pory ma problemy https://tiny.pl/9n1j9 Trederzy niklu przenoszą się teraz do Shanghai Futures Exchange, a to oznacza, że będą handlować w juanach. 
+Kto jest lepiej przygotowany do wojny ekonomicznej? Rosja i Chiny mają potężne zapasy złota. Widzę tytuły: "Rosja na krawędzi bankructwa i z pełnym skarbcem złota" https://tiny.pl/9n1pr Czy tak będzie w rzeczywistości? Teraz należy poczekać na to, co zrobią Indie i Chiny. Warto pamiętać, że dziesięć lat temu powstał BRICS, zrzeszający pięć państw, w tym także Brazylię i RPA. Ich celem jest stworzenie nowego systemu walutowego. Skoro gromadzą złoto, to... 
+Czy chodzi o pieniądz oparty na złocie? Stop! To jest niemożliwe. Wszystko jest możliwe. Historia bankowości pamięta przykład Chin, które w okresie między X a XV w. n.e. przechodziły różne eksperymenty z bankowością z rezerwą cząstkową i pieniądzem papierowym. W tym czasie niejednokrotnie cierpiały z powodu hiperinflacji. Uzdrowienie kraju pod względem monetarnym dokonało się, kiedy tamtejsze władze przestały ograniczać obieg srebrnych i miedzianych monet.
+Czy złoto to już tylko historia? Z chrześcijańskiego punktu widzenia nie można usprawiedliwić ani obniżania wartości pieniądza, ani bankowości z rezerwą cząstkową. Premier M. Morawiecki powiedział, że czeka nas "zawierucha gospodarcza" z bardzo wysoką inflacją i stagnacją w PKB https://tiny.pl/9n1kg Od siedmiu lat rozdawaliśmy pieniądze na lewo i prawo. Nie byłoby to możliwe bez sztucznej podaży pieniądza. Koronawirus i Putin przyczynili się do problemu, ale nie jest to wytłumaczeniem tego, co nas teraz czeka. 
+O standardzie złota z perspektywy społecznej nauki Kościoła piszę na https://tiny.pl/7nk68
+
 ### 2020
 
 <img src="./img/march/boe.png"><br><br>
