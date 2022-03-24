@@ -3,11 +3,15 @@ layout: post
 title: 23 marca
 image: img/march/vix.png
 author: Tomasz Waszczyk
-date: 2020-03-23T10:00:00.000Z
+date: 2021-03-23T10:00:00.000Z
 tags:
   - Dr Zhou Xiaochuan
 draft: false
 ---
+
+### 2022
+
+<img src="./img/march/ruskitroll.png"><br><br>
 
 ### 2021
 

@@ -34,6 +34,14 @@ Dugin tells Aljazeera the war for Russia is a matter of "to be or not to be" and
 
 ---
 
+> Premier: albo za nasze bezpieczeństwo zapłacimy wyższymi wydatkami, albo krwią naszych żołnierzy
+
+Żeby być skutecznym na polu walki musimy posiadać nowoczesną broń i wzmocnioną armię; albo za nasze bezpieczeństwo zapłacimy wyższymi wydatkami albo zapłacimy krwią naszych żołnierzy - mówił w sobotę premier Mateusz Morawiecki.
+
+Szef rządu złożył w sobotę wizytę w Centrum Rozwojowo–Wdrożeniowym Telesystem-Mesko. Podczas wystąpienia podkreślał, że bezpieczeństwo jest podstawą funkcjonowania każdego społeczeństwa. 
+
+---
+
 ### 2021
 
 Niestety bardzo złe wieści z Alaski gdzie wysocy rangą przedstawiciele 🇺🇲🇨🇳 dziś nad ranem polskiego, w obecności światowych mediów wzajemnie się oskarżali i obwiniali.
