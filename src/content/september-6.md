@@ -105,6 +105,10 @@ jest jednak jeden niewątpliwy plus...dzieci nie musiały siedzieć w szkole.. i
 
 Georgette Mosbacher zostaje ambasadorem USA w Polsce: https://pl.wikipedia.org/wiki/Georgette_Mosbacher
 
+### 2016
+
+Konstanty Radziwiłł: Lepszy lekarz zmęczony niż żaden
+
 ### 1943
 
 Przy okazji otwarcia Muzeum Polaków Ratujących Żydów im. Rodziny Ulmów w Markowej k. Łańcuta, prezydent Polski Andrzej Duda odznaczył kilkadziesiąt osób. Uhonorował w ten sposób mieszkańców naszego regionu, którzy podczas II wojny światowej, narażając własne życie, ukrywali Żydów.

@@ -3,10 +3,29 @@ layout: post
 title: 22 marca
 image: img/march/pandemia.jpg
 author: Tomasz Waszczyk
-date: 2020-03-22T10:00:00.000Z
+date: 2021-03-22T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+Polityka banku centralnego kierowanego przez prezesa Glapińskiego: skupowanie hrywny, nieoprocentowany kredyt dla Mołdawii, 500 plusy dla uchodźców, zwiększanie wydatków na wojsko. PiS chce zmienić konstytucje uwalniając NIEOGRANICZONE środki na armię🤯
+
+> „Jednym z celów wojennych Putina jest destabilizacja krajów sąsiednich poprzez przesiedlenia na dużą skalę.” - minister ds. uchodźców i integracji Nadrenii Północnej - Westfalii Joachim Stamp.
+
+---
+
+<img src="./img/march/eksperci.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/march/slovakia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2020

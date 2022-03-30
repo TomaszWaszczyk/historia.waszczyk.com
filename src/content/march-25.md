@@ -3,11 +3,22 @@ layout: post
 title: 25 marca
 image: img/march/lekarze.jpg
 author: Tomasz Waszczyk
-date: 2020-03-25T10:00:00.000Z
+date: 2021-03-25T10:00:00.000Z
 tags:
   - Służba zdrowia
 draft: false
 ---
+
+### 2022
+
+Aktualne, efektem zapowiedzianych zmian #PIT będzie:
+- wyższa inflacja
+- wyższe stopy procentowe
+- słabszy złoty
+- słabszy samorząd, finansowo i politycznie. 
+Krótkoterminowy wzrost dochodów po opodatkowaniu nie jest wart dalszej destabilizacji gospodarki.
+
+Osłabiając złotego przez ekspansywne polityki makro + awanturniczą politykę to my subsydiujemy zakupy zagranicznym inwestorom w Polsce, nasze aktywa w walutach obcych są tanie. Równocześnie zwykli Polacy płacą drożej za importowane dobra i usługi.
 
 ### 2021
 

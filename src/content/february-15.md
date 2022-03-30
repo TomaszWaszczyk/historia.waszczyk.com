@@ -37,6 +37,12 @@ Oznacza to, że administracja publiczna jest zobowiązana do prowadzenia wzmożo
 
 <img src="./img/february/20210130_205827.jpg"><br><br>
 
+### 2016
+
+Monachijska Konferencja Bezpieczeństwa
+
+<img src="./img/february/lawrowsteinmaier.jpeg"><br><br>
+
 ### 1951
 
 Weszła w życie polsko-radziecka umowa o zmianie granic. Ta jedna z najistotniejszych zmian granic w naszej historii była w rzeczywistości kolejną radziecką grabieżą polskich ziem. Część województwa lubelskiego czyli miejscowości: Bełz, Uhnów, Krystynopol, Waręż,Chorobrów i Sokalszczyzna, bogate w złoża węgla kamiennego i gazu ziemnego znalazły się po radzieckiej stronie. Rekompensatą za to było przyznanie Polsce części ubogiego w gleby i "bogatego" w wyeksploatowane złoża ropy obwodu drohobyckiego czyli miejscowości: Ustrzyki Dolne, Czarna, Lutowiska, Bystre, Krościenko, Bandrów Narodowy i Liskowate.

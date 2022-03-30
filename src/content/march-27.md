@@ -3,11 +3,19 @@ layout: post
 title: 27 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2020-03-27T10:00:00.000Z
+date: 2021-03-27T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+> Jarosław Kaczyński: mamy przed sobą niełatwe lata
+
+<img src="./img/march/jaroslawlatanielatwe.png"><br><br>
+
+Musimy pamiętać, że mamy przed sobą niełatwe lata - mówił prezes PiS Jarosław Kaczyński podczas Zjazdu Krajowego Stowarzyszenia OdNowa. Jak wyjaśnił, chodzi o konieczność rozbudowy możliwości obronnych kraju oraz o zbliżający się kryzys gospodarczy. - To wyzwanie dla polskich sił patriotycznych - mówił.
 
 ### 2020 - Rule of Fear
 

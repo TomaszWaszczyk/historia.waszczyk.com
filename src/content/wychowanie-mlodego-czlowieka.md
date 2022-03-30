@@ -328,6 +328,36 @@ https://waitbutwhy.com/2019/08/story-of-us.html
 
 ---
 
+Chrześcijańska szkoła myśli ekonomicznej oparta jest głównie na stwierdzeniu, że Przykazania Dekalogu: „Nie pożądaj żadnej rzeczy należącej do bliźniego” i „Nie kradnij”, oprócz ich znaczenia religijnego i jako podstawowych nakazów moralnych, stanowią też imperatywy ekonomiczne, których nieprzestrzeganie, szczególnie przez prawa stanowione i władze państwowe w stosunku do obywateli, powoduje niepożądane i często katastrofalne skutki gospodarcze.
+
+Inaczej mówiąc: im powszechniejsze jest zjawisko kradzieży w jej różnych postaciach, zwłaszcza w przypadku zalegalizowanej grabieży dokonywanej przez państwo, a więc w „majestacie prawa”, tym dotkliwiej cierpi na tym gospodarka i szybciej następuje ubożenie ludności. Stwierdzenie to powinno szczególnie przemawiać do chrześcijan, dla których Dekalog, jako pochodzący od Boga, stanowi jeden z filarów wiary, a fakt, iż Stwórca zakazuje bezpośrednio aż dwoma Przykazaniami pozbawiania własności naszych bliźnich, wskazuje na wielkie znaczenie, jakie nadał On nietykalności cudzej własności prywatnej.
+
+<img src="./img/other/chne-nie-kradnij.jpg"><br><br>
+
+Pomimo tego, państwo i jego urzędnicy spokojnie pozbawiają obywateli ich własności. Czynią to na różne sposoby, takie jak:
+
+    praktykowanie socjalizmu poprzez bezpośrednią konfiskatę własności prywatnej na rzecz państwa i jego różnych instytucji;
+    drukowanie papierowych pieniędzy bez pokrycia we wzroście bogactwa narodowego, co powoduje inflację i obniżanie wartości tych pieniędzy, które obywatele już posiadają;
+    zaciąganie pożyczek państwowych bez wiedzy i zgody obywateli, którzy wraz z następnym pokoleniem będą musieli je spłacać;
+    szerzenie i praktykowanie korupcji poprzez tworzenie korupcjogennych urzędów dla „swoich” i ochrona ich działań, co powoduje duże koszty ponoszone przez całe społeczeństwo;
+    tworzenie w instytucjach państwowych stanowisk bezproduktywnej i pasożytniczej pracy, będącej przykrywką dla dystrybucji pieniędzy z kieszeni podatnika;
+    przyznawanie przez rząd różnych licencji, koncesji, monopoli i innych przywilejów wybranym jednostkom lub grupom, kosztem wszystkich pozostałych obywateli;
+    zalecane przez Marksa opodatkowanie wybiórcze (progresywne) ludzi zamożniejszych, które jest sprzecznie z zasadą równości wszystkich obywateli wobec prawa, a tym samym karanie bogatszych za to, że w gospodarce rynkowej stali się takimi dzięki swej pracowitości, zaradności, uczciwości, wyrzeczeniom, oszczędzaniu i zaspokajaniu potrzeb innych ludzi owocami swej działalności;
+    łamanie prawa podaży i popytu przez narzucanie cen minimalnych lub maksymalnych za jakieś dobra, tj. okradanie właściciela z prawa do swobodnego dysponowania swą własnością;
+    opodatkowanie na cele, które nie służą dobru całego społeczeństwa, lecz tylko niektórym jego grupom…
+
+…i tak dalej.
+
+W świetle powyższego oczywistą rzeczą jest, dlaczego rządy w państwach socjalistycznych i „opiekuńczych”, oparte na ograniczaniu prawa do własności prywatnej, jej „uszczuplaniu” i konfiskacie, prowadzą kraje do bankructwa, a rodziny i społeczeństwo do rozkładu.
+
+Chrześcijanie winni pozostać czujni, szczególnie jeśli chodzi o rozumienie często występujących haseł o potrzebie realizacji zasad sprawiedliwości społecznej (co, między innymi, ujmuje artykuł 2 Konstytucji Rzeczypospolitej Polskiej), gdyż te hasła pośrednio wzywają do łamania Dziesiątego Przykazania („Nie pożądaj żadnej rzeczy, która należy do bliźniego twego”) i do przymusowego wyrównywania nierówności majątkowych i społecznych.
+
+Są one inspirowane przez różnych zwolenników marksizmu, który, jak wiadomo, za jeden z podstawowych dogmatów uznaje konieczność likwidacji własności prywatnej (za wszelką cenę).
+
+Chrześcijańska myśl ekonomiczna służyć może jako narzędzie intelektualne w zwalczaniu marksizmu. Ponadto zachęca patriotów pragnących jak największego dobrobytu dla swego kraju, aby nie pozwalali rządzącym na ustanawianie i egzekwowanie praw okradania obywateli przez państwo, lecz przeciwnie – czynili wszystko, by doprowadzać takie już istniejące, niemoralne prawa do likwidacji.
+
+---
+
 Dziecko otoczone krytyką uczy się winić;Dziecko otoczone ośmieszeniem uczy się być nieufnym;Dziecko otoczone wrogością uczy się walczyć;Dziecko otoczone gniewem uczy się zadawać ból;Dziecko otoczone niezrozumieniem uczy się nie słyszeć innych;Dziecko otoczone oszustwem uczy się kłamać;Dziecko otoczone wstydem uczy się czuć się winnym;... i tylko silne dusze mogą złamać ten krąg ...
 
 Dziecko otoczone wsparciem uczy się chronić;Dziecko otoczone czekaniem uczy się być cierpliwym;Dziecko otoczone pochwałami uczy się być pewnym siebie;Dziecko otoczone uczciwością uczy się być uczciwym;Dziecko otoczone bezpieczeństwem uczy się ufać;Dziecko otoczone aprobatą uczy się szanować samego siebie;Dziecko otoczone miłością uczy się kochać i obdarzać miłością;Dziecko otoczone swobodą wyboru uczy się być odpowiedzialnym za swoje decyzje.... i taka edukacja jest trudna do złamania ...

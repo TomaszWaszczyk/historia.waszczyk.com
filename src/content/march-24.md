@@ -3,10 +3,47 @@ layout: post
 title: 24 marca
 image: img/march/mennica.jpeg
 author: Tomasz Waszczyk
-date: 2020-03-24T10:00:00.000Z
+date: 2021-03-24T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+> "Nikogo nie chcemy atakować, ale nasza Ojczyzna jest dość rozległa, żeby pochować wrogów".
+
+>  Andrzej Duda: Polska chce żyć w pokoju, ale...
+
+<img src="./img/march/polskanawojne.jpg"><br><br>
+
+Po szczycie NATO z dziennikarzami na konferencji prasowej rozmawiał Prezydent RP Andrzej Duda. Został on zapytany o zapytany o rosyjskie pogróżki wobec Polski.
+
+- Powiem tak. Może nie będzie to bardzo polityczne, ale jest takie powiedzenie w Polsce, brzydkie zresztą: "nie strasz, nie strasz". Polska chce żyć w pokoju, chcemy żyć normalnie, nikogo nie atakowaliśmy na przestrzeni ostatniego stulecia To my byliśmy atakowani. Ale musimy się przygotować do tego, gdyby ktoś chciał nas zaatakować. Staniemy twardo do obrony ojczyzny, a mamy wystarczająco dużo miejsca, by pochować wrogów - powiedział Andrzej Duda.
+
+<img src="./img/march/niestrasz.jpeg"><br><br>
+
+---
+
+Profesor Simon stwierdza w tvn24 że większość umierajacych na Covid to osoby z wielochorobowościa, które “gdyby zachorowały na grypę to też by umarły”. Cuda panie. Cuda.
+
+---
+
+MSZ Rosji:
+
+> "Warszawa rozpoczęła niebezpieczną eskalację w regionie, kierując się nie interesami narodowymi, ale w ramach wytycznych NATO"
+> "Decyzja Polski o wydaleniu 45 rosyjskich dyplomatów jest świadomym krokiem w kierunku ostatecznego zniszczenia stosunków dwustronnych"
+
+---
+
+BIDEN: "Today I am announcing the US has prepared to commit more than $1 Billion in humanitarian assistance to help get relief to millions of Ukrainians affected by the war [...] We will invest $320 Million to bolster democratic resilience and defend human rights in Ukraine."
+
+---
+
+Russia Is Open To Selling Natural Gas For Bitcoin
+
+Russia considering energy sales to 'friendly' nations in Bitcoin.
+
 ---
 
 ### 2021: podwyżki - rekompensaty, powrót do PRL

@@ -3,7 +3,7 @@ layout: post
 title: 30 marca
 image: img/march/cpi2020.png
 author: Tomasz Waszczyk
-date: 2020-03-30T10:00:00.000Z
+date: 2021-03-30T10:00:00.000Z
 tags:
   - Polska
 draft: false
@@ -17,6 +17,12 @@ Czy my jeszcze Polska,
 czy już Ukraina?
 
 <img src="./img/march/polskaszwecja.jpeg"><br><br>
+
+---
+
+Kurs rubel-euro wrócił do stanu z 23 lutego. To tyle na temat wpływu obecnych sankcji na rosyjską gospodarkę.
+
+<img src="./img/march/eurrub.png"><br><br>
 
 ### 2021
 
