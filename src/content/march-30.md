@@ -9,6 +9,15 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Tydzień mija,
+miesiąc mija.
+Czy my jeszcze Polska, 
+czy już Ukraina?
+
+<img src="./img/march/polskaszwecja.jpeg"><br><br>
+
 ### 2021
 
 No i stało się, obligacje amerykańskie "płacą" więcej niż polskie. Ten wykres absolutnie nie służy prognozowaniu USDPLN. Czy ma to sens? czy to banki centralne drukując pieniądze (sarkazm) psują rynki? Czy Polska stała się nową bezpieczną przystanią? To zostawię bez odpowiedzi, ale trzeba pamiętać, że "rynek ma zawsze rację" i warto spojrzeć szerzej na obecną sytuację.

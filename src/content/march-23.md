@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2022
+
+> Adam Niedzielski: "Jesteśmy humanitarni i dlatego nie testujemy na granicy uchodźców wojennych z ukrainy".
+
+<img src="./img/march/niedzielskihumanitarny.jpeg"><br><br>
+
 ### 2021
 
 The Federal Reserve Is No Longer Publishing The M2
