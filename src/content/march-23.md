@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+> Adam Niedzielski: "Jesteśmy humanitarni i dlatego nie testujemy na granicy uchodźców wojennych z ukrainy".
+
+<img src="./img/march/niedzielskihumanitarny.jpeg"><br><br>
+
 <img src="./img/march/ruskitroll.png"><br><br>
 
 ### 2021

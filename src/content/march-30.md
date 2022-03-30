@@ -17,7 +17,16 @@ Just to put things into perspective: The last time inflation was 7.3% in Germany
 
 <img src="./img/march/financialrepression.jpeg"><br><br>
 
-### 2022
+---
+
+Tydzień mija,
+miesiąc mija.
+Czy my jeszcze Polska, 
+czy już Ukraina?
+
+<img src="./img/march/polskaszwecja.jpeg"><br><br>
+
+---
 
 Kurs rubel-euro wrócił do stanu z 23 lutego. To tyle na temat wpływu obecnych sankcji na rosyjską gospodarkę.
 
