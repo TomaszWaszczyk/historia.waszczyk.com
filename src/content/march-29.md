@@ -8,6 +8,12 @@ tags:
   - Katyń
 ---
 
+### 2022
+
+"W skrajnych przypadkach nadmierny wzrost długu publicznego prowadzi do upadłości finansowej państw. Historia takich katastrof finansowych liczy sobie już ponad 200 lat"
+
+Historia wielokrotnie pokazała, że zdesperowany rząd posuwa się do desperackich decyzji. Dywersyfikacja geograficzna może okazać się kluczowa! 
+
 ### 2020 - indeks użyteczności społecznej w praktyce
 
 <img src="./img/march/szwajcaria.jpeg"/><br><br>

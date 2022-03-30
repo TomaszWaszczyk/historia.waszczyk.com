@@ -11,6 +11,14 @@ draft: false
 
 ### 2022
 
+Just to put things into perspective: The last time inflation was 7.3% in Germany – in Nov 1981 – the Bundesbank key interest rate was 11.4%. Today, ECB's main rate remains pegged at 0%.
+
+<img src="./img/march/bundesbank.png"><br><br>
+
+<img src="./img/march/financialrepression.jpeg"><br><br>
+
+### 2022
+
 Kurs rubel-euro wrócił do stanu z 23 lutego. To tyle na temat wpływu obecnych sankcji na rosyjską gospodarkę.
 
 <img src="./img/march/eurrub.png"><br><br>
