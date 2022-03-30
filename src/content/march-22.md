@@ -21,6 +21,13 @@ Polityka banku centralnego kierowanego przez prezesa Glapińskiego: skupowanie h
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/march/slovakia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2020
 
 To są sowieci. Naprawdę, sowieckie propagandowe myślenie i działanie. Mistrzowie kłamstwa.
