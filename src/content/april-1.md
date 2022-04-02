@@ -3,9 +3,63 @@ layout: post
 title: 1 kwietnia
 image: img/april/fired.png
 author: Tomasz Waszczyk
-date: 2020-04-01T10:00:00.000Z
+date: 2021-04-01T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2022
+
+<img src="./img/april/inflacjamarzec.jpg"><br><br>
+
+Wina Putina:
+
+<img src="./img/april/inflacjawinaputina.jpeg"><br><br>
+
+> Wynagrodzenie prezesa NBP - 17,8% wzrostu r/r
+
+---
+
+Rząd dopłaci do zakupu telewizorów!
+
+Nie, nie jest to prima aprilisowy żart. O dopłatę można ubiegać się w związku ze zmianą standardu nadawania telewizji naziemnej oraz, w niektórych przypadkach, koniecznością wymiany odbiornika, który „nowego sposobu nadawania” nie będzie w stanie obsługiwać. Ale po kolei.
+
+26 marca Prezydent podpisał ustawę przewidującą dopłatę, do zakupu telewizora, w wysokości 250 zł, oraz dekodera – 100 zł. O dofinansowanie ubiegać się mogą gospodarstwa domowe będące w trudnej sytuacji życiowej, dla których zakup odbiornika mógłby naruszać zaspokojenie podstawowych potrzeb. Program będzie obowiązywał do końca 2022 roku.
+
+Skąd ta dopłata?
+
+Już od 28 marca rozpoczęła się zmiana sposobu nadawania naziemnej telewizji cyfrowej z dotychczasowego systemu DVB-T na DVB-T2. Proces ten, w zależności od województwa potrwa do 27 czerwca bieżącego roku. Zmiana standardu nadawania zapewni efektywniejszą transmisję. Starsze odbiorniki mogą nie mieć wbudowanego nowego sposobu nadawania, w związku z tym konieczna będzie wymiana telewizorów lub zakup nowego dekodera. Według szacunków około 1,8 mln gospodarstw domowych odbiera telewizję naziemną według „starego” standardu. Wniosek o przyznanie bonu na dofinansowanie będzie można złożyć w placówkach Poczty Polskiej lub elektronicznie.
+
+Dopłata do telewizorów i abonament RTV
+
+Jak wiemy, posiadając odbiornik telewizyjny lub radiofoniczny należy takie urządzenia zarejestrować do 14 dni od dnia zakupu oraz opłacać abonament RTV. Według danych sporządzonych przez KRRiT 31% gospodarstw opłaca taki abonament, kiedy aż 96% taki odbiornik posiada. W 2022 roku stawki abonamentu wynoszą 24,50 zł miesięcznie za posiadanie odbiornika telewizyjnego lub telewizyjnego i radiofonicznego oraz  7,50 zł/msc za odbiornik radiofoniczny. Nie ma znaczenia ile odbiorników znajduje się w gospodarstwie domowym. Przedstawiciel gospodarstwa zobowiązany jest do zarejestrowania urządzenia oraz opłacania abonamentu.
+
+Skąd Poczta Polska wie, czy posiadamy urządzenie?
+
+Posiadanie oraz opłacanie abonamentu w gospodarstwie domowym nie zwalnia z opłacania składek w miejscu pracy. Przykładowo, jeśli przedsiębiorstwo wrzuci zakup telewizora w koszty, a nie zarejestruje urządzenia, może czekać go niemiła niespodzianka w postaci kary wysokości 735 zł. Od roku ubiegłego pojawiają się kontrole w gospodarstwach domowych, które nie opłacają składek ale również takich, gdzie odbiornik nie jest zarejestrowany. W przypadku zidentyfikowania urządzenia, czekają nas kary i konieczność opłacania składek w przyszłości.
+
+W przypadku zgłoszenia zakupu telewizora w koszty działalności przedsiębiorstwa niejako demaskujemy swój zakup przez co narażamy się na kontrole. Taki sam efekt może przynieść odbiór bonu na zakup odbiornika. Wykorzystując dofinansowanie, Poczta Polska otrzyma nasze dane przez co, w przypadku niezarejestrowania urządzenia może spotkać nas kontrola, czy kara finansowa. Warto więc pamiętać, aby zakupione urządzenia zarejestrować.
+
+---
+
+Goldman Sachs on Bitcoin:
+
+2017: Bitcoin is a vehicle for fraudsters
+
+2018: Bitcoin is never coming back
+
+2020: Bitcoin is not a real asset
+
+2021: Bitcoin to be offered to clients
+
+2022: Bitcoin could hit $100K
+
+---
+
+Wraz z atakiem Rosji na Ukrainę COVID zniknął, ale nie zniknął, jakby zniknął przejściowo.
+
+<img src="./img/april/szczepieniasaspoko.jpeg"><br><br>
+
 ---
 
 ### 2020
@@ -142,6 +196,12 @@ George Orwell in the house
 The CDC today also removed information on its website that detailed how many people in the country had been tested for the virus. It now only displays the number of confirmed cases. CDC has not yet responded to a request for comment.
 
 ---
+
+### 1996
+
+Ukazało się pierwsze wydanie czasopisma dla graczy gier komputerowych „CD - Action”.
+
+<img src="./img/april/cdaction"><br><br>
 
 ### 1981
 

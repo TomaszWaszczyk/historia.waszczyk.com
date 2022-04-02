@@ -19,6 +19,17 @@ Just to put things into perspective: The last time inflation was 7.3% in Germany
 
 ---
 
+<img src="./img/march/wizjonerzdrowia.jpeg"><br><br>
+
+Człowiek odpowiedzialny za ponad 200 tys nadmiarowych zgonów właśnie otrzymał nagrodę Wizjonera Zdrowia.
+
+---
+
+Kuzynka premiera prezesem państwowej spółki. Będzie stawiać wiatraki na Bałtyku.
+Monika Morawiecka została prezesem spółki PGE Baltica, która będzie budować farmy wiatrowe na Bałtyku. Całkiem niedawno była przeciwna rozwijaniu energii odnawialnej kosztem zapotrzebowania na węgiel.
+
+---
+
 Tydzień mija,
 miesiąc mija.
 Czy my jeszcze Polska, 
@@ -31,6 +42,26 @@ czy już Ukraina?
 Kurs rubel-euro wrócił do stanu z 23 lutego. To tyle na temat wpływu obecnych sankcji na rosyjską gospodarkę.
 
 <img src="./img/march/eurrub.png"><br><br>
+
+---
+
+> Morawiecki: To, co robi Google, to ważna część walki o prawdę
+
+<img src="./img/march/morawieckigoogle.jpeg"><br><br>
+
+Rozmowy dotyczyły m.in. pomocy, jakiej państwa Europy Środkowo-Wschodniej udzielają uchodźcom z Ukrainy oraz walki z dezinformacją. Po rozmowie w cztery oczy, Morawiecki i Pichai wzięli udział w wideokonferencji, w której udział wzięli premier Czech Petr Fiala oraz premier Słowenii Janez Jansa.
+
+Morawiecki dziękuje Pichaiowi za wsparcie
+
+W trakcie swojego oświadczenia po spotkaniu szef polskiego rządu podziękował prezesowi Google za aktywną walkę z dezinformacją w sieci.
+
+– Jednym z podstawowych instrumentów imperium zła jest propaganda, jest walka informacyjna i to, co robi Google i jego wszystkie kanały komunikacyjne, to co Sundar robi, to jest ważna część walki o prawdę. Walki o to, żeby prawdziwe informacje docierały także do Rosjan, do Rosji – powiedział Mateusz Morawiecki.
+
+– Opowiadałem dzisiaj Sundarowi jak wygląda sytuacja dzisiaj i bardzo dziękuję za zobowiązanie po stronie Googla do przekazania środków na wsparcie dla uchodźców, przekazanie środków dla Polski, dla organizacji pozarządowych, przekazanie ich w taki sposób, żeby po prostu polskie społeczeństwo nie musiało na swoich barkach tych ciężarów nieść – dodał premier.
+
+Morawiecki poinformował również, że "po świętach" odbędzie się konferencja donatorów wspierających Polskę. Google zapowiedział już swój udział w spotkaniu. 
+
+---
 
 ### 2021
 

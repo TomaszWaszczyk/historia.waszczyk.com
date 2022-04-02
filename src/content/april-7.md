@@ -82,6 +82,10 @@ Podczas intubacji zakażonego w pomieszczeniu aż gęsto od wirusowego aerozolu.
 
 Lekarz z Bydgoszczy: W walce z wirusem służymy za mięso armatnie
 
+### 2010
+
+Na długoterminową, niekorzystną dla 🇵🇱 umowę z Gazpromem, Donald Tusk z Władimirem Putinem umówili się 7 kwietnia 2010 r. w Smoleńsku. „Jestem pewien, że ten dzień przejdzie do lepszej historii naszych relacji i pozwoli nam jeszcze lepiej współpracować” - stwierdził.
+
 ### 1952
 
 Prezydent Rzeczypospolitej Polskiej Bolesław Bierut tak pisał w liście do Józefa Stalina:

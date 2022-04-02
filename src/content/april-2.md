@@ -9,6 +9,30 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Onet.pl:
+
+> Ukraiński polityk przewiduje rozpad Rosji. "Polska będzie mogła wziąć sobie Kaliningrad" 
+
+Sekretarz ukraińskiej Narodowej Rady Bezpieczeństwa i Obrony Ołeksyj Daniłow ocenił, że po obecnej wojnie Rosja rozpadnie się jako państwo. Przewidywał przy tym, że Japonia odzyska Wyspy Kurylskie, a Polska "jeśli będzie chciała, może sobie wziąć Obwód Kaliningradzki".
+
+<img src="./img/april/oleksyj-danilow.webp"><br><br>
+
+Mój komentarz: Rosja chce wojny i szuka pretekstu, najlepiej będzie gdyby polacy sami chcieli iść na "słabą" Rosję. Wychodzi na to, że w Polsce Rosja będzie przedstawiana jako słaby kraj, który aż się prosi zaatakować.
+
+---
+
+FOCAL POINT
+
+For those who think Russia is all the way on the other side of the world...It's approximately 55 miles from the United States at the Bering Strait's narrow point.
+The body of water between Alaska and Russia, known as the Bering Strait, there lies two small islands known as Big Diomede and Little Diomede.
+Big Diomede is owned by Russia.
+Little Diomede is owned by the US.
+The stretch of water between these two islands is only about 2.5 miles wide & freezes over during the winter so you could technically walk from the US to Russia on this seasonal sea ice.
+
+<img src="./img/april/usarussia.jpg"><br><br>
+
 ### 2020
 
 Najmniejsi przedsiębiorcy masowo zawieszają działalność gospodarczą - wynika z analizy money.pl. W marcu działalność zawiesiło ponad 48 tys. firm, a tylko w ciągu ostatniego tygodnia ponad 25 tys. - wynika z danych Centralnej Ewidencji i Informacji o Działalności Gospodarczej. Do końca roku może za to przybyć milion bezrobotnych.
