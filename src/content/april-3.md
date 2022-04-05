@@ -3,11 +3,19 @@ layout: post
 title: 3 kwietnia
 image: img/april/helicopter.jpeg
 author: Tomasz Waszczyk
-date: 2020-04-03T10:00:00.000Z
+date: 2021-04-03T10:00:00.000Z
 tags:
   - Inflacja
 draft: false
 ---
+
+### 2022
+
+Tak widzę najbliższe lata, ale nie wierzę w utrzywanie tego napięcia przez długie dekady:
+
+Im będzie większy kryzys walutowy tym Rosja będzie się przesuwać na zachód.. a pies z prawej będzie wciskał coraz mocniej. Pytanie kto pęknie.
+
+<img src="./img/april/wielkapolityka.png"><br><br>
 
 ### 2020
 

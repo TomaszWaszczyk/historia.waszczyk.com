@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+<img src="./img/march/timaboutbitcoin.png"><br><br>
+
 ### 2021
 
 > Poproszę o pomoc. Zostałam oddelegowana od dzisiaj do Szpitala Tymczasowego i będąc w kadrach usłyszałam ze moją podstawą będzie 2x pensja młodszego asystenta (która jest niższa niższa od rezydentury), jestem rezydentem i tak tez paniom powiedziałam, na co orzekły ze jestem oddelegowana i w szpitalu tymczasowym nie jestem rezydentem tylko młodszym asystentem. Czy tak można?
@@ -91,6 +95,10 @@ Wtorek 24 marca. Rodzina nie ma kontaktu z 50-letnią mieszkanką Konina, która
 Również wtorek, 24 marca. W domowej kwarantannie umiera 59-letni proboszcz parafii w Drwini w województwie małopolskim. Badanie potwierdziło u niego zakażenie koronawirusem, ale lekarze uznali, że proboszcz może wrócić do domu".
 I gdyby to jeszcze nie miało wystarczyć:
 "Żadnego z tych zgonów Ministerstwo Zdrowia nie ujęło w publikowanych codziennie raportach o liczbie zakażonych i zmarłych z powodu koronawirusa. – Ofiar jest więcej, niż podaje rząd – nie ma wątpliwości medyk sądowy z dużego polskiego miasta".
+
+### ~2000
+
+<img src="./img/march/tomaszlis.jpeg"><br><br>
 
 ### 1979
 

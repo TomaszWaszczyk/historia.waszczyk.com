@@ -3,7 +3,7 @@ layout: post
 title: 2 kwietnia
 image: img/april/ceidg.png
 author: Tomasz Waszczyk
-date: 2020-04-02T10:00:00.000Z
+date: 2021-04-02T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false

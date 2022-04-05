@@ -3,10 +3,30 @@ layout: post
 title: 5 kwietnia
 image: img/april/goldfed.png
 author: Tomasz Waszczyk
-date: 2020-04-05T10:00:00.000Z
+date: 2021-04-05T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2022
+
+Wzrośnie inflacja oraz pojawi się recesja, gdyby Niemcy zrezygnowali z rosyjskiego gazu i ropy.
+Najważniejsze, żeby inflacja w Niemczech nie urosła. Co prawda kosztem ukraińskich cywilów, ale nic to.
+Liberalnym ekspertom wskaźniki ekonomiczne przesłaniają wszystko.
+
+<img src="./img/april/sewing.jpg"><br><br>
+
+Bloomberg zacytował Sewinga, który na poniedziałkowym briefingu prasowym powiedział, że "jeśli doszłoby do embarga na import - a trzeba o tym pamiętać - to moglibyśmy mówić o inflacji, która przynajmniej tymczasowo byłaby dwucyfrowa".
+
+Prezes banku przewiduje, że w takim wypadku "na stałe pojawi się zjawisko, którego nie widzieliśmy od 30 lat, czyli inflacja długoterminowa".
+
+Największa gospodarka Europy obecnie zmaga się z "gwałtownie" rosnącą inflacją. Według Sewinga Niemcy staną w obliczu "dalszego pogorszenia sytuacji, jeśli dojdzie do wstrzymania importu lub dostaw rosyjskiej ropy i gazu ziemnego"
+
+Bloomberg zinterpretował wypowiedź Sewinga jako "ostrzeżenie".
+
+W niedzielę w internecie zaczęły się pojawiać zdjęcia i materiały wideo przedstawiające masakrę ludności cywilnej z miejscowości Bucza, która została dokonana przez wycofujących się Rosjan. W reakcji na te doniesienia w całej UE zaczęto wzywać do zaostrzenia sankcji przeciwko agresorowi, w tym objęcia nimi ropy i gazu.
+
+Agencja przypomniała, że "inni niemieccy politycy i przedstawiciele wyższej kadry kierowniczej - w tym minister finansów Christian Lindner i prezes ThyssenKrupp Martina Merz - wypowiadali się w podobnych słowach co Sewing". Miało to miejsce przed nagłośnieniem sprawy zbrodni popełnionych w miastach obwodu kijowskiego, w tym w Buczy.
 
 ### 2021
 

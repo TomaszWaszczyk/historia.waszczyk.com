@@ -54,6 +54,12 @@ Manifestacja niszczyciela przyniosła też inny wymierny skutek. 14 sierpnia wł
 
 <img src="./img/july/kryzysgdanski.jpg"><br><br>
 
+### 1931
+
+https://de.wikipedia.org/wiki/Deutsche_Bankenkrise
+
+https://de.wikipedia.org/wiki/Darmst%C3%A4dter_und_Nationalbank
+
 ### 1860
 
 Urodził się Jan Rządkowski - jeden z bohaterów Bitwy Warszawskiej.
