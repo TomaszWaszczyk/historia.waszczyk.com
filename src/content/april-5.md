@@ -10,6 +10,14 @@ tags:
 
 ### 2022
 
+250 Abramsów dla Polski. Umowa podpisana
+
+---
+
+> Janina Ochojska "Apeluję, żeby NIE PRZEKAZYWAĆ wszystkich środków rządowi polskiemu"
+
+---
+
 Wzrośnie inflacja oraz pojawi się recesja, gdyby Niemcy zrezygnowali z rosyjskiego gazu i ropy.
 Najważniejsze, żeby inflacja w Niemczech nie urosła. Co prawda kosztem ukraińskich cywilów, ale nic to.
 Liberalnym ekspertom wskaźniki ekonomiczne przesłaniają wszystko.

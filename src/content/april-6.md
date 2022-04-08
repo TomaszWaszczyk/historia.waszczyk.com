@@ -3,11 +3,31 @@ layout: post
 title: 6 kwietnia
 image: img/april/kaczynski.png
 author: Tomasz Waszczyk
-date: 2020-04-06T10:00:00.000Z
+date: 2021-04-06T10:00:00.000Z
 tags:
   - TVP - TV Propaganda
 draft: false
 ---
+
+### 2022
+
+Miedwiediew: Celem jest zbudowanie Eurazji od Lizbony po Władywostok
+
+Dmitrij Miedwiediew, zastępca sekretarza Rady Bezpieczeństwa Rosji, były prezydent kraju i sojusznik prezydenta Władimira Putina zabrał głos w sprawie masakry w Buczy. Zapowiedział, że celem rosyjskiej operacji jest "możliwość zbudowania wreszcie otwartej Eurazji - od Lizbony po Władywostok".
+
+W rosyjskiej agencji informacyjnej RIA Novosti pojawił się w niedzielę felieton Timofieja Siergiejcewa zatytułowany "Co Rosja powinna zrobić z Ukrainą".
+
+Autor pisze o potrzebie "deukrainizacji". Przekonuje, że Ukraina musi być pozbawiona suwerenności na co najmniej jedno pokolenie, a "naziści, którzy wzięli broń, muszą zostać zabici w jak największej liczbie".
+
+Siergiejcew uważa, że konieczne jest wyeliminowanie ukraińskiej elity politycznej, ponieważ "nie można jej reedukować". "Zwykli Ukraińcy muszą doświadczyć wszystkich okropności wojny i wchłonąć to doświadczenie jako lekcję historii i zadośćuczynienie za swoją winę" - przekonuje.
+
+"Ukraińskość jest sztucznym antyrosyjskim konstruktem bez własnej treści cywilizacyjnej, podporządkowanym elementem obcej i obcej cywilizacji. Sama debanderyzacja nie wystarczy do denazyfikacji (…) denazyfikacja Ukrainy to także jej nieuchronna deeuropeizacja" - uważa Siergiejcew.
+
+O demilitaryzacji i denazyfikacji Ukrainy pisze natomiast we wtorek były prezydent Dmitrij Miedwiediew. 
+
+"Tych skomplikowanych zadań nie da się wykonać z dnia na dzień. I nie będą one rozwiązywane wyłącznie na polu walki. Najważniejszym celem jest zmiana krwawej i pełnej fałszywych mitów świadomości części dzisiejszych Ukraińców. Celem jest pokój dla przyszłych pokoleń samych Ukraińców i możliwość zbudowania wreszcie otwartej Eurazji - od Lizbony po Władywostok" - przekonuje.
+
+Wcześniej Miedwiediew dodaje, że masakra Buczy była inscenizacją, podobnie jak atak na szpital położniczy w Mariupolu.  
 
 ### 2021
 

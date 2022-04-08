@@ -3,10 +3,32 @@ layout: post
 title: 8 kwietnia
 image: img/april/sowieci.jpg
 author: Tomasz Waszczyk
-date: 2020-04-08T10:00:00.000Z
+date: 2021-04-08T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+> Na wniosek USA banki zablokowały spłatę długu przez Rosję w dolarach z kont w zagranicznych bankach. Bagatela 648 mln USD, a Rosja miała już problem z kwota 117 mln USD.
+
+<img src="./img/april/rosjabankructwo.jpeg"><br><br>
+
+---
+
+> Premier Morawiecki: aby zwiększyć wydatki na zbrojenia, trzeba uwolnić się z reguły maksymalnego poziomu zadłużenia 60 proc. PKB. 
+
+??
+
+<img src="./img/april/greekdebt.png"><br><br>
+
+---
+
+Od 58% do 80% pensji netto pochłania obecnie rata kredytu! 🧐
+
+<img src="./img/april/ratykredytu.jpg"><br><br>
+
 ---
 
 ### 2020
