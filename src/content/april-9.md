@@ -3,9 +3,23 @@ layout: post
 title: 9 kwietnia
 image: img/april/bezrobocie2.jpg
 author: Tomasz Waszczyk
-date: 2020-04-09T10:00:00.000Z
+date: 2021-04-09T10:00:00.000Z
 tags:
   - USA
+---
+
+### 2022
+
+Eksport broni do Rosji w latach z nałożonymi sankcjami.
+
+Szukam i szukam, i Węgier nie widzę. Za to mamy dwóch liderów „tolerancyjnego i demokratycznego” świata. Niemcy i Francja.
+
+<img src="./img/april/eksportbroni.jpeg"><br><br>
+
+---
+
+> Zgubienie tożsamości narodowej w imię regionów zarządzanych globalnie.
+
 ---
 
 ### 2021

@@ -3,10 +3,21 @@ layout: post
 title: 10 kwietnia
 image: img/april/mmt.jpeg
 author: Tomasz Waszczyk
-date: 2020-04-10T10:00:00.000Z
+date: 2021-04-10T10:00:00.000Z
 tags:
   - Lenin
 ---
+
+### 2022
+
+Paweł Rybicki:
+
+> Rosjanie przy granicy z Ukrainą fetują swoich sołdatów jadących mordować i rabować Ukraińców. To tyle w sprawie „co myślą wykli rosjanie”
+
+<video width="640" height="480" controls>
+<source src="./movies/april/rosjaniecieszasie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

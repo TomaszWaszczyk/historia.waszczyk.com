@@ -11,6 +11,16 @@ draft: false
 
 ### 2022
 
+Ursula von der Leyen przekazała Zełenskiemu kwestionariusz dołączenia do Unii Europejskiej. Zaznaczyła, że będzie to droga przyśpieszona 
+
+<img src="./img/april/zelenskileyen.png"><br><br>
+
+---
+
+> Francuski dziennik "Le Figaro" zatytułował swój artykuł "Polska wyłania się na kluczową potęgę europejską w konfrontacji z Putinem".
+
+---
+
 > Na wniosek USA banki zablokowały spłatę długu przez Rosję w dolarach z kont w zagranicznych bankach. Bagatela 648 mln USD, a Rosja miała już problem z kwota 117 mln USD.
 
 <img src="./img/april/rosjabankructwo.jpeg"><br><br>

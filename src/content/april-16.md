@@ -173,6 +173,10 @@ Jeszcze tego samego dnia Niemiecki Czerwony Krzyż otrzymał odpowiedź od prezy
 
 <img src="./img/april/katyn2.jpg"><br><br>
 
+### 1932
+
+<img src="./img/april/komunisciprzedsad.jpeg"><br><br>
+
 ### 1922
 
 https://pl.wikipedia.org/wiki/Uk%C5%82ad_w_Rapallo
