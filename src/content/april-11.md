@@ -3,10 +3,22 @@ layout: post
 title: 11 kwietnia
 image: img/april/recession.jpeg
 author: Tomasz Waszczyk
-date: 2020-04-11T10:00:00.000Z
+date: 2021-04-11T10:00:00.000Z
 tags:
   - Cryptography
 draft: false
+---
+
+### 2022
+
+<img src="./img/april/putinflacja.png"><br><br>
+
+> Dziś dobrze, żeby każdy Polak zrozumiał, że to, co widzimy, to jest inflacja spowodowana przez Putina – "putinflacja". Inflacja spowodowana przez wojnę Rosji przeciwko Ukrainie, przez agresję rosyjską – przekonywał w sobotę premier.
+
+---
+
+> Ministerstwo Finansów ma coraz większy problem z finansowaniem budżetu państwa. W tym roku wydatków przybywa m.in. na tarcze antyinflacyjne czy pomoc uchodźcom. Mniejsze będą też dochody, bo rząd zdecydował się na kolejne zmiany w systemie podatkowym. Inwestorzy to widzą i chętnych do pożyczania pieniędzy rządowi jest mniej. Do tego koszt emisji obligacji rośnie, a w Ukrainie jest wojna. Zagranica systematycznie redukuje swój portfel papierów skarbowych, dlatego resort finansów prowadzi właśnie rozmowy z inwestorami z Austrii i Niemiec, aby przekonać ich do zakupów obligacji. Polskie banki mają z tym już duży problem.
+
 ---
 
 ### 2021

@@ -22,6 +22,10 @@ Szukam i szukam, i Węgier nie widzę. Za to mamy dwóch liderów „tolerancyjn
 
 ---
 
+Meanwhile in Sri Lanka, where the currency is collapsing and food shortages are increasing. Protesters in Colombo have defied a nationwide curfew and broke the police barricades.
+
+---
+
 ### 2021
 
 Książę Filip nie żyje
