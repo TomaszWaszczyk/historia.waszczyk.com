@@ -1517,6 +1517,12 @@ VERNUNFT-VERSTAND
 
 trybutariusz
 
+Hassliebe
+
+https://en.wikipedia.org/wiki/Putinversteher
+
+Russlandversteher
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,10 +3,14 @@ layout: post
 title: 23 kwietnia
 image: img/april/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2020-04-23T10:00:00.000Z
+date: 2021-04-23T10:00:00.000Z
 tags:
   - UBI
 ---
+
+### 2022
+
+<img src="./img/april/jimcrammer.jpeg"><br><br>
 
 ### 2020
 

@@ -3,11 +3,15 @@ layout: post
 title: 20 kwietnia
 image: img/april/fed.png
 author: Tomasz Waszczyk
-date: 2020-04-20T10:00:00.000Z
+date: 2021-04-20T10:00:00.000Z
 tags:
   - Polski Fundusz Rozwoju
 draft: false
 ---
+
+### 2022
+
+Olaf Scholz został zapytany, dlaczego Niemcy nie dostarczyły dotąd do Kijowa czołgów Marder i Leopard. Jego odpowiedź zaskoczyła wielu niemieckich komentatorów. „Scholz powiedział dziennikarzom, że Ukraińcy są po prostu zbyt głupi, by używać takiej niemieckiej broni” – konstatuje reporter dziennika „Bild” Julian Roepcke.
 
 ### 2021
 

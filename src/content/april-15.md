@@ -3,10 +3,22 @@ layout: post
 title: 15 kwietnia
 image: img/april/chinacurrency.jpeg
 author: Tomasz Waszczyk
-date: 2020-04-15T10:00:00.000Z
+date: 2021-04-15T10:00:00.000Z
 tags:
   - Central Bank Digital Currency
 ---
+
+### 2022
+
+NBP zainwestował w kontrakty futures. W 2021 r. NBP inwestował w kontrakty na indeksy giełdowe rynku USA, strefy euro i Wielkiej Brytanii — podał NBP w sprawozdaniu finansowym za poprzedni rok. Wynik? Ponad 1 mld zł.
+
+<img src="./img/april/glapinskiinwestuje.webp"><br><br>
+
+NBP podał, że w 2021 r. rozpoczął inwestycje w equity index futures, dążąc do podwyższenia dochodowości rezerw walutowych w długim okresie oraz zwiększenia dywersyfikacji inwestycji.
+
+Nie jest to nowa informacja. Zdradziła ją w lipcu 2021 r. wiceprezes banku Marta Kightley. — Jeżeli chodzi o rezerwy utrzymywane przez NBP, robimy przegląd tych narzędzi, które stosujemy i zarząd NBP podjął decyzję o przyjęciu niewielkiej ekspozycji na rynek akcji poprzez kontrakty futures. To są kontrakty na główne indeksy akcji na rynku amerykańskim i europejskim. To jest nowość i to zostało wprowadzone w tym roku — poinformowała podczas posiedzenia sejmowej komisji finansów publicznych.
+
+W piątek NBP opublikował sprawozdanie finansowe, więc znamy już wynik takich inwestycji, których do tej pory polski bank centralny nie prowadził.
 
 ### 2020
 

@@ -3,10 +3,14 @@ layout: post
 title: 13 kwietnia
 image: img/april/m2supply2020.jpg
 author: Tomasz Waszczyk
-date: 2020-04-13T10:00:00.000Z
+date: 2021-04-13T10:00:00.000Z
 tags:
   - M2 Supply
 ---
+
+### 2022
+
+> Dawny doradca ds. polityki wojskowej byłej kanclerz Niemiec Angeli Merkel, były generał brygady Erich Vad, w wywiadzie dla agencji dpa sprzeciwił się dostawom broni ciężkiej na Ukrainę. To potencjalnie „droga do III wojny światowej”
 
 ### 2020
 

@@ -3,10 +3,24 @@ layout: post
 title: 12 kwietnia
 image: img/april/eichmann.jpg
 author: Tomasz Waszczyk
-date: 2020-04-12T10:00:00.000Z
+date: 2021-04-12T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2022
+
+Fabryki BOSCHa w Suzhou stanęły, podrożeją amortyzatory i hamulce
+
+<img src="./img/april/suzhou.jpeg"><br><br>
+
+---
+
+Z szacunków japońskiego banku inwestycyjnego Nomura wynika, że częściowy lub pełny lockdown wprowadzono w 45 miastach w Chinach, w których zamieszkuje 26,4% ludności i które wytwarzają 40,3% PKB kraju.
+
+
+
 ---
 
 ### 2020

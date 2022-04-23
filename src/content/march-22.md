@@ -28,6 +28,10 @@ Your browser does not support the video tag.
 
 ---
 
+<a href="./documents/march/strategia_w_sytuacji_zmniejszenia_zagrozenia_epidemicznego_covid-19_2022.03.22.pdf" target="_blank">Zmiana strategii</a>
+
+---
+
 ### 2020
 
 To są sowieci. Naprawdę, sowieckie propagandowe myślenie i działanie. Mistrzowie kłamstwa.

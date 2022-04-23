@@ -3,11 +3,21 @@ layout: post
 title: 19 kwietnia
 image: img/april/getto.jpg
 author: Tomasz Waszczyk
-date: 2020-04-19T10:00:00.000Z
+date: 2021-04-19T10:00:00.000Z
 tags:
   - Getto
 draft: false
 ---
+
+### 2022
+
+Jeszcze nie wszystkie puzzle udaje się dopasować do układanki, ale już wyłania się obraz zasadniczy: Niemcy ze swoim przydupasem Francją, dogadały się z Rosjanami o podziale Europy i wypchnięciu z niej Anglików i USA. Z tej perspektywy wszystko bez problemów da się już wytłumaczyć: bezczelne grilowanie Polski( pamiętajmy o roli Bułgarów), Smoleńsk, blokowanie inwestycji w Polsce np Gazoport, aż w końcu napad na Ukrainę (że wymienię tylko najważniejsze).
+
+Obstrukcja Zachodniej Europy sprowadzająca się do pozorów w pomaganiu Ukrainie w wojennym wysiłku, to tylko konsekwencja wcześniejszych planów. Po położeniu rosyjskich rur na dnie Bałtyku, w interesie i Niemców i Rosjan było zablokowanie węgla, tak aby znów można było robić gaz-geschäft (Niemcy mają słabość do gazu: w czasie II wojny produkowali własny zwany cyklon-B, teraz postanowili wykorzystać równie zbrodniczo równie zbrodniczy gaz rosyjski).
+
+Powinniśmy raz na zawsze zapamiętać: Albo będziemy silnym państwem, albo nie będzie nas w ogóle.
+
+<img src="./img/april/polska2022.jpeg"><br><br>
 
 ### 1997
 

@@ -3,11 +3,25 @@ layout: post
 title: 22 kwietnia
 image: img/april/odezwa.jpg
 author: Tomasz Waszczyk
-date: 2020-04-22T10:00:00.000Z
+date: 2021-04-22T10:00:00.000Z
 tags:
   - Ukraina
 draft: false
 ---
+
+### 2022
+
+> Johnson: Być może wyślemy do Polski czołgi, by Polska dała swoje Ukraińcom
+
+Boris Johnson oświadczył w czasie konferencji prasowej w Indiach, że Wielka Brytania rozważa wysłanie do Polski czołgów, tak, aby umożliwić wysłanie przez Polskę jej czołgów Ukraińcom.
+
+<img src="./img/april/johnson.webp"><br><br>
+
+---
+
+<img src="./img/april/10yeartreasury.jpeg"><br><br>
+
+<img src="./img/april/chinskaautarkia.jpeg"><br><br>
 
 ### 2020
 

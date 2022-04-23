@@ -60,6 +60,11 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 ### Audycje, podcasty
 
+<video width="640" height="480" controls>
+<source src="./movies/others/komorowskiusa.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 :one: "O czym milczy historia" @ RadioKatowice(YouTube)
 
 :two: Szeptana historia Polski. Jak "handlowano" ludźmi w dawnej Polsce(TokFM) @ Dr hab. Kacper Pobłocki

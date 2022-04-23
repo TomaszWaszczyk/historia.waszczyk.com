@@ -511,6 +511,15 @@ https://pl.wikipedia.org/wiki/Sylvia_Plath
 
 Ludwik Jerzy Kern
 
+---
+
+Powoli umiera ten, kto nie podróżuje, kto nie czyta, ten kto nie słucha muzyki, ten kto nie obserwuje.
+Powoli umiera ten, kto niszczy swą miłość własną, ten kto znikąd nie chce przyjąć pomocy.
+Powoli umiera ten, kto staje się niewolnikiem przyzwyczajenia, ten kto odtwarza codziennie te same ścieżki, ten kto nigdy nie zmienia punktów odniesienia, ten kto nigdy nie zmienia koloru swojego ubioru, ten kto nigdy nie porozmawia z nieznajomym...
+kto chociaż raz w życiu nie odłożył na bok racjonalności.
+
+---
+
 ### Opowiadania
 
 https://pl.wikipedia.org/wiki/Kraina_%C5%9Blepc%C3%B3w

@@ -9,6 +9,18 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Niedzielski o paszporcie covidowym: Instrument, który wygasa
+
+Są wyraźne wskazania, że to jest instrument, który wygasa. Powoli się z nim żegnamy - mówił o paszporcie covidowym w Polsat News Adam Niedzielski. Minister zdrowia odniósł się też do możliwego zniesienia w kwietniu stanu epidemii i zamienienia go na stan zagrożenia epidemią.
+
+---
+
+<img src="./img/april/papiezfranciszekklimat.png"><br><br>
+
+---
+
 ### 2020
 
 #### The Financial Stability Board has just launched their consultations on global stablecoins
