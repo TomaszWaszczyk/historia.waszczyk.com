@@ -11,6 +11,12 @@ draft: false
 
 ### 2022
 
+Pierwsi stypendysci Gazpromu z Uniwersytet Warszawski. Wioletta Mela - obecnie Katedra Ukrainistyki UW, oraz Konrad Dynkiewicz.
+
+<img src="./img/april/stypendia.jpeg"><br><br>
+
+---
+
 > "Nikogo nie chcemy atakować, ale nasza Ojczyzna jest dość rozległa, żeby pochować wrogów".
 
 >  Andrzej Duda: Polska chce żyć w pokoju, ale...

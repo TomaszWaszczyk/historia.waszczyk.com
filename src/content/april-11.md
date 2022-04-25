@@ -25,6 +25,12 @@ draft: false
 
 Board of Directors (the “Board”) of MicroStrategy Incorporated (the “Company”) modified the compensation arrangements for non-employee directors. Going forward, non-employee directors will receive all fees for their service on the Company’s Board in bitcoin instead of cash.
 
+---
+
+<img src="./img/april/euronet1k.png"><br><br>
+
+---
+
 ### 2020
 
 The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs.

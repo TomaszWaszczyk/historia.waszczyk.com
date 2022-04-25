@@ -3,11 +3,35 @@ layout: post
 title: 25 kwietnia
 image: img/april/battery1.jpeg
 author: Tomasz Waszczyk
-date: 2020-04-25T10:00:00.000Z
+date: 2021-04-25T10:00:00.000Z
 tags:
   - Cryptocurrency systems
 draft: false
 ---
+
+### 2022
+
+<img src="./img/april/morawieckipomoc7.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc1.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc2.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc3.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc4.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc5.jpg"><br><br>
+
+<img src="./img/april/morawieckipomoc6.jpg"><br><br>
+
+---
+
+<img src="./img/april/muskhate.png"><br><br>
+
+---
+
+> The CFOs of Pfizer and Moderna have both resigned over the past 72 hours.
 
 ### 2021
 

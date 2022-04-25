@@ -3,11 +3,17 @@ layout: post
 title: 26 kwietnia
 image: img/april/bismark.jpg
 author: Tomasz Waszczyk
-date: 2020-04-26T10:00:00.000Z
+date: 2021-04-26T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+Short EU, long this:
+
+<img src="./img/april/longshort.jpeg"><br><br>
 
 ### 2021
 
@@ -113,6 +119,10 @@ W czasie wojny obronnej we wrześniu 1939 roku służył w szpitalu w Łodzi, a 
 <img src="./img/april/szymanski.jpg"><br><br>
 
 ---
+
+### 1923
+
+<img src="./img/april/weimar1923.jpeg"><br><br>
 
 ### 1915
 

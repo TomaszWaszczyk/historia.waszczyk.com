@@ -168,7 +168,7 @@ Decyzją Heinricha Himmlera został założony pierwszy niemiecki obóz koncentr
 Ale to nie był wynalazek Niemców. Pierwsze obozy zastosowały władze hiszpańskie (gen. Valeriano Weyler y Nicolau) w 1896 roku na Kubie – wobec rebeliantów, ale także wobec chłopów niebędących powstańcami. Obozy nazwano „campos de concentración. Władze brytyjskie (gen. Horatio Herbert Kitchener) w czasie II wojny burskiej (1899–1902) też zorganizowały „concentration camps” (obozy koncentracyjne) dla kobiet i dzieci Burów walczących przeciwko Anglikom. W obozach zmarło z głodu i chorób ok. 27 tys. (1/4) więźniów.
 
 <img src="./img/march/dachau.jpg"><br><br>
-
+<!-- https://pl.wikipedia.org/wiki/Wojny_burskie -->
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-21.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
