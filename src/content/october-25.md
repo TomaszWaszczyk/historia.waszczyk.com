@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/october/barrons.jpeg"><br><br>
 
+<img src="./img/october/sasininflacja.jpeg"><br><br>
+
 ### 2020
 
 Dr Andrzej Sadowski, prezydent Centrum im. Adama Smitha:

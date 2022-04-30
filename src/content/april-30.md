@@ -3,9 +3,9 @@ layout: post
 title: 30 kwietnia
 image: img/april/poalej.jpg
 author: Tomasz Waszczyk
-date: 2020-04-30T10:00:00.000Z
+date: 2021-04-30T10:00:00.000Z
 tags:
-  - "Proletarjusze"
+  - "Proletariusze"
 draft: false
 ---
 
@@ -39,6 +39,10 @@ adresy email to: piotrw.kuczynski@gmail.com i piotr.kuczynski@upcpoczta.pl -->
 https://en.wikipedia.org/wiki/Greek_government-debt_crisis#2015
 
 Przy okazji bankructwa Grecji limit wypłaty gtówki był na poziomie 60€.
+
+### 1985
+
+Decyzja Rady Ministrów o przekazaniu OPZZ majątku „byłych związków zawodowych” NSZZ „Solidarność” i CRZZ.
 
 ### 1981
 

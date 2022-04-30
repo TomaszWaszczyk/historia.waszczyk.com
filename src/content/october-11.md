@@ -34,6 +34,10 @@ Na zdjęciu Bogusław Linda i Maciej Kozłowski.
 
 <img src="./img/october/kroll.jpg"><br><br>
 
+### 1968
+
+<img src="./img/october/software.jpeg"><br><br>
+
 ### 1966
 
 W Będzinie została zamordowana Jolanta Gierek -18 letnia bratanica ówczesnego ówczesnego I sekretarza Komitetu Wojewódzkiego Polskiej Zjednoczonej Partii Robotniczej.   Edwarda Gierka.

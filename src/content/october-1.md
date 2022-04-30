@@ -39,6 +39,10 @@ Prędkość 25 razy większa od prędkości dźwięku. Pocisk lata z prędkości
 
 Dekret prezydencji USA który nawołuje do bojkotu wenezuelskiej branży złota - Executive Order 13850.
 
+### 2015
+
+<img src="./img/october/vaccinationdefinition.jpeg"><br><br>
+
 ### 2010
 
 W październiku 2010r. berlińska firma DBM Energy wraz z inną niemiecką firmą Lekker Energie zaprezentowała elektryczne Audi A2, które przejechało około 600 km z Monachium do Berlina, przy średniej prędkości 90 km/h z włączonym ogrzewaniem. oraz oświetleniem.

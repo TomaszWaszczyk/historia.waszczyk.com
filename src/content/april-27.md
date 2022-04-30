@@ -3,11 +3,35 @@ layout: post
 title: 27 kwietnia
 image: img/april/sojusz.jpg
 author: Tomasz Waszczyk
-date: 2020-04-27T10:00:00.000Z
+date: 2021-04-27T10:00:00.000Z
 tags:
   - Oświęcim
 draft: false
 ---
+
+### 2022
+
+Msza święta w klasycznym rycie rzymskim nie będzie już sprawowana na Wawelu. Długo wytrzymała, ale ksiądz arcybiskup zdecydował, że wystarczy już z tą całą Tradycją w sercu Krakowa.
+
+---
+
+Tymczasem 11.03.22' na Wiejskiej przeszła ustawa poz.664/Dział II Art 3,4 5 w którym mowa,  że wszystkie Polskie kobiety w wieku 18-60 lat idą na wojnę.
+
+---
+
+<img src="./img/april/musktwtr.jpeg"><br><br>
+
+<img src="./img/april/elontwitter.jpeg"><br><br>
+
+---
+
+
+
+### 1985
+
+W Warszawie podczas obrad przywódców państw Układu Warszawskiego miało miejsce podpisanie porozumienia w sprawie przedłużenia działania tego sojuszu do roku 2005.
+
+<img src="./img/april/sojusz.jpg"><br><br>
 
 ### 1940
 
@@ -20,11 +44,9 @@ podobnych niemieckich obozów
 koncentracyjnych istniejących na terenie
 całej okupowanej Europy.
 
-### 1985
+### 1939
 
-W Warszawie podczas obrad przywódców państw Układu Warszawskiego miało miejsce podpisanie porozumienia w sprawie przedłużenia działania tego sojuszu do roku 2005.
-
-<img src="./img/april/sojusz.jpg"><br><br>
+<img src="./img/april/gazetagdanska.png"><br><br>
 
 ### 1937
 

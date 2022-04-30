@@ -15,6 +15,8 @@ kaszojad
 John Dury
 https://www.brainyquote.com/authors/johann-gottlieb-fichte-quotes
 https://unibot.us.edu.pl/dzieci-moga-patentowac/
+
+A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 -->
 
 ### Książki i bajki

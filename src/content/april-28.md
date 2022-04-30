@@ -3,11 +3,15 @@ layout: post
 title: 28 kwietnia
 image: img/april/fakenews.jpg
 author: Tomasz Waszczyk
-date: 2020-04-28T10:00:00.000Z
+date: 2021-04-28T10:00:00.000Z
 tags:
   - Work from home
 draft: false
 ---
+
+### 2022
+
+BREAKING: Biden Admin Department of Homeland Security to create a 'Disinformation Governance Board' dedicated to 'countering misinformation'
 
 ### 2020
 
