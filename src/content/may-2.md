@@ -3,11 +3,17 @@ layout: post
 title: 2 maja
 image: img/may/polskawniemczech.jpg
 author: Tomasz Waszczyk
-date: 2020-05-02T10:00:00.000Z
+date: 2021-05-02T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+<img src="./img/may/glupiababa.png"><br><br>
+
+<img src="./img/may/masksmay2022.jpeg"><br><br>
 
 ### 2020
 

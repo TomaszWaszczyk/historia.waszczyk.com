@@ -9,6 +9,11 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Buffett: „rynki finansowe w ostatnich dwóch latach w nadzwyczajny sposób przypominają kasyno, napędzane przez Wall Street”
+Munger: „nigdy dotąd na rynkach nie było tyle czystego hazardu co teraz”
+
 ### 2021
 
 Inflacja w kwietniu 4,3%!
