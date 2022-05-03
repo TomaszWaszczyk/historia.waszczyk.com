@@ -3,11 +3,52 @@ layout: post
 title: 3 maja
 image: img/may/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2020-05-03T10:00:00.000Z
+date: 2021-05-03T10:00:00.000Z
 tags:
   - Warren Buffett
 draft: false
 ---
+
+### 2022
+
+🇪🇺🇷🇺 
+
+There is no "russia side" vs "euro side". 💣this war is SUPRA-NATIONAL ELITES vs the rest.
+
+in the process, all they need is to place an enemy: citizens blaming to Putin= total success from elites
+
+Elites are funding the war, both sides. because war is against citizens.
+
+> Current thing
+
+<img src="./img/may/currentthing.png"><br><br>
+
+<img src="./img/may/putinflation.png"><br><br>
+
+By christmas 2021 it was all about COVID distraction.
+
+Gas prices -30% decline, for the insiders just to accumulate at cheap prices during WEEKS.
+
+Then covid goes offline, bring Putin to the screen.
+
+"oh look energy prices"and german PPI 30% up!
+
+<img src="./img/may/gasprices.jpeg"><br><br>
+
+---
+
+<img src="./img/may/gdanskflaga.jpeg"><br><br>
+
+<!--
+ total value locked (TVL) in:
+
+              ██
+              ██ 
+              ██ 
+              ██
+              ██
+              ██                                                                               
+ pen & paper contracts         smart contracts -->
 
 ### 2020
 
@@ -68,6 +109,10 @@ Po jej zakończeniu postanowiono zgodnie z założeniami okrążyć Rynek, by ul
 Dla partii to było już zbyt wiele. Do stłumienia protestu użyto m.in. samochód pancerny ustawiony na plantach w okolicy ul. Szewskiej i kawalerię Korpusu Bezpieczeństwa Wewnętrznego. Byli zabici i ranni. Nazajutrz zszokowani masakrą Krakowianie składali kwiaty i znicze w miejscach śmierci protestujących.
 
 <img src="./img/may/agh.jpg"><br><br>
+
+### ~~1942
+
+<img src="./img/may/gdanskflaga2.png"><br><br>
 
 ### 1792
 

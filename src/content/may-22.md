@@ -23,6 +23,25 @@ Warszawa, 22.05.2020 (ISBnews) - Sprzedaż detaliczna (w cenach stałych) spadł
 
 <img src="./img/may/pizzaday.jpg"><br><br>
 
+### 1954
+
+Robert Howard Lord to historyk i dyplomata, dzięki któremu Prezydent USA Woodrow Wilson reprezentował zdecydowanie propolskie stanowisko na Konferencji Paryskiej w Wersalu.
+
+To jedyny na świecie historyk, który pisząc książkę o przyczynach rozbioru Polski i Konstytucji 3 Maja dostał się do całości archiwów rosyjskich w Petersburgu (w tym do wszystkich tajnych do dziś dokumentów).
+Nie mając żadnych związków z Polską prof. Lord uznał, że to nie Polacy doprowadzili do rozbiorów (choć często nieumiejętnie się bronili, nie znając swoich faktycznych możliwości i ulegając dezinformacjom ze strony swoich sąsiadów) a Rosja, Prusy i Austria dokonały wspólnie największej zbrodni politycznej tysiąclecia (która bez udziału Anglii nie byłaby możliwa) polegającej na likwidacji pokojowo nastawionego, całkiem dobrze zorganizowanego państwa sąsiedzkiego zamieszkałego przez wielki osobny naród.
+
+To z tej przyczyny Lord uważał, (wbrew Anglikom i Francuzom), że w Wersalu powinno się przywrócić Polskę w jej granicach przedrozbiorowych. Co dziwne Książka ta, choć będąca najlepiej udokumentowaną pracą na ten temat i przerywała polskie fałszywe polemiki odnośnie upadku Rzeczpospolitej w trybie "win własnych czy cudzych" nie została zauważona przez 60 lat przez polską historiografię i została przetłumaczona i wydana (tylko raz) w 1984 r. z entuzjastycznym wstępem prof. Jerzego Łojka.
+
+Jest to do dziś chyba najbardziej niedoceniona pozycja na temat upadku Rzeczpospolitej, notorycznie pomijana we wszystkich opracowaniach i przez wszystkie uniwersytety. Przy czym logiczne, ze pomijają ją i pomijali historycy niemieccy, rosyjscy, austriaccy czy angielscy, bo obala ona wygodną dla ówczesnych mocarstw tezę, że "Polacy sami byli sobie winni" wskazując na jawne dowody dyplomatycznego spisku mającego doprowadzić do bandyckiego podzielenia się zasobami zamożnego kraju (co wynika z właśnie z tajnych archiwów rosyjskich Katarzyny II). Usilne pomijanie tej pozycji także przez uniwersytety polskie zarówno II RP, PRL jak i obecne jest natomiast kompletnie nie zrozumiałe, chyba, że przyjmiemy, że ich uczeni dotowani z obcych funduszy nie reprezentują interesu Polski w ustaleniu prawdy historycznej lub że z jakichś względów wciąż wygodna jest dyskusja na temat "warcholstwa polskiej szlachty" które by rzekomo miało doprowadzić do rozbiorów.
+
+Co do samego Roberta Howarda Lorda, ostatecznie tak zachwycił się polskim duchem i polskim katolicyzmem, że będąc pastorem protestanckim porzucił naukę (był szefem katedry nowożytnej historii Europy w Harvard University) w wieku 41 lat i wstąpił do katolickiego seminarium duchownego w Massachusetts, aby po święceniach zostać najpierw wikarym parafii Św. Cecylii w Bostonie, a ostatecznie profesorem historii w seminarium Św. Jana w Brighton. Ten badacz uznany za jednego z najlepszych historyków ds. Europy w USA zmarł jako wicerektor tej instytucji i członek zarządu słynnej Boston Public Library 22 maja 1954 r.
+
+<img src="./img/may/trzecimaja.jpeg"><br><br>
+
+<img src="./img/may/howardlord.jpeg"><br><br>
+
+<img src="./img/may/howardlord2.jpeg"><br><br>
+
 ### 1943
 
 "W środku sali, gdzie dawano program, usłyszałem strzał -najpierw jeden, potem drugi, trzeci, czwarty, piąty... O parę kroków ode mnie, po prawej stronie zrobił się zgiełk. Przewracano stoły, naczynia, stołki, butelki. Wycie i krzyki. Po kilku minutach grupa żołnierzy poruszonych do ostatnich granic utorowała sobie przejście wśród tłumu krzycząc: 'Zamach' i trzymając rewolwery

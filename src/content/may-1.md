@@ -16,6 +16,8 @@ Trwa akcja #wyszczepsie
 
 <img src="./img/april/kolejkadoszczepieniaslask.jpg"><br><br>
 
+<img src="./img/may/zaszczepnsiewmajowke.jpg"><br><br>
+
 Szczepienia jednak nie odbyły się na Śląsku, ludzie czekali sobie i jednak nie wyszczepili się - widocznie nie mają co robić z czasem/sobą.
 
 <img src="./img/april/1maja.jpg"><br><br>
