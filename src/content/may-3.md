@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+Wywiad papieża Franciszka dla włoskiego dziennika "Corriere della Sera" wywołał falę komentarzy. Franciszek stwierdził, że jednym z możliwych powodów rosyjskiej napaści na Ukrainę mogło być "szczekanie pod drzwiami Rosji przez NATO". "Naiwność", "infantylizm polityczny" - w takich słowach wypowiedź głowy Kościoła komentują publicyści i eksperci.
+
+---
+
 🇪🇺🇷🇺 
 
 There is no "russia side" vs "euro side". 💣this war is SUPRA-NATIONAL ELITES vs the rest.
@@ -37,6 +41,20 @@ Then covid goes offline, bring Putin to the screen.
 
 ---
 
+231 years ago, the first Constitution was adopted in Europe, the second after the American one in the world - Constitution of 3 May 1791.
+
+Many years of neglect, as well as the aggressive policy of #Russia, #Prussia and #Austria led to the fact that the Polish-Lithuanian #Commonwealth 🇵🇱🇱🇹 was in the abyss, the first partition which taking a large part of the territories took place in 1772 for neighboring powers. A large part of the nobility stopped looking at the good of the state, and they only wanted their own assets. Fortunately, there were also people of good will.
+
+The state system had to be quickly modified, and a law such as liberum veto was withdrawn, which allowed one and often bribed MP to break up the Sejm and all its arrangements. Due to the existence of such laws, the Constitution was adopted at night when some deputies were not in the meeting room - it was the last chance to be saved. The Constitution introduced the separation of powers into legislative, executive and judicial. The main authors of the Constitution of May 3 were: the controversial King Stanisław August Poniatowski, Ignacy Potocki and Hugo Kołłątaj.
+
+The first time the Constitution Day was celebrated already in 1792, unfortunately it was impossible to save the country from partitions and maintain independence, Poland disappeared from the map for 123 years. The Constitution Day returned in 1922, when Poland returned to the map in 1918, later the holiday disappeared again when communism ruled in Poland, and finally returned in free Poland in 1990.
+
+"Long live the May, long live the Constitution, long live the King."
+
+---
+
+Dzień Flagi w Gdańsku:
+
 <img src="./img/may/gdanskflaga.jpeg"><br><br>
 
 <!--
@@ -49,6 +67,12 @@ Then covid goes offline, bring Putin to the screen.
               ██
               ██                                                                               
  pen & paper contracts         smart contracts -->
+
+ ---
+
+Zanim ktoś zaprosi "eksperta" od wojny Rosji z Ukrainą - kpt. Bogusława Packa z WSW niech wie że poza tym że służył lata całe komunie był bardzo zaangażowany w reset z Rosją chcąc wciągnąć w to kadrę i studentów AON! 
+
+<img src="./img/may/pacek.jpeg"><br><br>
 
 ### 2020
 

@@ -3,11 +3,23 @@ layout: post
 title: 4 maja
 image: img/may/chomsky.jpg
 author: Tomasz Waszczyk
-date: 2020-05-04T10:00:00.000Z
+date: 2021-05-04T10:00:00.000Z
 tags:
   - Hans Frank
 draft: false
 ---
+
+### 2022
+
+Ships waiting to dock because of China’s insane COVID strategy. This is intentional. Supply Chain War
+
+<img src="./img/may/shipschina.jpeg"><br><br>
+
+---
+
+BASiW nie publikuje już danych dotyczących Covid. Udział zaszczepionych w zachorowaniach w styczniu wynosił 57,6%, w lutym 62,4%  a w marcu 66,9%, a w zgonach odpowiednio 25,8%, 37,4% i 41,8%. Czy ta tendencja się utrzymuje?
+
+<img src="./img/may/basiw.png"><br><br>
 
 ### 2020
 

@@ -15,6 +15,18 @@ draft: false
 
 <img src="./img/may/masksmay2022.jpeg"><br><br>
 
+---
+
+Wicekanclerz przedstawia "gorzką prawdę" Niemcom. Trzeba będzie zaciskać pasa
+
+Ceny będą rosły, a państwo nie będzie mogło zawsze pomagać, na przykład refundując podwyżki energii – powiedział wicekanclerz Niemiec na spotkaniu z małymi i średnimi przedsiębiorcami.
+
+– Będziemy musieli nadal oczekiwać wyższych cen – stwierdził Robert Habeck, wicekanclerz Niemiec oraz szef resortu finansów. – Taka jest gorzka i twarda prawda – podkreślił.
+
+Jak zaznaczył, nie tylko inflacja sprawia, że perspektywy dla niemieckiej gospodarki są coraz gorsze. – Problemy piętrzą się jeden na drugim – przyznał, wspominając o przerwanych łańcuchach dostaw, ale i o braku wystarczającej liczby pracowników. Do tego dochodzi jeszcze ciągnąca się pandemia COVID-19. – Wszystkie te kłopoty łączą się ze sobą. I niestety łączą się w bardzo niedobry sposób – przyznał.
+
+---
+
 ### 2020
 
 Umiera Stefan Hambura
