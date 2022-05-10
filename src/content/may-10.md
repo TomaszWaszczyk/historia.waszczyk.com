@@ -3,10 +3,24 @@ layout: post
 title: 10 maja
 image: img/may/miezynski.jpg
 author: Tomasz Waszczyk
-date: 2020-05-10T10:00:00.000Z
+date: 2021-05-10T10:00:00.000Z
 tags:
   - Przedsiębiorcy
 draft: false
+---
+
+### 2022
+
+Map of Europe if all the ice in the world melted.
+
+<img src="./img/may/europemap.jpeg"><br><br>
+
+---
+
+<img src="./img/may/bitcoinfunkcja.png"><br><br>
+
+<img src="./img/may/stoplossesbtc.jpeg"><br><br>
+
 ---
 
 ### 2021

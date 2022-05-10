@@ -3,11 +3,15 @@ layout: post
 title: 6 maja
 image: img/may/breslau.jpg
 author: Tomasz Waszczyk
-date: 2020-05-06T10:00:00.000Z
+date: 2021-05-06T10:00:00.000Z
 tags:
   - Breslau
 draft: false
 ---
+
+### 2022
+
+<img src="./img/may/morawieckiwojna.jpeg"><br><br>
 
 ### 2021
 

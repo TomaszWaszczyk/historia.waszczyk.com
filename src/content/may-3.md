@@ -13,6 +13,8 @@ draft: false
 
 Wywiad papieża Franciszka dla włoskiego dziennika "Corriere della Sera" wywołał falę komentarzy. Franciszek stwierdził, że jednym z możliwych powodów rosyjskiej napaści na Ukrainę mogło być "szczekanie pod drzwiami Rosji przez NATO". "Naiwność", "infantylizm polityczny" - w takich słowach wypowiedź głowy Kościoła komentują publicyści i eksperci.
 
+W 1981 r. KGB próbowało zabić papieża, bo był niebezpieczny dla sowieckiego imperium zła. W 2022 r. papież chce jechać do stolicy imperium zła i mówi, że nie wolno go drażnić. Niby tylko 41 lat, a przecież inna epoka.
+
 ---
 
 🇪🇺🇷🇺 
@@ -50,6 +52,9 @@ The state system had to be quickly modified, and a law such as liberum veto was 
 The first time the Constitution Day was celebrated already in 1792, unfortunately it was impossible to save the country from partitions and maintain independence, Poland disappeared from the map for 123 years. The Constitution Day returned in 1922, when Poland returned to the map in 1918, later the holiday disappeared again when communism ruled in Poland, and finally returned in free Poland in 1990.
 
 "Long live the May, long live the Constitution, long live the King."
+
+„Dystrybutyści różnili się między sobą co do roli państwa. Sam Chesterton nie wierzył co do zasady w dobroczynną rolę jakiegokolwiek rządu. Był zdania, że każdy rząd, łącznie z demokratycznie wybranym rządem w państwie opartym na dystrybucji własności, ma tendencję, by nadużywać władzy, więc prędzej czy później zwróci się przeciw obywatelom. Zdawał sobie jednak sprawę, że dystrybutyści nie zdołają zaprowadzić zmian bez pomocy państwa. Skłaniał się ku opinii, że państwo powinno ingerować w gospodarkę, choć rzadko i ostrożnie, aby chronić interesy narodowe i zapobiec deformacjom systemu. Tym niemniej, w dystrybutyzmie mocno ograniczona jest rola państwa jako aparatu przymusu. Państwo nie może nakładać na obywatela stale nowych obowiązków ani podatków, nie może mu narzucać na przykład przymusowych ubezpieczeń, przymusowej edukacji czy przymusowego zaciągu do wojska. Przymusowa edukacja wolnych ludzi to sprzeczność sama w sobie, zaś edukacja państwowa to w ogóle nieporozumienie, ponieważ żaden system nie jest zainteresowany w masowym kształceniu obywateli. Prawdziwe, rzetelne wykształcenie obywatela oznacza wykształcenie krytyka systemu. W praktyce obowiązek szkolny służy więc głównie indoktrynacji.”
+J. Rydzewska, Chesterton. Dzieło i myśl, Wydawnictwo Antyk Marcin Dybowski, 2006.
 
 ---
 

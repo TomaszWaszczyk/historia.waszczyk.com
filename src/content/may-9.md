@@ -3,10 +3,32 @@ layout: post
 title: 9 maja
 image: img/may/targowica.jpg
 author: Tomasz Waszczyk
-date: 2020-05-09T10:00:00.000Z
+date: 2021-05-09T10:00:00.000Z
 tags:
   - Narodowy Bank Polski
 draft: false
+---
+
+### 2022
+
+New Zealand is reaching new levels of insanity for absolutely no scientific reason AT ALL!
+
+<img src="./img/may/newzeland.jpeg"><br><br>
+
+---
+
+<img src="./img/may/olafxi.jpeg"><br><br>
+
+---
+
+Ambasador Rosji Siergiej Andriejew został oblany czerwoną farbą przed Cmentarzem Żołnierzy Radzieckich w Warszawie. Incydent zarejestrowała kamera Polsat News. Informacja o oblaniu ambasadora Rosji dotarła do Chin. Internauci sugerują, że Polska prosi się o atak lub zniknięcie z map.
+
+<img src="./img/may/barszcznatwarzy.jpeg"><br><br>
+
+Następny powód by Rosja wniosła wyzwolenie Polsce..
+
+<img src="./img/may/polskiekoszty.jpeg"><br><br>
+
 ---
 
 ### 2021

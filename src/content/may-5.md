@@ -3,10 +3,20 @@ layout: post
 title: 5 maja
 image: img/may/beck.jpg
 author: Tomasz Waszczyk
-date: 2020-05-05T10:00:00.000Z
+date: 2021-05-05T10:00:00.000Z
 tags:
   - Beck
 draft: false
+---
+
+### 2022
+
+Devalued dollar. Both parents at work. Stressed out. Bills up. Stocks down. Divorced. Unemployed. Death.
+
+---
+
+Już siedmiu rosyjskich oligarchów zginęło w tajemniczych okolicznościach od początku wojny na Ukrainie! Jedni się powiesili, inni zostali znalezieni martwi wokół pozabijanych bliskich. Czy były to prawdziwe samobójstwa, w tym rozszerzone? Anders Aslund, szwedzki ekonomista i doradca rządowy ds. krajów byłego ZSRR ma swoje podejrzenia. Uważa, że sprawa może mieć przerażające drugie dno.
+
 ---
 
 ### 2020

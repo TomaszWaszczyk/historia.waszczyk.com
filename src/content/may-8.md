@@ -3,10 +3,30 @@ layout: post
 title: 8 maja
 image: img/may/fed.jpeg
 author: Tomasz Waszczyk
-date: 2020-05-08T10:00:00.000Z
+date: 2021-05-08T10:00:00.000Z
 tags:
   - TVP
 draft: false
+---
+
+### 2022
+
+Nigeria będzie pierwszym krajem, który w poniedziałek wstrzyma połączenia lotnicze - poinformowała w sobotę agencja Bloomberg.
+
+Rosnące ceny paliwa lotniczego sprawiają, że biznes staje się nieopłacalny.
+
+Operatorzy linii lotniczych „wstrzymają działalność w całym kraju” do odwołania, poinformował w oświadczeniu związek przewoźników lotniczych. To kolejny skutek inwazji Rosji na Ukrainę.
+
+<img src="./img/may/europa.png"><br><br>
+
+<img src="./img/may/europemap.jpeg"><br><br>
+
+---
+
+<img src="./img/may/wibor.jpeg"><br><br>
+
+<img src="./img/may/podwyzkistop.png"><br><br>
+
 ---
 
 ### 2021

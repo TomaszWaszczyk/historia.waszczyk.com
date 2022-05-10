@@ -3,7 +3,7 @@ layout: post
 title: 7 maja
 image: img/may/bolszewicy.jpg
 author: Tomasz Waszczyk
-date: 2020-05-07T10:00:00.000Z
+date: 2021-05-07T10:00:00.000Z
 tags:
   - Bolszewicy
 draft: false
