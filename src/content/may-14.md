@@ -3,11 +3,29 @@ layout: post
 title: 14 maja
 image: img/may/1rozbior.jpg
 author: Tomasz Waszczyk
-date: 2020-05-14T10:00:00.000Z
+date: 2021-05-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+W tzw. republice donieckiej mobilizują już kobiety w wieku 18-45 lat.
+
+<img src="./img/may/mobilizacjakobiet.jpeg"><br><br>
+
+<img src="./img/may/muralzaszczepsie.jpeg"><br><br>
+
+---
+
+<img src="./img/may/wireddigitalcash.png"><br><br>
+
+<img src="./img/may/monetarybase.jpeg"><br><br>
+
+### 2019
+
+<img src="./img/may/terra.jpeg"><br><br>
 
 ### 2021
 
@@ -101,6 +119,12 @@ The vote comes at a time when internet usage has skyrocketed, with tens of milli
 ### 2017
 
 Richard Stallman - American Capitalism has turned into Plutocracy
+
+### 1991
+
+Prezydent ZSRR Michaił Gorbaczow podpisuje dekret unieważniający deklaracje niepodległości Litwy i Estonii.
+
+<img src="./img/may/gorbaczow.jpeg"><br><br>
 
 ### 1983
 

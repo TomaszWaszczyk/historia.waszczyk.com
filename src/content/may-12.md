@@ -3,7 +3,7 @@ layout: post
 title: 12 maja
 image: img/may/halving.png
 author: Tomasz Waszczyk
-date: 2020-05-12T10:00:00.000Z
+date: 2021-05-12T10:00:00.000Z
 tags:
   - Bitcoin
 ---

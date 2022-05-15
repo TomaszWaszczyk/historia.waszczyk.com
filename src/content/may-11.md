@@ -3,7 +3,7 @@ layout: post
 title: 11 maja
 image: img/may/tarcza.png
 author: Tomasz Waszczyk
-date: 2020-05-11T10:00:00.000Z
+date: 2021-05-11T10:00:00.000Z
 tags:
   - Tarcza antykryzysowa
 draft: false
@@ -65,6 +65,12 @@ Your browser does not support the video tag.
 ---
 
 > Jak się krzyczało co tydzień o końcu demokracji i państwa prawa, to nie dziwota, że teraz - kiedy realnie ten koniec nadchodzi - nikogo to nie rusza.
+
+### 2019
+
+When you GIVE something to people without them earning it, they don't understand the value and treat it like it has no value
+
+<img src="./img/may/may2019.jpeg"><br><br>
 
 ### 1997
 

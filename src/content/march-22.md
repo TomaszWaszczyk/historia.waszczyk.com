@@ -17,6 +17,8 @@ Polityka banku centralnego kierowanego przez prezesa Glapińskiego: skupowanie h
 
 ---
 
+<img src="./img/march/dopniewszystko.jpeg"><br><br>
+
 <img src="./img/march/eksperci.jpeg"><br><br>
 
 ---

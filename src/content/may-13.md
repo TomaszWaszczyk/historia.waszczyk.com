@@ -3,10 +3,35 @@ layout: post
 title: 13 maja
 image: img/may/templestairs.jpg
 author: Tomasz Waszczyk
-date: 2020-05-13T10:00:00.000Z
+date: 2021-05-13T10:00:00.000Z
 tags:
   - Bank of England
 draft: false
+---
+
+### 2022
+
+<img src="./img/may/russiawarsow.png"><br><br>
+
+---
+
+W opublikowanym w czwartek rano wspólnym oświadczeniu prezydenta Niinisto i premier Sanny Marin przekazano, że Finlandia powinna ubiegać się o członkostwo w NATO możliwie jak najszybciej. „Oczekujemy, że kroki na szczeblu krajowym wymagane do podjęcia tego rozwiązania zostaną podjęte energicznie w najbliższych dniach” – napisano.
+
+Po tej deklaracji proces wejścia Finlandii do NATO ma zostać przyspieszony. Prawdopodobnie w niedzielę fiński rząd formalnie zdecyduje o ubieganiu się o członkostwo w Sojuszu Północnoatlantyckim, a parlament ma się tym zająć w poniedziałek.
+Ostre słowa rosyjskiego dyplomaty
+
+Do sprawy rozszerzenia NATO o Finlandię i Szwecję w ostry sposób odniósł się zastępca ambasadora Rosji przy ONZ Dmitrij Poliański.
+
+– Jeśli na tych terytoriach znajdują się oddziały NATO, staną się one celem - lub możliwym celem - uderzenia – powiedział dyplomata i dodał, że NATO jest dla Rosji „bardzo nieprzyjaznym sojuszem”.
+
+– Jest wrogiem, a samo NATO przyznało, że Rosja jest wrogiem (…) Oznacza to, że Finlandia i Szwecja nagle, zamiast krajami neutralnymi, stają się częścią wroga i ponoszą wszelkie ryzyko – zaznaczył.
+
+---
+
+<img src="./img/may/samcikofinansach.png"><br><br>
+
+<img src="./img/may/jimcrammer.png"><br><br>
+
 ---
 
 ### 2021

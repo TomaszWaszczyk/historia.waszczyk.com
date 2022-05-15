@@ -3,7 +3,7 @@ layout: post
 title: 15 maja
 image: img/may/majowy.jpg
 author: Tomasz Waszczyk
-date: 2020-05-15T10:00:00.000Z
+date: 2021-05-15T10:00:00.000Z
 tags:
   - Przewrót majowy
 draft: false

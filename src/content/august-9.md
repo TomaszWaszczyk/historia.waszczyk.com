@@ -36,6 +36,10 @@ W nocy z 14 na 15 sierpnia 1941 roku większość aresztowanych Polaków, około
 
 <img src="./img/august/kruger.jpg"><br><br>
 
+### 1929
+
+<img src="./img/august/TheCreaturefromJekyllIsland.jpeg"><br><br>
+
 ### 1864
 
 Urodził się Roman Dmowski: https://pl.wikipedia.org/wiki/Roman_Dmowski
