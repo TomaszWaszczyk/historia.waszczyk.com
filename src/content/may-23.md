@@ -3,9 +3,21 @@ layout: post
 title: 23 maja
 image: img/may/glass-act.jpg
 author: Tomasz Waszczyk
-date: 2020-05-23T10:00:00.000Z
+date: 2021-05-23T10:00:00.000Z
 tags:
   - Glass-Steagall
+---
+
+### 2022
+
+<img src="./img/may/bitcoinfall.png"><br><br>
+
+---
+
+Książka o Ethereum dla Papieża:
+
+<img src="./img/may/camilarussopapiez.jpeg"><br><br>
+
 ---
 
 ### 2021

@@ -3,10 +3,43 @@ layout: post
 title: 24 maja
 image: img/may/dodruk.png
 author: Tomasz Waszczyk
-date: 2020-05-24T10:00:00.000Z
+date: 2021-05-24T10:00:00.000Z
 tags:
   - Pauperyzacja systemowa
 draft: false
+---
+
+### 2022
+
+<img src="./img/may/centralbankassetsgrowth.jpeg"><br><br>
+
+<img src="./img/may/circleceo.jpeg"><br><br>
+
+<img src="./img/may/valuezero.png"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/may/lagarde.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/may/informatyktozlo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/may/norwayshareprofit.jpeg"><br><br>
+
+<img src="./img/may/pierdoleniezebrane.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/may/carbonfootprint.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

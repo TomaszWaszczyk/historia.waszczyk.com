@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Jeff Bezos:
+
+> In fact, the administration tried hard to inject even more stimulus into an already over-heated, inflationary economy and only Manchin saved them from themselves. Inflation is a regressive tax that most hurts the least affluent. Misdirection doesn’t help the country.
+
 ### 2021
 
 Nowy Ład:

@@ -3,10 +3,60 @@ layout: post
 title: 26 maja
 image: img/may/Polkadot_is-_live.png
 author: Tomasz Waszczyk
-date: 2020-05-26T10:00:00.000Z
+date: 2021-05-26T10:00:00.000Z
 tags:
   - Austrians in 2020
 draft: false
+---
+
+### 2022
+
+IMF Boss Says Crypto World 'Important' Despite Terra's Collapse But Has Choice Words on Bitcoin
+
+<img src="./img/may/georgievaimf.png"><br><br>
+
+> At the World Economic Forum in Davos, Kristalina Georgieva says all digital assets shouldn't be treated the same — as crypto "offers us all faster service, lower cost, and more inclusion."
+
+The International Monetary Fund's managing director has said the world shouldn't be deterred from embracing cryptocurrencies — even after the dramatic collapse of the Terra ecosystem.
+
+In a potentially surprising statement at the World Economic Forum in Davos, Kristalina Georgieva was full of praise for digital assets, and said:
+
+> "It offers us all faster service, much lower cost, and more inclusion. But only if we separate apples from oranges and bananas."
+
+This is where things get a little bit murkier — as the IMF executive didn't specify which digital assets she regards as better than others. Instead, her overarching point was that all cryptocurrencies shouldn't be treated the same way — and regulation that protects consumers and helps them make informed decisions is crucial:
+
+> "There are very important responsibilities for the central banks and for other regulators to make sure that everybody can step into this world with some confidence."
+
+Despite her upbeat assessment, Georgieva made it clear that she is cautious about Bitcoin being treated as an everyday currency. During a panel on central bank digital currencies, she said:
+
+> "When I say that Bitcoin may be called 'coin' but it's not money. Why? Because a prerequisite for something to be money is to be a stable store of value. So you can actually plan around it."
+
+And speaking more specifically about the collapse of the UST stablecoin, the Bulgarian economist said she feels for those who lost money as a result — and said a lack of education on "this new investment world" is a big problem.
+
+Returning to the theme that not all stablecoins should be tarred with the same brush, she said it's crucial for such assets to be properly backed by assets that are held in reserve — meaning they can be redeemed for fiat without causing the entire ecosystem to collapse. She warned:
+
+> "The less there is backing [a stablecoin], the more you should be prepared to take the risk of this thing blowing up in your face."
+
+'Just Because You Can, Doesn't Mean You Should'
+
+Georgieva also jokingly alluded to the "hate tweets" she has received after the IMF expressed opposition to countries that have adopted Bitcoin as legal tender.
+
+Referring to El Salvador's move to embrace BTC last September, she described President Nayib Bukele's Bitcoin Law as a "sovereign decision" — but said that this doesn't necessarily make it a good decision.
+
+CNNs Julia Chatterley, who was moderating the panel on CBDCs, said Georgieva had previously characterized it like this: just because you can, doesn't mean you should.
+
+Georgieva was full of praise for the private sector — and said the world of fintech "bursts with innovation." However, she added that central banks deliver a finality of payments that the private sector cannot match.
+
+Dozens of countries around the world are seriously exploring central bank digital currencies in the hope that they could modernize payments infrastructure.
+
+But some Bitcoiners in particular have been exceedingly cautious about the introduction of digital dollars and digital pounds — claiming that they could erode privacy and be used as a form of surveillance against everyday consumers.
+
+---
+
+<img src="./img/may/vc.jpeg"><br><br>
+
+<img src="./img/may/fear.jpeg"><br><br>
+
 ---
 
 ### 2021

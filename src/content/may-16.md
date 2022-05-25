@@ -3,9 +3,27 @@ layout: post
 title: 16 maja
 image: img/may/konferencja.jpg
 author: Tomasz Waszczyk
-date: 2020-05-16T10:00:00.000Z
+date: 2021-05-16T10:00:00.000Z
 tags:
   - Kraków
+---
+
+### 2022
+
+<img src="./img/may/ft.png"><br><br>
+
+<img src="./img/may/starlay.png"><br><br>
+
+<img src="./img/may/peterschiff.png"><br><br>
+
+---
+
+W rok zdolność kredytowa Polaków zmniejszyła się o połowę. Kupno mieszkania w dużym mieście to w coraz większym stopniu luksus dla zamożnych. Reszta ma wynajmować – także w TBS czy od funduszy – czytamy w poniedziałkowym "Dzienniku Gazecie Prawnej".
+
+Dziennik zwraca uwagę, że rosnące stopy procentowe gwałtownie ograniczają możliwości zaciągania kredytu hipotecznego. "Zdolność kredytowa obniżyła się o ponad połowę względem 2021 r., przy czym za około dwie trzecie spadku odpowiada wzrost stóp procentowych, a za około jedną trzecią rekomendowane przez Komisję Nadzoru Finansowego (KNF) zmiany w zasadach wyliczania zdolności" – wyjaśnia gazecie Wojciech Matysiak, kierownik Zespołu Analiz Nieruchomości PKO BP.
+
+Jak dodaje, obecnie przy 20-proc. wkładzie własnym możliwy jest zakup 50–70 mkw. w zależności od miasta, podczas gdy średnio w 2021 r. było to 120–160 mkw. Według Wojciecha Matysiaka wzrost stóp procentowych oraz zalecenie KNF wpływają natomiast pozytywnie na popyt na rynku najmu, co uzasadnia oczekiwanie tu wyższej stopy zwrotu. "Obecnie wskutek tych czynników oraz napływu uchodźców rentowność najmu jest nawet o ok. 1 pkt proc. wyższa niż rok temu" – akcentuje w rozmowie z gazetą analityk.
+
 ---
 
 ### 2021

@@ -3,10 +3,52 @@ layout: post
 title: 25 maja
 image: img/may/podzial.jpg
 author: Tomasz Waszczyk
-date: 2020-05-25T10:00:00.000Z
+date: 2021-05-25T10:00:00.000Z
 tags:
   - GDPR
 draft: false
+---
+
+### 2022
+
+Average price of a new home in the US...
+
+2012: 288k
+
+2013: 337k
+
+2104: 325k
+
+2015: 340k
+
+2016: 369k
+
+2017: 366k
+
+2018: 385k
+
+2019: 385k
+
+2020: 360k
+
+2021: 435k (+21% YoY)
+
+2022: 570k (+31% YoY)
+
+---
+
+<img src="./img/may/ukrainiecpolak.png"><br><br>
+
+<img src="./img/may/firmypr.jpg"><br><br>
+
+<img src="./img/may/horban.jpeg"><br><br>
+
+<img src="./img/may/Map-of-The-World-by-China.jpg"><br><br>
+
+<img src="./img/may/rubel.jpeg"><br><br>
+
+<img src="./img/may/tusk.jpeg"><br><br>
+
 ---
 
 ### 2021

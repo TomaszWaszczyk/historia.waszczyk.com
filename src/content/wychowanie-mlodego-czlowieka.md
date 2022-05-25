@@ -124,6 +124,19 @@ Your browser does not support the video tag.
 
 * https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w
 
+---
+
+W wiosce smerfów mieszkało ich - wiadomo - setka. Każdy smerf miał inne umiejętności, które codziennie mógł sprzedać za jedną monetę, za którą mógł następnie kupić u innego smerfa to co mu akurat było potrzebne. Np. Łasuch każdego dnia produkował jedno ciastko i sprzedawał je za jedną monetę. Wszystkim oczywiście zarządzał Papa Smerf – on też będąc szefem wioski jako jedyny miał prawo wydawać nowe monety dla wioskowej społeczności, jeśli zaszłaby taka potrzeba.
+Na początku zupełnie wystarczało 100 monet – po jednej dla każdego Smerfa. Pewnego dnia Smerf Malarz zaczął malować dwa obrazy dziennie zamiast jednego – pomyślał, że mógłbym zarabiać dwie monety. W jego ślady poszły jeszcze dwa inne Smerfy. Papa Smerf wyprodukował więc dodatkowe 3 monety i kupił za nie usługi u pracowitych smerfów. Dzięki tej operacji w obrocie były już 103 monety a trzech smerfów pracowało więcej i zarabiało 2 razy więcej od pozostałych – po dwie monety dziennie.
+Inne smerfy też zapragnęły dobrobytu i zaczęły mocniej pracować aby zarabiać więcej monet. Papa Smerf stopniowo produkował nowe monety. Nie minął więcej niż rok i w obrocie było już 150 monet i odpowiednio tyle samo produktów i usług wytwarzanych przez społeczność. Wzbudziło to jednak niepokoje i niezadowolenie. Przykładowo taki Smerf Poeta występował 3 razy dziennie i zarabiał 3 monety, nie wspominając o Pracusiu, który prawie nie sypiał ale zarabiał aż 5 monet. Nadal jednak aż 60 smerfów zarabiało tylko 1 monetę. Bardzo drażniło to szczególnie Smerfa Ciamajdę, który niewiele potrafił zrobić dobrze i nadal sprzedawał swoje usługi za 1 monetę. Wraz z Smerfem Marudą i Lalusiem postanowili bardziej sprawiedliwie podzielić monety.
+Ogłosili, że jeśli Smerf Ciamajda zostanie wybrany na nowego szefa wioski, to natychmiast da po dodatkowej monecie każdemu smerfowi, który dziś zarabia tylko jedną. Smerfy – reformatorzy zwołali zebranie całej społeczności i ogłosili swój program. Spodobał się on oczywiście 60 smerfom zarabiających po jednej monecie – byli oni chętni na głosowania na nowego szefa. Szefem wioski został Ciamajda a Papę Smerfa odsunięto od rządzenia jako niezdolnego do zapewnienia dobrobytu mieszkańcom.
+Nowy szef Ciamajda rozdał więc dodatkowe 60 monet – mieliśmy ich zatem w wiosce już 210. Niestety nadal produkowano łącznie towary i usługi warte jeszcze wczoraj tylko 150 monet. Nowo wzbogacona grupa smerfów posiadająca już do dyspozycji 2 monety ustawiła się w kolejkach na zakupy. Pracuś szybko zorientował się, że nie da rady świadczyć więcej niż 5 usług dziennie a w kolejce stało 10 Smerfów.
+Co więc zrobił? Ogłosił, że od dziś każda jego usług kosztuje 2 monety zamiast jednej. Smerfy z kolejki trochę ponarzekały na drożyznę, ale koniec końców pierwszych pięciu szczęśliwców z kolejki zapłaciło tyle ile oczekiwał Pracuś. Ten zakończył dzień z 10 monetami, nie miał zatem problemu aby zacząć płacić na ciastka Łasucha też 2 monety, bo te oczywiście też zdrożały.
+Zwykłe smerfy zaczęły się orientować, że wszystko kosztuje coraz więcej, przyszły więc ze skargą do Ciamajdy. Ten jednak uspokajał ich - to wszystko wina Gargamelflacji a nie jego decyzji o rozdaniu 60 monet. W końcu Papa smerf też rozdał 50 monet przez poprzedni rok i nic się nie działo. Ogłosił też, że Smerfy powinny się cieszyć bo zarabiają teraz 2 monety a nie jak za czasów Papy tylko jedną. Kazał nadawać o tym materiał promocyjny codziennie przez wioskowy radiowęzeł. Dodał też, że chętnie rozda kolejne 100 monet i teraz to już na pewno Smerfy będzie na wszystko stać.
+zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usługi.Smerfy odeszły szczęśliwe do domu, już myśląc jak to będzie wspaniale.
+
+---
+
 ### Programowanie = szkoła myślenia
 
 * https://shelly.dev/

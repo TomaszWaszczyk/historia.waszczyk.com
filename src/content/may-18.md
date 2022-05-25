@@ -3,10 +3,18 @@ layout: post
 title: 18 maja
 image: img/may/skladki.jpg
 author: Tomasz Waszczyk
-date: 2020-05-18T10:00:00.000Z
+date: 2021-05-18T10:00:00.000Z
 tags:
   - Digital Dollar
 ---
+
+### 2022
+
+Rankiem 18 maja białoruskie księgarnie państwowe otrzymały nakaz wycofania ze sprzedaży powieści „Rok 1984” George’a Orwella. Informację tę portale Nasza Niwa i Hrodna.life potwierdziły w dwóch księgarniach należących do rządowej sieci Belkniga. Sytuacja w prywatnych przedsiębiorstwach nie jest jeszcze jasna.
+
+„Wszystkie wydania książki 'Rok 1984′ Orwella mają zostać wycofane ze sprzedaży. Sprawozdanie z realizacji polecenia należy złożyć nie później niż 19 maja” – czytamy w dyspozycji, którą otrzymały księgarnie. Portal Nasza Niwa wyjaśnia, że posiada kopię dokumentu, ale nie publikuje zdjęcia ze względu na bezpieczeństwo osób, które przekazały tę informację.
+
+<img src="./img/may/1984.webp"><br><br>
 
 ### 2021
 

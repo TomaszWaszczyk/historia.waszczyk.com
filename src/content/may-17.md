@@ -3,11 +3,40 @@ layout: post
 title: 17 maja
 image: img/may/tarcza5.jpg
 author: Tomasz Waszczyk
-date: 2020-05-17T10:00:00.000Z
+date: 2021-05-17T10:00:00.000Z
 tags:
   - Tarcza 5.0
 draft: false
 ---
+
+### 2022
+
+Marek Suski spotkał się z ambasadorem ChRL w Polsce. W Radiu Zet mówił, że 🇨🇳 miałyby udzielić pomocy „🇵🇱 dla 🇺🇦 i również dla 🇺🇦”. „🇵🇱 może dostać prędzej pomoc humanitarną od Chin, które są tak nielubiane przez Brukselę".
+
+<!-- Cezary Gmyz: Mamy w Polsce partię rosyjską. Padły nazwiska polityków
+16.05.2022 18:02
+– To kolejne potwierdzenie faktu, że rząd Donalda Tuska kooperował z Rosjanami – zauważa w rozmowie z portalem DoRzeczy.pl korespondent TVP Cezary Gmyz w kontekście ujawnienia dokumentów dot. planów prywatyzacji spółki Lotos.
+
+Prowadzący wywiad wskazał, że prywatyzacja spółki Lotos, jaką planowali politycy Platformy podczas jej rządów, mogła doprowadzić do przejęcia kapitału firmy przez Rosjan, o których Tusk miał mówić, że nie należy ich wykluczać z grona potencjalnych nabywców Lotosu. 
+
+    – To kolejne potwierdzenie faktu, że rząd Donalda Tuska kooperował z Rosjanami i że nowe dokumenty ukazujące się w ostatnich dniach – i nie tylko te dotyczące polskich rafinerii, ale również polityki, jaka miała być prowadzona za rządów Donalda Tuska – wskazują jasno, że Platforma Obywatelska, którą wówczas kierował Donald Tusk, była najbardziej przyjazną Rosji partią na polskiej scenie politycznej
+
+– zwraca uwagę Cezary Gmyz.
+Gmyz: Mamy do czynienia z partią rosyjską w Polsce
+
+    – Obaj panowie rządzili w koalicji, a wiele na to wskazuje, że mieliśmy bądź mamy nadal  do czynienia z partią rosyjską w Polsce
+
+– podkreśla korespondent TVP, mając na myśli Donalda Tuska i Waldemara Pawlaka.
+
+Cezary Gmyz wskazał, że wspólnikiem PO na tym polu było również PSL z Waldemarem Pawlakiem, który odpowiada za podpisanie niekorzystnych dla Polski umów dot. zakupu gazu od Rosji.
+
+CZYTAJ TEŻ: Ukraina w NATO? Rzecznik Kremla grozi: To mogłoby doprowadzić do sporu terytorialnego
+
+CZYTAJ TEŻ: Kolejny duży pożar w Rosji. Płonie moskiewski wieżowiec [WIDEO]
+
+Gmyz mówił również, że Tusk nie był politykiem samodzielnym, a jego polityka w istocie wspierała kanclerz Angelę Merkel. W tym kontekście podkreślił, że Tusk nie był przeciwnikiem budowy gazociągu Nord Stream 2.
+
+    – Dziś to wszystko składa nam się w jedną spójną całość, choć cały czas starano nas się przekonać, że Nord Stream 2 nie jest projektem politycznym, że będzie to wsparcie prywatnego sektora biznesu. (…) Pierwszą osobą, która określiła Nord Stream 1 i 2 wcieleniem w życie paktu Ribbentrop–Mołotow, był Radosław Sikorski -->
 
 ### 2021
 

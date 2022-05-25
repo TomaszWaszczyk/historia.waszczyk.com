@@ -3,11 +3,15 @@ layout: post
 title: 21 maja
 image: img/may/gniadek.png
 author: Tomasz Waszczyk
-date: 2020-05-21T10:00:00.000Z
+date: 2021-05-21T10:00:00.000Z
 tags:
   - Ksiądz Jacek Gniadek
 draft: false
 ---
+
+### 2022
+
+<img src="./img/may/athmieszkania.jpeg"><br><br>
 
 ### 2020
 
@@ -25,6 +29,12 @@ W Rudzie Różanieckiej zamojskie dowództwo zrzeszenia Wolność i Niezawisło�
 Na zdjęciu oddział AK-WiN z okręgu lubelskiego.
 
 <img src="./img/may/armia.jpg"><br><br>
+
+### 1926
+
+Jak przed wojną wyglądała polityka prorodzinna?
+
+W 1926 r. prezydent Mościcki wydał dekret, w myśl którego każdy siódmy chłopiec w rodzinie zostawał wpisany jako jego chrześniak. Chrześniacy prezydenta dostawali od państwa książeczkę oszczędnościową, a na niej 50 zł (równowartość połowy ówczesnej pensji nauczycielskiej) na 6 proc. Mieli też przywilej bezpłatnej nauki w kraju i za granicą, także na studiach wyższych, stypendium, bezpłatne przejazdy i opiekę zdrowotną. Ulgi na komunikację miało też rodzeństwo chrześniaka. Przed wojną było ich blisko 900. Dziś żyje około 300, a zrzeszają się w Stowarzyszeniu Chrześniaków Prezydenta II RP Ignacego Mościckiego.
 
 ### 1919
 
