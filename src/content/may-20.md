@@ -3,7 +3,7 @@ layout: post
 title: 20 maja
 image: img/may/chemiainstytut.jpg
 author: Tomasz Waszczyk
-date: 2020-05-20T10:00:00.000Z
+date: 2021-05-20T10:00:00.000Z
 tags:
   - USA Brrrrrrrrr
 ---

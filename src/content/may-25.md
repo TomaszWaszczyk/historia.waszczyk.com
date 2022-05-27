@@ -37,6 +37,10 @@ Average price of a new home in the US...
 
 ---
 
+<img src="./img/may/germanyexport.png"><br><br>
+
+---
+
 <img src="./img/may/ukrainiecpolak.png"><br><br>
 
 <img src="./img/may/firmypr.jpg"><br><br>

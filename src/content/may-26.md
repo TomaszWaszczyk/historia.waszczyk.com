@@ -55,8 +55,6 @@ But some Bitcoiners in particular have been exceedingly cautious about the intro
 
 <img src="./img/may/vc.jpeg"><br><br>
 
-<img src="./img/may/fear.jpeg"><br><br>
-
 ---
 
 ### 2021

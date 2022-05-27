@@ -83,6 +83,8 @@ analiza hipotez konkurencyjnych - szukanie zaprzeczeń a nie potwierdzeń
 
 ### Żydzi, jude, Jewish
 
+<img src="./img/others/krieg.jpeg"><br><br>
+
 https://pl.wikipedia.org/wiki/Sefardyjczycy
 
 1012 rok - Cesarz Niemiecki Henryk II wypędza Żydów z Moguncji
