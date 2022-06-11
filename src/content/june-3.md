@@ -3,11 +3,15 @@ layout: post
 title: 3 czerwca
 image: img/june/oszczednosci.png
 author: Tomasz Waszczyk
-date: 2020-06-03T10:00:00.000Z
+date: 2021-06-03T10:00:00.000Z
 tags:
   - Polacy oszczędzają
 draft: false
 ---
+
+### 2022
+
+<img src="./img/june/forumszczepien.jpeg"><br><br>
 
 ### 2020
 

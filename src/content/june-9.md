@@ -3,10 +3,17 @@ layout: post
 title: 9 czerwca
 image: img/june/bankrut.jpg
 author: Tomasz Waszczyk
-date: 2020-06-09T10:00:00.000Z
+date: 2021-06-09T10:00:00.000Z
 tags:
   - Mateusz Morawiecki
 ---
+
+### 2022
+
+Yen is the new Turkish Lira.
+(joking aside the yeld curve control policies in japan are failing, and while everyone is distracted by the evil Putin a global financial crisis with epicenter in the Pacific is likely to be triggered.)
+
+<img src="./img/june/yen.jpeg"><br><br>
 
 ### 2020
 

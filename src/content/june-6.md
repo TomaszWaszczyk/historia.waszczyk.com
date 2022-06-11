@@ -3,10 +3,59 @@ layout: post
 title: 6 czerwca
 image: img/june/beatyfikacja.jpg
 author: Tomasz Waszczyk
-date: 2020-06-06T10:00:00.000Z
+date: 2021-06-06T10:00:00.000Z
 tags:
   - D-Day
 ---
+
+### 2022
+
+Mao Tse Tung powiedział, że „Europa to mały półwysep, któremu poświęca się zbyt dużo uwagi”.
+Przyzwyczajeni do typowej mapy (z odwzorowaniem Merkatora) często ulegamy sami złudzeniu wielkości Europy w stosunku do reszty świata.
+Chciałem jednak dziś przedstawić mapę krajów, stworzoną tak, że wielkość kraju zależy od liczby mieszkańców. Każdy z kwadratów reprezentuje tu pół miliona mieszkańców.
+
+Co ciekawego z niej wynika?
+
+1. Gdyby Chiny i Indie straciły miliard mieszkańców, nadal byłyby krajami nr 1 i 2.
+Każde z nich jest również większe niż jakikolwiek inny kontynent.
+[EDIT: Obecnie Afryka ma 1.440 mln mieszkańców, więc jest większa od Chin]
+
+2. Czy zaskoczyły cię 200-milionowe giganty: Brazylia, Nigeria, Pakistan?
+W dwóch brazylijskich miastach Rio de Janeiro oraz Sao Paulo mieszka więcej ludzi niż w Polsce.
+
+3. Widać potęgę „azjatyckich tygrysów”. Zobacz wielkość Wietnamu, Filipin, Indonezji i Korei w porównaniu np. z Australią.
+
+4. Afryka jest ogromna. Zwłaszcza Nigeria, o której w najbliższych dziesięcioleciach będziemy słyszeć coraz więcej. To będzie kraj nr 3.
+Wyróżniają się też 100-milionowe Egipt i Etiopia.
+
+5. Rosja w 60% składa się z wiecznie zamarzniętej ziemi. To ogromny, ale większości pusty kraj. W azjatyckiej części Rosji mieszka mniej ludzi niż w Polsce (o 4 mln).
+Porównany z Europą, (a nawet z samą Ukrainą) nie jest już tak wielki.
+Oczarowany tą wielkością Rosji, Mickiewicz opisywał: „Garstkę naszych walczącą z Moskali nawałem”. Mit nieprzebranych mas ludzi podtrzymywał też Stalin, gdy bagatelizował straty Armii Czerwonej podczas 2WŚ: „Ja mam ludzi mnogo”.
+
+6. Kraje skandynawskie są ledwie widoczne na naszej mapie, podobnie Kanada, o Islandii czy Grenlandii nie wspominając.
+Trzeba się również wysilić, by odnaleźć kolebkę imperium Czyngis-Chana Mongolię.
+
+7. Wyraźnie widoczne są za to kraje o gęstym zaludnieniu: Holandia, Belgia, Tajwan, Korea Płd.
+
+8. Niemcy, Turcja i Iran mają po tyle samo mieszkańców: 82 mln.
+
+9. Wszystkie Kraje Bliskiego Wschodu razem wzięte są mniejsze od Brazylii.
+Kiedy ostatni raz słyszałeś w wiadomościach o jakichś wydarzeniach w Brazylii?
+
+10. Na Indonezyjskiej wyspie Jawa żyje więcej ludzi niż w jakimkolwiek państwie w Europie, nawet więcej niż w Rosji (o 1 mln).
+Podobnie ogromny stepowy Kazachstan jest tu mniejszy od małej wyspy równikowej: Sri Lanki.
+
+<img src="./img/june/auropaforchina.jpeg"><br><br>
+
+<img src="./img/june/bitcoin.png"><br><br>
+
+===
+
+A teraz zastanów się, ile miejsca poświęcają media wydarzeniom z życia ludzi żyjących poza naszym regionem?
+Co o nich naprawdę nich wiemy i ile z tego to jedynie absurdalne i krzywdzące stereotypy?
+
+I najważniejsze:
+Jaki ci ludzie mają wpływ na obecny świat, a jaki będą mieć w przyszłości?
 
 ### 2021
 

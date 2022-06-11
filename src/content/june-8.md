@@ -3,11 +3,25 @@ layout: post
 title: 8 czerwca
 image: img/june/blockchain.jpeg
 author: Tomasz Waszczyk
-date: 2020-06-08T10:00:00.000Z
+date: 2021-06-08T10:00:00.000Z
 tags:
   - Mateusz Morawiecki
 draft: false
 ---
+
+### 2022
+
+Implant płatniczy w Centrum Pieniądza #NBP.
+Implanty płatnicze, tak jak inne nowoczesne technologie, budzą kontrowersje. Należy jednak pamiętać, że implanty używane są m. in. w medycynie i są bezpieczne dla naszego organizmu. 
+Do niewątpliwych zalet ich stosowania zaliczyć możemy fakt, że jest on zawsze z nami, nie musimy się już martwić np. zapomnianym portfelem i możemy używać go w miejscach takich jak basen, plaża albo koncerty czyli wszędzie tam, gdzie z różnych względów wolelibyśmy nie zabierać karty płatniczej.
+Prezentowany w gablocie implant jest bardzo małych rozmiarów, wyglądem przypomina  agrafkę o wymiarach ok. 0,5 mm x 7 mm x 28 mm i waży niecały 1 gram. 
+Wykonany został z biopolimeru używanego do produkcji wyrobów medycznych. Oznacza to, że nasz organizm nie zareaguje na niego jak na ciało obce, a nasze tkanki w naturalnym procesie taki biopolimer zabudowują. 
+Implant wykorzystuje technologię NFC. Jest to bezdotykowa i bezprzewodowa technologia komunikacyjna bliskiego zasięgu (znana już m. in. z telefonów komórkowych), która wykorzystuje fale radiowe do udostępniania informacji oraz ich wysyłania na odległość kilku centymetrów. 
+Implant nie emituje żadnych fal ani promieniowania i nie posiada własnego zasilania. Nie jest również urządzeniem typu GPS i służy wyłącznie do dokonywania płatności. 
+W celu dokonania zapłaty należy przyłożyć implant do terminala płatniczego, wtedy informacje z czipa przekazywane są, dzięki antenie w nim umieszczonej, do terminala.
+Implanty płatnicze, jak każda przełomowa innowacja, wzbudzać mogą zarówno zachwyt jak i lęk. Czy warto jednak bać się wszystkiego co nowe? Zachęcamy do dyskusji a także zapraszamy do Centrum Pieniądza NBP!
+
+<img src="./img/june/implantplatniczy.jpg"><br><br>
 
 ### 2021
 

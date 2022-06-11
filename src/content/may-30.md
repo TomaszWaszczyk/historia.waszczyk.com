@@ -3,7 +3,7 @@ layout: post
 title: 30 maja
 image: img/may/kujawiak.jpg
 author: Tomasz Waszczyk
-date: 2020-05-30T10:00:00.000Z
+date: 2021-05-30T10:00:00.000Z
 tags:
   - Stopy procentowe
 draft: false

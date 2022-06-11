@@ -3,11 +3,27 @@ layout: post
 title: 5 czerwca
 image: img/june/barchanski.jpeg
 author: Tomasz Waszczyk
-date: 2020-06-05T10:00:00.000Z
+date: 2021-06-05T10:00:00.000Z
 tags:
   - Służba Bezpieczeństwa
 draft: false
 ---
+
+### 2022
+
+pieniądze na KPO to nie są pieniądze na odbudowę po pandemii tylko kasa na wprowadzanie eurokomunizmu w Polsce ze szczególnym naciskiem na Zielony Ład! Te pieniądze przyniosą nam więcej szkody niż pożytku!
+
+<img src="./img/june/kpo.jpeg"><br><br>
+
+<img src="./img/june/analitycy.jpeg"><br><br>
+
+<img src="./img/june/boommieszkaniowka.jpeg"><br><br>
+
+<img src="./img/june/btcethforbes.png"><br><br>
+
+Propozycja NBP:
+
+<img src="./img/june/implantplatniczy.jpg"><br><br>
 
 ### 2020
 
@@ -95,6 +111,8 @@ Sformułowanie noc teczek nie oddaje charakteru tamtych wydarzeń. Teczki, z kt�
 <img src="./img/june/lechu.png"><br><br>
 
 Fragmenty artykułu na Wikipedii, Noc Teczek
+
+<img src="./img/june/walesa.jpeg"><br><br>
 
 ### 1989
 

@@ -3,9 +3,32 @@ layout: post
 title: 11 czerwca
 image: img/june/gdansk.jpg
 author: Tomasz Waszczyk
-date: 2020-06-11T10:00:00.000Z
+date: 2021-06-11T10:00:00.000Z
 tags:
   - Gdańsk
+---
+
+### 2022
+
+Russia:
+
+<img src="./img/june/russia1914.jpeg"><br><br>
+
+<img src="./img/june/stylzyciapolakow.png"><br><br>
+
+<img src="./img/june/suddenly.jpeg"><br><br>
+
+<img src="./img/june/wojna.jpeg"><br><br>
+
+<img src="./img/june/yen.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/suskilikwidacja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

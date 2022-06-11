@@ -3,7 +3,7 @@ layout: post
 title: 27 maja
 image: img/may/gs.jpeg
 author: Tomasz Waszczyk
-date: 2020-05-27T10:00:00.000Z
+date: 2021-05-27T10:00:00.000Z
 tags:
   - Niemcy
 draft: false

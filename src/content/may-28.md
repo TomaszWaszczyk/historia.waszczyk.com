@@ -3,7 +3,7 @@ layout: post
 title: 28 maja
 image: img/may/gs2.jpeg
 author: Tomasz Waszczyk
-date: 2020-05-28T10:00:00.000Z
+date: 2021-05-28T10:00:00.000Z
 tags:
   - Szkolnictwo
 draft: false

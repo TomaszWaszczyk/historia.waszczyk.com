@@ -3,10 +3,42 @@ layout: post
 title: 7 czerwca
 image: img/june/berezowski.jpg
 author: Tomasz Waszczyk
-date: 2020-06-07T10:00:00.000Z
+date: 2021-06-07T10:00:00.000Z
 tags:
   - USA
 draft: false
+---
+
+### 2022
+
+<img src="./img/june/btcethforbes.png"><br><br>
+
+<img src="./img/june/placaminimalna.png"><br><br>
+
+<img src="./img/june/pyrc.jpeg"><br><br>
+
+KPO:
+
+<img src="./img/june/kpo.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/suskilikwidacja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Jarosław Kret pokazuje jak był chory na wirus:
+
+<video width="640" height="480" controls>
+<source src="./movies/june/jaroslawkredchorynawirus.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Nagranie z około 2020 roku, kiedy był wirus.
+
 ---
 
 ### 2021

@@ -3,11 +3,28 @@ layout: post
 title: 2 czerwca
 image: img/june/usa.png
 author: Tomasz Waszczyk
-date: 2020-06-02T10:00:00.000Z
+date: 2021-06-02T10:00:00.000Z
 tags:
   - USA - the third world
 draft: false
 ---
+
+### 2022
+
+Tuż przed upływem grace period Rosjanie spłacili co prawda w dolarach, po zaskakującym zwrocie, dwie serie obligacji zapadających 4 kwietnia.
+Okazuje się jednak, że przy tej okazji nie doliczyli odsetek za 30-dniowy okres karencji w wysokości 1.9 mln USD.
+
+Po interwencji inwestorów, decyzją Credit Derivatives Determinations Committee, uznane to zostało za wydarzenie typu failure to pay. A to uruchomi płatności dla inwestorów zabezpieczonych CDS.
+
+Problem, czy to już jest, czy jeszcze nie pełny default, roztrzygnie się ostatecznie już niebawem.
+
+26 czerwca kończy się grace period dla 2 serii obligacji z końca maja. Tyle, że Dep. Skarbu nie przedłużył już pozwolenia na otrzymywanie, w drodze wyjątku od sankcji, płatności dolarowych od obligacji rosyjskich przez inwestorów z USA. Wygasło ono 25 maja. W odpowiedzi na to Rosja wróciła do opowieści o tym, że płacić będzie za dług denominowany w dewizach już tylko w rublach.
+
+W tej sytuacji, o ile 26 czerwca default Rosji zostanie potwierdzony, wierzyciele mają prawo zażądać natychmiastowego uregulowania płatności za 38 mld USD rosyjskich obligacji rządowych denominowanych w walutach obcych.
+
+26 czerwca więc - nawet gdyby Putin znów zmienił zdanie i pozwolił zapłacić za dług w dewizach, podczas, gdy Amerykanie swojej decyzji o zamknięciu okienka w sankcjach nie zmienią - Rosja uznana zostanie za kraj niewypłacalny.
+
+To zasadniczo zmieni pozycję Rosji na globalnym rynku finansowym, nawet przy nieprzerwanym strumieniu kolejnych wpływów dewizowych za eksport surowców. Najzabawniejsze jednak przy tym, że wcale nie musi to zmienić pozycji rubla. Kraj niewypłacalny z mocnym pieniądzem. Tego jeszcze nie przerabialiśmy.
 
 ### 2021
 

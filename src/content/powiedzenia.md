@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Powiedzenia"
@@ -3719,6 +3720,10 @@ Dobry królik ma trzy nory.
 
 "Five great programmers can completely outperform 1,000 mediocre programmers" 
 - Marc Andreessen, founder of Netscape, a16z
+
+The more you do hard things, the easier your life will be.
+
+Głupiec, który potrafi milczeć, jest zaliczany do mędrców.
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 

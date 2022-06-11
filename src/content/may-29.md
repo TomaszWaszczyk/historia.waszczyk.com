@@ -3,7 +3,7 @@ layout: post
 title: 29 maja
 image: img/may/sprzedazdetaliczna.jpg
 author: Tomasz Waszczyk
-date: 2020-05-29T10:00:00.000Z
+date: 2021-05-29T10:00:00.000Z
 tags:
   - Sprzedaż detaliczna
 draft: false

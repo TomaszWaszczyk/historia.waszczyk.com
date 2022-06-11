@@ -3,7 +3,7 @@ layout: post
 title: 31 maja
 image: img/may/chopin.jpg
 author: Tomasz Waszczyk
-date: 2020-05-31T10:00:00.000Z
+date: 2021-05-31T10:00:00.000Z
 tags:
   - Chopin
 draft: false

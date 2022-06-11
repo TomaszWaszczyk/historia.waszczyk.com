@@ -3,7 +3,7 @@ layout: post
 title: 4 czerwca
 image: img/june/kolejchiny.jpg
 author: Tomasz Waszczyk
-date: 2020-06-04T10:00:00.000Z
+date: 2021-06-04T10:00:00.000Z
 tags:
   - Chiny, Kennedy
 draft: false

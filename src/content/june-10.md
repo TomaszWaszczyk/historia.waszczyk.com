@@ -3,11 +3,22 @@ layout: post
 title: 10 czerwca
 image: img/june/balancesheet.png
 author: Tomasz Waszczyk
-date: 2020-06-10T10:00:00.000Z
+date: 2021-06-10T10:00:00.000Z
 tags:
   - Balancesheet
 draft: false
 ---
+
+### 2022
+
+> “I fear #Bitcoin is often used for illicit finance” - Treasury Secretary Janet Yellen
+
+<img src="./img/june/jimcrammer.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/glapinskieurocent.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 
@@ -20,6 +31,13 @@ draft: false
 Niemiecka minister obrony Annegret Kramp-Karrenbauer oraz rzecznik rządu RFN Steffen Seibert odmówili zajęcia oficjalnego stanowiska w sprawie doniesień o wycofaniu amerykańskich wojsk z Niemiec. Stwierdzili zgodnie, że na razie są to jedynie prasowe spekulacje, natomiast Waszyngton żadnych oficjalnych informacji w tej sprawie nie przekazał.
 
 - Warto zastanowić się, czy nie jest to przypadkiem (…) wypuszczenie specjalnie informacji, żeby osiągnąć jakieś cele polityczne, np. przymusić Niemcy do większych wydatków zbrojeniowych, większej spolegliwości odnośnie amerykańskiej polityki na świecie lub jeszcze paru innych ruchów, które byłyby korzystne dla administracji amerykańskiej - zauważa Andrzej Talaga.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/jaroslawkredchorynawirus.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
