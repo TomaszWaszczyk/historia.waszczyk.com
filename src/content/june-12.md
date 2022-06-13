@@ -3,11 +3,19 @@ layout: post
 title: 12 czerwca
 image: img/june/dobrorodziny.png
 author: Tomasz Waszczyk
-date: 2020-06-12T10:00:00.000Z
+date: 2021-06-12T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+<img src="./img/june/celsius.webp"><br><br>
+
+<img src="./img/june/jacek.png"><br><br>
+
+<img src="./img/june/selloff.png"><br><br>
 
 ### 2020
 

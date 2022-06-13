@@ -10,6 +10,16 @@ tags:
 
 ### 2022
 
+<img src="./img/june/klimatstop.jpg"><br><br>
+
+<img src="./img/june/peterschiff.png"><br><br>
+
+<img src="./img/june/zamykanieszpitali.jpeg"><br><br>
+
+Oszustwo szkoleniowe:
+
+<img src="./img/june/legalneoszustwo.png"><br><br>
+
 Russia:
 
 <img src="./img/june/russia1914.jpeg"><br><br>
@@ -21,6 +31,14 @@ Russia:
 <img src="./img/june/wojna.jpeg"><br><br>
 
 <img src="./img/june/yen.jpeg"><br><br>
+
+---
+
+Olaf Scholz Arrives In Serbia To Coach Aleksandar Vučić On How To Be Pro-Russia ‘In A More Subtle And Sophisticated Way’
+
+<img src="./img/june/russiafirst.jpeg"><br><br>
+
+Hiszpania jednak nie przekaże Ukrainie Leopardów. Efekt telefonu z Berlina. Niemcy robią, co mogą, żeby uratować wizję Euro-Azji od Lizbony do Władywostoku, co czyni ich zagrożeniem dla wschodniej flanki NATO.
 
 ---
 
