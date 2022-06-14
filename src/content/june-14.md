@@ -3,11 +3,24 @@ layout: post
 title: 14 czerwca
 image: img/june/sobor.jpg
 author: Tomasz Waszczyk
-date: 2020-06-14T10:00:00.000Z
+date: 2021-06-14T10:00:00.000Z
 tags:
   - Sobór Watykański II
 draft: false
 ---
+
+### 2022
+
+Papież: Wojna na Ukrainie być może została sprowokowana
+
+> Sprzeciwiam się redukowaniu złożoności wojny do podziału na dobro i zło - mówił papież Franciszek w rozmowie z włoskim dziennikiem "La Stampa".
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/40milionow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

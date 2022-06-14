@@ -3,11 +3,24 @@ layout: post
 title: 13 czerwca
 image: img/june/kuklinski.jpg
 author: Tomasz Waszczyk
-date: 2020-06-13T10:00:00.000Z
+date: 2021-06-13T10:00:00.000Z
 tags:
   - Ryszard Kukliński
 draft: false
 ---
+
+### 2022
+
+Samcik:
+
+Kolejna fala spadków na rynku kryptowalut. Bitcoin w poniedziałek rano polskiego czasu zwalił się do 25.000 dolarów. Zdaniem analityków po tym, jak definitywnie utracił kontakt ze strefą 29.000-30.000 dolarów kolejne mocne wsparcie ma na dopiero na poziomie 20.000 dolarów (w listopadzie 2021 r. kosztował prawie 69.000 dolarów). 
+Jeszcze bardziej spada Ethereum oraz tzw. altcoiny (alternatywne dla Bitcoina kryptowaluty). Na początku listopada zeszłego roku Ethereum był notowany po ponad 4800 dolarów, teraz kosztuje już tylko 1350 dolarów.
+W zasadzie nikt nie wie dlaczego kryptowaluty spadają, tak, jak nikt nie wiedział dlaczego wcześniej rosły. Analitycy mówią o odwrocie od ryzyka na rynku kapitałowym i rosnącym prawdopodobieństwie stagflacji, które sprawia, że inwestorzy przesuwają pieniądze do tzw. bezpiecznych przystani. 
+No i zaczęło się sypać w pożyczkach kryptograficznych DeFi, które działają dobrze tylko wtedy, gdy krypto rośnie. Usługa pożyczek kryptograficznych Celsius ogłosiła w poniedziałek, że wstrzyma inwestorom wypłaty pieniędzy z "depozytów", powołując się na "ekstremalne warunki rynkowe".
+Dzieje się coś złego, bo firma podała: "Naszym ostatecznym celem jest ustabilizowanie płynności i jak najszybsze przywrócenie wypłat, swapów i przelewów między kontami. Przed nami dużo pracy, ponieważ rozważamy różne opcje, proces ten zajmie trochę czasu i mogą wystąpić opóźnienia "- czytamy w poście na blogu. To chyba oznacza bankructwo. Ciekawe ile jeszcze platform pożyczek zdecentralizowanych, opartych na kryptowalutach i stablecoinach, z powodu bessy stanie się niewypłacalnymi. Cena tokena Celsius, w którym wypłacano zyski z lokat zdecentralizowanych, runęła o 50%.
+A ja przypominam. Ani „cyfrowe złoto”, ani zabezpieczenie przed inflacją? Czego dowiedzieliśmy się ostatnio o kryptowalutach i stablecoinach?
+
+<img src="./img/june/nierozejdziesiepokoscioach.png"><br><br>
 
 ### 2020
 
