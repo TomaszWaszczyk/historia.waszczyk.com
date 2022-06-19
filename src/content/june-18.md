@@ -3,10 +3,38 @@ layout: post
 title: 18 czerwca
 image: img/june/chinacurrency.png
 author: Tomasz Waszczyk
-date: 2020-06-18T10:00:00.000Z
+date: 2021-06-18T10:00:00.000Z
 tags:
   - Digital Currency in China
 draft: false
+---
+
+### 2022
+
+> Russia President Putin: Some global currencies are “committing suicide”
+
+<!-- Toga Mamora opinie odnośnie ceny:
+DOT: $0.7
+BTC do końca roku: $8k -->
+
+---
+
+<img src="./img/june/enjoyweekend.png"><br><br>
+
+<img src="./img/june/bitcoin.jpg"><br><br>
+
+<img src="./img/june/eth20.jpg"><br><br>
+
+<img src="./img/june/ethbearish.png"><br><br>
+
+<img src="./img/june/getoutnow.png"><br><br>
+
+<img src="./img/june/rebuylower.png"><br><br>
+
+---
+
+<img src="./img/june/kpomorawiecki.jpeg"><br><br>
+
 ---
 
 ### 2020

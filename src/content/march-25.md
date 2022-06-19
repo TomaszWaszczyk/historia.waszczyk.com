@@ -90,6 +90,14 @@ Pierwsza fala wysiedleń Polaków rozpoczęła się w 1955 roku, a sprzyjącym t
 Zawarte w 1957 roku porozumienie doprowadziło do powrotu do Polski blisko ćwierć miliona naszych rodaków.
 Ciekawostką jest fakt, że to właśnie dzięki porozumieniu zawartemu w 1957 roku do Polski mogły przybyć między innymi takie pózniejsze polskie osobistości świata kultury i sportu jak Czesław Niemen czy Władysław Kozakiewicz.
 
+### 1934
+
+Komuniści sowieccy i naziści niemieccy chętnie sięgali do pojęcia „praworządności”.
+
+Przykład: „Jesteśmy oddani praworządności i nikt na całym świecie nie jest upoważniony do kwestionowania tego zobowiązania” (Hans Frank „Niemieckie państwo prawa Adolfa Hitlera” 1934)
+
+<img src="./img/march/praworzadnosc.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-25.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

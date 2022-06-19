@@ -3,7 +3,7 @@ layout: post
 title: 15 czerwca
 image: img/june/
 author: Tomasz Waszczyk
-date: 2020-06-15T10:00:00.000Z
+date: 2021-06-15T10:00:00.000Z
 tags:
   - 
 draft: false

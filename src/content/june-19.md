@@ -3,15 +3,42 @@ layout: post
 title: 19 czerwca
 image: img/june/chreptowicz.jpg
 author: Tomasz Waszczyk
-date: 2020-06-19T10:00:00.000Z
+date: 2021-06-19T10:00:00.000Z
 tags:
   - Joachim Chreptowicz
 draft: false
 ---
 
+### 2022
+
+> “In the 21st Century, we may see the Emergence..of a new massive class of ‘Useless People’…people that have absolutely no ‘Economic Value" -Yuval Harari
+
+<video width="640" height="480" controls>
+<source src="./movies/june/massiveclass.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Ukraina. Rada Najwyższa Ukrainy przyjęła ustawę № 7398 -  wszystkie budowane na Ukrainie budynki mieszkalne będą musiały posiadać schrony przeciwbombowe.
+
+<img src="./img/june/schronyukraina.jpeg"><br><br>
+
+---
+
+<img src="./img/june/cenyenergii.jpeg"><br><br>
+
+---
+
 ### 2021
 
 <img src="./img/june/planb.png"><br><br>
+
+### 1967
+
+Podczas przemówienia na kongresie związków zawodowych w Warszawie, Władysław Gomułka nazwał Żydów mieszkających w Polsce „piątą kolumną”.
+
+<img src="./img/june/piatakolumna.jpeg"><br><br>
 
 ### 1955
 
@@ -42,6 +69,14 @@ Po licznych perturbacjach polityczno- ideologiczno-ekonomicznych nowy pomnik zos
 <img src="./img/june/czynpowstanczy.jpg"><br><br>
 
 ### 1943
+
+„Rzeczpospolita Polska ani żadne inne państwo polskie już nigdy się nie podniesie." - z zapisków Hansa Franka, dn. 19.06.1943 r.
+
+<img src="./img/june/hansfrank.jpeg"><br><br>
+
+„Potwierdzamy konieczność niszczenia wszystkiego, co może przypominać o istnieniu kiedyś królestwa polskiego, jako że ten podmiot został anulowany na zawsze” – z umowy z 26.1.1797 pomiędzy Rosją, Prusami i Austrią.
+
+---
 
 Po czteromiesięcznych torturach na Pawiaku i w siedzibie Gestapo na Szucha został zamordowany przez Niemców profesor doktor Jan Piekałkiewicz - ekonomista, członek Międzynarodowego Instytutu Statystycznego, działacz ruchu ludowego (od 1926 w PSL "Piast"); w czasie II wojny światowej w SL ,,Roch'', członek CKRL; od 1941 zastępca, a w sezonie 1942/43 Delegat Rządu na Kraj;odpowiedzialny za zatwierdzenie powołania Rady Pomocy Żydom „Żegota”. Pośmiertnie odznaczony Krzyżem Niepodległości Polski Podziemnej z Mieczami oraz Orderem Orła Białego.
 

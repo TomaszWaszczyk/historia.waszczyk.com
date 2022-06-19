@@ -3,7 +3,7 @@ layout: post
 title: 16 czerwca
 image: img/june/defimarketcapio.png
 author: Tomasz Waszczyk
-date: 2020-06-16T10:00:00.000Z
+date: 2021-06-16T10:00:00.000Z
 tags:
   - Deutsche Bank
 draft: false
