@@ -246,6 +246,56 @@ https://historyinphotos.blogspot.com/2013/12/henri-cartier-bresson.html
 
 https://pl.wikipedia.org/wiki/Theodor_Herzl
 
+<!-- Żydokomuna wiecznie żywa?
+
+Co łączy carską Ochranę, polskich narodowców, kościół katolicki, hitlerowców i część powojennej opozycji? Wszyscy oni propagowali tezę o szczególnym związku Żydów z komunizmem. Dowody na istnienie „żydokomuny” były słabe, ale zapotrzebowanie na takie widzenie świata – ogromne.
+
+Niemal cała Europa doświadczyła antysemityzmu, ale w krajach Europy Wschodniej był on szczególnie silny i bardziej prymitywny. Carskie służby specjalne wykorzystały uczucia ludu do wykreowania wroga, co miało zjednoczyć naród i odwrócić uwagę od realnych problemów. Z czasem antysemityzm zaprzęgnięto do walki z rosnącym w siłę komunizmem.
+Narodziny "żydobolszewizmu"
+
+"Żydobolszewizm" czy judeobolszewizm" (określenie "żydokomuna" powstało po II wojnie światowej) powędrował na Zachód z Rosji. W czasie wojny polsko-bolszewickiej przekonanie o żydowskim charakterze bolszewizmu było już niemal powszechne i wykorzystywane w antysowieckiej propagandzie. Wojnę 1920 roku traktowano jako walkę między polskością i katolicyzmem a żydowskim komunizmem.
+
+W okresie międzywojennym około 20 proc. działaczy komunistycznych wywodziło się z żydowskich domów. To dużo, jeśli porównamy ten odsetek do ogółu ludności żydowskiej w Polsce. Jednocześnie niewiele, uwzględniając marginalne znaczenie tego ruchu. Zdecydowanie większą popularnością cieszył się ruch socjalistyczny (Bund). Najwięcej zwolenników miały natomiast partie syjonistyczne, czyli opowiadające się za emigracją i stworzeniem własnego państwa. Ufano też Piłsudskiemu.
+
+Obwinianie żydowskiej społeczności o "żydobolszewizm" wydaje się niedorzeczne, gdy weźmiemy pod uwagę, jak wielką rolę odgrywała religia w tej społeczności. Ponadto podstawą ekonomiczną dla dużej części Żydów była przedsiębiorczość, często drobna i biedna. A przecież dla komunistów nawet drobny sklepikarz był wrogiem klasowym, a religia była nieakceptowalna.
+
+"Żydobolszewizm" trzymał się jednak mocno za sprawą Narodowej Demokracji i kościoła katolickiego. Endekom pod koniec XIX stulecia udało się wykreować Żydów na największego wroga narodu polskiego, po czym połączyli antysemityzm z wrogością do lewicy. Przy czym narodowcy piętnowali Żydów zarówno jako bolszewików, jak też jako kapitalistów - krwiopijców.
+
+Żydzi witają bolszewików?
+
+Gdy 17 września 1939 roku armia sowiecka wkraczała na tereny II RP w wielu miejscowościach społeczności żydowskie budowały dla wkraczających bramy tryumfalne. Cieszono się przede wszystkim z tego, że to nie Niemcy. Nie wszyscy jednak mieli powody do radości.
+
+"(...) Wrogo nastawiona do nowej rzeczywistości była część inteligencji żydowskiej, »klasa posiadająca« oraz ortodoksi. Szczególnie prześladowani przez władze radzieckie byli sympatycy Bundu oraz syjoniści wszystkich odłamów. Bezwarunkowym poparciem władze radzieckie cieszyły się jedynie wśród biedoty żydowskiej" - pisał Grzegorz Hryciuk. Biedoty, ale nie religijnej - należałoby uzupełnić.
+
+Na Żydów spadły takie same represje, jak na innych. Stanowili liczną grupę wśród zesłańców. Około 10% oficerów, którzy zginęli w Katyniu, było Żydami, a wśród nich Naczelny Rabin Wojska Polskiego. Sowieci w swej polityce kierowali się bardziej racjami klasowymi, mniej narodowościowymi.
+
+"Judeobolszewizm" w czasie pierwszej sowieckiej okupacji to była garstka wiejskiej i miejskiej biedoty, która skorzystała z szybkiego "awansu społecznego", podobnie jak nie-Żydzi. To była też grupa urzędników i przedstawicieli innych zawodów, którzy teraz traktowani byli na równi z Polakami, czyli jednakowo źle. Polaków najbardziej dotknęła owa jednakowość traktowania.
+
+To nie my, to oni!
+
+Zgodnie z zarządzeniem Reinharda Heydricha w pierwszej fazie wojny niemiecko-sowieckiej armia miała skupić się na antyżydowskiej propagandzie, kreowaniu mitu "judeobolszewizmu", wizerunku Żyda - sprzymierzeńca Stalina, odpowiedzialnego za sowieckie zbrodnie. Niemcy słusznie przewidywali, że ta propaganda trafi na podatny grunt i wówczas Polacy, a "za Bugiem" także Ukraińcy, sami "zajmą się" swoimi żydowskimi sąsiadami.
+
+Bezpośrednią przyczyną pogromów była rzekoma kolaboracja Żydów z sowieckim reżimem. Tymczasem znany w Polsce amerykański historyk Timothy Snyder pisał:
+
+"Niemniej władza Sowietów wszędzie opierała się na lokalnych większościach: łotewskiej, litewskiej, białoruskiej, ukraińskiej, rosyjskiej, polskiej. Ówczesne twierdzenia nie-Żydów (oraz pokrewne im twierdzenia współczesne), że Żydzi byli sowieckimi kolaborantami, służyły umniejszaniu niezbędnej roli, jaką miejscowa ludność nieżydowska odegrała w reżimie sowieckim".
+
+Powszechnym zjawiskiem było, że we współpracę z niemiecką administracją i służbę w policji angażowali się ci sami ludzie, którzy dokładnie to robili za czasów sowieckich. Uwiarygodniali się przed nowymi panami przez walkę z "żydokomuną". Denuncjacje chroniły ich samych, ich rodziny i majątek. Dodatkową gratyfikacją była też możliwość rabowania opuszczonych domów.
+
+"Wolę, żeby mówiono do mnie towarzyszu niż parchu"
+
+
+Wkroczenie armii radzieckiej na polskie ziemie, a wraz z nią polskiego wojska i prosowieckiej administracji, staje się kolejną odsłoną "żydokomuny" - zgodnie ze znanym już schematem. Był to silny wątek w antykomunistycznej propagandzie. Akcentowano prawdziwe lub zmyślone żydowskie pochodzenie nowych działaczy. Ofiarami propagandy padali najczęściej zwykli ludzie, ocaleni z Holokaustu.
+
+Jednak grupa funkcjonariuszy żydowskiego pochodzenia we władzach i służbach nowego państwa była widoczna. Jak zauważył Paweł Śpiewak, były dyrektor Żydowskiego Instytutu Historycznego: funkcjonariusze żydowskiego pochodzenia stanowili 2 proc. pracowników UB. Ale na stanowiskach kierowniczych było ich już 37 proc. Przyczyny takich postaw były różne i złożone. Wiele wyjaśnia popularne wówczas powiedzenie: "Wolę, żeby mówiono do mnie towarzyszu niż parchu".
+
+Zdecydowana większość ocalałych Żydów wyjechała z Polski, wśród nielicznych, którzy pozostali, znacząca część wiązała nadzieje z nowym ustrojem.
+
+"Żydokomuna" jest jak upiór, którego w porę nie przebito osikowym kołkiem. Wyskakuje przy różnych okazjach, odpowiadając na doraźnie zapotrzebowanie polityczne, ideologiczne. Mit ten utrzymał się przez całą PRL, był obecny w "Solidarności", towarzyszył początkom III RP.
+
+Piotr Janczek - Z wyksztalcenia politolog, absolwent UMCS, dziennikarz. Prowadzi czasopismo "Polska i Ukraina".
+
+-->
+
 # Malta
 
 https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta

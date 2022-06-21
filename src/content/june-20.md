@@ -3,10 +3,48 @@ layout: post
 title: 20 czerwca
 image: img/june/Wojciech_Roszkowski.jpg
 author: Tomasz Waszczyk
-date: 2020-06-20T10:00:00.000Z
+date: 2021-06-20T10:00:00.000Z
 tags:
   - Zachód upadnie?
 ---
+
+### 2022
+
+Założyłeś PPK, IKE, IKZE nie dostaniesz emerytury z #US 🤔
+Suweren sprytny, ale władza ludu sprytniejsza 😁
+#ZUS, dzięki aktywnemu udziałowi PiS, m.in. obniżeniu wieku emerytalnego jest bankrutem o czym wiedzą już prawie wszyscy. Zabrakło chętnych, żeby dać się wydoić na "system zastępczy" czyli #PPK. Ale to nie koniec drogi ku "szczęśliwości emeryta". 
+
+---
+
+#CHINY pracują nad budową orbitalnej elektrowni słonecznej
+-☀- w 2028 roku na niskiej orbicie pojawi się satelita energetyczny;
+-☀-będzie pobierał energię słońca i zamieniał a wiązkę mikrofal, lub laserową;
+-☀-wiązka będzie przekazywana przez satelitę do stacji bazowych, które z kolei zamienia ją na energię elektryczną i wprowadzą do sieci energetycznej;
+-☀-w pierwszej fazie elektrownia ma osiągnąć moc 10 kW;
+-☀-celem projektu jest budowa stacji energetycznej o mocy 2 GW (2050);
+-☀-chiński projekt przyspiesza, bo z podobnymi projektami zamierzają ruszyć m.in. Brytyjczycy i Amerykanie (przy czym borykają się z dylematem "chcieć, a móc");
+-☀-tymczasem my uzyskaliśmy możliwość swobodnego zbierania chrustu;
+
+<img src="./img/june/chinyenergia.jpeg"><br><br>
+
+
+<!-- Koncert mocarstw cz. 3: Obszar transakcyjny. Podstawowa znajomość historii pozwala coraz lepiej dobrze zrozumieć Macronete i postawę Scholza https://lnkd.in/dS2hFTXF Europejskim hegemonom silna Rosja jest potrzebna, żeby równoważyć wpływy Anglosasów i rozdawać karty co najmniej w Europie i której część środkowo-wschodnia winna pozostawać jedynie podporządkowaną politycznie sferą wpływów euroazjatyckich mocarstw. W dobie przywracania w UE popularnej praworządności brzmi to trochę jakby science-fiction, ale 📌 DE i FR właśnie przestały nawet udawać, że demokratyczne samostanowienie, prawa człowieka, integralność terytorialna to ważne europejskie wartości.
+
+Zachód obawia się zwycięstwa UA, ponieważ oznaczałoby to osłabienie Putina, czyli największego sojusznika FR i DE. Gwałcenie matek na oczach dzieci i rozstrzeliwanie ich po wszystkim, wyrywanie zębów dzieciom - żeby zrobić dzieciom to samo, masowe egzekucje związanych cywili, ludobójstwo z użyciem zakazanej broni, celowy atak rakietowy na schron i zamordowanie 600 matek z dziećmi? Czymże są maluchy na tle takiego kornika drukarza, albo DE&I, ESG... Zachód obawia się wolnej UA, bo to oznaczałoby utratę wpływów w środku Europy, który nie ma już wątpliwości, że jego jedyną nadzieją i sojusznikiem są odległe USA. Przypomnijmy: jeszcze roku temu Putin żądał wycofania NATO za Odrę i taki deal w zamian za NS2 był już na stole. A jak ktoś ma dobra pamięć, to w 2009 r. po wycofaniu się przez Obamę z budowy tarczy antyrakietowej w PL/CZ, Sarkozy entuzjastycznie podsumowywał, że 📌 "To doskonała decyzja z każdego punktu widzenia. To wyjątkowo pozytywne i mądre. Mam nadzieję, że nasi rosyjscy przyjaciele przywiążą do niej dużą wagę".
+
+Polecam jak zawsze redaktora Krajewskiego, byłego pracownika IPN. https://lnkd.in/e9hgyADp DE i FR chcą płacić Rosji terytorium i niepodległością UA: podobnie rzecz się miała z Europą Środkową po 1918 r 📌 W zamian za rezygnację z agresywnej polityki Francja i Wielka Brytania zapłaciły Hitlerowi w Monachium częścią terytorium Czechosłowacji (ale przywódca III Rzeszy choć zapłatę wziął, zobowiązań nie dotrzymał). Potem Hitler zapłacił Stalinowi za sojusz i dostawy surowców połową Polski, Litwą, Łotwą, Estonią oraz rumuńską Besarabią.
+
+Dziś rola „obszaru transakcyjnego” przypadła Ukrainie. Następna w kolejce jest Polska 📌 Ale prace nad nią już trwają od dawna: 104 rezolucje, posiedzenia, uchwały przeciwko Warszawie i jedno wyłączenie prądu. Ciężko mi coraz bardziej wierzyć, że jakaś strefa € wzmocni nasze bezpieczeństwo, a nawet mam już wątpliwości, że tzw. twarde jądro UE będzie nas w ogóle przed Rosją bronić. Obywatelstwo europejskie, parady, chorągiewki, federalizm brzmiałyby tak fajnie, gdyby nie brutalna rzeczywistość... -->
+
+<!-- Polacy, których historia i dorobek zostały "rozkradzione" przez zaborców oraz potem przez "wielkiego brata" nie zdają sobie sprawy jak ich tradycja i kreatywność były ważnym czynnikiem budującym cywilizację zachodnią.
+Nie pamiętamy, że pierwszy na świecie wizerunek koła i wozu jest z terenów polskich. A sneki polskich Chąśników były niedoścignionym wzorem statków dla Wikingów.
+
+Ale ja przypomnę przewoźny młyn zbożowy Solskiego opracowany dla wojska i opublikowany przez autora wraz z innymi jego wynalazkami w 1690 r.. Młyn taki rozwiązywał logistyczny problem niewygody, gdy obóz lokować trzeba było z dala od młynów. Urządzenia ze zbożem "na jednym wozie osadzone, mąkę mlec mogły na dwa kamienie tak sposobnie jako wodne".
+
+S.Solski tak opisuje ten swój rysunek: Sporządzenie tedy wozowego młyna będzie takowe, jakie pokazują 2 figury: jedna reprezentująca stojące wały, wysokość cewów [to tzw szesciornia czyli koło kątowej przekładni zębowej zbudowane z dwóch pierścieni z otworami -ryfek- w których były umieszczone palce czyli cewki - przyp. TP] i kamieni grubość, druga dyjametry [średnice] albo rozłożystość wałów, kół, cewów i kamieni..."
+Dzięki temu rozwiązaniu podobno Napoleon się podjął ataku na Rosję i bezprzecznie, mimo taktyki spalonej ziemi do Moskwy dotarł.
+
+Często śmiejemy się z przodków i wydaje nam się, że wiemy od nich więcej (korzystając przy tym z ich dorobku), no to Inżynierowie od Innowacji, wszystko już wiecie, projekt znacie, zbudujcie🙂 -->
 
 ### 2020
 

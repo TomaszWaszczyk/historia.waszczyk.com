@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+<img src="./img/april/putinenabler.png/"><br><br>
+
+---
+
 Poprzedni system walutowy powstał w Bretton Woods w 1944 r. w czasie II wojny światowej. Teraz też mamy wojnę...
 Pepe Escobar, brazylijski analityk geopolityczny zajmujący się Euro-Azją, mówi, że zmienia się porządek świata. Eurazjatycka Unia Gospodarcza (EAEU) i Chiny zaczynają projektować nowy system monetarny i finansowy z pominięciem dolara amerykańskiego i mający na celu konkurowanie z systemem z Bretton Woods 
 

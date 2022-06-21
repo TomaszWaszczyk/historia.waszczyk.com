@@ -38,6 +38,12 @@ And remember that in a free market economy you should always have options as to 
 
 ---
 
+### 1997
+
+Przepchnięto ustawę potocznie nazywaną - prawem bankowym. Art. 2 tejże ustawy mówi w skrócie, że w momencie wpłaty środków na rachunek bankowy, przestajesz być ich właścicielem, a bank może zrobić z nimi co mu się żywnie podoba, nie ponosząc odpowiedzialności za ewentualne straty!
+
+A tym czasem w Kanadzie wystarczy podpaść i VOILA - zostajesz odcięty od środków do życia👇
+
 ### 1994
 
 Prokuratorzy, w asyście brygad antyterrorystycznych policji, zamknęli w Warszawie, Krakowie, Opolu, Lublinie, Poznaniu i Szczecinie 6 stacji telewizyjnych należących do sieci Polonia 1.

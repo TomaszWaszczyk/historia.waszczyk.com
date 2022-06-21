@@ -21,6 +21,58 @@ Rosyjska flota atakuje Odessę. Trwa też atak na Kijów. Ostrzeliwane są lotni
 
 <img src="./img/february/wojnaputina.jpg"><br><br>
 
+For those who ask: “Why does Ukraine matter? “
+There is one of the biggest countries in Europe by territory with 41 mln population, where highly educated people (35,3 mln) are strongly motivated to work.
+
+How the nation of Ukraine ranks:
+
+1st in Europe in proven recoverable reserves of uranium ores;
+2nd place in Europe and 10th place in the world in terms of titanium ore reserves;
+
+2nd place in the world in terms of explored reserves of manganese ores (2.3 billion tons, or 12% of the world's reserves);
+
+2nd largest iron ore reserves in the world (30 billion tons);
+
+2nd place in Europe in terms of mercury ore reserves;
+
+3rd place in Europe (13th place in the world) in shale gas reserves (22 trillion cubic meters)
+
+4th in the world by the total value of natural resources;
+7th place in the world in coal reserves (33.9 billion tons)
+
+Ukraine is an agricultural country:
+
+1st in Europe in terms of arable land area;
+3rd place in the world by the area of black soil (25% of world's volume);
+1st place in the world in exports of sunflower and sunflower oil;
+2nd place in the world in barley production and 4th place in barley exports;
+3rd largest producer and 4th largest exporter of corn in the world;
+4th largest producer of potatoes in the world;
+5th largest rye producer in the world;
+5th place in the world in bee production (75,000 tons);
+8th place in the world in wheat exports;
+9th place in the world in the production of chicken eggs;
+16th place in the world in cheese exports.
+
+Ukraine can meet the food needs of 600 million people.
+
+Ukraine is an industrialized country:
+
+1st in Europe in ammonia production;
+2-е Europe's and 4th largest natural gas pipeline system in the world (142.5 bln cubic meters of gas throughput capacity in the EU);
+3rd largest in Europe and 8th largest in the world in terms of installed capacity of nuclear power plants;
+3rd place in Europe and 11th in the world in terms of rail network length (21,700 km);
+3rd place in the world (after the U.S. and France) in production of locators and locating equipment;
+3rd largest iron exporter in the world
+4th largest exporter of turbines for nuclear power plants in the world;
+4th world's largest manufacturer of rocket launchers;
+4th place in the world in clay exports
+4th place in the world in titanium exports
+8th place in the world in exports of ores and concentrates;
+9th place in the world in exports of defense industry products;
+10th largest steel producer in the world (32.4 million tons).
+Ukrainian Congress Committee of America Ukrainian World Congress - Свiтовий Конґрес Українців
+
 ### 2021
 
 Umiera Claude Shannon

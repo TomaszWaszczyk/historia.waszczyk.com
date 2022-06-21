@@ -51,6 +51,24 @@ Przebieg działań na terenie Starego Miasta, pierwsze dni przy tym chaosie, jak
 
 Źródło: Archiwum historii mówionej.
 
+### 1939
+
+NOVEMBER 1939: RUSSIA INVADES FINLAND
+
+History teaches us great lessons if we only want to study them. Here is one.
+
+The Winter War was a war between the Soviet Union and Finland. The war began with a Soviet invasion of Finland on 30 November 1939 and ended three-and-a-half months later. Before invading, Stalin made several demands, including that Finland cede substantial border territories, claiming security reasons. When Finland refused, the Soviets invaded. Most sources conclude that the Soviet Union had intended to conquer all of Finland, and establish a puppet Finnish Communist government.
+
+The Finnish soldiers fought with immense bravery. They repelled Soviet attacks for more than two months and inflicted substantial losses on the invaders. The League of Nations deemed the attack illegal and expelled the Soviet Union. In spite of its brave resistance, Finland had to surrender in March 1940.
+
+Today, again, Russia invades a smaller nation - Ukraine - with the objective of grabbing land and expanding its sphere of influence under the pretext of "security concerns". Same objectives, same pretext, same sufferance inflicted on civilian population.
+
+Putin uses the same old strategy already followed by Stalin. First, raising "security concerns" and creating troubles in the border areas by leveraging local Russian minorities. Then invading the smaller country. This has already been successfully done in Moldova and Georgia. Less successfully, In Latvia and Lithuania.
+
+History teaches a clear lesson. Let's learn from it.
+
+<img src="./img/november/finland.jpeg"><br><br>
+
 ### 1913
 
 W roku w Jabłonce, powiat Brzozów, województwo Podkarpackie urodził się Romuald Rajs "Bury"- żołnierz Armii Krajowej, dowódca I Kompanii Szturmowej 3 Brygady Wileńskiej, uczestnik operacji "Ostra Brama", podwładny majora Zygmunta Szendzielarza.

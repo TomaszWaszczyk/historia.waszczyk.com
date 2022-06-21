@@ -21,6 +21,13 @@ New Zealand is reaching new levels of insanity for absolutely no scientific reas
 
 ---
 
+Dziś swoją misję na planecie Ziemia, zakończył Pan Andrzej Bibiński, główny technolog zakładów MERA ERA w latach ich największej świetności. Spotkałem się z Panem Andrzejem dwukrotnie. Rozmawialiśmy głównie o jego pracy w MERA ERA, o procesie przygotowania linii produkcyjnej mikrokomputera MAZOVIA 1016 oraz o problemach z uruchomieniem seryjnej produkcji.
+Przypomnę tylko, że w zakładach MERA ERA w latach 1973-1988 produkowano pakiety do komputerów MERA 300, MERA 400, drukarek DW3, pamięci kasetowej PK1, pamięci taśmowej PT105, pamięci 9425, systemów SM, MERA NUCON 400, drukarek DZM180, pamięci taśmowej PT3M, czytnika taśmy CT-301, komputera Mazovia 1016.
+
+<img src="./img/may/bibinski.png"><br><br>
+
+---
+
 Ambasador Rosji Siergiej Andriejew został oblany czerwoną farbą przed Cmentarzem Żołnierzy Radzieckich w Warszawie. Incydent zarejestrowała kamera Polsat News. Informacja o oblaniu ambasadora Rosji dotarła do Chin. Internauci sugerują, że Polska prosi się o atak lub zniknięcie z map.
 
 <img src="./img/may/barszcznatwarzy.jpeg"><br><br>

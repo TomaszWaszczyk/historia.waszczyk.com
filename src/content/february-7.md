@@ -15,11 +15,32 @@ Krótka notka, trochę nie w temacie inwestycyjnym, ale przy szerszym spojrzeniu
 
 > Songa Hongbinga: „Polska, Węgry, Rosja, Ukraina – wszystkie te państwa dotknęła bolesna utrata własnego majątku, co doprowadziło do tego, że od dwóch dekad ich gospodarki wciąż nie mogą odzyskać sił. (…) Mamy do czynienia z pierwszym w dziejach przypadkiem, w którym grupa dość silnych państw stała się ofiarą zorganizowanego rabunku”.
 
+<!-- "Remember when after the financial crisis Ben Bernanke told Congress he'd bring the Fed's balance sheet back down to $1 trillion or less?
+After that he launched QE2, Operation Twist and QE3 and ballooned it up to $4.5T instead. Powell has now bloated it up to the current $8.7T." -->
+
 ### 2020
 
 WHO:
 
 "Masks don't necessarily protect you"
+
+### 1992
+
+On 7 February 1992, the Treaty on European Union was signed by 12 countries in the Dutch city of Maastricht, which lay the foundations for the EU as we know it today.
+
+The result of several years of discussions between governments, the Maastricht Treaty marks a new step in the process of creating an ever closer union among the peoples of Europe, based on 3 pillars:
+
+📜 European citizenship
+📜 Common foreign and security policy
+📜 Cooperation in the field of justice and home affairs.
+
+The treaty also paved the way for the creation of a single European currency - the euro - and established the European Committee of the Regions, the assembly of regional and local representatives coming from all EU countries.
+
+Today, more than 440 million citizens from 27 countries enjoy the benefits of European cooperation.
+
+The Maastricht Treaty entered into force on 1 November 1993. Learn more about this important milestone
+
+<img src="./img/february/mastricht.jpeg"><br><br>
 
 ### 1807
 

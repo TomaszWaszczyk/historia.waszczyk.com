@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Czyżby przed wojną miała miejsce zmowa cenowa na rynku uprawnień CO2? Ktoś zarabiał na tym krocie, przy okazji pogrążając innych w stratach. A teraz role nagle się odwróciły.
+
+„Czy to możliwe, że uprawienia do emisji CO2 tak bardzo tanieją, ponieważ to jedyny rynek commodities denominowany w EUR, a nie USD, a rosyjskie banki wciąż mają dostęp do clearingu w EUR (w USD już nie mają), więc to jedyne miejsce, z którego mogą skutecznie uciec?” - Rafał Hirsch
+
 ### 2021
 
 Hongkong zniknął z rankingu wolności gospodarczej

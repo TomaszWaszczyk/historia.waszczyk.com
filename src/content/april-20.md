@@ -13,6 +13,17 @@ draft: false
 
 Olaf Scholz został zapytany, dlaczego Niemcy nie dostarczyły dotąd do Kijowa czołgów Marder i Leopard. Jego odpowiedź zaskoczyła wielu niemieckich komentatorów. „Scholz powiedział dziennikarzom, że Ukraińcy są po prostu zbyt głupi, by używać takiej niemieckiej broni” – konstatuje reporter dziennika „Bild” Julian Roepcke.
 
+---
+
+Kaum zu glauben!
+Zdjęcia z parady poparcia Federacji Rosyjskiej, która w niedzielę odbyła się w Berlinie, pojawiły się w mediach w tym samym czasie co doniesienia o masakrze w Buczy. Oba te wydarzenia nie mieszczą się człowiekowi w głowie, a jednak faktycznie miały miejsce.
+
+Wszystkim Berlińczykom, którzy byli świadkami tej parady, polecam stary utwór grupy Die Toten Hosen pt. Sascha.
+
+---
+
+Wnorowski (RPP): Rynki muszą brać pod uwagę, że stopy mogą wzrosnąć do 7,5 proc.
+
 ### 2021
 
 Ani IKE, ani ZUS nie gwarantują, że emerytury Polaków będą godziwe - powiedział PAP ekspert ekonomiczny Instytutu Jagiellońskiego i wykładowca SGH dr Artur Bartoszewicz.

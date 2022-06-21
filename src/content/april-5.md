@@ -114,6 +114,20 @@ Rozpoczęło się trwające do 29 lutego 1996 r oblężenie Sarajewa w czasie wo
 
 <img src="./img/april/goldfed.png"><br><br>
 
+Dear Gold bugs beware "The ides of march" this time around.
+Yes, The U.S Government Can Still Confiscate all Gold...
+
+Historically, the government will seize gold when it’s the most valuable, during times when its fiat currency has become utterly devalued. When President Roosevelt made ownership of gold bullions illegal in 1933, the move was preceded by the boom of the Roaring Twenties, then the crash of 1929. Although Roosevelt didn’t call it gold confiscation; he preferred the term “gold hoarding.”
+
+By the 1930s, the US government was facing its most severe financial crisis, and it needed gold (something of value), to stimulate the economy that was running on the fumes of fiat currency. So, it took people’s gold. It was as simple as that. Non-compliance was threatened with severe punishment.
+
+As the banksters pandemic printers go into overdrive, the less valuable their fiat-currency becomes, while gold rises in value. A desperate government might very well begin to eye private gold, yet one more time, as the solution to its problems.
+
+The more power (gold) the government claims, the less power(gold) lies within the hands of its citizens. With the “everything bubble” only getting bigger and bigger, will the world banksters want gold to be under its control or under the control of its citizens?
+Time will tell… 
+
+PS: The ides of march was notable for the Romans as a deadline for settling debts.
+
 ### 1925
 
 W Ostrowcu Świętokrzyskim urodził się Jerzy Kędziora (zdjęcie) funkcjonariusz Ministerstwa Bezpieczeństwa Publicznego, jeden z najbardziej okrutnych oficerów śledczych, zbrodniarz stalinowski. 

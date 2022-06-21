@@ -9,6 +9,20 @@ tags:
 draft: false
 ---
 
+### 2022
+
+IMF ADMITTING THEY PRINTED TO MUCH MONEY
+
+These Are The "Leaders" Of Europe, Chuckling As They Admit They Didn't Think About What Massive Money Printing Might Lead To Such As Intolerable Wealth Gaps And Inflation.
+
+IMF Director Sums It Up:
+
+1 - We printed too much money and didn’t think of unintended consequences
+
+2 - We are acting like 8-year-olds playing soccer chasing the ball
+
+A Planned Failure!
+
 ### 2020
 
 Stany Zjednoczone są obecnie głęboko podzielone światopoglądowo i nie chodzi tu o tradycyjny podział na Demokratów i Republikanów. Coraz większe poparcie zdobywa ideologia, która nie ma jeszcze swojej nazwy, natomiast jej wyznawcy określają sami siebie słowem „progressives” czyli „postępowcami”. Jeśli w Polsce komuś termin ten się kojarzy z czasami komuny, która zapewniała wieczny postęp, to nie jest to skojarzenie całkiem mylne, choć nie można też do końca nazwać jej komunizmem. Na pewno mówimy tu o ideologii lewicowej, mocno zakorzenionej w marksizmie i filozofii postmodernizmu (które to połączenie samo w sobie jest pewnym paradoksem).

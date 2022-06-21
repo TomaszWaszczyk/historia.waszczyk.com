@@ -24,6 +24,12 @@ Pan Prezes wie co robi, masowo zinfantylizowane społczeństwo czeka pobudka. ;-
 
 <img src="./img/november/risk.jpeg"><br><br>
 
+---
+
+It has been a week of great meetings and continued dialogue here in D.C., including a visit with the Ambassador of the Republic of Turkey to the U.S., Hasan Murat Mercan.
+
+<img src="./img/november/brock2.jpeg"><br><br>
+
 ### 1989
 
 Upadek muru berlińskiego.

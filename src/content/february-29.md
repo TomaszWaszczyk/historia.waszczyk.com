@@ -9,6 +9,62 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Przykład bzdur mówionych w Polsce:
+
+Tłumaczenie. K to ukraiński kierowca, Ż to rosyjscy żołnierze:
+
+K: Zepsuło się, co chłopaki? Zepsuło?
+Ż: Paliwa zabrakło...
+K: Może was odholować? Z powrotem do Rosji.
+Ż: (żołnierze się śmieją)
+K: A wiecie gdzie jedziecie?
+Ż: Nie. - Na was? - Ja nie.
+K: Na Kijów nak*rwiacie
+Ż: Na Kijów, cholera, j*bać to. A co w wiadomościach mówią?
+K: Póki co wszystko idzie po naszej myśli. Wasi łatwo trafiają do niewoli, ponieważ też chłopaki nie wiedzą gdzie jadą. Całą kolumnę pytałem i nikt nie wie gdzie jadą.
+
+Podjeżdża Ukrainiec do ruskiego oddziału. Brzmi jak początek kawału, który będzie rywalizować z tymi o wchodzeniu do baru.
+
+Na TikToku gdzie do niedawna tańczyły dzieciaki, dziś można zobaczyć niefiltrowane relacje z pierwszej ręki. Okazuje się, że sowiecka szkoła dezinformacji działa gorzej, kiedy wszyscy wokół mają telefony z kamerami i dostępem do internetu.
+
+W sieci udostępniane są kolejne materiały z wypowiedziami rosyjskich żołnierzy, którzy się poddali, albo zostali schwytani.
+
+Wychodzi na to, że Putin okłamał zachód.
+
+Swój naród.
+
+Swoją armię.
+
+Schwytani Rosjanie mówią o tym, że mieli jechać na ćwiczenia, niektórym dowództwo przekazało, że to Ukraina ich zaatakowała i ruszyli, aby się bronić.
+
+Kłamstwa, filozofia Władimira Putina.
+
+Jakie są ryzyka dla jego planu?
+
+Rosjanie poznający prawdę. Bo kiedy poczują się na tyle pewnie, żeby odstąpić od kłamstw zagrażających ich zdrowiu i życiu, porzucają pozorowaną lojalność.
+
+Taki pojazd opancerzony jak na filmie spala ponad 100 litrów paliwa na 100 km, czołg nawet 800 litrów. Wiele z nich nie tankowało od granicy. Brak cystern z Rosji. Logistyka tej wojny jest dramatyczna i już po kilkudziesięciu godzinach przypomina bardziej improwizację, niż egzekwowaną strategię. Jak inaczej można wyjaśnić ten chaos? To część planu?
+
+Może rzeczywiście rosyjscy żołnierze, którzy domyślili się, że zostali wrobieni w wojnę, przehandlowali paliwo na wódkę z kiełbasą, mając później pretekst do wstrzymania działań i ocalenia życia w bezsensownej wojnie.
+
+Coraz więcej pojawia się filmów z Rosjanami, którzy składają broń, nie chcą walczyć.
+
+Jeszcze kilka lat temu zachodni eksperci straszyli, że gdyby Rosja wypowiedziała wojnę, kraje pierwszej linii frontu NATO zostałyby podbite w 36-60 godzin.
+
+Tymczasem walcząc z samą Ukrainą, to Rosja ponosi większe straty. Boryka się z brakiem dyscypliny we własnej armii, dezerterami i przerwami w zaopatrzeniu.
+
+Jeśli ktoś miał jeszcze wątpliwości, to teraz może zobaczyć, że silna Rosja to mit, który wykoleił się w 3 dni.
+
+Putin chce się cofnąć do czasów związku radzieckiego, wykorzystując sprzęt ze związku radzieckiego. Miejsce tych wojsk jest w muzeum, nie na froncie.
+
+Rosyjska armia to młodziaki, które zmanipulowano, a które na Ukrainie same do tego dochodzą.
+
+Są też starsi goście, których Putin zwerbował za flaszkę. Nie mają pojęcia gdzie są, ani co robią.
+
+Rosjanie uświadamiają sobie, że śmierć w imię kaprysów szaleńca nie uszlachetnia.
+
 ### 1968
 
 W Warszawie odbył się zjazd oddziału Związku Literatów Polskich w czasie którego wyrażono protest przeciwko zdjęciu ze sceny Teatru Narodowego w Warszawie Dziadów Adama Mickiewicza w reżyserii Kazimierza Dejmka. Podczas tego zjazdu wystosowano również rezolucję wyrażającą sprzeciw wobec nasilaniu się cenzury i działaniom władz zagrażającym kulturze narodowej.

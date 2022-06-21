@@ -9,6 +9,30 @@ tags:
 draft: false
 ---
 
+### 2022
+
+"Canada, Saskatchewan;
+Rzad prowincjonalny uchwalil orwellowskie uprawnienia nadzwyczajne w imie walki z COVID, ktore pozwalaja urzednikom zatrzymywac lub usuwac ludzi bez nakazu i zajmowac mienie osobiste".
+
+<img src="./img/october/canada.jpeg"><br><br>
+
+---
+
+Po części to rzeczowa merytoryczna analiza. Po części bezrefleksyjna ględa. A w największym stopniu jednak - szczególnie w obecnych okolicznościach- intelektualna prowokacja (w linku odesłanie do summary).
+Nowa książka Eichengreena, El-Ganainy, Estevesa i Michenera - zgodnie z tytułem - ma być wielką obroną całych stuleci zaciągania przez władzę długów. Rzecz jasna w godnych pochwały celach, ze szlachetnych pobudek, dla dobra obywateli...
+A wychodzi z tego - moim zdaniem - 300 stron niezamierzonej raczej przez autorów parodii.
+Bo dług publiczny, zaciągany z umiarem, finansujący efektywnie usługi publiczne, będący ratunkowym narzędziem w nagłych i nieprzewidzianych okolicznościach, nie potrzebuje obrony. Broni się sam.
+Ale nie da się obronić długu publicznego finansującego przedsięwzięcia ekonomicznie beznadziejne, korupcję, nepotyzm, defraudację; długu powstającego i pozostajacego poza jakąkolwiek demokratyczną kontrolą, a służącego utrzymaniu się u władzy. Długu ukrywanego do ostatniej chwili przed opinia publiczną, z którego wyplątać się można później jedynie przez default.
+Choć są i takie próby nadania mu sensu. Bo przecież jest tanio; bo w walucie krajowej; bo da się samo-wyrosnąć; bo dług to pasywo, do którego przypisane są jakieś aktywa, itp, itd.
+
+Dla ludzi myślących dług publiczny jest normalnym instrumentem ekonomicznym. I jako taki nie potrzebuje obrony. Podobnie jak wiele innych powszechnie znanych ludzkości używek, których nadmiar dopiero szkodzi, bo niszczy rozum i poczucie odpowiedzialności.
+
+Może następna książka Eichengreena, dobrego przecież speca od kryzysów walutowych, będzie właśnie o tym🤔
+
+In Defense of Public Debt
+
+---
+
 ### 2020
 
 > Ubiegłotygodniowa decyzja ArcelorMittal Poland (AMP) o demontażu instalacji w Krakowie to najprawdopodobniej dopiero początek kapitulacji sektora hutniczego w Polsce – mówią ludzie z branży

@@ -9,6 +9,20 @@ tags:
 draft: false
 ---
 
+### 2022
+
+A vast financial risk vector is being overlooked. Attention is focused on key Russian banks losing access to SWIFT. What if a cyberattack left Western banks unable to use SWIFT? Russian cyber experts may have already developed an exploit and may be holding it in reserve. They know it would throttle the global financial system – a financial Armageddon triggered by a tit-for-tat “if you prevent our access to SWIFT, then you can’t use SWIFT either.” Almost no financial institution has a viable backup system in place, and they should. This is basic risk management.
+
+SWIFT has a long history of exploits including nearly $100m stolen from banks in Bangladesh and Ukraine in 2016. These exploits compromised the individual banks. SWIFT was upgraded in 2016 to SWIFT GPI and also upgraded its Customer Security Programme. SWIFT uses its own internet protocol called SIPN. Another attack vector would be to target the SWIFT network providers: AT&T, Colt, Orange, and BT.
+
+Much of the talk is about Russia’s potentially using cryptos, such as bitcoin, as an alternative. No one (publicly) is talking about viable alternatives if SWIFT is disrupted in the West. The reality is that the usual cryptos cannot handle the scale of global financial activity (the Bitcoin network can handle only 5 transactions per second).
+
+SWIFT does not move money – it is only a messaging system. In blockchain-based systems, the execution and record (settlement) happen simultaneously. Leading blockchain systems include RippleNet (e.g., Santander’s One Pay FX). Stellar is another alternative (e.g., IBM Blockchain World Wire). There are a number of permissioned/private blockchains such as Sequence by Chain, Onyx by JP Morgan, Hyperledger Fabric (indeed, SWIFT is running an experiment in HLF), Corda, and Quorum. Central Bank Digital Currency initiatives can also play a role but 1) they are not ready and 2) it is necessary to develop a bridging technology between different CBDCs.
+
+We rely on our regulators to identify and manage the risks of our financial sector. Losing SWIFT, even temporarily, is a systemic risk. Why is there no Plan B? Such vulnerabilities make us prey in an open field.
+
+<img src="./img/march/planb.jpeg"><br><br>
+
 ### 2020
 
 Siostra: "zobaczysz za 20 lat" (w kontekście tego jak żyję(?)/dzieci(?))

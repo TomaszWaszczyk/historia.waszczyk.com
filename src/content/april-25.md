@@ -31,6 +31,10 @@ draft: false
 
 ---
 
+<img src="./img/april/czas.jpeg"><br><br>
+
+---
+
 > The CFOs of Pfizer and Moderna have both resigned over the past 72 hours.
 
 ### 2021

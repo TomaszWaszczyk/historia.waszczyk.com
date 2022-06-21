@@ -12,6 +12,14 @@ tags:
 
 <img src="./img/march/parallels.jpeg"><br><br>
 
+---
+
+The Russian Central Bank has decided not to pay interest on bonds worth US $ 29 billion (default). After a few days of war, Russia became economically bankrupt. The financial markets will never forget it. Even if Putin withdraws its troops today - the markets will be demanding enormous risk premiums for many, many years. The price that every Russian will pay for the rest of his life.
+
+<img src="./img/march/rusiacbr.jpeg"><br><br>
+
+---
+
 ### 2021
 
 > Rozpuszczanie własności

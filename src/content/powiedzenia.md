@@ -14,6 +14,8 @@ draft: false
 
 ---
 
+If you don't stand for something, you will fall for anything.
+
 https://pl.wikipedia.org/wiki/Dura_lex,_sed_lex
 
 https://pl.wikipedia.org/wiki/Falandyzacja_prawa
@@ -3067,436 +3069,436 @@ Radio Yerevan answered: "In the capitalism a man exploits the man, when in socia
 
     1. AB HEREDE OBLIGATIO INCIPERE NON POTEST
     • Zobowiązanie nie może rozpoczynać się od osoby dziedzica ( spadkobiercy ) – W przypadku konstruowania zobowiązań nie można wymagać, aby obowiązywało ono dopiero po przejęciu spadku przez określoną osobę. Zawarcie zobowiązania ma charakter stały i odwołuję się do stron, które je zawarły.                                                                          				
-    2. AB INITIO NULLUM SEMPER NULLUM
+    1. AB INITIO NULLUM SEMPER NULLUM
     • To co od początku nieważne, zawsze nieważne – Wywodząca się z prawa rzymskiego zasada mówiąca o tym iż czynność prawa sprzeczna z ustawą albo mająca na celu obejście ustawy jest nieważna.
 
-    3. ABSENTEM IN CRIMINIBUS DAMNARI NON OPORTET
+    1. ABSENTEM IN CRIMINIBUS DAMNARI NON OPORTET
     • Nie należy skazywać za przestępstwo nieobecnego – Poza kilkoma wyjątkami sąd nie może przeprowadzić rozprawy pod nieobecność oskarżonego. Nieobecność na rozprawie blokuje również realizacje innych zasad procedury karnej.
 
-    4. ACCESSIO CREDIT PRINCIPALI
+    1. ACCESSIO CREDIT PRINCIPALI
     • Przyrost przypada temu co główne – Zasada rzymskiego prawa rzeczowego, która odnosi się do jednego z pierwotnych sposobów nabycia własności, tj. akcesji ( przejęcia i zmieszania ) – własność rzeczy głównej o większej wartości rozciąga się na wartość poboczną ( tzw. Przyłączenie ), np. budynek jest akcesją gruntu.								
-    5. ACTOR SEQUITUR FORUM REI
+    1. ACTOR SEQUITUR FORUM REI
     • Powód idzie za sądem pozwanego – Podstawowa zasada procesowa – tzw. Zasada właściwości miejscowej – sądem właściwym jest sąd zamieszkania  pozwanego.			
-    6. ACTUS SIMULATUS NULLIUS EST MOMENTI 
+    1. ACTUS SIMULATUS NULLIUS EST MOMENTI 
     • Czynność pozorna jest nieważna – pozorność ( symulacja ) zachodzi wtedy, gdy strony procesowe umawiają się na dokonanie danej czynności prawnej zewnętrznie poprawnej bez jej konsekwencji. Czynność pozorna jako sprzeczna z wolą nie ma znaczenia prawnego z powodu braku woli wywołania skutków prawnych.						
-    7. ADOPTIO NATURAM IMITATUR 
+    1. ADOPTIO NATURAM IMITATUR 
     • Adopcja/ Przysposobienie naśladuje Naturę – Zasada rzymskiego prawa rodzinnego  - stosunki pomiędzy przysposobionym, a przysposabiającymi powinny być identyczne jak w rodzinie naturalnej. 										
-    8. ALTERI STIPULARI NEMO POTEST 
+    1. ALTERI STIPULARI NEMO POTEST 
     • Nikt nie może zawrzeć stypulacji w zastępstwie drugiego – Zasada dotycząca umów słownych w starożytnym Rzymie – osoba postronna nie może zawrzeć obietnicy/umowy w imieniu osoby trzeciej.											
-    9. AMBULATORIA EST VOLUNTAS TESTATORIS USQUE AD MORTEM 
+    1. AMBULATORIA EST VOLUNTAS TESTATORIS USQUE AD MORTEM 
     • Wola testatora może być zmieniana aż do śmierci – Zasada, w myśl której wola spadkobiercy może być zmieniana aż do momentu śmierci. Po stwierdzeniu zgonu dokonuje się jedynie realizacji ostatecznej wersji. 												
-    10. AUDIATUR ET ALTERA PARS // AUDI ALTERAM PARTEM 
+    1.  AUDIATUR ET ALTERA PARS // AUDI ALTERAM PARTEM 
     • Należy wysłuchać drugiej strony / Niechaj będzie wysłuchana I druga strona – Zasada procesowa mówi o tym, że nie wolno wydawać wyroku bez wysłuchania obu stron, chyba że jedna z strona zrezygnuje z tego. Sąd powinien dążyć do zbadania wszystkich aspektów sprawy- ZASADA KONTRADYKTORYJNOŚCI	
-    11. BIS DE EADEM RE AGERE NON LICET // BIS DE EADEM RE AGI NON POTEST 
+    1.  BIS DE EADEM RE AGERE NON LICET // BIS DE EADEM RE AGI NON POTEST 
     • Nie można/ wolno procesować się 2 razy w tej samej sprawie – Zasada, „ res iudicato” nie można wytaczać pozwu w sprawie już osądzonej i zakończonej  prawomocnym wyrokiem.																												
-    12. CASUM SENTIT DOMINUS 
+    1.  CASUM SENTIT DOMINUS 
     • Właściciel rzeczy ponosi skutki zdarzenia przypadkowego, powodującego uszkodzenie lub zniszczenie rzeczy – Właściciel danej rzeczy ponosi całkowitą odpowiedzialność za szkody przez nią wyrządzone, nawet jeśli powstały one wskutek sytuacji losowej bądź przypadku.					
-    13. CASUM EST MAIOR VIS CUI HUMANA INFIRMITAS RESISTERE NON POTEST 
+    1.  CASUM EST MAIOR VIS CUI HUMANA INFIRMITAS RESISTERE NON POTEST 
     • Siła wyższa jest zdarzeniem, któremu słabość ludzka oprzeć się nie może – Za silę wyższą należy uznać jedynie zdarzenie, które wykracza poza możliwości człowieka i jego przewidywanie. Np. zdarzenie katastrofalne, nadzwyczajne. Przy stwierdzeniu udziału siły wyższej wyłącza się odpowiedzialność za szkodę. 												
-    14. CLARA NON SUNT INTERPRETANDA 
+    1.  CLARA NON SUNT INTERPRETANDA 
     • To co jasne nie wymaga interpretacji – Zasada w myśl której przedmiotem wykładni powinny być tylko przepisy budzące wątpliwości.									
-    15. COGITATIONIS POENAM NEMO PATITUR
+    1.  COGITATIONIS POENAM NEMO PATITUR
     • Nikt nie ponosi kary za myślenie – Osądzonym można być tylko za czyn, który rzeczywiście zaistniał; zamiar nie stanowi podstawy do osądzenia kogoś.							
-    16. COMMODUM EIUS ESSE DEBET CUIUS EST PERICULUM
+    1.  COMMODUM EIUS ESSE DEBET CUIUS EST PERICULUM
     • Korzyść musi przypaść temu kto ponosi ryzyko – Umowy kupna - sprzedaży, zasada ma związek z korzyścią przypadającą tylko kupującemu po zawarciu umowy sprzedaży – kupna.				
-    17. COMPENSATIO EST DEBITI ET CREDITI INTER SE CONTRIBUTIO
+    1.  COMPENSATIO EST DEBITI ET CREDITI INTER SE CONTRIBUTIO
     • Potrącenie jest wzajemnym zaliczeniem długo I wierzytelności – W przypadku dokonywania potrąceń następuje ograniczenie sumy długu i wierzytelności. X ma dług wobec Y, więc Y ma wierzytelność wobec X i odwrotnie – następuje obustronne (częściowe/ całkowite) zaspokojenie.			
-    18. CONFESSIO EST REGINA PROBATIONUM
+    1.  CONFESSIO EST REGINA PROBATIONUM
     • Przyznanie się jest królową dowodów – Współcześnie owa zasada nie obowiązuje, ponieważ organy mogą swobodnie oceniać dowody zebrane we sprawie, choć przyznanie się oskarżonego stanowi ważną kwestię przy ocenie sprawy przez sąd.									
-    19. CONFESSUS PRO IUDICATO EST
+    1.  CONFESSUS PRO IUDICATO EST
     • Ten kto się przyznał uważany jest za zasądzonego – Przyznając się, automatycznie jesteśmy uznawani za winnych. Sprawę kończy prawomocny wyrok uznawany za prawdę. Sąd może w tej sytuacji zrezygnować z przeprowadzenia postępowania dowodowego.						
-    20. CONTRACTUS AB INITIO VOLUNTATIS EST, EX POST FACTO NECESSITATIS
+    1.  CONTRACTUS AB INITIO VOLUNTATIS EST, EX POST FACTO NECESSITATIS
     • Zawarcie kontaktu jest dobrowolne, ale jego wykonanie przymusowe – Zawarcie umowy pomiędzy stronami ma charakter dobrowolny, jednak po podpisaniu jej na stronach spoczywa obowiązek spełnienia zawartych w niej ustaleń.										
-    21. CONVENTIO OMNIS INTELLEGITUR REBUS SIC STANTIBUS // REBUS SIC STANTIBUS OMNIS PROMISSIO INTELLEGITUR
+    1.  CONVENTIO OMNIS INTELLEGITUR REBUS SIC STANTIBUS // REBUS SIC STANTIBUS OMNIS PROMISSIO INTELLEGITUR
     • Każda umowa jest pojmowana jako obowiązująca tylko w danych, oznaczonych warunkach – Umowy zawarte pomiędzy stronami są ważne tylko w warunkach określonych przez nią samą – nie można wnioskować o usługi/ należności nie objęte umową.
 
-    22. CRIMINA MORTE EXTINGUUNTUR
+    1.  CRIMINA MORTE EXTINGUUNTUR
     • Przestępstwa ulegają wymazaniu przez śmierć sprawcy – Po śmierci sprawcy nie osądza się go za popełnione przestępstwa, a trwające postępowania zostają umorzone.
 
-    23. DA MIHI FACTUM, DABO TIBI IUS
+    1.  DA MIHI FACTUM, DABO TIBI IUS
     • Podaj mi fakty, a podam Ci prawo – Interpretacja działań powinna opierać się na faktach, którym odpowiadają konkretne artykuły.
 
-    24. DIES INTERPELAT PRO HOMINE
+    1.  DIES INTERPELAT PRO HOMINE
     • Termin wzywa za człowieka – Terminy ustawowe są obowiązujące bez powiadomienia z urzędu- należność staje się zawsze wymagalna w tej sytuacji. Niewywiązanie się z tego obowiązku powoduje popadnięcie w zwłokę.
 
-    25. DOLUS NON PRAESUMITUR
+    1.  DOLUS NON PRAESUMITUR
     • Złego zamiaru nie domniemuje się – W razie wątpliwości co do intencji sprawcy, przyjmuje się tylko i wyłącznie działania w dobrej wierze. 
 
-    26. DOLUS SEMPER PRAESTATTUR
+    1.  DOLUS SEMPER PRAESTATTUR
     • Za podstęp zawsze się odpowiada – W przypadku świadomego stosowania podstępu odpowiada się zawsze za konsekwencje z niego wynikające ( np. złamanie prawa ).
 
-    27. DOMINUS SOLI EST DOMINUS COELLI ET INFERORUM
+    1.  DOMINUS SOLI EST DOMINUS COELLI ET INFERORUM
     • Właściciel gruntu jest właścicielem nieba ( nad gruntem ) i podziemi (pod gruntem). Własność gruntu rozciąga się także na jego podziemie i znajdujący się nad nim słup powietrzny ( zasada AD SIDERA, USQUE AD INFERIOS )
 
-    28. DURA LEX, SED LEX
+    1.  DURA LEX, SED LEX
     • Twarde prawo, ale prawo – Niezależnie od tego, jak brutalne konsekwencje niesie za sobą prawo, jest ono obowiązujące i nie można się od niego odwołać.
 
-    29. EI INCUMBIT PROBATIO QUI DICIT NON QUI NEGAT
+    1.  EI INCUMBIT PROBATIO QUI DICIT NON QUI NEGAT
     • Ciężar przeprowadzenia dowodu spoczywa na tym kto twierdzi, a nie na tym co zaprzecza – To oskarżający musi udowodnić winę pozwanego za pomocą wszelakich dowodów ( świadkowie, dowody rzeczowe etc. ).
 
-    30. EIUS EST TOLLERE LEGEM, CUIUS EST CONDERE
+    1.  EIUS EST TOLLERE LEGEM, CUIUS EST CONDERE
     • Ten może uchylić ustawy co może je uchwalać – Paremia ta nawiązuje do podstawowej zasady odnoszącej się do prawodawcy, mówiącej o tym, że jedynie prawodawca może uchylić wprowadzoną ustawę lub zastąpić ją jej nowelizacją ( poza trybem per deseducato i wykrokami TK ).
 
-    31. ERRANTIS NULLA VOLUNTAS EST
+    1.  ERRANTIS NULLA VOLUNTAS EST
     • Działając pod wpływem błędu nie wyraża się woli – W przypadku udowodnienia działania pod wpływem błędu przy wyrażaniu woli spadkodawcy (np. nieznajomość pewnych faktów ) jego oświadczenie woli można uznać za nieważne.
 
-    32. ET NON FACERE, FACERE EST
+    1.  ET NON FACERE, FACERE EST
     • Powstrzymanie się od działania jest także działaniem – Sentencja dotyczy świadczenia, które może polegać nie tylko na działaniu, ale także na zaniechaniu ( tj. powstrzymaniu się od działania ) – o świadczenie zaniechania wierzyciel może wnioskować przed sądem.
 
-    33. GENUS PERIRE NON CENSETUR
+    1.  GENUS PERIRE NON CENSETUR
     • Uważa się że gatunek nie ginie – Rzymianie dzielili rzeczy na specyficzne i rzeczowe (gatunkowe). Powodowało to ich specyficzny podział przy sprzedaży/kupnie. W przypadku rzeczy gatunkowych jakiekolwiek niedotrzymanie umowy prowadzi do podwójnych sankcji karnych i odmiennego kształtowania obowiązków sprzedającego, z racji ich wymiennego charakteru. 
 
 
-    34. HEREDITAS EST SUCCESSIO IN UNIVERSUM IUS, QUOD DEFUNCTUS HABUERIT
+    1.  HEREDITAS EST SUCCESSIO IN UNIVERSUM IUS, QUOD DEFUNCTUS HABUERIT
     • Dziedziczenie jest wejściem w ogół praw, jakie posiadał zmarły – Osoba dziedzicząca po przedstawieniu testamentu ma pełnię praw, jeśli chodzi o dysponowanie dobrami jej zapisanymi, a także uprawnieniami, które odziedziczyła po zmarłym.
 
-    35. HEREDITAS VIVENTIS NON DATUR
+    1.  HEREDITAS VIVENTIS NON DATUR
     • Nie przyznaje się spadku po żyjącym – Zrealizowanie testamentu następuje dopiero po śmierci ustalającego testament – nie można wnioskować o podział spadku, gdy spadkobierca wciąż żyje.
 
-    36. HOMINUM CAUSA OMNIE IUS CONSTITUTUM SI
+    1.  HOMINUM CAUSA OMNIE IUS CONSTITUTUM SI
     • Wszelkie prawo powinno być ustanawiane ze względu na (prawa) człowiek- Prawo jest ustanawiane dla ogółu obywateli, a nie w celu realizacji interesów wybranej jednostki.
 
-    37. IN QUOD INTEREST NON SOLUM EX DAMNO DATO CONSTAT, SED ETIAM EX LUCRO CESSANTE
+    1.  IN QUOD INTEREST NON SOLUM EX DAMNO DATO CONSTAT, SED ETIAM EX LUCRO CESSANTE
     • Przy szacowaniu wysokości odszkodowania bierze się pod uwagę nie tylko wyrządzoną szkodę, lecz także utracony zysk – Przy określaniu wysokości nawiązki, jaka jest należna pokrzywdzonemu oprócz samej szkody należy wziąć również pod uwagę kwestie in + dla tej osoby, które nie mogły zaistnieć w danym czasie z powodu wyrządzonej szkody.
 
-    38. IGNORANTIA IURIS NOCET, IGNORANTIA FACTI NON NOCET
+    1.  IGNORANTIA IURIS NOCET, IGNORANTIA FACTI NON NOCET
     • Nieznajomość prawa szkodzi, nieznajomość faktów nie szkodzi – Nieznajomość prawa nie chroni przed sankcjami/ brak znajomości faktów w danej sprawie nie grozi sankcjami.
 
-    39. IMPOSSIBLIUM NULLA OBLIGATIO EST
+    1.  IMPOSSIBLIUM NULLA OBLIGATIO EST
     • Zobowiązanie do świadczenia rzeczy niemożliwych jest nieważne – W momencie zawarcia świadczenia, jego przedmiot musi być faktyczny zarówno pod względem prawnym, jak i formalnym.
 
-    40. IN CONVENTIONIBUS CONTRAHENTIUM VOLUNTAS POTIUS QUAM VERBA SPECTANDA SUNT
+    1.  IN CONVENTIONIBUS CONTRAHENTIUM VOLUNTAS POTIUS QUAM VERBA SPECTANDA SUNT
     • Przy zawieraniu umów uwzględnia się bardziej wole stron, niż ich słowa – Oświadczenie woli zwarte przez strony stanowi podstawowe źródło rozstrzygania sporów między stronami.
 
-    41. INDIGNO AUFERTUR HEREDITAS
+    1.  INDIGNO AUFERTUR HEREDITAS
     • Niegodnemu odbiera się spadek – W określonych przez ustawę warunkach sąd może uznać spadkobiercę za niegodnego przyjęcia spadku.
 
-    42. IN DUBIO PRO REO
+    1.  IN DUBIO PRO REO
     • Sprawy wątpliwe należy rozstrzygać/ orzekać na korzyść pozwanego – W przypadku jakichkolwiek wątpliwości należy sprawy rozstrzygać na korzyść oskarżonego.
 
-    43. IN PARI CAUSA MELIOR EST CONDITIO POSSIDENTIS
+    1.  IN PARI CAUSA MELIOR EST CONDITIO POSSIDENTIS
     • W równej/ jednakowej sytuacji lepsza jest pozycja posiadacza – W przypadku sporu pomiędzy właścicielem, a najemcą większe prawa do decydowania w kwestii ruchomości/ nieruchomości ma właściciel. 
 
-    44. IN POENAM HERES NON SUCCEDIT
+    1.  IN POENAM HERES NON SUCCEDIT
     • Dziedzic/Spadkobierca nie dziedziczy kary nałożonej na spadkodawcę – Kary nałożone w trybie KK na spadkodawcę nie przechodzą na spadkobiercę.
 
-    45. IN TESTAMENTIS PLENIUS TESTATORIS INTENTIONEM SCRUTAMUR
+    1.  IN TESTAMENTIS PLENIUS TESTATORIS INTENTIONEM SCRUTAMUR
     • W testamencie należy badać zamiar spadkodawcy – Testament powinien być tak tłumaczony, aby w jak największym stopniu spełnić wolę spadkodawcy w nim zawartą.
     • 
 
-    46. INVITUS AGERE NEMO COGITUR
+    1.  INVITUS AGERE NEMO COGITUR
     • Nikogo nie można zmusić do wszczęcia procesu mimo jego woli – Wniesienie pozwu ma charakter dobrowolny i nie można pokrzywdzonego przymusić do dochodzenia swoich praw.
 
-    47. IURA NON IN SINGULAS PERSONAS, SED GENERALITER CONSTITUUNTUR
+    1.  IURA NON IN SINGULAS PERSONAS, SED GENERALITER CONSTITUUNTUR
     • Prawa są stanowione nie ze względu na konkretne osoby, lecz dla wszystkich – Obowiązujące prawo powinno nieść korzyści dla ogółu społeczeństwa nim objętego.
 
-    48. IURIS PRAECEPTA SUNT HAEC: HONESTE, VIVERE, ALTERUM NON LAEDERE, SUUM CUIQUE TRIBUERE
+    1.  IURIS PRAECEPTA SUNT HAEC: HONESTE, VIVERE, ALTERUM NON LAEDERE, SUUM CUIQUE TRIBUERE
     • Nakazy prawa są następujące: żyć uczciwie, nie szkodzić drugiemu, oddać każdemu co mu się należy – Paremia ta wyjaśnia obowiązki nałożone przez prawo względem obywatela, tak aby ten nie wchodził w zatarg z obowiązującymi przepisami.
 
-    49. IURIS PRUDENTIA EST DIVINARUM ATQUE HUMANARUM RERUM NOTITIA, IUSTI ATQUE INIUSTI SCIENTIA
+    1.  IURIS PRUDENTIA EST DIVINARUM ATQUE HUMANARUM RERUM NOTITIA, IUSTI ATQUE INIUSTI SCIENTIA
     • Nauka prawa jest znajomością spraw boskich I ludzkich oraz wiedzą o tym co sprawiedliwe, a co nie sprawiedliwe – Znajomość prawa wiąże się ze znajomością wszelakich spraw związanych z funkcjonowaniem człowieka, a także pojmowania przez niego sprawiedliwości.
 
-    50. IUS CIVILE VIGILANTIBUS SCRIPTUM EST
+    1.  IUS CIVILE VIGILANTIBUS SCRIPTUM EST
     • Prawo cywilne jest tworzone dla osób starannych- Prawo cywilne powinno regulować wszelkie stosunki w relacjach międzyludzkich, które winno obejmować prawo					
-    51. IUS EST ARS BONI ET AEQUI
+    1.  IUS EST ARS BONI ET AEQUI
     • Prawo jest sztuką stosowania tego, co dobre i słuszne – Podstawowa odpowiedź na pytanie: Czym jest prawo? – stanowi zasadę mówiącą, iż wszelkie regulacje prawne powinny się zawierać w ramach słuszności i dobra publicznego.
 
-    52. IUS PUBLICUM PRIVATORUM PACTIS MUTARI NON POTEST
+    1.  IUS PUBLICUM PRIVATORUM PACTIS MUTARI NON POTEST
     • Prawo publiczne nie może być zmieniane umowami osób prawnych – Na kształtowanie prawa publicznego nie mogą wpływać umowy zawarte pomiędzy podmiotami prawnymi.
 
-    53. IUSTITIA EST CONSTANS ET PERPETUA VOLUNTAS IUS SUUM CUIQUE TRIBUENDI
+    1.  IUSTITIA EST CONSTANS ET PERPETUA VOLUNTAS IUS SUUM CUIQUE TRIBUENDI
     • Sprawiedliwość jest niezmienną I trwałą/stałą wolą zagwarantowania każdemu jego praw – O istnieniu sprawiedliwości możemy mówić wtedy, gdy wszelkie prawa należne jednostkom czy podmiotom prawnym są im bezsprzecznie gwarantowane i respektowane przez organy centralne.
 
-    54. LEGEM BREVEM ESSE OPORTET
+    1.  LEGEM BREVEM ESSE OPORTET
     • Ustawa powinna być zwięzła – Ustawa w swoim brzmieniu powinna zawierać wszelkie przypadki możliwe do zaistnienia, ujęte w jak najmniejszym wymiarze słów.
 
-    55. LEGES AB OMNIBUS INTELLEGI DEBENT
+    1.  LEGES AB OMNIBUS INTELLEGI DEBENT
     • Ustawy powinny być zrozumiałe dla wszystkich – Ustawy powinny być napisane językiem, który gwarantuje ich rozumienie przez wszystkich odbiorców.
 
-    56. LEGES BONAE EX MALIS MORIBUS PROCREANTUR
+    1.  LEGES BONAE EX MALIS MORIBUS PROCREANTUR
     • Dobre ustawy rodzą się ze złych obyczajów – Ustawa, która przeciwdziała „złemu obyczajowi”, jest uważana za dobrą, gdyż ma na celu redukcję występowania danego zjawiska wskutek opatrzenia czynu konkretną sankcją.
 
-    57. LEGES OMNIUM SALUTEM SINGULORUM SALUTI ANTEPONUNT
+    1.  LEGES OMNIUM SALUTEM SINGULORUM SALUTI ANTEPONUNT
     • Ustawy przedkładają dobro ogółu nad dobro jednostek – Ustawa w swoim założeniu ma gwarantować dobro ogółu, nawet gdy godzi ona w położenie jednostki.
-    58. LEX LEGE TOLLITUR
+    1.  LEX LEGE TOLLITUR
     • Ustawę uchyla się ustawą – Ustawę może zmienić tylko organ ustawodawczy, poprzez zastąpienie starej ustawy nową.
 
-    59. LEX NON DISTINQUIT
+    1.  LEX NON DISTINQUIT
     • Ustawa nie rozróżnia – Każdy obywatel jest równy wobec prawa, niezależnie od stanu posiadania czy pozycji społecznej.
 
-    60. LEX NON OBLIGAT NISI PROMULGATA
+    1.  LEX NON OBLIGAT NISI PROMULGATA
     • Ustawa nie obowiązuje, jeśli nie została ogłoszona – Warunkiem obowiązywania uchwał jest ich ogłoszenie w celu zapoznania się z nią przez podmioty.
 
-    61. LEX POSTERIOR DEROGAT LEGI PRIORI
+    1.  LEX POSTERIOR DEROGAT LEGI PRIORI
     • Ustawa późniejsza uchyla ustawę wcześniejszą – W momencie pojawienia się nowelizacji danej ustawy, ustalenia jej poprzedniczki, które uległy zmianie tracą swoją moc.
 
-    62. LEX PROSPICIT, NON RESPICIT
+    1.  LEX PROSPICIT, NON RESPICIT
     • Ustawa patrzy na przód, a nie wstecz – Ustawa, która wchodzi w życie nie powinna rozpatrywać przypadków mających miejsce w przeszłości. Regulować będzie ona stosunki w danej dziedzinie od momentu jej wejścia w życie. 
 
     63. LEX RETRO NON AGIT
     • Prawo/ Ustawa nie działa wstecz – Ustawa, która weszła w życie nie może być podstawą dla ujemnych skutków prawnych wynikających z czynów popełnionych przed jej wydaniem. Pozwala jednak na stosowanie pewnych przywilejów, które wnosi wobec osób nie objętych wcześniej danym prawem.
 
-    64. LEX SPECIALIS DEROGAT LEGI GENERALI
+    1.  LEX SPECIALIS DEROGAT LEGI GENERALI
     • Ustawa szczególna uchyla ustawę ogólną – W przypadku określenia specjalnych warunków działania ustawy, wyłączona zostaje moc prawa ustaleń ogólnych ustawy.
 
-    65. LEX SUPERIOR DEROGAT LEGI INFERIORI
+    1.  LEX SUPERIOR DEROGAT LEGI INFERIORI
     • Ustawa wyższej rangi uchyla ustawę niższej rangi – Hierarchia aktów prawnych; ustalenia wyższego szczebla są istotniejsze od ustaleń szczebla niższego.
 
-    66. LIBERA MATRIMONIA ESSE ANTIQUITUS PLACUIT
+    1.  LIBERA MATRIMONIA ESSE ANTIQUITUS PLACUIT
     • Z dawna już postanowiono, że małżeństwa są wolne – Przy zawieraniu małżeństwa nie należy stosować przymusu – tzw. małżeństwa aranżowane; relacja ta powinna się opierać na bezsprzecznej woli obu stron.
 
-    67. LIBERTAS INAESTIMABILIS RES EST
+    1.  LIBERTAS INAESTIMABILIS RES EST
     • Wolność jest rzeczą bezcenną – Wolność winna być najwyższą wartością, którą zapewnia prawo i organy państwowe.
 
-    68. MAGNA NEGLEGENTIA CULPA EST, MAGNA CULPA DOLUS EST
+    1.  MAGNA NEGLEGENTIA CULPA EST, MAGNA CULPA DOLUS EST
     • Wielkie niedbalstwo jest winą, wielką winą jest oszustwo/podstęp – Niedopełnienie swoich obowiązków stanowi winię, jednak świadome oszustwo czy stosowanie podstępu w danej sprawie stanowi o dużo większej odpowiedzialności.
 
-    69. MALA FIDES SUPERVENIENS NON NOCET
+    1.  MALA FIDES SUPERVENIENS NON NOCET
     • Późniejsza zła wiara nie szkodzi – Zła wiara, która pojawia się po popełnieniu czynu, nie jest tak samo rozumiana jak popełnienie czynu w złej wierze. 
 
 
-    70. MALE ENIM NOSTRO IURE UTI NON DEBEMUS
+    1.  MALE ENIM NOSTRO IURE UTI NON DEBEMUS
     • Nie powinniśmy źle korzystać z przysługującego nam prawa – Należy korzystać z prawa w taki sposób, aby nie prowadzić do jego nadużywania.
 
-    71. MALITIA SUPPLET AETATEM 
+    1.  MALITIA SUPPLET AETATEM 
     • Natężenie zła uzupełnia wiek - Nieletni (młodociani), którzy popełnili szczególnie ciężkie przestępstwo, mogą odpowiadać jak pełnoletni.
 
-    72. MANIFESTUM NON EGET PROBATIONE
+    1.  MANIFESTUM NON EGET PROBATIONE
     • To co oczywiste, nie wymaga dowodu – Kwestie jasne i przejrzyste nie wymagają potwierdzenia ich dowodami.
 
-    73. MATER SEMPER CERTA EST, PATER EST QUEMNUPTIAE DEMONSTRANT
+    1.  MATER SEMPER CERTA EST, PATER EST QUEMNUPTIAE DEMONSTRANT
     • Matka zawsze jest pewna, a ojcem jest ten, na kogo wskazuje małżeństwo – Domniemuje się, iż w przypadku niemożności ustalenia ojca dziecka urodzonego w trakcie trwania małżeństwa lub przed upływem 300 dni od jego ustania ojcem staje się mąż matki.							
-    74. MINIME SUNT MUTANDA, QUAE INTERPRETATIONEM CERTEM SEMPER HABUERUNT
+    1.  MINIME SUNT MUTANDA, QUAE INTERPRETATIONEM CERTEM SEMPER HABUERUNT
     • Jak najmniej należy zmieniać to co zawsze miało jednoznaczną interpretację – W kwestiach, których interpretacja jest niezmienna od dłuższego czasu nie należy wprowadzać niepotrzebnego chaosu.
 
-    75. MORA TRAHIT PERICULUM
+    1.  MORA TRAHIT PERICULUM
     • Zwłoka pociąga za sobą ryzyko – Popadnięcie w zwłokę prowadzi do określonych konsekwencji, np. odsetki czy grzywna.
 
-    76. MORS OMNIA IURA SOLVIT
+    1.  MORS OMNIA IURA SOLVIT
     • Śmierć rozwiązuje wszystkie prawa – W momencie stwierdzenia zgonu dana osoba traci wszelkie prawa.
 
-    77. NASCITURUS PRO IAM NATO HABETUR QUOTIENS DE COMMODIS EIUS AGITUR
+    1.  NASCITURUS PRO IAM NATO HABETUR QUOTIENS DE COMMODIS EIUS AGITUR
     • Dziecko poczęte uważa się za narodzone, o ile/ilekroć chodzi o jego korzyść – Paremia ta odnosi się głównie do nabywania osobowości prawnej przez dziecko – dotyczy to np. kwestii dziedziczenia majątku – jest to tzw. Fikcyjna osobowość prawna dziecka poczętego.
 
-    78. NE EAT IUDEX ULTRA PETITA PARTIUM
+    1.  NE EAT IUDEX ULTRA PETITA PARTIUM
     • Niech sędzia nie wychodzi ponad żądanie stron – Sędzia powinien rozpatrywać jedynie zasadność roszczeń, które wysuwają strony.
 
-    79. NE QUIS ABSENS PUNIATUR
+    1.  NE QUIS ABSENS PUNIATUR
     • Nieobecny niech nie będzie karany – Patrz paremia nr 3 – „Poza kilkoma wyjątkami sąd nie może przeprowadzić rozprawy pod nieobecność oskarżonego. Nieobecność na rozprawie blokuje również realizacje innych zasad procedury karnej”.
 
-    80. NEGLEGENTIA CULPA EST
+    1.  NEGLEGENTIA CULPA EST
     • Zaniedbanie jest winą – Patrz paremia nr 68, zaniedbanie w danej kwestii jest winą osoby odpowiedzialnej za jej funkcjonowanie 
 
-    81. NEMINEM CAPTIVABIMUS NISI IURE VICTUM
+    1.  NEMINEM CAPTIVABIMUS NISI IURE VICTUM
     • Nikogo nie uwięzimy, o ile/jeśli nie zostanie pokonany prawem – Zasada dotycząca nietykalności cielesnej – nie można więzić osoby, która nie została skazana prawomocnym wyrokiem. Tymczasowe aresztowanie może nastąpić tylko na mocy postanowienia sądu.
 
 
-    82. NEMINEM LAEDIT, QUI SUO IURE UTITUR
+    1.  NEMINEM LAEDIT, QUI SUO IURE UTITUR
     • Nikomu nie wyrządza szkody ten, kto wykonuje swoje prawa – Jeśli ktoś podejmuje działania zgodne z prawem nie możemy mówić o wyrządzeniu szkody innej osobie, z racji realizowania przywilejów nadanych przez prawo.
 
-    83. NEMO EST IUDEX IN PROPRIA CAUSA
+    1.  NEMO EST IUDEX IN PROPRIA CAUSA
     • Nikt nie może być sędzią we własnej sprawie – Sprawa dotycząca danej osoby ( lub osoby spokrewnionej z nią ) nie może być osadzona przez nią samą, gdyż grozi to nieobiektywnym spojrzeniem na rozpatrywaną kwestię. 
 
-    84. NEMO EX CONSILIO OBLIGATUR
+    1.  NEMO EX CONSILIO OBLIGATUR
     • Nikt nie zobowiązuje się poprzez samo udzielenie rady – Udzielenie rady danej osobie nie stanowi w świetle prawa żadnego zobowiązania wobec niej.
 
-    85. NEMO EX SUO DELICTO MELIOREM SUAM CONDICTIONEM FACERE POTEST
+    1.  NEMO EX SUO DELICTO MELIOREM SUAM CONDICTIONEM FACERE POTEST
     • Nikt nie może polepszyć swojej sytuacji w wyniku własnego czynu bezprawnego – Wejście w zatarg z obowiązującym prawem nigdy nie prowadzi do zdobycia lepszej pozycji w społeczeństwie przez jednostkę.
 
-    86. NEM PLUS COMMODI HEREDI SUO RELINQUIT QUAM IPSE HABUIT
+    1.  NEM PLUS COMMODI HEREDI SUO RELINQUIT QUAM IPSE HABUIT
     • Nikt nie może pozostawić swojemu dziedzicowi więcej korzyści, niż sam posiadał – Spadkobierca dziedziczący prawa czy ruchomości/nieruchomości po danej osobie, nie może dostać nigdy więcej niż owa osoba posiadała. Dotyczy to także niemożności przeniesienia własności nieudokumentowanej na dziedzica.
 
-    87. NEMO PLUS IURIS AD ALIUM TRANSFERRE POTEST, QUAM IPSE HABET
+    1.  NEMO PLUS IURIS AD ALIUM TRANSFERRE POTEST, QUAM IPSE HABET
     • Nikt nie może przenieść na druga osobę więcej praw, niż sam posiada – Zasada odnosi się w prawie rzymskim do tzw. pochodnych sposobów nabywania własności – nikt nie może rozdzielać praw i korzyści z nich, nie osiadając ich.
 
-    88. NEMO PRO PARTE TASTATUS, PRO PARTE INTESTATUS DECEDERE POTEST
+    1.  NEMO PRO PARTE TASTATUS, PRO PARTE INTESTATUS DECEDERE POTEST
     • Nikt nie może rozporządzać/dysponować swoim majątkiem częściowo na mocy testamentu, częściowo na mocy ustawy – Pierwszeństwo w kwestiach spadkowych ma testament. W przypadku jego braku dziedziczenie odbywa się w trybie określonym przez ustawę (dziedziczenie ustawowe).
 
-    89. NEMO PRUDENS PUNIT, QUIA PECCATUM EST, SED NE PECCETUR
+    1.  NEMO PRUDENS PUNIT, QUIA PECCATUM EST, SED NE PECCETUR
     • Nikt rozumny nie karze dlatego, że popełniono przewinienie, lecz dlatego/ale po to, by nie popełniano go ponownie – Sankcja, którą zostaje opatrzona ustawa powinna zapobiegać popełnieniu danego czynu przez odbiorców prawa, a nie mieć na celu wyłącznie karanie ich za popełniony występek.
 
-    90. NEMO SIBI IPSE CAUSAM POSSESSIONIS MUTARE POTEST
+    1.  NEMO SIBI IPSE CAUSAM POSSESSIONIS MUTARE POTEST
     • Nikt nie może sam sobie zmienić podstawy prawnej posiadania – Przejęcie własności następuje poprzez umowę z jej aktualnym właścicielem, a nie wskutek wyłącznej woli nabywcy.
 
-    91. NEMO TENETUR SE IPSUM ACCUSARE
+    1.  NEMO TENETUR SE IPSUM ACCUSARE
     • Nikogo nie można zmusić do oskarżenia samego siebie -  Nie ma obowiązku obciążania samego siebie dowodami np. w postaci zeznań.
 
-    92. NON OMNE QUOD LICET HONESTUM EST
+    1.  NON OMNE QUOD LICET HONESTUM EST
     • Nie wszystko, co jest dozwolone, jest uczciwe – Nie wszystko, co jest nawet prawnie dozwolone jest zgodne z normami etyki.
 
 
-    93. NON SUNT IUDICANDAE LEGES
+    1.  NON SUNT IUDICANDAE LEGES
     • Ustawy nie podlegają osądzeniu – Instytucje egzekwujące prawo nie powinny podejmować się jego oceniania – „Prawo jest rozkazem suwerena, opatrzonym sankcjami”.
 
-    94. NOSTRUM EST IUDICARE SECUNDUM ALLEGATA ET PROBATA
+    1.  NOSTRUM EST IUDICARE SECUNDUM ALLEGATA ET PROBATA
     • Powinniśmy sądzić zgodnie z przedłożonymi i pewnymi dowodami – Wyrok zapadający przed sądem powinien być zgodny z dowodami pojawiającymi się w trakcie postępowania i wskazującymi na winę jednej z stron.
 
-    95. NOTORIA NON EGET PROBATIONE
+    1.  NOTORIA NON EGET PROBATIONE
     • Okoliczności powszechnie znane nie wymagają dowodów – Gdy okoliczności popełnienia przestępstwa są powszechnie znane, to nie trzeba ich poprzeć konkretnymi dowodami.
 
-    96. NULLA INIURIA EST, QUAR IN VOLENTEM FACIT
+    1.  NULLA INIURIA EST, QUAR IN VOLENTEM FACIT
     • Nie wyrządza się krzywdy chcącemu – Podejmując działania zgodne z prawem nie należy spodziewać się żadnej krzywdy.
 
-    97. NULLA PACTIONE EFFICI POTEST, NE DOLUS PRAESTETUR
+    1.  NULLA PACTIONE EFFICI POTEST, NE DOLUS PRAESTETUR
     • Umowa nie można wyłączyć odpowiedzialności za podstęp – Pozostawanie w zmowie co do podstępu wobec osoby postronnej nie pozwala na uniknięcie odpowiedzialności za działanie na jej szkodę.
 
-    98. NULLA POENA SINE LEGE
+    1.  NULLA POENA SINE LEGE
     • Nie ma kary bez ustawy – Gdy komuś się można udowodnić winy, z powodu braku ustawy nie należy go karać.
 
-    99. NULLI RES SUA SERVIT
+    1.  NULLI RES SUA SERVIT
     • Nie można mieć służebności na rzeczy własnej – Posiadanie danej rzeczy nie obliguje do ustalenia na niej służebności lub w przypadku jej wcześniejszego nabycia wyklucza ją. 
 
-    100.  NULLUM CRIMEN SINE LEGE
+    1.    NULLUM CRIMEN SINE LEGE
     • Nie ma przestępstwa bez ustawy – Nie można pociągnąć do odpowiedzialności osoby popełniającej czyny, który nie jest objęty ustawą.
 
-    101.  NULLUS IDONEUS TESTIS IN RE SUA INTELLEGITUR 
+    1.    NULLUS IDONEUS TESTIS IN RE SUA INTELLEGITUR 
     • Nikt nie może być wiarygodnym świadkiem we swojej/we własnej sprawie – Osoba, której dotyczy sprawa może łatwo się stać nieobiektywna, w celu np. zatuszowania własnej winy.
 
-    102.  NULLUS VIDETUR DOLO FACERE, QUI SUO IURE UTITUR
+    1.    NULLUS VIDETUR DOLO FACERE, QUI SUO IURE UTITUR
     • Uważa się, że nie działa podstępnie ten, kto korzysta ze swojego prawa – Działanie zgodnie z prawem nie jest rozumiane jako podstęp kierowany przeciwko danej osobie czy instytucji.
 
-    103.  NUPTIAS NON CONCUBITUS, SED CONSENSUS FACIT
+    1.    NUPTIAS NON CONCUBITUS, SED CONSENSUS FACIT
     • Małżeństwo tworzy nie faktyczne pożycie, ale zgodne porozumienie stron – W starożytnym Rzymie małżeństwo tworzyło obustronne porozumienie, a nie fakt wspólnego pożycia dwóch osób – ustanie pożycia nie miało tego samego znaczenia co rozpad pożycia małżeńskiego. 
 
-    104.  OBLIGATIO EST IURIS VINCULUM QUO NECESSITATIS ADSTRINGIMUR ALICUIUS SOLVENDAE REI SECUNDUM NOSTRAE CIVITATIS IURA
+    1.    OBLIGATIO EST IURIS VINCULUM QUO NECESSITATIS ADSTRINGIMUR ALICUIUS SOLVENDAE REI SECUNDUM NOSTRAE CIVITATIS IURA
     • Zobowiązanie jest węzłem prawnym, który zmusza nas do świadczenia pewnych rzeczy według praw naszego Państwa – Od momentu zawarcia zobowiązania wierzyciel uprawniony jest do żądania od dłużnika spełnienia świadczenia wedle obowiązującego prawa. Osoby wierzyciela i dłużnika winne być ściśle określone.
 
-    105.  OMNI OBLIGATIONI FIDEEIUSSOR ACCEDERE POTEST
+    1.    OMNI OBLIGATIONI FIDEEIUSSOR ACCEDERE POTEST
     • Poręczyciel może przyłączyć/dołączyć do każdego zobowiązania – Poręczyciel może poręczyć każde ważne zobowiązanie dłużnika, o ile oświadczenia poręczyciel złożył na piśmie pod rygorem nieważności. Dłużnik nie jest tutaj stroną umowy.
 
-    106.  OMNIS DEFINITIO IN IURE CIVILI PERICULOSA EST
+    1.    OMNIS DEFINITIO IN IURE CIVILI PERICULOSA EST
     • Wszelka definicja w prawie cywilnym jest niebezpieczna – Wszelkie definicje prawne interpretowane w sposób niewłaściwy prowadzą do bezprawia.
 
-    107.  OPTIMA EST LEGUM INTERPRES CONSUETUDO
+    1.    OPTIMA EST LEGUM INTERPRES CONSUETUDO
     • Zwyczaj jest najlepszą wykładnią prawa – Powszechnie znany i kultywowany zwyczaj stanowi najlepsze wytłumaczenie obowiązujących przepisów.
 
-    108.  PACTA SUNT SERVANDA
+    1.    PACTA SUNT SERVANDA
     • Umów należy dotrzymywać – zawarte umowy (nawet słowne) powinny być dotrzymywane.
 
-    109.  PATER EST QUEM NUPTIAE DEMONSTRANT
+    1.    PATER EST QUEM NUPTIAE DEMONSTRANT
     • Ojcem jest ten, na kogo wskazuje małżeństwo – Patrz paremia nr 73 – „Domniemuje się, iż w przypadku niemożności ustalenia ojca dziecka urodzonego w trakcie trwania małżeństwa lub przed upływem 300 dni od jego ustania ojcem staje się mąż matki.”.
 
-    110.  PERICULUM EST EMPTORIS
+    1.    PERICULUM EST EMPTORIS
     • Ryzyko ponosi nabywca – Z chwilą wydania rzeczy ryzyko jej utraty przechodzi na nabywcę, o ile strony nie ustaliły inaczej.
 
-    111.  PLACUIT IN OMNIBUS REBUS PRAECIPUAM ESSE IUSTITIAE AEQUITATISQUE QUAM STRICTI IURIS RATIONEM
+    1.    PLACUIT IN OMNIBUS REBUS PRAECIPUAM ESSE IUSTITIAE AEQUITATISQUE QUAM STRICTI IURIS RATIONEM
     • We wszystkich sprawach powinna mieć pierwszeństwo zasada sprawiedliwości i słuszności nad zasadą ścisłego prawa – Wszelkie rozpatrywane sprawy powinny być osądzone sprawiedliwie i słusznie, nawet gdy nie realizują ścisłego wymiaru prawa.
 
-    112.  POENA CONSTITUITUR IN EMENDATIONEM HOMINUM
+    1.    POENA CONSTITUITUR IN EMENDATIONEM HOMINUM
     • Kara jest ustanawiana w celu poprawy/poprawienia ludzi – Sankcja określona przez ustawę ma zapobiegać pojawianiu się kolejnych tego typu przestępstw, a w przypadku złamania danego zapisu pełni funkcję resocjalizacyjną.
 
-    113.  POENA EX DELICTO DEFUNCTI HERES TENERI NON DEBET
+    1.    POENA EX DELICTO DEFUNCTI HERES TENERI NON DEBET
     • Kara za przestępstwo popełnione przez zmarłego/testatora nie może obciążać jego dziedzica – Nigdy osoba dziedzicząca nie przenosi na siebie kar nałożonych na zmarłego.
 
-    114.  POENA MAIOR ABSORBET MINOREM
+    1.    POENA MAIOR ABSORBET MINOREM
     • Kara cięższa pochłania lżejszą – Zasada absorbcji kary, stosowana przy wymiarze kary łącznej.
 
-    115.  PRETIUM IN NUMERATA PECUVIA CONSISTERE DEBET
+    1.    PRETIUM IN NUMERATA PECUVIA CONSISTERE DEBET
     • Cena powinna być wyrażona w pieniądzach – Dobra handlarzy powinny być sprzedawane za określoną ilość pieniędzy. Ich wartość powinna być wyrażona w pieniądzach.
 
-    116.  PRIOR TEMPORE, POTIOR IURE
+    1.    PRIOR TEMPORE, POTIOR IURE
     • Pierwszy w czasie, lepszy w prawie. / Kto pierwszy co do czasu, ten lepszy co do prawa – Prawo powstałe później nie może działać z uszczerbkiem dla prawa powstałego wcześniej oraz pierwszeństwo przyznaje się zastawowi powstałemu później, chyba że działał on w złej wierze.
 
 
-    117.  QUI CURAT, NON CURATUR
+    1.    QUI CURAT, NON CURATUR
     • Kto sam podlega opiece nie może jej sprawować nad inną/drugą osobą – Osoba, nad którą sprawowana jest opieka nie może stać się opiekunem dla innej osoby – odnosi się to np. do opieki nad małoletnimi.
 
-    118.  QUI IURE SUO UTITUR, NEMINEM LAEDIT
+    1.    QUI IURE SUO UTITUR, NEMINEM LAEDIT
     • Kto nie przekracza przysługującego mu prawa, nie narusza praw drugiego – Postępowanie zgodne z przysługującym nam prawem stanowi gwarancję respektowania praw drugiej osoby.
 
-    119.  QUI TESTAMENTO HERES INSTITUITUR, IN EODEM TESTAMENTO TESTIS ESSE NON POTEST
+    1.    QUI TESTAMENTO HERES INSTITUITUR, IN EODEM TESTAMENTO TESTIS ESSE NON POTEST
     • Kto jest w testamencie dziedzicem, nie może być świadkiem tego testament/ Kto jest w testamencie dziedzicem, nie może występować w tym testamencie jako świadek – Według obowiązującego prawa świadkiem testamentu nie może być sam spadkobierca oraz osoba, która wskutek tego testamentu odniesie jakąkolwiek korzyść oraz powinowaci i krewniacy ( do II stopnia ) tych osób.
 
-    120.  QUOD ARRAE NOMINE DATUR, ARGUMENTUM EST EMPTIONIS ET VENDITIONIS CONTRACTAE
+    1.    QUOD ARRAE NOMINE DATUR, ARGUMENTUM EST EMPTIONIS ET VENDITIONIS CONTRACTAE
     • To co daje się pod nazwą zadatku stanowi dowód zawarcia umowy/kontraktu kupna/sprzedaży -  Według prawa zadatek stanowi dowód zawarcia umowy, a w przypadku jej nie wykonania zostaje on zatrzymany przez stronę, która go otrzymała ( lub żądać sumy 2x wyższej, gdy sama zapłaciła zadatek ).
 
-    121.  QUOD INITIO VITIOSUM EST, NON POTEST TRACTU TEMPORIS CONVALESCERE
+    1.    QUOD INITIO VITIOSUM EST, NON POTEST TRACTU TEMPORIS CONVALESCERE
     •  To, co jest od początku wadliwe, nie może być uzdrowione na skutek upływu czasu – Kwestie wadliwe na przestrzeni czasu nie ulegają uzdrowieniu – stan rzeczy wraz z upływem czasu się tylko i wyłącznie pogarsza.
 
-    122.  QUOT GENERATIONES TOT GRADUS
+    1.    QUOT GENERATIONES TOT GRADUS
     • Ile urodzeń, tyle stopni (pokrewieństwa) – Wraz z kolejnym urodzeniem w linii prostej pojawia się kolejny stopień pokrewieństwa.
 
-    123.  REFORMATIO IN PEIUS IUDICI APELLATO NON LICET
+    1.    REFORMATIO IN PEIUS IUDICI APELLATO NON LICET
     • Sędziemu apelacyjnemu nie wolno zmieniać (wyroku) na niekorzyść odwołującego się – Sąd apelacyjny nie może pogorszyć położenia wnioskodawcy lub zaostrzyć kary mu wymierzonej po ponownym rozpatrzeniu sprawy.
 
-    124.  RES IUDICATA IUS FACIS INTER PARTES
+    1.    RES IUDICATA IUS FACIS INTER PARTES
     • Rozstrzygnięcie sądowe określa stan prawny istniejący między stronami – Wyrok sądowy ustanawia stan prawny między stronami, a także określa ich prawa i obowiązki względem siebie.
 
-    125.  RES IUDICATA PRO VERITATE ACCIPITUR
+    1.    RES IUDICATA PRO VERITATE ACCIPITUR
     • Prawomocny wyrok przyjmuję się jako prawdę – Prawomocny wyrok stanowi prawdę, która nie podlega dyskusji.
 
-    126.  RES NULLIUS CEDIT PRIMO OCCUPANTI
+    1.    RES NULLIUS CEDIT PRIMO OCCUPANTI
     • Recz niczyja przypada temu, który pierwszy ja objął w posiadanie – Własność nabywa się poprzez objęcie rzeczy ruchomej w jej samoistne posiadanie. 
 
-    127.  REUS IN EXPECTIONE ACTOR EST
+    1.    REUS IN EXPECTIONE ACTOR EST
     • Pozwany w zakresie zarzutu procesowego staje się powodem – W momencie, gdy pozwany kwestionuje żądania powoda i uchyla się od ich realizacji musi on udowodnić swoją rację przed sądem.
 
-    128.  SALUS POPULI SUPREMA LEX ESTO
+    1.    SALUS POPULI SUPREMA LEX ESTO
     • Dobro publiczne winno być najwyższym prawem – Dbałość o dobro publiczne powinno być najważniejszym wyznacznikiem postępowania obywateli w państwie.
-    129.  SATIUS ESSE IMPUNITUM RELINQUI FACINUS NICENTIS QUAM INNOCENTEM DAMNARI
+    1.    SATIUS ESSE IMPUNITUM RELINQUI FACINUS NICENTIS QUAM INNOCENTEM DAMNARI
     • Lepiej pozostawić bezkarnym występek złoczyńcy, niż skazać niewinnego – W przypadku niemożności udowodnienia winy oskarżonego lepiej jest go nie karać, niż skazać osobę niewinną.
 
-    130.  SCIRE LEGES NON HOC EST VERBA EARUM TENERE, SED VIM AC POTESTATEM
+    1.    SCIRE LEGES NON HOC EST VERBA EARUM TENERE, SED VIM AC POTESTATEM
     • Znać ustawy to nie znaczy trzymać się ich słów, lecz rozumieć ich sens i znaczenie – Jeśli chcemy mówić o znajomości ustawy musimy wiedzieć jaki mają one wymiar rzeczywisty i jakie prawa i obowiązki niosą ze sobą wobec obywatela. Nie należy patrzeć na ustawy wyłącznie przez pryzmat zawartych w ich słów.
 
-    131.  SECUNDUM NATURAM EST COMMODA CUIUSQUE REI EUM SEQUI, QUEM SEQUENTUR INCOMMODA
+    1.    SECUNDUM NATURAM EST COMMODA CUIUSQUE REI EUM SEQUI, QUEM SEQUENTUR INCOMMODA
     • Naturalne jest, aby ten czerpał korzyści z rzeczy, kto ponosi związane z nią ciężary – Korzyść przypada zawsze osobie, która wcześniej musiała ponieść pewne straty (w pieniądzach lub materiałach ) i podjąć związane z inwestycją ryzyko.
 
-    132.  SEMEL HERES, SEMPER HERES
+    1.    SEMEL HERES, SEMPER HERES
     • Kto raz zostanie dziedzicem, jest nim na zawsze – Jeżeli raz spadkobierca przyjął spadek, to nie może się go zrzec w późniejszym terminie. Przyjęcia testamentu nie można także uwarunkować od jakichkolwiek kwestii czy terminów.
 
-    133.  SENSUM, NON VERBA SPECTAMUS
+    1.    SENSUM, NON VERBA SPECTAMUS
     • Patrzymy na sens, a nie na słowa – patrz paremia 130 - „Jeśli chcemy mówić o znajomości ustawy musimy wiedzieć jaki mają one wymiar rzeczywisty i jakie prawa i obowiązki niosą ze sobą wobec obywatela. Nie należy patrzeć na ustawy wyłącznie przez pryzmat zawartych w ich słów.”
 
-    134.  SENTENTIA FACIT IUS INTER PARTES
+    1.    SENTENTIA FACIT IUS INTER PARTES
     • Wyrok tworzy prawo między stronami – patrz paremia 124 - „Wyrok sądowy ustanawia stan prawny między stronami, a także określa ich prawa i obowiązki względem siebie. ”
 
-    135.  SEPARTA ESSE DEBET POSSESSIO A PRIPRIETATE
+    1.    SEPARTA ESSE DEBET POSSESSIO A PRIPRIETATE
     • Posiadanie winno być odróżnione od własności – Posiadanie zawsze jest różne od prawa własności – posiadacz zależny nie posiada prawa do zatrzymania rzeczy dla siebie, natomiast właściciel może rzeczą swobodnie dysponować.
 
-    136.  SERVITUS IN FACIENDO CONSISTERE NEQUIT
+    1.    SERVITUS IN FACIENDO CONSISTERE NEQUIT
     • Służebność nie może polegać na działaniu – Służebność nie może stanowić rodzaju użyczenia ( np. służebność gruntowa ), jednak nigdy nie może ona zostać ustanowiona jako obowiązek podjęcia określonych działań.
 
-    137.  SERVITUS SERVITUTIS ESSE NON POTEST
+    1.    SERVITUS SERVITUTIS ESSE NON POTEST
     • Nie może istnieć służebność na służebności – Nie można nadać służebności na rzecz, która jest już nią opatrzona i ją realizuje.
 
-    138.  SERVITUTIBUS CIVILITER UTENDUM EST
+    1.    SERVITUTIBUS CIVILITER UTENDUM EST
     • Służebność należy wykonywać oględnie, najmniej uciążliwie dla właściciela – Służebności, szczególnie gruntowe ograniczają prawa własności, a ich wykonywanie nie może być dowolne.
 
-    139.  SERVITUTIS CAUSA DEBET ESSE PERPETUA
+    1.    SERVITUTIS CAUSA DEBET ESSE PERPETUA
     • Przyczyna ustanowienia służebności powinna być trwała – W przypadku braku trwałego charakteru służebności i utraty znaczenia tej służebności dla nieruchomości władnącej może ona zostać zniesiona po 10 latach.
 
-    140.  SI IN IUS VOCATO, ITO
+    1.    SI IN IUS VOCATO, ITO
     • Jeżeli zostałeś wezwany przed sąd, idź !! – Nie należy uchylać się od wezwań sądowych i powodować utrudniania w zbadaniu danej sprawy.
 
-    141.  SPECIES PERIT EI, CUI DEBETUR
+    1.    SPECIES PERIT EI, CUI DEBETUR
     • Rzecz oznaczona indywidualnie ginie na ryzyko wierzyciela – Rzecz o charakterze personalnym przypadają ich prawnym właścicielom.
 
-    142.  SUMMUM IUS SUMMA INIURIA
+    1.    SUMMUM IUS SUMMA INIURIA
     • Najwyższe prawo (może stać się) najwyższym bezprawiem – Nieumiejętność konstruowania prawa może prowadzić do postępującego bezprawia.
 
-    143.  SUPERFICIES SOLO CEDIT
+    1.    SUPERFICIES SOLO CEDIT
     • To, co jest na powierzchni przypada gruntowi i jego właścicielowi – Właścicielem rzeczy na danym gruncie staje się osoba nabywająca grunt, chyba, że na którejś z tych rzeczy ustalono użytkowanie wieczyste.
 
-    144.  TESTIS UNUS, TESTIS NULLUS
+    1.    TESTIS UNUS, TESTIS NULLUS
     • Jeden świadek, żaden świadek – Jeden świadek w sprawie nie pozwala na jednoznaczne przybliżenie okoliczności popełnienia przestępstwa.
 
-    145.  UBI EADEM LEGIS RATIO, IBI EADEM LEGIS DISPOSITIO
+    1.    UBI EADEM LEGIS RATIO, IBI EADEM LEGIS DISPOSITIO
     • Przy takim samym sensie ustawy, takie same postanowienia ustawy  - Jeśli nie zmienił się sens ustawy należy przyjąć, że podobnie ma się sprawa z jej postanowieniami.
 
-    146.  UBI IUS, IBI REMEDIUM
+    1.    UBI IUS, IBI REMEDIUM
     • Gdzie prawo, tam lekarstwo i środek do jego realizacji – Prawo w sposób zdecydowany określa granice zachowań uznawanych za odpowiednie przez ogół społeczeństwa.
 
-    147.  UBI IUS INCERTUM, IBI IUS NULLUM
+    1.    UBI IUS INCERTUM, IBI IUS NULLUM
     • Gdzie prawo jest niepewne, tam nie ma prawa – Prawo powinno mieć charakter stanowczy – ustalenia, które nie są przejrzyste i budzą wątpliwość stanowią podstawę do szerzenia się bezprawia.
 
-    148. UTILITAS PUBLICA PRIVATAE PRAEFERRI DEBET
+    1.   UTILITAS PUBLICA PRIVATAE PRAEFERRI DEBET
     •  Dobro ogółu powinno być stawiane przed dobrem prywatnym – patrz paremie 47 i  57 ” Obowiązujące prawo powinno nieść korzyści dla ogółu społeczeństwa nim objętego.” i „Ustawa w swoim założeniu ma gwarantować dobro ogółu, nawet gdy godzi ona w położenie jednostki.”
 
-    149.  VIM VI REPELLERE LICET
+    1.    VIM VI REPELLERE LICET
     • Siłę wolno odeprzeć siłą – Współcześnie sentencja odnosi się do obrony własnej, wraz z zachowaniem wszelkich obostrzeń dotyczących tej kwestii i jej interpretacji.
 
-    150.  VOLENTI NON FIT INURIA
+    1.    VOLENTI NON FIT INURIA
     • Chcącemu nie dzieje się krzywda – patrz paremia nr 96 – „Podejmując działania zgodne z prawem nie należy spodziewać się żadnej krzywdy.”.
 
 Zmiana nie jest najgorsza. Należy się niepokoić, gdy nic się nie zmienia.

@@ -16,6 +16,30 @@ Musk sold 676K $TSLA shares yesterday, totalling millions.
 
 <img src="./img/november/elonmusk.jpeg"><br><br>
 
+---
+
+Pan Eryk Łon, członek RPP w TVPInfo:
+
+"Myślę, że te podwyżki (stóp procentowych), których dokonaliśmy spowodowały znaczne zatrzymanie presji inflacyjnej. Już widzimy, że są pewne efekty, że jednak ta inflacja zaczyna zwalniać. Z naszych prognoz wynika, że inflacja na początku przyszłego roku osiągnie to apogeum i później będzie zwalniać".
+
+Pan Łon myśli...🤔. Znakomicie. Tylko przyklasnąć👏
+
+A ja myślę, że jeśli URE zaakceptuje wnioski dostawców o wzrost cen energii elektrycznej w przyszłym roku o ok. 40%, co pociągnie za sobą wzrost rachunków za prąd o ok. 20%, a klepnie jeszcze propozycję wzrostu ceny gazu do ogrzewania domów o ok. 40% i do gotowania o ok. 10%, to zauważalny spadek inflacji w 1 kw. 22 szlag trafi.
+
+Podwyżki cen urzędowych na energię i ogrzewanie zniwelują bowiem efekt tzw. tarczy antyinflacyjnej. Inflacja dalej pozostanie w przedziale 7,5%-8,5%. Rząd zmuszony będzie w tej sytuacji przedłużyć ulgi podatkowe i „rekompensaty” na 2 i być może także 3 kwartał 2022.
+
+A to będzie miało konsekwencje nie tylko w postaci utraty dochodów budżetu. Chodzi o wzmocnienie efektu bazy, który przełoży się na wzrost inflacji także w roku 2023.
+Ten efekt będzie tym silniejszy, im wieksza będzie ingerencja polityki fiskalnej w ceny nośników energii w roku 22.
+I tak, na przykład, gdyby KE, do której aplikował rząd, zgodziła się na okresową redukcję stawek VAT na paliwa i żywność, to zdejmie to co prawda z tych 7,5%-8,5% CPI w pierwszej połowie 22 ok. 0,6-0,8 p.p. (sukces w TVP murowany👍), ale za to dołoży co odjęte w 22 do inflacji w roku 23 (mniejszy sukces w TVP🥴).
+
+Logicznie rzecz biorąc wyższa ścieżka inflacji w latach 21-23 wywoła wzmożoną presję płacową. Cudów nie ma. A efekty drugiej rundy skłonić powinny RPP – już w nowym składzie – do bardziej intensywnej podwyżki stóp procentowych już w pierwszym półroczu 22 i w całym roku zresztą też. Odbije się to na wyhamowaniu dynamiki PKB w latach 23-24 bardziej niż wyprzedaż dzisiejszych zapasów.
+
+Chaotyczna polityka makroekonomiczna coraz bardziej uprawdopodabnia scenariusz, przed którym ostrzegałem już od dawna: w średnim okresie 2-3 lat czeka nas spowolnienie wzrostu do ok. 2%-3% oraz średnioroczna inflacja przekraczająca znacząco górny przedział odchyleń od celu, oscylująca wokół 5%-6%. Dla porządku dodać wypada, że ani Sowieci, ani Bruksela nic do tego nie mają.
+
+Jak widać myślenie dobrze jest poprzeć jakąś, choćby śladową, analizą. To nigdy nie zaszkodzi.
+
+---
+
 ### 2020
 
 Wiceminister finansów: konsumenci nie odczuli w kieszeniach skutków epidemii

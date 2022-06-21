@@ -11,6 +11,22 @@ draft: false
 
 ### 2022
 
+Jacek Maliszewski:
+
+Obligacje indeksowane wskaźnikiem inflacji (o symbolach COI - czteroletnie oraz EDO - dziesięcioletnie) zakupione rok temu, przez kolejny rok wypłaca odsetki 13,4% (12,4% inflacja + 1% marży) oraz 13,9% (inflacja + 1,5% marży).
+
+Starsze serie (kupione 2 i 3 lata temu) z racji wyższej marży doliczanej do inflacji , zbliżają się z kuponem odsetkowym do 15%.
+
+Czy warto takie obligacje kupować ? Czy nie jest za późno?
+
+Uważam, że nadal warto je kupować, gdyż wysoka inflacja utrzyma się jeszcze przez kilka lat.
+
+Gdy trzy lata temu po raz pierwszy pisałem o tego typu obligacjach, wielu odpowiadało „już za późno, inflacja zaraz spadnie i obligacje będą miały niski kupon”.
+
+Okazuje się, że kupon jest rekordowo wysoki.
+
+---
+
 - Jak jest różnica między teorią spiskową a rzeczywistością? 
 - Sześć miesięcy.
 Bezwarunkowy dochód gwarantowany (BDG) nie jest już teorią spiskową. Będzie testowany w Polsce https://tiny.pl/96nzg. BDG to idea, która w swoim założeniu ma zapewnić każdemu obywatelowi stałą „pensję” wypłacaną przez państwo.

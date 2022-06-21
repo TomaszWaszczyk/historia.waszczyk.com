@@ -19,6 +19,44 @@ Powinniśmy raz na zawsze zapamiętać: Albo będziemy silnym państwem, albo ni
 
 <img src="./img/april/polska2022.jpeg"><br><br>
 
+### 2011
+
+Nowe Otwarcie. Ogłoszono korektę. Można na jej przykładzie omówić różne psychologiczne sztuczki wywierania wpływu na ludzi.
+Ministerstwo Finansów informuje, że kluczowa zmiana dotyczy oskładkowania. Czytamy, że dzięki korektom przedsiębiorcy „zapłacą prawie o połowę mniej”.  
+The Rejection Then Retreat Strategy. Tak nazywa się ta technika.  
+
+Co zrobić, jeśli chcesz dostać coś, a ktoś inny wcale nie chce ci tego dać? Poproś o więcej!
+Chcesz wprowadzić podwyżkę podatku o 5%? Zażądaj 9%!
+A potem?
+
+Potem wsłuchasz się w głos przedsiębiorców i „ustąpisz” proponując obniżkę z 9% na 5%. A jeszcze lepiej z 9% na 4,9%.
+Dlaczego?
+
+Bo ten ktoś po drugiej stronie też poczuje się zobowiązany do ustępstw. Zobligowany do rewanżu. Ucieszy go to 4,9%. Niektórzy nawet zaczną być wdzięczni.
+Tak to działa. Zasada wzajemności. Opisana przez R. Cialdiniego. Wykorzystywana w technikach manipulacji.
+
+Czy się sprawdza? Każdy teraz może prowadzić własne obserwacje.
+
+Prof. Cialdini został zmanipulowany przy użyciu zasady wzajemności przez jakiegoś miłego skauta. Któregoś dnia skaut zapukał do domu Cialdiniego i złożył mu dwie oferty.
+(1) Pierwsza (ta zaplanowana jako „do odrzucenia”): zaproszenie na imprezę harcerską - cena biletu 5 dolarów (czyli nie dość, że trzeba kupić bilet to jeszcze wypada uczestniczyć w imprezie).
+Zgodnie z przewidywaniami oferta nie spotkała się z entuzjazmem.
+(2) Druga oferta (ta, o którą od początku chodziło): zakup czekoladowego batonika za 1 dolara. Co zrobił Cialdini?
+Z wdzięczności kupił 2 batoniki! Chociaż nie lubił czekolady (ale imprez harcerskich jeszcze bardziej). Poza tym zapłacił 2. A 2 to mniej niż 5.
+
+Nasz batonik oferowany jest teraz za 4,9.
+Ale dlaczego 4,9 a nie 5?
+
+W tym zakresie też robiono eksperymenty na ludziach. Znamy ceny promocyjne za 4,99. Łatwiej taki towar sprzedać. Wielu nie zauważy, ile naprawdę płaci. Poza tym można napisać „(…) składka zdrowotna zmniejszy się niemal o połowę”.
+
+Otóż nie, składka nie zmniejsza się „niemal o połowę”. Ona się istotnie ZWIĘKSZA. Z kwoty ustalanej ryczałtowo ROŚNIE do poziomu 4,9% dochodu. Mamy WZROST obciążeń związanych z prowadzeniem działalności z 19% do prawie 25%. W tym zakresie nic się nie zmieniło, choć widzę, że niektórzy dali się nabrać.
+
+I uwaga! Z badań wynika, że zasada wzajemności jest niezwykle silną zasadą. Ustępstwo jednej strony wytwarza poczucie zobowiązania drugiej, które obejmuje również nowe obszary. Oddziałuje na przyszłość. Wpływa na reakcję względem propozycji, które jeszcze nie zostały wyartykułowane.
+
+W naszym pakiecie wdzięczności jest nie tylko batonik w promocyjnej cenie 4,9, ale też inne niespodzianki - np. NOWY PODATEK od przychodów…
+Taka oto „obniżka”. Ukłon w stronę biznesu i „łagodzenie propozycji”.
+
+Profesorze Cialdini! Proszę monitorować temat Polskiego Ładu i sprawdzić, ilu dało się złapać w manipulacje z zastosowaniem zasady wzajemności. Może przyda się do dalszych badań.
+
 ### 1997
 
 W wieku 91 lat zmarła w Warszawie Maria Wittek (zdjęcie) pierwsza w historii Wojska Polskiego kobieta generał brygady Wojska Polskiego.

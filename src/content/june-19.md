@@ -20,6 +20,10 @@ Your browser does not support the video tag.
 
 ---
 
+Prof. Zybertowicz: Zastanawiam się, czy koncepcja jakiejś unii polsko-ukraińskiej albo Rzeczypospolitej wielu narodów nie mogłaby być wspaniałą przygodą dla pokolenia młodych ludzi.
+
+---
+
 Ukraina. Rada Najwyższa Ukrainy przyjęła ustawę № 7398 -  wszystkie budowane na Ukrainie budynki mieszkalne będą musiały posiadać schrony przeciwbombowe.
 
 <img src="./img/june/schronyukraina.jpeg"><br><br>

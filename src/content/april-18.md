@@ -9,6 +9,33 @@ tags:
 draft: false
 ---
 
+### 2022
+
+WIBOR 3M/kredyty hipoteczne
+
+W przyszłym tygodniu kolejne posiedzenie RPP, które będzie decydować o potencjalnych następnych podwyżkach stóp procentowych.
+
+WIBOR 3M, w oparciu o który jest kalkulowane większość kredytów hipotecznych, wzrósł przez ostatni miesiąc o kolejny punkt procentowy i wynosi obecnie około 4,66%.
+
+Jeszcze we wrześniu zeszłego roku WIBOR 3M, wynosił 0,24%.
+Prezes NBP twierdził wtedy, że “na negatywne szoki podażowe bank centralny, nie powinien reagować podwyższeniem stóp procentowych. To byłby szkolny błąd prowadzący jedynie do obniżenia wzrostu gospodarczego, albo nawet do stłumienia wzrostu. Ci, którzy namawiają do podniesienia stóp, chcą abyśmy mieli stagnację”.
+
+Tymczasem miesiąc później doszło do pierwszej podwyżki stóp procentowych. A obecnie prezes zapowiada kolejne.
+
+W sierpniu zeszłego roku media donosiły, że na rozpatrzenie wniosku o kredyt hipoteczny trzeba czekać nawet 4 miesiące. Sygnały przegrzania koniunktury były dość czytelne. NBP zareagował dopiero w październiku.
+
+Zeszły rok był rekordowy pod względem udzielonych kredytów hipotecznych. Prawie 89 mld pln - na taką kwotę Polacy zadłużyli się, kupując nieruchomości. W 2020 roku było to około 61 mld pln. Łącznie daje to wartość około 150 mld pln, większość z tego zaciągnięta w okresie, kiedy WIBOR 3M wynosił 0,24%.
+
+Biorąc pod uwagę obecną wysokość WIBOR 3M oraz około 2% marży banku, oprocentowanie przeciętnego kredytu hipotecznego powinno wzrosnąć z około 2,5% jeszcze w październiku 2021 do około 6,5%. To oznacza istotny wzrost raty kredytu.
+
+Pod linkiem dostępnym na stronie UOKiK: https://lnkd.in/dDKS4VSV można sprawdzać jak zmienia się wielkość raty kredytu hipotecznego w zależności od jego oprocentowania.
+
+Zgodnie ze wskazanym kalkulatorem, rata kredytu na 30 lat o wartości 300 000 PLN, przy WIBORZE 3M 0,24% wynosiła jeszcze w październiku 2021 około 1700 pln.
+
+Obecnie przy WIBORZE 3M 4,66% i marży około 2%, rata kredytu powinna wzrosnąć do około 2400 pln, co oznacza wzrost raty o około 40%, a sama miesięczna rata odsetkowa rośnie z około 600 pln do 1600 pln.
+
+Czy komuś powinniśmy podziękować za wysoką inflację i taki wzrost kosztów kredytu, czy raczej sami sobie jesteśmy winni?!
+
 ### 2021
 
 Chiny oczyszczają biblioteki szkolne z „kultu Zachodu”

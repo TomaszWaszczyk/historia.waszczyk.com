@@ -27,6 +27,37 @@ Dochodowy lokal gastronomiczny, kompleks restauracyjno-hotelowy, klub muzyczny, 
 
 ---
 
+Todays Thought?
+History repeats.. “Nero fiddles while Rome burns”
+The USA must understand China invented the hoax of paper money from which their own "fiat-currency" was born, they are the masters of the long game.. China’s “debt book diplomacy” uses strategic debts to gain political leverage with economically vulnerable countries and enslave its people.
+
+“The final phase is debt collection,”
+By 2017, when the Sri Lankan port deal was signed, Sri Lanka owed more than $8bn to Chinese-controlled firms. The port, which was yet to generate a profit, became a “debt trap”. Hambantota could one day become a Chinese naval hub, as it will be fully owned by China.. The Sri Lankan peoples will be dispossessed of their property via debt based extortion... not a single shot will be fired.. the peoples will be enslaved or evicted from their nation... as Chinese people flock to live in their country; they have acquired by debt default. Identical to how Germany repossessed the Greek peoples assets and enslaved Greece, something they failed to do in WWII, when mainland Greece was liberated in October 1944 with the German withdrawal; in 2018 they returned aimed with debt based Euros as weapons' of choice. Greece became Germany’s ‘de facto colony’.
+
+The irony is Law 2...
+Law 2: Money cannot be scarce, as it originates and terminates with people based trade, hence money cannot exist as debt.
+Law 10: Capital cannot be scare, as it is born from the continuous cycle of the economic production of people (M-C-M' => M'-C-M").
+
+The Laws of Money sets people free...
+
+---
+
+Z 209 sądzonych w Norymberdze Niemców ( obecnie zwanych nazistami), jedynie 12 otrzymało wyrok śmierci, 3 dożywocie. Biorąc pod uwagę, że w okresie 1935–44 niemiecka partia robotnicza NSDAP miała 8,5 mln. członków, samych ss-manów było ponad pół miliona osób, można śmiało napisać, że Norynberga była zwykłą farsą, kpiną jawną i kabaretem. Zbrodniarzy komunistycznych nie osądzono nawet w kabarecie.
+
+---
+
+Rybiński:
+
+Podstawowym celem banku centralnego w Polsce jest utrzymanie inflacji na poziomie 2.5%. Bank centralny sam ustala cel inflacyjny oraz wskaźnik inflacji. Pierwsza Rada Polityki Pieniężnej ustaliła cel na poziomie 2.5% +/-1% oraz CPI jako wskaźnik inflacji do którego cel się odnosi. Powstaje pytanie, jak długo inflacja może znajdować się poza celem, aby społeczeństwo uznało, że bank centralny nie realizuje swojego podstawowego zadania. O ile obecnie można jeszcze argumentować, że mamy bezprecedensowe szoki związane z pandemią Covid-19, to w przyszłym roku, jeżeli inflacja pozostanie wysoka, trudno będzie zrzucić winę na szoki gospodarcze. Wówczas możliwe będzie kilka scenariuszy:
+- zmiana celu inflacyjnego lub wskaźnika inflacji (podobnie jak kreatywne księgowanie wydatków sektora finansów publicznych w przypadku przekraczania limitu deficytu lub długu)
+- znaczące podniesienie stóp procentowych w celu spowolnienia wzrostu gospodarczego (praktycznie niemożliwe przed wyborami parlamentarnymi w 2023 roku)
+- tłumaczenie w stylu "Polacy, nic się nie stało", bo winne są takie czy inne podwyżki, bo inflacja wkrótce sama spadnie
+Warto pamiętać, że członkowie RPP nie ponoszą odpowiedzialności karnej ani cywilnej za brak realizacji podstawowego celu banku centralnego, natomiast Prezes NBP może odpowiadać za swoją działaność przed Trybunałem Stanu, w przypadku zmiany większości parlamentarnej.
+Długotrwale podwyższona inflacja prowadzi do wielu niekorzystnych zjawisk, w tym do niszczenia klasy średniej, która z takim trudem była budowana w Polsce w minionych trzech dekadach.
+W najbliższych miesiącach przekonamy się, czy mamy w Polsce niezależny bank centralny.
+
+---
+
 W niedzielę Ministerstwo Rolnictwa i Rozwoju Wsi poinformowało, że zarejestrowano pierwszy w Polsce przypadek zakażenia SARS-CoV-2 u norek. Wirus został zdiagnozowany na fermie w woj. pomorskim na terenie powiatu kartuskiego. Hodowcy wskazują, że to kolejna furtka do zniszczenia przemysłu futrzarskiego w Polsce.
 
 Dodatkowo, hodowcy wskazują, że w myśl rozporządzenia wydanego przez ministra rolnictwa hodowcy norek nie dostaną odszkodowań za „zlikwidowane” zwierzęta. To już kolejna, po „piątce dla zwierząt”, próba zniszczenia polskiej branży futrzarskiej przez rząd.
@@ -56,6 +87,15 @@ Prawdziwa alternatywa jest więc następująca: niskie ceny mieszkań i bałagan
 ---
 
 Smok mówi, że za trzy miesiące będzie mieć czas na rzeczy WAŻNE - telefon za 3 miesiące - 2 maja.
+
+### 1992
+
+W latach 1992-1994 GPW odnotowała historyczną hossę. W ciągu dwóch lat WIG urósł prawie 33-krotnie! ⬇
+
+
+Na koniec 1993 r., aż 12 z 22 spółek zamknęło notowania na ponad 1000% plusie. Symbolem tej wyjątkowej hossy była oferta publiczna akcji Banku Śląskiego (listopad 1993 r.). Po akcje ustawiały się wiele dni wcześniej długie kolejki. Zapisy w ofercie złożyło ponad 800 000 inwestorów indywidualnych co do dziś jest absolutnym rekordem. Na pierwszej sesji (25 stycznia 1994 r.) akcje Banku Śląskiego podrożały o 1250%.
+
+<img src="./img/february/gpwslaski.jpeg"><br><br>
 
 ### 1952
 

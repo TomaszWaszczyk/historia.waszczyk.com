@@ -12,9 +12,25 @@ tags:
 
 > Liniowy PIT od działalności gospodarczej jest po prostu skierowany do osób osiągających najwyższe dochody niezależnie od tego, czym oni się zajmują. Ci ludzie często ani nie zatrudniają, ani nie inwestują, nie podejmują jakiegoś wysokiego ryzyka - po prostu dużo zarabiają. - Główny ekonomista Ministerstwa Finansów Łukasz Czernicki
 
+### 1991
+
+The birth of the Web
+
+<img src="./img/august/World-Wide-Web-project-small.png"><br><br>
+
 ### 1945
 
 https://pl.wikipedia.org/wiki/Atak_atomowy_na_Hiroszim%C4%99_i_Nagasaki
+
+### 1979
+
+PESEL is a national identification system in Poland launched in 1979. It is in fact, the only fully impelmented data system from the grand plans of the cybernetization of the socialist state under Edward Gierek's rule. Early ideas under the name of KSI (National Information System) assumed full datafication and automatization of the state.
+
+And here are some amazing visualizations from the 70s booklet that illustrates how the system works. The 1979 brochure showed what are the goals of the system, and consequences for citizens. PESEL unified the population records and functions to this day as the Polish equivalent of the social security number. Beautiful diagrams also explained relations between specific databases or the territorial location of subsystems. A really amazing example of the marketing of public services. It was colourful and "rainbowish". 🌈 #data #publicpolicy #history #AI
+
+All illustrations are from booklet titled "Informacja o Centralnym Banku Danych" published by the Ministry of Internal Affairs and Information State Agency, 1979
+
+<img src="./img/august/pesel.jpeg"><br><br>
 
 ### 1942
 
@@ -42,6 +58,12 @@ Ostatnią drogę Janusza Korczaka i dzieci starałam się odtworzyć na podstawi
 Zdjęcie: kadr z filmu ''Korczak'' w reżyserii Andrzeja Wajdy.
 
 <img src="./img/august/korczak.jpg"><br><br>
+
+### 1898
+
+Skoro świętujemy trzydziestolecie funkcjonowania Warsaw Stock Exchange (GPW), to może cofnijmy się jeszcze dalej, o niemal 100 lat. W załączeniu tekst z Ateneum - pisma naukowego i literackiego (!) z 1898 roku "Akcye przemysłowe i giełda" St. Piotrowskiego.
+*
+"Im bardziej są zmienne zyski przedsiębiorstwa, im bardziej sama gałąź produkcyi jest w kraju nieznana, im więcej charakteru aleatoryjnego ma przedsiębiorstwo, tern bardziej akcye jego są do gry giełdowej odpowiednim materyałem i tem łatwiej przestają być tem, czem być powinny: dowodem udziału w przedsiębiorstwie i prawa pobierania pewnej części czystego dochodu, a stają się czemś w rodzaju biletu na loteryę, dowodem mającym przynieść właścicielowi nie dochód od kapitału, ale wygraną w grze na giełdzie."
 
 ### 1789
 
