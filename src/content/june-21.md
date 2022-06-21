@@ -3,7 +3,7 @@ layout: post
 title: 21 czerwca
 image: img/june/commercialindustrialloans.png
 author: Tomasz Waszczyk
-date: 2020-06-21T10:00:00.000Z
+date: 2021-06-21T10:00:00.000Z
 tags:
   - Commercial and Industrial Loans
 draft: false
