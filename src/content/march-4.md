@@ -29,6 +29,17 @@ Komunikat NBP.
 
 ---
 
+PLN/UAH #Hrywna 7,24Hrywny za Złotego! a nie 9PLNUAH.
+Rzecznik Praw Obywatelskich interweniuje w sprawie problemów z wymianą Hrywny na Złotego i spekulacyjnych kursów kantorowych. 
+📍💱 Ukraińcy mają problemy z wymianą przywiezionych Hrywien na Złotego.
+📍💱 Niektóre podmioty oferują bardzo niekorzystny kurs wymiany, co może być postrzegane jako swego rodzaju lichwa. Dzieje się to mimo publikowania przez NBP średniego kursu wymiany tej Hrywny na Złotego, czyli 7,24.
+📍💱NBP będzie bronił kursu Hrywny przed niekorzystnym kursem wymiany niektórych kantorów. Chodzi tutaj o spekulacje bliskie wartości 9 Hrywien za PLN. 
+Nieudolność NBP, w kwestii interwencji walutowych na PLN całkiem udolna w kwestii obrony ukraińskiej Hrywny.
+
+<img src="./img/march/uah.jpg"><br><br>
+
+---
+
 ### 2021 - Desperacja EBC
 
 Reakcję EBC na wzrost rentowności długu można nazwać niemal paniczną...wyrażali się o rosnących rentownościach niczym o jakimś nowym ruchu separatystycznym – trzeba zdławić za wszelką cenę.

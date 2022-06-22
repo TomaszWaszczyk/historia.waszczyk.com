@@ -32,6 +32,12 @@ ECB mocno podnosi prognozy inflacji:
 
 ---
 
+Czeczko już jest gwiazdą TV na wschodzie.
+
+<img src="./img/december/czeczko.jpg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/december/interpelacjacrypto.png"><br><br>

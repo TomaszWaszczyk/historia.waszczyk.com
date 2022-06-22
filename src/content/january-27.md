@@ -29,6 +29,12 @@ Podczas protestu przeciwko segregacji sanitarnej i obowiązkowi szczepień, orga
 
 ---
 
+Soboń: będą kolejne zmiany w podatkowym Polskim Ładzie. "Małe firmy umierają po cichu"
+
+Przygotujemy pakiet zmian do podatkowego Polskiego Ładu w dialogu z rzecznikiem małych i średnich przedsiębiorstw (MŚP) i przedsiębiorcami, będzie tam m.in. kwestia różnic remanentowych i amortyzacji – poinformował w czwartek w Sejmie wiceminister finansów Artur Soboń.
+
+---
+
 ### 2021
 
 Podczas wystąpienia na Światowym Forum Ekonomicznym w Davos przywódca Chin Xi Jinping przestrzegł w przed „nową zimną wojną” i dążeniem do globalnej dominacji. Xi po pierwsze zaczyna wystąpienie od stwierdzenia, iż pandemia jest daleka od zakończenia. Następnie wymienia cztery główne wyzwania stojące przed światem.

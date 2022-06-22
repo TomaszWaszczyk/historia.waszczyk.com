@@ -20,6 +20,17 @@ tags:
 
 <img src="./img/december/obowiazek.jpg"><br><br>
 
+---
+
+Dzisiaj zgłosiła się do nas Klientka i wysłała skan aktu notarialnego zakupu działki rolnej pod zabudowę z 1993r.  789m2 za 😲😲😲 32 miliony złotych.😲
+To czasy hiperinflacji w Polsce spowodowanej m.in. dodrukiem waluty na pokrycie wzrostu cen jak i transformacji ustrojowej (uwolnieniem zasobów).  💰32 mln zł... ile to w złocie w 1993r. ❓
+W 1993r. uncja złota kosztowała 💰364 dolary. 1 dolar 💰18.000zł. Zatem działka kosztowała ok. 5 uncji złota. 
+Zatem wpisuję frazę "ceny działek w Żorach" i wyskakuje ogłoszenie. Jak myślicie ile dzisiaj kosztuje  działka w Żorach ? 😃
+49zł/m2.  789m2 zatem kosztuje 39tys. zł. - dzisiejszych złotych.
+Dzisiaj uncja złota kosztuje 7500zł. Zatem działka kosztuje dzisiaj również 5 uncji złota  😀 ciekawe ?
+
+<img src="./img/december/aktnotarialny.jpg"><br><br>
+
 ### 2020
 
 Circle CEO Jeremy Allaire believes the incoming Joe Biden presidential administration in the U.S. will “ultimately be supportive of cryptocurrency because it represents a seismic shift as large as the commercial internet.”

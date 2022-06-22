@@ -119,6 +119,12 @@ https://pl.wikipedia.org/wiki/Rudi_Dutschke
 
 ---
 
+### 1919
+
+W wieku niespełna 23 lat w Torczynie zmarł Leopold Lis-Kula, major Piechoty WP, pośmiertnie awansowany na stopień podpułkownika, kawaler Orderu Virtuti Militari. Był jednym z najbardziej utalentowanych polskich oficerów, ulubieńcem Józefa Piłsudskiego oraz niezwykle odważnym żołnierzem. Walczył m.in. pod Krzywopłotami, Łowczówkiem, Jastkowem, Kamionką, Kostiuchnówką i Kuklą, mimo młodego wieku szybko zdobywał zaufanie podwładnych. Powierzano mu najtrudniejsze odcinki walki m.in. na Ukrainie. Nocą z 6 na 7 marca 1919 r. przeprowadził na czele polskich żołnierzy atak na zajęte przez Ukraińców miasteczko Torczyn. Po jego zdobyciu został ciężko ranny i po kilku godzinach zmarł z upływu krwi. Jego pogrzeb stał się wielką manifestacją patriotyczną.
+
+<img src="./img/march/liskula.jpg"><br><br>
+
 ### 1913
 
 W Hanaczowie w województwie tarnopolskim urodził się Kazimierz Wojtowicz (zdjęcie) podporucznik Armii Krajowej, dowódca obrony Hanaczowa przed napadami Ukraińskiej Powstańczej Armii, za pomoc ludności żydowskiej odznaczony medalem Sprawiedliwy Wśród Narodów Świata.

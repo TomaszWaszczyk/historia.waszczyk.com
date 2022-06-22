@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2021
+
+Kryzys na granicy. Źródła Onetu: Amerykanie ostrzegają Polskę przed konfliktem z Rosją
+
+Stany Zjednoczone miały ostrzec polski rząd przed możliwym atakiem Rosji na Ukrainę, do którego może zostać wykorzystany konflikt na polsko-białoruskiej granicy – dowiedział się Onet w źródłach dyplomatycznych. Waszyngton miał wezwać polskie władze do pilnych działań na rzecz zbudowania wspólnej koalicji państw bałtyckich, UE i Wielkiej Brytanii, która miałaby powstrzymać zapędy Kremla związane z możliwą inwazją na Ukrainę.
+
 ### 2020
 
 Ponad połowa małych i średnich europejskich firm boi się, że nie przetrwa roku

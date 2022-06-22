@@ -133,6 +133,15 @@ Zmarł Ryszard Kukliński https://pl.wikipedia.org/wiki/Ryszard_Kukli%C5%84ski
 
 W Tampie na Florydzie zmarł płk Ryszard Kukliński, oficer Sztabu Generalnego Wojska Polskiego, który na początku lat 70. nawiązał współpracę z amerykańskim wywiadem. Jako Jack Strong przekazał m.in. strategiczne plany Układu Warszawskiego, czy wprowadzenia stanu wojennego w Polsce. Gen. Wojciech Jaruzelski uznawał go za zdrajcę i dezertera. Kukliński uważał natomiast, że oficer nie ma obowiązku być lojalnym wobec dowódcy, który nie jest lojalny wobec swojej ojczyzny. W wywiadzie dla "Tygodnika Solidarność" z 1994 r. stwierdził, że jego dylemat polegał nie na wyborze: komunizm czy kapitalizm, ale służba narodowi lub czerwonemu imperium. William Casey, dyrektor CIA, powiedział natomiast po zakończeniu wywiadowczej misji Kuklińskiego, że w ciągu ostatnich 40 lat nikt tak nie zaszkodził komunizmowi jak on.
 
+### 1945
+
+Zakończyła się konferencja Wielkiej Trójki z udziałem Józefa Stalina, Franklina D. Roosevelta i Winstona Churchilla w Jałcie, na której zachodni sojusznicy zdradzili Polskę i zgodzili się na podporządkowanie całej Europy Wschodniej totalitarnej stalinowskiej Rosji.
+8 maja 1945 roku w dniu zakończenia wojny w Europie, podczas konferencji prasowej Patton zszokował słuchaczy, mówiąc:
+„Problem w zrozumieniu Rosjanina jest taki, że nie bierzemy pod uwagę faktu że on nie jest Europejczykiem, ale Azjatą i dlatego myśli pokrętnie. My nie możemy zrozumieć Rosjanina bardziej niż Chińczyka czy Japończyka i od kiedy mam z nimi do czynienia, nie miałem żadnego szczególnego pożądania zrozumienia ich poza obliczeniami jak dużo ołowiu lub stali trzeba zużyć, aby ich zabić. W dodatku, poza innymi cechami charakterystycznymi dla Azjatów, Rosjanie nie mają szacunku dla ludzkiego życia i są sukinsynami, barbarzyńcami i pijakami”. Na koniec stwierdził:
+„Niestety, niektórzy z naszych przywódców są po prostu cholernymi durniami i nie mają pojęcia o historii Rosji. Cholera, mam wątpliwości, czy wiedzieli chociaż tyle, że Rosja jeszcze niecałe sto lat temu zajmowała Finlandię, wyssała krew z Polski i zrobiła z Syberii więzienie dla własnego narodu. Wyobrażam sobie, jak szydził Stalin, kiedy uzyskał od nich wszystko podczas tych nibykonferencji”.
+
+<img src="./img/february/wielkatrojka2.jpg"><br><br>
+
 ### 1942
 
 W Warszawie miała miejsce "Akcja Kopernik" przeprowadzona przez podharcmistrza Macieja Aleksego Dawidowskiego "Alka" (zdjęcie)-żołnierza Organizacji Małego Sabotażu "Wawer".

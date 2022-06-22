@@ -16,6 +16,14 @@ draft: false
 ---
 
 Poprzedni system walutowy powstał w Bretton Woods w 1944 r. w czasie II wojny światowej. Teraz też mamy wojnę...
+Pepe Escobar, brazylijski analityk geopolityczny zajmujący się Euro-Azją, mówi, że zmienia się porządek świata. Eurazjatycka Unia Gospodarcza (EAEU) i Chiny zaczynają projektować nowy system monetarny i finansowy z pominięciem dolara amerykańskiego i mający na celu konkurowanie z systemem z Bretton Woods https://tiny.pl/92t26
+David Morgan, autor "The Silver Manifesto", twierdzi podobnie i dodaje, że nie można tego wykluczyć, jeśli złoto będzie używane jako środek rozliczeniowy za ropę i gaz ziemny https://youtu.be/YJdLTu2imU0
+Warto pamiętać, że jest coś takiego jak BRICS -  określenie grupy państw rozwijających się – Brazylii, Rosji, Indii, Chin oraz od 2011 Republiki Południowej Afryki. Nazwa pochodzi od pierwszych liter nazw tych państw. Celem jest stworzenie nowego systemu walutowego.
+Jeżeli Rosja wprowadza rozliczenia w złocie, czy to znaczy, że złoto jest złe? Czy pieniądz towarowy ze stuprocentowym pokryciem nie byłby najlepszym systemem monetarnym, zarówno dla gospodarki rynkowej, jak i z perspektywy Kościoła? https://tiny.pl/7nk68
+
+---
+
+Poprzedni system walutowy powstał w Bretton Woods w 1944 r. w czasie II wojny światowej. Teraz też mamy wojnę...
 Pepe Escobar, brazylijski analityk geopolityczny zajmujący się Euro-Azją, mówi, że zmienia się porządek świata. Eurazjatycka Unia Gospodarcza (EAEU) i Chiny zaczynają projektować nowy system monetarny i finansowy z pominięciem dolara amerykańskiego i mający na celu konkurowanie z systemem z Bretton Woods 
 
 <!-- https://tiny.pl/92t26 -->

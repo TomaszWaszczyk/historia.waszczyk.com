@@ -87,6 +87,10 @@ pogorszenia stanu zdrowia zmarli w różnych okresach po zwolnieniu.
 
 <img src="./img/february/zwolnienie.jpg"/><br><br>
 
+### 1922
+
+<img src="./img/february/2000z1920.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/february-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

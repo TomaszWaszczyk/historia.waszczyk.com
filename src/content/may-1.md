@@ -99,6 +99,14 @@ Grafika; niemiecki polskojęzyczny dziennik informacyjno-propagandowy Kurier War
 
 <img src="./img/may/pokoj.jpg"><br><br>
 
+### 1939
+
+Krystyna Skarbek aka Christine Granville, was born in Trzepnica.
+She was a Polish agent of the British Special Operations Executive (SOE) during the Second World War. She became celebrated for her daring exploits in intelligence and irregular-warfare missions in Nazi-occupied Poland and France. Journalist Alistair Horne, who described himself in 2012 as one of the few people still alive who had known Skarbek, described her as the "bravest of the brave."
+Thanks to her, British knew the approximate date of #OperationBarbarossa. She was once called #Churchill’s favourite spy.
+
+<img src="./img/may/skarbek.jpg"><br><br>
+
 ### 1932
 
 https://en.wikipedia.org/wiki/Donald_Kagan

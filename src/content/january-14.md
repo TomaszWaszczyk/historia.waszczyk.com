@@ -19,6 +19,18 @@ Clown world:
 
 <img src="./img/january/wearingmask.png"><br><br>
 
+---
+
+Nie ma co chować głowy w piasek. O tym się pisze i mówi. A zawłaszcza teraz, kiedy Watykan odmówił prawa wolności sumienia swojemu personelowi, który nie chciał poddać się obowiązkowemu szczepieniu przeciwko Covid-19, argumentując, że Pfizer wykorzystał w przeszłości komórki płodu z abortowanego dziecka do testów, ale nie do produkcji aktualnej szczepionki https://tiny.pl/91jld
+Instrukcja "Dignitas personae", dotycząca niektórych problemów bioetycznych, nie wprowadza rozróżnienia między produkcją a testowaniem. Pomijając nawet ten fakt, to są jeszcze inne poważne racje, które mogą sprawić, że katolik może mieć wątpliwości co do etycznego postępowania tej firmy. Pfizer zapłaci rekordową sumę 2,3 miliarda USD, żeby zakończyć spór z władzami amerykańskimi, dotyczący niedozwolonych metod marketingowych https://tiny.pl/91j1n
+Dodajmy do tego jeszcze m. in. raport Oxfamu z 2018 r., który skrytykował firmę Pfizer za "systematyczne" przechowywanie zysków w zagranicznych rajach podatkowych. Według tego raportu Pfizer przechowywał 199 miliardów dolarów  za granicą i był na drugim miejscu ze wszystkich amerykańskich korporacji, które w ten spośób postępowały. Warto o tym przypomnieć, ponieważ Papież Franciszek wzywa światowych przywódców do walki z rosnącą globalną nierównością gospodarczą, a watykańskie media często przywołują raporty Oxfamu dla poparcia nauczania papieża. 
+W tym samym czasie, kiedy kard. Parolin nie uwzględnia sprzeciwu sumienia watykańskich pracowników, którzy nie chcą przyjąć szczepionki, firma Boeing zastanawia się, co zrobić, gdyż 11 tys. pracowników, co stanowi 9% wszystkich zatrudnionych, złożyła wniosek o zwolnienie od obowiązku szczepienia się, motywując go wymogami religijnymi lub kwestiami medycznymi i grozi odejściem z pracy. Wszystko wskazuje na to, że problem sam się rozwiąże. Sąd Najwyższy w USA orzekł wczoraj, że wymóg obowiązkowych szczepień oraz stosowania obowiązkowych testów dla pracowników firm zatrudniających powyżej 100 osób, jest niezgodny z konstytucją.
+Rozwiąże się w USA, a co w Watykanie? Myślę, że potrzeba pamiętać zarówno o dobru wspólnym, jak i o nakazach sumienia. Dobrze uformowane sumienie nie może wykluczać dobra wspólnego w swoim rozeznaniu. Podobnie dobru wspólnemu nie można służyć, odmawiając ludziom prawa do wolności sumienia.
+
+<img src="./img/january/papiezpfizer.jpg"><br><br>
+
+---
+
 ### 2021
 
 Maybe true, maybe not

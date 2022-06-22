@@ -41,6 +41,12 @@ Przyklad labilności słabego społeczeństwa:
 
 ---
 
+### 1996
+
+Otwarcie salonu Ery GSM przy ul. Złotej, Warszawa, 16 września 1996.
+
+<img src="./img/september/era.jpg"><br><br>
+
 ### 1993
 
 Wojska rosyjskie opuściły Legnicę, będącą od II wojny światowej siedzibą dowództwa wojsk sowieckich stacjonujących w Polsce.

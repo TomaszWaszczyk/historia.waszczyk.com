@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2021
+
+<img src="./img/june/zapalenie.png"><br><br>
+
 ### 2020
 
 June has been the BEST month for Bitcoin. Out of its 9 years, 2018 and 2013 were the only years when Bitcoin fell in June.

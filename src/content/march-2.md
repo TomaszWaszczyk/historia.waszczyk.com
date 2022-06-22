@@ -21,6 +21,15 @@ The Russian Central Bank has decided not to pay interest on bonds worth US $ 29 
 
 ---
 
+Sberbank największy rosyjski bank WYZEROWAŁ. Akcje spadły o 99,99% w 📉 Nic nie warty BANK w Moskwie! 
+Ponadto: ➡️ trochę faktów 
+📍 Europejski Bank Centralny (EBC) ocenił, że Sberbank Europe AG i jego dwie spółki zależne w unii bankowej, Sberbank dd w Chorwacji i Sberbank banka dd w Słowenii, są na progu upadłości lub mogą upaść z powodu pogorszenia się ich sytuacji płynnościowej.
+Austriacki bank dominujący Sberbank Europe AG jest w pełni własnością publicznej spółki akcyjnej Sberbank of Russia, której większościowym udziałowcem jest Federacja Rosyjska 
+Sberbank Europe AG posiada spółki zależne w Bośni i Hercegowinie (zarówno w Federacji Bośni i Hercegowiny, jak iw Republice Serbskiej), Czechach, Chorwacji, Węgrzech, Słowenii i Serbii. Posiada również oddział w Niemczech.
+Na koniec 2021 r. bank posiadał aktywa o wartości 13,6 mld euro.
+
+---
+
 ### 1998
 
 Prezydent Aleksander Kwaśniewski postanowił odznaczyć Orderem Orła Białego uczestników wydarzeń marcowych 1968 roku - Jacka Kuronia i Karola Modzelewskiego. Kwaśniewski mówił że dzięki nim Polacy mogą patrzeć w lustro bez wstydu. Zupełnie koślawo przedstawiano to wydarzenie. 

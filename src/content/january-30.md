@@ -99,7 +99,6 @@ Myślałem, że tylko członek RPP Łon głosił w swoim uniesieniu patriotyczny
 
 https://pl.wikipedia.org/wiki/Brexit
 
-
 ### 1989
 
 W Białymstoku w niewyjaśnionych okolicznościach zginął 30-letni kapelan "Solidarności" ksiądz Stanisław Suchowolec. Po otrzymaniu święceń kapłańskich został wikariuszem w kościele pod wezwaniem Świętych Apostołów Piotra i Pawła w Suchowoli, rodzinnej parafii księdza Jerzego Popiełuszki. Ksiądz Jerzy po raz ostatni żegnając się z rodziną wypowiedział słowa: Mamo, nie martw się, bo gdyby, nie daj Boże, coś mi się stało, to przecież Staszek mnie zastąpi. Po męczeńskiej śmierci ks. Jerzego Popiełuszki  kontynuował odprawianie Mszy św. za Ojczyznę.
@@ -122,6 +121,16 @@ Ataku dokonał radziecki okręt podwodny S-13, dowodzony przez kapitana Alexandr
 Pozycja wraku: 55°07'27,7 N 17°42'14,6 E. Statek leży na głębokości 43-45m na lewym boku, jest złamany a jego środkowa część jest zgnieciona. Brak jest olbrzymi posiada długosc 209m a prawa burta sięga prawie do 20m głębokości (szerokość statku 23,5m). Pozycja wraku jest dokładnie znana, ale dla poglądowego przedstawienia można powiedzieć że leży na wysokości Łeby. Obecnie wrak pokrywa rdza i małże. Czy można na nim nurkować - tylko za specjalnym pozwoleniem. W 1994 roku Polska uznała wrak MS Wilhelm Gustloff za mogiłę wojenną, w związku z czym zakazane jest nurkowanie na wrak i w promieniu 500m od niego.
 
 <img src="./img/january/gustloff.jpg"><br><br>
+
+### 1930
+
+👉 30 stycznia 1933 roku prezydent Niemiec, Paul von Hindenburg, powierzył stanowisko kanclerza Adolfowi Hitlerowi. Był to początek rządów NSDAP w Rzeszy.
+👉 Po wyborach z 6 listopada 1932 roku partia Hitlera, która zdobyła 33,1% głosów, stała się największym ugrupowaniem w parlamencie. Paradoksalnie był to wynik gorszy, niż jeszcze w sierpniu tego roku. W poprzednim głosowaniu NSDAP otrzymała 37% głosów.
+👉 Mimo sukcesu wyborczego nazistów prezydent zwlekał z mianowaniem przyszłego Führera na szefa rządu. Próbował stworzyć gabinet koalicyjny w oparciu o partie konserwatywne – bez powodzenia. Ostatecznie zdecydował się na przekazanie władzy Hitlerowi, jednak przy jednoczesnym obsadzeniu najważniejszych ministerstw konserwatystami.
+👉 Wszelkie zabezpieczenia okazały się jednak zawodne. Nowy kanclerz niemal natychmiast zaczął dążyć do umocnienia swojej władzy. Przede wszystkim zwrócił się przeciwko swoim politycznym przeciwnikom. W ciągu pierwszych kilku tygodni rządów NSDAP aresztowano dziesiątki tysięcy socjalistów i komunistów. Niecałe dwa miesiące po zaprzysiężeniu, 23 marca 1933 roku, prezydent uwolnił zaś rząd od wszelkich ograniczeń parlamentarnych. 14 lipca tego roku NSDAP była już jedyną legalnie działającą partią w Niemczech.
+fot. Bundesarchiv / CC-BY-SA 3.0
+
+<img src="./img/january/trzeciarzesza.jpg"><br><br>
 
 ### 1920
 

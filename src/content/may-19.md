@@ -45,6 +45,19 @@ Co możemy zrobić, by stanąć w obronie wyjątkowości i godności ludzkiej os
 
 > Bitcoin nie zdechnie, bo gangsterka musi mieć możliwość anonimowego handlu bronią i kokainą w dark-necie. Oczywiście BTC sam w sobie jest bezwartościowy i nie ma znaczenia po jakim kursie chodzi, bo i tak jest niemal natychmiast wymieniany na prawdziwą walutę. Tylko frajerzy myślą, że to jest prawdziwe aktywo i da się na nim zarobić.
 
+### 2019
+
+Czy z powodu demografii nasz system emerytalny w przyszłości zbankrutuje? Na to pytanie odpowiadamy w najnowszym raporcie, napisanym przeze mnie wspólnie z I. Magdą i P. Lewandowskim (link poniżej). Odpowiedź brzmi NIE.
+W najbliższych dekadach populacja Polski będzie jedną z najszybciej starzejących się na świecie. Mimo to wydatki na emerytury pozostaną na podobnym poziomie co obecnie (około 11% PKB). Jakim cudem? Bo znacząco spadnie wysokość emerytur w relacji do wysokości płac.
+Polska doświadczy największego w całej Unii Europejskiej spadku stóp zastąpienia, czyli wysokości emerytur w porównaniu do ostatniej płacy. Dzisiaj średnia stopa zastąpienia w Polsce wynosi około 60%, a w 2060 roku będzie wynosiła zaledwie 25% (patrz wykres).
+To oznacza, że nasze pokolenie (obecni 20 i 30-latkowie) doświadczy dużo większego przeskoku w poziomie życia między okresem pracy a emeryturą niż nasi rodzice i dziadkowie. To jedyny sposób na to, żeby system emerytalny pozostał wypłacalny przy tak szybko starzejącej się populacji. Czy jesteśmy na te niższe stopy zastąpienia gotowi? To pytanie retoryczne.
+Jak na te wyzwania może odpowiedzieć polityka państwa? W raporcie proponujemy szereg rozwiązań, m.in.:
+👉 powiązanie wieku emerytalnego z długością trwania życia
+👉 lepszą profilaktykę zdrowia starszych pracowników
+👉 modyfikację PPK tak żeby dawały emeryturę dożywotnią
+
+<a href="./documents/may/IBS_Policy_Paper_02_2019.pdf" target="_blank">IBS_Policy_Paper_02_2019.pdf</a>
+
 ### 1967
 
 Egipt rozpoczął remilitaryzację półwyspu Synaj po wycofaniu na jego żądanie międzynarodowych sił pokojowych UNEF.
