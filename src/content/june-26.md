@@ -3,11 +3,19 @@ layout: post
 title: 26 czerwca
 image: img/june/baizuo.jpeg
 author: Tomasz Waszczyk
-date: 2020-06-26T10:00:00.000Z
+date: 2021-06-26T10:00:00.000Z
 tags:
   - 白左
 draft: false
 ---
+
+### 2022
+
+Wall Street gets a short - Bitcoin fund after 70% crypto collapse - BNN Bloomberg
+
+<img src="./img/june/inflation.jpeg"><br><br>
+
+<img src="./img/june/umbrela.jpeg"><br><br>
 
 ### 2020 - 白左
 

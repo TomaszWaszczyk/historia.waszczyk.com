@@ -287,6 +287,29 @@ Homoseksualiści nie są tak piętnowani jak w krajach europejskich, jednak czę
 Poruszający reportaż ukazujący kraj, w którym wszystko zależne jest od wartości powierzchownych, jak pieniądze i wygląd. To przykre, ze podczas wyboru małżonka nie kieruje się tam uczuciem, a wręcz znajduje się ono na ostatnim miejscu często w ogóle nie będąc obecnym. Podczas czytania zdałam sobie sprawę, jakie szczęście spotkało mnie, ze mieszkam w kraju, w którym każdy może wybrać partnera samodzielnie, biorąc pod uwagę także uczucia. Wybór nie jest nam siłą narzucany przez tradycję, rodziców, państwo czy sytuację materialną. Chiny nie są  krajem, w którym żyje się łatwo. Zarówno mężczyźni, jak i kobiety mają określone role, które muszą spełnić i kryteria, które są wobec nich stosowane niejednokrotnie są okrutne. Kobieta po 25 roku życia, która nie jest uznawana za piękność nie ma szans na znalezienie męża. Tak samo jest w przypadku mężczyzny, który nie jest zamożny. Reportaż niejednokrotnie wprawił mnie w osłupienie i wywołał szok, gdy czytałam o rzeczach, których u nas zaniechano setki lat temu, a w Chinach XXI wieku nadal są uznawane za wartości najważniejsze. Czy w kraju, w którym rządzą młodość i pieniądze możliwe jest prawdziwe szczęście? Zwłaszcza, jeżeli temat ten uznawany jest za swego rodzaju tabu?
 Polecam gorąco każdemu, kto choć trochę interesuje się innymi kulturami. Na prawdę warto zapoznać się z tym reportażem.
 
+<!--
+"po ile sprzedajesz jajka?"
+Stary sprzedawca odpowiedział:
+" 0.50 groszy za jajko, proszę pani
+Kobieta rzekła wiec:
+"wezmę 6 jajek za 2.50 albo odejdę i nie wezmę nic".
+Stary sprzedawca odpowiedział jej:
+"Może pani kupić po cenie, jaką sobie pani życzy. To jest dobry początek dla mnie bo dzisiaj nie sprzedałem ani jednego jajka a potrzebuję sprzedać cokolwiek by wykarmić rodzinę ".
+Kupiła te jajka po cenie jaką chciała i odeszła z uczuciem, że wygrała.
+Weszła do swojego eleganckiego samochodu i poszła do eleganckiej restauracji ze swoim przyjacielem.
+Ona i jej przyjaciel zamówili to, co chcieli. Zjedli tylko trochę i zostawili sporą cześć z tego co zamówili. 
+Dostali rachunek 400zł. Kobieta zostawiła aż 500zl i powiedziała właścicielowi eleganckiej restauracji, że reszta to napiwek.
+Ta historia może wydawać się całkiem normalna dla szefa luksusowej restauracji, ale bardzo niesprawiedliwa dla sprzedawcy jajek...
+Pytanie brzmi:
+Dlaczego zawsze musimy udowodnić, że mamy moc nad biednym sprzedającym kiedy kupujemy od niego to co ma do zaoferowania? 
+I dlaczego jesteśmy hojni wobec tych, którzy nawet nie potrzebują naszej hojności?
+Kiedyś gdzieś przeczytałam:
+" mój ojciec miał zwyczaj kupować towar od biednych po wysokich cenach, mimo że nie potrzebował tych rzeczy.
+Czasami płacił im więcej. Byłam w szoku. Pewnego dnia zapytałam go: " dlaczego to robisz, tato?"
+Mój Ojciec odpowiedział:
+"to jest dobroczynność owinięta w godność, moja córko"
+Wiem, że większość z Was nie udostępni tej wiadomości, ale jeśli jesteście jedną z tych osób, które poświeciły swój czas na czytanie do tej pory udostępnij tę historie. Może zasiejesz dobre ziarno. -->
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/philosophy.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

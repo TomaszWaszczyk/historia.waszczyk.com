@@ -3,7 +3,7 @@ layout: post
 title: 24 czerwca
 image: img/june/wojnanagorze.jpg
 author: Tomasz Waszczyk
-date: 2020-06-24T10:00:00.000Z
+date: 2021-06-24T10:00:00.000Z
 tags:
   - Wojna na górze
 draft: false

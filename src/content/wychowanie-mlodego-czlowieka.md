@@ -408,6 +408,31 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 
 "Society has provided [children] no rituals by which they become members of the tribe, of the community. All children need to be twice born, to learn to function rationally in the present world, leaving childhood behind.
 
+<!-- 1. Nie słuchaj ataków.
+Dostrzegaj to, co się kryje za słowami.
+
+2. Powstrzymuj pokusę przejścia do ataku.
+Zmieniaj styl rozmowy.
+
+3. Przemawiaj do najlepszych cech drugiej osoby.
+
+4. Rozróżniaj potrzeby, interesy i strategie działania.
+
+5. Uświadamiaj sobie emocje.
+Traktuj je jako sygnał.
+
+6. Odróżniaj akceptację od przyznania racji.
+
+7. Słuchając, unikaj wtrącania własnych uwag.
+
+8. Odróżniaj oceny od obserwacji.
+
+9. Sprawdzaj, czy twoje przypuszczenia są słuszne.
+Odrzucaj je, jeśli okażą się błędne.
+
+10. Przejawiaj ciekawość i ufaj, że można się dogadać.
+Myśl raczej o tym, co się dzieje, a nie czyja to wina, i zatrzymaj się, gdy czujesz, że pogarszasz sytuację. -->
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -241,6 +241,40 @@ Marian Pękalski - http://www.rytm-wydawnictwo.pl/nowosci/klamstwo-i-podstep-we-
 
 Leszek Chróst
 
+<!-- 10 sposobów manipulacji
+W toku swoich analiz Noam Chomsky opracował 10 strategii manipulacji, które stosują media w omamianiu społeczeństwa.
+
+Wiele z nich obecnych jest w naszym codziennym życiu.
+
+Odwracanie uwagi – jeśli chcesz odwrócić społeczeństwo od zainteresowania podstawową wiedzą z zakresu nauki, ekonomii, psychologii, neurobiologii i cybernetyki, oddalić ich od spraw istotnych i wszelkich zmian wprowadzanych przez rząd, odwróć ich uwagę. Ta strategia to klucz do manipulowania społeczeństwem. Jej celem jest zaprzątanie myśli obywatela informacjami błahymi, nieistotnymi – takimi, które „wypełnią głowę” i nie pozwolą na myślenie.
+ 
+
+Jest problem, jest rozwiązanie – „problem – reakcja – rozwiązanie”, czyli strategia, w której tworzony jest problem (np. kryzys ekonomiczny), mający na celu wywołanie u odbiorców określonych oczekiwań i reakcji (sprzeciw, obawy, protesty). Następnie podawane jest gotowe rozwiązanie (obniżenie zasiłków itp.). W taki oto sposób władza się usprawiedliwia i jest bez winy, bo przecież problem trzeba było jakoś rozwiązać.
+ 
+
+Stopniowanie zmian – zmiany należy wprowadzać stopniowo, krok po kroku, długotrwale, przez lata. Jednoczesne zaostrzenie przepisów, wzrost kar, odebranie świadczeń, podniesienie wieku emerytalnego itp. byłoby szokiem i wywołało bunt oraz rewolucję. A tak – powoli i do celu.
+ 
+
+Odraczanie, czyli wszystko będzie dobrze – jeśli jakaś zmiana jest niemile widziana przez społeczeństwo, należy ją odroczyć i wprowadzić w przyszłości. Wówczas ludzie przyzwyczają się myśli, że „jakoś to będzie”, „przetrawią” to co ma im do zaproponowania rząd i bezboleśnie przyjmą wprowadzane zmiany.
+ 
+
+Traktowanie dorosłych jak dzieci – infantylne słownictwo, uproszczony język, łagodność komunikatów, wypowiedzi w tonie skierowanym do dzieci i osób chorych umysłowo, stosowane w większości reklam i komunikatów przekazywanych opinii publicznej są sposobem na skuteczną manipulację. To proste działanie w myśl zasady: „Jeśli będziesz mówić do osoby, jakby miała ona 12 lat, to po wpływem sugestii prawdopodobnie odpowie lub zareaguje bezkrytycznie, tak jakby rzeczywiście miała 12 lub mniej lat”.
+ 
+
+Przywoływanie emocji – kolejną strategią jest manipulowanie emocjami i odrzucenie racjonalnego podejścia do życia. Emocjonalnie nacechowane komunikaty, budzące lęki, pragnienia, niepokoje itp. i odrzucające trzeźwość racjonalnej analizy i myślenia, sprzyjają wywoływaniu u odbiorcy określonych, pożądanych przez władzę zachowań.
+ 
+
+Ignorowanie społeczeństwa – w dążeniu do celu należy skupić się na obniżeniu poziomu inteligencji społeczeństwa. Obywatel musi stać się niezdolny do zrozumienia technik oraz metod stosowanych kontroli i zniewolenia.
+ 
+
+Przeciętność mile widziana – kim się najlepiej manipuluje? Ludźmi przeciętnymi. Dlatego też media muszą promować wulgaryzmy, głupotę, brak wykształcenia oraz przeciętność jako elementy bycia „na topie”, „cool”, „ekstra” itd.
+ 
+
+Bunt kontra poczucie winy – jeśli ludzie zaczną się buntować, zmień ich agresję w poczucie winy. Taka strategia pozwala wytworzyć w jednostce poczucie bycia winnym za wszelkie niepowodzenia, obniżyć jej poczucie własnej wartości, a w konsekwencji doprowadzić do depresji i zahamowania podejmowania jakiejkolwiek aktywności w kierunku zmian.
+ 
+
+Poznaj bliźniego swego lepiej, niż on zna siebie samego – współczesna, zaawansowana technologia i postęp w każdej dziedzinie nauki pozwoliły systemowi poznać jednostkę lepiej, niż ona sama zna siebie. Dzięki temu władza w większości przypadków wie o swoich społeczeństwach więcej i może sprawować większą kontrolę. -->
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -68,17 +68,17 @@ It is noteworthy that the growth was 40 percent – exactly in proportion to the
 
 "America’s role has changed drastically.
 
-It has turned from a net exporter of food into a net importer. 
+It has turned from a net exporter of food into a net importer.
 
-Loosely speaking, it is printing money and pulling commodity flows its way, buying food products all over the world." 
+Loosely speaking, it is printing money and pulling commodity flows its way, buying food products all over the world."
 
-"The European Union is building up imports even faster. 
+"The European Union is building up imports even faster.
 
 Obviously, such a sharp increase in demand that is not covered by the supply of goods has triggered a wave of shortages and global inflation."
 
 HERE IT IS:
 
-"Under the cloud of inflation, many developing nations are asking a good question: 
+"Under the cloud of inflation, many developing nations are asking a good question:
 
 🔥Why exchange goods for dollars and euros that are losing value right before our eyes?🔥"
 

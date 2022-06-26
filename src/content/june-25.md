@@ -3,7 +3,7 @@ layout: post
 title: 25 czerwca
 image: img/june/radom2.jpg
 author: Tomasz Waszczyk
-date: 2020-06-25T10:00:00.000Z
+date: 2021-06-25T10:00:00.000Z
 tags:
   - Radom
 draft: false
