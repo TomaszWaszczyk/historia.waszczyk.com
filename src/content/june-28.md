@@ -3,10 +3,16 @@ layout: post
 title: 28 czerwca
 image: img/june/nalog.png
 author: Tomasz Waszczyk
-date: 2020-06-28T10:00:00.000Z
+date: 2021-06-28T10:00:00.000Z
 tags:
   - Wybory prezydenckie 2020
 ---
+
+### 2022
+
+Medycyna w Polsce:
+
+<img src="./img/june/medycyna.png"><br><br>
 
 ### 2020
 

@@ -3726,6 +3726,8 @@ The more you do hard things, the easier your life will be.
 
 Głupiec, który potrafi milczeć, jest zaliczany do mędrców.
 
+Narodowy socjalizm to biologia w działaniu - Hitler
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

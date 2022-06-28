@@ -3,11 +3,44 @@ layout: post
 title: 27 czerwca
 image: img/june/takilajf.jpeg
 author: Tomasz Waszczyk
-date: 2020-06-27T10:00:00.000Z
+date: 2021-06-27T10:00:00.000Z
 tags:
   - Segregacja
 draft: false
 ---
+
+### 2022
+
+Ta cała narracja z bankructwem Rosji to  gra medialna pod krach na giełdzie zachodniej, w końcu trzeba będzie to jakoś wytłumaczyć. Rosja ma surowce przemysłowe i monetarne oraz minimalny dług, jest najdalej od bankructwa.
+
+<img src="./img/june/russiadefault.png"><br><br>
+
+Dziś w nocy Rosja formalnie zbankrutowała. Właśnie minął ostateczny termin spłacenia części ich międzynarodowego długu. Rosjanie nie widzą problemu, bo twierdzą, że mają 100 mln USD na uregulowanie długu, ale nie mogą tego zrobić przez sankcje. Rosja, jak każde państwo-bankrut, zostanie odcięta od międzynarodowego rynku długu. Po prostu nikt im nie pożyczy pieniędzy.
+
+Problem w tym, że przez sankcje już są odcięci, więc w praktyce niewiele to zmienia. Sami Rosjanie twierdzą, że wcale nie zbankrutowali, bo przesłali należne 100 mln dolarów do Euroclear, ale ten zablokował transakcję właśnie przez sankcje. Więc zdaniem ich ministra finansów wszystko jest OK.
+Twierdzi on, że i tak nie potrzebują więcej pożyczać, bo z powodzeniem utrzymują się ze sprzedaży ropy i gazu.
+
+To nie jest pierwsze bankructwo w historii Rosji. Jedno miało miejsce w efekcie rewolucji bolszewickiej w 1917 roku.
+
+Całkiem niedawno, bo w 1998 Rosja również miała ogromne problemy finansowe. Z tą różnicą, że wtedy ropa była po $11 za baryłkę, a dziś jest po $110.
+
+W skrócie: nie mam i co mi zrobisz?
+
+---
+
+<img src="./img/june/qeqt.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/brics.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/cbdc.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

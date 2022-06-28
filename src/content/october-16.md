@@ -22,6 +22,10 @@ Na swojej stronie internetowej stacja napisała, że „…prokuratorzy nie chc�
 
 ---
 
+### 2018
+
+<img src="./img/october/zaorski.png"><br><br>
+
 ### 1992
 
 W Londynie zmarł z powodu pęknięcia aorty brzusznej Władysław Sheybal - polski aktor, malarz, scenarzysta i reżyser. Pochodził z rodziny o inteligenckich i artystycznych tradycjach.  Dzieciństwo spędził w Krzemieńcu. W okresie okupacji niemieckiej był słuchaczem konspiracyjnego Państwowego Instytutu Sztuki Teatralnej. Angażował się w działalność ruchu oporu za co został wkrótce aresztowany i skazany na karę śmierci. Przed karą śmierci udało mu się wyratować ucieczką. Występował na scenach w Teatrze Wojska Polskiego, Starym Teatrze w Krakowie, Teatrze Śląskim w Katowicach, Miejskich Teatrach Dramatycznych,  Teatrze Narodowym w Warszawie, Teatrze Ateneum. W filmie wojennym ,,Kanał'' - w reżyserii Andrzeja Wajdy wcielił się w pianistę Michała, który w ostatnim etapie walk powstańczych dołączył do jednej z ewakuujących się kanałami grup powstańczych. W roku 1957 artysta opuścił Polskę.  Zamieszkał w Londynie. Działał w środowisku polonijnym i w teatrach angielskich. Wystąpił w wielu filmach i serialach angielskich, amerykańskich i włoskich. Zasłynął rolą mistrza szachowego Kronsteena w ''Pozdrowieniach z Rosji'' z serii filmów o przygodach brytyjskiego agenta Jamesa Bonda oraz rolą kapitan  Ferreira w nagrodzonym Złotym Globem słynnym serialu amerykańskim ''Szogun''. Z ciekawostek dodam, że Sheybal użyczył swojego głosu w horrorze ''Egzorcysta II - Heretyk'' (Sheybal przemawia głosem demona pazuzu). Artysta odszedł mając 69 lat. Został pochowany na cmentarzu Putney Vale. 
