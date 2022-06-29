@@ -10,6 +10,10 @@ tags:
 
 ### 2022
 
+> Fed Chair Powell: We now know how little we understand about inflation.
+
+---
+
 Medycyna w Polsce:
 
 <img src="./img/june/medycyna.png"><br><br>
