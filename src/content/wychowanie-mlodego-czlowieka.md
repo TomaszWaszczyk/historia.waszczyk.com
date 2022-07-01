@@ -408,6 +408,8 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 
 "Society has provided [children] no rituals by which they become members of the tribe, of the community. All children need to be twice born, to learn to function rationally in the present world, leaving childhood behind.
 
+<img src="./img/wychowanie-mlodego-czlowieka/wychowanie.png"><br><br>
+
 <!-- 1. Nie słuchaj ataków.
 Dostrzegaj to, co się kryje za słowami.
 

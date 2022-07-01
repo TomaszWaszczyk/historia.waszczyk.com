@@ -46,6 +46,12 @@ Dzięki temu rozwiązaniu podobno Napoleon się podjął ataku na Rosję i bezpr
 
 Często śmiejemy się z przodków i wydaje nam się, że wiemy od nich więcej (korzystając przy tym z ich dorobku), no to Inżynierowie od Innowacji, wszystko już wiecie, projekt znacie, zbudujcie🙂 -->
 
+---
+
+<img src="./img/june/savethis.png"><br><br>
+
+---
+
 ### 2020
 
 W 1947 roku decyzję o likwidacji Prus wydała Sojusznicza Rada Kontroli Niemiec, gdyż „były nośnikiem militaryzmu i reakcji w Niemczech".

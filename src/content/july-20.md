@@ -14,6 +14,12 @@ Tibetan woman in Sichuan, China salvaging Bitcoin mining machines as the governm
 
 <img src="./img/july/sichuan.jpeg"><br><br>
 
+---
+
+<img src="./img/july/wos.jpeg"><br><br>
+
+---
+
 ### 1944
 
 https://pl.wikipedia.org/wiki/Manifest_PKWN

@@ -3,11 +3,15 @@ layout: post
 title: 29 czerwca
 image: img/june/tischner.jpg
 author: Tomasz Waszczyk
-date: 2020-06-29T10:00:00.000Z
+date: 2021-06-29T10:00:00.000Z
 tags:
   - Panoptikum
 draft: false
 ---
+
+### 2022
+
+<img src="./img/june/farmazoniarz2.png"><br><br>
 
 ### 2021
 

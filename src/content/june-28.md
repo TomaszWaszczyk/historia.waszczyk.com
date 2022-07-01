@@ -14,6 +14,10 @@ tags:
 
 ---
 
+> Składam publiczne przyrzeczenie, że my te wybory wygramy. Wspólnie z całą opozycją albo nawet sami – mówi przewodniczący PO Donald Tusk w środowym wydaniu "Gazety Wyborczej". Zadeklarował m.in., że nie ma powrotu do podwyższania wieku emerytalnego.
+
+---
+
 Medycyna w Polsce:
 
 <img src="./img/june/medycyna.png"><br><br>

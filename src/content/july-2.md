@@ -3,10 +3,14 @@ layout: post
 title: 2 lipca
 image: img/july/inflacja.jpg
 author: Tomasz Waszczyk
-date: 2020-07-02T10:00:00.000Z
+date: 2021-07-02T10:00:00.000Z
 tags:
   - Podaż M3
 ---
+
+### 2022
+
+<img src="./img/july/darthvader.jpeg"><br><br>
 
 ### 2020
 

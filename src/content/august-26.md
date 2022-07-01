@@ -27,6 +27,12 @@ The era of the nation-state is finished
 
 <img src="./img/august/nationstate.jpeg"><br><br>
 
+---
+
+<img src="./img/august/blockfi.jpeg"><br><br>
+
+---
+
 ### 2002
 
 The full implementation of Agenda 21, the Programme for Further Implementation of Agenda 21 and the Commitments to the Rio principles, were strongly reaffirmed at the World Summit on Sustainable Development (WSSD) held in Johannesburg, South Africa from 26 August to 4 September 2002.

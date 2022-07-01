@@ -3,10 +3,44 @@ layout: post
 title: 30 czerwca
 image: img/june/samsonowicz.jpg
 author: Tomasz Waszczyk
-date: 2020-06-30T10:00:00.000Z
+date: 2021-06-30T10:00:00.000Z
 tags:
   - Inflacja bazowa
 draft: false
+---
+
+### 2022
+
+> Müller: To od Rosji zależy, czy inflacja sięgnie 20 procent
+
+<img src="./img/june/mullerrosja.webp"><br><br>
+
+Od Rosji zależy, czy inflacja sięgnie 20 proc. - mówi rzecznik rządu Piotr Müller w rozmowie z czwartkowym "Super Expressem".
+
+W wywiadzie dla "SE" Müller podkreślił, że nikt na świecie nie jest w stanie odpowiedzieć na pytanie, czy w tym roku nie będzie 20-proc. inflacji.
+
+"Nie wiemy bowiem, jak będzie się zachowywała Rosja w najbliższym czasie - czy będzie destabilizowała dalej Ukrainę, czy będzie stosowała szantaż gazowy. Nie wiemy, jak zachowają się inne kraje na świecie. Na ryzyko wzrostu inflacji staramy się odpowiadać przez obniżenie podatku VAT na żywność, benzynę, energię elektryczną, obniżenie akcyzy, podatku od 1 lipca. To są nasze odpowiedzi. To są instrumenty, które rząd ma w ręku, ale niestety nie wszystkie instrumenty ma w ręku, bo sytuacja międzynarodowa nie jest zależna wyłącznie od nas" - zwrócił uwagę.
+
+---
+
+<img src="./img/june/covidwraca.jpeg"><br><br>
+
+---
+
+> Gen. Mieczysław Gocuł: szczyt NATO ma nas przekonać, że wygramy z Rosją wojnę jeśli, a raczej kiedy, wybuchnie
+
+"Bardzo się obawiam tego, że szczyt NATO w Madrycie idzie w złym kierunku. Zamiast poszukiwać sposobów na to, jak wygrać pokój, bo w tym tkwi sedno problemu flanki wschodniej, to szczyt ma nas przekonać, że wygramy przyszłą wojnę jeśli, a raczej kiedy, do niej dojdzie - mówi gen. Mieczysław Gocuł, były szef Sztabu Generalnego Wojska Polskiego, w wywiadzie dla Gazeta.pl."
+
+"Jeśli ktoś mówi, że zwiększając deklarowaną liczbę żołnierzy Sił Odpowiedzi NATO do 300 tys. i chcąc zwiększać liczebność naszej armii też do 300 tys., zapewnimy sobie bezpieczeństwo, to opowiada bzdury. Jeśli ktoś mówi, że polska armia będzie tak silna, że wygra wojnę z Rosją, to też bajdurzy. Otóż, z takimi jak dziś siłami NATO na flance wschodniej i naszą armią Rosjanie zdemolują kraj."
+
+---
+
+Holenderscy rolnicy walczą nie tylko o siebie, ale o wszystkich, ich rząd zobowiązał się do zmniejszenia zużycia azotu do 2030 r., zabijając wiele gospodarstw, co oznacza, że ​​cena mięsa poszybuje w górę.
+
+---
+
+<img src="./img/june/heaven.jpeg"><br><br>
+
 ---
 
 ### 2021

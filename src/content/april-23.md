@@ -28,6 +28,10 @@ The fallout also has hindered the ability of small business owners to meet the c
 
 For someone making roughly $55,000 a year in their job, they would make the same amount collecting unemployment benefits for the next nine months. For someone who was paid less than that in their job, their income from unemployment benefits could far exceed what they were paid to work."
 
+### 1990
+
+<img src="./img/april/walesadoubts.jpeg"><br><br>
+
 ### 1981
 
 W wieku 89 lat zmarł w Warszawie Henryk Józewski (zdjęcie) -wojewoda wołyński, polityk, minister spraw zagranicznych II RP, artysta, piłsudczyk, orędownik pojednania polsko - ukraińskiego.

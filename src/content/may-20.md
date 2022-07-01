@@ -8,6 +8,10 @@ tags:
   - USA Brrrrrrrrr
 ---
 
+### 2022
+
+<img src="./img/may/lunascam.png"><br><br>
+
 ### 2021
 
 <img src="./img/may/koronawiruswpenisie.jpeg"><br><br>
