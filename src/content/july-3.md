@@ -3,9 +3,48 @@ layout: post
 title: 3 lipca
 image: img/july/prognozy-nfz.png
 author: Tomasz Waszczyk
-date: 2020-07-03T10:00:00.000Z
+date: 2021-07-03T10:00:00.000Z
 tags:
   - NFZ
+---
+
+### 2022
+
+BBC News wyrzuciło Polskę z krajów NATO. BBC obchodzi w tym roku 100. urodziny.
+
+Średnia oglądalność globalnie to ok. 500 mln dorosłych tygodniowo (GAM).
+
+<img src="./img/july/nato2022.jpeg"><br><br>
+
+---
+
+```
+Widmo Krachu - czy cena bitcoina może spaść do zera
+Zdecydowanie tak .
+Nigdy nie inwestowałem w Bitcoina ani inne krypto waluty bo tak na dobra sprawę to nie miałem żadnego przekonania o co tam chodzi. Jakaś tam wirtualna waluta która rośnie i niektórzy na niej zarabiają. A niech sobie zarabiają , jak nie wiem o co chodzi to taki rynek omijam szerokim łukiem. Ale próbowałem go porównać do złota czy może być bezpiecznym zamiennikiem do złota tzn. długoterminową i bezpieczna inwestycją. Początkowo myślałem że tak bo podobno są ograniczone możliwości wydobywania „ bitcoina”, podobnie jak i złota.
+Ale po tych ostatnich spadkach bitcoina zerknąłem na jego wykres i co zobaczyłem:
+1. Bitcoin ustanowił swój szczyt 8.11.2021 na poziomie 67 779,4 $.
+Dzisiaj jego kurs wynosi 18 969 $ tzn. spadł o 72 %
+2. Indeks DJI ustanowił swój szczyt 4.01.2022 na poziomie 36 789 pkt , ale trzeba zwrócić uwagę że jego poprzedni szczyt wypadł niewiele niżej 8.11.2022 na poziomie tzn.36 799 pkt……dokładnie w ten sam dzień co Bitcoin.
+Dzisiaj jest na poziomie 30 662 pkt co stanowi spadek o 16 %
+3. Indeks WIG ustanowił szczyt w dn. 5.11.2021 na poziomie 74 813,24 pkt ..dzisiaj jest na poziomie 53 573 pkt co stanowi spadek o 28 %.
+4. Złoto w dniu 8.11.2022 było na poziomie 1826 $ .Dzisiaj jest na poziomie 1806 $.
+tzn. praktycznie na tym samym poziomie.
+Co z tego wynika ?????
+Zarówno Bitcoin ,WIG jak i DJI osiagneły swoje szczyty w tym samym czasie
+Zgodnie z moja prognozą krachu stulecia i załamaniu rynków światowych którą przedstawiam na swoim blogu „ widmokrachu.pl” złoto może na przestrzeni ok. 3-5 lat wzrosnąć ok. 5-10 razy.
+Giełdy w tym samym czasie mogą spaść o 95 % , a bitcoin zawędruje do punktu wyjścia tzn. ok. 11 $ co oznacza że praktycznie spadnie do zera.
+Jak w czerwcu i listopadzie 2021 pisałem na forum FB i na swoim blogu o końcu Hossy Stulecia i nadejściu Krachu Stulecia to miałem 99 % negatywnych opinii …nie wchodząc w szczegóły tych komentarzy i chyba jedną odpowiedz że to jest możliwe.
+Przedstawiłem wtedy swój wykres opracowany na bazie analizy technicznej gdzie zaznaczyłem gdzie jesteśmy i dokąd zmierzamy ( w najbliższym czasie ) tzn. do poziomu dla WIG 28490 pkt.
+Dzisiaj jak kontynuuje swoją prognozę która się w niczym się nie zmieniła to ci którzy mnie wtedy tak „krytykowali” nabrali wody w usta i siedzą cicho. Pewno nie wiedzą co powiedzieć bo ich to wszystko przerosło.
+Reasumując uważam że rynek kryptowalut na przestrzeni ok. 3-5 lat przestanie istnieć , złoto nabierze swojej wartości i pokaże ile tak naprawdę jest warte .
+Owszem w międzyczasie będą jeszcze korekcyjne wzrosty …z podkreśleniem korekcyjne które w dłuższej perspektywie sprowadza cenę bitcona praktycznie do zera.
+Nie jest moim zamiarem straszenie nikogo ani tym bardziej zachęcaniem do czytania mojego bloga ,ale chciałem się podzielić swoimi przemyśleniami w tym temacie.
+Nie inwestuje w bitcoina ale porównując go do DJI czy np. WIG uważam że zachowuje się obecnie bardzo podobnie. To że do dnia dzisiejszego spadł o 72 % wcale moim zdaniem nie oznacza ze jest tani bo w najbliższym czasie może spaść o następne 72 %.
+Ale to co jest istotne to uważam że najbliższym czasie dołek który rok temu wyznaczyłem dla WIG na poziomie 28 490 pkt. zostanie osiągnięty równolegle z dołkiem dla DJI na poziomie 9470 pkt. i prawdopodobnie w tym samym czasie Bitcoin również osiągnie swój dołek.
+Na jakim poziomie nie wiem ale biorąc pod uwagę że skoro w chwili obecnej spada znacznie mocniej niż WIG , czy DJI , a do osiągnięcia dna dla WIG wg mojej prognozy pozostało jeszcze ok. 46 % nie zdziwiłbym się gdyby Bitcion spadł o następne 72 % a może nawet więcej .
+```
+
 ---
 
 ### 2020
