@@ -3,9 +3,35 @@ layout: post
 title: 5 lipca
 image: img/july/gabreski.jpg
 author: Tomasz Waszczyk
-date: 2020-07-05T10:00:00.000Z
+date: 2021-07-05T10:00:00.000Z
 tags:
   - Francis Gabreski
+---
+
+### 2022
+
+Poziom zaszczepienia (Reuters):
+- w Polsce 72% --> 27 mln (+) / 11 mln (-)
+- na Ukrainie 36 % --> 17 mln (+) / 31 mln (-)
+
+Stosunek czystej krwi Ukraińców do Polaków = 31 / 11 mln = 2.8 czyli na 1 Polaka czystej krwi przypada 3 Ukraińców czystej krwi.
+
+Taka populacja nie będzie w stanie równowagi i zakładając że będzie dochodziło swobodnie do krzyżowania się genów polskich z ukraińskimi nastąpi ok. 20% przyrost populacji w którym udział genów tylko ukraińskich wyniesie 0.6 w stosunku do 0.1 udziału genów tylko polskich.
+
+czyli 6 : 1. Innymi słowy na każde 100 urodzeń będzie:
+
+- 50 tylko ukraińskich
+- 8 tylko polskich
+- 42 mieszanych
+
+Naród Polski stanie się mniejszością, a po 1.6 - 2  pokoleniach - zniknie.
+
+---
+
+<img src="./img/july/banka.png"><br><br>
+
+<img src="./img/july/banka2.png"><br><br>
+
 ---
 
 ### 1951

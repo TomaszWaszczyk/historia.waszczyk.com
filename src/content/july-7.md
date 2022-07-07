@@ -3,10 +3,22 @@ layout: post
 title: 7 lipca
 image: img/july/wilno_1944.jpg
 author: Tomasz Waszczyk
-date: 2020-07-07T10:00:00.000Z
+date: 2021-07-07T10:00:00.000Z
 tags:
   - Operacja Ostra Brama
 ---
+
+### 2022
+
+> Dziś słyszymy, że chcą nas pokonać, no cóż mogę powiedzieć, niech spróbują. Tak naprawdę jeszcze niczego nie zaczęliśmy - Putin
+
+---
+
+United Nations:
+
+> Hungry people are the most productive people, especially where there is a need for manual labour.
+
+<img src="./img/july/recesja.png"><br><br>
 
 ### 2021
 

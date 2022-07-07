@@ -410,6 +410,38 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 
 <img src="./img/wychowanie-mlodego-czlowieka/wychowanie.png"><br><br>
 
+<!-- Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
+3 lata
+- zbieranie swoich zabawek
+- samodzielne mycie zębów
+- wkładanie wyznaczonych ubrań do pralki lub kosza
+- ubieranie się
+- pomoc w karmieniu zwierzaków
+4- 5 lat
+- ścieranie kurzu
+- sprzątanie ze stołu
+- zmiana pustej rolki po papierze toaletowym
+- wyciąganie zakupów z toreb
+- ścielenie swojego łóżka
+6 - 8 lat
+- opróżnianie i załadowanie zmywarki
+- składanie prania
+- podlewanie kwiatów
+- ścieranie kurzu
+- pomoc w ogródku (grabienie liści itp.)
+9 - 11 lat
+- wyjście do sklepu
+- pomoc w przygotowaniu obiadu
+- wyrzucanie śmieci
+- odkurzanie
+- wyprowadzanie psa
+- samodzielna pobudka (z budzikiem)
+12 lat i więcej
+- opieka nad rodzeństwem
+- pomoc w sprzątaniu kuchni i łazienki
+- wspólne mycie samochodu
+Pamiętaj, dziecko wcale nie jest zbyt małe, żeby nie robić nic w domu - przyda Ci się pomoc, a dla niego to niesamowita lekcja zaradności. -->
+
 <!-- 1. Nie słuchaj ataków.
 Dostrzegaj to, co się kryje za słowami.
 

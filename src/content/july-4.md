@@ -10,6 +10,18 @@ tags:
 
 ### 2022
 
+> Wiceminister finansów Artur Soboń nie wyklucza wprowadzenia ewentualnego podatku od nadmiarowych zysków banków. - Jeśli będziemy widzieli sytuację, w której będzie to skuteczne narzędzie - na reakcję w sytuacji, w której pozycja poszczególnych podmiotów gospodarczych jest nadużywana, aby uzyskiwać nadmiarowe zyski kosztem swoich klientów - wtedy możemy reagować - wyjaśnił.
+
+---
+
+Holenderscy rolnicy stanęli murem w obronie zaledwie KILKUDZIESIĘCIU gospodarstw. Wiedzą, że później będą następne.
+
+Solidarność, o jakiej Polacy zapomnieli.
+
+<img src="./img/july/holandia.jpeg"><br><br>
+
+---
+
 <img src="./img/july/commodityindex.jpeg"><br><br>
 
 <img src="./img/july/investmentclock.jpeg"><br><br>

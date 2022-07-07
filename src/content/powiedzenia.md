@@ -3730,6 +3730,13 @@ Narodowy socjalizm to biologia w działaniu - Hitler
 
 History remembers creators, not critics.
 
+Wisdom is to:
+live in the present
+plan for the future
+profit from the past
+
+The truth is generally seen, rarely heard.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

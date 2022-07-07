@@ -3,10 +3,28 @@ layout: post
 title: 6 lipca
 image: img/july/haller.jpg
 author: Tomasz Waszczyk
-date: 2020-07-06T10:00:00.000Z
+date: 2021-07-06T10:00:00.000Z
 tags:
   - Józef Haller
 ---
+
+### 2022
+
+Months After Shilling $3,000 ETH, Cramer Says Crypto Has “No Real Value”
+
+“Crypto really does seem to be imploding. When it goes from $3 trillion to $1 trillion, why should it stop at $1 trillion? There’s no real value there,” Jim Cramer said on CNBC’s Squawk Box Tuesday.
+
+Key Takeaways
+
+    The cryptocurrency space has "no real value" and could suffer from further losses, Jim Cramer suggested on CNBC's Squawk Box Tuesday.
+    The former hedge fund manager pointed to the recent wave of crypto firms suffering from liquidity issues as he slammed the space.
+    Cramer's comments come months after he said that investors could "easily" secure returns of 35 to 40% from investing in Ethereum. He also previously announced that he had bought into the asset.
+
+<img src="./img/july/time.png"><br><br>
+
+Answered "nooooooooooooooooooo"
+
+<img src="./img/july/time2-noooo-deleted.png"><br><br>
 
 ### 2020
 

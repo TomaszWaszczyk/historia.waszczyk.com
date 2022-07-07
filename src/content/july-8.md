@@ -3,9 +3,25 @@ layout: post
 title: 8 lipca
 image: img/july/tesla.jpeg
 author: Tomasz Waszczyk
-date: 2020-07-08T10:00:00.000Z
+date: 2021-07-08T10:00:00.000Z
 tags:
   - Gold $1800
+---
+
+### 2022
+
+W ciągu dnia granicę z Białorusią będzie monitorować 2000 kamer. Ich producentem i dostawcą podsystemu IT do obsługi jest chińska firma Hikvision, znana z dostarczania rozwiązań do inwigilacji Ujgurów. Kamery zakazane są w 🇺🇸 i być może wkrótce w UK.
+
+---
+
+<img src="./img/july/coswtymjest.jpeg"><br><br>
+
+---
+
+<img src="./img/july/hunger.png"><br><br>
+
+<img src="./img/july/unipolar.jpeg"><br><br>
+
 ---
 
 ### 2021
