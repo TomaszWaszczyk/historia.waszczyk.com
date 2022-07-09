@@ -3,7 +3,7 @@ layout: post
 title: 9 lipca
 image: img/july/planmarshalla.jpg
 author: Tomasz Waszczyk
-date: 2020-07-09T10:00:00.000Z
+date: 2021-07-09T10:00:00.000Z
 tags:
   - Plan Marshalla
 ---
