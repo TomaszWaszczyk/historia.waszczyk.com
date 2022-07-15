@@ -3,7 +3,7 @@ layout: post
 title: 10 lipca
 image: img/july/husky.jpg
 author: Tomasz Waszczyk
-date: 2020-07-10T10:00:00.000Z
+date: 2021-07-10T10:00:00.000Z
 tags:
   - Gracjan Fróg "Szczerbiec"
 ---

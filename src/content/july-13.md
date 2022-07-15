@@ -3,7 +3,7 @@ layout: post
 title: 13 lipca
 image: img/july/matwa.jpg
 author: Tomasz Waszczyk
-date: 2020-07-13T10:00:00.000Z
+date: 2021-07-13T10:00:00.000Z
 tags:
   - Jan Karski
 ---

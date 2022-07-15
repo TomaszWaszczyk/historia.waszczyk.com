@@ -3,7 +3,7 @@ layout: post
 title: 12 lipca
 image: img/july/exitpools.png
 author: Tomasz Waszczyk
-date: 2020-07-12T10:00:00.000Z
+date: 2021-07-12T10:00:00.000Z
 tags:
   - Polska
 ---
