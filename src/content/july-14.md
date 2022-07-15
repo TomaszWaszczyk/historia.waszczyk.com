@@ -3,10 +3,14 @@ layout: post
 title: 14 lipca
 image: img/july/wolnyrobotnik.jpg
 author: Tomasz Waszczyk
-date: 2020-07-14T10:00:00.000Z
+date: 2021-07-14T10:00:00.000Z
 tags:
   - Wolny Robotnik
 ---
+
+### 2022
+
+<img src="./img/july/bedziezimno.png"><br><br>
 
 ### 2021
 

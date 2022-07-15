@@ -8,6 +8,10 @@ tags:
   - NBP
 ---
 
+### 2022
+
+Przestałem poważnie traktować publiczne wypowiedzi zarówno pana premiera, pana prezesa Narodowego Banku Polskiego, jak i pana prezesa Kaczyńskiego. Oni mówią na użytek tych czy innych środowisk, na których im zależy. Ma się to nijak do oceny rzeczywistości. Płacimy cenę za dominację socjotechniki, za dominację populizmu, za skrajną nieodpowiedzialność w różnych obszarach rządzącej klasy politycznej. - Janusz Steinhoff, przewodniczący Gospodarczego Gabinetu Cieni Business Centre Club w "Kropce nad i" w TVN24.
+
 ### 2021
 
 <img src="./img/july/akcjakowidowa.png"><br><br>
