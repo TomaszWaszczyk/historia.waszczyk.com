@@ -3,19 +3,29 @@ layout: post
 title: 16 lipca
 image: img/july/inflacja2020.jpeg
 author: Tomasz Waszczyk
-date: 2020-07-16T10:00:00.000Z
+date: 2021-07-16T10:00:00.000Z
 tags:
   - Polska
 ---
 
+### 2022
+
+> “We are facing the biggest crisis the country has ever had. We have to be honest and say: First of all, we will lose the prosperity that we have had for years,” Dulger told the Süddeutsche Zeitung regarding the consequences of a gas shortage to everyone.
+
 ### 2021
+
+Jane Goodall in Davos: "All these [environmental] things we talk about wouldn’t be a problem if there was the size of population that there was 500 years ago.”
+
+The world population 500 years ago is estimated between 420 and 540 million —  6.7 billion fewer people than today.
+
+---
 
 Ludzkość stoi w obliczu epokowych wyzwań. Sprostanie im wymusza zmiany stylu życia, z czym skorelowane musi być odmienne niż dotychczas funkcjonowanie gospodarki. To wszystko zaś determinuje konieczność zredefiniowania celu gospodarowania. Te epokowe wyzwania wynikają z nakładania się siedmiu mega-trendów znamiennych dla współczesności:
 
 1. przemian demograficznych, zwłaszcza starzenie się ludności i ogromnego rozstrzelenia współczynników dzietności,
 2. zmian środowiskowych, zwłaszcza wyczerpywania się nieodnawialnych zasobów i ocieplanie klimatu,
 3. rewolucji naukowo-technologicznej, zwłaszcza cyfryzacji gospodarki i kultury oraz automatyzacji,
-4. nieinkluzywnej globalizacji, zwłaszcza narastania obszarów wykluczenia i nierówności,     
+4. nieinkluzywnej globalizacji, zwłaszcza narastania obszarów wykluczenia i nierówności,
 5. ogólnego kryzysu neoliberalnego kapitalizmu, zwłaszcza strukturalnej nierównowagi gospodarczej,
 6. kryzysu liberalnej demokracji, zwłaszcza towarzyszącej mu polaryzacji społeczeństw,
 7. drugiej zimnej wojny, zwłaszcza konfliktu USA – Chiny.  

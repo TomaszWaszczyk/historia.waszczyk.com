@@ -3,10 +3,14 @@ layout: post
 title: 17 lipca
 image: img/july/glapinski.jpg
 author: Tomasz Waszczyk
-date: 2020-07-17T10:00:00.000Z
+date: 2021-07-17T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2022
+
+<img src="./img/july/petereth.jpeg"><br><br>
 
 ### 2021
 

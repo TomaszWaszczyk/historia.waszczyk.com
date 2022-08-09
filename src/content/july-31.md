@@ -3,10 +3,14 @@ layout: post
 title: 31 lipca
 image: img/july/bismarck.jpg
 author: Tomasz Waszczyk
-date: 2020-07-31T10:00:00.000Z
+date: 2021-07-31T10:00:00.000Z
 tags:
   - Freigeld
 ---
+
+### 2022
+
+<img src="./img/july/wprost.jpeg"><br><br>
 
 ### 2021
 

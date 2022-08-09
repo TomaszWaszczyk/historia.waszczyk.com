@@ -10,6 +10,8 @@ tags:
 
 ### 2022
 
+<img src="./img/july/nhs.jpeg"><br><br>
+
 <img src="./img/july/bedziezimno.png"><br><br>
 
 ### 2021

@@ -3,10 +3,14 @@ layout: post
 title: 7 sierpnia
 image: img/august/didthis.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-07T10:00:00.000Z
+date: 2021-08-07T10:00:00.000Z
 tags:
   - Rozbiory
 ---
+
+### 2022
+
+<img src="./img/august/onet.jpeg"><br><br>
 
 ### 2021
 
