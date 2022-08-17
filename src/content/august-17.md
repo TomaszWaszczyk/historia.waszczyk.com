@@ -17,6 +17,8 @@ draft: false
 
 <img src="./img/august/lockdown.jpeg"><br><br>
 
+<img src="./img/august/jacekrafal.png"><br><br>
+
 ### 2021
 
 Standardowe wiadomości jakie można było zobaczyć w bieżącym roku, znaczy procent społczeństwa nie widzi problemu.
