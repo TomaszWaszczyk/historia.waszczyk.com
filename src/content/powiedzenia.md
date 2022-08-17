@@ -3758,7 +3758,19 @@ And so it is with you... we are in charge of our Attitudes.”
 ― Charles R. Swindoll
 
 
-Be kind to yourself and have a great Friday, my friends! -->
+Be kind to yourself and have a great Friday, my friends! 
+==========================================================
+PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE 
+
+last bit of - 
+what is your data points about this?
+to be gangerous with that - 
+context sensitive
+wykwity piśmiennictwa mojego
+more than art game
+PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE
+==========================================================
+-->
 
 ---
 

@@ -1527,9 +1527,15 @@ alpha quality
 
 lege artis
 
-wykwity piśmiennictwa mojego
+
+
+labour market
 
 what is the name of the game
+
+capital age
+
+auction theory
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 10 sierpnia
 image: img/august/orzel.jpg
 author: Tomasz Waszczyk
-date: 2020-08-10T10:00:00.000Z
+date: 2021-08-10T10:00:00.000Z
 tags:
   - ORP Burza
 ---

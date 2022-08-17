@@ -3,10 +3,16 @@ layout: post
 title: 9 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2020-08-09T10:00:00.000Z
+date: 2021-08-09T10:00:00.000Z
 tags:
   - Rozbiory
 ---
+
+### 2022
+
+Hope Europeans can see that Poland is currently facing heavy EU sanctions, even greater than those of the EU-Russia. This seemingly absurd paradox shows best that Germany (ruling the EU) is Russias and Putin's partner in the plan to conquer Ukraine at any cost, even genocide.
+
+If this plan is successful, Europe will become a purely Russian-German condominium. We, Poles, have experienced this criminal duo many times in recent centuries. It is a miracle that we, as a country survived their crimes.
 
 ### 2021
 

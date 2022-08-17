@@ -410,6 +410,8 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 
 <img src="./img/wychowanie-mlodego-czlowieka/wychowanie.png"><br><br>
 
+<img src="./img/wychowanie-mlodego-czlowieka/hodowla.jpeg"><br><br>
+
 <!-- Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
 3 lata
 - zbieranie swoich zabawek
