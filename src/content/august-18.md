@@ -3,10 +3,16 @@ layout: post
 title: 18 sierpnia
 image: img/august/WasserkraftwerkamDnjepr.jpg
 author: Tomasz Waszczyk
-date: 2020-08-18T10:00:00.000Z
+date: 2021-08-18T10:00:00.000Z
 tags:
   - Saul Wahl
 ---
+
+### 2022
+
+<img src="./img/august/damianbezpieczny.png"><br><br>
+
+<img src="./img/august/sasinobiecuje.jpg"><br><br>
 
 ### 2021
 

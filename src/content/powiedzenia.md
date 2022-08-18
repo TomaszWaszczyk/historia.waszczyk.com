@@ -3735,7 +3735,11 @@ live in the present
 plan for the future
 profit from the past
 
-The truth is generally seen, rarely heard.
+The truth is generally seen, rarely heard.R
+
+Rób swoje ryzyko jest twoje.
+
+Though this known unknown is a risk, it's not the biggest one.
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
