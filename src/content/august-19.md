@@ -3,7 +3,7 @@ layout: post
 title: 19 sierpnia
 image: img/august/2-rozbior.png
 author: Tomasz Waszczyk
-date: 2020-08-19T10:00:00.000Z
+date: 2021-08-19T10:00:00.000Z
 tags:
   - Gold
 ---
@@ -30,6 +30,12 @@ W „Rozważaniach o wojnie domowej” ci, których życie wdeptano w błoto, o 
 Pisząc o Wandei Jasienica nie budował prostych analogii, po prostu – jako uniwersalne symbole – opisał realne prototypy kontrrewolucji i pierwszego rewolucyjnego ludobójstwa. Dla Jasienicy książka ta, pisana z nikłą (ale jednak) nadzieją publikacji, była również okazją do osobistego świadectwa o uczuciach tych, u boku których kontynuował walkę po wojnie. Co czują ludzie, dla których najpewniejszą nadzieją staje się jedynie godna śmierć?
 
 ---
+
+### 1996
+
+<img src="./img/august/gorbaczow.jpeg"><br><br>
+
+> “The threat of environmental crisis will be the ‘international disaster key’ that will unlock the New World Order” - Mikhail Gorbachev
 
 ### 1970
 
