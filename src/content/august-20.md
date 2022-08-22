@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+"Niespłacone zobowiązania państwa składające się na nasz dług publiczny rosną i nie ma sił politycznych, które chciałyby lub mogłyby ten wzrost poskromić. Gorzej, że nie znamy prawdziwych rozmiarów zadłużenia, ponieważ rząd pożycza pieniądze także za pośrednictwem instytucji państwowych, np. Banku Gospodarstwa Krajowego, czy Polskiego Funduszu Rozwoju, które są wyłączone spod bezpośredniej kontroli Sejmu."
+
 ### 2020
 
 Byki wchodzą mozolnie po schodach, a niedźwiedzie skaczą z okien?
