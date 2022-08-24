@@ -3,11 +3,21 @@ layout: post
 title: 24 sierpnia
 image: img/august/patkowski.jpg
 author: Tomasz Waszczyk
-date: 2020-08-24T10:00:00.000Z
+date: 2021-08-24T10:00:00.000Z
 tags:
   - Patkowski
 draft: false  
 ---
+
+### 2022
+
+Bank Centralny Iraku był największym nabywcą w czerwcu, dodając 34 tony do swoich rezerw złota. Jest to pierwszy dodatek Iraku od września 2018 r. (7 ton) i podnosi całkowite rezerwy złota do 130 ton, czyli 11% całkowitych rezerw. Uzbekistan (9t), Turcja (8t), Kazachstan (4t) i Indie (4t), wszyscy stali kupcy.
+
+<img src="./img/august/zloto.jpeg"><br><br>
+
+---
+
+<img src="./img/august/stopprodukcji.png"><br><br>
 
 ### 2021
 
@@ -31,6 +41,12 @@ Pierwsze miejsca na listach rekrutacyjnych dostały osoby z Ukrainy/Białorusi, 
 Ciekawą rozmowę uciął sobie w TOK FM Maciek Głogowski z wiceministrem finansów Piotrem Patkowskim. Młody wiceminister w pewnym momencie zdradził, dlaczego rząd aż tak bardzo się nie przejmuje rosnącym zadłużeniem. Otóż wiceminister powiedział, że po pierwsze PKB będzie nominalnie rósł, więc ten sam dług z czasem „rozpuści się” w większym bogactwie Narodu, a po drugie, że…
 
 > „Oprocentowanie pieniędzy, które pożyczamy na rynku często jest niższe od poziomu inflacji. W związku z tym te pieniądze realnie i nominalnie tracą na wartości”
+
+### 1995
+
+Oficjalna premiera systemu operacyjnego Windows 95.
+
+<img src="./img/august/windows95.jpeg"><br><br>
 
 ### 1979
 
