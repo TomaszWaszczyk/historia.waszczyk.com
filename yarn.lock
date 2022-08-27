@@ -7306,12 +7306,12 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-canonical-urls@2.1.16:
-  version "2.1.16"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.1.16.tgz#c7f191c536705c794059e87d6df6537d326e8039"
-  integrity sha512-0z5+esadNZDf3i+B4iR7WwXWuEWn9mQgRMid+xxBQMz0CTdzqcAwJFmxfmtC6PCkWSAb33UDkBcek9nKwBOLgg==
+gatsby-plugin-canonical-urls@2.10.0:
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.10.0.tgz#8719099898b2436e7f1365002d48ef4b89c6fe51"
+  integrity sha512-Je15uAX0WX4i7fnEO7Rybhnxd7r3paWhly22APcE+lk5lcy8XIsHWXRKl6BS+frBmcHCgQYfqofhKsaQITHSsg==
   dependencies:
-    "@babel/runtime" "^7.7.4"
+    "@babel/runtime" "^7.12.5"
 
 gatsby-plugin-emotion@4.1.22:
   version "4.1.22"
