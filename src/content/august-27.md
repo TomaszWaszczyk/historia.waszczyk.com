@@ -3,10 +3,17 @@ layout: post
 title: 27 sierpnia
 image: img/august/pzpr.jpg
 author: Tomasz Waszczyk
-date: 2020-08-27T10:00:00.000Z
+date: 2021-08-27T10:00:00.000Z
 tags:
   - PZPR
 ---
+
+### 2022
+
+Brian Armstrong spodziewa się, że bessa może potrwać jeszcze wiele miesięcy
+Brian Armstrong – CEO Coinbase – spodziewa się, że trwająca obecnie na rynku bessa potrwa od 12 do 18 miesięcy. Przyznał jednak, że jego firma jest przygotowana na taką sytuację.
+
+<img src="./img/august/peterbtc.jpg"><br><br>
 
 ### 2021
 

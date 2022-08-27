@@ -3,7 +3,7 @@ layout: post
 title: 25 sierpnia
 image: img/august/schleswig.jpg
 author: Tomasz Waszczyk
-date: 2020-08-25T10:00:00.000Z
+date: 2021-08-25T10:00:00.000Z
 tags:
   - sojusz polsko-brytyjski
 ---

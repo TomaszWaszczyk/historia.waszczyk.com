@@ -3,7 +3,7 @@ layout: post
 title: 28 sierpnia
 image: img/august/salwadorbitcoin.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-28T10:00:00.000Z
+date: 2021-08-28T10:00:00.000Z
 tags:
   - Słabi ludzie
 ---
