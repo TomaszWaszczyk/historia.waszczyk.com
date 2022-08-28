@@ -97,6 +97,20 @@ W lesie koło wsi Bratian w okolicach Nowego Miasta Lubawskiego członkowie niem
 
 <img src="./img/october/bratian.jpg"/><br><br>
 
+### 1929
+
+#### The Depression
+
+Thousands of banks failed during the Depression and loss of confidence caused anxious depositors to create "runs" on banks as they tried to withdraw their money before the banks collapsed.
+
+<img src="./img/october/run.gif"><br><br>
+
+Many smaller banks, such as this one in Haverhill, Iowa, lacked sufficient reserves to stay in business and became no more than convenient billboards. Many of the small banks had lent large portions of their assets for stock market speculation and were virtually put out of business overnight when the market crashed.
+
+<img src="./img/october/smallbank.gif"><br><br>
+
+In all, 9,000 banks failed--taking with them $7 billion in depositors' assets. And in the 1930s there was no such thing as deposit insurance--this was a New Deal reform. When a bank failed the depositors were simply left without a penny. The life savings of millions of Americans were wiped out by the bank failures.
+
 ### 1926
 
 https://en.wikipedia.org/wiki/Michel_Foucault

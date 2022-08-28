@@ -3743,6 +3743,8 @@ Though this known unknown is a risk, it's not the biggest one.
 
 Pamięć buduje tożsamość.
 
+Między umiejętnością a działaniem leży całe morze, a na jego dnie zbyt często rozbita siła woli.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
