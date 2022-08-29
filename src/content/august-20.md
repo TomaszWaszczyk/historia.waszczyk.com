@@ -9,6 +9,13 @@ tags:
 draft: false  
 ---
 
+### 2021
+
+"Wracam z Pakistanu, z przekonaniem że popularne kiedyś inwestycyjno-ekonomiczne akronimy straciły wszelkie istotne znaczenie. Pakistan był-jest klasyfikowany jako jeden z rynków Next Eleven. To nazwa wymyślona przez tego samego ekonomistę Goldman Sachs, Jima O’Neilla, który był twórcą BRIC. N-11 miało być drugą falą rozwijających się gospodarek, zaraz po BRIC. Pakistan jest w tej grupie z Indonezją, Iranem, Meksykiem, Nigerią, Filipinami, Turcją, Koreą Południową, Wietnamem, Bangladeszem i Egiptem. 
+Co to dzisiaj znaczy w przypadku Pakistanu? PKB nominalnie na 44 miejscu na świecie, według siły nabywczej na 24. Ale PKB per capita, nominalnie ok 1500 USD, to 160 miejsce na świecie (na 196 klasyfikowanych w statystykach), według siły nabywczej: 6 500 USD i miejsce 140. Co gorsza, te liczby bujają się na tych poziomach od lat, mniej więcej od roku 2010, kiedy nominalne wartości PKB na głowę przekroczyły tysiąc dolarów i jakoś nie chcą się piąć dynamicznie dalej. Kraj z prawie ćwierć miliarda ludzi, co jest też sygnałem skali problemów społecznych. Pakistan ma Karakoram Highway, K-2, Nanga Parbat i nadal daje smak Wielkiej Podróży, ale miasta i wsie nie mają wiele wspólnego z Next Eleven. Nie do wiary, że to państwo ma broń atomową.
+A BRIC? Czy ktoś to jeszcze pamięta? Indie i Chiny razem, przy czym Indie już z większą populacją niż Państwo Środka, ale z sześć razy mniejszą gospodarką niż chińska? I co w tym gronie robi Brazylia?
+Zdaje mi się, że prawdziwszym uproszczeniem byłoby dziś powiedzieć, że świat zależy, globalnie i wielopłaszczyznowo, od USA, Chin, państwa półprzewodników – Tajwanu, i niestety Rosji, niż że BRIC, BRICS czy N-11 mówią nam o nim cokolwiek wartościowego. Każdy kraj, sektor, przedsiębiorstwo, są jedyne w swoim rodzaju, a globalizacja zamiast niwelować podkręca odmienności. Inwestorzy powinni zachować ostrożność w kontakcie z akronimami i innymi etykietami, zakładającymi, z reguły błędnie, równomierny rozwój i wzrost wycen. Ale mody na nowe, wyłaniające się akronimy warto obserwować."
+
 ### 2020
 
 Byki wchodzą mozolnie po schodach, a niedźwiedzie skaczą z okien?
