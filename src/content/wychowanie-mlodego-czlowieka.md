@@ -17,7 +17,7 @@ https://www.brainyquote.com/authors/johann-gottlieb-fichte-quotes
 https://unibot.us.edu.pl/dzieci-moga-patentowac/
 https://www.pap.pl/aktualnosci/news,944867,prof-jedrzejko-cyfrowe-piekielko-naszych-dzieci.html
 
-
+https://www.chesskid.com/
 A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 -->
 

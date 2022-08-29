@@ -3,7 +3,7 @@ layout: post
 title: 26 sierpnia
 image: img/august/nationstate.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-26T10:00:00.000Z
+date: 2021-08-26T10:00:00.000Z
 tags:
   - Nation-state
 draft: false  

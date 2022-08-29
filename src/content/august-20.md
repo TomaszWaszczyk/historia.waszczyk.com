@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+"Niespłacone zobowiązania państwa składające się na nasz dług publiczny rosną i nie ma sił politycznych, które chciałyby lub mogłyby ten wzrost poskromić. Gorzej, że nie znamy prawdziwych rozmiarów zadłużenia, ponieważ rząd pożycza pieniądze także za pośrednictwem instytucji państwowych, np. Banku Gospodarstwa Krajowego, czy Polskiego Funduszu Rozwoju, które są wyłączone spod bezpośredniej kontroli Sejmu."
+
 ### 2021
 
 "Wracam z Pakistanu, z przekonaniem że popularne kiedyś inwestycyjno-ekonomiczne akronimy straciły wszelkie istotne znaczenie. Pakistan był-jest klasyfikowany jako jeden z rynków Next Eleven. To nazwa wymyślona przez tego samego ekonomistę Goldman Sachs, Jima O’Neilla, który był twórcą BRIC. N-11 miało być drugą falą rozwijających się gospodarek, zaraz po BRIC. Pakistan jest w tej grupie z Indonezją, Iranem, Meksykiem, Nigerią, Filipinami, Turcją, Koreą Południową, Wietnamem, Bangladeszem i Egiptem. 

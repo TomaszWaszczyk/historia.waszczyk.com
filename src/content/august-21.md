@@ -3,11 +3,28 @@ layout: post
 title: 21 sierpnia
 image: img/august/china.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-21T10:00:00.000Z
+date: 2021-08-21T10:00:00.000Z
 tags:
   - China
 draft: false  
 ---
+
+### 2022
+
+I am old enough to remember so called expert opinions related to the future price of bitcoin by the end of 2021 or mid-2022.
+
+- Mashinsky (yes, the guy from Celsius): USD 140 – 160k (mid-’22)
+- Plan B: USD 100k (end ‘21) / USD 280k (mid-’22)
+- Raoul Pal: USD 200k (end ’21) / USD 400k (end cycle)
+- Tim Draper: USD 250k (mid ’22)
+
+Just to mention a few.
+
+My advice: Don’t buy the noise & do your own research.
+
+A model that I appreciate and (yet) not that much noticed is shown below. It is called: the bitcoin power-law corridor of growth
+
+<img src="./img/august/celsius.jpeg"><br><br>
 
 ### 2021
 

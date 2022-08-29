@@ -3,10 +3,32 @@ layout: post
 title: 22 sierpnia
 image: img/august/globalbonds.png
 author: Tomasz Waszczyk
-date: 2020-08-22T10:00:00.000Z
+date: 2021-08-22T10:00:00.000Z
 tags:
   - Allied Forces Act
 draft: false  
+---
+
+### 2022
+
+> Breaking: UK inflation is projected to hit 18% by next year!
+
+---
+
+<img src="./img/august/peterschiff.png"><br><br>
+
+---
+
+```
+Merge
+
+Making
+Ethereum
+Regulated for
+Governments
+Everywhere
+```
+
 ---
 
 ### 2021

@@ -11,6 +11,14 @@ draft: false
 
 ### 2022
 
+<img src="./img/august/hessen.jpg"><br><br>
+
+Radikale Proteste befürchtet Hessens Sicherheitsbehörden wappnen sich für heißen Herbst
+
+Corona, Gasknappheit, Inflation: Nutzen Extremisten die akuten Krisen, um heftiger als bisher gegen den Staat mobil zu machen? Hessens Verfassungsschützer sind besorgt und sehen schon erste Anzeichen für radikalere Proteste.
+
+### 2022
+
 <img src="./img/august/sasiniprad.jpeg"><br><br>
 
 <img src="./img/august/bieda.jpeg"><br><br>

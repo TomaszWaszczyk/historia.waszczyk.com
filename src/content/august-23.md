@@ -3,10 +3,14 @@ layout: post
 title: 23 sierpnia
 image: img/august/pakt.jpg
 author: Tomasz Waszczyk
-date: 2020-08-23T10:00:00.000Z
+date: 2021-08-23T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2022
+
+<img src="./img/august/holeckategoniepowie.jpeg"><br><br>
 
 ### 2021
 

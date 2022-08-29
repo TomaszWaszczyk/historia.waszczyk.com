@@ -12,6 +12,33 @@ tags:
 
 Przestałem poważnie traktować publiczne wypowiedzi zarówno pana premiera, pana prezesa Narodowego Banku Polskiego, jak i pana prezesa Kaczyńskiego. Oni mówią na użytek tych czy innych środowisk, na których im zależy. Ma się to nijak do oceny rzeczywistości. Płacimy cenę za dominację socjotechniki, za dominację populizmu, za skrajną nieodpowiedzialność w różnych obszarach rządzącej klasy politycznej. - Janusz Steinhoff, przewodniczący Gospodarczego Gabinetu Cieni Business Centre Club w "Kropce nad i" w TVN24.
 
+---
+
+Na długo przed wojną starałem się zwrócić uwagę, że Energiewende to faktycznie podział Europy na strefę wpływów DE i RU. W skrócie, NS1 i NS2, zakaz aut spalinowych, ekspansja uprawnień do emisji na kolejne sfery życia, omijanie przez nowe rurociągi PL/UA, torpedowanie Baltic Pipe/atomu w PL, wyłączanie Turowa to była wyrachowana polityka mocarstw, gdzie:
+
+📌 Europa Śr-Wsch. jest dalej rezerwuarem taniej siły roboczej (ale bez prawa do konkurowania na Zachodzie, por. dyrektywa transportowa)
+📌 RU zasila DE w tanią ropę/gaz, a te ostatnie (mając przepustowość 250% konsumpcji i monopol w UE) mogłyby tą energią dzielić się z "praworządnymi" krajami
+(w zamian UA/BL pozostawałyby rosyjską strefą wpływów, a Nawalny i inni w kolonii karnej)
+📌 Chiny pozostają tanią fabryką wszystkiego, co napędza konsumpcję i nie pozwala na większą refleksję mas nad życiem i światem
+📌 W końcu UE mając sojusz z Moskwą i interesy z Pekinem, mogą równoważyć globalne wpływy USA i jeszcze liczyć się na świecie.
+
+<!-- (https://lnkd.in/djaMfx7a
+https://lnkd.in/dJwwbk_N
+https://lnkd.in/dywDydZY
+https://lnkd.in/dBKFEyMt) -->
+
+Paryż pozwalał na linię Curzona i nowe Rapallo, bo sam będąc potentatem atomowym, kwestiami węgla/gazu nie zajmował się, ale popierał w zamian za poparcie Berlina w kluczowych dla FR sprawach, jak Wspólna Polityka Rolna. Wszystko szło jak po sznurku, TSUE orzekał jak trzeba, nowy POTUS Biden zgodził się na NS2 i zdjął z niego sankcje, lecz DE popełniły katastrofalny błąd.
+Odrzuciły propozycję sojuszu z USA (te już zaczęły mówić o reżimie w W-wie...) i zwróciły się ponownie ku Rosji. A to wykorzystał Putin atakując UA - licząc na Blitzkrieg i obojętność świata.
+
+💡 Tymczasem misterny plan szlag trafił, bo Ukraińcy byli na wojnę przygotowani i heroicznie zaczęli się bronić - nie po myśli ww. mocarstw z UE. Na domiar złego Polacy i Polska stanęła na wysokości zadania, udaremniła kryzys migracyjny i przeszła do politycznej/militarnej ofensywy, będąc dziś drugim po USA dostawcą broni na UA.
+
+Rok 2022 przypomina 1939 r 📌 Tak jak we wrześniu PL dawała UK czas na przygotowania do niemieckiej inwazji, Bitwy o Anglię, tak dziś UA swoją krwią i swoich dzieci dają czas do namysłu Zachodowi. USA otrzeźwiały natychmiast, syta UE na oko jeszcze potrzebuje czasu. 
+
+Zdaje się jednak, że rzeczy przyspieszają, bo w DE trwa już rządowa kampania ostrzegająca przed największym kryzysem od 1945, o zapaści PKB, o przestojach, brakach prądu/gazu/ciepłej wody, ogrzewania.
+CZ ogarnęli się i pomimo Turowa przylecieli do W-wy z prośbą o podłączenie ich gazociągów z naszego gazoportu. DE, całkowicie uzależnieni od woli Putina też dostrzegli, że ich dominacja bez energii może się zakończyć tej zimy, więc podobnie postanowili zadbać o dostawy gazu i z typowo pruską elegancją i swadą rzucili w PE pomysł, że kraje, które nie ufały Rosji i na własną rękę budowały niezależność energetyczną... muszą z DE się podzielić swoimi zapasami. Świnoujście najbliżej, tylko KPO solidarnie wciąż czeka 😁
+
+---
+
 ### 2021
 
 <img src="./img/july/akcjakowidowa.png"><br><br>
