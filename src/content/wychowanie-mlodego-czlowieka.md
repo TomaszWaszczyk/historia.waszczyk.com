@@ -3,7 +3,7 @@ layout: post
 title: "Wychowanie młodego człowieka"
 author: Tomasz Waszczyk
 tags: ["Wychowanie młodego człowieka"]
-image: img/art/strzeminski.jpg
+image: img/wychowanie-mlodego-czlowieka/cukier.jpeg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---

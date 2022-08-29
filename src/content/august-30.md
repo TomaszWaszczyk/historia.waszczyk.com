@@ -3,7 +3,7 @@ layout: post
 title: 30 sierpnia
 image: img/august/koronaberlin.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-30T10:00:00.000Z
+date: 2021-08-30T10:00:00.000Z
 tags:
   - Eberhard Schöngarth
 ---
@@ -41,6 +41,10 @@ Na plakatach widniały hasła: "Zatrzymać szaleństwo pandemii", "Skończyć z 
 ### 1958
 
 https://en.wikipedia.org/wiki/Anna_Politkovskaya
+
+### 1942
+
+<img src="./img/august/jakrozmawiac1942.png"><br><br>
 
 ### 1941
 
