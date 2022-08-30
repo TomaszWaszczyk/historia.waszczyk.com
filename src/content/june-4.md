@@ -21,6 +21,14 @@ Powyższe sformułowanie powinno nam przypomnieć, że przez ostatnie półt
 
 ---
 
+> Luzowanie ilościowe prawie od samego początku nie przyniosło efektu w postaci inflacji. Ale publicyści, strasząc nim, wymyślili kolejną metaforę. Kto nie pamięta komiksów przedstawiających ówczesnego prezesa Fed, był nim Ben Bernanke, który w barze serwuje swoim klientom hamburgery? Na rysunku Bernanke chce dodać trochę keczupu do swojego burgera. Otwiera butelkę, ale keczup nie leje się, więc Bernanke uderza kilkakrotnie w spód butelki. Nic to nie dawało. W końcu w akcie rozpaczy Bernanke postanowił uderzyć jeszcze raz i ku jego zdziwieniu oraz przerażeniu na hamburgera wylała się niemal cała zawartość butelki. Tak właśnie chciano nas przekonać, że mimo opóźnienia inflacja, podobnie jak i keczup, wyleje się ze wzmożoną siłą. **Dzisiaj, ponad jedenaście lat później, inflacji jest jak na lekarstwo. Innymi słowy – tylko kilka kropli keczupu spadło na hamburgera.**
+
+> Obecnie wiemy o niekonwencjonalnej polityce monetarnej znacznie więcej niż na początku 2009 r. Wiemy, że może przybierać różne postacie. Wiemy, że na luzowanie ilościowe, będące jej uosobieniem, nie można patrzeć jedynie przez pryzmat bazy monetarnej. Coraz częściej zjawisko to jest postrzegane jako swoistego rodzaju forma zarządzania długiem. To wszystko prawda, choć jest jedno „ale”. Banki centralne skupują już nie tylko obligacje rządowe. Obok nich pojawiły się obligacje zabezpieczone, korporacyjne i wiele innych aktywów. Zdecydowana większość banków centralnych kupuje obligacje za pomocą waluty krajowej, na którą mają monopol.
+
+Paweł Kowalewski - Ekonomista, pracuje w NBP, specjalizuje się w zagadnieniach polityki pieniężnej i rynków walutowych
+
+---
+
 Schemat mapy chińskiej kolej* przypominającej trochę schemat metra, tyle że w wersji kontynentalnej (kto jeździł w Chinach koleją, wie o czym piszę.
 
 Wiele ten schemat może powiedzieć o #Chiny jako kraju i (właściwie) kontynencie.

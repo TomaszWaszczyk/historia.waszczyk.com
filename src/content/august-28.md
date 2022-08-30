@@ -8,6 +8,15 @@ tags:
   - Słabi ludzie
 ---
 
+### 2022
+
+Przewidywania Tomka:
+
+1. Ceny energii spowodują nagły wzrost cen - do produkcji wszystkiego potrzebna jest energia.
+2. Rządy zaczną "pomagać" poprzez dalszą podaż pieniądza.
+3. Oszczędności do kosza.
+4. Stopy procentowe do góry.
+
 ### 2021
 
 Protest przeciwko wprowadzeniu standardu Bitcoin w Salwador, jednym z argumentów to brak możliwości udzielania kredytów przez IMF.

@@ -3745,6 +3745,8 @@ Pamięć buduje tożsamość.
 
 Między umiejętnością a działaniem leży całe morze, a na jego dnie zbyt często rozbita siła woli.
 
+Sun Tzu napisał dawno temu o ekspertach i abonamentach: Człowiek zaradny nie jest do wynajęcia; kto zaś sobie nie radzi pragnie by ktoś najął go do pracy. Jeśli zatrudniam kogoś niezaradnego, to nie dlatego, że potrzeba mi niedojdy, ale dlatego, że niedojdzie potrzebny jestem ja
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -9,6 +9,13 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+> Since the start of my presidency, my economic plan has helped create 9.5 million jobs, reach a 50-year record low unemployment rate, and achieve zero percent inflation in July.
+> And this week, I’ll build on that progress by signing the Inflation Reduction Act into law.
+
+President Biden
+
 ### 2021
 
 <a href="./documents/august/niskie-stopy.pdf" target="_blank">Długofalowe skutki polityki niskich stóp i poluzowania polityki pieniężnej</a>

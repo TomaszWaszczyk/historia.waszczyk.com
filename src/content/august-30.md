@@ -8,6 +8,20 @@ tags:
   - Eberhard Schöngarth
 ---
 
+### 2022
+
+Do wszystkich "gold buggersów", którzy ekscytują się, że YTD zarobili na złocie w PLN. Nie zarobiliście na złocie, tylko na słabym złotym. W sumie więcej byście zarobili, gdybyście po prostu kupili dolce.
+
+---
+
+<img src="./img/august/wig20.jpeg"><br><br>
+
+<a href="./documents/august/wig20.pdf" target="_blank">WIG20</a>
+
+<img src="./img/august/naukazdalna.jpeg"><br><br>
+
+---
+
 ### 2021
 
 W  trakcie  wakacji  rząd  przygotował  radykalne zmiany  przepisów  dot.  funkcjonowania  szkoły, które już we wrześniu mogą zostać uchwalone przez Sejm.

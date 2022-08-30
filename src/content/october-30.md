@@ -46,6 +46,10 @@ Na zdjęciu ulotka kolportowana po śmierci ks. Jerzego Popiełuszki.
 
 <img src="./img/october/ulotka.jpg"/><br><br>
 
+### 1947
+
+The General Agreement on Tariffs and Trade (GATT), signed on October 30, 1947, by 23 countries, was a legal agreement minimizing barriers to international trade by eliminating or reducing quotas, tariffs, and subsidies while preserving significant regulations. The GATT was intended to boost economic recovery after World War II through reconstructing and liberalizing global trade.
+
 ### 1945
 
 W okolicach dworca PKP w Ciechanowie żołnierze radzieccy zastrzelili Romana Dziemieszkiewicza (zdjęcie) żołnierza podziemia antykomunistycznego, dowódcę Powiatów Ostrołęka i Ciechanów Narodowego Zjednoczenia Wojskowego, starszego brata Mieczysława Dziemieszkiewicza.
