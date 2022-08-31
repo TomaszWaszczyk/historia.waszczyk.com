@@ -10,6 +10,12 @@ tags:
 
 ### 2022
 
+> Europa Vom Atlantik bis zum Ural! Deutscher Traum seit 1936!
+
+<img src="./img/august/scholz.jpg"><br><br>
+
+---
+
 Do wszystkich "gold buggersów", którzy ekscytują się, że YTD zarobili na złocie w PLN. Nie zarobiliście na złocie, tylko na słabym złotym. W sumie więcej byście zarobili, gdybyście po prostu kupili dolce.
 
 ---
@@ -19,6 +25,8 @@ Do wszystkich "gold buggersów", którzy ekscytują się, że YTD zarobili na z�
 <a href="./documents/august/wig20.pdf" target="_blank">WIG20</a>
 
 <img src="./img/august/naukazdalna.jpeg"><br><br>
+
+<img src="./img/august/paxlovid.png"><br><br>
 
 ---
 

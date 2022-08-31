@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2022
+
+<img src="./img/august/szczepionki.jpeg"><br><br>
+
 ### 2021
 
 Businessinsider.pl:

@@ -3,9 +3,27 @@ layout: post
 title: 31 sierpnia
 image: img/august/Komarow_pomn.jpg
 author: Tomasz Waszczyk
-date: 2020-08-31T10:00:00.000Z
+date: 2021-08-31T10:00:00.000Z
 tags:
   - Kiszczak - Wałęsa
+---
+
+### 2022
+
+🇪🇺 The EURO and bond markets in EU are getting smashed as US 10 year yield keeps trending up.
+
+Pure debt madness in EU for 10 years. Europeans ignoring the problem.
+
+The EU deception is really big, ask Lagarde and also Draghi indeed.
+
+Years saying the same: EXIT THE EURO
+
+<img src="./img/august/eurodebt.jpeg"><br><br>
+
+---
+
+<img src="./img/august/wspieramyrozwoj.jpeg"><br><br>
+
 ---
 
 ### 2021
@@ -31,6 +49,12 @@ according to figures from the Robert Koch Institut, accessed by the newspaper We
 In the week from August 2 to 8, only 29,300 practices still “vaccinated people against the coronavirus”, meaning many dropped out. At the time the vaccines were rolled out in Germany, a total of 52,600 practices were participating in the genocide campaign. This means that 23,300 (44%) practices have stopped giving the shot.
 
 <img src="./img/august/impfkampagne.png"><br><br>
+
+---
+
+<img src="./img/august/izolacja.png"><br><br>
+
+---
 
 ### 2020
 
@@ -135,6 +159,12 @@ Tak o tym fakcie w książce "Droga do wolności pisał Wałęsa:
 "Oczywiście, nie byłem zadowolony, ale też nie mogłem zbytnio podskakiwać. Kilkanaście strajkujących zakładów to nie kilkaset, jak w sierpniu 1980, a generał powiedział bez ogródek, że i tak „beton" partyjny próbuje torpedować każdą ofertę ugody z opozycją. Czułem, że mówi szczerze, lecz zastanawiałem się, jak spojrzę w oczy zarośniętym, czekającym z nadzieją stoczniowcom czy górnikom. Cóż z tego – myślałem – że racja moralna jest po ich stronie?"
 
 <img src="./img/august/kiszczakwalesa.jpg"><br><br>
+
+### 1952
+
+Firma Kent z powodu pojawiających się opinii, że papierosy powodują raka wypuściła papierosy z azbestem żeby chronić palaczy.
+
+<img src="./img/august/kent.jpeg"><br><br>
 
 ### 1945
 
