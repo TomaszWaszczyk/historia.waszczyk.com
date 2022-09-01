@@ -86,6 +86,10 @@ Tempo sprzedaży miejskich działek jest zawrotne. Na najbliższej sesji radni z
 
 ---
 
+### 2019
+
+<img src="./img/july/leyen.png"><br><br>
+
 ### 2013
 
 https://en.wikipedia.org/wiki/Document_Number_Nine

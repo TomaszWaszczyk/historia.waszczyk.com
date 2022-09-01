@@ -26,6 +26,10 @@ Years saying the same: EXIT THE EURO
 
 ---
 
+<img src="./img/august/kradziez.jpeg"><br><br>
+
+---
+
 ### 2021
 
 Wiceminister finansów Piotr Patkowski:
@@ -378,6 +382,14 @@ wspólnie ustalone przez Niemcy i Polskę.
 ### 1920
 
 <https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem>
+
+### 1827
+
+Reskrypt cara Wszechrusi Mikołaja I:
+
+> Chłopi pańszczyźniani i dworzanie nie powinni uczyć się w instytucjach wyższych, niż szkoły parafialne i powiatowe.
+
+<img src="./img/august/reskrypt.jpeg"><br><br>
 
 ### 12 n.e.
 

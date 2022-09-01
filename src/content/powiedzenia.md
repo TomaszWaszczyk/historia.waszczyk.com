@@ -3747,6 +3747,8 @@ Między umiejętnością a działaniem leży całe morze, a na jego dnie zbyt cz
 
 Sun Tzu napisał dawno temu o ekspertach i abonamentach: Człowiek zaradny nie jest do wynajęcia; kto zaś sobie nie radzi pragnie by ktoś najął go do pracy. Jeśli zatrudniam kogoś niezaradnego, to nie dlatego, że potrzeba mi niedojdy, ale dlatego, że niedojdzie potrzebny jestem ja
 
+"Women have always been the primary victims of War. Women lose their husbands, their fathers, their sons in combat." - Hillary Clinton, 1998
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -3,9 +3,47 @@ layout: post
 title: 1 września
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2020-09-01T10:00:00.000Z
+date: 2021-09-01T10:00:00.000Z
 tags:
   - Niemcy
+---
+
+### 2022
+
+Charts I'm watching in Europe:
+
+* EU10Y - Cost of EU borrowing is increasing.
+
+* EURUSD - Euro losing purchasing power.
+
+* Italy-Germany 10 year spread - Spreads rising = more pressure to use the TPI (ECB buys Italian bonds)
+
+* DAX - Market sentiment on rekt German industry
+
+I expect EU countries to be forced into massive stimulus **this winter** as folks struggle to afford food and energy.
+
+Issuance of debt will be at higher rates. Ultimately the ECB will be the buyer of the debt with printed Euros.
+
+Weak Euro = less purchasing power of imported energy.
+
+🇮🇹 Italy debt-to-GDP is > 150% and they're facing a wave of small business insolvency due to energy prices.
+
+Debt-to-GDP will worsen as tax receipts fall and social support increases.
+
+They won't afford interest payments on debt. ECB will print Euros to buy Italian debt.
+
+Repeat this scenario for multiple countries in the EU.
+
+All while the primary breadwinner (Germany) is looking at factory closures due to energy prices and trade deficits for the first time in recent history.
+
+---
+
+> Inflation is a process. Deflation is an event.
+
+---
+
+<img src="./img/september/newmap.jpg"><br><br>
+
 ---
 
 ### 2021

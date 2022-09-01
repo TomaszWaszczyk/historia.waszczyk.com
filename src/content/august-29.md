@@ -3,7 +3,7 @@ layout: post
 title: 29 sierpnia
 image: img/august/starzyludzie.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-29T10:00:00.000Z
+date: 2021-08-29T10:00:00.000Z
 tags:
   - CBDC
 draft: false
