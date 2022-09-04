@@ -3749,6 +3749,10 @@ Sun Tzu napisał dawno temu o ekspertach i abonamentach: Człowiek zaradny nie j
 
 "Women have always been the primary victims of War. Women lose their husbands, their fathers, their sons in combat." - Hillary Clinton, 1998
 
+„The desire of gold is not for gold. It is for the means of freedom and benefit“ Ralph Waldo Emerson (1803 - 1882)
+
+"Die Inflation kommt nicht über uns als ein Fluch oder als ein tragisches Geschick; sie wird immer durch eine leichtfertige oder sogar verbrecherische Politik hervorgerufen." -Ludwig Erhard
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
