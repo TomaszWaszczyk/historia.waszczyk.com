@@ -12,6 +12,12 @@ tags:
 
 Prawdopodobnie wchodzi w życie prawo na Ukrainie o możliwości kupowania przez osoby prawne gruntów.
 
+---
+
+Most people's chances of retiring disappeared in 2020.
+
+---
+
 ### 2022
 
 :D

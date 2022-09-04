@@ -150,6 +150,14 @@ Stefanik: Największa afera szpiegowska od lat. Francuski oficer NATO współpra
 
 ---
 
+### 2011
+
+Polish Default Swaps Level ‘Quite Absurd,’ Radziwill Says
+
+The cost to insure Poland’s government debt against non-payment is at a “quite absurd” level, according to Deputy Finance Minister Dominik Radziwill.
+
+Poland’s five-year credit-default swaps, which increase as the perception of the country’s creditworthiness deteriorates, widened last month to 236 basis points, the highest level since April 2009. The contracts rose 67 basis points in the past 12 months, the biggest increase among 20 emerging-market.
+
 ### 1990
 
 Komisja Krajowa NSZZ "Solidarność" odebrała Gazecie Wyborczej prawo do posługiwania się na stronie tytułowej logiem Solidarności oraz hasłem "Nie ma wolności bez Solidarności". Decyzję tę motywowano tym, iż GW jest wydawnictwem, które dyskredytuje i ośmiesza przewodniczącego Solidarności Lecha Wałęsę.

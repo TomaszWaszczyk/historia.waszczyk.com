@@ -8,6 +8,8 @@ tags:
   - Niemcy
 ---
 
+<!-- https://straty-wojenne.pl/ -->
+
 ### 2022
 
 Charts I'm watching in Europe:
@@ -36,6 +38,8 @@ Repeat this scenario for multiple countries in the EU.
 
 All while the primary breadwinner (Germany) is looking at factory closures due to energy prices and trade deficits for the first time in recent history.
 
+Europe has buildings, machines, knowledge and trust took many centuries to accumulate have been debased the last 50 years. How much longer before this accumulated capital has been spent down?
+
 <!-- Zmierzamy do klimatycznej katastrofy. Stąd między innymi wzięło się ESG: takie inwestowanie i zarządzanie przedsiębiorstwami, aby było ono spójne z ochroną środowiska naturalnego (environment), z wartościami społecznymi (social) i z praktyką zarządzania respektującą zasady ładu korporacyjnego i zrównoważonego rozwoju (governance). 
 W styczniu 2022 Larry Fink, szef BlackRocka w corocznym liście kierowanym do prezesów spółek portfelowych pisze o kapitalizmie interesariuszy (stakeholder capitalism). Pieniądze BlacRock będą wspierały te przedsiębiorstwa, które udowodnią posiadanie mierzalnych, wdrażalnych i realizowanych strategii dekarbonizacji, zrównoważonego rozwoju, zwiększenia roli pracowników. Larry Fink deklaruje przy tym: mówimy tak nie dlatego, że jesteśmy działaczami środowiskowymi. Mówimy to dlatego, że jesteśmy kapitalistami i powiernikami pieniędzy naszych klientów. Dodajmy, że wartość aktywów BlackRocka to jakieś 10-11 bilionów dolarów. Z grubsza 20 razy polski PKB. 
 Ale nie jest to takie proste. Rynki naprawdę rozwinięte już to wiedzą. Trwa dyskusja, jak ulepszyć podejście do ESG. Cele upakowane w skrócie ESG często dają w realizacji sprzeczne wobec siebie rezultaty. Zamknięcie kopalni jest dobre dla środowiska, ale złe dla pracowników, ich rodzin i dostawców. Farmy wiatraków i paneli solarnych produkują dobrą energię, ale czy możliwe jest ich instalowanie bez szkód ekologicznych? Agencje ratingowe stosują setki kryteriów do wytworzenia zbiorczej oceny pod kątem ESG, i w sposób nieuchronny są tam takie miary, których spełnienie oznacza negatywny wynik w innych. Co jeszcze? Brak jest niepodważalnych dowodów na to, że zorientowanie na ESG poprawia pozycję finansową i biznesową firmy, generując przy tym konkurencyjny zwrot z kapitału dla inwestorów, w porównaniu z inwestowaniem w dotychczasowy mainstream. Inwestorzy i analitycy rynku zauważają też, że opłaty pobierane przez zarządzających funduszami zbudowanymi w oparciu o ESG wzrosły, w porównaniu do klasycznych funduszy. I problem główny: jak to wszystko mierzyć, a raczej jak i czym zastąpić liczne metodyki i metodologie, które już są w obiegu, ale ich wartość jest znikoma, bo taki stan nie pozwala na miarodajne porównywanie biznesów pod kątem ESG. 
@@ -48,6 +52,10 @@ W Polsce pojawi się z pewnością inflacja rankingów, eventów, bankietów, ga
 ---
 
 <img src="./img/september/newmap.jpg"><br><br>
+
+---
+
+Na Ukrainie zaczyna się REPRYWATYZACJA!
 
 ---
 
