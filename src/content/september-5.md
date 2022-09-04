@@ -15,7 +15,7 @@ After cryptocurrencies, cryptocountries.
 
 ### 2021
 
-Paweł Borys prognozuje, kiedy stopy procentowe pójdą w górę. 
+Paweł Borys prognozuje, kiedy stopy procentowe pójdą w górę.
 
 > Raty kredytów mogą wzrosnąć o 200-300 zł.
 
@@ -161,6 +161,10 @@ Polish Default Swaps Level ‘Quite Absurd,’ Radziwill Says
 The cost to insure Poland’s government debt against non-payment is at a “quite absurd” level, according to Deputy Finance Minister Dominik Radziwill.
 
 Poland’s five-year credit-default swaps, which increase as the perception of the country’s creditworthiness deteriorates, widened last month to 236 basis points, the highest level since April 2009. The contracts rose 67 basis points in the past 12 months, the biggest increase among 20 emerging-market.
+
+### 1992
+
+<img src="./img/september/halamirowska92.jpeg"><br><br>
 
 ### 1990
 

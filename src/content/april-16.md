@@ -181,6 +181,12 @@ Jeszcze tego samego dnia Niemiecki Czerwony Krzyż otrzymał odpowiedź od prezy
 
 https://pl.wikipedia.org/wiki/Uk%C5%82ad_w_Rapallo
 
+W 1932 r. Rosjanie mieli największy eksport zboża w swojej historii. Pilnie potrzebowali pieniędzy na zbrojenia, aby razem z Hitlerem móc podzielić się Europą (16 kwietnia 1922 roku w Rapallo koło Genui sowiecka Rosja i Niemcy zawarły tajny układ o współpracy wojskowej).
+W Jednocześnie, rozkazem Stalina za pomocą okrutnego terroru z wyrokami śmierci włącznie, wywieziono z Ukrainy całe dostępne tam zboże, w tym przeznaczone na zasiew (obecnie próbują robić to samo).
+Zagłodzono wtedy na śmierć miliony Ukraińców.
+Piszę o tym tylko po to aby przypomnieć, że ci, którzy importowali to zboże, doskonale wiedzieli co się dzieje na Ukrainie!!!!!!
+Przypadek ? Nie sądzę. W polityce są tylko znaki. Poznawajmy i rozumnie je czytajmy. Dla własnego bezpieczeństwa. To co robią obecnie w Holandii i innych krajach może skutkować podobną hekatombą, na jeszcze większą skalę.
+
 ### 1871
 
 https://pl.wikipedia.org/wiki/Kaiserliche_Marine
