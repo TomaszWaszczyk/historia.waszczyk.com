@@ -3,10 +3,34 @@ layout: post
 title: 4 września
 image: img/september/katowice.jpg
 author: Tomasz Waszczyk
-date: 2020-09-04T10:00:00.000Z
+date: 2021-09-04T10:00:00.000Z
 tags:
   - Agenda 21
 ---
+
+### 2022
+
+Germany's ruling coalition has agreed to spend €65 billion on a new "inflation relief" package🚨
+
+Reactionary bailouts are needed at this point after a failure to take proactive measures on energy independence in the past.
+
+But when you read that headline twice, it makes you think.
+
+Trillions of excessive money printing and fiscal spending caused inflation to sizzle in the first place, long before the war.
+
+Now we are spending more money to fight inflation.
+
+<img src="./img/september/govdebt.jpeg"><br><br>
+
+Printing more money is a short term solution that will win political kudos amongst the masses, however, it essentially is kicking the can down the road and ultimately erodes future value.
+
+---
+
+Wykuwa się nowa wrażliwość polska i ukraińska. Ministrowi rządu RP Niedzielski nie przeszkadza, że jest podejmowany w pomieszczeniu, w którym wisi flaga OUN (minister przekazuje dary). Ukraińcy nie wahają się do takiej sali zaprosić ministra rządu RP.
+
+<img src="./img/september/oun.jpeg"><br><br>
+
+Przypomnę, że OUN odpowiedzialna jest nie tylko za ludobójstwo wołyńskie, ale także za zamordowanie ministra spraw wewnętrznych II RP Bronisława Pierackiego. Na zdjęciu jest także Konsul Generalna RP we Lwowie Eliza Dzwonkiewicz.
 
 ### 2021
 

@@ -8,6 +8,8 @@ tags:
   - Niemcy
 ---
 
+<!-- https://straty-wojenne.pl/ -->
+
 ### 2022
 
 Charts I'm watching in Europe:
@@ -36,6 +38,8 @@ Repeat this scenario for multiple countries in the EU.
 
 All while the primary breadwinner (Germany) is looking at factory closures due to energy prices and trade deficits for the first time in recent history.
 
+Europe has buildings, machines, knowledge and trust took many centuries to accumulate have been debased the last 50 years. How much longer before this accumulated capital has been spent down?
+
 ---
 
 > Inflation is a process. Deflation is an event.
@@ -43,6 +47,10 @@ All while the primary breadwinner (Germany) is looking at factory closures due t
 ---
 
 <img src="./img/september/newmap.jpg"><br><br>
+
+---
+
+Na Ukrainie zaczyna się REPRYWATYZACJA!
 
 ---
 

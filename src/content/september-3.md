@@ -3,9 +3,23 @@ layout: post
 title: 3 września
 image: img/september/wojna.png
 author: Tomasz Waszczyk
-date: 2020-09-03T10:00:00.000Z
+date: 2021-09-03T10:00:00.000Z
 tags:
   - Józef Bik
+---
+
+### 2022
+
+"Rosja proponuje własny międzynarodowy standard dla metali szlachetnych po tym, jak została zakazana przez London Bullion Market Association (LBMA). I może mieć stałą cenę w walutach krajowych."
+
+"Rosja proponuje też ustalanie cen metali szlachetnych w walutach narodowych kluczowych krajów członkowskich lub poprzez nową jednostkę monetarną – taką jak nowa waluta BRICS zaproponowana przez prezydenta Rosji Władimira Putina."
+
+---
+
+<img src="./img/september/biden.jpeg"><br><br>
+
+<img src="./img/september/communism.jpeg"><br><br>
+
 ---
 
 ### 2021
