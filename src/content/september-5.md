@@ -3,11 +3,15 @@ layout: post
 title: 5 września
 image: img/september/naszpremier.jpg
 author: Tomasz Waszczyk
-date: 2020-09-05T10:00:00.000Z
+date: 2021-09-05T10:00:00.000Z
 tags:
   - Eric Schmidt
 draft: false
 ---
+
+### 2022
+
+After cryptocurrencies, cryptocountries.
 
 ### 2021
 
