@@ -14,6 +14,15 @@ Ma sens, w sumie to ma sens, ciekawe co dalej:
 
 <img src="./img/november/germanyrestrictions.jpg"><br><br>
 
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/december/inflationlagarde.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2020
 
 <img src="./img/december/kato2020.jpg"><br><br>

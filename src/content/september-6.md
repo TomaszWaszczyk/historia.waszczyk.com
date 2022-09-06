@@ -3,10 +3,44 @@ layout: post
 title: 6 września
 image: img/september/buffalo.jpg
 author: Tomasz Waszczyk
-date: 2020-09-06T10:00:00.000Z
+date: 2021-09-06T10:00:00.000Z
 tags:
   - Georgette Mosbacher
 ---
+
+### 2022
+
+We're about to experience a sovereign debt crisis caused by the Europe energy crisis, all a capstone on the 100 year fiat expirement.
+
+<img src="./img/september/euusa.jpeg"><br><br>
+
+Here's how I think the next 6-8 months go down:
+
+Putin strongarms Europe by shutting off Energy pipelines, causing a spike in prices. This causes energy prices to skyrocket in Europe which is a major component of CPI - This causes inflation to explode higher. As CPI explodes higher, electricity prices get passed onto consumers. Eventually, at the risk of civil unrest/revolution over refusal to pay this, Euro government has two options:
+
+1. Give into Putin and let him have Ukraine and stop the sanctions to get energy flowing again
+
+2. Decide to deploy price caps on energy for consumers and print the difference. To achieve this I believe ECB needs to instill yield curve control to keep sovereign bond yields in tact and avoid fragmentation of EU sovereign bonds.
+
+The game theory I've ascribed to this makes me think that the West is too far deep into this mess to give into Putin and would rather print the difference. The saying goes no government ever willingly went broke through austerity. They will always resort to printing.
+
+Printing the difference through YCC is going to cause DXY to explode higher because 58% of DXY is the Euro. DXY to $150 dollar milkshake theory type shit. This dollar wrecking ball will cause emerging markets to begin potentially defaulting on their debt, forcing them to sell their US bonds to buy US dollars to defend their currencies. As EM's sell US bonds to amass dollars to defend their currencies, US bond yields will explode higher causing systemic risks in US markets as everything is priced off US treasuries. Something will break.
+
+The Fed then has two options to fix this which I believe they will explore both.
+
+- Swap lines with ECB and BOJ (they launched a standing swap line facility in July 2021 to make this easy.
+
+This allows them to easily lend dollars via central bank reserves to these central banks which will help bring down DXY and stabilize sovereign FX markets. They can then also use their new standing repo facility to provide overnight loans to stabilize funding/treasury markets on short duration bonds. (they're making sure the NY fed staff knows how to do this)
+
+The usage of this swap line facility and repo facility is net stimulative and will cause DXY to come down and markets to stabilize (though I believe everything will be nuking during this time as correlations go to 1 as insties unload risk to get their VaR's in line).
+
+In conclusion, I think we're at the end of a major sovereign bond bubble and this energy crisis is the catalyst. The Fed will be forced to stimulate or risk full implosion of the monetary system.
+
+What will be unique about this time Oil will still be going higher, not lower.
+
+<!-- As the game theory plays out, our goal is to find the optimal moment to long the fuck out of our favourite crypto ponzis. I see many takes from people who think QE is never coming again but it will, just under other names. Get ready to max long after this coming flush. -->
+
+(I see a non zero chance the US also has to employ yield curve control to keep yields in tact.)
 
 ### 2021
 

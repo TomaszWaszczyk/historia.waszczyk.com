@@ -164,6 +164,8 @@ Poland’s five-year credit-default swaps, which increase as the perception of t
 
 ### 1992
 
+Hala Mirowska:
+
 <img src="./img/september/halamirowska92.jpeg"><br><br>
 
 ### 1990

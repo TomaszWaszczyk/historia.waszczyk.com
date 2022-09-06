@@ -469,6 +469,8 @@ Odrzucaj je, jeśli okażą się błędne.
 10. Przejawiaj ciekawość i ufaj, że można się dogadać.
 Myśl raczej o tym, co się dzieje, a nie czyja to wina, i zatrzymaj się, gdy czujesz, że pogarszasz sytuację. -->
 
+<img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
