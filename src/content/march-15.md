@@ -67,6 +67,10 @@ Francuski fundusz gra pod wzrost stóp procentowych w Polsce. Inflacja za wysoka
 
 ---
 
+<img src="./img/march/nbpzloto.png"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/march/parkiet.jpg"/><br><br>
