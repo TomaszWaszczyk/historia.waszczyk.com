@@ -3,10 +3,18 @@ layout: post
 title: 7 września
 image: img/september/westerplatte.jpg
 author: Tomasz Waszczyk
-date: 2020-09-07T10:00:00.000Z
+date: 2021-09-07T10:00:00.000Z
 tags:
   - Borodino
 ---
+
+### 2022
+
+Energy bill increase of a German bakery. From 720€ to 2850€.
+
+<img src="./img/september/energybill.jpeg"><br><br>
+
+<img src="./img/september/USTreasuryYields.png"><br><br>
 
 ### 2021
 
@@ -35,6 +43,10 @@ Ani słowa o obecności na posiedzeniu PREZESA NBP. SĄ TYLKO WICEPREZESI.
 Prezes, w funkcji oddzielonej od przewodniczącego Rady, a więc wyłącznie w swej prezesowskiej capacity, jest więc na posiedzeniach RPP NIELEGALNIE.
 
 Jak ktoś upiera się, by siekierą rozdzielać funkcje prezesa od przewodniczącego, to może zafundować bankowi niezły pasztet. Nie lepiej po prostu przeprosić i obiecać, że więcej łamania blackoutu nie będzie?
+
+---
+
+<img src="./img/september/pandemia.jpeg"><br><br>
 
 ---
 

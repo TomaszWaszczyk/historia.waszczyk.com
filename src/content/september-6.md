@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 września
-image: img/september/buffalo.jpg
+image: img/september/powstanie.jpg
 author: Tomasz Waszczyk
 date: 2021-09-06T10:00:00.000Z
 tags:
@@ -82,7 +82,7 @@ Hecker, 54, had presented his credentials at China's foreign ministry on Aug. 24
 
 ### 2020
 
-    List napisany przez Prof. dr hab. Ryszarda Rutkowskiego 07.05.2020 Uniwersytet Medyczny w Białymstoku
+List napisany przez Prof. dr hab. Ryszarda Rutkowskiego 07.05.2020 Uniwersytet Medyczny w Białymstoku
 
 "List otwarty do:
 
@@ -112,7 +112,7 @@ SARS-cov-2, a nie inne, poważne schorzenia współwystępujące u zmarłych dop
 
 6. Skąd przekonanie Ministra Zdrowia i Premiera rządu, że długotrwałe (wg ministra Łukasza Szumowskiego trwające nawet dwa lata) przymusowe noszenia masek zakrywających usta i nos oraz istotne ograniczenie niezbędnej dla prawidłowego rozwoju psychomotorycznego dzieci, zdrowia młodzieży i seniorów aktywności fizycznej nie wywoła bardzo szkodliwych następstw zdrowotnych, a zwłaszcza znacznego upośledzenia ich naturalnej odporności immunologicznej? Czy pan minister Ł. Szumowski ma pełną świadomość następstw zdrowotnych zakazu wstępu dla ZDROWYCH DZIECI na place zabaw, do siłowni na świeżym powietrzu, na baseny, zmuszenia ich aby godzinami ślęczeli przed ekranami komputerów itd.?
 
-7.Skąd godna podziwu, jaskrawo sprzeczna z powszechną wiedzą medyczną wiara kardiologa, Ministra Zdrowia, że przewlekle, wielogodzinne noszenie maseczek w przestrzeni publicznej oraz miejscu pracy (lekarze, pielęgniarki, ratownicy medyczni, nauczyciele, policjanci, Straż Miejska itd.) nie spowoduje:
+7. Skąd godna podziwu, jaskrawo sprzeczna z powszechną wiedzą medyczną wiara kardiologa, Ministra Zdrowia, że przewlekle, wielogodzinne noszenie maseczek w przestrzeni publicznej oraz miejscu pracy (lekarze, pielęgniarki, ratownicy medyczni, nauczyciele, policjanci, Straż Miejska itd.) nie spowoduje:
 
 - szeregu poważnych schorzeń dermatologicznych w obrębie skóry twarzy i dłoni,
 
@@ -122,16 +122,15 @@ SARS-cov-2, a nie inne, poważne schorzenia współwystępujące u zmarłych dop
 
 8. Dlaczego podczas konferencji Ministra Zdrowia i Premiera rządu na temat sensu lub bezsensu wprowadzanych ograniczeń i restrykcji nie wypowiadają się NIEZALEŻNI EKSPERCI - lekarze i naukowcy,
 
-9.Dlaczego w mediach rządowych brakuje rzetelnych informacji naukowych na temat COVID-19 oraz NIE INFORMUJE SIĘ OSÓB MAJĄCYCH PROBLEMY ZDROWOTNE że NIE MUSZĄ CHODZIĆ W MASECZKACH* i policja nie ma najmniejszego prawa, aby straszyć ich mandatami ?"
+9. Dlaczego w mediach rządowych brakuje rzetelnych informacji naukowych na temat COVID-19 oraz NIE INFORMUJE SIĘ OSÓB MAJĄCYCH PROBLEMY ZDROWOTNE że NIE MUSZĄ CHODZIĆ W MASECZKACH* i policja nie ma najmniejszego prawa, aby straszyć ich mandatami ?"
 
-    Prof. dr hab. Ryszard Rutkowski Białystok 07.05.2020 
-    Uniwersytet Medyczny w Białymstoku
+Prof. dr hab. Ryszard Rutkowski Białystok 07.05.2020, Uniwersytet Medyczny w Białymstoku
 
 1.List napisany w maju 2020 roku, czy ktoś słyszał aby, adresaci listu raczyli odpowiedzieć na te proste pytania?
 
-2. Czy ktoś z Państwa słyszał o tym liście w mediach mainstreamowych?
+1. Czy ktoś z Państwa słyszał o tym liście w mediach mainstreamowych?
 
-3. Który z dziennikarzy, zainteresował się tym listem napisanym przez Profesora do Profesorów, lekarzy, ale także dziennikarzy?
+2. Który z dziennikarzy, zainteresował się tym listem napisanym przez Profesora do Profesorów, lekarzy, ale także dziennikarzy?
 
 jest jednak jeden niewątpliwy plus...dzieci nie musiały siedzieć w szkole.. i za to Panie Ministrze Panu dziękuję...
 
