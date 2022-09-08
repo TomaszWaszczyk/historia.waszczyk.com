@@ -3,10 +3,24 @@ layout: post
 title: 8 września
 image: img/september/krld.jpeg
 author: Tomasz Waszczyk
-date: 2020-09-08T10:00:00.000Z
+date: 2021-09-08T10:00:00.000Z
 tags:
   - Upadek
 draft: false
+---
+
+### 2022
+
+> Glapiński: Formalnie nie zakończyliśmy cyklu podwyżek stóp procentowych
+
+---
+
+Sometimes, there's a chart that just blows your hair back. Last week, institutional traders bought $8.1 billion worth of put options. They bought less than $1 billion in calls.
+
+This is 3x more extreme than 2008.
+
+<img src="./img/september/hedge.png"><br><br>
+
 ---
 
 ### 2021
