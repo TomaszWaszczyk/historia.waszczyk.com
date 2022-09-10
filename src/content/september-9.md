@@ -3,7 +3,7 @@ layout: post
 title: 9 września
 image: img/september/tarcza76.jpg
 author: Tomasz Waszczyk
-date: 2020-09-09T10:00:00.000Z
+date: 2021-09-09T10:00:00.000Z
 tags:
   - Tarcza 76
 draft: false

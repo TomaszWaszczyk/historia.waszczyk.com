@@ -3,10 +3,18 @@ layout: post
 title: 10 września
 image: img/september/mcdonald.jpg
 author: Tomasz Waszczyk
-date: 2020-09-10T10:00:00.000Z
+date: 2021-09-10T10:00:00.000Z
 tags:
   - McDonald
 ---
+
+### 2022
+
+Naprawdę dużo energii jest wkładane, żeby przekazać ludziom, że to nie są szkolenia, jednocześnie robiąc ludziom szkolenia jak to Pan Z. sam mówi "merytoryczne", gdzie rozumiem, że będzie mówił jak zarabiać na rynku (który się transformuje). I wydarzenie jest na zylion ludzi.
+
+Nowoczesne naganianie:
+
+<img src="./img/september/naganianienowoczesne.png"><br><br>
 
 ### 2021
 

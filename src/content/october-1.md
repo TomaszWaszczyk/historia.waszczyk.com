@@ -8,6 +8,12 @@ tags:
   - Sopot
 ---
 
+### 2022
+
+From October 1, Ukrainian women liable for military service will be prohibited from leaving the country - that is, the same restrictions will apply as for men liable for military service.
+
+This was announced by the lawyer of the Ministry of Defense Vladimir Smilka.
+
 ### 2021
 
 Protesty we Francji przeciwko segregacji (TVP milczy)
