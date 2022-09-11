@@ -27,6 +27,12 @@ Austriackie pielęgniarki podczas dzisiejszego protestu przeciw faszyzmowi sanit
 
 ---
 
+### 1973
+
+Chile's democratically elected government was overthrown by fascists with the help of the CIA.
+
+<img src="./img/september/chile.jpeg"><br><br>
+
 ### 1946
 
 W białostockim więzieniu Urzędu Bezpieczeństwa przy ulicy Kopernika 21 rozstrzelano 6 działaczy antykomunistycznych, członków stowarzyszenia Wolność i Niezawisłość. Był wśród nich 19- letni Marian Piekarski "Ryś" (zdjęcie) dowództwa patrolu dywersyjnego w batalionie "Moczary", uczestnik akcji uwolnienia 6 byłych żołnierzy Armii Krajowej osadzonych w areszcie w Suwałkach. Wydarzenie to miało miejsce 12 marca 1945 roku. Tego samego dnia zabity został również Aleksander Rybnik- prezes Okręgu Białystok WiN.
