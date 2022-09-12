@@ -3,7 +3,7 @@ layout: post
 title: 11 września
 image: img/september/jankazimierz.jpg
 author: Tomasz Waszczyk
-date: 2020-09-11T10:00:00.000Z
+date: 2021-09-11T10:00:00.000Z
 tags:
   - Związek Braterski
 draft: false
@@ -26,6 +26,10 @@ Austriackie pielęgniarki podczas dzisiejszego protestu przeciw faszyzmowi sanit
 <img src="./img/september/geimpft.jpeg"><br><br>
 
 ---
+
+### 2001
+
+<img src="./img/september/wtc.jpeg"><br><br>
 
 ### 1973
 

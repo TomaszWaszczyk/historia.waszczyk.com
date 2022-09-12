@@ -3,9 +3,25 @@ layout: post
 title: 12 września
 image: img/september/abbeville.jpg
 author: Tomasz Waszczyk
-date: 2020-09-12T10:00:00.000Z
+date: 2021-09-12T10:00:00.000Z
 tags:
   - Hamletyzm
+---
+
+### 2022
+
+7 years ago 55k Turkish Lira could buy a Volkswagen Golf.
+
+Today 55k Turkish Lira can’t even buy an iPhone.
+
+There is no better way to illustrate how harmful fiat inflation can be.
+
+<img src="./img/september/turkishlira.jpeg"><br><br>
+
+---
+
+<img src="./img/september/koteckirpp.jpeg"><br><br>
+
 ---
 
 ### 2021
@@ -19,8 +35,6 @@ Rafako to raciborska spółka specjalizująca się w produkcji instalacji do wyt
 Rafako popłynęło na kilku kontraktach, zbyt optymistycznie kalkulując ceny. W efekcie z trudem wywinęło się od bankructwa, wynegocjowało układ z wierzycielami i wychodzi na prostą. Tyle że, jako się rzekło, nie ma normalnego właściciela, bo nadzorca nie ma prawa wykonywać obowiązków właścicielskich.
 
 Od pół roku spółką zarządza Radosław Domagalski-Łabędzki, którego rada nadzorcza wybrała ze względu na jego dobre kontakty z obecną władzą. Jako człowiek Morawieckiego, który był przy nim wiceministrem rozwoju, a potem rozwijał się na kolejnych stanowiskach w instytucjach państwowych i spółkach Skarbu Państwa – w KNF, jako prezes KGHM, członek zarządu Polskiej Grupy Zbrojeniowej – wydawało się, że może Rafako pomóc swoimi kontaktami. Na początku tego roku przeszedł do Rafako i od tego czasu zabiega o to, by państwo uratowało raciborską spółkę. Bo z niewyjaśnioną sytuacją właścicielską Rafako nie może startować w przetargach ani podejmować się dużych zleceń. Żaden bank nie da jej większych pieniędzy, nie wiedząc, co stanie się ze spółką. Agencja Rozwoju Przemysłu dała wprawdzie 100 mln zł kredytu, ale nie rozwiązała problemu własnościowego.
-
-
 
 ### 1939
 
@@ -54,6 +68,12 @@ We Lwowie urodził się Stanisław Lem, prozaik, eseista, satyryk, najsłynniejs
 ### 1919
 
 https://en.wikipedia.org/wiki/Gold_fixing
+
+### 1883
+
+Jan Sobieski pod Wiedniem
+
+<img src="./img/september/sobieski_pod_wiedniem.jpg"><br><br>
 
 ### 1733
 
