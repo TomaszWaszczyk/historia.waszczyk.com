@@ -3,10 +3,27 @@ layout: post
 title: 13 września
 image: img/september/sumabilansowa.png
 author: Tomasz Waszczyk
-date: 2020-09-13T10:00:00.000Z
+date: 2021-09-13T10:00:00.000Z
 tags:
   - GOLD
 draft: false
+---
+
+### 2022
+
+> Premier ogłosił podniesienie płacy minimalnej z 3010 zł do poziomu 3600 zł od 1 lipca 2023 roku (wzrost o 19,6%)
+
+...
+
+<video width="640" height="480" controls>
+<source src="./movies/september/polskainflacja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/september/kosztenergii.jpeg"><br><br>
+
 ---
 
 ### 2021
