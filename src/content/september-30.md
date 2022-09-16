@@ -20,6 +20,13 @@ Zmarł Kornel Morawiecki, fizyk, nauczyciel akademicki, działacz opozycji antyk
 
 <img src="./img/september/morawieckisb.jpg"><br><br>
 
+### 2010
+
+<video width="640" height="480" controls>
+<source src="./movies/september/jaroslaworosji.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2006
 
 Zlikwidowane zostały Wojskowe Służby Informacyjne- służba specjalna Rzeczposolitej Polskiej założona w roku 1991. Oficjalnie wykonywała ona zadania na rzecz Sił Zbrojnych RP z zakresu wywiadu oraz kontrwywiadu wojskowego. Nieofijalnie WSI, według opublikowanego przez Antoniego Macierewicza raporty były organizacją przestępczą działającą na szkodę Polski. Według zapisów tym samym dokumencie stwierdzono również, że WSI dopuszczały się bezprawnych działań w mediach, świecie polityki i biznesie.

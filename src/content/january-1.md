@@ -109,6 +109,10 @@ Zagłuszanie RWE prowadzono poza granicami Polski. Główne zagłuszarki o mocy 
 Podobnych sprytnych modyfikacji było do roku 1988 jeszcze bardzo dużo.
 Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
+### 1982
+
+<img src="./img/january/placaminimalna.jpeg"><br><br>
+
 ### 1967
 
 https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik

@@ -3,15 +3,36 @@ layout: post
 title: 15 września
 image: img/september/lehman.jpg
 author: Tomasz Waszczyk
-date: 2020-09-15T10:00:00.000Z
+date: 2021-09-15T10:00:00.000Z
 tags:
   - Lehman
 draft: false
 ---
 
+### 2022
+
+<img src="./img/september/ethmerge.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/september/agenturaputina.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+> „Żydzi martwią się o przyszłość Rosji”
+
+– powiedział Pinchas Goldschmidt, były naczelny rabin Moskwy.
+
+I radzi rosyjskim Żydom, aby opuścili Rosję, zanim będzie za późno.
+
+<img src="./img/september/pinchas.jpeg"><br><br>
+
 ### 2020
 
-PARIS,France 
+PARIS, France
 
 ​Societe Generale – Forgehas selected the Tezos blockchain for Central Bank Digital Currency(CBDC)experiments. OnJuly20,2020, Banquede France selected Societe Generale – Forgeaspart of its call for applications to experiment the use of Central Bank Digital Currency for interbank settlements. The experiment will explore the feasibility of financial securities being digitally settled and delivered in Central Bank Digital Currency.
 

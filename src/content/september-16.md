@@ -3,10 +3,22 @@ layout: post
 title: 16 września
 image: img/september/rosjajaponia.jpg
 author: Tomasz Waszczyk
-date: 2020-09-16T10:00:00.000Z
+date: 2021-09-16T10:00:00.000Z
 tags:
   - Komitet Rady Ministrów ds. Cyfryzacji
 draft: false
+---
+
+### 2022
+
+> Kto nie gasi światła, ten robi prezent Putinowi
+
+– powiedział w piątek wicemister klimatu i środowiska Ireneusz Zyska.
+
+---
+
+<img src="./img/september/world.jpeg"><br><br>
+
 ---
 
 ### 2020
@@ -31,7 +43,7 @@ The extraordinary rescue package assembled by Angela Merkel’s government, whic
 
 ---
 
-Przyklad labilności słabego społeczeństwa:
+Przykład labilności słabego społeczeństwa:
 
 > „W związku z podejrzeniem, że komunikaty Sanepidu mogą negatywnie wpływać na zachowania społeczne i przyczyniać się do eskalacji zjawiska psychozy strachu oraz do wywoływania stanów lękowych u wielu osób, od dnia dzisiejszego zaprzestajemy ich publikowania...”
 
