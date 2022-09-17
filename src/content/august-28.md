@@ -10,6 +10,12 @@ tags:
 
 ### 2022
 
+---
+
+<img src="./img/august/hoon.jpeg"><br><br>
+
+---
+
 Przewidywania Tomka:
 
 1. Ceny energii spowodują nagły wzrost cen - do produkcji wszystkiego potrzebna jest energia.

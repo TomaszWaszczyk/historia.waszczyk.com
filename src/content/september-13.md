@@ -26,6 +26,19 @@ Your browser does not support the video tag.
 
 ---
 
+Reparacje:
+
+1. https://www.dropbox.com/s/m5ajjug6yjdgzf7/Raport-PL-tom1.pdf?dl=0
+2. https://www.dropbox.com/s/xwww19moor8dwdw/Raport-PL-tom2.pdf?dl=0
+3. https://www.dropbox.com/s/rmjiey5tpql6lz3/Raport-PL-tom3.pdf?dl=0
+4. https://www.dropbox.com/s/z1wnneydwlo8m87/Report-EN-part1.pdf?dl=0
+5. https://www.dropbox.com/s/iqjy81yjd3uxinv/Report-EN-part2.pdf?dl=0
+6. https://www.dropbox.com/s/gkrxdnylo630hnz/Report-EN-part3.pdf?dl=0
+
+
+
+---
+
 ### 2021
 
 Merkel goes to Moscow?
