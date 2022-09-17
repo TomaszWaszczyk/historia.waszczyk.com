@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 18 września
-image: img/september/rada.jpg
+image: img/september/ruscylech.jpeg
 author: Tomasz Waszczyk
-date: 2020-09-18T10:00:00.000Z
+date: 2021-09-18T10:00:00.000Z
 tags:
   - FIAT Money
 draft: false
@@ -27,7 +27,7 @@ Its a shell game, there is no pea (IOU) under any shell; and the shells must nev
 
 ---
 
-Global government bond yields are approaching zero fast; a growing proportion are actually negative. 
+Global government bond yields are approaching zero fast; a growing proportion are actually negative.
 
 Yes, that's global.
 
@@ -80,6 +80,12 @@ Włochy, Hiszpania, Francja, kraje afrykańskie
 Kultury powściągliwe unikają kontaktu wzrokowego, zachowują o wiele większy dystans, mówią ciszej, a sama cisza nie jest dla nich krępująca. Ludzie  z tej kultury ograniczają gestykulację i mimikę oraz nie lubią być dotykani, stąd partnerzy z kultur ekspresyjnych odbierają ich często jako ludzi fałszywych, nie chcących z nimi współpracować.
 Powściągliwe nacje zaś to:
 Głównie kraje azjatyckie -->
+
+### 1993
+
+Prezydent Lech Wałęsa przyjął od generała Leonida Kowalowa meldunek o zakończeniu wycofywania wojsk rosyjskich z Polski. Ostatni żołnierze opuścili Polskę 18 września 1993 r.
+
+<img src="./img/september/ruscylech.jpeg"><br><br>
 
 ### 1931
 
