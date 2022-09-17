@@ -16,6 +16,12 @@ Nowoczesne naganianie:
 
 <img src="./img/september/naganianienowoczesne.png"><br><br>
 
+---
+
+Zakład z Tomaszem G. o to, że inflacja na koniec roku 2023 będzie większa niż inflacja z roku 2022.
+
+---
+
 ### 2021
 
 Central bank digital currency: the future starts today
