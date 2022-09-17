@@ -18,7 +18,7 @@
     "@emotion/core": "10.1.1",
     "@emotion/styled": "10.0.15",
     "classnames": "2.2.6",
-    "cssnano": "4.1.10",
+    "cssnano": "4.1.11",
     "emotion": "11.0.0",
     "emotion-server": "11.0.0",
     "gatsby": "2.32.13",
