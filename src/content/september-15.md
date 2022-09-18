@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/september/ethmerge.jpeg"><br><br>
 
+<img src="./img/september/ethwef.jpeg"><br><br>
+
 ---
 
 <video width="640" height="480" controls>

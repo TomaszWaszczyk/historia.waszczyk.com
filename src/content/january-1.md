@@ -113,6 +113,8 @@ Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
 <img src="./img/january/placaminimalna.jpeg"><br><br>
 
+<img src="./img/january/premia_dolara_do_pln.jpeg"><br><br>
+
 ### 1967
 
 https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik

@@ -40,6 +40,10 @@ Your browser does not support the video tag.
 
 <img src="./img/december/zodiac.jpeg"><br><br>
 
+### 2017
+
+<img src="./img/december/wefbitcoin.jpeg"><br><br>
+
 ### 1965
 
 „Ogromnie mnie osobiście krępuje cała ta ‘otoczka’, która nieustannie robi z nas ‘bohaterów’. Te wielkie manifestacje, które towarzyszą przy sadzeniu drzewka w Jerozolimie, ta wielka uroczystość, jaka odbywa się w Izraelu, to bardzo jest krępujące dla osób mego pokroju, które nie uważają się za wielkich ludzi, ani za bohaterów. Robiliśmy to jako rzecz zupełnie normalną, w myśl zasady, że jak człowiek tonie, to ten drugi musi mu podać rękę, lub choć mały palec. To podkreślanie nadzwyczajności naszych prac jest żenujące. Żyd, Francuz, Niemiec to przecież tacy sami ludzie,jak my. Tylko taka idea przyświecała nam. To, co robiliśmy wypływało z potrzeby serc”. Irena Sendlerowa
