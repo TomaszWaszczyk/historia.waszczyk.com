@@ -43,6 +43,12 @@ W środę publikacja artykułu z tej okazji, gdzie opisujemy trzy najlepsze setu
 
 ### 1939
 
+Już 9 września 1939 zaczęto się zastanawiać nad możliwością opuszczenia kraju przez kierownictwo cywilne i wojskowe właśnie przez Rumunię do Francji – podkreślał prof. Piotr Rozwadowski. – Były to zresztą sugestie ze strony ambasadora Francji.
+
+**Prezydent RP Ignacy Mościcki, Naczelny Wódz Edward Śmigły-Rydz i premier RP Felicjan Sławoj Składkowski wraz z rządem przekroczyli w późnych godzinach wieczornych granicę z Rumunią, gdzie zostali internowani.**
+
+---
+
 <img src="./img/september/deportacje.jpg"><br><br>
 
 ---
