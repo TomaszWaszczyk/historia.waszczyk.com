@@ -117,6 +117,18 @@ Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
 https://pl.wikipedia.org/wiki/Kapitan_%C5%BBbik
 
+### 1956
+
+To właśnie w 1956 r. niemiecki filozof żydowski Günther Anders napisał tę wstępną refleksję:
+
+„Aby zawczasu zdusić jakąkolwiek rewoltę, należy przede wszystkim nie podchodzić do tego w sposób brutalny. Archaiczne metody, takie jak te Hitlera, są wyraźnie przestarzałe. Wystarczy stworzyć kolektywne uwarunkowanie tak silne, że sama idea buntu jest nie przyjdzie jeszcze bardziej do głowy mężczyzn. Ideałem byłoby formowanie jednostek od urodzenia poprzez ograniczanie ich wrodzonych zdolności biologicznych...
+Następnie kontynuowalibyśmy warunkowanie poprzez drastyczne obniżenie poziomu i jakości edukacji, aby przywrócić ją do formy integracji zawodowej. Osoba niewykształcona ma tylko ograniczony horyzont myślowy i im bardziej jego myśl ogranicza się do materialnych, przeciętnych trosk, tym mniej może się buntować. Musimy zadbać o to, by dostęp do wiedzy stawał się coraz trudniejszy i elitarny… by pogłębiała się przepaść między ludźmi a nauką, by informacje przeznaczone dla ogółu były znieczulane na wszelkie treści o charakterze wywrotowym. Przede wszystkim brak filozofii. Tutaj znowu musimy użyć perswazji, a nie bezpośredniej przemocy: będziemy nadawać masowo, za pośrednictwem telewizji, ogłupiającą rozrywkę, zawsze schlebiającą emocjom, instynktownym.
+Zajmiemy umysły tym, co daremne i zabawne. Dobrze jest z paplaniną i nieustanną muzyką, aby umysł nie zastanawiał się, nie myślał, zastanawiał się.
+Seksualność zostanie umieszczona na czele ludzkich zainteresowań. Jako znieczulenie społeczne nie ma nic lepszego. Ogólnie rzecz biorąc, postaramy się odrzucić powagę egzystencji, wyszydzić wszystko, co ma wysoką wartość, stale przepraszać za lekkość; aby euforia reklamy, konsumpcji stała się standardem ludzkiego szczęścia i wzorem wolności.
+Uwarunkowanie w ten sposób samo z siebie wytworzy taką integrację, że jedyną obawą (którą trzeba będzie podtrzymywać) będzie strach przed wykluczeniem z systemu, a tym samym brakiem dostępu do warunków materialnych niezbędnych do szczęścia. Tak wytworzony człowiek masowy musi być traktowany jako to, czym jest: produktem, cielęciem i musi być nadzorowany jak stado. Wszystko, co usypia przytomność umysłu, duch krytyczny jest społecznie dobre, wszystko, co może go obudzić, musi być zwalczane, wyśmiewane, tłumione...
+Każda doktryna kwestionująca system musi najpierw zostać oznaczona jako wywrotowa i terrorystyczna, a ci, którzy ją wspierają, muszą być następnie tak traktowani.
+Gunther Anders "starzenie się człowieka" 1956" Via Stephanie VibraSens
+
 ### 1952
 
 https://pl.wikipedia.org/wiki/Pierwsza_Konferencja_Metodologiczna_Historyk%C3%B3w_Polskich
