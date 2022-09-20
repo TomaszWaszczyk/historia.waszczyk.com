@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1 stycznia
-image: img/january/wolna-europa.jpg
+image: img/january/premia_dolara_do_pln.jpeg
 author: Tomasz Waszczyk
 date: 2021-01-01T10:00:00.000Z
 tags:
@@ -107,6 +107,9 @@ Kolejna tura rozmów w Magdalence. Ustalono, że rozmowy okrągłego stołu rozp
 Działanie to było prowadzone od roku 1952 czyli już trzy lata po uruchomieniu tej rozgłośni.
 Zagłuszanie RWE prowadzono poza granicami Polski. Główne zagłuszarki o mocy dwukrotnie większej niż nadajniki RWE zainstalowano w Samarze, Nikołajewie, Leningradzie oraz Wilnie, ale również i samej Warszawie i Raszynie. Do zakłócania sygnału stosowano urządzenia produkcji polskiej, tak zwane "Szmitówki" nazwane tak od nazwiska ich konstruktora. Tak było do roku 1956. Później zagłuszanie programów nadawanych do Polski prowadzono już wyłącznie z terenu ZSRR i innych państw socjalistycznych: z Bułgarii - do kwietnia 1962, z Węgier - do marca 1963, z Rumunii - do września 1963, z Czechosłowacji - do maja 1964. Gdy w marcu 1970 Warszawa wystąpiła z ostrymi atakami pod adresem RWE z powodu wypaczonego obrazu polsko-zachodnioniemieckich rozmów rządowych, to w grudniu 1970 Polska zaczęła nadawać "programy muzyczne" (Trójkę PR) na falach RWE. Jednakże ze względu na słabe pokrycie kraju sygnałem zakłócającym trzeba było szukać innego rozwiązania technicznego. Państwowa Inspekcja Radiowa dostała wówczas polecenie sprawdzenia jakości odbioru polskich audycji Radia Moskwa w Polsce, a następnie w oparciu o wyniki polskiego nasłuchu (zleconego rozgłośniom Polskiego Radia), w Moskwie podjęto decyzję o włączeniu do zagłuszania Rozgłośni Polskiej RWE wytypowanych nadajników krótkofalowych ZSRR. Treścią zagłuszającą audycje RWE były nagrania różnych zespołów, począwszy od folklorystycznych aż po jazzowe, zrealizowane w Polskim Radiu. Fonogramy i kilka magnetofonów studyjnych Polskie Radio przekazało Międzymiastowej Stacji Telefonicznej w Warszawie przy ul. Nowogrodzkiej. Stamtąd „program muzyczny” odgrywany na magnetofonach szedł kablem do Moskwy i dalej do nadajników emitujących na Polskę.
 Podobnych sprytnych modyfikacji było do roku 1988 jeszcze bardzo dużo.
+
+<img src="./img/january/wolna-europa.jpg"><br><br>
+
 Na zdjęciu demontaż zagłuszarki w Wilnie, kwiecień 1989.
 
 ### 1982

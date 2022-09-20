@@ -103,6 +103,12 @@ Sytuacja słuzby zdrowia (lek. med. Bartek Fiałek):
 Your browser does not support the video tag.
 </video>
 
+---
+
+### 1958
+
+<img src="./img/december/1958.jpeg"><br><br>
+
 ### 1941
 
 Na terenie całej Rzeszy weszło w życie nowe prawo dla Polaków i Żydów zamieszkujących jej obszar. Czytamy w nim między innymi:

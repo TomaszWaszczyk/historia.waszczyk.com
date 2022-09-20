@@ -3,10 +3,24 @@ layout: post
 title: 21 września
 image: img/september/umgang.jpg
 author: Tomasz Waszczyk
-date: 2020-09-21T10:00:00.000Z
+date: 2021-09-21T10:00:00.000Z
 tags:
   - HSBC
 draft: false
+---
+
+### 2022
+
+<img src="./img/september/bitcoindoom.jpg"><br><br>
+
+<img src="./img/september/ciezkieczasy.jpg"><br><br>
+
+---
+
+<img src="./img/september/globalbonds.png"><br><br>
+
+<img src="./img/september/money_tree.jpeg"><br><br>
+
 ---
 
 ### 2021

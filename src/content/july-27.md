@@ -8,6 +8,10 @@ tags:
   - Propaganda
 ---
 
+### 2022
+
+<img src="./img/july/omicron.jpeg"><br><br>
+
 ### 2020
 
 Okładka The Economist nawiązująca do kolejnych pakietów pomocowych w USA i innych częściach świata. W UE negocjowano o 750 mld euro pakietu na odbudowę, a w USA Trump wspomina już o kolejnym pakiecie pomocowym, a jego doradcy ekonomiczni chcą naciskać na obniżenie podatku od wynagrodzeń i wdrożenie innych środków, które skłoniłyby pracodawców do podtrzymania zatrudnienia. Jakie to przyniesie skutki dla świata i rynków finansowych? Pewnie sensowne wnioski wyciągniemy za kilka lat :)

@@ -93,6 +93,10 @@ Buy Bitcoin -->
 
 ---
 
+### 2010
+
+<img src="./img/april/gazrosyjski.jpeg"><br><br>
+
 ### 1870
 
 https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Lenin
