@@ -3,11 +3,15 @@ layout: post
 title: 23 września
 image: img/september/indeks.png
 author: Tomasz Waszczyk
-date: 2020-09-23T10:00:00.000Z
+date: 2021-09-23T10:00:00.000Z
 tags:
   - Widerstand
 draft: false
 ---
+
+### 2022
+
+Von der Leyen threatens the Italians: "We will see the result of the vote in Italy. If things go in a difficult direction, we have tools, as in the case of Poland and Hungary." A desperate attempt to influence the vote in Italy that runs towards the far right. Game over Ursula!
 
 ### 2021
 

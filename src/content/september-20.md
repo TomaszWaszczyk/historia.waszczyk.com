@@ -13,6 +13,12 @@ draft: false
 
 <img src="./img/september/zakazy.jpeg"><br><br>
 
+---
+
+<img src="./img/september/szczepienia.jpg"><br><br>
+
+---
+
 ### 2021
 
 Those who are pointing out the #stagflation risk are vindicated this morning. While the evergrande crisis puts global growth at risk, we are getting not so good news on the #inflation front from Europe. Indeed, price pressure keeps rising in the #1 europan economy as German producer prices (PPI) jumped 12% YoY in August, most since 1974, mainly driven by energy and intermediate product prices. Meanwhile, prices of consumer goods are also increasingly on the rise. The bond market seems more concerned about #deflationary risk which might arise from #china as the Bund is down -3bps, deep into negative territory at -31bps.
@@ -77,6 +83,12 @@ Na zdjęciu Maria Cetys.
 ### 1920
 
 https://pl.wikipedia.org/wiki/Bitwa_nad_Niemnem
+
+---
+
+<img src="./img/september/sadpolowy.jpeg"><br><br>
+
+---
 
 ### 1655
 

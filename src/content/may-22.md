@@ -13,6 +13,25 @@ draft: false
 
 <img src="./img/may/hipokryzja.jpeg"><br><br>
 
+---
+
+Christine Lagarde, prezes Europejskiego Banku Centralnego, ponownie wypowiedziała się na temat kryptowalut. Stwierdziła, że te są „oparte na niczym” i powinny być tak uregulowane, aby odciągnąć inwestorów od spekulacji za ich pomocą przy częstym używaniu do tego swoich oszczędności życia.
+Christine Lagarde ostrzega przed kryptowalutami
+
+Lagarde była gościem holenderskiej telewizji. W czasie wywiadu powiedziała, że obawia się o ludzi, którzy nie mają pojęcia o ryzykach związanych z inwestycjami w kryptowaluty, a mimo tego lokują na tym rynku oszczędności. Jej zdaniem to powód, by uregulować branżę blockchaina.
+
+– Według mojej bardzo skromnej oceny, kryptowaluty nie są nic warte, nie mają żadnego oparcia ani ukrytego zasobu, który działałby jako kotwica bezpieczeństwa – powiedziała.
+
+Przyznała, że sama nie posiada ani jednego bitcoina. W cyfrowe aktywa inwestuje jednak… jej syn.
+
+– Jest wolnym człowiekiem – stwierdziła szefowa EBC.
+
+Sytuacja przypomina więc tą sprzed paru lat – dotyczącą Jamie’ego Dimona, CEO JP Morgan. Szef jednego z największych banków w USA krytykował kryptowaluty i uważał, że są bezwartościowe. Tyle że – jak sam przyznał – w tym samym czasie inwestowała w nie jego córka.
+
+Podobny konflikt o kryptowaluty toczył ze swoim synem inwestor z rynku złota Peter Schiff. Spencer Schiff otwarcie krytykował ojca na Twitterze za to, że ten uparcie atakuje BTC.
+
+---
+
 ### 2020
 
 "W Polsce jeszcze tego nie widać, ale np. w Wielkiej Brytanii zmienia się dyskusja o rynku pracy. Wcześniej podział był na wykwalifikowanych i niewykwalifikowanych pracowników. W tej chwili podział przebiega wzdłuż pojęć „essential” (niezbędni) i „non-essential” (zbędni). I okazuje się, że ci, którzy zarabiają najwięcej, jak traderzy walutowi czy finansiści, należą do tej drugiej grupy. Ich praca nie ma kluczowego znaczenia dla funkcjonowania gospodarki w głębokim kryzysie. Co innego praca śmieciarzy, kasjerów, pielęgniarek, którzy zarabiają znacznie mniej, a bez nich zupełnie byśmy sobie nie poradzili. Zmiana postrzegania ich roli może przynieść wiele dobrego. Młodzi ludzie, zastanawiając się, na jakie studia pójść, będą coraz częściej wybierać te kierunki, które przysłużą się najlepiej społeczeństwu. Każdy przecież chce być w jakiś sposób „niezbędny”. Mam nadzieję, że takie myślenie rozprzestrzeni się na więcej krajów".

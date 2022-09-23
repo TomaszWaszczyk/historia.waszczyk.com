@@ -3,10 +3,18 @@ layout: post
 title: 22 września
 image: img/september/kapitalacjalwowa.jpg
 author: Tomasz Waszczyk
-date: 2020-09-22T10:00:00.000Z
+date: 2021-09-22T10:00:00.000Z
 tags:
   - Ursula von der Leyen
 draft: false
+---
+
+### 2022
+
+Mobilizacja wojskowa w Rosji:
+
+<img src="./img/september/moskowdubai.jpeg"><br><br>
+
 ---
 
 ### 2021
