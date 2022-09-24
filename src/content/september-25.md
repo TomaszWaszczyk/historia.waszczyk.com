@@ -3,11 +3,15 @@ layout: post
 title: 25 września
 image: img/september/lotnisko.jpg
 author: Tomasz Waszczyk
-date: 2020-09-25T10:00:00.000Z
+date: 2021-09-25T10:00:00.000Z
 tags:
   - Pekin-Daxing
 draft: false
 ---
+
+### 2022
+
+<img src="./img/september/ftdebt.jpeg"><br><br>
 
 ### 2021
 

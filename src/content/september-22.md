@@ -17,6 +17,12 @@ Mobilizacja wojskowa w Rosji:
 
 ---
 
+2022/05/22 - JP morgan: Bitcoin jest niedowartościowany
+
+2022/09/22 - Prezes JP Morgan: "Krypto jest schematem ponzi"
+
+---
+
 ### 2021
 
 <img src="./img/september/bankgermany1.jpeg"><br><br>
