@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/september/ftdebt.jpeg"><br><br>
 
+<img src="./img/september/italia.jpeg"><br><br>
+
 ### 2021
 
 <a href="./documents/september/Modern_Money_Mechanics.pdf" target="_blank">Modern Money Mechanics</a>

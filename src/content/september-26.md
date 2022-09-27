@@ -3,10 +3,35 @@ layout: post
 title: 26 września
 image: img/september/zatrzymania.jpg
 author: Tomasz Waszczyk
-date: 2020-09-26T10:00:00.000Z
+date: 2021-09-26T10:00:00.000Z
 tags:
   - Karpathen-Öl AG
 draft: false
+---
+
+### 2022
+
+Krótka nitka o mobilizacji zawodów medycznych w Rosji
+
+Powołanie odbywa się na dwa sposoby:
+1) w nocy przychodzą do domu i dają 10-30 minut na spakowanie się
+2) przychodzą do pracy i biorą od ręki w kamasze
+
+Nikogo nie interesuje czy osoby zmobilizowane mają dzieci pod opieką: znany jest przypadek zabrania w nocy, z domy matki  i ojca ( oboje lekarze) którzy mieli nastoletnie dzieci - nie jest to problem dla SZ RUS tylko problem dzieci. W kwestii zabierania z pracy, nikogo nie interesuje czy szpital, przychodnie etc będzie normalnie funkcjonować: zabierali z prosto z pracy:
+dentystów, neurochirurgów, położne(!). W temacie funkcjonowania placówek medycznych:
+znalazłem przypadek w którym zabrano 35 pracowników medycznych z jednego miejsca czy taki jak w miejscowości Czyta: 11 na 26 pracowników szpitala - powołane. W Koworowie natomiast - kardiochirurg i 3 lekarki.
+Generalnie mobilizują najwięcej: specjalności ze słowem "chirurg" na końcu, anestezjologów, pielęgniarki i pielęgniarzy czy sanitariuszy ( prosto z karetki - dwa przypadki znalazłem).
+
+Studenci mieli być zwolnienie z mobilizacji: biorą i wykładowców akademickich i studentów medycyny.
+Biorą też pracowników fabryk leków np. Skilfie w Moskwie. Wiek powołanych? Od studentów 5 roku medycyny po chorego na raka 59 latka.
+Najciekawsze jest to że głównie lekarzy biorą z Moskwy i Petersburga (przynajmniej taki obraz się wyłania z wpisów w social mediach).
+
+---
+
+> „od dziennikarzy głupsi są tylko aktorzy”
+
+<img src="./img/september/borysszyc.jpeg"><br><br>
+
 ---
 
 ### 2021

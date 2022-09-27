@@ -3753,6 +3753,10 @@ Sun Tzu napisał dawno temu o ekspertach i abonamentach: Człowiek zaradny nie j
 
 "Die Inflation kommt nicht über uns als ein Fluch oder als ein tragisches Geschick; sie wird immer durch eine leichtfertige oder sogar verbrecherische Politik hervorgerufen." -Ludwig Erhard
 
+"Prawda nas wyzwoli, nikt nie mówił że nas ucieszy" - Demony Zemsty, Adam Przechrzta
+
+The More Laws, The Less Justice.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
