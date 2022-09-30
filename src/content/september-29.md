@@ -3,11 +3,30 @@ layout: post
 title: 29 września
 image: img/september/kurek.jpg
 author: Tomasz Waszczyk
-date: 2020-09-29T10:00:00.000Z
+date: 2021-09-29T10:00:00.000Z
 tags:
   - Sonda
 draft: false
 ---
+
+### 2022
+
+<img src="./img/september/boe.jpeg"><br><br>
+
+---
+
+<img src="./img/september/splacanywdzieciach.png"><br><br>
+
+---
+
+Dodruku pieniądza przez NBP nie widać w bankomacie.
+Ale widać w wykresie pokazującym płynność banków.
+Ta urosła przez tarcze covid o ok 150 mld zł.
+Po prostu NBP skupił emitowane wtedy obligacje za ok 150 mld zł.
+
+<img src="./img/september/dodruk.jpeg"><br><br>
+
+Na wykresie wyniki OOR. Jak banki lokowały nadmiar gotówki w NBP.
 
 ### 2021
 

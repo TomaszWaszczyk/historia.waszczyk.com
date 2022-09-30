@@ -3,10 +3,15 @@ layout: post
 title: 30 września
 image: img/september/wsi.jpg
 author: Tomasz Waszczyk
-date: 2020-09-30T10:00:00.000Z
+date: 2021-09-30T10:00:00.000Z
 tags:
   - WSI
 ---
+### 2022
+
+> systemowo ważny
+
+<img src="./img/september/pieskow.jpg"><br><br>
 
 ### 2020
 

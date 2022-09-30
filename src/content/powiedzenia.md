@@ -3757,6 +3757,8 @@ Sun Tzu napisał dawno temu o ekspertach i abonamentach: Człowiek zaradny nie j
 
 The More Laws, The Less Justice.
 
+Ignorancja jest marką paniki, wiedza matką spokoju.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

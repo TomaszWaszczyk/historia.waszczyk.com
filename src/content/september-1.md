@@ -79,6 +79,11 @@ Project Silica is developing the first-ever storage technology designed and buil
 
 <img src="./img/september/moloputin.webp"><br><br>
 
+<video width="640" height="480" controls>
+<source src="./movies/september/tusk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1992
 
 Zamordowano Piotra Jaroszewicza https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz

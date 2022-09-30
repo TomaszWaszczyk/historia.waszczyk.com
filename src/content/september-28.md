@@ -3,11 +3,17 @@ layout: post
 title: 28 września
 image: img/september/churchill.jpg
 author: Tomasz Waszczyk
-date: 2020-09-28T10:00:00.000Z
+date: 2021-09-28T10:00:00.000Z
 tags:
   - Rosja
 draft: false
 ---
+
+### 2022
+
+Południową informacją dnia są doniesienia z Banku Anglii, który ogłosił, że będzie kupował długoterminowy dług rządowy, ponieważ stopy procentowe zbliżają się do 5%, co stanowi "istotne ryzyko dla stabilności finansowej Wielkiej Brytanii". Zakupy mają się rozpocząć dziś. W rentowności 10-letnich obligacji brytyjskich spadły o 40 pb.
+
+<img src="./img/september/yk10yields.png"><br><br>
 
 ### 2021
 
