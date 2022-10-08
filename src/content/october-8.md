@@ -3,9 +3,19 @@ layout: post
 title: 8 października
 image: img/october/malczewski.jpg
 author: Tomasz Waszczyk
-date: 2020-10-08T10:00:00.000Z
+date: 2021-10-08T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2022
+
+<img src="./img/october/debt.jpeg"><br><br>
+
+---
+
+<img src="./img/october/produkcjawegla.jpeg"><br><br>
+
 ---
 
 ### 2020

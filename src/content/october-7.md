@@ -3,11 +3,25 @@ layout: post
 title: 7 października
 image: img/october/ausweiss.jpg
 author: Tomasz Waszczyk
-date: 2020-10-07T10:00:00.000Z
+date: 2021-10-07T10:00:00.000Z
 tags:
   - Ovadia Yosef
 draft: false
 ---
+
+### 2022
+
+> Zaskakująca szczerość rządu. W "skrajnych przypadkach" możemy być uznani za niewypłacalnych
+
+---
+
+<img src="./img/october/dostepdobroni.jpg"><br><br>
+
+---
+
+Łukaszenki sposób na zduszenie inflacji:
+
+> "Jakikolwiek wzrost cen jest zabroniony. Od dzisiaj. Nie od jutra, ale od dziś".
 
 ### 2021
 

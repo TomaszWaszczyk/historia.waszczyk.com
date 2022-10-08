@@ -3,7 +3,7 @@ layout: post
 title: 5 października
 image: img/october/debata.jpg
 author: Tomasz Waszczyk
-date: 2020-10-05T10:00:00.000Z
+date: 2021-10-05T10:00:00.000Z
 tags:
   - Złoto
 draft: false
@@ -51,6 +51,10 @@ PEKAO S.A.
 ### 2018
 
 Bank Anglii ODMAWIA wydania Wenezueli 14 ton złota.
+
+### 2001
+
+Na Florydzie zmarł fotoedytor tabloidu „Sun”, pierwsza z 5 śmiertelnych ofiar zarażonych bakteriami wąglika, rozsyłanych drogą pocztową do instytucji publicznych po zamachach z 11 września 2001 roku.
 
 ### 1971
 

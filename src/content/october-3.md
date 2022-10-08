@@ -3,10 +3,14 @@ layout: post
 title: 3 października
 image: img/october/mur.jpg
 author: Tomasz Waszczyk
-date: 2020-10-03T10:00:00.000Z
+date: 2021-10-03T10:00:00.000Z
 tags:
   - V2
 ---
+
+### 2022
+
+<a href="./documents/october/vanished.pdf" target="_blank"></a>
 
 ### 1996
 

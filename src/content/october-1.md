@@ -3,7 +3,7 @@ layout: post
 title: 1 października
 image: img/october/sopot.jpg
 author: Tomasz Waszczyk
-date: 2020-10-01T10:00:00.000Z
+date: 2021-10-01T10:00:00.000Z
 tags:
   - Sopot
 ---

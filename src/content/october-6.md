@@ -3,11 +3,15 @@ layout: post
 title: 6 października
 image: img/october/lawki.jpg
 author: Tomasz Waszczyk
-date: 2020-10-06T10:00:00.000Z
+date: 2021-10-06T10:00:00.000Z
 tags:
   - Ławki
 draft: false
 ---
+
+### 2022
+
+> Każdy punkt procentowy inflacji daje ok. 4,7 mld zł wpływów do budżetu państwa – wynika z wypowiedzi wiceministra finansów Artura Sobonia.
 
 ### 2021
 
