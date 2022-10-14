@@ -60,6 +60,8 @@ https://pl.wikipedia.org/wiki/Obrona_Westerplatte
 
 https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Pietrow
 
+<img src="./img/september/bombardowanie1939.png"><br><br>
+
 ---
 
 Na wieść o tym, że jest wojna amerykański fotograf, filmowiec i podróżnik Julien Bryan ostatnim pociągiem przyjechał do Polski, żeby dokumentować i pokazywać Warszawę, miasto walczące z niemiecką agresją. Chciał zrobić kilka zdjęć zza linii frontu i bezpiecznie wrócić, nim wojska niemieckie dotrą w głąb kraju. Pozostał jednak w oblężonym mieście przez dwa tygodnie. Był jedynym zagranicznym fotoreporterem i czuł się zobowiązany pokazać światu tragiczny los jego mieszkańców. Swoimi zdjęciami chciał przemówić do prezydenta USA i do całego świata, aby wspierali Polaków.

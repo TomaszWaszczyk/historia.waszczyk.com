@@ -3,9 +3,28 @@ layout: post
 title: 13 października
 image: img/october/oboz.jpg
 author: Tomasz Waszczyk
-date: 2020-10-13T10:00:00.000Z
+date: 2021-10-13T10:00:00.000Z
 tags:
   - Gospodarka
+---
+
+### 2022
+
+> Członkini RPP nie wytrzymała, sama napisała raport po posiedzeniu. "Drwina"
+> Prof. Joanna Tyrowicz, świeżo upieczona członkini Rady Polityki Pieniężnej, zrobiła coś, czego jeszcze nie uczynił żaden inny członek RPP. Poprawiła treść jej zdaniem w wielu miejscach kłamliwej informacji po środowym posiedzeniu Rady. Jak wyjaśnia, niektóre opinie w dokumencie NBP to "czysta drwina" z obywateli. Finalna wersja ekonomistki znacznie różni się od oryginału. "RPP nie podejmuje działań niezbędnych dla zapewnienia stabilności makroekonomicznej i finansowej, w tym przede wszystkim w celu ograniczenia ryzyka utrwalenia się podwyższonej inflacji" - czytamy.
+
+<!-- The year is 2140. ETH is the global currency.
+
+Every 12 seconds, someone with lots of ETH gets more ETH.
+
+The people with little ETH have to work to earn more ETH; those with a lot of ETH get more for free.
+
+The socioeconomic divide has never been worse. Yet. -->
+
+---
+
+<img src="./img/october/war.jpg"><br><br>
+
 ---
 
 ### 2021

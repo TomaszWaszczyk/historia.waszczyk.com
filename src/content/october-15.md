@@ -3,7 +3,7 @@ layout: post
 title: 15 października
 image: img/october/btccompanies.jpeg
 author: Tomasz Waszczyk
-date: 2020-10-15T10:00:00.000Z
+date: 2021-10-15T10:00:00.000Z
 tags:
   - Hutnictwo
 draft: false
@@ -15,6 +15,26 @@ draft: false
 Rzad prowincjonalny uchwalil orwellowskie uprawnienia nadzwyczajne w imie walki z COVID, ktore pozwalaja urzednikom zatrzymywac lub usuwac ludzi bez nakazu i zajmowac mienie osobiste".
 
 <img src="./img/october/canada.jpeg"><br><br>
+
+---
+
+<img src="./img/october/boom.jpeg"><br><br>
+
+---
+
+<img src="./img/october/nato.jpeg"><br><br>
+
+<img src="./img/october/wojnaatomowa.png"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/gates.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/glapinskipozyczka.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 

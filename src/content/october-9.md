@@ -3,9 +3,23 @@ layout: post
 title: 9 października
 image: img/october/warsow-1944.jpg
 author: Tomasz Waszczyk
-date: 2020-10-09T10:00:00.000Z
+date: 2021-10-09T10:00:00.000Z
 tags:
   - Silver
+---
+
+### 2022
+
+NATO media before and after 2022
+
+<img src="./img/october/nato.jpeg"><br><br>
+
+---
+
+We Francji zniesiono karę śmierci. Ostatnim katem był Marcel Chevalier.
+
+<img src="./img/october/karasmierci.jpeg"><br><br>
+
 ---
 
 ### 2020
@@ -79,6 +93,10 @@ Andreessen Horowitz Leads $300 Million Investment in RigUp Financing brings the 
 RigUp Inc., which operates a marketplace for contract workers in the energy sector, surged to a $1.9 billion valuation with a new infusion of capital, according to a person familiar with the situation.
 
 Andreessen Horowitz led the $300 million Series D financing in the Austin, Texas-based startup, using its recently formed late-stage fund.
+
+### 1997
+
+<img src="./img/october/electroniccrypto.jpeg"><br><br>
 
 ### 1989
 

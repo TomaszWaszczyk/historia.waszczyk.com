@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+<a href="./documents/october/Joanna_Tyrowicz_komentarz.pdf" target="_blank">Joanna Tyrowicz NBP</a>
+
 ### 2021
 
 > jeśli powierzone mi będzie pełnienie zaszczytnej funkcji Prezesa NBP na kolejną kadencję, będę proponował wprowadzenie do obiegu banknotu o nominale tysiąca złotych.

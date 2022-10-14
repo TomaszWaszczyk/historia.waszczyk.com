@@ -3759,6 +3759,37 @@ The More Laws, The Less Justice.
 
 Ignorancja jest marką paniki, wiedza matką spokoju.
 
+Jak jeszcze parę moralnych zwycięst odniesiemy typu Powstanie Warszawskie to znikniemy jako naród. - Paweł Piotr Wieczorkiewicz
+
+"Szczęście polega na tym - całe szczęście, by z prostych rzeczy nie tworzyć intelektualnych labiryntow"
+
+"Brak perfekcji jest piękny, szaleństwo jest geniuszem i lepiej być całkowicie niedorzecznym, niż absolutnie nudnym"
+
+Powoli umiera ten, kto nie podróżuje, kto nie czyta, ten kto nie słucha muzyki, ten kto nie obserwuje.
+Powoli umiera ten, kto niszczy swą miłość własną, ten kto znikąd nie chce przyjąć pomocy.
+Powoli umiera ten, kto staje się niewolnikiem przyzwyczajenia, ten kto odtwarza codziennie te same ścieżki, ten kto nigdy nie zmienia punktów odniesienia, ten kto nigdy nie zmienia koloru swojego ubioru, ten kto nigdy nie porozmawia z nieznajomym...
+kto chociaż raz w życiu nie odłożył na bok racjonalności.
+
+Gdybyśmy budowali domy tak jak budujemy systemy informatyczne, to nie potrafilibyśmy wybudować domu wyższego niż 50 pięter, zaś ponad połowa wieżowców o wysokości większej niż 20 pięter waliłaby się zaraz po zbudowaniu. Capers Jones (Software Productivity Research),
+Applied Software Measurement, New York, 1996
+
+
+Upór z jakim organizacje topią grube dziesiątki miliardów dolarów rocznie w nieudanych projektach informatycznych przypomina przysłowiowe zachowanie lemingów. Warto byśmy nie naśladowali tego bezmyślnego marnotrawstwa dając informatyce szansę rzeczywistego usprawnienia działania naszych organizacji za pomocą dobrze zaprojektowanych, użytecznych systemów komputerowych.
+
+Borys Stokalski
+Grać aby wygrać. Ryzyko i zarządzanie projektami, 1998
+Projekty prowadzące do klęski to norma, a nie wyjątek (…). Różni konsultanci, guru i metodolodzy stale powtarzają, że wszystkie kłopoty wynikają ze stosowania niewłaściwych metod (albo z pracowania w ogóle bez metod), złych narzędzi lub też nieodpowiednich technik zarządzania projektem. Innymi słowy, przyczyną marszy ku klęsce jest nasza głupota albo nieudolność.
+
+
+Edward Yourdon,
+Marsz ku klęsce. Poradnik dla projektanta systemów, WNT, Warszawa 2000
+Wiemy, dlaczego projekty upadają, wiemy jak zapobiec tym upadkom – więc dlaczego one ciągle upadają ?
+
+paradoks Martin’a Cobb’a
+
+
+
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

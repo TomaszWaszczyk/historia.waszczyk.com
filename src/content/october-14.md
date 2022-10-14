@@ -3,10 +3,21 @@ layout: post
 title: 14 października
 image: img/october/ws-1907.png
 author: Tomasz Waszczyk
-date: 2020-10-14T10:00:00.000Z
+date: 2021-10-14T10:00:00.000Z
 tags:
   - Bundesbank
 ---
+
+### 2022
+
+“We didn’t understand that it’s a fairly low fatality rate and that it’s a disease mainly in the elderly, kind of like flu is, although a bit different than that.” - Bill Gates
+
+<video width="640" height="480" controls>
+<source src="./movies/october/gates.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/october/johncarvalho.jpeg"><br><br>
 
 ### 2020
 

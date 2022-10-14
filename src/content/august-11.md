@@ -37,6 +37,7 @@ In 2012, Mr. Saylor wrote “The Mobile Wave,” addressing the impact mobile co
 ### 1996
 
 Amerykańskie przedsiębiorstwo software’owe Macromedia kupiło od przedsiębiorstwa FutureWave patent na animacje Flash.
+
 ### 1945
 
 Operacja kwantuńska.
@@ -51,8 +52,7 @@ https://pl.wikipedia.org/wiki/Brygada_%C5%9Awi%C4%99tokrzyska
 
 ### 1942
 
-Hedy Lamarr uzyskała patent dotyczący technologii bezkablowej komunikacji, wykorzystywany przez Aliantów podczas II Wojny Światowej. Później wynalazek stał się podstawą dla #wifi, #bluetooth i telefonii komórkowej.
-Hedy była też aktorką.
+Hedy Lamarr uzyskała patent dotyczący technologii bezkablowej komunikacji, wykorzystywany przez Aliantów podczas II Wojny Światowej. Później wynalazek stał się podstawą dla #wifi, #bluetooth i telefonii komórkowej. Hedy była też aktorką.
 
 <img src="./img/august/lamarr.jpeg"><br><br>
 
@@ -63,6 +63,12 @@ https://en.wikipedia.org/wiki/Dowding_system
 ### 1937
 
 Ludowy Komisarz NKWD Nikołaj Jeżow wydał rozkaz rozpoczęcia „operacji polskiej”
+
+### 1857
+
+Panika w 1857 roku, jeden z największych kryzysów ekonomicznych.
+
+<!-- https://en.wikipedia.org/wiki/Panic_of_1857 -->
 
 ### 1492
 

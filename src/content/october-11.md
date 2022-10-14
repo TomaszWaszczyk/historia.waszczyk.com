@@ -3,9 +3,27 @@ layout: post
 title: 11 października
 image: img/october/gierkowa.jpg
 author: Tomasz Waszczyk
-date: 2020-10-11T10:00:00.000Z
+date: 2021-10-11T10:00:00.000Z
 tags:
   - Gierek
+---
+
+### 2022
+
+PREZES NBP I CZŁONKOWIE RPP JANCZYK I DĄBROWSKI WYRAZILI W OŚWIADCZENIU DEZAPROBATĘ WOBEC DZIAŁAŃ INNYCH CZŁONKÓW RPP, KTÓRE W ICH OCENIE MOGĄ NARUSZAĆ PRZEPISY PRAWA - Reuters News
+
+<img src="./img/october/rpp_cyrk.png"><br><br>
+
+<img src="./img/october/pyrc.png"><br><br>
+
+---
+
+Polski dług będzie bardzo drogi. Rentowności 5-letnie już prawie 8%! Minister Finansów ma problem.
+
+Rekordowo koszty obsługi długu, 66 mld zł, to już historia. Będzie dużo więcej.
+
+<img src="./img/october/polskapiecioletnie.png"><br><br>
+
 ---
 
 ### 2020
