@@ -3,11 +3,18 @@ layout: post
 title: 16 października
 image: img/october/piotrnowak.jpeg
 author: Tomasz Waszczyk
-date: 2020-10-16T10:00:00.000Z
+date: 2021-10-16T10:00:00.000Z
 tags:
   - GetBack
 draft: false
 ---
+
+### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/october/dutch.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 
