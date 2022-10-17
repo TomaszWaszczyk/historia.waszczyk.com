@@ -3773,13 +3773,11 @@ kto chociaż raz w życiu nie odłożył na bok racjonalności.
 Gdybyśmy budowali domy tak jak budujemy systemy informatyczne, to nie potrafilibyśmy wybudować domu wyższego niż 50 pięter, zaś ponad połowa wieżowców o wysokości większej niż 20 pięter waliłaby się zaraz po zbudowaniu. Capers Jones (Software Productivity Research),
 Applied Software Measurement, New York, 1996
 
-
 Upór z jakim organizacje topią grube dziesiątki miliardów dolarów rocznie w nieudanych projektach informatycznych przypomina przysłowiowe zachowanie lemingów. Warto byśmy nie naśladowali tego bezmyślnego marnotrawstwa dając informatyce szansę rzeczywistego usprawnienia działania naszych organizacji za pomocą dobrze zaprojektowanych, użytecznych systemów komputerowych.
 
 Borys Stokalski
 Grać aby wygrać. Ryzyko i zarządzanie projektami, 1998
 Projekty prowadzące do klęski to norma, a nie wyjątek (…). Różni konsultanci, guru i metodolodzy stale powtarzają, że wszystkie kłopoty wynikają ze stosowania niewłaściwych metod (albo z pracowania w ogóle bez metod), złych narzędzi lub też nieodpowiednich technik zarządzania projektem. Innymi słowy, przyczyną marszy ku klęsce jest nasza głupota albo nieudolność.
-
 
 Edward Yourdon,
 Marsz ku klęsce. Poradnik dla projektanta systemów, WNT, Warszawa 2000
@@ -3787,8 +3785,7 @@ Wiemy, dlaczego projekty upadają, wiemy jak zapobiec tym upadkom – więc dlac
 
 paradoks Martin’a Cobb’a
 
-
-
+nie strzelajcie do posłańca
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 

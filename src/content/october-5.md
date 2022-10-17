@@ -16,7 +16,6 @@ draft: false
 ### 2021
 
 > jeśli powierzone mi będzie pełnienie zaszczytnej funkcji Prezesa NBP na kolejną kadencję, będę proponował wprowadzenie do obiegu banknotu o nominale tysiąca złotych.
-
 > To będzie pierwszy wśród obecnych w powszechnym obiegu banknot z wizerunkiem kobiety. Będę proponował św. Jadwigę Andegaweńską.
 Prof. Adam Glapiński, Prezes NBP, „Polska Times w wywiadzie ze Zbigniewem Biskupskim (Strefa Biznesu, 5–6.10.2021)
 

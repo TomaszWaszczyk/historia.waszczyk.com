@@ -11,8 +11,7 @@ draft: false
 
 ### 2022
 
-"Canada, Saskatchewan;
-Rzad prowincjonalny uchwalil orwellowskie uprawnienia nadzwyczajne w imie walki z COVID, ktore pozwalaja urzednikom zatrzymywac lub usuwac ludzi bez nakazu i zajmowac mienie osobiste".
+"Canada, Saskatchewan: Rząd prowincjonalny uchwalił orwellowskie uprawnienia nadzwyczajne w imię walki z COVID, które pozwalają urzędnikom zatrzymywać lub usuwać ludzi bez nakazu i zajmować mienie osobiste".
 
 <img src="./img/october/canada.jpeg"><br><br>
 
@@ -25,11 +24,6 @@ Rzad prowincjonalny uchwalil orwellowskie uprawnienia nadzwyczajne w imie walki 
 <img src="./img/october/nato.jpeg"><br><br>
 
 <img src="./img/october/wojnaatomowa.png"><br><br>
-
-<video width="640" height="480" controls>
-<source src="./movies/october/gates.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 <video width="640" height="480" controls>
 <source src="./movies/october/glapinskipozyczka.mp4" type="video/mp4">
