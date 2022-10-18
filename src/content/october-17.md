@@ -11,6 +11,10 @@ draft: false
 
 ### 2022
 
+Wszystkie mieszkania na osiedlu przy ul. Bokserskiej na Mokotowie hurtem kupił fundusz inwestujący w mieszkania na wynajem. Heimstaden Bostad wykupił tam ponad 400 mieszkań, a całej Polsce ma ich już 3000.
+
+---
+
 „Piętnaście państw popisało w Brukseli, w czasie szczytu ministrów obrony NATO, list intencyjny w sprawie budowy European Sky Shield - europejskiej tarczy antyrakietowej. Wśród nich nie ma Polski.
 Wśród sygnatariuszy listu znaleźli się ministrowie obrony: Niemiec, Litwy, Łotwy, Estonii, Czech, Węgier, Słowacji, Rumunii, Bułgarii, Norwegii, Finlandii, Holandii, Belgii, Wielkiej Brytanii.
 
@@ -27,6 +31,15 @@ Możliwe jest też, że szef polskiego MON nie zagłębiał się w propozycję, 
 ### 2021
 
 > "The European Central Bank is exploring raising its limit on purchases of EU-issued bonds, in a move that would enhance its flexibility in asset-buying schemes and boost the status of the bloc’s groundbreaking joint debt programme launched this year." - FT, October 17, 2021
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/october/bialek.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 ### 1944
 

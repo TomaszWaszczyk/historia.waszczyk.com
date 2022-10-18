@@ -3787,6 +3787,8 @@ paradoks Martin’a Cobb’a
 
 nie strzelajcie do posłańca
 
+Jak Cię nie szanują to niech się ciebie boją
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
