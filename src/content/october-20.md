@@ -3,11 +3,15 @@ layout: post
 title: 20 października
 image: img/october/lwow.jpg
 author: Tomasz Waszczyk
-date: 2020-10-20T10:00:00.000Z
+date: 2021-10-20T10:00:00.000Z
 tags:
   - Banki
 draft: false
 ---
+
+### 2022
+
+<img src="./img/october/imfinflation.jpg"><br><br>
 
 ### 2020
 
@@ -131,9 +135,20 @@ O długu parę rzeczy trzeba wiedzieć. A dokładniej pięć: od kogo się poży
 
 ---
 
+### 1987
+
+<img src="./img/october/crash.jpg"><br><br>
+
 ### 1958
 
 <img src="./img/october/elektryfikacja-polskiej-wsi-1958.png"><br><br>
+
+### 1943
+
+W Krakowie przy ulicy Mazowieckiej 32 Gestapo dokonało pierwszej publicznej egzekucji 20 wiezniów osadzonych w więzieniu na Montelupich. Akcja była odwetem za zamach na Reichsdeutschera Jakuba Wierzchosławskiego,który był urzędnikiem Arbeitsamtu (niemieckiego urzędu pracy). Zwłoki zamordowanych wywieziono w nieznanym kierunku. Z pośród rozstrzelanych tożsamość 18 osób pozostanie tajemnicą, rozpoznano jedynie Tomasza Fornalę oraz Włodzimierza Marszalika.
+Przyczynę egzekucji i nazwiska pomordowanych zakomunikowały uliczne głośniki.
+
+<img src="./img/october/montelupich.jpg"><br><br>
 
 ### 1942
 
@@ -143,18 +158,9 @@ Okupacyjny komisarz Rzeszy na Warszawę Helmut Otto podpisał obwieszczenie o na
 
 ---
 
-~~
-
 II wojna światowa. Sowieccy żołnierze z karabinami przeciwpancernymi PTRD (kaliber14.5m). Na początku Barbarossy Armia Czerwona poniosła ogromne straty w sprzęcie przeciwpancernym i zaczynało brakować jej środków przeciwpancernych. Próbowano temu zaradzić wprowadzając na jej uzbrojenie  karabiny przeciwpancerne  PTRS i PTRD.   PTRD nie cieszył zbyt dużą popularnością wśród żołnierzy. Była to broń wysoko awaryjna co wynikało  z faktu, że zbyt pospiesznie wprowadzono ją do produkcji używając przy tym do jej budowy materiałów niskiej jakości.    Mimo wszystko  zaczęto formować jednostki wyposażone w tę broń i to na masowa skalę. Powstawały samodzielne kompanie  czy bataliony przeciwpancerne.    Etat sowieckiego pułku piechoty przewidywał 75 sztuk tej broni na stanie. Karabiny przeciwpancerne używane były w Armii Czerwonej aż do 1943 roku kiedy to stopniowo zaczęto wycofywać je z jednostek liniowych na skutek zwiększenia produkcji dział przeciwpancernych różnych kalibrów.
 
 <img src="./img/october/karabinprzeciwpancerny.jpg"><br><br>
-
-### 1943
-
-W Krakowie przy ulicy Mazowieckiej 32 Gestapo dokonało pierwszej publicznej egzekucji 20 wiezniów osadzonych w więzieniu na Montelupich. Akcja była odwetem za zamach na Reichsdeutschera Jakuba Wierzchosławskiego,który był urzędnikiem Arbeitsamtu (niemieckiego urzędu pracy). Zwłoki zamordowanych wywieziono w nieznanym kierunku. Z pośród rozstrzelanych tożsamość 18 osób pozostanie tajemnicą, rozpoznano jedynie Tomasza Fornalę oraz Włodzimierza Marszalika.
-Przyczynę egzekucji i nazwiska pomordowanych zakomunikowały uliczne głośniki.
-
-<img src="./img/october/montelupich.jpg"><br><br>
 
 ### 1939
 
@@ -164,6 +170,14 @@ Na zdjęciu egzekucja Polaków przez Einsatzkommando
 11 pod dowództwem Heinza Graefe w Kórniku 20 października 1939.
 
 <img src="./img/october/tanneberg.jpg"/><br><br>
+
+---
+
+Okupacyjny komisarz III Rzeszy na Warszawę Helmut Otto podpisał obwieszczenie o natychmiastowej konfiskacie wszelkich aparatów  radiowych, które należało oddać do 5 listopada.
+
+<img src="./img/october/bekanntmachung.png"><br><br>
+
+---
 
 ### 1918
 

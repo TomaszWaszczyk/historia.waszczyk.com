@@ -3,14 +3,27 @@ layout: post
 title: 21 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2020-10-21T10:00:00.000Z
+date: 2021-10-21T10:00:00.000Z
 tags:
   - CBDC
 ---
 
+### 2022
+
+BGK odwołuje przetarg sprzedaży obligacji zaplanowany na 24 października
+PAP - Biznes
+
+Bank Gospodarstwa Krajowego odwołuje przetarg sprzedaży obligacji zaplanowany na 24 października - podał bank w komunikacie.
+
+Bank planował na 24 października emisję na rzecz Funduszu Przeciwdziałania COVID-19 oraz pierwszą emisję na rzecz Funduszu Wsparcia Sił Zbrojnych.
+
+Oferowane 6- i 10-letnie papiery na rzecz Funduszu Wsparcia Sił Zbrojnych miały mieć stałe oprocentowanie na poziomie 8,25 proc.
+
+W piątek rentowności polskich 10-letnich obligacji skarbowych rosły nawet o ponad 40 pb. do ponad 9 proc. (PAP Biznes)
+
 ### 2020
 
-"Bahamy zapiszą się w historii jako pierwszy kraj, który wprowadził do obiegu nową formę pieniądza banku centralnego – #CBDC (Central Bank Digital Currency)"
+"Bahamy zapiszą się w historii jako pierwszy kraj, który wprowadził do obiegu nową formę pieniądza banku centralnego – CBDC (Central Bank Digital Currency)"
 
 ---
 
