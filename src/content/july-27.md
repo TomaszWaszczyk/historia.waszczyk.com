@@ -34,6 +34,8 @@ The DSA patent (No 5,231,668) was created by David W. Kravitz (an ex-NSA employe
 
 <img src="./img/july/dsapatent.jpeg"><br><br>
 
+<!-- https://medium.com/asecuritysite-when-bob-met-alice/ode-to-john-napier-the-nsa-and-fips-186-meet-dsa-the-original-builder-of-digital-trust-1f18b39bb01a -->
+
 ### 1947
 
 "Od maja ubiegłego roku pracuję jako rębacz na kopalni „Jadwiga” w Zabrzu. W lutym br. wykonałem normę 240%, wyrąbując 72,5 m chodnika. W kwietniu wykonałem normę 293%, wyrąbując 85 m chodnika. W maju dałem 270%, wyrąbując 78 m chodnika."
