@@ -28,6 +28,12 @@ GOLD (XAU/USD) Hit All Time High Today at the moment USD 1,932 per ounce
 
 <img src="./img/july/freemoney.jpg"><br><br>
 
+### 1993
+
+The DSA patent (No 5,231,668) was created by David W. Kravitz (an ex-NSA employee) and assigned to the USA in a royalty-free way. It is now used with ECDSA, and you are probably using it to view this message.
+
+<img src="./img/july/dsapatent.jpeg"><br><br>
+
 ### 1947
 
 "Od maja ubiegłego roku pracuję jako rębacz na kopalni „Jadwiga” w Zabrzu. W lutym br. wykonałem normę 240%, wyrąbując 72,5 m chodnika. W kwietniu wykonałem normę 293%, wyrąbując 85 m chodnika. W maju dałem 270%, wyrąbując 78 m chodnika."

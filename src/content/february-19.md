@@ -47,6 +47,10 @@ The shift, prompted by Britain’s exit from the EU, will leave the sensitive pe
 
 Alphabet Inc’s Google intends to require its British users to acknowledge new terms of service including the new jurisdiction, according to people familiar with the plans.
 
+### 1991
+
+<img src="./img/february/schnoor.jpeg"><br><br>
+
 ### 1846
 
 https://pl.wikipedia.org/wiki/Rze%C5%BA_galicyjska

@@ -34,6 +34,15 @@ Kryzys na granicy. Źródła Onetu: Amerykanie ostrzegają Polskę przed konflik
 
 Stany Zjednoczone miały ostrzec polski rząd przed możliwym atakiem Rosji na Ukrainę, do którego może zostać wykorzystany konflikt na polsko-białoruskiej granicy – dowiedział się Onet w źródłach dyplomatycznych. Waszyngton miał wezwać polskie władze do pilnych działań na rzecz zbudowania wspólnej koalicji państw bałtyckich, UE i Wielkiej Brytanii, która miałaby powstrzymać zapędy Kremla związane z możliwą inwazją na Ukrainę.
 
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/october/vaxvideo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2020
 
 Ponad połowa małych i średnich europejskich firm boi się, że nie przetrwa roku
