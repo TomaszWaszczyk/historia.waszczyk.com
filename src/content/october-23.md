@@ -3,7 +3,7 @@ layout: post
 title: 23 października
 image: img/october/grossaction.jpg
 author: Tomasz Waszczyk
-date: 2020-10-23T10:00:00.000Z
+date: 2021-10-23T10:00:00.000Z
 tags:
   - Grossaktion
 draft: false

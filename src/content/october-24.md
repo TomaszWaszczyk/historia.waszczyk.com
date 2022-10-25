@@ -3,10 +3,19 @@ layout: post
 title: 24 października
 image: img/october/dabrowski.jpg
 author: Tomasz Waszczyk
-date: 2020-10-24T10:00:00.000Z
+date: 2021-10-24T10:00:00.000Z
 tags:
   - Pokój westfalski
 ---
+
+### 2022
+
+> "Central banks have lost control of inflation"- Baron King of Lothbury and ex-Bank of England Governor
+
+<video width="640" height="480" controls>
+<source src="./movies/october/baron_king.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020
 

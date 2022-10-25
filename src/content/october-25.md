@@ -3,11 +3,21 @@ layout: post
 title: 25 października
 image: img/october/korfanty.jpg
 author: Tomasz Waszczyk
-date: 2020-10-25T10:00:00.000Z
+date: 2021-10-25T10:00:00.000Z
 tags:
   - Xi Jinping
 draft: false
 ---
+
+### 2022
+
+Macron wręczył Franciszkowi książkę. "Co najmniej żenujące”
+
+Na str. 32-33 według Kanta warunkiem pokoju na świecie jest, aby dług publiczny nie służył do finansowania wojny, gdyż nadmiernie ułatwiłoby to jej prowadzenie. Dziennikarze telewizji publicznej woleli więc do niej nie zaglądać.
+Może Macron nie sprawdził, co jest na okładce, ale wie z pewnością, co jest w środku. Rozmowa była na temat wojny na Ukrainie. Macron nie jest za jej przedłużeniem, a papież w ubiegłym tygodniu wydał książkę „Vi chiedo in nome di Dio” (Proszę was w imię Boga), w której pisze, że „wojna nigdy nie jest usprawiedliwiona”. Mieli więc wspólny temat.
+Zakaz wykorzystania długu publicznego do możliwości przedłużania i prowadzenia wojny nie wystarczy. Nikt z polityków nie będzie tego przestrzegał. J.G. Hülsmann w "Etyce produkcji pieniądza" pisze: "(Rząd zawsze może twierdzić, że wydatki militarne opłaca z dochodów podatkowych, a dług wykorzystuje na cele niemilitarne). Bardziej skuteczne jest więc rozprawienie się z problemem u podstaw i zniesienie rozporządzeń, które wprowadziły bankowość z rezerwą cząstkową i pieniądz papierowy. Ograniczenie zadłużenia publicznego byłoby tego logiczną konsekwencją."
+
+<img src="./img/october/conajmniejzenujace.jpg"><br><br>
 
 ### 2021
 
