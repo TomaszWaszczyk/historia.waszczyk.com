@@ -140,7 +140,7 @@ Niewiedza jest źródłem lęku.
 Nie ma jasności ale są przebłyski.
 
 
-Za potężnym mężczyzną kryje się potężna kobieta.
+Za potężnym mężczyzną kryje się potężna ilość pracy.
 
 
 Big services fail big, small services fail small.

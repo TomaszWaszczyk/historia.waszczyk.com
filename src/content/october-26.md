@@ -8,6 +8,18 @@ tags:
   - Patriot Act
 ---
 
+### 2022
+
+<img src="./img/october/gwiazdy.jpeg"><br><br>
+
+<img src="./img/october/housingmarket.png"><br><br>
+
+<img src="./img/october/jodek.jpg"><br><br>
+
+<img src="./img/october/szczepieniaobowiazkowe.jpeg"><br><br>
+
+<img src="./img/october/szczepionki.jpeg"><br><br>
+
 ### 2021
 
 <img src="./img/october/polexit.jpeg"><br><br>

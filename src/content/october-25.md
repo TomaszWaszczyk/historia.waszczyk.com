@@ -19,6 +19,10 @@ Zakaz wykorzystania długu publicznego do możliwości przedłużania i prowadze
 
 <img src="./img/october/conajmniejzenujace.jpg"><br><br>
 
+Premier Macron najwyraźniej wpisuje się w nurt pewnego dowcipu, o konferencji Jałtańskiej.
+Otóż Churchill poczęstował wówczas Stalina cygarem, z kieszonkowego pudełka z mahoniu inkrustowanego kością słoniową i napisem: "Drogiemu Winstonowi - Jerzy VI".
+Stalin nie chciał być dłużny i wyjął złotą papierośnicę wyłożoną masą perłową. Tu też widniała inskrypcja: "Potockim - Poniatowscy".
+
 ### 2021
 
 <img src="./img/october/barrons.jpeg"><br><br>

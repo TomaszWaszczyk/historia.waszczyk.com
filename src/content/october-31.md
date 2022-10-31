@@ -3,10 +3,51 @@ layout: post
 title: 31 października
 image: img/october/wueska.jpg
 author: Tomasz Waszczyk
-date: 2020-10-31T10:00:00.000Z
+date: 2021-10-31T10:00:00.000Z
 tags:
   - WSK
 ---
+
+### 2022
+
+$1.2 quadrillion is the "notional value" of the worldwide derivatives market. To put that in perspective, the world’s annual gross domestic product is between $50 trillion and $60 trillion. 
+
+How the hoax works:
+You have an bond for $100. Even though you think the bond is good, you still want to buy insurance on it. The CDS desk guy says sure I’ll insure your bond for $2/year. Both happy. If the bond issuer defaults, you get your 100 bucks back.
+
+Then your friend finds out about your $2 insurance and goes to the CDS desk guy and says, I want to take out $2 insurance on Simon’s bond. The CDS desk guy says, sure. Both happy.
+
+A dentist finds out your friend bought $2/yr insurance on some Simon guy’s bond, and he goes to the CDS desk guy, who says “No Prob! Insured!” (But now the CDS guy is on the hook for $300 if the bond goes south.)
+
+Pretty soon 100 people, whom you have no clue about, have taken out $2/yr insurance on your $100 bond, and the CDS desk guy is on the hook for $10,000 if the bond defaults.
+
+But he’s also making $200/yr on insurance from these 100 people.
+So the CDS desk guy hedges his exposure by going out and getting insurance on his $10,000 exposure. He gets it for a $200/year. Now he’s making $180 gravy.
+
+But wait there is more:
+(1) There is no requirement to reveal the name of the people paying insurance on your bond through a public regulated exchange.
+(2) You have no idea how many other people have a claim against your bond.
+(3) You have no way of knowing if the CDS desk man has hedged his bets so that he CAN ACTUALLY pay you back.
+
+This is the land of "funny money" and OTC derivative contracts..
+
+For context:
+1,000,000,000 Billion
+1,000,000,000,000 Trillion
+1,000,000,000,000,000 Quadrillion
+Assuming 7 billion people, it’s $171,428 for every man, woman & child on the planet..
+
+If you earn $50,000 per year,
+it would take you 20 years to earn a million dollars.
+It would take you 20,000 years to earn a billion dollars.
+It would take you 20 million years to earn a trillion dollars.
+
+Lastly:
+Take the notorious Deutsche Bank (DB) that has outstanding derivatives of €55 trillion against total equity of €62 billion. Thus the derivatives position is 1200X the equity. Or to put it in a different way, the equity is 0.09% of the outstanding derivatives. So a loss of 0.1% on the derivatives will wipe the share capital and the bank out!
+
+Derivatives can only be netted down on the basis that counterparties pay up. But in a real systemic crisis, counterparties will disappear and gross exposure will remain gross. Just ask Lehman, if they has survived, after the last CDS round in 2007, like DB today still peddling the same pass the parcel game...
+
+<img src="./img/october/germangdp.jpeg"><br><br>
 
 ### 2021
 
