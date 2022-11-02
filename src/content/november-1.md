@@ -3,9 +3,24 @@ layout: post
 title: 1 listopada
 image: img/november/groby.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-01T10:00:00.000Z
+date: 2021-11-01T10:00:00.000Z
 tags:
   - Gold
+---
+
+### 2022
+
+The tx that crashed lnd:
+
+* p2tr
+* witness field had 500,001 empty elements
+* 500142 bytes
+* paid around $750 (0.0368 BTC) in fees!
+
+---
+
+> W lutym przyszłego roku inflacja przekroczy 20 proc. rdr. Spadek do jednocyfrowych poziomów nastąpi nie wcześniej niż w IV kwartale 2023 r. - analitycy ING
+
 ---
 
 ### 2021
@@ -39,6 +54,8 @@ Wszystkich Świętych 2020. Zamknięte cmentarze 1 i 2 listopada.
 Stwórz problem a później go rozwiąż jak bohater - praktyka:
 
 <img src="./img/november/stworzproblemigorozwiaz.png"><br><br>
+
+<img src="./img/november/cmentarzezamkniete.jpeg"><br><br>
 
 ---
 

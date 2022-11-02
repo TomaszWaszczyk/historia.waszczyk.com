@@ -3,10 +3,42 @@ layout: post
 title: 2 listopada
 image: img/november/lagarde.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-02T10:00:00.000Z
+date: 2021-11-02T10:00:00.000Z
 tags:
   - Digital Euro
 draft: false
+---
+
+### 2022
+
+> Dugin: trzeba zawrzeć nowy pakt Ribbentrop-Mołotow i wybawić Europę Zachodnią od Wschodniej. Zjednoczenie i niezależność od USA, wtedy Europa będzie ruską, a my po bratersku i słowiańsku rozwiążemy problem tych którzy przeszkadzają.
+
+---
+
+Berliner Zeitung: Ameryka wypycha Rosję z europejskiego rynku energii
+
+„Rząd USA jest na drodze do wypchnięcia Rosji z europejskiego rynku energii. Koncern Westinghouse otrzymał kontrakt na budowę z Polsce pierwszej elektrowni atomowej” – podał w środę niemiecki dziennik „Berliner Zeitung”.
+
+Gazeta w środę (02.11.2022) zaznacza, że amerykańska inwestycja jest wyrazem „kompleksowego nuklearnego partnerstwa energetycznego” zawartego przez Polskę z USA w 2020 roku.
+
+Amerykańska minister energetyki opublikowała na Twitterze post, w którym określiła porozumienie z Polską jako „jasny sygnał pod adresem Rosji”.
+
+„Nie pozwolimy dłużej na to, żeby (Rosja) wykorzystywała energię jako broń. Zachód solidarnie przeciwstawi się nie sprowokowanej agresji i zdywersyfikuje łańcuch dostaw energii, a także wzmocni współpracę w dziedzinie ochrony klimatu” – napisała Jennifer Granholm.
+
+---
+
+MakerDAO Developer Found Dead.
+
+Nikolai Mushegian, an early developer of MakerDAO, was found dead on Friday in San Juan, Puerto Rico.
+
+A 29-year-old man was found close to Condado Beach. His body was dragged there by water currents.
+
+Nikolai contributed to the Web3 ecosystem in the early stage of Ethereum smart contracts. He predicted smart contract hacks and invented the security-oriented approach to smart contract design.
+
+The reason of his death is unknown. Yesterday Twitter was full of speculations about whether it was an accident or a murder.
+
+<img src="./img/november/nikolai.jpeg"><br><br>
+
 ---
 
 ### 2021

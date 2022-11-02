@@ -3791,6 +3791,10 @@ Jak Cię nie szanują to niech się ciebie boją
 
 Nowy porządek świata zostanie zbudowany przeciwko Rosji, na gruzach Rosji i kosztem Rosji -  Zbigniew Brzeziński, amerykański politolog, socjolog i doradca ds. bezpieczeństwa narodowego USA, 4 czerwca , 2009
 
+jak nie masz żagla to się nie da (pchnięcia, pomocy..)
+
+every generation needs to proof that deserve freedom
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

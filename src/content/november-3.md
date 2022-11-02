@@ -3,11 +3,15 @@ layout: post
 title: 3 listopada
 image: img/november/szareszeregi.jpg
 author: Tomasz Waszczyk
-date: 2020-11-03T10:00:00.000Z
+date: 2021-11-03T10:00:00.000Z
 tags:
   - McDonald
 draft: false
 ---
+
+### 2022
+
+<img src="./img/november/inflationecb.jpeg"><br><br>
 
 ### 2021
 

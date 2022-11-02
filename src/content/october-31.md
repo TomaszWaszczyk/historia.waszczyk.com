@@ -10,7 +10,13 @@ tags:
 
 ### 2022
 
-$1.2 quadrillion is the "notional value" of the worldwide derivatives market. To put that in perspective, the world’s annual gross domestic product is between $50 trillion and $60 trillion. 
+---
+
+> Wiceprezes NBP: inflacja zacznie silnie spadać od marca
+
+---
+
+$1.2 quadrillion is the "notional value" of the worldwide derivatives market. To put that in perspective, the world’s annual gross domestic product is between $50 trillion and $60 trillion.
 
 How the hoax works:
 You have an bond for $100. Even though you think the bond is good, you still want to buy insurance on it. The CDS desk guy says sure I’ll insure your bond for $2/year. Both happy. If the bond issuer defaults, you get your 100 bucks back.

@@ -13,6 +13,8 @@ draft: false
 
 <img src="./img/november/usachina.jpeg"><br><br>
 
+<img src="./img/november/przymus.jpg"><br><br>
+
 ---
 
 Next PLN?
