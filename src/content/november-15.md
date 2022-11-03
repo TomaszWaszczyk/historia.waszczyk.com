@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+<img src="./img/november/santander.png"><br><br>
+
 ### 2021
 
 W wieku 82 lat swoją misję na planecie Ziemia zakończył Witold Podgórski – wieloletni zasłużony pracownik Wrocławskich Zakładów Elektronicznych ELWRO i IKSAIP, niezwykle uzdolniony elektronik. Pozwoliłem sobie opublikować notkę biograficzną Pana Witolda na stronie Polskie Komputery. Pan Witold sprawdzając możliwości komputera ODRA 1003, napisał w 1962 roku pierwszą grę komputerową w Polsce – Marienbad. Gra ta została odtworzona przez Marcina Bulandrę w 2020 roku w Muzeum Historii Komputerów i Informatyki w Katowicach na uruchomionym w ramach operacji "Thanasis" komputerze ODRA 1305.

@@ -17,6 +17,18 @@ Dzień po decyzji FED:
 
 ---
 
+> ECB'S LAGARDE: RECESSION WOULDN'T BE ENOUGH TO TAME INFLATION
+
+Let me translate:
+
+“We are going to hike rates through a recession”
+
+---
+
+<img src="./img/november/boe.jpeg"><br><br>
+
+---
+
 <img src="./img/november/inflationecb.jpeg"><br><br>
 
 ---

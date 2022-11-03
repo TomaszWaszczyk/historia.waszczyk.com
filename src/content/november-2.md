@@ -15,6 +15,16 @@ draft: false
 
 ---
 
+```
+Dzień dobry,
+
+od 19 listopada 2022 roku udostępnimy Państwu nową, bezpłatną funkcjonalność - Ślad węglowy w bankowości internetowej.
+
+Umożliwia ona poznanie indywidualnej, orientacyjnej wartości śladu węglowego związanego z Państwa zakupami. Szacujemy go na podstawie płatności naszymi kartami. Częścią tej funkcjonalności są również: eko porady oraz pytania i odpowiedzi.
+```
+
+---
+
 Berliner Zeitung: Ameryka wypycha Rosję z europejskiego rynku energii
 
 „Rząd USA jest na drodze do wypchnięcia Rosji z europejskiego rynku energii. Koncern Westinghouse otrzymał kontrakt na budowę z Polsce pierwszej elektrowni atomowej” – podał w środę niemiecki dziennik „Berliner Zeitung”.
