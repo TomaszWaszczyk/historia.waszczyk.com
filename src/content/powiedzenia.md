@@ -3795,6 +3795,8 @@ jak nie masz żagla to się nie da (pchnięcia, pomocy..)
 
 every generation needs to proof that deserve freedom
 
+https://quotepark.com/pl/autorzy/wlodzimierz-lenin/
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
@@ -3815,11 +3817,10 @@ And so it is with you... we are in charge of our Attitudes.”
 
 ― Charles R. Swindoll
 
-
 Be kind to yourself and have a great Friday, my friends! 
 ==========================================================
 PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE PREZENTOWANIE 
-
+proszę klasnąć trzy razy
 last bit of - 
 what is your data points about this?
 to be gangerous with that - 

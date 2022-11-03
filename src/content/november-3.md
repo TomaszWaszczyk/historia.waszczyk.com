@@ -11,7 +11,27 @@ draft: false
 
 ### 2022
 
+Dzień po decyzji FED:
+
+<img src="./img/november/obligacje.jpeg"><br><br>
+
+---
+
 <img src="./img/november/inflationecb.jpeg"><br><br>
+
+---
+
+Mohamed El-Erian – główny doradca ekonomiczny w Allianz – uważa, że ​bitcoin nigdy nie stanie się globalną walutą rezerwową, a jego cena nie przekroczy poziomu 100 000 dolarów.
+
+---
+
+Z początkiem października rusza kampania informacyjna „Chcę zrozumieć”. Ma przekonać do szczepień przeciw COVID-19 tych, którzy mają wątpliwości. Jak wynika z badań focusowych osoby nieprzekonane oczekują więcej przystępnych informacji na temat szczepionek. Dlatego wraz z kampanią uruchamiamy też stronę internetową gov.pl/chcezrozumiec.
+
+<img src="./img/november/chcezrozumiec.jpeg"><br><br>
+
+<img src="./img/november/lekarze.png"><br><br>
+
+---
 
 ### 2021
 

@@ -3,10 +3,16 @@ layout: post
 title: 4 listopada
 image: img/november/furia.jpg
 author: Tomasz Waszczyk
-date: 2020-11-04T10:00:00.000Z
+date: 2021-11-04T10:00:00.000Z
 tags:
   - Furia
 ---
+
+### 2022
+
+<img src="./img/november/mistrzostwoswiata.jpg"><br><br>
+
+> Do wczoraj wszyscy spodziewali się 20 proc. w lutym, ale dzisiaj być może będzie to 23-24 proc - tak członek RPP Ludwik Kotecki zareagował na słowa prezesa Polskiego Funduszu Rozwoju o wygaszeniu tarczy inflacyjnej w przyszłym roku. Doniesienia jednej z członkiń zarządu NBP o jednocyfrowej inflacji za rok gość TOK FM nazwał zaś "myśleniem życzeniowym".
 
 ### 2021
 
