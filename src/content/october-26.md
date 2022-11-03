@@ -3,7 +3,7 @@ layout: post
 title: 26 października
 image: img/october/usdtry.png
 author: Tomasz Waszczyk
-date: 2020-10-26T10:00:00.000Z
+date: 2021-10-26T10:00:00.000Z
 tags:
   - Patriot Act
 ---
