@@ -3797,6 +3797,8 @@ every generation needs to proof that deserve freedom
 
 https://quotepark.com/pl/autorzy/wlodzimierz-lenin/
 
+Są umarli, którzy żyją i żywi, którzy są martwi.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

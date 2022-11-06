@@ -89,6 +89,14 @@ DVD Netflix has been the premier DVD-by-mail rental service. Make your movie lis
 
 Konsensus waszyngtoński
 
+### 1995
+
+Namalowany w 1995 r. obraz stanowi przejmujący komentarz do epoki transformacji: poczucia zdrady "Solidarności" i ideałów sprawiedliwości społecznej.
+
+<img src="./img/january/solidarnosc.jpg"><br><br>
+
+Jerzego Duda-Gracz
+
 ### 1990
 
 Plan Balcerowicza

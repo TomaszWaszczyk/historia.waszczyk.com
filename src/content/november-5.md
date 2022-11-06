@@ -3,11 +3,23 @@ layout: post
 title: 5 listopada
 image: img/november/polska2020.png
 author: Tomasz Waszczyk
-date: 2020-11-05T10:00:00.000Z
+date: 2021-11-05T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2022
+
+Wydatki na:
+👉Policję 11 mld zł
+👉Straż pożarną 3,5 mld zł
+👉Same odsetki od długu 70 mld zł
+
+🔴Istnieje silna zależność Wysoki dług - Niski wzrost gosp.
+
+---
+Disclaimer: Część ekonomistów z nurtu Keynesizmu, wskazuje, że dług jest dobry a odsetki to korzyść dla społeczeństwa.
 
 ### 2021
 

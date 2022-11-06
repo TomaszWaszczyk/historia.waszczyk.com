@@ -3,9 +3,21 @@ layout: post
 title: 6 listopada
 image: img/november/prof.jpg
 author: Tomasz Waszczyk
-date: 2020-11-06T10:00:00.000Z
+date: 2021-11-06T10:00:00.000Z
 tags:
   - Nie tanki a banki
+---
+
+### 2022
+
+> „Niebezpieczeństwa obecnego czasu grożą śmiercią Rosji” - Cyryl, patriarcha Moskwy i całej Rusi.
+
+<img src="./img/november/cyryl.jpeg"><br><br>
+
+---
+
+<img src="./img/november/fakturazaenergie.jpeg"><br><br>
+
 ---
 
 ### 2021
