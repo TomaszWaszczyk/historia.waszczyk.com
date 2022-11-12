@@ -3,7 +3,7 @@ layout: post
 title: 12 listopada
 image: img/november/boa.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-12T10:00:00.000Z
+date: 2021-11-12T10:00:00.000Z
 tags:
   - Reserve Bank of Australia
 draft: false
@@ -18,8 +18,8 @@ Projekt ustawy o obronie ojczyzny to kolejny majstersztyk specjalistów od prawa
 Chodzi między innymi o nowy art. 147b Kodeksu karnego, zgodnie z którym: "Kto bez usprawiedliwionej przyczyny (...) posiadając przydział organizacyjno-mobilizacyjny do jednostki przewidzianej do militaryzacji nie zgłasza się w określonym terminie i miejscu do odbycia ćwiczeń w tej jednostce - podlega karze aresztu do 30 dni albo karze grzywny".
 Jak widać, proponuje się tutaj dodanie do Kodeksu karnego czynu zabronionego obwarowanego karą "aresztu do 30 dni" lub "karą grzywny". 
 Nie ma w Kodeksie karnym czegoś takiego jak kara aresztu. Dodawane jest więc "przestępstwo" z karą nieznaną ustawie. 
-Kara aresztu i "kara grzywny" to sankcje charakterystyczne dla prawa wykroczeń. Czyny zabronione pod groźbą kary dzielą się w Polsce na przestępstwa (w tym zbrodnie i występki, zagrożone surowymi karami) oraz na wykroczenia, które są sankcjonowane łagodniej na podstawie osobnego Kodeksu i w odrębnej procedurze. 
-Zatem otwieramy kolejny rozdział "standardów" legislacyjnych w Polsce, tym razem polegający na próbie wpisania do Kodeksu karnego czynów stanowiących wykroczenia. 
+Kara aresztu i "kara grzywny" to sankcje charakterystyczne dla prawa wykroczeń. Czyny zabronione pod groźbą kary dzielą się w Polsce na przestępstwa (w tym zbrodnie i występki, zagrożone surowymi karami) oraz na wykroczenia, które są sankcjonowane łagodniej na podstawie osobnego Kodeksu i w odrębnej procedurze.
+Zatem otwieramy kolejny rozdział "standardów" legislacyjnych w Polsce, tym razem polegający na próbie wpisania do Kodeksu karnego czynów stanowiących wykroczenia.
 Dotyczy to także nowych "przestępstw" - de facto wykroczeń - określonych w art. 147b ustęp 2 Kodeksu karnego oraz art. 147c ustępy 1 i 2 Kodeksu karnego (zamiast "ustępów" powinny być paragrafy "§")
 To zupełnie świeży, obszerny projekt ustawy o obronie ojczyzny, który został upubliczniony w piątek 12.11.2021*.
 

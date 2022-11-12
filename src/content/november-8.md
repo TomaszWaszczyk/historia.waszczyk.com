@@ -3,11 +3,23 @@ layout: post
 title: 8 listopada
 image: img/november/patkowski.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-08T10:00:00.000Z
+date: 2021-11-08T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
 ---
+
+### 2022
+
+Today's Thought?
+
+2022 is the worst year for stock and bond investors since 1969, as negative returns hit both stocks and bonds concurrently...
+
+History shows that something pretty big has to happen for stocks and bonds to be down in the same year. In 1931, a currency crisis forced the UK to abandon the gold standard, and in 1941, markets were roiled by the U.S. entry into World War II.
+
+The last year this happened provides the closest analogue for what investors are seeing in 2022. Rapid inflation in the mid-1960s forced the Federal Reserve to hike interest rates in an effort to cool the economy, much like what’s happening today. The economy tipped into recession in 1969, which marked a year of negative returns for both stocks and bonds.
+
+A recession is not just a theoretical probability it is bordering on a certainty as inflation nudges 11%, unaffected by the central banksters funny money or rates...
 
 ### 2021
 
@@ -26,6 +38,16 @@ Tłum migrantów na granicy. Rzecznik rządu: Dzisiaj może dojść do najtrudni
 Ceny gazy są podnoszone (na 100%) już dwa razy w roku. Znaleźliśmy się w bardzo ciekawym momencie historii. Niczego nie sugeruję ale to nie jest przypadek, że niemiecki agent Lenin też został przez nich wyposażony i wysłany aby zniszczyć Rosję. Dziś, Niemcy wszelkimi dostępnymi sposobami, próbują doprowadzić do upadku Rzeczpospolitą. W zamian obiecują.. nawet niczego nie muszą obiecywać. Póki co, podobnie jak w Rosji idzie im gładko. Wystarczą użyteczni idioci, którym po prostu się wmawia, że są najsłodszą solą tej ziemi.
 
 <img src="./img/november/lenin.jpeg"><br><br>
+
+---
+
+Wygrane:
+2 x 1 mln zł, 2 x Toyota C-HR, 6 X Toyota Corolla
+6 x 100 tys zł, 60 x 50 tys zł i hulajnogi
+Kto wygrał w tej loterii?
+Było podane w mediach publicznych?
+
+<img src="./img/november/szczepimysie.jpeg"><br><br>
 
 ---
 

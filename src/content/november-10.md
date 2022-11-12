@@ -3,10 +3,14 @@ layout: post
 title: 10 listopada
 image: img/november/bekanntmachung.jpg
 author: Tomasz Waszczyk
-date: 2020-11-10T10:00:00.000Z
+date: 2021-11-10T10:00:00.000Z
 tags:
   - Berliner Mauer
 ---
+
+### 2022
+
+<img src="./img/november/swiatzrozumialcodobre.jpg"><br><br>
 
 ### 2021
 

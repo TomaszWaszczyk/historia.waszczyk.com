@@ -3,9 +3,9 @@ layout: post
 title: 11 listopada
 image: img/november/rada_regencyjna.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-11T10:00:00.000Z
+date: 2021-11-11T10:00:00.000Z
 tags:
-  - "Niepodległość Polski"
+  - "Niepodległość Polski - mit"
 ---
 
 ### 2021
