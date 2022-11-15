@@ -3,7 +3,7 @@ layout: post
 title: 15 listopada
 image: img/november/niechjada.jpg
 author: Tomasz Waszczyk
-date: 2020-11-15T10:00:00.000Z
+date: 2021-11-15T10:00:00.000Z
 tags:
   - Lekarze w Polsce
 draft: false
@@ -11,9 +11,19 @@ draft: false
 
 ### 2022
 
+<img src="./img/november/tyrowicz.jpeg"><br><br>
+
+---
+
 <img src="./img/november/santander.png"><br><br>
 
+---
+
 ### 2021
+
+<img src="./img/november/ftx.jpeg"><br><br>
+
+---
 
 W wieku 82 lat swoją misję na planecie Ziemia zakończył Witold Podgórski – wieloletni zasłużony pracownik Wrocławskich Zakładów Elektronicznych ELWRO i IKSAIP, niezwykle uzdolniony elektronik. Pozwoliłem sobie opublikować notkę biograficzną Pana Witolda na stronie Polskie Komputery. Pan Witold sprawdzając możliwości komputera ODRA 1003, napisał w 1962 roku pierwszą grę komputerową w Polsce – Marienbad. Gra ta została odtworzona przez Marcina Bulandrę w 2020 roku w Muzeum Historii Komputerów i Informatyki w Katowicach na uruchomionym w ramach operacji "Thanasis" komputerze ODRA 1305.
 
@@ -46,6 +56,10 @@ Goldman Sachs:
 <img src="./img/november/gs.png"><br><br>
 
 ---
+
+### 2003
+
+<img src="./img/november/zloto2003.png"><br><br>
 
 ### 1985
 

@@ -3803,6 +3803,8 @@ przymierzać trumnę
 
 Wszystkie problemy tego świata zaczynają się od "ja chcę"
 
+rząd na bruk, bruk na rząd
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
