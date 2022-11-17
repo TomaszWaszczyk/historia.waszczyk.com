@@ -3,10 +3,16 @@ layout: post
 title: 16 listopada
 image: img/november/chopin.jpg
 author: Tomasz Waszczyk
-date: 2020-11-16T10:00:00.000Z
+date: 2021-11-16T10:00:00.000Z
 tags:
   - Chopin
 ---
+
+### 2022
+
+<img src="./img/november/alior.jpg"><br><br>
+
+<img src="./img/november/bitcoindead.jpeg"><br><br>
 
 ### 2014
 

@@ -3,11 +3,20 @@ layout: post
 title: 18 listopada
 image: img/november/koscioly2020.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-18T10:00:00.000Z
+date: 2021-11-18T10:00:00.000Z
 tags:
   - Chrześcijaństwo w Europie
 draft: false
 ---
+
+### 2022
+
+> Globalization is over
+
+<video width="640" height="480" controls>
+<source src="./movies/november/globalisationisover.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

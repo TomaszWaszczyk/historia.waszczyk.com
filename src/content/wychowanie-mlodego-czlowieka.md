@@ -126,6 +126,8 @@ Your browser does not support the video tag.
 
 * https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w
 
+* https://strefa-kostek.pl/ukladanki-logiczne-metalowe-222
+
 ---
 
 W wiosce smerfów mieszkało ich - wiadomo - setka. Każdy smerf miał inne umiejętności, które codziennie mógł sprzedać za jedną monetę, za którą mógł następnie kupić u innego smerfa to co mu akurat było potrzebne. Np. Łasuch każdego dnia produkował jedno ciastko i sprzedawał je za jedną monetę. Wszystkim oczywiście zarządzał Papa Smerf – on też będąc szefem wioski jako jedyny miał prawo wydawać nowe monety dla wioskowej społeczności, jeśli zaszłaby taka potrzeba.
@@ -275,7 +277,7 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 * Podręcznik „Wolna przedsiębiorczość”
 
-*  Dzieci ojczyzny opowiadania historyczne dla młodzieży
+* Dzieci ojczyzny opowiadania historyczne dla młodzieży
 Autor: Maria Dąbrowska
 
 * https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci

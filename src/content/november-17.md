@@ -3,10 +3,16 @@ layout: post
 title: 17 listopada
 image: img/november/dziennik.jpg
 author: Tomasz Waszczyk
-date: 2020-11-17T10:00:00.000Z
+date: 2021-11-17T10:00:00.000Z
 tags:
   - Propaganda
 ---
+
+### 2022
+
+<img src="./img/november/inflacjanbp.png"><br><br>
+
+<img src="./img/november/sejm.jpeg"><br><br>
 
 ### 2021
 
