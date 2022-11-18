@@ -14,6 +14,12 @@ tags:
 
 <img src="./img/november/sejm.jpeg"><br><br>
 
+---
+
+<img src="./img/november/childrendie.jpg"><br><br>
+
+---
+
 ### 2021
 
 Każda merytoryczna próba objaśniania rzeczywistości ekonomicznej przez prezesa NBP jest bolesną kompromitacją.

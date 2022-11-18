@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+> Budżet Krakowa wygląda dramatycznie. Koszt obsługi zadłużenia to blisko 400 mln zł. Na rolowanie długów ma iść 200 mln. Trzeba pożyczyć 1,1 mld, by spiąć finanse. Pomyśleć, że ludzie, którzy do tego doprowadzili, nazywali populistami tych, którzy ostrzegali, że wydają ponad stan.
+
 ### 2021
 
 Budowanie mieszkanio-cel (kredyt w pakiecie):
