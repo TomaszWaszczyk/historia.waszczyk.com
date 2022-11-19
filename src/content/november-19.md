@@ -3,7 +3,7 @@ layout: post
 title: 19 listopada
 image: img/november/zloto2021.png
 author: Tomasz Waszczyk
-date: 2020-11-19T10:00:00.000Z
+date: 2021-11-19T10:00:00.000Z
 tags:
   - Mieszkania
 draft: false
@@ -12,6 +12,18 @@ draft: false
 ### 2022
 
 > Budżet Krakowa wygląda dramatycznie. Koszt obsługi zadłużenia to blisko 400 mln zł. Na rolowanie długów ma iść 200 mln. Trzeba pożyczyć 1,1 mld, by spiąć finanse. Pomyśleć, że ludzie, którzy do tego doprowadzili, nazywali populistami tych, którzy ostrzegali, że wydają ponad stan.
+
+---
+
+> Lech Wałęsa w Meksyku: "Jestem za tym żeby zorganizowanie Europy powierzyć Niemcom"
+
+---
+
+UK PM Sunak meets Zelensky
+
+<img src="./img/november/sunak.jpeg"><br><br>
+
+---
 
 ### 2021
 
@@ -36,6 +48,10 @@ Złoto wyrażone w PLN najdroższe w historii, PLN najsłabszy w historii.
 ---
 
 – Szpitale powiatowe były i są „zwijane” – i to nie w wyniku decyzji tego czy innego rządu, ale dostosowywania się do rzeczywistych potrzeb, a zwłaszcza z powodu braku personelu medycznego, głównie lekarzy, którzy zniechęceni złymi warunkami pracy i płacy szukają zatrudnienia gdzie indziej. Taka jest rzeczywistość – bez względu na to, co mówi PiS
+
+---
+
+<img src="./img/november/szczepionka.jpeg"><br><br>
 
 ---
 

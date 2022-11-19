@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+<img src="./img/november/waligora.jpg"><br><br>
+
 ### 2021
 
 > Life as a service.

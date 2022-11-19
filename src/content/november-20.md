@@ -3,10 +3,20 @@ layout: post
 title: 20 listopada
 image: img/november/inflacjaniemcy2021.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-20T10:00:00.000Z
+date: 2021-11-20T10:00:00.000Z
 tags:
   - FED
 ---
+
+### 2022
+
+> Potężna strata banków we wrześniu. Ujemny bilans w tym roku ma 11 podmiotów
+
+Wakacje kredytowe sprawiły, że jednego miesiąca sektor bankowy zanotował 2,8 mld zł strat. To wyraźnie obniżyło tegoroczne wyniki finansowe. Są gorsze o prawie 40 proc. rok do roku. Aż 11 banków komercyjnych po dziewięciu miesiącach nie może się pochwalić nawet złotówką zysku. Zamiast tego są mocno na minusie.
+
+Za nami jeden z najgorszych miesięcy w historii sektora bankowego w Polsce. Komisja Nadzoru Finansowego (KNF) wskazała, że we wrześniu łącznie wszystkie instytucje odnotowały 2,78 mld zł straty netto.
+
+To znacząco wpłynęło na bilans pierwszych dziewięciu miesięcy 2022 r. Jest dodatni, dzięki dobrym poprzednim miesiącom, ale znacznie gorszy niż rok wcześniej. Wynik finansowy netto banków wyniósł 5,52 mld zł — spadł względem analogicznego okresu poprzedniego roku o prawie 40 proc.
 
 ### 2021
 

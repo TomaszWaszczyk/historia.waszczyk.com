@@ -3805,6 +3805,8 @@ Wszystkie problemy tego świata zaczynają się od "ja chcę"
 
 rząd na bruk, bruk na rząd
 
+„Homosexuality is a sin and a mental defect“ - Khalid Salman, official representative of the World Cup in Qatar
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

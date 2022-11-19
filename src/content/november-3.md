@@ -67,6 +67,10 @@ From 1 to 29 Oct ’21, the ECB’s balance sheet increased by 92.9 €bn after 
 
 ---
 
+<img src="./img/november/migalski.jpeg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/november/mcdonald.jpg"><br><br>
