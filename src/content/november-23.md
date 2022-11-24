@@ -3,7 +3,7 @@ layout: post
 title: 23 listopada
 image: img/november/mbank.png
 author: Tomasz Waszczyk
-date: 2020-11-23T10:00:00.000Z
+date: 2021-11-23T10:00:00.000Z
 tags:
   - MBank
 draft: false

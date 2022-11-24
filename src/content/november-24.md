@@ -3,10 +3,29 @@ layout: post
 title: 24 listopada
 image: img/november/xrpmbank.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-24T10:00:00.000Z
+date: 2021-11-24T10:00:00.000Z
 tags:
   - mBank
 draft: false
+---
+
+### 2022
+
+Nikol Pashinyan refused to sign a declaration following the Collective Security Treaty Organization (CSTO) summit.
+
+In fact, it means that the CSTO has collapsed completely.
+
+Putin dropped his pen, Lukashenko is shocked.
+
+<video width="640" height="480" controls>
+<source src="./movies/november/putin.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/november/elonfires.jpeg"><br><br>
+
 ---
 
 ### 2021

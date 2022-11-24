@@ -3,9 +3,19 @@ layout: post
 title: 22 listopada
 image: img/november/japantimes.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-22T10:00:00.000Z
+date: 2021-11-22T10:00:00.000Z
 tags:
   - Propaganda
+---
+
+### 2022
+
+> Olaf Scholz:"Germany must be prepared for Ukraine war escalation" - Reuters
+
+---
+
+<img src="./img/november/szczepionki.jpg"><br><br>
+
 ---
 
 ### 2021

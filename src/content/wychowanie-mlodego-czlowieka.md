@@ -290,6 +290,8 @@ Autor: Maria Dąbrowska
 
 * https://www.desmos.com/calculator
 
+Tuwim Julian, Słonimski Antoni - W oparach absurdu
+
 <!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol -->
 
 <a href="./documents/wychowanie-mlodego-czlowieka/The_Case_Against_Education_by_Bryan_Caplan.pdf" target="_blank">The_Case_Against_Education_by_Bryan_Caplan</a>

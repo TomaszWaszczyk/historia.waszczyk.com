@@ -10,6 +10,12 @@ tags:
 
 ### 2022
 
+> ‘Cryptocurrency is nonsense’ says Neil Kashkari, Fed President (Minneapolis)
+
+<img src="./img/november/neil.jpeg"><br><br>
+
+---
+
 > Potężna strata banków we wrześniu. Ujemny bilans w tym roku ma 11 podmiotów
 
 Wakacje kredytowe sprawiły, że jednego miesiąca sektor bankowy zanotował 2,8 mld zł strat. To wyraźnie obniżyło tegoroczne wyniki finansowe. Są gorsze o prawie 40 proc. rok do roku. Aż 11 banków komercyjnych po dziewięciu miesiącach nie może się pochwalić nawet złotówką zysku. Zamiast tego są mocno na minusie.

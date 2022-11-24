@@ -3,7 +3,7 @@ layout: post
 title: 21 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2020-11-21T10:00:00.000Z
+date: 2021-11-21T10:00:00.000Z
 tags:
   - Life as a service
 draft: false
@@ -11,7 +11,17 @@ draft: false
 
 ### 2022
 
+Jesteśmy liderem w UE, ale tym rząd PiS się raczej nie pochwali. Zagrożenie dla Polski.
+
+Koszty obsługi polskiego długu publicznego wrosną najszybciej w całej Unii i w 2024 r. wyniosą ponad 105 mld zł - prognozuje Komisja Europejska. - To oznacza, że będą one aż 3,5-krotnie wyższe niż jeszcze w 2020 r. - zauważa w komentarzu dla money.pl Sławomir Dudek, główny ekonomista FOR.
+
+<img src="./img/november/kosztdlugu.webp"><br><br>
+
+---
+
 <img src="./img/november/waligora.jpg"><br><br>
+
+---
 
 ### 2021
 

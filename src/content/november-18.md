@@ -17,6 +17,14 @@ draft: false
 
 ---
 
+<img src="./img/november/cryptocollapse.jpeg"><br><br>
+
+<img src="./img/november/downfall.jpeg"><br><br>
+
+<img src="./img/november/zaorski.jpeg"><br><br>
+
+---
+
 > Globalization is over
 
 <video width="640" height="480" controls>

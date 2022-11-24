@@ -313,13 +313,9 @@ https://en.wikipedia.org/wiki/Dries_Riphagen
 
 https://en.wikipedia.org/wiki/Willis_Carrier
 
-
-# Sztuka
-
 https://en.wikiquote.org/wiki/Herbert_A._Simon
 
-
-# historia.waszczyk.com
+https://wielkahistoria.pl/
 
 4 lipiec: https://pl.wikipedia.org/wiki/Bitwa_pod_K%C5%82uszynem
 
