@@ -3,10 +3,28 @@ layout: post
 title: 26 listopada
 image: img/november/kiszczak.jpg
 author: Tomasz Waszczyk
-date: 2020-11-26T10:00:00.000Z
+date: 2021-11-26T10:00:00.000Z
 tags:
   - Kiszczak
 ---
+
+### 2022
+
+On the fourth Saturday of November, Ukrainians throughout the world are lighting candles in memory of the millions of people who died in Soviet Ukraine during the Holodomor-genocide of 1932-33. Holodomor (death by starvation) - the man-made famine planned and implemented by the communist Stalin’s regime in 1932-1933. It was genocide.
+
+Joseph Stalin wanted to starve into submission the rebellious Ukrainian peasantry and force them into collective farms. russians requisitioned more grain than farmers could provide. When they resisted, brigades of Communist Party activists swept through the villages and took everything that was edible.
+
+Despite russia’s denial of the Holodomor, over the years Ukraine has always felt the support and solidarity of the international community in establishing the truth about one of the greatest crimes against humanity in the world’s history and in paying proper tribute to its victims. National parliaments and regional assemblies in many countries of the world have also recognized Holodomor as genocide.
+
+Mourning millions of innocent victims of Holodomor who were killed by barbaric policy of the Soviet totalitarian regime, we stress the importance of remembrance and maintaining a firm stance in condemning totalitarianism.
+
+Today the russians are robbing Ukrainian farmers and illegally exporting grain, fuel, agricultural machinery, and the first seasonal crops from Ukraine. The occupying power takes away the sowing material from the farmers, but at the same time requires them to successfully sow and then send new crops to russia. russians prohibit the farmers to pay taxes to the state budget of Ukraine. In case of disagreement, the soldiers threaten the locals with physical violence. 
+
+russia is repeating Soviet policy of mass looting of Ukrainian peasants in the late 1920s. This is how Soviets started the Holodomor, a genocide of Ukrainians via mass starvation, in 1932-33. This is also how Soviets destroyed the private property on Ukrainian lands. Under the guise of a “war of liberation against the Nazis,” russia is provoking famine in the occupied territories and destroying Ukraine as a competitor in the international food market.
+
+<img src="./img/november/holodomor.jpeg"><br><br>
+
+<!-- https://www.rferl.org/a/ukraine-holodomor-photographs-directory-wienerberger-abbe-whiting-bokan/31235172.html -->
 
 ### 2021
 

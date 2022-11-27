@@ -3,10 +3,14 @@ layout: post
 title: 25 listopada
 image: img/november/erhard_wetzel.png
 author: Tomasz Waszczyk
-date: 2020-11-25T10:00:00.000Z
+date: 2021-11-25T10:00:00.000Z
 tags:
   - NSDAP
 ---
+
+### 2022
+
+> The internet never had a native currency, so it had to use a surrogate: attention.
 
 ### 2021
 

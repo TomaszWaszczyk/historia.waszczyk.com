@@ -3,10 +3,20 @@ layout: post
 title: 28 listopada
 image: img/november/trojka.jpg
 author: Tomasz Waszczyk
-date: 2020-11-28T10:00:00.000Z
+date: 2021-11-28T10:00:00.000Z
 tags:
   - Amazon
 ---
+
+### 2022
+
+<img src="./img/november/theeconomist.jpg"><br><br>
+
+<img src="./img/november/chinese.jpeg"><br><br>
+
+<img src="./img/november/fed_rates.jpeg"><br><br>
+
+<img src="./img/november/pkobp.jpg"><br><br>
 
 ### 2021
 

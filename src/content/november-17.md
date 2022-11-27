@@ -119,6 +119,10 @@ Po 38 latach usunięto z Pl. Bankowego w Warszawie pomnik krwawego zbrodniarza k
 
 W Moskwie odbyły się polsko- radzieckie rozmowy, w których udział wzięła delegacja pod przewodnictwem Władysława Gomułki (zdjęcie). Ustalono, iż zadłużenie Polski według stanu z 1 listopada 1956 roku zostanie umorzone oraz postanowiono o repatriacji 30 tysięcy Polaków zamieszkałych na terenie Związku Radzieckiego. Uzgodniono również status wojsk radzieckich w Polsce.
 
+### 1947
+
+<img src="./img/november/transistor.jpg"><br><br>
+
 ### 1944
 
 Główny Zarząd Polityczno Wychowawczy Ludowego Wojska Polskiego wydał wytyczne dotyczące pracy propagandowo- wychowawczej skierowane do szeregowych żołnierzy oraz kadry oficerskiej.

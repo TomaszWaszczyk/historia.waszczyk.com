@@ -3,9 +3,33 @@ layout: post
 title: 27 listopada
 image: img/november/as.jpg
 author: Tomasz Waszczyk
-date: 2020-11-27T10:00:00.000Z
+date: 2021-11-27T10:00:00.000Z
 tags:
   - COVID
+---
+
+### 2022
+
+🦊MetaMask will begin collecting users' IPaddresses and Ethereum wallet addresses 👛 during on-chain transactions to comply with their AML and KYC obligations🤫
+
+🦊ConsenSys (MetaMask's developer) revised its Privacy Policy on 23 November to reflect the fact that they will start collecting the following information from their users:
+
+🔏 Identity information: ( first name, last name, username or similar identifier, title, date of birth, and gender)
+🔏Contact information: (postal address, email address and telephone number)
+🔏 Profile information: (username and password, interests, preferences, feedback and survey responses)
+🔏Feedback and correspondence: ( information provided in responses to surveys, market research activities, reporting problems with service, receiving customer support etc)
+🔏 Financial information (credit card or other payment card details)
+🔏Transaction information: (details about purchases made through the Service and billing details)
+🔏Usage information (information about how users use the service and interact with metamask)
+🔏 Marketing information and preferences
+🔏Financial information (such as bank account number and bank routing number; financial assets holdings)
+
+Information Automatically Collected includes Log Data including IP address, device and browser type, operating system, among other things.
+
+---
+
+<img src="./img/november/fraud.jpeg"><br><br>
+
 ---
 
 ### 2021
@@ -68,6 +92,14 @@ Na zdjęciu konferencja oficerów Gestapo Armii Czerwonej w Urzędzie
 ### 1933
 
 https://de.wikipedia.org/wiki/Kraft_durch_Freude
+
+### 1932
+
+We Lwowie rozpoczęły się rozruchy antyżydowskie.
+
+Zaczęło się od bzdetu. Student IV roku weterynarii Jan Grodkowski biesiadował przy suto zakrapianym stole ze swoimi kolegami.
+
+<img src="./img/november/rozruchy.jpeg"><br><br>
 
 ### 1915
 

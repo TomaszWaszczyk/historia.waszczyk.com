@@ -3,7 +3,7 @@ layout: post
 title: 27 października
 image: img/october/swietlicawroclaw.jpg
 author: Tomasz Waszczyk
-date: 2020-10-27T10:00:00.000Z
+date: 2021-10-27T10:00:00.000Z
 tags:
   - Bukowski
 ---

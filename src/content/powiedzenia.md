@@ -3807,6 +3807,16 @@ rząd na bruk, bruk na rząd
 
 „Homosexuality is a sin and a mental defect“ - Khalid Salman, official representative of the World Cup in Qatar
 
+The internet never had a native currency, so it had to use a surrogate: attention.
+
+nie bądźmy sensei dla każdego
+
+Polityka to rozmowa o interesach
+
+über Leichen gehen
+
+Wer schreibt, der bleibt
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
