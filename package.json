@@ -76,7 +76,7 @@
     "eslint-plugin-react": "7.31.10",
     "eslint-plugin-react-hooks": "4.6.0",
     "rimraf": "3.0.2",
-    "typescript": "4.8.4",
+    "typescript": "4.9.3",
     "gatsby-plugin-goatcounter": "^0.4.0"
   },
   "engines": {
