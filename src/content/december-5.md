@@ -8,6 +8,22 @@ tags:
   - Tusk
 ---
 
+### 2022
+
+CHINY NA ARABSKIM SZCZYCIE W RIJADZIE. Saudyjski następca tronu będzie gospodarzem wizyty Xi Jinpinga, a w praktyce dwustronnego, regionalnego i arabskiego szczytu z chińskim prezydentem. O formacie porównywalnym do podobnego (raczej nieudanego) wydarzenia podczas wizyty Joe Bidena w Królestwie i zapewne bardziej istotnego niż niedawny szczyt arabski w Algierze.
+
+Rijad demonstruje siłę budowaną na kryzysie energetycznym i wolę MBS realizacji wielokierunkowej polityki w wielobiegunowym świecie. Kierując się własnymi interesami, niekoniecznie zbieżnymi z oczekiwaniami amerykańskiego sojusznika i Zachodu. Zbliżenie z Chinami trwa od lat i ma charakter obiektywny, dyktowany interesami gospodarczymi (ropa za towary, inwestycje i wysokie technologie). Jest też elementem presji na USA, które pozostają filarem saudyjskiego i regionalnego bezpieczeństwa, ale w sferze relacji politycznych i chemii między przywódcami znajdują się w stadium historycznego dołka Zapowiadany przez Waszyngton reset obecnie jest już niemożliwy w oparciu o amerykański dyktat i wymaga partnerskiego kompromisu. A jest konieczny, jeśli poważnie traktować amerykańskie zapewnienia o pozostaniu na Bliskim Wschodzie i w Płn. Afryce oraz ograniczaniu tam wpływów chińskich i rosyjskich.
+
+Podobnie kalkulują inne kraje GCC, ceniące długofalowe podejście Chin do współpracy, atrakcyjną ofertę trwałych powiązań, brak warunków politycznych, niechęć do konfliktowania USA i konstruktywne podejście do problemów bezpieczeństwa regionalnego. Spoiwem pozostaje handel, który w 2020 przekroczył 200 miliardów $ (GCC+Irak), przy znacznym zrównoważeniu obrotów. Chiny odgrywają też wielką rolę w realizacji i stabilizacji narodowych planów transformacji, w tym mega projektów rozwojowych.
+
+Plany Pekinu obejmują cały szerszy region MENA, z Izraelem i Iranem. Pierwotnie był on traktowany jako pomost do Europy, ale odkrywany potencjał, skala porozumień ws. pasa i drogi oraz konsekwencje agresji rosyjskiej sprawiły, że stał się samoistnym celem. A Chiny pożądanym partnerem, co potwierdza zlot arabskich liderów oraz aplikacje do SzOW i BRICS.
+
+Wizyta Xi zapowiada nowy etap obecności Chin w regionie, gdzie osłabieniu ulegają wpływy Rosji. Wymaga to redefinicji podejścia USA i UE do tego obszaru i jego problemów. Arabia i konserwatywne KA nie zrywają z Zachodem, z którym są powiązane starymi więzami, miliardowymi inwestycjami i depozytami, gwarancjami bezpieczeństwa, kontraktami wojskowymi, osobistymi kontaktami elit. Nie chcą też wpadać z jednej zależności w drugą. Liderzy regionu mają dość instrumentalnego traktowania go jako poletka globalnej rozgrywki mocarstw skutkującej chaosem i uważają za możliwe zachowanie podmiotowości, bez pełnej zależności od kogokolwiek. Są świadomi znaczenia dla europejskiego i globalnego bezpieczeństwa energetycznego.
+
+W tej układance jest jeszcze jeden klocek – książę Mohammad bin Salman jest zdeterminowany zostać królem i liderem regionu arabskiego bez międzynarodowych zgrzytów.
+
+<img src="./img/december/xiarab.jpeg"><br><br>
+
 ### 2021
 
 <video width="640" height="480" controls>
