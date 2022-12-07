@@ -3,7 +3,7 @@ layout: post
 title: 5 grudnia
 image: img/december/centralny.jpg
 author: Tomasz Waszczyk
-date: 2020-12-05T10:00:00.000Z
+date: 2021-12-05T10:00:00.000Z
 tags:
   - Tusk
 ---
@@ -23,6 +23,14 @@ Wizyta Xi zapowiada nowy etap obecności Chin w regionie, gdzie osłabieniu uleg
 W tej układance jest jeszcze jeden klocek – książę Mohammad bin Salman jest zdeterminowany zostać królem i liderem regionu arabskiego bez międzynarodowych zgrzytów.
 
 <img src="./img/december/xiarab.jpeg"><br><br>
+
+---
+
+Humility in victory and taking full responsibility for setbacks are the hallmark of a great leader. Hajime Moriyasu Japan head coach bowing down to fans after his team stumbled against Croatia in round 16. Sad to see one of the best football teams with exemplary fans leave the tournament this early.
+
+<img src="./img/december/japanstyle.jpeg"><br><br>
+
+---
 
 ### 2021
 
@@ -120,6 +128,12 @@ Zagwarantowanie tych podstawowych wolności nie da się pogodzić z przygotowywa
 Uważamy, że nierespektowanie wolności obywatelskich może doprowadzić do stopniowego pozbawiania społeczeństwa świadomości narodowej i do przerwania ciągłości narodowej tradycji. Jest to zagrożenie dla egzystencji narodu. [...]
 Uznanie tych wolności, potwierdzone przez konferencję w Helsinkach, nabiera dziś wagi międzynarodowej, gdyż tam, gdzie nie ma wolności, nie ma pokoju ani bezpieczeństwa."
 Wśród sygnatariuszy listu byli między innymi Andrzej Drawicz, Zbigniew Herbert, Stefan Kisielewski, Leszek Kołakowski i Jan Józef Lipski.
+
+### 1914
+
+Ewakuacja wojsk rosyjskich z Łodzi - następnego dnia miasto zajęły wojska niemieckie.
+
+<img src="./img/december/lodz.jpeg"><br><br>
 
 ### 1909
 

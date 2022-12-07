@@ -3,10 +3,14 @@ layout: post
 title: 8 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2020-12-08T10:00:00.000Z
+date: 2021-12-08T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2022
+
+<img src="./img/december/kurski2.jpg"><br><br>
 
 ### 2021
 
@@ -15,6 +19,10 @@ tags:
 Dr Jane Goodall podczas panelu na Światowym Forum Ekonomicznym: gdyby było nas mniej, to nie byłoby problemu z klimatem.
 
 <img src="./img/december/janegoodall.jpg"><br><br>
+
+---
+
+<img src="./img/december/sam.jpeg"><br><br>
 
 ---
 
@@ -27,6 +35,10 @@ Figuring out better ways to ID and authenticate people isn’t new. While new me
 Science in 2021:
 
 <img src="./img/december/science2021.jpeg"><br><br>
+
+---
+
+<img src="./img/december/arturbarcius.jpeg"><br><br>
 
 ---
 
@@ -86,6 +98,10 @@ Umiera Paul Volcker
 ### 2017
 
 <img src="./img/december/premiermorawiecki.jpg"><br><br>
+
+### 1991
+
+<img src="./img/december/1991.jpeg"><br><br>
 
 ### 1953
 

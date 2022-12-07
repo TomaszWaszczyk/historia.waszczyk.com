@@ -3,9 +3,37 @@ layout: post
 title: 7 grudnia
 image: img/december/kowalski.jpg
 author: Tomasz Waszczyk
-date: 2020-12-07T10:00:00.000Z
+date: 2021-12-07T10:00:00.000Z
 tags:
   - Józef Kowalski
+---
+
+### 2022
+
+Potomek starej arystokratycznej rodziny z Turyngii „Książę Henryk XIII”, który miał stanąć na czele Niemiec przekształconych w Rzeszę na wzór bismarckowskiej po przygotowywanym zamachu stanu, wg informacji podanych przez niemieckie służby po zatrzymaniu jego i współpracowników.
+
+<img src="./img/december/henrykxiii.jpeg"><br><br>
+
+---
+
+<img src="./img/november/sukcesnbp.jpeg"><br><br>
+
+<img src="./img/december/analitycyebc.jpg"><br><br>
+
+<img src="./img/december/euro.jpeg"><br><br>
+
+<img src="./img/december/toxicshit.jpg"><br><br>
+
+<img src="./img/november/ecb.jpg"><br><br>
+
+<img src="./img/november/alexksm.jpg"><br><br>
+
+<img src="./img/november/moneysupply.jpeg"><br><br>
+
+---
+
+<img src="./img/november/poronienia.jpeg"><br><br>
+
 ---
 
 ### 2021
@@ -93,6 +121,32 @@ Olga Tokarczuk wygłosiła przemowę noblowską.
 ### 2013
 
 W Domu Pomocy Społecznej w Tursku odszedł 113-letni kapitan Józef Kowalski - ostatni żyjący uczestnik Bitwy Warszawskiej. 31 sierpnia 1920 roku Józef Kowalski stoczył w szeregach 22. Pułku Ułanów Podkarpackich bitwę pod Komarowem niedaleko Zamościa, rozbijając 1. Armię Konną dowodzoną przez Siemiona Budionnego. Józef Kowalski był również bohaterem polskiej wojny obronnej 1939; we wrześniu 1939 roku walczył w artylerii. Po rozbiciu pułku przez wojska niemieckie Józef Kowalski dostał się do niewoli niemieckiej, w której pozostał aż do zakończenia wojny. Po wyzwoleniu trudnił się pracą na roli. W 1993 roku w znacznym stopniu pogorszył się stan zdrowia Józefa Kowalskiego. Schorowany weteran przekazał grunty Skarbowi Państwa i zamieszkał w Domu Pomocy Społecznej w Tursku. W rocznicę swoich 110. urodzin został odznaczony przez prezydenta RP Krzyżem Oficerskim Orderu Odrodzenia Polski, Polonia Restituta, a dwa lata później decyzją ministra obrony narodowej Tomasza Siemoniaka otrzymał awans do stopnia kapitana Wojska Polskiego. Za liczne zasługi kapitanowi Kowalskiemu przyznano również medal ,,Pro Memoria'', oraz medal ,,Zasłużony dla Warszawy''. 26 maja 2010 uchwałą Rady Miejskiej Radzymina nadano kapitanowi Kowalskiemu tytuł honorowego obywatela tego miasta, dla przypomnienia dodam, że honorowymi obywatelami Radzymina są m.in. marszałek Edward Rydz-Śmigły, a także papież Jan Paweł II. Kapitan Józef Kowalski został pochowany z honorami wojskowymi 11 grudnia 2013 roku na cmentarzu parafialnym w Krzeszycach.
+
+### 1992
+
+G.Soros "pokonał" Bank of England w 1992r, jednak kilka lat później sam został pokonany, w innej części globu.
+
+Okazją były napięcia na rynkach azjatyckich w latach 1997-1998, w szczególności szybko słabnące waluty sąsiadów Państwa-Miasta.
+
+Miejscowy dolar (HKD) zakotwiczony był od 1983 r. na sztywno do USD na poziomie ca 7,80.
+
+"Rynki" dostrzegły rosnący spadek atrakcyjności Hongkongu w porównaniu do Bankgkoku, czy nawet Tokio, zapachniało dewaluacją HKD, przynajmniej tak się niektórym wydawało.
+
+Obstawiono podwójnie, była to sprzedaż pożyczonych akcji (krótka sprzedaż) za HKD oraz wymiana HKD na USD. Zyski miała zapewnić albo dewaluacja HKD, albo podwyżka stóp %, która pogrążyłaby giełdę (spadek cen akcji).
+
+Jak na profesjonalnych spekulantów przystało, sama akcja nie ograniczała się jedynie do zajęcia odpowiednich pozycji.
+
+Podobnie do roku 1992 "inwestorzy" robili wiele, aby założony scenariusz zmaterializował się. Sama sprzedaż HKD odbywała się w dużych, regularnie pojawiających się kwotach, tak aby mieć pewność, że zostanie to zauważone. Fundusze płaciły dziennikarzom i lokalnym wydawcom za treści sugerujące, że HKD lada moment będzie zdewaluowany, co miało przyspieszyć run na waluty.
+
+Do gry wszedł Hong Kong’s Exchange Fund. Dysponując ok.570 mld $ zaczął kupować akcje, których rosnące ceny były stratą dla spekulantów siedzących po krótkiej stronie. Szacuje się, że na ten cel wydano ok. 20 % posiadanych $.
+
+Czy fundusze hendgingowe nie spodziewały się tego?
+
+Nie zakładały, że władze wolnorynkowego Hongkongu pozwolą na taką ingerencję w rynek. Stratne pozycje były więc rolowane w nadziei, że rząd się wycofa, tymczasem włożył kolejny "kij w szprychy".
+
+Wprowadzono prawne ograniczenia krótkiej sprzedaży, czego efektem było masowe likwidowanie wcześniejszych pozycji.
+
+Globalna krótka pozycja spekulantów wynosiła ok.30 mld $, nie jestem pewien, czy da się precyzyjnie oszacować, ile z tej kwoty udało im się uratować.
 
 ### 1954
 

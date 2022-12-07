@@ -9,7 +9,9 @@ tags:
 ---
 
 ### 2022
-
+<!-- "Jest czas do końca grudnia - później zaczną wywlekać z domów..." 
+https://twitter.com/Jan34733995
+-->
 🦊MetaMask will begin collecting users' IPaddresses and Ethereum wallet addresses 👛 during on-chain transactions to comply with their AML and KYC obligations🤫
 
 🦊ConsenSys (MetaMask's developer) revised its Privacy Policy on 23 November to reflect the fact that they will start collecting the following information from their users:

@@ -3817,6 +3817,10 @@ Polityka to rozmowa o interesach
 
 Wer schreibt, der bleibt
 
+https://www.zitate.eu/autor/karl-marx-zitate
+
+nie jesteś DJ'em, nie miksuj
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -10,6 +10,10 @@ tags:
 
 ### 2022
 
+> Centralna ścieżka projekcji NBP zakłada, że inflacja w tym roku wyniesie 14,5 proc., w przyszłym roku 13,1 proc., natomiast w 2024 r. będzie to 5,9 proc. - wynika z listopadowej projekcji Narodowego Banku Polskiego.
+
+---
+
 <img src="./img/november/theeconomist.jpg"><br><br>
 
 <img src="./img/november/chinese.jpeg"><br><br>
@@ -32,7 +36,7 @@ tags:
 
 ### 1943
 
-Rrozpoczęła się trwająca do 1 grudnia 1943 roku konferencja w Teheranie. Tak zwana Wielka Trójka (na zdjęciu od lewej: Stalin, Roosevelt , Churchill) zdecydowała o nowym podziale Europy. Polskę oddano pod radziecką strefę wpływów, a wschodnią granicę ustalono według przebiegu tzw Linii Curzona.
+Rozpoczęła się trwająca do 1 grudnia 1943 roku konferencja w Teheranie. Tak zwana Wielka Trójka (na zdjęciu od lewej: Stalin, Roosevelt , Churchill) zdecydowała o nowym podziale Europy. Polskę oddano pod radziecką strefę wpływów, a wschodnią granicę ustalono według przebiegu tzw Linii Curzona.
 
 ---
 

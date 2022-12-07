@@ -55,6 +55,10 @@ CBO said new businesses formed decreased from 10 percent of all firms that exist
 
 ---
 
+### 2013
+
+Zamordowano Aaron Swartz.
+
 ### 1940
 
 Zanotowano najniższą temperaturę w historii Polski: - 40 C.

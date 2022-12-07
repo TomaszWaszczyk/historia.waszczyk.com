@@ -3,10 +3,64 @@ layout: post
 title: 29 listopada
 image: img/november/lublin.jpg
 author: Tomasz Waszczyk
-date: 2020-11-29T10:00:00.000Z
+date: 2021-11-29T10:00:00.000Z
 tags:
   - Bitcoin
 ---
+
+### 2022
+
+<img src="./img/november/voltaire.jpeg"><br><br>
+
+2008 was nothing compared to this. The next financial crisis will blow you away (literally), here's how:
+
+He needed $700 billion, he needed it badly.
+
+It was a Thursday evening in late autumn of 2008, and Hank Paulson was groveling at the feat of majority leader Nancy Pelosi.
+
+The 74th United States secretary of the treasury, one of the most powerful men in the world, was literally on his knees in the middle of the White House’s crowded Roosevelt Room.
+
+It didn’t matter that Paulson was a 62-year old statesman, an insanely successful businessman, and a former chairman and CEO of Goldman Sachs...
+
+None of it mattered even in the slightest as he prostrated himself in front of congressional leadership and the president.
+
+The incident has since been redacted by some as a moment of levity in an otherwise stressful situation.
+
+But it's clear from Paulson's own account that he was simply overpowered by a terrifying realization that had come crashing down on him - a realization that hadn't yet dawned on the larger political class.
+
+Paulson understood in that moment that if he didn't secure a liquidity injection, the world would end, and it would end within days - potentially hours.
+
+That's because the entire financial system and even money itself had turned into a giant house of cards.
+
+It was all just credit - empty promises of repayment.
+
+And because the mortgage crisis was rapidly avalanching into a global credit crisis, it meant that money would soon stop working.
+
+Alistair Darling, former Chancellor of the Exchequer, recalls being told that Britain was "two or three" hours away from ATMs running dry and total societal collapse.
+
+Ever wonder why presidents age decades in years? It's the brutal realization that the world is constantly teetering on the edge of borrowed time, and the future is nothing more than a race against the compounding debt of the past.
+
+Someone was brilliant enough to overlay the last 70 years of money printing with a parabola that extrapolates the trend (see below).
+
+The chart shows that even IF our political class manages to play the game absolutely perfectly going forward, there's only 15 years left until financial armageddon.
+
+The money supply had to grow 80% within the last two years, and that time scale will only accelerate.
+
+Money will soon have to double yearly, then monthly, weekly, and finally daily. That's when *pop goes the weasel*
+
+We've seen it many times before - a financial reset.
+
+The terms of these financial resets have historically almost always been settled through war.
+
+That's nothing new, but here's what is...
+
+We're about to go through the first reset with nuclear warheads, and the fireworks are going to be spectacular.
+
+Maybe it's time to be honest about where this is headed.
+
+Even Madoff described a sense of relief after his ponzi was exposed.
+
+<img src="./img/november/moneysupply.jpeg"><br><br>
 
 ### 2021
 

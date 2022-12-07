@@ -23,6 +23,18 @@ Koszty obsługi polskiego długu publicznego wrosną najszybciej w całej Unii i
 
 ---
 
+Dorota Sienkiewicz zawieszona za zniechęcanie do szczepień przeciwko covidowi. Ten apel nie spodobał się Izbie Lekarskiej.
+
+<img src="./img/november/dorota-sienkiewicz.jpg"><br><br>
+
+Dr Dorota Sienkiewicz została zawieszona w prawach do wykonywania zawodu przez Sąd Lekarski. Za ostrzeganie dzieci przed przyjęciem szczepionki przeciw Covid-19.
+
+Jak podaje Polskie Stowarzyszenie Niezależnych Lekarzy i Naukowców, w dniu 14 listopada 2022 roku odbył się sąd nad dr Dorotą Sienkiewicz.
+
+Białostocka Okręgowa Izba Lekarska przyczepiła się do słów dr Sienkiewicz skierowanych do dzieci i młodzieży w „Apelu do młodych Polaków”.
+
+---
+
 ### 2021
 
 > Life as a service.

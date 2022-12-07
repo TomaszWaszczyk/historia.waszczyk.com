@@ -99,6 +99,10 @@ Manifestacja antyniemiecka na placu Piłsudskiego w Warszawie. Delegacja byłych
 
 https://pl.wikipedia.org/wiki/Linia_Curzona
 
+### 1868
+
+<img src="./img/july/marx.jpeg"><br><br>
+
 ### 1562
 
 Król Zygmunt II August powierzył dawnemu poczmistrzowi augsburskiemu Christophowi Taxisowi przywilej zorganizowania poczty na Litwie. Wcześniej król wypowiedział umowę na współpracę Włochowi Prosperowi Provanie.

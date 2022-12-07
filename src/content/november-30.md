@@ -3,9 +3,60 @@ layout: post
 title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
-date: 2020-11-30T10:00:00.000Z
+date: 2021-11-30T10:00:00.000Z
 tags:
   - ZUS
+---
+
+### 2022
+
+<img src="./img/november/voltaire.jpeg"><br><br>
+
+<img src="./img/november/zadluzeniepolski.jpg"><br><br>
+
+Test:
+
+> Bitcoin is "on a road to irrelevance" - European Central Bank
+
+---
+
+<a href="./documents/november/2263.pdf" target="_blank">Konstytucja</a>
+
+---
+
+<a href="./documents/november/BudgetChartBook-2022-1.pdf" target="_blank">Debt of USA</a>
+
+---
+
+<a href="./documents/november/2263" target="_blank">Zmiana konstytucji</a>
+
+---
+
+<img src="./img/november/bohater.png"><br><br>
+
+---
+
+> Papież Franciszek: „Kiedy patrzę na Ewangelię tylko z socjologicznego punktu widzenia, tak, jestem komunistą i był nim też Jezus”.
+
+---
+
+<img src="./img/november/krypto.jpeg"><br><br>
+
+---
+
+Minister Rzeczkowska mówi, że resorty zostały zobligowane do szukania oszczędności w wysokości 5%. Biorąc za punkt referencyjny wydatki budżetu ogółem w 2023 lub tylko wydatki niesztywne wychodzą z tego kwoty odpowiednio ok. 34 i 8 mld zł.
+
+<img src="./img/november/oszczednosci.png"><br><br>
+
+Jednocześnie wskazano, że zerowy VAT na żywność będzie obowiązywał co najmniej przez I półrocze 2023. Koszt całego zabiegu wynieść ma ok. 8 mld zł. Pierwotnie NBP zakładał, że koszt ten przekroczy 33 mld zł. Oczywiście w to miejsce weszły inne programy wsparcia.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/november/chwalaukrainie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

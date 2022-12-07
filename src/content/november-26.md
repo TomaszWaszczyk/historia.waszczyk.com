@@ -10,6 +10,16 @@ tags:
 
 ### 2022
 
+Premierzy RP, Ukrainy i Litwy podpisali w Kijowie deklarację
+
+„W wojnie rozpętanej przez Rosję wynik może być tylko jeden: albo Ukraina zwycięży, albo przegra cała Europa” - podkreślił w Kijowie premier Mateusz Morawiecki. Szef rządu spotkał się z premierami Ukrainy i Litwy w ramach Trójkąta Lubelskiego. Z kolei Ingrida Simonyte zwróciła uwagę, że wojna Rosji przeciw Ukrainie nie ma granic i przypomniała o śmierci dwóch osób, zabitych na terytorium Polski. „Tylko Rosja jest za to odpowiedzialna” – powiedziała.
+
+<img src="./img/november/morawieckilitwa.jpeg"><br><br>
+
+Podczas spotkania zostało podpisane porozumienie, jednak treści tego porozumienia nie ma.
+
+---
+
 On the fourth Saturday of November, Ukrainians throughout the world are lighting candles in memory of the millions of people who died in Soviet Ukraine during the Holodomor-genocide of 1932-33. Holodomor (death by starvation) - the man-made famine planned and implemented by the communist Stalin’s regime in 1932-1933. It was genocide.
 
 Joseph Stalin wanted to starve into submission the rebellious Ukrainian peasantry and force them into collective farms. russians requisitioned more grain than farmers could provide. When they resisted, brigades of Communist Party activists swept through the villages and took everything that was edible.

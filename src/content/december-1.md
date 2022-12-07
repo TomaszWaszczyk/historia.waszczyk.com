@@ -3,7 +3,7 @@ layout: post
 title: 1 grudnia
 image: img/december/ethereum2.jpeg
 author: Tomasz Waszczyk
-date: 2020-12-01T10:00:00.000Z
+date: 2021-12-01T10:00:00.000Z
 tags:
   - Ethereum
 ---

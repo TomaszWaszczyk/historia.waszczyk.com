@@ -3,9 +3,21 @@ layout: post
 title: 6 grudnia
 image: img/december/olszewski.jpg
 author: Tomasz Waszczyk
-date: 2020-12-06T10:00:00.000Z
+date: 2021-12-06T10:00:00.000Z
 tags:
   - Olszewski
+---
+
+### 2022
+
+Niedzielski chwali się sprowadzeniem ponad 400 tys. dawek preparatu Pfizer dla dzieci od 0,5 do 4 lat.
+
+Jednymi z pierwszych "zaszczepionych" będą dzieci z domów dziecka. Zgody wydają zazwyczaj kuratorzy, najczęściej bez zgody Sądu Rodzinnego.
+
+---
+
+<img src="./img/december/bialko_kolca.jpg"><br><br>
+
 ---
 
 ### 2021
