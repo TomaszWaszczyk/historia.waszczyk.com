@@ -28,7 +28,7 @@ Test:
 
 ---
 
-<a href="./documents/november/2263" target="_blank">Zmiana konstytucji</a>
+<a href="./documents/november/2263.pdf" target="_blank">Zmiana konstytucji</a>
 
 ---
 

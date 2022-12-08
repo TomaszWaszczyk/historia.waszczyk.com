@@ -12,9 +12,33 @@ tags:
 
 <img src="./img/december/kurski2.jpg"><br><br>
 
+---
+
+<img src="./img/december/ingbank.png"><br><br>
+
+---
+
+> Gold will play major role in Global Reset by 2030
+
+The latest formulation of CPC indicates that it will promote the world industrial structure reset strategy faster than the planned. Gong Xixiang, Secretary General of Xinhua News Agency, said that gold will play an important role in the reset of the world's industrial structure!
+
+---
+
+Do sprawdzenia:
+
+Lewis Bernstein Namier - wybitny antypolak, socjalista, przeciwnik Dmowskiego, doradca premiera Anglii
+Na podstawie fałszywych statystyk etnicznych doprowadził do odcięcia Lwowa od Polski na konferencji w Jałcie.
+Brat babci Jarosława i Jacka Kurskiego.
+
+<img src="./img/december/bernstein.jpeg"><br><br>
+
+<img src="./img/december/curzoneline.jpeg"><br><br>
+
+---
+
 ### 2021
 
-// wklejam 8 grudnia, ale Pani Jane wypowiadała się w innym dniu
+<!-- // wklejam 8 grudnia, ale Pani Jane wypowiadała się w innym dniu -->
 
 Dr Jane Goodall podczas panelu na Światowym Forum Ekonomicznym: gdyby było nas mniej, to nie byłoby problemu z klimatem.
 
