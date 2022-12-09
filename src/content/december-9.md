@@ -3,10 +3,19 @@ layout: post
 title: 9 grudnia
 image: img/december/ropa.jpg
 author: Tomasz Waszczyk
-date: 2020-12-09T10:00:00.000Z
+date: 2021-12-09T10:00:00.000Z
 tags:
   - Jaruzelski
 ---
+
+### 2022
+
+Pan Prezes wiele przekazuje w ten sposób.
+
+<video width="640" height="480" controls>
+<source src="./movies/december/psyglapinskiego.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

@@ -12,6 +12,12 @@ tags:
 
 > Liniowy PIT od działalności gospodarczej jest po prostu skierowany do osób osiągających najwyższe dochody niezależnie od tego, czym oni się zajmują. Ci ludzie często ani nie zatrudniają, ani nie inwestują, nie podejmują jakiegoś wysokiego ryzyka - po prostu dużo zarabiają. - Główny ekonomista Ministerstwa Finansów Łukasz Czernicki
 
+---
+
+<img src="./img/august/blaszczak.jpeg"><br><br>
+
+---
+
 ### 1991
 
 The birth of the Web
