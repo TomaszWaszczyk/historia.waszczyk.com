@@ -3,11 +3,31 @@ layout: post
 title: 10 grudnia
 image: img/december/massex.jpg
 author: Tomasz Waszczyk
-date: 2020-12-10T10:00:00.000Z
+date: 2021-12-10T10:00:00.000Z
 tags:
   - Github
 draft: false
 ---
+
+### 2022
+
+NATO’s secretary general warns that a ‘full blown war’ with Russia is ‘a real possibility.’
+
+“If things go wrong, they can go horribly wrong,” Jens Stoltenberg said in an interview published on Friday.
+
+<img src="./img/december/stoltenberg.webp"><br><br>
+
+NATO’s secretary general warned on Friday that Russia’s war in Ukraine could expand into a wider war with the Atlantic alliance.
+
+The official, Jens Stoltenberg, repeatedly cautioned in news media interviews this week against underestimating the situation in Ukraine and emphasized the wider threat President Vladimir V. Putin of Russia could pose to Europe.
+
+“If things go wrong, they can go horribly wrong,” Mr. Stoltenberg said in an interview released on Friday with the Norwegian journalist Anne Lindmo, in which he added that there was “no doubt” a full-blown war against NATO was a “real possibility.”
+
+“I understand everyone who is tired of supporting Ukraine. I understand everyone who thinks that food prices and the electricity bills are far too high,” he said. “But we have to pay a much higher price if our freedom and peace are threatened through Putin winning in Ukraine.”
+
+Mr. Stoltenberg’s comments came two days after he said that Russia was intentionally stalling the war in order to prepare a renewed onslaught against Ukrainian forces next year.
+
+“What we see now is that Russia is actually attempting to have some kind of ‘freeze’ of this war, at least for a short period of time, so they can regroup, repair, recover, and then try to launch a bigger offensive next spring,” he told The Financial Times on Wednesday.
 
 ### 2021
 
