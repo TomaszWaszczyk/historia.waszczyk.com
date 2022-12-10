@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2022
+
+Prezydent Władimir Putin po raz drugi w ciągu kilku dni wypowiedział się o możliwości zmiany rosyjskiej doktryny wojennej i wprowadzenia do niej zapisów o prewencyjnym uderzeniu atomowym - podkreśla stacja CNN. Tym razem takie sformułowania padły podczas konferencji prasowej Putina w stolicy Kirgistanu Biszkeku.
+
 ### 2021
 
 > European Central Bank: Bitcoin doesn't benefit society.
