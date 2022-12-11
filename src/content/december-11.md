@@ -3,13 +3,23 @@ layout: post
 title: 11 grudnia
 image: img/december/dzieci.jpg
 author: Tomasz Waszczyk
-date: 2020-12-11T10:00:00.000Z
+date: 2021-12-11T10:00:00.000Z
 tags:
   - AK
 draft: false
 ---
 
 ### 2022
+
+<img src="./img/december/profjoannatyrowicz_1.jpg"><br><br>
+
+<img src="./img/december/profjoannatyrowicz_2.jpg"><br><br>
+
+---
+
+<img src="./img/december/rpp.jpg"><br><br>
+
+---
 
 Prezydent Władimir Putin po raz drugi w ciągu kilku dni wypowiedział się o możliwości zmiany rosyjskiej doktryny wojennej i wprowadzenia do niej zapisów o prewencyjnym uderzeniu atomowym - podkreśla stacja CNN. Tym razem takie sformułowania padły podczas konferencji prasowej Putina w stolicy Kirgistanu Biszkeku.
 
