@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+Blayb gezunt mir, kroke! Mordechai Gebirtig
+
 https://en.wikipedia.org/wiki/Sturm_und_Drang
 
 <img src="./img/others/poezja/czas.jpg"><br><br>

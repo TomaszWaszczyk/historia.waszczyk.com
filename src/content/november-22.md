@@ -36,6 +36,12 @@ Za trzy kwartały USDPLN po 5.0?
 
 > Kryptowaluty to GetBack i AmberGold na sterydach, 30 razy gorsza bańka, powiedział Artur Kurasiński
 
+---
+
+<img src="./img/november/swieta.jpeg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/november/japantimes.jpeg"><br><br>

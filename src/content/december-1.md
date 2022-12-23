@@ -8,6 +8,14 @@ tags:
   - Ethereum
 ---
 
+### 2022
+
+<img src="./img/december/ukrainian.jpeg"><br><br>
+
+<img src="./img/december/zawaly.jpeg"><br><br>
+
+<img src="./img/december/cnn-vax.jpg"><br><br>
+
 ### 2021
 
 Morawiecki:

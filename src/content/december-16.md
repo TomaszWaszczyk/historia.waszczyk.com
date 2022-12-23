@@ -3,11 +3,19 @@ layout: post
 title: 16 grudnia
 image: img/december/wujek.jpg
 author: Tomasz Waszczyk
-date: 2020-12-16T10:00:00.000Z
+date: 2021-12-16T10:00:00.000Z
 tags:
   - ZOMO
 draft: false
 ---
+
+### 2022
+
+Israel 🇮🇱 Ministry of Health in court yesterday: “We cannot locate the signed agreement with Pfizer. It has gone missing.”
+
+---
+
+Amerykański Senat przegłosował w czwartek budżet obronny (NDAA) USA, opiewający na rekordową kwotę 858 mld dolarów. - Świat jest obecnie niebezpieczniejszym miejscem, niż kiedykolwiek w moim życiu - stwierdził podczas debaty szef komisji ds. sił zbrojnych, Jack Reed.
 
 ### 2021
 

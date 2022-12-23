@@ -3,10 +3,40 @@ layout: post
 title: 12 grudnia
 image: img/december/w20.png
 author: Tomasz Waszczyk
-date: 2020-12-12T10:00:00.000Z
+date: 2021-12-12T10:00:00.000Z
 tags:
   - WIG20
 draft: false
+---
+
+### 2022
+
+<img src="./img/december/hell.jpeg"><br><br>
+
+---
+
+Mohammed bin Salman saying goodbye to President Xi after 3 days of meetings.
+
+Time will tell, but judging from the cold and humiliating reception of Biden, and the extremely warm reception of China, the US is no longer a close Saudi ally…
+
+---
+
+Dr Zbigniew Martyka o szczepieniach malutkich dzieci preparatem na COVID-19. 
+
+"Twarde dane naukowe mówią, że możliwość ciężkiego przebiegu u dzieci jest praktycznie znikoma. To jest 0,27% na 100 tys. dzieci"
+
+---
+
+"Zależy nam również na tym, by jak najwięcej Polaków było przeszkolonych, sprawa ćwiczeń rezerwistów to ułamek całości" - przekonywał szef MON Mariusz Błaszczak.
+
+W poniedziałek w wykazie prac legislacyjnych Rady Ministrów został opublikowany projekt rozporządzenia MON, w którym przewidziano powołanie maksymalnie 200 tys. osób na ćwiczenia. Z tej liczby limit 38 tys. dotyczy żołnierzy rezerwy oraz osób, które mają uregulowany stosunek do służby wojskowej (tj. odbyli służbę lub szkolenie wojskowe), a limit 28 580 osób w ramach dobrowolnej zasadniczej służby wojskowej, w tym w trakcie kształcenia.
+
+Błaszczak był pytany w Programie Pierwszym Polskiego Radia w jakim celu mają odbywać się ćwiczenia w takiej skali i czy jest to "wprowadzanie zasadniczej służby wojskowej tylnymi drzwiami".
+
+- "Nie, nie jest. My jesteśmy w takim położeniu, że przy naszej wschodniej granicy toczy się wojna, która ma charakter bezwzględny (...) Rząd PiS wzmacnia wojsko, a żeby wzmocnić wojsko, należy rozwinąć je liczebnie i wyposażyć w nowoczesną broń, i to konsekwentnie robimy - odpowiedział. - Zależy nam na tym również, by jak najwięcej osób było przeszkolonych. W mediach rzeczywiście uwypuklona była sprawa ćwiczeń rezerwistów, ale to jest naprawdę ułamek" - dodał.
+
+Błaszczak podkreślał, że rząd mówi otwarcie o zagrożeniach dla kraju, związanych z rosyjską agresją. Mówił, że jeżeli Władimir Putin wygrałby wojnę w Ukrainie, to nie będzie się wówczas wahać, by zaatakować państwa NATO, chyba, że - jak podkreślił - "wykorzystamy ten czas, który mamy do tego, by zbudować silne wojsko polskie, przeszkolić jak najwięcej ludzi z umiejętności posługiwania się bronią, umiejętności niesienia pierwszej pomocy medycznej".
+
 ---
 
 ### 2020
@@ -65,6 +95,10 @@ W Warszawie odbył się zorganizowany przez Ministerstwo Bezpieczeństwa Publicz
 1500 obradujących księży potępiło Episkopat Polski oraz kardynała Stefana Wyszyńskiego, który w odpowiedzi zagroził atakującym go księżom ekskomuniką.
 
 <img src="./img/december/episkopat.jpg"/><br>
+
+### 1942
+
+Do niemieckiego obozu koncentracyjnego KL Auschwitz trafiła 14-letnia Czesia Kwoka. Zamordowana przez Niemców 3 miesiące później fenolem za to, że była polskim dzieckiem!
 
 ### 1671
 

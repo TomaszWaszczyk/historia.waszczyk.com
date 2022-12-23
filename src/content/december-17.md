@@ -3,11 +3,19 @@ layout: post
 title: 17 grudnia
 image: img/december/klepacz.jpg
 author: Tomasz Waszczyk
-date: 2020-12-17T10:00:00.000Z
+date: 2021-12-17T10:00:00.000Z
 tags:
   - Balcerowicz
 draft: false
 ---
+
+### 2022
+
+<img src="./img/december/dzieci.jpeg"><br><br>
+
+<img src="./img/december/rosati.jpeg"><br><br>
+
+<img src="./img/december/rosati2.jpg"><br><br>
 
 ### 2021
 
@@ -15,11 +23,11 @@ draft: false
 
 <img src="./img/december/ecb.png"><br><br>
 
-ECB mocno podnosi prognozy inflacji: 
- 
-2021: 2,2% -> 2,6% 
+ECB mocno podnosi prognozy inflacji:
+
+2021: 2,2% -> 2,6%
 2022: 1,7% -> 3,2%  
-2023: 1,5% -> 1,8% 
+2023: 1,5% -> 1,8%
 2024: 1,8%
 
 ---

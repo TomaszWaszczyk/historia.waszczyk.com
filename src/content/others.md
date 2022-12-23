@@ -277,6 +277,11 @@ Bunt kontra poczucie winy – jeśli ludzie zaczną się buntować, zmień ich a
 
 Poznaj bliźniego swego lepiej, niż on zna siebie samego – współczesna, zaawansowana technologia i postęp w każdej dziedzinie nauki pozwoliły systemowi poznać jednostkę lepiej, niż ona sama zna siebie. Dzięki temu władza w większości przypadków wie o swoich społeczeństwach więcej i może sprawować większą kontrolę. -->
 
+<video width="640" height="480" controls>
+<source src="./movies/others/banks.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Programowanie / Software Engineering
 
 https://en.wikipedia.org/wiki/Therac-25

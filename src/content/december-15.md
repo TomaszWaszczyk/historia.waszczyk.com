@@ -3,11 +3,19 @@ layout: post
 title: 15 grudnia
 image: img/december/boh.jpg
 author: Tomasz Waszczyk
-date: 2020-12-15T10:00:00.000Z
+date: 2021-12-15T10:00:00.000Z
 tags:
   - Polen
 draft: false
 ---
+
+### 2022
+
+Niemiecka prasa o podwyżce stóp procentowych: „Euro jak lira, nie marka”
+
+Lokalna prasa komentuje decyzję ECB o podwyżce stóp procentowych. Dla jednych za wysoka, dla innych za niska, ale z inflacji i stanu gospodarki zadowolony nie jest nikt. Komentatorzy boją się „utraty dobrobytu”.
+
+<img src="./img/december/lagarde.jpg"><br><br>
 
 ### 2021
 

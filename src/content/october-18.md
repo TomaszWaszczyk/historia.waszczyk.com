@@ -8,6 +8,10 @@ tags:
   - Gospodarka
 ---
 
+### 2022
+
+<img src="./img/october/dislike.jpeg"><br><br>
+
 ### 2020
 
 > Nie możemy działać jako siłownia - będziemy działać jako sklep z odpłatnym testowaniem sprzętu. „Sprawiedliwość jest drugim wielkim zadaniem prawa, jednak pierwszym jest pewność prawa, pokój.”

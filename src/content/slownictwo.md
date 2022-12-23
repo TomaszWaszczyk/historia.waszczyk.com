@@ -1565,6 +1565,10 @@ człowiek mechaniczny
 
 Reprezentować oczekiwania
 
+gargantuicznie wysoka
+
+tectonic shift
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

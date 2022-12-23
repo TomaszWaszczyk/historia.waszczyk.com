@@ -12,6 +12,8 @@ tags:
 
 <img src="./img/august/wiecznewzrosty.jpeg"><br><br>
 
+<img src="./img/august/milosc_franciszka.jpg"><br><br>
+
 ---
 
 Ashura

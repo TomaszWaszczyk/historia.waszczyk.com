@@ -292,7 +292,9 @@ Autor: Maria Dąbrowska
 
 Tuwim Julian, Słonimski Antoni - W oparach absurdu
 
-<!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol -->
+<!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol 
+https://pl.wikipedia.org/wiki/Sara_Szenirer - szkoła https://pl.wikipedia.org/wiki/Beis_Jaakow
+-->
 
 <a href="./documents/wychowanie-mlodego-czlowieka/The_Case_Against_Education_by_Bryan_Caplan.pdf" target="_blank">The_Case_Against_Education_by_Bryan_Caplan</a>
 

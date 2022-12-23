@@ -3,7 +3,7 @@ layout: post
 title: 23 grudnia
 image: img/december/volksweihnacht-1.jpg
 author: Tomasz Waszczyk
-date: 2020-12-23T10:00:00.000Z
+date: 2021-12-23T10:00:00.000Z
 tags:
   - Orlen = RSW
 ---

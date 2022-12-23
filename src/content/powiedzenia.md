@@ -3821,6 +3821,14 @@ https://www.zitate.eu/autor/karl-marx-zitate
 
 nie jesteś DJ'em, nie miksuj
 
+pomaga jak zmarłemu bandaż
+
+blockchains are new pyramids
+
+Mistakes are proof that you are trying.
+
+money is coordination device
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

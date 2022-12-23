@@ -3,10 +3,23 @@ layout: post
 title: 18 grudnia
 image: img/december/jaruzel.jpg
 author: Tomasz Waszczyk
-date: 2020-12-18T10:00:00.000Z
+date: 2021-12-18T10:00:00.000Z
 tags:
   - Jan Paweł II
 draft: false
+---
+
+### 2022
+
+<img src="./img/december/lukaszenka.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/december/kamieniemilowe.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2020
