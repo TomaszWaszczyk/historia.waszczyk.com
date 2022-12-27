@@ -3,10 +3,14 @@ layout: post
 title: 27 grudnia
 image: img/december/walesa.jpg
 author: Tomasz Waszczyk
-date: 2020-12-27T10:00:00.000Z
+date: 2021-12-27T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2022
+
+<img src="./img/december/global_return.jpeg"><br><br>
 
 ### 2021
 

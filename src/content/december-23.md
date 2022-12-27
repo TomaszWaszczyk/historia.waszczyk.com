@@ -79,6 +79,16 @@ The system collected data about the investment course and provide precise inform
 
 <img src="./img/december/infostrada6.jpeg"><br><br>
 
+### 1947
+
+W Bell Laboratories, amerykańscy naukowcy John Bardeen, Walter Brettain i William Shockley zademonstrowali swój wynalazek - tranzystor.
+
+<img src="./img/december/bell.jpeg"><br><br>
+
+W 1956 roku wynalazcy otrzymali Nagrodę Nobla.
+
+<!-- Twórcą tranzystora był Julius Edgar Lilienfeld Polski żyd, wzgardzony przez swoją koszerną mafię, znienawidzony przez sanację,z tego powodu,że wybrał Polskość nie otrzymał Nobla,1925 wniosek o patent kanadyjski układu będącego protoplastą tranzystora polowego złożył jako Polak -->
+
 ### 1944
 
 We wsi Ochotnica Dolna k. Nowego Targu Niemcy zamordowali 56 osób, w tym kobiety i dzieci.

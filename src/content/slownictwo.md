@@ -1569,6 +1569,14 @@ gargantuicznie wysoka
 
 tectonic shift
 
+sankta ignorancia
+
+wpisać w rzeczywistość
+
+commodity software
+
+cherlawy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

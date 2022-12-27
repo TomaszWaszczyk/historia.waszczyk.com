@@ -3,10 +3,46 @@ layout: post
 title: 28 grudnia
 image: img/december/sievers.jpg
 author: Tomasz Waszczyk
-date: 2020-12-28T10:00:00.000Z
+date: 2021-12-28T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2022
+
+What is the Chip 4 alliance?
+
+> The US is wooing Asian tech economies to join a mega semiconductor supply chain, which excludes China.
+
+When Nancy Pelosi, the US House speaker, landed at an American military base in South Korea on August 3, many experts expected she’d receive a red carpet reception. Instead, she got, what one headline said, snubbed.
+
+South Korean President Yoon Suk-yeol didn’t interrupt his staycation – he was relaxing at his home in Seoul. His foreign minister didn't come to meet the US lawmaker either.
+
+Pelosi was on a whirlwind tour of Asia. Her controversial trip to Taiwan at a time of heightened tensions with China resulted in angry protests from Beijing.
+
+Even though Yoon spoke to Pelosi over the phone a day later, many saw the posture of South Korean leadership as an attempt to pacify China.
+
+Seoul’s ability to balance relationships with its key military ally – the US – and main trading partner – China – is being put to the test over the question of its joining the ‘Chip 4’ alliance.
+
+Here’s what you need to know about the alliance.
+
+The big 4
+
+From iPhones and Playstation gaming consoles to Dell laptops and Tesla electric cars – modern electronics depend on semiconductors (chips) to manage their complex functions. 
+
+A shortage of chips during the Covid-19 pandemic disrupted the production of multiple products and initiated a debate in the US on its dependence on chip imports. 
+
+US President Joe Biden recently signed the Chips and Science Act, which sets aside tens of billions of dollars to encourage companies to set up manufacturing and design facilities in the US. 
+
+The US, Taiwan, South Korea and Japan meet most of the world’s semiconductor demand. They sit on most of the capacity to design, produce and test tiny chip components. 
+
+Taiwan’s TSMC is the largest contract chip maker, counting Apple and Nvidia as its customers. 
+
+Taiwan, a tiny island, relies on US diplomatic and economic support to push back against China. 
+
+Beijing sees Taiwan as essential part of its territory, a claim much of the world accepts. Only a handful of small nations see Taiwan as a sovereign state. Even the US adheres to the One China policy and hasn’t recognised Taiwan as an independent country. 
+
+Starting in early August, China’s military carried out live-fire drills around Taiwan that included the use of its sophisticated jets and naval ships. 
 
 ### 2021
 

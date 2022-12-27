@@ -3,7 +3,7 @@ layout: post
 title: 24 grudnia
 image: img/december/ox2021.jpeg
 author: Tomasz Waszczyk
-date: 2020-12-24T10:00:00.000Z
+date: 2021-12-24T10:00:00.000Z
 tags:
   - 0x - Wigilia 2020 - China - Japan
 ---
