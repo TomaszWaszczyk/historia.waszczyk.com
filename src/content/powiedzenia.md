@@ -3829,6 +3829,10 @@ Mistakes are proof that you are trying.
 
 money is coordination device
 
+Set your own agenda, or someone else will.
+
+jeśli idziesz przez piekło to dobrze, idź dalej
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

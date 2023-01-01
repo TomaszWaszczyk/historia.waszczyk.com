@@ -3,7 +3,7 @@ layout: post
 title: 30 grudnia
 image: img/december/kwiatkowski.jpeg
 author: Tomasz Waszczyk
-date: 2020-12-30T10:00:00.000Z
+date: 2021-12-30T10:00:00.000Z
 tags:
   - JP Morgan
 ---

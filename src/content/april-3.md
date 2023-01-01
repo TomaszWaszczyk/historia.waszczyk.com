@@ -74,6 +74,10 @@ Obecne przekonanie, że rząd musi chronić wszystkie firmy, miejsca pracy i doc
 
 https://en.wikipedia.org/wiki/Panama_Papers
 
+### 2002
+
+<img src="./img/april/klaus.jpeg"><br><br>
+
 ### 1940
 
 Wyruszył z likwidowanego obozu w Kozielsku pierwszy transport do Katynia wiozący polskich jeńców stalinowskich.

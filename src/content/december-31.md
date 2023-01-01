@@ -3,10 +3,18 @@ layout: post
 title: 31 grudnia
 image: img/december/Wiesenthal.jpg
 author: Tomasz Waszczyk
-date: 2020-12-31T10:00:00.000Z
+date: 2021-12-31T10:00:00.000Z
 tags:
   - Księstwo Litewskie
 ---
+
+### 2022
+
+<img src="./img/december/gold.jpeg"><br><br>
+
+SZAP:
+
+<img src="./img/december/szap.jpeg"><br><br>
 
 ### 2021
 
@@ -105,6 +113,12 @@ Your browser does not support the video tag.
 
 ---
 
+### 1974
+
+On this day in 1974 🇺🇸 President Ford signed the Privacy Act 1974
+
+<img src="./img/december/privacy_act.png"><br><br>
+
 ### 1958
 
 <img src="./img/december/1958.jpeg"><br><br>
@@ -142,7 +156,16 @@ Bitwa na Morzu Barentsa Taktyczne zwycięstwo Brytyjczyków nad Niemcami
 
 ### 1932
 
-Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma
+Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski złamali kody niemieckiej maszyny szyfrującej Enigma.
+
+Dokonali tego polscy matematycy - 91 lat temu w dniu 31 grudnia 1932. Byli to Marian Rejewski, Jerzy Różycki i Henryk Zygalski - absolwenci Uniwersytetu Poznańskiego.
+Według Marka Grajka, autora książki „Enigma. Bliżej prawdy”, złamanie szyfru „Enigmy” uważano za niemożliwe. Polacy osiągnęli sukces dzięki zastosowaniu metody matematycznej zamiast lingwistycznej. Na ten pomysł wpadł ppłk Maksymilian Ciężki z Biura Szyfrów.
+Polska wiedza o sposobie działania Enigmy oraz metodzie łamania jej szyfru pomogły również wywiadowi brytyjskiemu w masowym odczytywaniu niemieckich depesz od 1941 r. Przez wiele lat Anglicy starali się przypisać sobie osiągnięcia łamania szyfru. Przyznanie przez Brytyjczyków znaczącej roli polskiego zespołu do rozszyfrowania kodu nastąpiło dopiero w latach 90, w 1999r - po wejściu Polski do NATO. Historycy II wojny światowej, którzy usiłują oszacować wpływ złamania szyfru "Enigmy" na losy wojny twierdzą, że wyczyn trójki młodych deszyfrantów skrócił wojnę o około 3 lata.
+W powojennej Polsce pomijano wysiłek i zasługi naszych kryptologów, wymazywano ich z powszechnej pamięci.
+W 2000 roku Rejewski, Różycki i Zygalski zostali odznaczeni pośmiertnie Krzyżami Wielkimi Orderu Odrodzenia Polski. Senat Rzeczpospolitej uczcił ich w 2012 roku specjalną uchwałą, uznając trójkę kryptologów za bohaterów II wojny światowej. W 2014 Międzynarodowe Stowarzyszenie Inżynierów (IEEE) uhonorowało trzech Polaków prestiżowym Milestone. „Kamieniami milowymi” wyróżniono dotąd ponad 120 naukowców, za osiągnięcia znaczące dla historii świata.
+Cieszę się, że Muzeum - Ekspozycja Centrum Szyfrów Enigma znajduje się w Poznaniu. w Poznaniu. Chwała Bohaterom !!!
+
+<img src="./img/december/enigma.jpeg"><br><br>
 
 ### 1908
 

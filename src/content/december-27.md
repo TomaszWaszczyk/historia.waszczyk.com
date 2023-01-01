@@ -10,6 +10,14 @@ tags:
 
 ### 2022
 
+W Rosji ogłoszono dekret o nacjonalizacji banków.
+
+Od tego momentu bolszewicy rozpoczynają rabunek mienia ludności na niespotykaną dotychczas skalę!
+
+<img src="./img/december/grabiez.jpeg"><br><br>
+
+---
+
 <img src="./img/december/global_return.jpeg"><br><br>
 
 ### 2021
@@ -95,6 +103,14 @@ Zaczęli schodzić się ludzie. Niewypowiedziana rozpacz ogarnęła wszystkich. 
 Zostałam sama. Zbolała i zrozpaczona, skrzywdzona w sposób, którego żadna mowa ludzka nie jest w stanie wyrazić"
 
 <img src="./img/december/wawer.jpg"/><br>
+
+### 1929
+
+Józef Stalin rozpoczął likwidację kułaków jako klasy społecznej - ogłosił politykę tzw. "całkowitej kolektywizacji".
+
+Przez 4 lata, od 1929 r. do 1933 r., ponad 10 milionów ludzi zostało „wywłaszczonych”, deportowanych, wysłanych do łagrów bądź rozstrzelanych.
+
+<img src="./img/december/kulaki.jpeg"><br><br>
 
 ### 1918
 

@@ -8,6 +8,13 @@ tags:
   - Sowieci
 ---
 
+### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/december/szumowino.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2020
 
 Chiny przodują na świecie w pracach nad walutą cyfrową. Jeśli próby się powiodą w Chiny, mogą doprowadzić do szerszego zastosowania cyfrowej waluty w tym państwie w 2021r.

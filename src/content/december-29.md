@@ -3,14 +3,22 @@ layout: post
 title: 29 grudnia
 image: img/december/victor.jpg
 author: Tomasz Waszczyk
-date: 2020-12-29T10:00:00.000Z
+date: 2021-12-29T10:00:00.000Z
 tags:
   - VAT
 ---
 
+### 2022
+
+<img src="./img/december/spokojnie.jpg"><br><br>
+
 ### 2021
 
 <img src="./img/december/plebiscyt_2021_01_zdrowie.png"><br><br>
+
+<img src="./img/december/falszywa.jpeg"><br><br>
+
+<img src="./img/december/koronawirusy.jpeg"><br><br>
 
 ---
 
@@ -163,6 +171,12 @@ W pierwszy swój resjs kanonierka ta wypłynęła w marcu 1921 roku do Kłajpedy
 W czasie wojny obronnej "Piłsudski" wchodził w skład Dywizjonu Minowców". Zatopiony został 16 września 1943 roku w porcie Nantes we Francji.
 
 <img src="./img/december/bandera.jpg"/><br>
+
+### 1901
+
+Podczas V Kongresu Syjonistycznego w szwajcarskiej Bazylei powołano Żydowski Fundusz Narodowy, który gromadził środki finansowe na zakup ziemi oraz zasiedlenie Palestyny.
+
+<img src="./img/december/palestyna.jpeg"><br><br>
 
 ### 1830
 

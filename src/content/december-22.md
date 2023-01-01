@@ -8,6 +8,12 @@ tags:
   - KL Auschwitz
 ---
 
+### 2022
+
+Grafika przedstawiająca miejsca relokacji największych ukraińskich firm sektora IT. Stan na 22 grudnia. Źródło: Forbes
+
+<img src="./img/december/it_relokacja.jpeg"><br><br>
+
 ### 2021
 
 <img src="./img/december/ppk.png"><br><br>
