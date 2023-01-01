@@ -3,7 +3,7 @@ layout: post
 title: 1 stycznia
 image: img/january/premia_dolara_do_pln.jpeg
 author: Tomasz Waszczyk
-date: 2021-01-01T10:00:00.000Z
+date: 2022-01-01T10:00:00.000Z
 tags:
   - Radio Wolna Europa
 ---
@@ -96,6 +96,14 @@ Namalowany w 1995 r. obraz stanowi przejmujący komentarz do epoki transformacji
 <img src="./img/january/solidarnosc.jpg"><br><br>
 
 Jerzego Duda-Gracz
+
+---
+
+Przeprowadzono denominację złotego w stosunku 10 000:1.
+
+<img src="./img/january/denominacja.jpeg"><br><br>
+
+---
 
 ### 1990
 
