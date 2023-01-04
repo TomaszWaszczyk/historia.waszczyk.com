@@ -3,11 +3,19 @@ layout: post
 title: 2 stycznia
 image: img/january/dmowski.jpg
 author: Tomasz Waszczyk
-date: 2021-01-02T10:00:00.000Z
+date: 2022-01-02T10:00:00.000Z
 tags:
   - NKWD
 draft: false  
 ---
+
+### 2023
+
+Świadomość ludzi mówiących o firmach i zarządzaniu:
+
+<img src="./img/january/swiadomosc.jpg"><br><br>
+
+Komentarz? Brak.
 
 ### 2022
 

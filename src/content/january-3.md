@@ -3,7 +3,7 @@ layout: post
 title: 3 stycznia
 image: img/january/bailout.png
 author: Tomasz Waszczyk
-date: 2021-01-03T10:00:00.000Z
+date: 2022-01-03T10:00:00.000Z
 tags:
   - Bitcoin
 draft: false  

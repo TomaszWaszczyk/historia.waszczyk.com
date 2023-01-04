@@ -3833,6 +3833,10 @@ Set your own agenda, or someone else will.
 
 jeśli idziesz przez piekło to dobrze, idź dalej
 
+In the age of finding love of my life, I'm finding bugs in my code.
+
+Są trzy góralskie prawdy: świento prawda, tysz prawda i gówno prawda.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -99,7 +99,7 @@ Jerzego Duda-Gracz
 
 ---
 
-Przeprowadzono denominację złotego w stosunku 10 000:1.
+Przeprowadzono denominację złotego w stosunku 10000:1.
 
 <img src="./img/january/denominacja.jpeg"><br><br>
 
