@@ -3,11 +3,19 @@ layout: post
 title: 5 stycznia
 image: img/january/eisenhover.jpg
 author: Tomasz Waszczyk
-date: 2021-01-05T10:00:00.000Z
+date: 2022-01-05T10:00:00.000Z
 tags:
   - Józef Beck
 draft: false  
 ---
+
+### 2023
+
+Climate Tipping Points and their Implications for Habitability and Resources
+
+<img src="./img/january/climate_tipping_points.png"><br><br>
+
+<a href="https://www.ipcc.ch" target="_blank">IPCC Report</a>
 
 ### 2022
 

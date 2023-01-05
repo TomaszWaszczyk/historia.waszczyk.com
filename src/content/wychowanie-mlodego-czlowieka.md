@@ -292,7 +292,9 @@ Autor: Maria Dąbrowska
 
 Tuwim Julian, Słonimski Antoni - W oparach absurdu
 
-<!-- https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol 
+<!-- 
+gakureki shakai
+https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol 
 https://pl.wikipedia.org/wiki/Sara_Szenirer - szkoła https://pl.wikipedia.org/wiki/Beis_Jaakow
 -->
 
