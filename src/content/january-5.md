@@ -17,6 +17,17 @@ Climate Tipping Points and their Implications for Habitability and Resources
 
 <a href="https://www.ipcc.ch" target="_blank">IPCC Report</a>
 
+---
+
+> paragon wziełem i go mam
+
+<video width="640" height="480" controls>
+<source src="./movies/january/paragonwzielem.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 <img src="./img/january/imprezyikoncerty.jpeg"><br><br>
