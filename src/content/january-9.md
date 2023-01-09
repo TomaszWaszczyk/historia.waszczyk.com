@@ -3,11 +3,17 @@ layout: post
 title: 9 stycznia
 image: img/january/totalitaryzm.jpg
 author: Tomasz Waszczyk
-date: 2021-01-09T10:00:00.000Z
+date: 2022-01-09T10:00:00.000Z
 tags:
   - Twitter
 draft: false  
 ---
+
+### 2023
+
+Migracja fabryk TSMC do Singapuru, Japonii i USA
+
+<img src="./img/january/migracja_tsmc.jpeg"><br><br>
 
 ### 2022
 

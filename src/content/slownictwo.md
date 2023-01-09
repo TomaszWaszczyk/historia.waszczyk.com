@@ -1577,6 +1577,12 @@ commodity software
 
 cherlawy
 
+last bit of XYZ
+
+leyman opinion
+
+the talk of the town
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
