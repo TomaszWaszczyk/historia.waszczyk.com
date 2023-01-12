@@ -3,7 +3,7 @@ layout: post
 title: 11 stycznia
 image: img/january/socialism2021.png
 author: Tomasz Waszczyk
-date: 2021-01-11T10:00:00.000Z
+date: 2022-01-11T10:00:00.000Z
 tags:
   - Computer science
 draft: false  
@@ -14,6 +14,10 @@ draft: false
 Idiokracja to rzeczywistość:
 
 <img src="./img/january/idiokracja.png"><br><br>
+
+..ostatnie podrygi pajacowania..
+
+<img src="./img/january/kaczynski.jpg"><br><br>
 
 ---
 

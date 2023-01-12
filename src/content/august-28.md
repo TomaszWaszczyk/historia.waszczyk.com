@@ -72,6 +72,14 @@ https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)
 
 <img src="./img/august/fineybanks.png"><br><br>
 
+### 1992
+
+<img src="./img/august/moskiewska_pozyczka_1.jpeg"><br><br>
+
+<img src="./img/august/moskiewska_pozyczka_2.jpeg"><br><br>
+
+<img src="./img/august/moskiewska_pozyczka_3.jpeg"><br><br>
+
 ### 1991
 
 Podczas prac budowlanych na terenach dawnej strzelnicy na Zaspie odkryto 38 szczątków ludzkich. Badania potwierdziły, że są to Obrońcy Poczty Polskiej , których niemiecki pluton egzekucyjny rozstrzelał 5 października 1939 roku. Obrońcy Poczty Polskiej w Gdańsku dowodzeni przez inżyniera podporucznika Konrada Guderskiego i podreferendarza kaprala Alfonsa Flisykowskiego zostali  wzięci do niewoli 1 września 1939 roku przez żołnierzy SS Heimwehr Danzig. Wcześniej dzielnie odpierali ataki nieprzyjaciół, broniąc budynku poczty przez 14 godzin. Skazano ich na karę śmierci na podstawie bezprawnego wyroku wydanego przez niemiecki sąd, któremu przewodniczyli prokurator generalny dr Kurt Bode i sędzia sądów polowych dr Hans Werner Giesecke. Wyrok łamał postanowienia konwencji haskiej, gdyż 30 sierpnia pocztowcy zostali objęci mobilizacją, a więc w świetle prawa byli żołnierzami. Uroczystości pogrzebowe, którym patronował prezydent RP odbyły się 4 kwietnia 1992 roku. Bohaterska załoga Poczty Polskiej została pośmiertnie uhonorowana Krzyżami Virtuti Militari. W 1999 roku niemiecki wymiar sprawiedliwości przyznał rodzinom ofiar odszkodowania finansowe.

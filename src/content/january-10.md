@@ -3,7 +3,7 @@ layout: post
 title: 10 stycznia
 image: img/january/lublin.jpg
 author: Tomasz Waszczyk
-date: 2021-01-10T10:00:00.000Z
+date: 2022-01-10T10:00:00.000Z
 tags:
   - Rzeczpospolita Obojga Narodów
 draft: false  
@@ -26,8 +26,6 @@ FAZ: Putin dąży do nowej Jałty i stref wpływu w Europie
 Władimir Putin dąży do nowej Jałty i podziału Europy na strefy wpływów. Zachód nie powinien ustępować w kwestii prawa do wolnego wyboru sojuszy. Czy Emmanuel Macron podejmie rozmowy z Kremlem na własną rękę?
 
 ---
-
-### 2021
 
 Amazon Web Services said it was banning Parler due to the “very real risk to public safety”... A więc Amazon usuwa Parlera ze swoich serwerów hostingowych.
 
@@ -90,6 +88,69 @@ B. Fiałek
 
 PS Przy wyborze celowo nie zdecydowałem się na ujawnienie najwyższych wynagrodzeń w danej branży (główni kierownicy, dyrektorzy, prezesi) ani maksymalnych wynagrodzeń na danym stanowisku – nawet dla wybranych grup zawodowych (wybrałem minimalne – za pełen etat oraz najczęściej proponowane na danym stanowisku). Zachęcam do prześledzenia całego raportu i umieszczenia na nim 6750 złotych brutto dla lekarza specjalisty.
 PPS Poniekąd sami sobie jesteśmy winni temu, że nasze podstawowe uposażenia są niezbyt wysokie. Pracujemy bardzo dużo, więc zarabiamy sporo, nikogo nie interesuje, że za cały etat dostajemy realnie marne grosze (kiedy zaczynałem pracę 4 lata temu, to na rękę za wymiar całego etatu dostawałem 2215 złotych; teraz po protestach jest lepiej – 3500). Sami przestaliśmy szanować ten „pełen etat” żyjąc za dorobione pieniądze. Etat, który powinien być bazą do oceny naszych wynagrodzeń.
+
+### 2010
+
+Chińskie media poinformowały, że w 2009 roku Chiny wyprzedziły Niemcy i zostały największym eksporterem na świecie.
+
+Całkowita wartość chińskiego eksportu wyniosła 1,2 bln, a niemieckiego 1,17 bln dolarów.
+
+### 1944
+
+In 1944, the CIA wrote a handbook on how to sabotage (enemy) organizations from the inside. A few interesting tips:
+
+(1) Insist on doing everything through “channels.” Never permit short-cuts to be taken in order to expedite decisions.
+
+(2) Make “speeches.” Talk as frequently as possible and at great length.
+
+(3) When possible, refer all matters to committees, for “further study and consideration.” Attempt to make the committees as large as possible—never less than five.
+
+(4) Bring up irrelevant issues as frequently as possible.
+
+(5) Haggle over precise wordings of communications, minutes, resolutions.
+
+(6) Refer back to matters decided upon at the last meeting and attempt to re-open the question of the advisability of that decision.
+
+(7) Demand written orders.
+
+(8) “Misunderstand” orders. Ask endless questions or engage in long correspondence about such orders. Quibble over them when you can.
+
+(9) Do everything possible to delay the delivery of orders. Even though parts of an order may be ready beforehand, don’t deliver it until it is completely ready.
+
+(10) In making work assignments, always sign out the unimportant jobs first.
+
+(11) Insist on perfect work in relatively unimportant products; send back for refinishing those which have the least flaw. Approve other defective parts whose flaws are not visible to the naked eye.
+
+(12) When training new workers, give incomplete or misleading instructions.
+
+(13) To lower morale and with it, production, be pleasant to inefficient workers; give them undeserved promotions. Discriminate against efficient workers; complain unjustly about their work.
+
+(14) Hold conferences when there is more critical work to be done.
+
+(15) Multiply paper work in plausible ways.
+
+(16) Start duplicate files.
+
+(17) Multiply the procedures and clearances involved in issuing instructions, pay checks, and so on. See that three people have to approve everything where one would do.
+
+(18) Apply all regulations to the last letter.
+
+(19) Do your work poorly and blame it on bad tools, machinery, or equipment. Complain that these things are preventing you from doing your job right.
+
+(20) Never pass on your skill and experience to a new or less skillful worker.
+
+(21) Snarl up administration in every possible way. Fill out forms illegibly so that they will have to be done over; make mistakes or omit requested information in forms.
+
+(22) Give lengthy and incomprehensible explanations when questioned.
+
+(23) Act stupid.
+
+(24) Be as irritable and quarrelsome as possible without getting
+yourself into trouble.
+
+(25) Misunderstand all sorts of regulations concerning such matters as rationing, transportation, traffic regulations.
+
+<img src="./img/january/oss.jpeg"><br><br>
 
 ### 1916
 

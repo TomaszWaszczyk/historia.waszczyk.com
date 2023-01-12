@@ -3,11 +3,25 @@ layout: post
 title: 8 stycznia
 image: img/january/wilson.jpg
 author: Tomasz Waszczyk
-date: 2021-01-08T10:00:00.000Z
+date: 2022-01-08T10:00:00.000Z
 tags:
   - Woodrow Wilson
 draft: false  
 ---
+
+### 2023
+
+Nowa dywizja Wojska Polskiego na Podlasiu.
+
+<img src="./img/january/nowa_dywizja.jpg"><br><br>
+
+Szef MON przedstawi koncepcję utworzenia 1 Dywizji Piechoty Legionów. Żołnierze w niej służący będą stacjonować na Podlasiu i Mazowszu.
+
+We wrześniu 2022 roku wicepremier i minister obrony narodowej Mariusz Błaszczak podjął decyzję o powołaniu pełnomocnika MON ds. sformowania nowego - piątego związku taktycznego Wojska Polskiego - 1 Dywizji Piechoty Legionów. Swoim zasięgiem obejmie ona obszar pomiędzy terenem odpowiedzialności 16 i 18 Dywizji Zmechanizowanej, czyli między Warmią i Mazurami a Lubelszczyzną. W październiku w Ciechanowie szef MON ogłosił powstanie nowego batalionu czołgów, który będzie częścią nowo formowanego związku taktycznego. W miejscowości tej zostanie również ulokowane dowództwo dywizji.
+
+Minister gościł też w Kolnie i Grajewie w Podlaskiem. Mają tam zostać utworzone nowe jednostki wojskowe.
+
+„Wnioski z przeprowadzonych ćwiczeń i symulacji doprowadziły do decyzji o formowaniu dywizji, która pod kątem struktury będzie podobna do funkcjonujących już 16 i 18 Dywizji Zmechanizowanej. Nowa dywizja zostanie wyposażona w najlepszy sprzęt wojskowy, którym już dysponuje Wojsko Polskie oraz który będzie niebawem pozyskany (m.in. czołgi, haubice, wyrzutnia Langusta i moździerz Rak). Pozwoli to skuteczniej odstraszać potencjalnego agresora i przygotować skuteczniejszą obronę w razie ataku. Nazwa dywizji nawiązuje do historycznego związku taktycznego, który zapisał się najdłuższą walką o niepodległości Polski w okresie I i II wojny światowej" - przypomina MON.
 
 ### 2022
 

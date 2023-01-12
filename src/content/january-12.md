@@ -3,11 +3,15 @@ layout: post
 title: 12 stycznia
 image: img/january/usdm1-2021.jpeg
 author: Tomasz Waszczyk
-date: 2021-01-12T10:00:00.000Z
+date: 2022-01-12T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/january/fala_udarow.jpeg"><br><br>
 
 ### 2022
 

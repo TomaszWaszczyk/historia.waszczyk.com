@@ -41,7 +41,7 @@
     "gatsby-source-filesystem": "2.11.1",
     "gatsby-transformer-json": "2.11.0",
     "gatsby-transformer-remark": "2.16.1",
-    "gatsby-transformer-sharp": "^5.3.1",
+    "gatsby-transformer-sharp": "4.21.0",
     "gatsby-transformer-yaml": "2.11.0",
     "joi": "^17.6.4",
     "lodash": "4.17.21",

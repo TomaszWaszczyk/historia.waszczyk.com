@@ -3840,6 +3840,10 @@ Są trzy góralskie prawdy: świento prawda, tysz prawda i gówno prawda.
 Solving a problem only solves half the problem.
 To solve the whole problem, you also have to solve “selling the solution.”
 
+Fiat turns everything that involves money into a power/status game and in those games, the truth is victim to collateral damage.
+
+Jest powiedzenie: Katar leczony trwa siedem dni a nieleczony tydzień. 
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
