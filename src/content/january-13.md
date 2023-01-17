@@ -3,7 +3,7 @@ layout: post
 title: 13 stycznia
 image: img/january/lagarde.png
 author: Tomasz Waszczyk
-date: 2021-01-13T10:00:00.000Z
+date: 2022-01-13T10:00:00.000Z
 tags:
   - Negative interest rates
 draft: false

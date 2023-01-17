@@ -3,11 +3,17 @@ layout: post
 title: 16 stycznia
 image: img/january/herman.jpg
 author: Tomasz Waszczyk
-date: 2021-01-16T10:00:00.000Z
+date: 2022-01-16T10:00:00.000Z
 tags:
   - Szachy
 draft: false
 ---
+
+### 2023
+
+Grupa Żywiec po blisko 32 latach notowań znika z warszawskiej giełdy
+
+Heineken International ogłosił przymusowy wykup ostatnich 73.458 akcji (ok. 0,7152 proc. kapitału) Grupy Żywiec, które pozostały w rękach akcjonariuszy mniejszościowych. Po blisko 32 latach notowań producent piwa znika z warszawskiej giełdy.
 
 ### 2022
 

@@ -3842,7 +3842,11 @@ To solve the whole problem, you also have to solve “selling the solution.”
 
 Fiat turns everything that involves money into a power/status game and in those games, the truth is victim to collateral damage.
 
-Jest powiedzenie: Katar leczony trwa siedem dni a nieleczony tydzień. 
+Jest powiedzenie: Katar leczony trwa siedem dni a nieleczony tydzień.
+
+Po co dojadać stary chleb jak jest młoda bułka.
+
+Stary chłop nie jest tak stary jak stara baba.
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
