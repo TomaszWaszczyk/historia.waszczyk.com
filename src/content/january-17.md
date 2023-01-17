@@ -3,10 +3,16 @@ layout: post
 title: 17 stycznia
 image: img/january/glapinski2021.jpg
 author: Tomasz Waszczyk
-date: 2021-01-17T10:00:00.000Z
+date: 2022-01-17T10:00:00.000Z
 tags:
   - Ujemne stopy w Polsce
 ---
+
+### 2023
+
+FED M2, nie ma gotówki w gospodarce, konsumpcja na dnie jak w 2008
+
+<img src="./img/january/brak_gotowki.png"><br><br>
 
 ### 2021
 
@@ -39,6 +45,10 @@ Glapiński: Chciałbym, żeby złoto w jeszcze większym stopniu znalazło się 
 <img src="./img/january/glapinskizloto.jpg"><br><br>
 
 Podwojenie rezerw złota i sprowadzenie ich części do Polski to nie koniec „złotych planów” kreślonych przez prezesa NBP Adama Glapińskiego. Jego zdaniem, udział kruszcu w polskich rezerwach walutowych powinien się podwoić.
+
+### 2011
+
+<a href="./documents/january/emer_przeglad_pl.pdf" target="_blank">Przegląd systemu emerytalnego</a>
 
 ### 1940
 
