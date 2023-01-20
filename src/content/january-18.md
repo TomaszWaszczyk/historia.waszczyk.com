@@ -3,10 +3,14 @@ layout: post
 title: 18 stycznia
 image: img/january/gaz.jpg
 author: Tomasz Waszczyk
-date: 2021-01-18T10:00:00.000Z
+date: 2022-01-18T10:00:00.000Z
 tags:
   - Jan Twardowski
 ---
+
+### 2023
+
+Most countries before they hyperinflate, announce incredible yields for savers. What they don't tell you is that the yield is there to trap your capital.
 
 ### 2022
 
@@ -72,6 +76,12 @@ Przeszedł do historii jako autor słów: ,,Śpieszmy się kochać ludzi, tak sz
 Urodził się Józef Kossecki: https://pl.wikipedia.org/wiki/J%C3%B3zef_Kossecki
 
 https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Zag%C3%B3rski_(genera%C5%82)
+
+### 1565
+
+Sejm piotrkowski 1565r(?), przez łapówki Holendrów zakazał Polakom eksportu zboża, inwestycji w handel etc, wymuszając używanie agentów, stąd powstała choroba "agentoza", której objawem jest brak kręgosłupa do własnej ekspansji chociażby do Chin.
+
+<img src="./img/january/sejm_piotrkowski.png"><br><br>
 
 ---
 

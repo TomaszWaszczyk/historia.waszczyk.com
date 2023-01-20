@@ -3,10 +3,20 @@ layout: post
 title: 20 stycznia
 image: img/january/joe.jpeg
 author: Tomasz Waszczyk
-date: 2021-01-20T10:00:00.000Z
+date: 2022-01-20T10:00:00.000Z
 tags:
   - Donald Trump
 draft: false  
+---
+
+### 2023
+
+<img src="./img/january/rezerwy_usd.png"><br><br>
+
+---
+
+<img src="./img/january/usdebt.jpeg"><br><br>
+
 ---
 
 ### 2022

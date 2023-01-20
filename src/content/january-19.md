@@ -3,7 +3,7 @@ layout: post
 title: 19 stycznia
 image: img/january/ak.jpg
 author: Tomasz Waszczyk
-date: 2021-01-19T10:00:00.000Z
+date: 2022-01-19T10:00:00.000Z
 tags:
   - Armia Krajowa
 draft: false  
