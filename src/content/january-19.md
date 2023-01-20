@@ -9,6 +9,10 @@ tags:
 draft: false  
 ---
 
+### 2023
+
+> The world is going through a period of unprecedented geopolitical instability. 93% cyber executives expect a catastrophic cyber event in next two years. Must ramp up defence and invest more in cyber security', says Akshay Joshi, the head of cybersecurity at WEF.
+
 ### 2022
 
 <a href="./documents/january/GermanAnalysis.pdf" target="_blank">German Analysis about vaccines.</a>
