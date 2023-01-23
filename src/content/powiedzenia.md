@@ -3848,6 +3848,8 @@ Po co dojadać stary chleb jak jest młoda bułka.
 
 Stary chłop nie jest tak stary jak stara baba.
 
+democracy by gbu 12
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

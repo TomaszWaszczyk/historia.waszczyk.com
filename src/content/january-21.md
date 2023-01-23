@@ -3,11 +3,15 @@ layout: post
 title: 21 stycznia
 image: img/january/elections.png
 author: Tomasz Waszczyk
-date: 2021-01-21T10:00:00.000Z
+date: 2022-01-21T10:00:00.000Z
 tags:
   - Mateusz wie
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/january/ufac.jpeg"><br><br>
 
 ### 2021
 

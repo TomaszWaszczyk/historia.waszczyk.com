@@ -229,6 +229,12 @@ Negatywne emocje: ZŁOŚĆ, ŻAL, ZAZDROŚĆ skutecznie niszczą nawet dobrze od
 
 <!-- glifosat -->
 
+#### Co jeść żeby unikać przeziebień
+
+* cynk
+* rośliny z ciemną skórką (jagody, aronia, jeżyny, borówka amerykańska)
+* sauna
+
 ### Zioła
 
 Czystek

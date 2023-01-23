@@ -3,11 +3,20 @@ layout: post
 title: 24 stycznia
 image: img/january/biden.webp
 author: Tomasz Waszczyk
-date: 2021-01-24T10:00:00.000Z
+date: 2022-01-24T10:00:00.000Z
 tags:
   - Katyń
 draft: false  
 ---
+
+### 2023
+
+Materiał z transportu systemów obrony powietrznej Patriot z Niemiec do Polski:
+
+<video width="640" height="480" controls>
+<source src="./movies/january/polska-na-wojne.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 

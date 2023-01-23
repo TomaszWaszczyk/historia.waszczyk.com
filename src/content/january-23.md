@@ -3,7 +3,7 @@ layout: post
 title: 23 stycznia
 image: img/january/bitcoinbuffet.jpeg
 author: Tomasz Waszczyk
-date: 2021-01-23T10:00:00.000Z
+date: 2022-01-23T10:00:00.000Z
 tags:
   - Rozbiór Polski
 draft: false
