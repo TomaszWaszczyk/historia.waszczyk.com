@@ -18,6 +18,12 @@ Materiał z transportu systemów obrony powietrznej Patriot z Niemiec do Polski:
 Your browser does not support the video tag.
 </video>
 
+---
+
+> Wojna między Rosją a Zachodem stała się faktem - Ławrow
+
+---
+
 ### 2022
 
 <img src="./img/january/czwartadawkaalemao.jpeg"><br><br>

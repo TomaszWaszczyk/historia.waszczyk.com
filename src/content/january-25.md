@@ -3,7 +3,7 @@ layout: post
 title: 25 stycznia
 image: img/january/mikolaj.jpg
 author: Tomasz Waszczyk
-date: 2021-01-25T10:00:00.000Z
+date: 2022-01-25T10:00:00.000Z
 tags:
   - Self-Sovereign
 draft: false  

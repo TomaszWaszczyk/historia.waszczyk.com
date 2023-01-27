@@ -3,10 +3,34 @@ layout: post
 title: 27 stycznia
 image: img/january/korporacyjnooligarchiczny.png
 author: Tomasz Waszczyk
-date: 2020-01-27T10:00:00.000Z
+date: 2022-01-27T10:00:00.000Z
 tags:
   - Xi Jinping
 draft: false  
+---
+
+### 2023
+
+<img src="./img/january/tyrowicz.jpg"><br><br>
+
+Dezinflacji nie będzie. Ma również z tego wynikać zła wiadomość na ten rok. Inflacja bazowa ma być w dryfie poziomym. O dezinflacji można zatem zapomnieć.
+
+Jak wyjaśniła Joanna Tyrowicz w wypowiedzi przytoczonej przez money.pl, efekt bazowy będzie miał ogromne znaczenie. Ma to być powrót cen do poziomu sprzed wzrostu inflacji.
+
+Wg przykładu Tyrowicz, cena produktu w 2021 roku wynosiła 100 złotych, w 2022 wzrosła do 150, a w 2023 obniżyła do 120. Efektem bazowym będzie zatem powrót do ceny 100 złotych - czyli dezinflacja.
+
+---
+
+Current status:
+
+<img src="./img/january/current_status.png"><br><br>
+
+<img src="./img/january/nsa.jpg"><br><br>
+
+---
+
+<img src="./img/january/Mieczyslaw-Slowikowski-Maroko.jpg"><br><br>
+
 ---
 
 ### 2022

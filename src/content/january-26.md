@@ -3,10 +3,14 @@ layout: post
 title: 26 stycznia
 image: img/january/brakprzemocy.jpg
 author: Tomasz Waszczyk
-date: 2021-01-26T10:00:00.000Z
+date: 2022-01-26T10:00:00.000Z
 tags:
   - Niemcy
 ---
+
+### 2023
+
+Jeżeli masz milion zł kredytu i nie możesz spłacić to masz problem. Jeżeli masz miliard zł kredytu i nie możesz spłacić, to bank ma problem.
 
 ### 2022
 
