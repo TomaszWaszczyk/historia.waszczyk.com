@@ -3,7 +3,7 @@ layout: post
 title: 28 stycznia
 image: img/january/socjalizm2021.jpg
 author: Tomasz Waszczyk
-date: 2021-01-28T10:00:00.000Z
+date: 2022-01-28T10:00:00.000Z
 tags:
   - Państwo jako korporacja
 draft: false  
@@ -65,6 +65,10 @@ Jednym z przykładów takiej taksówki jest Mercedes 170 VG, który zużywał 15
 Eksploatacja tych aut przysparzała jednak dosyć dużo problemów, głównie ze względu na to, iż często należało usuwać smołę, a także, że w pojazdach, których silnik powinien dysponować elastycznością w zakresie dysponowanej mocy i obrotów, a generator mający pewną bezwładność w swoim cyklu pracy produkował gazu bądź za mało, bądź za dużo. Do tego dochodził problem rozpalania, a w momencie zatrzymania silnika należało produkowany gaz bądź spalić poza silnikiem, bądź wypuścić do atmosfery.
 
 <img src="./img/january/taksowki.jpg"><br><br>
+
+### 1925
+
+<a href="./documents/january/kryzys_walutowy_1925.pdf" target="_blank">Polski kryzys walutowy i bankowy 1925 r. - Ujęcie ekonometryczne</a>
 
 ### 1606
 
