@@ -3,11 +3,21 @@ layout: post
 title: 29 stycznia
 image: img/january/polrus.jpg
 author: Tomasz Waszczyk
-date: 2021-01-29T10:00:00.000Z
+date: 2022-01-29T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2023
+
+Change in real wages in Germany (year-over-year in %). Never in German post-war history have wages lagged so far behind inflation.
+
+<img src="./img/january/germany_inflation.jpeg"><br><br>
+
+Harvard Prof. Kenneth Rogoff sieht Deutschland vor einer Wirtschaftskrise. Die Frage sei nur, wie groß sie ausfallen werde. Der Krieg in der Ukraine werde uns weiter belasten, die Inflation geht nicht einfach weg, das Zurückdrehen von Sozialreformen via Bürgergeld sei kontraproduktiv. Rogoff: „Der Staat muss endlich auf Diät, muss weniger Geld ausgeben und die Steuern für Unternehmen und Bürger senken.“
+
+Die Ampel muss dringend handeln, Konjunktur-Optimismus ist unangebracht! Die Regierung muss für bezahlbare und verlässliche Energie sorgen, KKW laufen lassen, die Taschenspielertricks in der Haushaltspolitik einstellen und Bürokratielasten senken. Damit Rogoff nicht Recht behält.
 
 ### 2022
 

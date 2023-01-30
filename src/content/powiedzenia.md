@@ -3850,6 +3850,8 @@ Stary chłop nie jest tak stary jak stara baba.
 
 democracy by gbu 12
 
+Kto chce wszystko do końca przemyśleć, zanim postąpi krok naprzód, spędzi całe życie na jednej nodze.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -3,11 +3,15 @@ layout: post
 title: 30 stycznia
 image: img/january/1667.jpg
 author: Tomasz Waszczyk
-date: 2021-01-30T10:00:00.000Z
+date: 2022-01-30T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/january/datapspectoeuro.jpg"><br><br>
 
 ### 2022
 
@@ -131,6 +135,10 @@ Pozycja wraku: 55°07'27,7 N 17°42'14,6 E. Statek leży na głębokości 43-45m
 fot. Bundesarchiv / CC-BY-SA 3.0
 
 <img src="./img/january/trzeciarzesza.jpg"><br><br>
+
+### 1925
+
+<img src="./img/january/polska_1925.jpg"><br><br>
 
 ### 1920
 
