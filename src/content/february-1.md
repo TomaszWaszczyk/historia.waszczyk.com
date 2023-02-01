@@ -17,6 +17,12 @@ Any deviations from that would be highly risky, no one should assume the Fed can
 
 Fiat flood or cascading defaults. Amen.
 
+<!-- Fed hikes by 25bp to 4.5-4.75%
+US 2 yr drops 8bp to 4.127%
+10 yr falls 12bp to 3.407%.
+I am inclined to think the Fed's rate hiking cycle has peaked today. -->
+---
+
 ### 2022
 
 > Inflacja, brak działek i nowe przepisy będą głównymi czynnikami przyczyniającymi się do dalszego wzrostu cen mieszkań - ocenił Polski Związek Firm Deweloperskich. Związek prognozuje, że w tym roku mieszkania na rynku pierwotnym zdrożeją o 7-10 proc.
@@ -24,7 +30,6 @@ Fiat flood or cascading defaults. Amen.
 ---
 
 Największy na świecie państwowy fundusz majątkowy ostrzegł, że inwestorzy stoją w obliczu niskich zysków przez lata, ponieważ gwałtowny wzrost inflacji staje się trwałym elementem globalnej gospodarki.
-
 
 „Widzimy to na całym świecie, w coraz większej liczbie miejsc. Widzieliście, jak Ikea podniosła ceny o 9 procent, widzieliście wzrost cen żywności, nadal bardzo wysokie stawki frachtowe, stawki przewozowe, metale, towary, energię, gaz. . . Widzimy też znaki na płacach”.
 
