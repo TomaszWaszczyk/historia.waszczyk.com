@@ -3852,6 +3852,12 @@ democracy by gbu 12
 
 Kto chce wszystko do końca przemyśleć, zanim postąpi krok naprzód, spędzi całe życie na jednej nodze.
 
+"rozładowywanie lasów" mówiło SB o żółnierzach niezłomnych
+
+Class Component: This is the bread and butter of most modern web apps built in ReactJS.
+
+‘Mortgage’ translates to ‘death contract’ in old French
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

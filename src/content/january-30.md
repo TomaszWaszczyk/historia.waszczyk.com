@@ -151,11 +151,11 @@ https://pl.wikipedia.org/wiki/Henryk_Magnuski
 ### 1667
 
 W Andruszowie w województwie smoleńskim Rzeczpospolita i Cesarstwo Rosyjskie podpisały rozejm kończący trwającą od 9 lat wojnę polsko-rosyjską.
-W ramach postanowień zawartych w tym poroumieniu Polska odzyskała Inflanty, województwo połockie i witebskie. Straciła natomiast województwo smoleńskie, czernichowskie i zadnieprzańską część województwa kijowskiego razem z jego stolicą, która już nigdy nie wróciła w granice Rzeczpospolitej.
-Na zdjęciu Rzeczpospolita w 1667 roku, kolorem ciemnozielonym zaznaczono ziemie
-Rzeczypospolitej będące w posiadaniu
-Carstwa Rosyjskiego na mocy rozejmu
+W ramach postanowień zawartych w tym porozumieniu Polska odzyskała Inflanty, województwo połockie i witebskie. Straciła natomiast województwo smoleńskie, czernichowskie i zadnieprzańską część województwa kijowskiego razem z jego stolicą, która już nigdy nie wróciła w granice Rzeczpospolitej.
+Na zdjęciu Rzeczpospolita w 1667 roku, kolorem ciemnozielonym zaznaczono ziemie Rzeczypospolitej będące w posiadaniu Carstwa Rosyjskiego na mocy rozejmu
 andruszowskiego.
+
+<img src="./img/january/andruszow.jpeg"><br><br>
 
 ### 1465
 

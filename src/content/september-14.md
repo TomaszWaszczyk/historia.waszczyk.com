@@ -85,6 +85,12 @@ Zaczęły się masowe aresztowania, egzekucje, wysiedlenia i represje wobec mies
 
 <img src="./img/september/kapitulacjagdanska.jpg"><br><br>
 
+---
+
+<img src="./img/september/propaganda.jpeg"><br><br>
+
+---
+
 ### 1763
 
 Władze pruskie wprowadziły na Śląsku ustawy germanizacyjne. Głównym celem tego posunięcia było wykorzenienie języka polskiego, co próbowano osiągnąć przez usunięcie ze szkół polskich nauczycieli, sprowadzenie z głębi Prus burmistrzów, którzy mówili tylko po niemiecku, zakaz zawierania małżeństw, gdy oblubieńcy nie znają niemieckiego.

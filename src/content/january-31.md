@@ -3,7 +3,7 @@ layout: post
 title: 31 stycznia
 image: img/january/brakslownormalniesiwydym.jpeg
 author: Tomasz Waszczyk
-date: 2021-01-31T10:00:00.000Z
+date: 2022-01-31T10:00:00.000Z
 tags:
   - Propaganda
 draft: false

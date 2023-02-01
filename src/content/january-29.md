@@ -19,6 +19,12 @@ Harvard Prof. Kenneth Rogoff sieht Deutschland vor einer Wirtschaftskrise. Die F
 
 Die Ampel muss dringend handeln, Konjunktur-Optimismus ist unangebracht! Die Regierung muss für bezahlbare und verlässliche Energie sorgen, KKW laufen lassen, die Taschenspielertricks in der Haushaltspolitik einstellen und Bürokratielasten senken. Damit Rogoff nicht Recht behält.
 
+---
+
+🚨Dług Polski wzrośnie na koniec roku o blisko 850 mld zł. Co godzinę zadłużamy się o 12 mln zł. I tak 24 godziny na dobę.
+
+---
+
 ### 2022
 
 Ojciec Rydzyk: Zaszczepiłem się trzy razy. Posłuchałem lekarzy
