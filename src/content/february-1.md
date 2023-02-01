@@ -3,11 +3,19 @@ layout: post
 title: 1 lutego
 image: img/february/radiofonia.jpg
 author: Tomasz Waszczyk
-date: 2021-02-01T10:00:00.000Z
+date: 2022-02-01T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
 ---
+
+### 2023
+
+> Powell: The only way forward is for congress to increase the debt ceiling.
+
+Any deviations from that would be highly risky, no one should assume the Fed can protect the economy.
+
+Fiat flood or cascading defaults. Amen.
 
 ### 2022
 

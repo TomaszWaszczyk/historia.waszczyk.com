@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2023
+
+The reason why NY and SF have so much wealth is not due to innovation, hard work or smart people. Lies.
+
+The reason they have so much wealth is because they are near to the newly printed money. These are Cantillionaire cities, meritless whose wealth is ultimately from theft.
+
 ### 2022
 
 > Podatki “powinny sprzyjać redystrybucji bogactwa, chroniąc godność ubogich i ostatnich, którym zawsze grozi to, że zostaną zmiażdżeni przez możnych” - oświadczył papież.
