@@ -3,10 +3,20 @@ layout: post
 title: 2 lutego
 image: img/february/baczynski.jpg
 author: Tomasz Waszczyk
-date: 2021-02-02T10:00:00.000Z
+date: 2022-02-02T10:00:00.000Z
 tags:
   - Merkle Tree
 draft: false  
+---
+
+### 2023
+
+Decyzja Fed zgodna z oczekiwaniami (25 pb podwyżki). Jednak konferencja Jerome Powella może nieco dziwić brakiem jastrzębich akcentów. Co prawda mówi, że kolejne podwyżki są możliwe, ale mówi też o początku procesu dezinflacji, co przecenia dolara i pomaga akcjom.
+
+---
+
+<img src="./img/february/gold_germany.jpeg"><br><br>
+
 ---
 
 ### 2022
@@ -87,6 +97,17 @@ Prawdziwa alternatywa jest więc następująca: niskie ceny mieszkań i bałagan
 ---
 
 Smok mówi, że za trzy miesiące będzie mieć czas na rzeczy WAŻNE - telefon za 3 miesiące - 2 maja.
+
+---
+
+### ~2005
+
+<video width="640" height="480" controls>
+<source src="./movies/february/emerytury.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 ### 1992
 
