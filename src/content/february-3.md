@@ -3,10 +3,28 @@ layout: post
 title: 3 lutego
 image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
-date: 2021-02-03T10:00:00.000Z
+date: 2022-02-03T10:00:00.000Z
 tags:
   - Imperium Rzymskie
 draft: false
+---
+
+### 2023
+
+Charlie Munger says:
+
+> The United States should follow China's lead and ban Cryptocurrencies all together.
+
+<img src="./img/february/ban.jpeg"><br><br>
+
+<img src="./img/february/currency_war.jpeg"><br><br>
+
+---
+
+Stan społeczeństwa:
+
+<img src="./img/february/przespijsie.jpeg"><br><br>
+
 ---
 
 ### 2022

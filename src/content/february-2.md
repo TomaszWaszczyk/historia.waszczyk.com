@@ -19,6 +19,10 @@ Decyzja Fed zgodna z oczekiwaniami (25 pb podwyżki). Jednak konferencja Jerome 
 
 ---
 
+<img src="./img/february/najistotniejszy.jpeg"><br><br>
+
+---
+
 ### 2022
 
 Smak komunikacji lat 2020-202X
