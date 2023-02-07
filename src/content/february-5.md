@@ -3,11 +3,15 @@ layout: post
 title: 5 lutego
 image: img/february/umowagraniczna.jpg
 author: Tomasz Waszczyk
-date: 2021-02-05T10:00:00.000Z
+date: 2022-02-05T10:00:00.000Z
 tags:
   - Sovereign Individual
 draft: false
 ---
+
+### 2023
+
+<img src="./img/february/bargeld.jpeg"><br><br>
 
 ### 2022
 

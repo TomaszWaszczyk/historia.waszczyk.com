@@ -12,6 +12,8 @@ Poczytać o królu UK Henryku VIII
 
 Przedwojenny 1PLN = 0.17grama XAU
 
+kowalewski sojusz rubla z dolarem
+
 Bolszewicy a złoto
 
 http://www.mysl-polska.pl/2028

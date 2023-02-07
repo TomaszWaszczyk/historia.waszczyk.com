@@ -14,7 +14,7 @@ tags:
 
 ### 2016
 
-<a href="./documents/august/US_war_hawks_Lin.pdf" target="_blank">US_war_hawks_Lin</a>
+<a href="./documents/august/US_war_hawks_Lin.pdf" target="_blank">US war hawks, Lin</a>
 
 ### 2000
 

@@ -28,6 +28,8 @@ Państwom zrzeszonym w Klubie Paryskim, m.in. Francji, RFN, Wielkiej Brytanii i 
 
 <img src="./img/april/klubparyski.jpg"><br><br>
 
+<a href="./documents/april/Acta_Universitatis_Lodziensis_Folia_Oeconomica.pdf" target="_blank">Klub Paryski</a>
+
 ### 1945
 
 W Moskwie polski premier Edward Osóbka-Morawski i Józef Stalin podpisali polsko- radziecki układ o przyjaźni, pomocy i wzajemnej współpracy.
