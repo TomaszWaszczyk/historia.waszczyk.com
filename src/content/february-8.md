@@ -3,7 +3,7 @@ layout: post
 title: 8 lutego
 image: img/february/identity.png
 author: Tomasz Waszczyk
-date: 2021-02-08T10:00:00.000Z
+date: 2022-02-08T10:00:00.000Z
 tags:
   - A Declaration of the Independence of Cyberspace
 draft: false
@@ -86,6 +86,12 @@ Niemcy zwolnili z obozu koncentracyjnego Sachsenhausen 101 ze 183 podstępnie ar
 pogorszenia stanu zdrowia zmarli w różnych okresach po zwolnieniu.
 
 <img src="./img/february/zwolnienie.jpg"/><br><br>
+
+### 1923
+
+Organ prasowy NSDAP „Völkischer Beobachter” został przekształcony z tygodnika w dziennik.
+
+<img src="./img/february/volkischer.jpeg"><br><br>
 
 ### 1922
 

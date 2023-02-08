@@ -3,11 +3,35 @@ layout: post
 title: 7 lutego
 image: img/february/wwiii.jpeg
 author: Tomasz Waszczyk
-date: 2021-02-07T10:00:00.000Z
+date: 2022-02-07T10:00:00.000Z
 tags:
   - Coronavirus
 draft: false
 ---
+
+### 2023
+
+Nowy Jork (PAP/AFP) - W miarę wzrostu ryzyka eskalacji na Ukrainie świat zmierza "z szeroko otwartymi oczami" w kierunku "wojny na szerszą skalę" - oświadczył w poniedziałek sekretarz generalny ONZ w przemówieniu, w którym przedstawił priorytety organizacji na rok 2023.
+
+"Wojna na Ukrainie, kryzys klimatyczny, skrajne ubóstwo... Rok 2023 rozpoczęliśmy, myśląc o zbieżności wyzwań, jakich nie widziano za naszego życia" - powiedział Guterres przed Zgromadzeniem Ogólnym ONZ.
+
+Przypomniał, że grupa naukowców, "monitorujących zegar zagłady również niedawno oszacowała, że ludzkość nigdy nie była tak blisko końca świata i teraz jest 90 sekund przed północą", co powinno oznaczać, jego zdaniem, "włączenie się sygnału alarmowego".
+
+"Musimy się obudzić i zabrać do pracy" - mówił szef ONZ i podkreślił, że najważniejszym obecnie wyzwaniem jest wojna na Ukrainie. "Perspektywy pokoju wciąż się kurczą. Ryzyko dalszej eskalacji i rzezi wciąż rośnie" - ocenił.
+
+"Myślę, że świat nie podąża jak lunatyk w kierunku szerszej wojny, ale obawiam się, że tak naprawdę robi to z szeroko otwartymi oczami" - powiedział i jednocześnie zwrócił uwagę na inne niebezpieczne konflikty, jak ten między Izraelem a Palestyńczykami, sytuację w Afganistanie, Birmie, w Sahelu czy na Haiti.
+
+"Gdyby wszystkie kraje wypełniały swoje zobowiązania wynikające z Karty ONZ, prawo do pokoju byłoby zagwarantowane" - mówił Guterres i podkreślił, że poszanowanie praw człowieka powinno znajdować się w centrum wszelkich wartości.
+
+Guterres potępił też brak "wizji strategicznej" i "zamiłowanie" decydentów politycznych oraz ekonomicznych do krótkoterminowych działań.
+
+"Następne wybory. Następny manewr polityczny, by utrzymać się przy władzy lub kursy akcji następnego dnia. To krótkoterminowe myślenie jest nie tylko głęboko nieodpowiedzialne, ale i niemoralne" - powiedział Guterres, zwracając uwagę na potrzebę myślenia o przyszłych pokoleniach i ponawiając apel o "radykalną transformację" globalnej architektury finansowej.
+
+"Coś jest zasadniczo nie tak z naszym systemem gospodarczym i finansowym" - oznajmił, wskazując na wzrost ubóstwa i głodu, przepaść między bogatymi a biednymi czy ciężar zadłużenia krajów rozwijających się.
+
+"Bez fundamentalnych reform najbogatsze kraje i jednostki będą nadal gromadzić bogactwo, pozostawiając jedynie okruchy dla społeczności i krajów biednych" - apelował.
+
+W swoim przemówieniu po raz kolejny zaatakował również sektor paliw kopalnych: "Jeśli nie możesz zaplanować wiarygodnej ścieżki do neutralności pod względem emisji dwutlenku węgla, z celami na lata 2025 i 2030, obejmującymi wszystkie twoje operacje, nie powinieneś prowadzić biznesu" - powiedział. (PAP)
 
 ### 2021
 
