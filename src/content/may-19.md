@@ -114,6 +114,10 @@ V. Oba Dowództwa Naczelne uważają za niezbędne kontynuowanie bardziej szczeg
 
 <img src="./img/may/kasprzycki.jpg"><br><br>
 
+### 1914
+
+<img src="./img/may/fed_owners.jpeg"><br><br>
+
 ### 1895
 
 W Petersburgu urodził się Stanisław Kopański- dowódca Samodzielnej Brygady Strzelców Karpackich walczącej w Tobruku.
