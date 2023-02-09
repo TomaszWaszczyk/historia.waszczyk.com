@@ -70,19 +70,20 @@ Jeden wyrok: do tiurmy. Dla wszystkich. Do czysta!.
 Za Warszawę, Warszawę, powstańcze zachcianki -
 Specjalny odział śledczy: "przyłożyć do ścianki".
 
-* * *
 Zwinąć chorągiew z masztu. Krepą jest zasnuta
 Za dywizję Rataja, Okrzei, Traugutta.
 Pociąć sztandar w kawałki. Rozdać śród żołnierzy,
 Na drogę, niech go wezmą. Na sercu niech leży
 
-### ~~1970
+---
+
+### ~1970
 
 <img src="./img/february/kosztbudowydomu.jpg"><br><br>
 
 ### 1940
 
-Niemcy zwolnili z obozu koncentracyjnego Sachsenhausen 101 ze 183 podstępnie aresztowanych w ramach akcji "Sonderaktion Krakau" profesorów Uniwerytetu Jagiellońskiego i Akademii Górniczej w Krakowie. Niektórzy z nich wycieńczeni warunkami obozowymi lub z powodu znacznego
+Niemcy zwolnili z obozu koncentracyjnego Sachsenhausen 101 ze 183 podstępnie aresztowanych w ramach akcji "Sonderaktion Krakau" profesorów Uniwersytetu Jagiellońskiego i Akademii Górniczej w Krakowie. Niektórzy z nich wycieńczeni warunkami obozowymi lub z powodu znacznego
 pogorszenia stanu zdrowia zmarli w różnych okresach po zwolnieniu.
 
 <img src="./img/february/zwolnienie.jpg"/><br><br>

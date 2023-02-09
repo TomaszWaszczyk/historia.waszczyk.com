@@ -27,17 +27,18 @@ Okazuje się, że kupon jest rekordowo wysoki.
 
 ---
 
-- Jak jest różnica między teorią spiskową a rzeczywistością? 
+- Jak jest różnica między teorią spiskową a rzeczywistością?
 - Sześć miesięcy.
+
 Bezwarunkowy dochód gwarantowany (BDG) nie jest już teorią spiskową. Będzie testowany w Polsce https://tiny.pl/96nzg. BDG to idea, która w swoim założeniu ma zapewnić każdemu obywatelowi stałą „pensję” wypłacaną przez państwo.
 Zdrowy rozsądek podpowiada, że pomysł ten jest niebezpieczny. Skoro ten dochód ma być gwarantowany, to ktoś musi go zagwarantować. Gwarantuje go rząd, a rząd nie ma swoich pieniędzy tylko te, które odbierze podatnikom, więc ktoś musi pracować. Jeśli ktoś musi na kogoś pracować, to staje się on niewolnikiem tego, na którego pracuje.
-Tradycyjne nauczanie społeczne Kościoła kładzie nacisk na znaczenie i godność ludzkiej pracy dla osobowego rozwoju. Płacenie ludziom, niezależnie od tego, czy pracują, czy też nie, może wydawać się obrazą takiej etyki. Prawdziwe niebezpieczeństwo jest jednak o wiele większe. Ktoś próbuje podmienić nam tradycyjną antropologię nową wizją człowieka, który nie jest już osobą, mającą swoją godność, wyjątkowość i swoje prawa. Socjalizm traktował ludzką osobę jako element machiny społecznej. Eksperyment z BDG idzie znacznie dalej. Świat nie wie, co zrobić z człowiekiem. Widzi w nim nawet klimatyczne zagrożenie. 
-Kiedyś w wywiadzie dla "Obserwatora finansowego" powiedziałem, że bardziej niż transhumanizmu boję się urzędników i państwa w obecnej postaci, które stale ingerującego w moje życie. Transhumanizm, jak trafnie zauważa to Magdalena Ziętek-Wielomska w nagraniu "Kim jest człowiek? Najważniejsze pytanie XXI wieku!" https://youtu.be/6TCVFTlBXUI rodzi się na uniwersytetach. Problem polega na tym, że ten eksperyment jest przeprowadzany za nasze pieniądze. 
-Co możemy zrobić, by stanąć w obronie wyjątkowości i godności ludzkiej osoby? Należy bronić instytucji własności prywatnej. Nic lepszego nie wymyślimy.  
-"Wszyscy chcą naszego dobra. Nie dajcie go sobie zabrać." 
-- Stanisław Jerzy Lec.
+Tradycyjne nauczanie społeczne Kościoła kładzie nacisk na znaczenie i godność ludzkiej pracy dla osobowego rozwoju. Płacenie ludziom, niezależnie od tego, czy pracują, czy też nie, może wydawać się obrazą takiej etyki. Prawdziwe niebezpieczeństwo jest jednak o wiele większe. Ktoś próbuje podmienić nam tradycyjną antropologię nową wizją człowieka, który nie jest już osobą, mającą swoją godność, wyjątkowość i swoje prawa. Socjalizm traktował ludzką osobę jako element machiny społecznej. Eksperyment z BDG idzie znacznie dalej. Świat nie wie, co zrobić z człowiekiem. Widzi w nim nawet klimatyczne zagrożenie.
+Kiedyś w wywiadzie dla "Obserwatora finansowego" powiedziałem, że bardziej niż transhumanizmu boję się urzędników i państwa w obecnej postaci, które stale ingerującego w moje życie. Transhumanizm, jak trafnie zauważa to Magdalena Ziętek-Wielomska w nagraniu "Kim jest człowiek? Najważniejsze pytanie XXI wieku!" https://youtu.be/6TCVFTlBXUI rodzi się na uniwersytetach. Problem polega na tym, że ten eksperyment jest przeprowadzany za nasze pieniądze.
+Co możemy zrobić, by stanąć w obronie wyjątkowości i godności ludzkiej osoby? Należy bronić instytucji własności prywatnej. Nic lepszego nie wymyślimy.
 
-<img src="./img/may/dochodpodstawowy"><br><br>
+> "Wszyscy chcą naszego dobra. Nie dajcie go sobie zabrać." - Stanisław Jerzy Lec.
+
+<img src="./img/may/dochodpodstawowy.jpg"><br><br>
 
 ### 2021
 

@@ -3,9 +3,24 @@ layout: post
 title: 9 lutego
 image: img/february/wolyn.png
 author: Tomasz Waszczyk
-date: 2021-02-09T10:00:00.000Z
+date: 2022-02-09T10:00:00.000Z
 tags:
   - Wołyń
+---
+
+### 2022
+
+Czy szczepionka AstraZeneca to szczepionka gorszej kategorii? - Kancelaria Premiera
+
+<video width="640" height="480" controls>
+<source src="./movies/february/astra.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/february/us_treasury.jpeg"><br><br>
+
 ---
 
 ### 2021
