@@ -85,6 +85,10 @@ Branża lotnicza znowu pikuje 😟 193 lotniskom europejskim grozi upadłość..
 
 ---
 
+### 1917
+
+<img src="./img/november/deklaracja_zydowska.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-2.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -60,6 +60,10 @@ No i przy okazji warto przypomnieć, że ostatnio wprowadzono w Polsce do użytk
 
 ---
 
+### 2015
+
+<a href="./documents/july/REFORMS-FOR-COMPLETION-OF-CURRENT-PROGRAM-1.pdf" target="_blank">REFORMS-FOR-COMPLETION-OF-CURRENT-PROGRAM-1</a>
+
 ### 1991
 
 W Pradze odbyło się ostatnie posiedzenie Doradczego Komitetu Politycznego i podpisanie protokołu o likwidacji Układu Warszawskiego.

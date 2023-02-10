@@ -10,7 +10,7 @@ tags:
 
 ### 2022
 
-Czy szczepionka AstraZeneca to szczepionka gorszej kategorii? - Kancelaria Premiera
+> Czy szczepionka AstraZeneca to szczepionka gorszej kategorii? - Kancelaria Premiera
 
 <video width="640" height="480" controls>
 <source src="./movies/february/astra.mp4" type="video/mp4">
@@ -97,6 +97,10 @@ W okresie od lutego 43 do lutego 45 zginęło co najmniej 60 tysięcy Polaków -
 Zamiast oszczędzania żołnierza i amunicji na akcję burza czy samobójczą misję - życzeniowym myśleniu o odbiciu Warszawy z rąk niemieckich i dobrych zamiarach Sowietów, można było skupić się na zagrożeniach, których byliśmy w stanie przezwyciężyć. Takim była zbrodnia wołyńska.
 
 <img src="./img/february/wolyn.png"/><br><br>
+
+### 1918
+
+Państwa centralne podpisały w Brześciu Litewskim traktat pokojowy z Ukraińską Republiką Ludową. Na jego mocy do powstałego państwa ukraińskiego przyłączono Chełmszczyznę i Podlasie.
 
 ### 1905
 

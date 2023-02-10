@@ -3858,6 +3858,10 @@ Class Component: This is the bread and butter of most modern web apps built in R
 
 ‘Mortgage’ translates to ‘death contract’ in old French
 
+Starania i odwaga nie wystarczą, jeżeli zabraknie celu i ukierunkowania. - John Fitzgerald Kennedy
+
+Wolnosć nie jest dawana, wolność należy sobie wziąć.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

@@ -3,7 +3,7 @@ layout: post
 title: 10 lutego
 image: img/february/broniewski.jpg
 author: Tomasz Waszczyk
-date: 2021-02-10T10:00:00.000Z
+date: 2022-02-10T10:00:00.000Z
 tags:
   - Władysław Broniewski
 draft: false

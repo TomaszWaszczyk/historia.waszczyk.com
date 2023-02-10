@@ -25,8 +25,7 @@ https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_2020
 
 ---
 
-Na Waszą prośbę przygotowuję listę lektur, z którymi należy się zapoznać, jeżeli chce się zrozumieć marksizm. Materiał podzielę na kilka części, aby nie zarzucić Was od razu ogromem informacji.
-Zacznijmy od marksizmu klasycznego.
+Na Waszą prośbę przygotowuję listę lektur, z którymi należy się zapoznać, jeżeli chce się zrozumieć marksizm. Materiał podzielę na kilka części, aby nie zarzucić Was od razu ogromem informacji. Zacznijmy od marksizmu klasycznego:
 
 1. "Manifest Partii Komunistycznej" z 1848 roku autorstwa Karola Marksa i Fryderyka Engelsa. Absolutna podstawa. Należy ze skupieniem przeczytać tę pracę i przeanalizować podstawę programową komunistów, tzn. realnie ocenić, do czego doprowadzi realizacja ich postulatów. Wbrew obiegowej opinii i przysłowiom typu "teoria jedno, praktyka drugie" praktyka zawsze wynika z teorii. Nigdy praktyczne skutki nie odbiegają od teoretycznych założeń. Co najwyżej trudno je przewidzieć, jeżeli plan działania zostaje przedstawiony w zawoalowany, rozwodniony sposób. Ewentualnie jeżeli nie jest się zbyt inteligentnym i wykształconym człowiekiem (XIX-wieczny proletariat i współczesny prekariat). Symboliczny "Manifest Komunistyczny" stanowi uzasadnienie rewolucyjnego terroru i przejęcia władzy przemocą poprzez zduszenie wszelkich sił reakcyjnych, czyli przeciwnych nowemu porządkowi.
 
