@@ -9,6 +9,14 @@ tags:
 draft: false
 ---
 
+### 2023
+
+"Decyzją polityczną radnych powiatowych z ramienia PiS zostałem przed chwilą zwolniony z pracy. Zarówno z pełnienia funkcji dyrektora ds. medycznych, jak i lekarza w oddziale reumatologicznym, poradni reumatologicznej, poradni leczenia osteoporozy oraz dyżurów medycznych w SOR."
+
+<img src="./img/february/wypowiedzenie.jpeg"><br><br>
+
+<img src="./img/february/wypowiedzenie2.jpeg"><br><br>
+
 ### 2022
 
 <video width="640" height="480" controls>
