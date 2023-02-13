@@ -61,6 +61,10 @@ Czy tylko ja uważam, że to traktowanie ludzi jak już totalne bydło?
 
 ---
 
+### 2015
+
+<a href="./documents/january/Israel-Rabinovich-01292015-1.pdf" target="_blank">Israel-Rabinovich</a>
+
 ### 1943
 
 Feldmarszałek Friedrich Paulus poddał się dowódcy 64. Armii gen. Michaiłowi Szumiłowowi po klęsce dowodzonej przez siebie 6. Armii w bitwie stalingradzkiej.

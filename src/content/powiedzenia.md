@@ -3862,6 +3862,8 @@ Starania i odwaga nie wystarczą, jeżeli zabraknie celu i ukierunkowania. - J
 
 Wolnosć nie jest dawana, wolność należy sobie wziąć.
 
+hold your horses
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

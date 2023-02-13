@@ -3,7 +3,7 @@ layout: post
 title: 13 lutego
 image: img/february/mongolowie.jpg
 author: Tomasz Waszczyk
-date: 2021-02-13T10:00:00.000Z
+date: 2022-02-13T10:00:00.000Z
 tags:
   - Najazdy
 draft: false
@@ -12,7 +12,17 @@ draft: false
 ### 2021
 
 > Coraz częściej mieszkania znajomych wyglądają jak apartamenty hotelowe. Oto estetyka sukcesu klasy średniej
+
 > Most "modern" people place so much emphasis on "I want to travel" because they have no culture and spiritual connection in their own lives. This is not a message for idiots.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/february/piasek.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 ### 2020
 

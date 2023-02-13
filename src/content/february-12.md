@@ -3,11 +3,22 @@ layout: post
 title: 12 lutego
 image: img/february/izycki.jpg
 author: Tomasz Waszczyk
-date: 2021-02-12T10:00:00.000Z
+date: 2022-02-12T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
 ---
+
+### 2023
+
+BRAZIL - Lula states all citizens must be vaccinated to receive State benefits.
+
+“children have to be vaccinated. Suppose they don’t have a vaccination certificate. In that case, the mother will lose the benefit”
+
+<video width="640" height="480" controls>
+<source src="./movies/february/vaksinata.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

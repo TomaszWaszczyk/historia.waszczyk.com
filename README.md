@@ -2,6 +2,8 @@
 
 https://web96.pl/
 
+https://web96.pl/2023/02/10/internet-w-jedynce.html
+
 https://digitalmapsoftheancientworld.com/digital-maps/ancient-battles/
 
 https://www.historyofmusic.eu
