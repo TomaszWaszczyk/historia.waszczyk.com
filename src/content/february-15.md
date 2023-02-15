@@ -3,11 +3,17 @@ layout: post
 title: 15 lutego
 image: img/february/bolszewizm2.jpg
 author: Tomasz Waszczyk
-date: 2021-02-15T10:00:00.000Z
+date: 2022-02-15T10:00:00.000Z
 tags:
   - Rosja
 draft: false
 ---
+
+### 2023
+
+Nowoczesny Hołodomor 2.0, 千里之行，始於足下
+
+<img src="./img/february/raport_c40.jpeg"><br><br>
 
 ### 2022
 
