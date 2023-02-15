@@ -11,6 +11,8 @@ draft: false
 
 ### 2023
 
+> The German government must disclose its findings on the #terrorist attacks on NordStream , considering that revelations by Seymour Hersh point to the responsibility of the USA & Norway.
+
 <video width="640" height="480" controls>
 <source src="./movies/february/sevim_dagd.mp4" type="video/mp4">
 Your browser does not support the video tag.
