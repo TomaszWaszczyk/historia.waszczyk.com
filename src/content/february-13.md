@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+Rządy Stanów Zjednoczonych, Kanady, Francji i Niemiec wezwały swoich obywateli do jak najszybszego opuszczenia Białorusi.
+
 ### 2021
 
 > Coraz częściej mieszkania znajomych wyglądają jak apartamenty hotelowe. Oto estetyka sukcesu klasy średniej
