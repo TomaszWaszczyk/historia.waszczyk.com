@@ -13,6 +13,12 @@ draft: false
 
 > Każdy punkt procentowy inflacji daje ok. 4,7 mld zł wpływów do budżetu państwa – wynika z wypowiedzi wiceministra finansów Artura Sobonia.
 
+---
+
+<img src="./img/october/rejestracja_zwierzat.jpeg"><br><br>
+
+---
+
 ### 2021
 
 > JPMorgan Chase CEO Jamie Dimon: Bitcoin is a little bit of fool's gold

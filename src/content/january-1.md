@@ -47,6 +47,10 @@ Your browser does not support the video tag.
 
 ---
 
+<img src="./img/january/europe2022.png"><br><br>
+
+---
+
 ### 2020
 
 > No dobre rozpoczęcie nowego roku i dekady przypominamy, że przez najbliższe 9 lat (a właściwie nieco ponad 8) czekają nas 3 halvingi bitcoina. Roczna inflacja w bitcoinie na koniec tego dziesięciolecia będzie wynosiła około 0,45% a nagroda za blok 1,5625 BTC

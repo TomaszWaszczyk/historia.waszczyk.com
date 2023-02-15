@@ -3,11 +3,27 @@ layout: post
 title: 16 lutego
 image: img/february/gornyslask.jpg
 author: Tomasz Waszczyk
-date: 2021-02-16T10:00:00.000Z
+date: 2022-02-16T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+Dług USA.
+
+Politycy myślą od wyborów do wyborów i nie patrzą na długoterminowe konsekwencje długu. USA ma walutę rezerwową i może pozwolić sobie na więcej. Pytanie tylko do kiedy? Chiny już wzywały USA aby ograniczyły QE po czym zaczęły zmniejszać wartość posiadanych rezerw $.
+
+<img src="./img/february/debt1.jpeg"><br><br>
+
+<img src="./img/february/debt2.jpeg"><br><br>
+
+### ~~2000
+
+<img src="./img/february/debt3.png"><br><br>
+
+<img src="./img/february/debt3.jpeg"><br><br>
 
 ### 2021
 
