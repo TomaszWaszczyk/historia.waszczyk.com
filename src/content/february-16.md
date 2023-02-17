@@ -35,6 +35,12 @@ Wykorzystując lockdown spółka skarbu państwa przejęła popularną warszawsk
 
 ---
 
+### 1985
+
+The 🇨🇭 newspaper Journal de Genève reported about the discussions surrounding a data protection legislative proposal, including on the possible impact of the  right of access.
+
+<img src="./img/february/geneve.jpeg"><br><br>
+
 ### 1943
 
 Rozkaz Reichsführera-SS, Heinricha Himmlera (zdjęcie) z dnia 16 lutego 1943 roku dotyczący warszawskiego getta:

@@ -11,9 +11,37 @@ draft: false
 
 ### 2023
 
+Poland - a country forced to spend 4% of GDP on defense is also forced to spend 3xU:
+
+1. Making our own defense industry a key sector of the economy
+2. Making part of its defense capabilities available to the countries of the region
+3. Realizing one's own role in the coming decades.
+
+<img src="./img/february/nato_poland.jpeg"><br><br>
+
+---
+
 Ukazał się nowy raport Monachijskiej Konferencji Bezpieczeństwa zatytułowany "Re:vision". Tytuł nawiązuje do faktu, że Rosja i Chiny zaczęły na poważnie budować alternatywny ład międzynarodowy i że ich propozycja spotyka się z zainteresowaniem państw i narodów, które czuły się do tej pory nietraktowane po partnersku przez państwa zachodnie. Stąd też autorzy raportu uznali, że "globalne południe" trzeba zacząć traktować poważniej, gdyż niedługo zupełnie się wyemancypuje spod wpływów państw zachodnich... To ważny raport bo pokazuje, że jesteśmy świadkami/uczestnikami procesu globalnej przemiany, z którego Zachód zaczyna sobie powoli zdawać sprawę, ale którego moim zdaniem nie będzie już w stanie zatrzymać. Oczywiście będzie to miało kluczowe znaczenie dla kwestii globalnych procesów gospodarczych. Kto myśli przyszłościowo już teraz zaczyna się przyglądać polityce państw BRICS.
 
 > "If we do not address the resentment that countries in Africa, Latin America, and Asia feel toward the international order, which has not always served their interests, we will struggle to win the fence-sitters as allies in the defense of key rules and principles".
+
+---
+
+<img src="./img/february/bundeswehr.jpeg"><br><br>
+
+---
+
+<img src="./img/february/ohio.jpeg"><br><br>
+
+---
+
+<img src="./img/february/ppk.jpg"><br><br>
+
+---
+
+<img src="./img/february/tsue.jpeg"><br><br>
+
+---
 
 ### 2021
 
