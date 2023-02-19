@@ -3,7 +3,7 @@ layout: post
 title: 18 lutego
 image: img/february/flugblat.jpg
 author: Tomasz Waszczyk
-date: 2021-02-18T10:00:00.000Z
+date: 2022-02-18T10:00:00.000Z
 tags:
   - Big Tech
 ---
@@ -15,7 +15,7 @@ Big Techom słusznie zarzuca się wykorzystywanie pozycji rynkowej do miażdżen
 ### 1945
 
 1945 roku miała miejsce jedyna udana ucieczka z ubeckiego więzienia na Zamku w Lublinie. Z cel zbiegło 11 byłych żołnierzy Armii Krajowej skazanych na kary śmierci za działalność antykomunistyczną.
-W całej historii tej ucieczki najbardziej zaskakuje fakt, że uławili ją skazanym pilnujący ich żołnierze Batalionu Ochrony Jeńców, który składał się z wcielelonych przymusowo byłych akowców, wśród których znaleźli się również byli podkomendni skazanego na śmierć trzy dni wcześniej majora Stefana Dębickiego "Kmicic" - komendanta Armii Krajowej na Miasto Lublin. Ucieczkę ułatwiła również libacja alkoholowa, którą tego dnia urządzili sobie ubecy oraz fakt, że jedynym prawdziwie oddanym sprawie pilnowania więźniów był klucznik, którego siłą szybko obezwładniono. Wartownicy otwarli cele kluczami i wyprowadzili skazanych boczną furtka przez skarpę Zamku w stronę Lubartowa. Jeden ze skazanych oficerów AK Briks-Wigurski ps. „Boruta” odmówił opuszczenia celi (prawdopodobnie sadził, że to prowokacja) zaś Stefan Dębicki ps. „Jaksa”, „Kmicic” nie był zdolny do samodzielnego marszu z powodu przeżytych tortur Odprowadzony został w okolice Łęcznej i następnie wywieziony karetka szpitalną na Pomorze gdzie spotkał się z byłym oficerem AK obwodu Lublin Powiat Romanem Szyszkowskim.
+W całej historii tej ucieczki najbardziej zaskakuje fakt, że uławili ją skazanym pilnujący ich żołnierze Batalionu Ochrony Jeńców, który składał się z wcielonych przymusowo byłych akowców, wśród których znaleźli się również byli podkomendni skazanego na śmierć trzy dni wcześniej majora Stefana Dębickiego "Kmicic" - komendanta Armii Krajowej na Miasto Lublin. Ucieczkę ułatwiła również libacja alkoholowa, którą tego dnia urządzili sobie ubecy oraz fakt, że jedynym prawdziwie oddanym sprawie pilnowania więźniów był klucznik, którego siłą szybko obezwładniono. Wartownicy otwarli cele kluczami i wyprowadzili skazanych boczną furtka przez skarpę Zamku w stronę Lubartowa. Jeden ze skazanych oficerów AK Briks-Wigurski ps. „Boruta” odmówił opuszczenia celi (prawdopodobnie sadził, że to prowokacja) zaś Stefan Dębicki ps. „Jaksa”, „Kmicic” nie był zdolny do samodzielnego marszu z powodu przeżytych tortur Odprowadzony został w okolice Łęcznej i następnie wywieziony karetka szpitalną na Pomorze gdzie spotkał się z byłym oficerem AK obwodu Lublin Powiat Romanem Szyszkowskim.
 Wśród uwolnionych znaleźli się również major Konstanty Witkowski "Müller" komendant obwodu Radzyń, podporucznik Kazimierz Burski "Konrad", podporucznik Mieczysław Kwarciński "Ziut" i Leon Majchrzak "Dzięcioł".
 
 <img src="./img/february/zamek.jpg"/><br><br>

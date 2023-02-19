@@ -12,8 +12,6 @@ Blayb gezunt mir, kroke! Mordechai Gebirtig
 
 https://en.wikipedia.org/wiki/Sturm_und_Drang
 
-<img src="./img/others/poezja/czas.jpg"><br><br>
-
 https://www.sparknotes.com/lit/bravenew/infographic/
 
 <!-- Cyprian Kamil NorwidFortepian Chopina  -->
@@ -499,6 +497,31 @@ Kiedy przyszli po mnie, nikt nie protestował. Nikogo już nie było.
 
 ---
 
+Sztuka kochania (Owidiusz)/Księga trzecia/XXV
+
+Miłość/Radość bez niebezpieczeństwa
+traci swe największe wdzięki.
+Choć wolną jesteś jak Tais
+twórz nieistniejące lęki.
+
+Luby mógłby wchodzić drzwiami?
+Każ, niechaj przez okno włazi.
+Niechaj na Ciebie spojrzawszy
+strachem twoim się przerazi.
+
+Z krzykiem: „Jesteście zgubieni!“
+niech wpadnie sprytna służąca.
+Wówczas bladego młodzieńca
+ukryj w szafie, cała drżąca...
+
+Ale po tych niepokojach
+otwórz mu słodkie ramiona...
+
+Niech odurzy go, upoi
+rozkosz niczym niezmącona...
+
+---
+
 <https://pl.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez>
 
 https://pl.wikipedia.org/wiki/Iwan_Franko
@@ -527,8 +550,6 @@ kto chociaż raz w życiu nie odłożył na bok racjonalności.
 https://pl.wikipedia.org/wiki/Kraina_%C5%9Blepc%C3%B3w
 
 ---
-
-<a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/poezja.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
 
 <!-- 
 
@@ -582,7 +603,7 @@ To czas szybkiego jedzenia, lecz wolnego trawienia.
 Wielkich mężczyzn, małych charakterów.
 Czas większej ilości pracy, mniejszej ilości zabawy.
 Większej ilości różnych posiłków, mniejszej ilości witamin i minerałów.
-Czas, kiedy mamy mnóstwo w oknie, a nic w pokoju.– 
+Czas, kiedy mamy mnóstwo w oknie, a nic w pokoju.–
 
 Dalajlama
 

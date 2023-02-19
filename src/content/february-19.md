@@ -3,11 +3,15 @@ layout: post
 title: 19 lutego
 image: img/february/Galician_slaughter_in_1846.PNG
 author: Tomasz Waszczyk
-date: 2021-02-19T10:00:00.000Z
+date: 2022-02-19T10:00:00.000Z
 tags:
   - Niewolnictwo
 draft: false
 ---
+
+### 2023
+
+> "Some worry that our support to Ukraine risks triggering escalation,let me be clear,there are no risk-free options,but the biggest risk of all is if Putin wins" - Jens Stoltenberg
 
 ### 2022
 

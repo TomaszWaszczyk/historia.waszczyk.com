@@ -2,6 +2,12 @@
 
 https://web96.pl/
 
+lend lease
+
+https://historycolored.com/
+
+https://www.digitaltrends.com/computing/remembering-eniac-and-the-women-who-programmed-it/
+
 https://web96.pl/2023/02/10/internet-w-jedynce.html
 
 https://digitalmapsoftheancientworld.com/digital-maps/ancient-battles/
