@@ -47,6 +47,12 @@ Od 1 stycznia obowiązuje nowy podatek paliwowy. Chodzi o tzw. opłatę zapasow�
 
 Ceny ropy naftowej na światowych rynkach surowcowych są najniższe od lat. W efekcie mniej pieniędzy na stacjach benzynowych zostawiają kierowcy. Od lipca do końca tego roku, kiedy ceny ropy zaczęły gwałtownie spadać, paliwo potaniało o 91 groszy, a ceny oleju napędowego o 80 groszy na litrze.
 
+### 2014
+
+<img src="./img/january/20140106_012943.jpg"><br><br>
+
+<img src="./img/january/20140106_012946.jpg"><br><br>
+
 ### 1942
 
 Radzieckie ministerstwo spraw zagranicznych wysłało do wszystkich państw, z którymi utrzymywało stosunki dyplomatyczne opis bestialstw niemieckich dokonanych na terytorium ZSRR. Co ciekawe Rosjanie oprócz Litwy, Łotwy i Estonii wymienili tam również zajęte przez siebie terytoria Polski.

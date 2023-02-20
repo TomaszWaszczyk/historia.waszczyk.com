@@ -3,10 +3,26 @@ layout: post
 title: 20 lutego
 image: img/february/goring.jpg
 author: Tomasz Waszczyk
-date: 2021-02-20T10:00:00.000Z
+date: 2022-02-20T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
+---
+
+### 2023
+
+Ukraina/Kijów. Joe Biden przyjechał dokładnie w rocznicę jednych z najtragiczniejszych wydarzeń podczas Euromajdanu w 2014 r. Złożył wieniec pod pomnikiem "Niebiańskiej Sotni".
+
+<img src="./img/february/biden.jpeg"><br><br>
+
+<img src="./img/february/biden2.jpeg"><br><br>
+
+---
+
+New Era:
+
+<img src="./img/february/fb.png"><br><br>
+
 ---
 
 ### 2021

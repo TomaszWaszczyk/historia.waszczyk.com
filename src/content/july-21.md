@@ -20,6 +20,14 @@ According to the International Monetary Fund (IMF), global fiscal support in res
 This enormous action of central banks leads to an unprecedented disconnect between the real economy and the stock markets. The expansion of multiples has accelerated just as earnings estimates plummet.
 By making sovereign bonds prohibitively expensive, two dangerous things happen: governments believe that low bond yields are due to their policies, and investors take much more risk than what they think they have in their portfolios.
 
+### 2013
+
+<img src="./img/july/20130721_163634.jpg"><br><br>
+
+<img src="./img/july/20130721_zabawy_opcjami.jpg"><br><br>
+
+<img src="./img/july/20130724_002110.jpg"><br><br>
+
 ### 1983
 
 W Warszawie, po prawie dwóch latach działalności uległa samorozwiązaniu kierowana przez generała Wojciecha Jaruzelskiego Wojskowa Rada Ocalenia Narodowego. Była ona organem administrującym Polską od 13 grudnia 1981 roku, czyli od początku stanu wojennego. Miała charakter pozakonstytucyjny, a także posiadała cechy junty wojskowej. W jej skład wchodzili:
