@@ -24,10 +24,6 @@ The birth of the Web
 
 <img src="./img/august/World-Wide-Web-project-small.png"><br><br>
 
-### 1945
-
-https://pl.wikipedia.org/wiki/Atak_atomowy_na_Hiroszim%C4%99_i_Nagasaki
-
 ### 1979
 
 PESEL is a national identification system in Poland launched in 1979. It is in fact, the only fully impelmented data system from the grand plans of the cybernetization of the socialist state under Edward Gierek's rule. Early ideas under the name of KSI (National Information System) assumed full datafication and automatization of the state.
@@ -37,6 +33,16 @@ And here are some amazing visualizations from the 70s booklet that illustrates h
 All illustrations are from booklet titled "Informacja o Centralnym Banku Danych" published by the Ministry of Internal Affairs and Information State Agency, 1979
 
 <img src="./img/august/pesel.jpeg"><br><br>
+
+### 1964
+
+Loading a new program patch board onto an analog computer at the Institute for Theory of Information and Automation, Czechoslovak Academy of Sciences
+
+<img src="./img/august/analog.jpg"><br><br>
+
+### 1945
+
+https://pl.wikipedia.org/wiki/Atak_atomowy_na_Hiroszim%C4%99_i_Nagasaki
 
 ### 1942
 

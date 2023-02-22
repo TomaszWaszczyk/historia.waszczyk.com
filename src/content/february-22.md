@@ -3,10 +3,26 @@ layout: post
 title: 22 lutego
 image: img/february/churchill.jpg
 author: Tomasz Waszczyk
-date: 2021-02-22T10:00:00.000Z
+date: 2022-02-22T10:00:00.000Z
 tags:
   - Winston Churchill
 draft: false
+---
+
+### 2023
+
+<img src="./img/february/biden.png"><br><br>
+
+<img src="./img/february/ukraina_w_polsce.jpeg"><br><br>
+
+---
+
+<img src="./img/february/building.jpg"><br><br>
+
+---
+
+<img src="./img/february/hongkong_happy.png"><br><br>
+
 ---
 
 ### 2022
