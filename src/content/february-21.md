@@ -3,7 +3,7 @@ layout: post
 title: 21 lutego
 image: img/february/korwin.jpg
 author: Tomasz Waszczyk
-date: 2021-02-21T10:00:00.000Z
+date: 2022-02-21T10:00:00.000Z
 tags:
   - Słowacja
 draft: false
@@ -17,7 +17,7 @@ Mankind is standing on the brink of another industrial revolution which is going
 
 "At the dawn of the 21st century, data is literally power”, Barack Obama emphasized with this statement the significance of data in the modern world. With the creation of WEB 2.0, humanity has reinvented herself. Data has emerged as a new resource that has the potential to push the human race forward.
 
-History has repeated itself because WEB 2.0 has enabled a few organizations to completely control data and other related resources in a capitalistic fashion. Data is concentrated in silos by major corporations which makes it prone to hack. This became the reason for the origin of a new revolution representing the spirit of communism in the domain of interconnected networks in the form of WEB 3.0. 
+History has repeated itself because WEB 2.0 has enabled a few organizations to completely control data and other related resources in a capitalistic fashion. Data is concentrated in silos by major corporations which makes it prone to hack. This became the reason for the origin of a new revolution representing the spirit of communism in the domain of interconnected networks in the form of WEB 3.0.
 
 The spirit of WEB 3.0 can be summarized with the phrase ‘Digital Communism’. The aim of this revolution is to build, boost and blow-up a decentralized-web in place of the existing web which is virtually owned and operated by a few corporations that have gained the power to influence and control the functioning of information and hence data on the web. This revolutionary idea has existed for almost a decade now, but now due to Blockchain, it has undergone a major popularity boost. Blockchain makes WEB 3.0 seem achievable in the current scenario due to its nature of being owned and operated by the peers that are participants of this system. The Blockchain is essentially a ledger that is maintained collectively by all the users, in which every single value is modified after verification and acceptance by each user rather than the same process being carried out by selected corporations. Hence, Blockchain can liberalize data from control and ownership by private organizations. This is a matter of concern for people and 'Web-Revolutionaries' alike and therefore the decentralization of the Internet seems like the viable solution for this problem. The rise of WEB 3.0 in today's world can hence be correlated to the rise of communism in the 1900s.
 

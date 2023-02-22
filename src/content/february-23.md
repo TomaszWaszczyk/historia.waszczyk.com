@@ -3,9 +3,27 @@ layout: post
 title: 23 lutego
 image: img/february/szarecki.jpg
 author: Tomasz Waszczyk
-date: 2021-02-23T10:00:00.000Z
+date: 2022-02-23T10:00:00.000Z
 tags:
   - Armia Krajowa
+---
+
+### 2023
+
+Rekordowa rentowność sześciomiesięcznych bonów skarbowych USA - najwyżej od 2007.
+
+Oznacza to wyższy koszt nowego zadłużenia a USA mają duże zadłużenie krótkoterminowe więc efekt będzie szybko widoczny. Dodatkowo zadłużenie USA do PKB również blisko rekordów.
+
+> Print or die. - Rhei
+
+<img src="./img/february/printordie.png"><br><br>
+
+---
+
+> ...
+
+<img src="./img/february/wibor.jpg"><br><br>
+
 ---
 
 ### 2022

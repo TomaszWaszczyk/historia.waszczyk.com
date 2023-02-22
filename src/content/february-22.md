@@ -15,6 +15,8 @@ draft: false
 
 <img src="./img/february/ukraina_w_polsce.jpeg"><br><br>
 
+<img src="./img/february/biden_2.jpeg"><br><br>
+
 ---
 
 <img src="./img/february/building.jpg"><br><br>
