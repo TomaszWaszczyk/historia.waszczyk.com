@@ -106,6 +106,14 @@ Rosja ma prawo zabezpieczenia się przeciwko dalszym atakom z zachodu-i kroczymy
 
 <img src="./img/february/churchill.jpg"/><br><br>
 
+---
+
+"... Rada Ministrów postanowiła zalecić Warszawskiej Radzie Narodowej nazwać Aleje Ujazdowskie - Alejami Marszałka Józefa Stalina."
+
+<img src="./img/february/wyraz-wdziecznosci.jpeg"><br><br>
+
+---
+
 ### 1921
 
 Gosplan (OGAS)
