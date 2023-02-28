@@ -3,11 +3,17 @@ layout: post
 title: 26 lutego
 image: img/february/maluch.jpg
 author: Tomasz Waszczyk
-date: 2021-02-26T10:00:00.000Z
+date: 2022-02-26T10:00:00.000Z
 tags:
   - PRL
 draft: false
 ---
+
+### 2023
+
+<img src="./img/february/decyzje.jpeg"><br><br>
+
+<img src="./img/february/prewencyjne_zabezpieczenia.jpeg"><br><br>
 
 ### 2022
 

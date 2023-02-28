@@ -1591,6 +1591,14 @@ wiele zagadnień ogniskuje się
 
 footgun
 
+wattpadowe opowieści
+
+akolit
+
+polski świat wyobrażony rozkwita jak hryzantema
+
+groszorob
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

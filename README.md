@@ -4,6 +4,8 @@ https://web96.pl/
 
 lend lease
 
+https://planehistoria.com/
+
 https://historycolored.com/
 
 https://www.digitaltrends.com/computing/remembering-eniac-and-the-women-who-programmed-it/

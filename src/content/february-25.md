@@ -3,11 +3,15 @@ layout: post
 title: 25 lutego
 image: img/february/listopadowe.jpg
 author: Tomasz Waszczyk
-date: 2021-02-25T10:00:00.000Z
+date: 2022-02-25T10:00:00.000Z
 tags:
   - Powstanie listopadowe
 draft: false
 ---
+
+### 2023
+
+<img src="./img/february/sameplusy.jpeg"><br><br>
 
 ### 2022
 
@@ -36,6 +40,14 @@ Mamy wcześniaków nawet po dwóch szczepieniach nie są wpuszczane do dzieci. W
 Outline of the Post-War New World Map
 
 <img src="./img/february/Gomberg_map.jpg"><br><br>
+
+---
+
+### 1946
+
+"Die Weltpresse", Niemcy. Granice stref okupacyjnych.
+
+<img src="./img/february/weltpresse.jpeg"><br><br>
 
 ---
 

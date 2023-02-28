@@ -3864,6 +3864,14 @@ Wolnosć nie jest dawana, wolność należy sobie wziąć.
 
 hold your horses
 
+lecz większość śpi nadal przez sen się uśmiecha a ten kto się zbudzi nie wierzy w przebudzenie
+
+Chciwość oślepiła podejrzliwość i została naiwność
+
+it's not about the money, it's about sending a message
+
+"The world is changed by your example not your opinion."
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

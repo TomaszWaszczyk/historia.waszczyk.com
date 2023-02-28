@@ -3,11 +3,15 @@ layout: post
 title: 27 lutego
 image: img/february/granica.jpg
 author: Tomasz Waszczyk
-date: 2021-02-27T10:00:00.000Z
+date: 2022-02-27T10:00:00.000Z
 tags:
   - Ukraina
 draft: false
 ---
+
+### 2023
+
+<img src="./img/february/wig_y.jpeg"><br><br>
 
 ### 2022
 

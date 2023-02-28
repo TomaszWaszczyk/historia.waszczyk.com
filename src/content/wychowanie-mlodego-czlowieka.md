@@ -292,6 +292,10 @@ Autor: Maria Dąbrowska
 
 Tuwim Julian, Słonimski Antoni - W oparach absurdu
 
+Uwięzieni w słowach rodziców
+
+Co każdy nastolatek o rządzących wiedzieć powinien. Ludzie władzy - kompendium
+
 <!-- 
 gakureki shakai
 https://blog.cdt.pl//89058-zdalna-edukacja-w-czasie-zamkniecia-szkol 
