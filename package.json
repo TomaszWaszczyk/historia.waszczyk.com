@@ -21,7 +21,7 @@
     "cssnano": "4.1.11",
     "emotion": "11.0.0",
     "emotion-server": "11.0.0",
-    "gatsby": "2.32.13",
+    "gatsby": "5.7.0",
     "gatsby-image": "3.11.0",
     "gatsby-plugin-canonical-urls": "2.10.0",
     "gatsby-plugin-emotion": "4.1.22",
