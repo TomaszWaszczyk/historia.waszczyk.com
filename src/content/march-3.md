@@ -11,11 +11,13 @@ draft: false
 
 ### 2023
 
-The White House has released its National Cybersecurity Strategy this week. Not surprising that Post-Quantum #Cryptography (#PQC) migration is a strategic objective for the Federal Government but they also say:
+The White House has released its National Cybersecurity Strategy this week. Not surprising that Post-Quantum Cryptography (PQC) migration is a strategic objective for the Federal Government but they also say:
 
 > The private sector should follow the government’s model in preparing its own networks and systems for our post-quantum future.
 
 <img src="./img/march/pqc.jpeg"><br><br>
+
+<a href="./documents/march/National-Cybersecurity-Strategy-2023.pdf" target="_blank">National Cybersecurity-Strategy, 2023</a>
 
 ### 2022
 
