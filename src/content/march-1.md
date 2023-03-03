@@ -3,11 +3,15 @@ layout: post
 title: 1 marca
 image: img/march/banknot.jpg
 author: Tomasz Waszczyk
-date: 2021-03-01T10:00:00.000Z
+date: 2022-03-01T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+<img src="./img/march/dobrowolnie.jpg"><br><br>
 
 ### 2022
 

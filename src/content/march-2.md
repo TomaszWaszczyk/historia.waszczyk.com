@@ -3,7 +3,7 @@ layout: post
 title: 2 marca
 image: img/march/bekantmachung.jpg
 author: Tomasz Waszczyk
-date: 2021-03-02T10:00:00.000Z
+date: 2022-03-02T10:00:00.000Z
 tags:
   - Niemcy
 draft: false

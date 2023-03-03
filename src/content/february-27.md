@@ -13,6 +13,12 @@ draft: false
 
 <img src="./img/february/wig_y.jpeg"><br><br>
 
+---
+
+<img src="./img/february/robaki.jpeg"><br><br>
+
+---
+
 ### 2022
 
 > US official: Russian invasion of Ukraine risks release of dangerous pathogens

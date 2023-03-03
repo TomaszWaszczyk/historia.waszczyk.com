@@ -1,8 +1,18 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e926cde-268f-4f67-b6a2-2f8c5e493d86/deploy-status)](https://app.netlify.com/sites/eager-wiles-033ea5/deploys)
 
-https://web96.pl/
+https://web96.pl
+
+https://www.tracesofwar.com
+
+https://www.warhistoryonline.com/
+
+https://galiciajewishmuseum.org/en/wystawy/helena-rubinstein-first-lady-of-beauty/
 
 lend lease
+
+Prof Grala
+
+https://www.warhistoryonline.com/war-articles/the-final-countdown-movie-navy-recruitment.html
 
 https://planehistoria.com/
 

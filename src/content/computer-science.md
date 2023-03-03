@@ -9,6 +9,8 @@ tags:
 draft: false
 ---
 
+http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html (książki NATO o oprogramowaniu)
+
 ### A brief history of random numbers
 
 The usefulness of random numbers has been known for a long, long time to people who also knew how to use slide rules. If you wanted to do some math without the bother of coming up with all that pesky input data from the real world, you might as well just use any ol' random numbers, as long as there weren't any patterns in them to heck up the patterns you were trying to look at. So in the first half of the 20th century you had little old ladies named Edith spinning roulette wheels or pulling bingo balls out of baskets and writing the results down, which got assembled into giant tomes and published so that engineering schools could buy them and have giant tomes sitting on their shelves. Anyone who wanted some meaningless numbers could pull the tome down, flip it open to a presumably-random page, and there were all the random numbers anyone could want. The problem was solved, and life was good.

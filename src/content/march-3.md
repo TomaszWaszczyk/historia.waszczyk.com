@@ -3,11 +3,19 @@ layout: post
 title: 3 marca
 image: img/march/pilecki.jpg
 author: Tomasz Waszczyk
-date: 2021-03-03T10:00:00.000Z
+date: 2022-03-03T10:00:00.000Z
 tags:
   - Witold Pilecki
 draft: false
 ---
+
+### 2023
+
+The White House has released its National Cybersecurity Strategy this week. Not surprising that Post-Quantum #Cryptography (#PQC) migration is a strategic objective for the Federal Government but they also say:
+
+> The private sector should follow the government’s model in preparing its own networks and systems for our post-quantum future.
+
+<img src="./img/march/pqc.jpeg"><br><br>
 
 ### 2022
 

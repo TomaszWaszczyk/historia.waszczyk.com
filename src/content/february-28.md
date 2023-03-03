@@ -13,6 +13,14 @@ draft: false
 
 <img src="./img/february/kredyt.jpeg"><br><br>
 
+<img src="./img/february/po1.jpeg"><br><br>
+
+<img src="./img/february/po2.jpeg"><br><br>
+
+<img src="./img/february/po3.jpeg"><br><br>
+
+<img src="./img/february/po4.jpeg"><br><br>
+
 ### 2022
 
 Zgodnie z oczekiwaniami dziś w Rosji mamy do czynienia z dramatycznym spadkiem wartości #RUB, po ogłoszeniu w weekend sankcji wyłączających rosyjskie banki z systemu SWIFT i zamrożeniu zagranicznych aktywów centralnego banku Rosji.

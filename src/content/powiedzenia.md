@@ -3872,6 +3872,8 @@ it's not about the money, it's about sending a message
 
 "The world is changed by your example not your opinion."
 
+ars longa, vita brevis
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
