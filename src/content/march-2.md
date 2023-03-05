@@ -9,6 +9,22 @@ tags:
 draft: false
 ---
 
+### 2023
+
+Europe is switching to only Electric Vehicles in 2035.
+
+By that time probably Chinese brands will be all over just like mobile phones.
+
+But car industry is different, so I expect huge opposition from manufacturing countries like Germany, France, Italy.
+
+<img src="./img/march/china_auto_export.jpeg"><br><br>
+
+---
+
+> Orlen poinformował w sobotę, że Rosja wstrzymała dostawy ropy naftowej rurociągiem Przyjaźń do Polski. Dlaczego jednak rosyjska ropa, aż do soboty, płynęła w ogóle do Polski? Prezes Orlenu Daniel Obajtek zapowiedział, że poda więcej informacji na temat dostaw surowca we wtorek. "Jesteśmy przygotowani" — zapewnił.
+
+---
+
 ### 2022
 
 The Russian Central Bank has decided not to pay interest on bonds worth US $ 29 billion (default). After a few days of war, Russia became economically bankrupt. The financial markets will never forget it. Even if Putin withdraws its troops today - the markets will be demanding enormous risk premiums for many, many years. The price that every Russian will pay for the rest of his life.

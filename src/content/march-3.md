@@ -113,6 +113,12 @@ Przed Rejonowym Sądem Wojskowym w Warszawie rozpoczął się proces rotmistrza 
 
 <img src="./img/march/pilecki.jpg"/><br><br>
 
+### 1940
+
+Norwegia i Szwecja odmawiają przejścia alianckim siłom ekspedycyjnym do Finlandii - wojska radzieckie przechodzą po zamarzniętej Zatoce Viipuri (Finlandia), przypieczętowując los miasta.
+
+<img src="./img/march/narvik.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/march-3.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3874,6 +3874,10 @@ it's not about the money, it's about sending a message
 
 ars longa, vita brevis
 
+Nie analizuje, ale wyciągam wnioski.
+
+Jak płoną lasy to nie czas na ratowanie róż.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

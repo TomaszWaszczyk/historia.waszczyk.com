@@ -40,6 +40,18 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
 
+Bombelstein
+
+Sentoski malarz
+
+Jankowski
+
+Igor Pali
+
+Rafał Olbiński
+
+---
+
 ### The Cantillon Effect at the time of the King of France Louis XV
 
 <img src="./img/art/cantillion.jpg"><br><br>
@@ -67,8 +79,6 @@ Propaganda żydowska
 ### Teatr
 
 Biesy
-
-"akt twórczy"
 
 Wojciech Pszoniak
 
