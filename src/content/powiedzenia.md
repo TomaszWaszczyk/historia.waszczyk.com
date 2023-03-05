@@ -3874,7 +3874,7 @@ it's not about the money, it's about sending a message
 
 ars longa, vita brevis
 
-Nie analizuje, ale wyciągam wnioski.
+Nie analizuje, ale wyciągam wnioski. - Izabela zwana Joanną (spięta jak struna na latówce, określająca się "temperamentną" hue hue hue)
 
 Jak płoną lasy to nie czas na ratowanie róż.
 

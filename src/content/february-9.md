@@ -8,6 +8,10 @@ tags:
   - Wołyń
 ---
 
+### 2023
+
+W nocy z 09.02.2023 na 10.02.2023 roku przestał działać portal `nczas.com` Administrująca serwerem firma szybko ustaliła, że zarówno zaplecze strony, jak i domena normalnie działają, a na stronę można wejść bez problemu ze wszystkich krajów z wyjątkiem Polski.
+
 ### 2022
 
 > Czy szczepionka AstraZeneca to szczepionka gorszej kategorii? - Kancelaria Premiera
