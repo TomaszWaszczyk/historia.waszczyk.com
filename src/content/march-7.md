@@ -3,10 +3,16 @@ layout: post
 title: 7 marca
 image: img/march/emanuel.jpg
 author: Tomasz Waszczyk
-date: 2021-03-07T10:00:00.000Z
+date: 2022-03-07T10:00:00.000Z
 tags:
   - Warszawa
 ---
+
+### 2023
+
+<img src="./img/march/liczbynieklamia.jpg"><br><br>
+
+<img src="./img/march/stabilne_finane_polski.jpg"><br><br>
 
 ### 2022
 

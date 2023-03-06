@@ -1605,6 +1605,8 @@ unknown unknowns
 
 pivotal moment
 
+de-bullshit
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
