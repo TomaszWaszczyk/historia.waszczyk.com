@@ -14,6 +14,19 @@ tags:
 
 <img src="./img/march/stabilne_finane_polski.jpg"><br><br>
 
+---
+
+Bill Gates Dismisses the COVID Lab Leak Theory & Warns of Coming 'Unnatural Epidemics'
+
+"The evidence is very clear that it's naturally caused – it's a bat virus. We're going to have natural epidemics and sadly we may have some unnatural epidemics in the future..."
+
+<video width="640" height="480" controls>
+<source src="./movies/march/next_pandemy.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 <img src="./img/march/parallels.jpeg"><br><br>
