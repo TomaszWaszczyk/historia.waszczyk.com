@@ -12,6 +12,12 @@ tags:
 
 <img src="./img/august/ue.jpeg"><br><br>
 
+---
+
+Inflation Reduction Act
+
+---
+
 ### 2021
 
 Amerykanie opuszczają Afganistan a to jest efekt:

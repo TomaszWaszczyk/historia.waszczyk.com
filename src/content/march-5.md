@@ -9,6 +9,14 @@ tags:
 draft: false
 ---
 
+### 2023
+
+> W najbliższych dniach Ministerstwo Zdrowia powinno podjąć decyzję w sprawie podawania w Polsce piątej dawki szczepionki przeciwko koronawirusowi - ustalił reporter RMF FM. Takie rozwiązanie zarekomendowała już rządowa Rada do spraw Covid-19. Eksperci chcą, by prawo do trzeciej dawki przypominającej zyskały osoby w wieku 60+, medycy i pacjenci z obniżoną odpornością.
+> Eksperci rządowej Rady ds Covid-19 proponują, by piątą dawkę szczepionki (czyli trzecią dawkę przypominającą) otrzymały także osoby,  dla których jako druga dawka przypominająca był podany jeszcze poprzedni preparat, niedopasowany do wariantu Omikron. Chodzi o osoby szczepione tzw. drugim boosterem w okresie kwiecień-wrzesień 2022, gdy zmodyfikowany preparat dopasowany do wariantu Omikron nie był jeszcze dostępny.
+> Rada ds. Covid-19 zaleca także, by wśród medyków pierwszej kolejności piątą dawkę szczepionki zaktualizowanej o mutacje Ba4 i Ba5 wariantu Omikron otrzymali pracownicy ochrony zdrowia, którzy mają kontakt z zakaźnymi pacjentami. Piąta dawka szczepionki przeciwko Covid-19 od jesieni ubiegłego roku podawana jest już we Włoszech.
+> Jeden preparat przeciwko Covid-19 i grypie?
+> Jak ustalił nasz dziennikarz, według scenariuszy rozważanych w tej chwili przez polski rząd oraz Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, pozostała część populacji prawo do piątej dawki szczepionki otrzymałaby dopiero jesienią. Są szanse, że dopuszczony do użytku będzie już wtedy nowy preparat działający zarówno przeciwko Covid-19, jak i przeciwko grypie.
+
 ### 2022
 
 Czyżby przed wojną miała miejsce zmowa cenowa na rynku uprawnień CO2? Ktoś zarabiał na tym krocie, przy okazji pogrążając innych w stratach. A teraz role nagle się odwróciły.

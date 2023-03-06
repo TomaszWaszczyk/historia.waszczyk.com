@@ -3,10 +3,30 @@ layout: post
 title: 6 marca
 image: img/march/tramwaj.jpg
 author: Tomasz Waszczyk
-date: 2021-03-06T10:00:00.000Z
+date: 2022-03-06T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+<img src="./img/march/ecb_inflation.jpeg"><br><br>
+
+---
+
+【“#专家”：少喝一杯30元咖啡 为养老准备】
+【网民：很多人一天饭钱不到30】
+中国养老金融50人论坛秘书长、经济学博士董克用建议年轻人每天少喝一杯咖啡，一天省30元，一个月能省下900元，为养老做准备。这席话被网民批评说，很多人一天的饭钱都不到30! 
+#砖家
+#年轻人少喝咖啡为养老做准备
+#30元咖啡
+
+<video width="640" height="480" controls>
+<source src="./movies/march/kawa.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
