@@ -11,6 +11,14 @@ draft: false
 
 ### 2023
 
+> At the table where it is decided on the defense of the Republic of Poland, we have permanently added a chair for the national armaments industry. Polish state-owned and private companies are beginning to participate in the modernization of the Armed Forces. There is no step back in industry, and the President's plan is foreign armaments expansion. - Jacek Siewiera (Secretary of State, Head of National Security Bureau)
+
+<img src="./img/march/wojna2.jpeg"><br><br>
+
+<img src="./img/march/wojna3.jpeg"><br><br>
+
+---
+
 <img src="./img/march/ecb_inflation.jpeg"><br><br>
 
 ---
