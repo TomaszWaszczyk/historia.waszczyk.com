@@ -3,11 +3,17 @@ layout: post
 title: 9 marca
 image: img/march/veto.jpg
 author: Tomasz Waszczyk
-date: 2021-03-09T10:00:00.000Z
+date: 2022-03-09T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+Prezes NBP Adam Glapiński: na koniec roku będzie inflacja jednocyfrowa
+
+> Mam dobre wiadomości. Na koniec roku inflacja będzie jednocyfrowa – zapowiedział na czwartkowej konferencji prezes NBP Adam Glapiński. Jak stwierdził, wraz z hamowaniem inflacji, hamować będzie gospodarka, ale czeka nas tzw. miękkie lądowanie.
 
 ### 2022
 
@@ -15,7 +21,7 @@ Ukraine has "biological research facilities," says Undersecretary of State Victo
 
 ---
 
->  Will Inflation Stay High for Decades? One Influential Economist Says Yes
+> Will Inflation Stay High for Decades? One Influential Economist Says Yes
 > Charles Goodhart sees an era of inexpensive labor giving way to years of worker shortages—and higher prices. Central bankers around the world are listening. 
 
 ---
@@ -44,6 +50,16 @@ Widzisz, że pakuje ze sobą twoje rzeczy: smart watch, laptop i krossowki  Air 
 ### 1995
 
 https://en.wikipedia.org/wiki/Edward_Bernays
+
+### 1968
+
+Marzec '68: Na Politechnice Warszawskiej odbył się wiec, wyrażający poparcie dla studentów UW i potępiający brutalne działania milicji.
+
+<img src="./img/march/studenci.jpeg"><br><br>
+
+W odpowiedzi na kłamliwe informacje prasy dotyczące studenckich protestów, palono gazety i wznoszono okrzyki „Prasa kłamie!”.
+
+<img src="./img/march/prawda.jpeg"><br><br>
 
 ### 1953
 

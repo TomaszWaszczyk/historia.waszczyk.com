@@ -3880,6 +3880,8 @@ Jak płoną lasy to nie czas na ratowanie róż.
 
 Warunkiem koniecznym do komunikacji jest brak ścisłości.
 
+Gdy dwa słonie walczą, trawa będzie podeptana.
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

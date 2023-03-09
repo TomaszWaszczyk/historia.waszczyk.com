@@ -8,6 +8,13 @@ tags:
   - Hyperinflation
 ---
 
+### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/june/putin.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2020
 
 <img src="./img/june/hanke-hyperinflation.png"><br><br>

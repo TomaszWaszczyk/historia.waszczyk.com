@@ -3,7 +3,7 @@ layout: post
 title: 8 marca
 image: img/march/wydarzenia_marcowe.jpg
 author: Tomasz Waszczyk
-date: 2021-03-08T10:00:00.000Z
+date: 2022-03-08T10:00:00.000Z
 tags:
   - Polska
 draft: false

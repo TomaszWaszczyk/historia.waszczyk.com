@@ -15,6 +15,12 @@ Południową informacją dnia są doniesienia z Banku Anglii, który ogłosił, 
 
 <img src="./img/september/yk10yields.png"><br><br>
 
+---
+
+<img src="./img/september/thankyou_usa.jpeg"><br><br>
+
+---
+
 ### 2021
 
 TVN:
