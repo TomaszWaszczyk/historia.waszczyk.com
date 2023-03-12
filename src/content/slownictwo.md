@@ -1607,6 +1607,14 @@ pivotal moment
 
 de-bullshit
 
+działanie kreacyjne
+
+umiejętność rozszerzonej argumentacji
+
+stary stetryżały
+
+punkowo - hipisowsko
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
