@@ -52,6 +52,10 @@ Oprocentowanie rachunków bankowych w bankach na poziomie 0,05%, przy inflacji p
 
 <img src="./img/june/oszczednosci.jpg"><br><br>
 
+### 2018
+
+<img src="./img/june/greta.png"><br><br>
+
 ### ~1990
 
 Żarnowiec, widok z dźwigu na bardzo zaawansowaną budowę pierwszej polskiej elektrowni jądrowej. Na transport czekają już zakupione od ZSRR cztery reaktory, uniemożliwiają to jednak przykuci do torów anarchiści z ruchu Wolność i Pokój. Świeżo powołany rząd Tadeusza Mazowieckiego nie potrafi zdecydować o użyciu milicji przeciwko protestującym – uchwała w sprawie budowy elektrowni została podjęta na początku stanu wojennego, Polacy wciąż doskonale pamiętają katastrofę w Czarnobylu i sceptycznie odnoszą się do energii jądrowej. Rząd najpierw zawiesza budowę na rok, a potem decyduje o jej likwidacji. Niezabezpieczona inwestycja zostanie sukcesywnie zdemolowana i rozkradziona (tymczasem Słowacy ukończą po latach przerwaną w tym samym czasie budowę elektrowni Mochovce - zaspokoi ona 20% krajowego zapotrzebowania na energię elektryczną). Gdy ćwierć wieku później rząd Donalda Tuska wróci do planów budowy elektrowni jądrowej, eksperci wytypują ponownie Żarnowiec jako jedną z najlepszych lokalizacji.

@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2023
+
+<img src="./img/march/svb.jpeg"><br><br>
+
+> The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.
+
+More than 85% of Silicon Valley's Bank's Deposits Were Not Insured.
+Silicon Valley Bank held the funds of hundreds of #us #tech companies and was a crucial player in the valley’s economy. But on Friday, it became the second largest bank failure in U.S. history after a rapid run on its deposits. Some $175 billion in customer accounts were taken over by the Federal Deposit Insurance Corporation (FDIC), which is now tasked with returning money to the bank’s customers.
+But more than 85% of the bank’s deposits were uninsured, according to estimates in a recent regulatory filing. That’s because FDIC deposit insurance is meant for everyday bank customers and maxes out at $250,000. Many Silicon Valley #startups had millions, or even hundreds of millions of dollars deposited at the bank—money they used to run their companies and pay employees. Right now, nobody’s sure how much of that cash is left.
+
+<img src="./img/march/svb2.jpeg"><br><br>
+
+---
+
+<img src="./img/march/piatadawka.jpg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/march/mica.jpeg"><br><br>
