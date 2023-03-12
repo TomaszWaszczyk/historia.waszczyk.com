@@ -72,6 +72,10 @@ Jesteśmy na początku drogi do budowy metawersum, to jest projekt na 5-15 lat; 
 
 ### 2020
 
+<img src="./img/october/cmentarz.jpeg"><br><br>
+
+---
+
 Kryzys to transfer z tych którzy żyją na kredyt na tych którzy mają kapitał.
 
 <img src="./img/october/pkobp2020.jpg"><br><br>

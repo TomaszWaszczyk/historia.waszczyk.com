@@ -3,7 +3,7 @@ layout: post
 title: 12 marca
 image: img/march/pokoj.jpg
 author: Tomasz Waszczyk
-date: 2021-03-12T10:00:00.000Z
+date: 2022-03-12T10:00:00.000Z
 tags:
   - ZSRR
 draft: false

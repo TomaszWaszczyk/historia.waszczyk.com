@@ -34,6 +34,8 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 ---
 
+<img src="./img/art/mind.jpeg"><br><br>
+
 ### 2020
 
 <img src="./img/art/loading.png"><br><br>

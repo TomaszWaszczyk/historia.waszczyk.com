@@ -3,10 +3,16 @@ layout: post
 title: 10 marca
 image: img/march/lech.jpg
 author: Tomasz Waszczyk
-date: 2021-03-10T10:00:00.000Z
+date: 2022-03-10T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+Ustalony na koniec marca termin przekazania wytwórczych aktywów węglowych do Narodowej Agencji Bezpieczeństwa Energetycznego (NABE) nie jest zagrożony – ocenił w czwartek prezes PGE Polskiej Grupy Energetycznej Wojciech Dąbrowski.
+
 ---
 
 ### 2022

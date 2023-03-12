@@ -14,10 +14,18 @@ draft: false
 Prezes NBP Adam Glapiński: na koniec roku będzie inflacja jednocyfrowa
 
 > Mam dobre wiadomości. Na koniec roku inflacja będzie jednocyfrowa – zapowiedział na czwartkowej konferencji prezes NBP Adam Glapiński. Jak stwierdził, wraz z hamowaniem inflacji, hamować będzie gospodarka, ale czeka nas tzw. miękkie lądowanie.
+> ...wojna nie może się powtórzyć...
 
 ### 2022
 
 Ukraine has "biological research facilities," says Undersecretary of State Victoria Nuland, when asked by Sen Rubio if Ukraine has biological or chemical weapons, and says she's worried Russia may get them. But she says she's 100% sure if there's a biological attack, it's Russia.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/O_wladzy_w_Kosciele_abpGrzegorzRys.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -60,6 +68,26 @@ Marzec '68: Na Politechnice Warszawskiej odbył się wiec, wyrażający poparcie
 W odpowiedzi na kłamliwe informacje prasy dotyczące studenckich protestów, palono gazety i wznoszono okrzyki „Prasa kłamie!”.
 
 <img src="./img/march/prawda.jpeg"><br><br>
+
+---
+
+Lata 60, Bronisław Geremek w TVP prowadzi cykl programów historycznych, potępiających Armię Krajową i ruchy niepodległościowe.
+
+<img src="./img/march/geremek.jpeg"><br><br>
+
+<img src="./img/march/geremek1.jpeg"><br><br>
+
+<img src="./img/march/geremek2.jpeg"><br><br>
+
+<img src="./img/march/geremek3.jpeg"><br><br>
+
+<img src="./img/march/geremek4.jpeg"><br><br>
+
+<img src="./img/march/geremek5.jpeg"><br><br>
+
+> "Są ludzie niezastąpieni, straciliśmy takiego człowieka" - mówił z kolei Aleksander Kwaśniewski. "Wierzę, że w tej sali, (...) pod patronatem profesora, będą wykuwały się idee i wartości - oby mu najbliższe - będziemy potrafili pokazać, że jesteśmy godni spuścizny Bronisława Geremka" - mówił były prezydent po śmierci Geremka.
+
+---
 
 ### 1953
 
