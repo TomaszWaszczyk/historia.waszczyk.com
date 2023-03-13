@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+<img src="./img/march/szczepienia.jpg"><br><br>
+
 ### 2022
 
 > Premier Ukrainy: Konsekwencją wojny może być głód.
