@@ -20,6 +20,13 @@ FED uruchomi nowy program BTFP (Bank Term Funding Program), w ramach którego za
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/march/svb.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 Były szef NATO nie ma złudzeń: Putin nie zatrzyma się na Ukrainie
@@ -64,6 +71,7 @@ The Federal Reserve sees inflation moving up towards its 2% annual target but do
 The consumer price index rose 0.6% in March, the largest month-on-month gain since 2012. The 12-month rate rose to 2.6%. 
 
 ---
+
 ### 2020
 
 Corona wirus
@@ -120,6 +128,16 @@ Polskiego.
 Ostatni numer "Bellony" ukazał się w 1939 roku.
 
 <img src="./img/march/bellona.jpg"/><br><br>
+
+### 1881
+
+W wyniku zamachu bombowego zginął car Aleksander II Romanow.
+
+Głównym wykonawcą zamachu był Polak Ignacy Hryniewiecki ps. "Kotek", członek rosyjskiej organizacji spiskowej Narodna Wola, śmiertelnie ranny podczas eksplozji.
+
+<img src="./img/march/romanow.jpeg"><br><br>
+
+Gdybanie, ale może gdyby Aleksander II wprowadził swoje reformy, to by nie doszło do rewolucji bolszewickiej?
 
 ### 1567
 
