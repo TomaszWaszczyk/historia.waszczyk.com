@@ -14,6 +14,10 @@ draft: false
 Ludowy Bank Chin poinformował na swojej stronie internetowej, że przeprowadził siedmiodniowe transakcje reverse repo o wartości 15 mld juanów (około 2,15 mld dol.) przy stopie procentowej 2%
 Według banku centralnego, ruch ten ma na celu utrzymanie płynności w systemie bankowym.
 
+<img src="./img/march/repo_cn.jpg"><br><br>
+
+<img src="./img/march/repo_en.jpg"><br><br>
+
 ---
 
 <img src="./img/march/svb.jpeg"><br><br>
