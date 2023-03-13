@@ -12,6 +12,14 @@ tags:
 
 <img src="./img/march/china-foreign-reserves.jpg"><br><br>
 
+---
+
+FED uruchomi nowy program BTFP (Bank Term Funding Program), w ramach którego zagrożone banki będą mogły uzyskać dodatkową płynność. Dodatkowo pokryje wszystkie (nawet te powyżej limitu ubezpieczenia 250 tys. USD) depozyty klientów upadłego w piątek Silicon Valley Bank, więc rynek odetchnął z ulgą i wykasował scenariusz domina oraz krachu.
+
+<img src="./img/march/btfp.jpeg"><br><br>
+
+---
+
 ### 2022
 
 Były szef NATO nie ma złudzeń: Putin nie zatrzyma się na Ukrainie
@@ -31,6 +39,11 @@ Możliwa jest nawet recesja. Uważam, że RPP nie powinna przesadzać – powinn
 > Charles Goodhart sees an era of inexpensive labor giving way to years of worker shortages—and higher prices. Central bankers around the world are listening. 
 
 ### 2021
+
+<img src="./img/march/nordstream.jpeg"><br><br>
+
+<!-- data niepoprawna -->
+---
 
 Gates krytykuje bitcoina. Ma fatalny wpływ na środowisko
 

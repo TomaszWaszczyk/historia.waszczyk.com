@@ -54,6 +54,15 @@ W tym samym czasie odbyła się też narada kierowników działów młodzieżowy
 
 <img src="./img/march/niemcyjedz.jpg"/><br><br>
 
+---
+
+14-letnia niewinna dziewczynka zabita tylko dlatego, że była Polką🇵🇱
+Tego dnia, 12 marca 1943 r. Czesia Kwoka została zamordowana zastrzykiem fenolu w niemieckim obozie zagłady KL Auschwitz.
+
+<img src="./img/march/kwoka.jpeg"><br><br>
+
+---
+
 ### 1940
 
 W Moskwie podpisano traktat pokojowy kończący wojnę zimową pomiędzy ZSRR a Finlandią.

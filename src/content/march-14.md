@@ -3,7 +3,7 @@ layout: post
 title: 14 marca
 image: img/march/trump.jpeg
 author: Tomasz Waszczyk
-date: 2021-03-14T10:00:00.000Z
+date: 2022-03-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
