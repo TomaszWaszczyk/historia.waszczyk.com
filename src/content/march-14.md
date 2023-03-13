@@ -11,6 +11,11 @@ draft: false
 
 ### 2023
 
+Ludowy Bank Chin poinformował na swojej stronie internetowej, że przeprowadził siedmiodniowe transakcje reverse repo o wartości 15 mld juanów (około 2,15 mld dol.) przy stopie procentowej 2%
+Według banku centralnego, ruch ten ma na celu utrzymanie płynności w systemie bankowym.
+
+---
+
 <img src="./img/march/svb.jpeg"><br><br>
 
 > The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.

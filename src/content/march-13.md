@@ -68,7 +68,7 @@ The Federal Reserve sees inflation moving up towards its 2% annual target but do
 
 “We have time to move because we’re not seeing inflation running out of control. If it does, we’ll act accordingly,” he said.
 
-The consumer price index rose 0.6% in March, the largest month-on-month gain since 2012. The 12-month rate rose to 2.6%. 
+The consumer price index rose 0.6% in March, the largest month-on-month gain since 2012. The 12-month rate rose to 2.6%.
 
 ---
 
@@ -90,6 +90,12 @@ Zniszczenie kościoła
 ### 1962
 
 https://en.wikipedia.org/wiki/Operation_Northwoods
+
+### 1961
+
+79-letni Pablo Picasso poślubił 37-letnią modelkę Jacqueline Rock.
+
+<img src="./img/march/picasso.jpeg"><br><br>
 
 ### 1943
 
