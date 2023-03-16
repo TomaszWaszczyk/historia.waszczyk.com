@@ -40,6 +40,10 @@ Your browser does not support the video tag.
 
 ---
 
+<img src="./img/march/forbes.jpeg"><br><br>
+
+---
+
 ### 2022
 
 Były szef NATO nie ma złudzeń: Putin nie zatrzyma się na Ukrainie

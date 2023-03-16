@@ -3882,6 +3882,8 @@ Warunkiem koniecznym do komunikacji jest brak ścisłości.
 
 Gdy dwa słonie walczą, trawa będzie podeptana.
 
+> Niejedną jeszcze paranoję Przetrzymać przyjdzie- robiąc swoje! Kochani, Róbmy swoje! Róbmy swoje! Żeby było na co wyjść!!!
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.

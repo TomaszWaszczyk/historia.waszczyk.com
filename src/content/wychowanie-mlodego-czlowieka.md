@@ -306,6 +306,8 @@ https://pl.wikipedia.org/wiki/Sara_Szenirer - szkoła https://pl.wikipedia.org/w
 
 <img src="./img/wychowanie-mlodego-czlowieka/klasa-spoleczna-a-wychowanie.jpg"/><br>
 
+<img src="./img/wychowanie-mlodego-czlowieka/ksiazki-ekonomiczne.jpg"><br><br>
+
 <video width="640" height="50" controls>
   <source src="./img/wychowanie-mlodego-czlowieka/Jak-klasa-społeczna-wpływa-na-styl-wychowawczy.mp3" type="video/mp4">
 Your browser does not support the video tag.

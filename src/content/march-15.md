@@ -3,11 +3,15 @@ layout: post
 title: 15 marca
 image: img/march/parkiet.jpg
 author: Tomasz Waszczyk
-date: 2021-03-15T10:00:00.000Z
+date: 2022-03-15T10:00:00.000Z
 tags:
   - Blockchain
 draft: false
 ---
+
+### 2023
+
+<img src="./img/march/banks_eu.jpg"><br><br>
 
 ### 2022
 
@@ -48,6 +52,10 @@ Wojna zakryła z dnia na dzień:
 - setki afer ostatnich 6 lat
 - gnicie państwa,
 - zapaść demograficzną
+
+---
+
+<img src="./img/march/gry.jpg"><br><br>
 
 ---
 

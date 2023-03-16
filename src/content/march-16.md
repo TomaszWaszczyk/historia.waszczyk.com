@@ -9,6 +9,22 @@ tags:
 draft: false
 ---
 
+### 2023
+
+> Speculators build $16 billion bearish bet on Europe's banks
+> LONDON, March 15 (Reuters) - Short sellers had amassed bearish positions worth more than $15.7 billion against European banks by Tuesday, after the collapse of Silicon Valley Bank sparked contagion fears and sent shares plunging, according to S&P Global Market Intelligence.
+> Big hedge funds including Marshall Wace and Odey Asset Management added to short positions against Europe's banks, regulatory filings seen by Reuters and data from Breakout Point showed.
+
+Traders with short positions on Credit Suisse could, according to market prices, potentially have made month-to-date profits of up to $238.6 million and year-to-date profits of up to $192.4 million, research from S3 Partners showed.
+
+BNP Paribas shares fell by as much as 12% on Wednesday before recovering to show a loss of 9%, while Deutsche Bank shares fell almost 9%.
+
+In the week to Wednesday, some 120 billion euros ($126 billion) had been wiped off the value of European bank shares.
+
+"It's a panic selloff with little thinking about the fundamentals," said Jerome Legras, head of research at Axiom Alternative Investments, when asked if there was any correlation between the banks being shorted.
+
+The rout began after Silicon Valley Bank was forced to sell a portfolio of bonds at a loss to meet the demands of its customers who wished to withdraw funds, prompting fears of a liquidity crunch at other financial institutions.
+
 ### 2022
 
 > Fauci w rozmowie z szefem FB Zuckerbergiem przyznaje, że 'to nie byłby pierwszy raz gdyby okazało się, że szczepionka, która wydawała się być bezpieczna w początkowych badaniach faktycznie pogarszałaby stan osób, które ją przyjęły.

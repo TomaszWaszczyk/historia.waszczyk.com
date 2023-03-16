@@ -116,10 +116,15 @@ Ostatecznie jednak, chcąc uniknąć całkowitej kompromitacji władza zdecydowa
 Wspomina Józef Żarski:
 "Miałem niespełna pięć lat, gdy banderowcy w nocy z 14 na 15 marca 1944 roku podpalili nasz dom. Uciekaliśmy przez pola w kierunku rzeki. Do dziś słyszę świst kul nad naszymi głowami. Rano wróciliśmy do domu. Zastaliśmy pogorzelisko. Wszystko było spalone: zwierzęta, zboże, cały dorobek materialny moich rodziców. Pozostały tylko resztki zboża w nadpalonych workach. Ale żyliśmy. Wiele polskich rodzin doznało wtedy krzywdy ze strony Ukraińców."
 
+### 1941
+
+Adam Heydel (ur. 6 grudnia 1893 , zm. 14 marca 1941) był przedstawicielem szkoły krakowskiej w ekonomii, opowiadał się za liberalizmem (w klasycznym rozumieniu-moje) gospodarczym. Krytykował etatyzm i interwencjonizm gospodarczy Polski międzywojennej. Zajmował się badaniami naukowymi nad teorią ekonomii i zagadnieniami dochodu narodowego
+
+<img src="./img/march/heydel.jpeg"><br><br>
+
 ### 1937
 
 Died Lars Edvard Phragmén
-
 
 ### 1918
 
