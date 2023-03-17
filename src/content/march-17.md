@@ -20,6 +20,17 @@ Parlament zatwierdził decyzję Plenum Komitetu Centralnego partii, że w od tej
 
 ---
 
+Prezydent RP Andrzej Duda zapowiada:
+
+> Milion karabinów dla polskiej armii.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/duda.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 Nowy dowódca Bundeswehry. Poprzedni wątpił w siły Ukrainy
 
 Generał dywizji Carsten Breuer został nowym dowódcą niemieckich sił zbrojnych. Jego poprzednik był krytykowany za błędną ocenę rosyjskich i ukraińskich zdolności wojskowych.
