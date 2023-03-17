@@ -3,10 +3,40 @@ layout: post
 title: 7 marca
 image: img/march/anna.jpg
 author: Tomasz Waszczyk
-date: 2021-03-17T10:00:00.000Z
+date: 2022-03-17T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+Fragmenty artykułów załączonych poniżej:
+Jeden nazwał Xi Jinpinga klaunem, drugi wziął udział w kampanii na rzecz praw człowieka, inny zaś zawinił tym, że jest zbyt bogaty. W ostatnim czasie coraz częściej dochodzi w Pekinie do tajemniczych zniknięć chińskich biznesmenów. Zdaniem obserwatorów to wyraźny znak, że prezydent zaostrza kurs wewnętrzny i zmierza do objęcia większej kontroli nad chińską gospodarką.
+Zniknięcie Bao Fana, biznesmena z branży technologicznej, po raz kolejny zwróciło uwagę na obserwowane ostatnio w Chinach zjawisko przepadania bez śladu wśród miliarderów. Założyciel China Renaissance Holdings — firmy, której lista klientów obejmuje takich gigantów, jak chociażby Tencent, Alibaba i Baidu — jest uważany za tytana chińskiego sektora technologicznego.
+
+Xi Jinping zwiększa rolę partii. Parlament zatwierdził decyzję
+Parlament zatwierdził decyzję Plenum Komitetu Centralnego partii, że w od tej chwili to organizacje partyjne urzędów centralnych będą nadzorowały i kontrolowały te urzędy i ministerstwa. Będą raportowały do KC. Jest to nie tylko zwiększenie roli partii, ale także odejście od reform, które wprowadził Deng Xiaoping polegających na rozdziale struktur partyjnych od struktur rządowych. Teraz jest powrót i struktury partyjne będą wymieszane ze strukturami rządowymi – stwierdził Zawadzki-Liang (redaktor Andrzej Zawadzki-Liang Radia Wnet).
+
+---
+
+Nowy dowódca Bundeswehry. Poprzedni wątpił w siły Ukrainy
+
+Generał dywizji Carsten Breuer został nowym dowódcą niemieckich sił zbrojnych. Jego poprzednik był krytykowany za błędną ocenę rosyjskich i ukraińskich zdolności wojskowych.
+
+59-letni Breuer zastąpi 63-letniego generała Eberharda Zorna, który już wcześniej znalazł się pod ostrzałem opinii publicznej. Był on m.in. krytykowany po udzieleniu wywiadu we wrześniu ub.r. tygodnikowi „Focus”. Zasugerował w nim, że Ukraina nie będzie w stanie odeprzeć ataków sił rosyjskich.
+
+Mówił, że Ukraina przygotowuje „kontrofensywę, dzięki której będzie mogła odzyskać niektóre okupowane tereny, ale nie zdoła zepchnąć Rosji z powrotem na szeroki front".
+Generał przecenił możliwości Rosji
+
+Wypowiedź Zorna ostro skrytykował gen. Ben Hodges, były dowódca wojsk amerykańskich w Europie. Słowa niemieckiego generała określił jako „zdumiewająco słabą analizę rosyjskich zdolności" po tym, jak ten wyraził obawy, że Rosja może otworzyć dalsze fronty, prawdopodobnie atakując „Kaliningrad, Morze Bałtyckie, granicę fińską, Gruzję i Mołdawię".
+
+Wymiana w najwyższym dowództwie Bundeswehry nastąpiła zaledwie kilka miesięcy po tym, jak była minister obrony Christine Lambrecht została zmuszona do rezygnacji ze stanowiska. W styczniu na tym stanowisku zastąpił ją Boris Pistorius.
+
+Gen. Breuer stał się rozpoznawalny jako szef niemieckiego zespołu reagowania kryzysowego w związku z pandemią koronawirusa w okresie od listopada 2021 do listopada 2022 roku. Nowy dowódca wojsk niemieckich ma także pełnić rolę doradcy kanclerza Olafa Scholza.
+
+Niemiecki rząd planuje zainwestować w wojsko 100 miliardów euro, po pełnoskalowej inwazji Rosji na Ukrainę.
+
 ---
 
 ### 2022

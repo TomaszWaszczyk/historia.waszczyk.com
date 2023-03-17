@@ -3,7 +3,7 @@ layout: post
 title: 16 marca
 image: img/march/bierut.jpg
 author: Tomasz Waszczyk
-date: 2021-03-16T10:00:00.000Z
+date: 2022-03-16T10:00:00.000Z
 tags:
   - Polska
 draft: false
