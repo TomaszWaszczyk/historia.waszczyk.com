@@ -31,6 +31,15 @@ Your browser does not support the video tag.
 
 ---
 
+Putin wzywa rosyjskich miliarderów do inwestowania w obliczu "wojny sankcyjnej".
+
+<video width="640" height="480" controls>
+<source src="./movies/march/wojna_sankcyjna.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 Nowy dowódca Bundeswehry. Poprzedni wątpił w siły Ukrainy
 
 Generał dywizji Carsten Breuer został nowym dowódcą niemieckich sił zbrojnych. Jego poprzednik był krytykowany za błędną ocenę rosyjskich i ukraińskich zdolności wojskowych.
