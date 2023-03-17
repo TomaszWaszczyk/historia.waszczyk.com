@@ -12,6 +12,7 @@ draft: false
 ### 2023
 
 Fragmenty artykułów załączonych poniżej:
+
 Jeden nazwał Xi Jinpinga klaunem, drugi wziął udział w kampanii na rzecz praw człowieka, inny zaś zawinił tym, że jest zbyt bogaty. W ostatnim czasie coraz częściej dochodzi w Pekinie do tajemniczych zniknięć chińskich biznesmenów. Zdaniem obserwatorów to wyraźny znak, że prezydent zaostrza kurs wewnętrzny i zmierza do objęcia większej kontroli nad chińską gospodarką.
 Zniknięcie Bao Fana, biznesmena z branży technologicznej, po raz kolejny zwróciło uwagę na obserwowane ostatnio w Chinach zjawisko przepadania bez śladu wśród miliarderów. Założyciel China Renaissance Holdings — firmy, której lista klientów obejmuje takich gigantów, jak chociażby Tencent, Alibaba i Baidu — jest uważany za tytana chińskiego sektora technologicznego.
 
