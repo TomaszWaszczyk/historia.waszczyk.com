@@ -12,6 +12,28 @@ tags:
 
 <img src="./img/march/credit_cds.jpeg"><br><br>
 
+The "credit-event" within the US banking system explained, in 4 short steps (Europe is even worse)
+
+1. - US Banks have $ 17.6 Trillion in deposits (customer money)
+
+2. - ~$3.1 Trillion is only backed by (digital) cash
+
+3. - ~$100 billion (0.1 Trillion) is only backed by real physical cash
+
+4. - The assets "backing" the rest are mostly sitting on a loss now
+
+So, NO. They don't have your money.
+
+So, what exactly do they do with YOUR money that's not in cash waiting for you to pick it up??
+
+Well, that's all "invested" in other "assets" like, for example, outstanding loans or US treasuries (government bonds).
+
+The reason why banks go under so fast is because when people learn that their money is actually not there, they are coming for it. And, when they do, the bank has to SELL all these "assets" to come up with the (real) money.
+
+Except for, these assets are currently sitting on a LOSS (worth less now than when they bought them) and so banks make major losses during "bank runs" and run straight towards insolvency's and/or bankruptcies. Poof, gone..
+
+<img src="./img/march/amounts.jpeg"><br><br>
+
 ---
 
 Chiny nie interesują szczególnie wielu. Generalnie świat nie interesuje w Polsce wielu. Nasza chata z kraja, mamy mnóstwo swoich spraw. W zasadzie codziennie zajmujemy się czymś innym, czymś co nam podrzucają uczynne media. Tymczasem:
