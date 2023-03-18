@@ -14,17 +14,17 @@ tags:
 
 The "credit-event" within the US banking system explained, in 4 short steps (Europe is even worse)
 
-1. - US Banks have $ 17.6 Trillion in deposits (customer money)
+1. US Banks have $ 17.6 Trillion in deposits (customer money)
 
-2. - ~$3.1 Trillion is only backed by (digital) cash
+2. ~$3.1 Trillion is only backed by (digital) cash
 
-3. - ~$100 billion (0.1 Trillion) is only backed by real physical cash
+3. ~$100 billion (0.1 Trillion) is only backed by real physical cash
 
-4. - The assets "backing" the rest are mostly sitting on a loss now
+4. The assets "backing" the rest are mostly sitting on a loss now
 
 So, NO. They don't have your money.
 
-So, what exactly do they do with YOUR money that's not in cash waiting for you to pick it up??
+So, what exactly do they do with clients money that's not in cash waiting for you to pick it up??
 
 Well, that's all "invested" in other "assets" like, for example, outstanding loans or US treasuries (government bonds).
 
