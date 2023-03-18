@@ -34,6 +34,11 @@ Except for, these assets are currently sitting on a LOSS (worth less now than wh
 
 <img src="./img/march/amounts.jpeg"><br><br>
 
+Tomek's additional comment:
+
+> Banks were never meant to be a place you put your wealth into. The first banks were created by Templars and what they offered was the convenience of putting your gold into one in Paris and taking it out in Jerusalem without the inconvenience of putting it on a ship and dragging it around.
+Similar to how it's now more convenient to pay with a credit card than to have cash on hand when you really crave that coup of coffee.
+
 ---
 
 Chiny nie interesują szczególnie wielu. Generalnie świat nie interesuje w Polsce wielu. Nasza chata z kraja, mamy mnóstwo swoich spraw. W zasadzie codziennie zajmujemy się czymś innym, czymś co nam podrzucają uczynne media. Tymczasem:
