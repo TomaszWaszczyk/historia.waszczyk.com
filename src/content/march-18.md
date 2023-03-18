@@ -38,7 +38,17 @@ Nadchodzą kłopoty. Prezesi banków ostrzegają: to będzie hekatomba
 
 Nad polskim sektorem bankowym zbierają się czarne chmury - przestrzegają bankowcy. Oprócz spowalniającego PKB Polski, obciążeń regulacjami i ustawami takimi jak wakacje kredytowe oraz opinii rzecznika TSUE ws. kredytów frankowych, dochodzi zupełnie nowe zagrożenie. Może ono z niespotykaną dotąd siłą uderzyć w branżę finansową i całą polską gospodarkę, przez co dotknie każdego z nas. Chodzi o dopiero kiełkujące kłopoty z podważaniem kredytów złotowych opartych o WIBOR.
 
-Coraz więcej kancelarii prawnych zachęca Polaków do składania pozwów przeciwko bankom w tej sprawie. Czym to się może zakończyć i dlaczego jest tak groźne?
+Coraz więcej kancelarii prawnych zachęca Polaków do składania pozwów przeciwko bankom w tej sprawie.
+
+---
+
+> Już nie tylko Polska. Kolejny europejski kraj się zbroi
+
+Brytyjskie ministerstwo obrony otrzyma w ciągu najbliższych dwóch lat dodatkowe 5 mld funtów, a celem w dłuższym okresie jest zwiększenie wydatków na obronność do 2,5 proc. PKB - ogłosił brytyjski rząd.
+
+<img src="./img/march/sunak.webp"><br><br>
+
+Inwestując w nasze siły zbrojne w perspektywie długoterminowej, będziemy gotowi na wyzwania dnia dzisiejszego i przyszłości. W ubiegłym roku zbyt wyraźnie widzieliśmy, jak globalne kryzysy wpływają na nas w kraju, z przerażającą inwazją Rosji na Ukrainę, która spowodowała wzrost cen energii i żywności -   oświadczył w wydanym komunikacie premier Rishi Sunak.
 
 ---
 
