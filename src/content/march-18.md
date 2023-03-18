@@ -16,11 +16,17 @@ tags:
 
 Chiny nie interesują szczególnie wielu. Generalnie świat nie interesuje w Polsce wielu. Nasza chata z kraja, mamy mnóstwo swoich spraw. W zasadzie codziennie zajmujemy się czymś innym, czymś co nam podrzucają uczynne media. Tymczasem:
 👉 Przez pięć ostatnich miesięcy roku 2022 Chiny wyprzedawały obligacje skarbowe rządu Stanów Zjednoczonych.
-👉 W sumie sprzedano papiery o wartości 173,2 mld USD (ok. 769,16 mld PLN). W grudniu 2022 roku Chiny wyzbyły się kolejnego pakietu, co sprawiło, że z końcem minionego roku Chiny były w posiadaniu obligacji USA o wartości 867,1 mld USD (ok. 3,85 bln PLN).
+
+👉 **W sumie sprzedano papiery o wartości 173,2 mld USD (ok. 769,16 mld PLN). W grudniu 2022 roku Chiny wyzbyły się kolejnego pakietu, co sprawiło, że z końcem minionego roku Chiny były w posiadaniu obligacji USA o wartości 867,1 mld USD (ok. 3,85 bln PLN).**
+
 👉 To najniższa wartość długu amerykańskiego w Chinach od 12 lat.
+
 👉 Mimo wyprzedaży obligacji Chiny nadal są drugim największym po Japonii zagranicznym wierzycielem Stanów Zjednoczonych.
+
 👉 Jak pokazują dane z ostatnich kilkunastu miesięcy, Chiny mają coraz mniejszą ochotę na finansowanie zadłużenia budżetu amerykańskiego rządu. Redukują też sukcesywnie wielkość rezerw walutowych w dolarach amerykańskich.
+
 👉 Te dwa trendy, czyli spadek zainteresowania amerykańskimi obligacjami oraz amerykańską walutą jako rezerwą obserwuje (i potwierdza) Międzynarodowy Fundusz Walutowy.
+
 👉 Zjawisko występujące od 20 lat szybko się pogłębia. Państwa Globalnego Południa sięgają po alternatywne rozwiązania pozwalające unikać korzystania z dolara w rozliczeniach, inne waluty dla budowania rezerw.
 
 ---
