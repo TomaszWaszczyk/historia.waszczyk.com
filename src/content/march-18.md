@@ -3,12 +3,16 @@ layout: post
 title: 18 marca
 image: img/march/nbp.jpg
 author: Tomasz Waszczyk
-date: 2021-03-18T10:00:00.000Z
+date: 2022-03-18T10:00:00.000Z
 tags:
   - Polska
 ---
 
 ### 2023
+
+<img src="./img/march/credit_cds.jpeg"><br><br>
+
+---
 
 Chiny nie interesują szczególnie wielu. Generalnie świat nie interesuje w Polsce wielu. Nasza chata z kraja, mamy mnóstwo swoich spraw. W zasadzie codziennie zajmujemy się czymś innym, czymś co nam podrzucają uczynne media. Tymczasem:
 👉 Przez pięć ostatnich miesięcy roku 2022 Chiny wyprzedawały obligacje skarbowe rządu Stanów Zjednoczonych.
@@ -18,6 +22,25 @@ Chiny nie interesują szczególnie wielu. Generalnie świat nie interesuje w Pol
 👉 Jak pokazują dane z ostatnich kilkunastu miesięcy, Chiny mają coraz mniejszą ochotę na finansowanie zadłużenia budżetu amerykańskiego rządu. Redukują też sukcesywnie wielkość rezerw walutowych w dolarach amerykańskich.
 👉 Te dwa trendy, czyli spadek zainteresowania amerykańskimi obligacjami oraz amerykańską walutą jako rezerwą obserwuje (i potwierdza) Międzynarodowy Fundusz Walutowy.
 👉 Zjawisko występujące od 20 lat szybko się pogłębia. Państwa Globalnego Południa sięgają po alternatywne rozwiązania pozwalające unikać korzystania z dolara w rozliczeniach, inne waluty dla budowania rezerw.
+
+---
+
+> Upadek amerykańskiego banku to ostrzeżenie także dla Polski. Prezes BNP Paribas wskazuje ryzyka [OPINIA]
+> Chociaż konsekwencje upadku Silicon Valley Bank nie będą tak dramatyczne, jak w przypadku Lehman Brothers — również dzięki szybkiej reakcji instytucji nadzorczych — mogą i powinny być dla nas lekcją. Polskie banki nie muszą obawiać się tych samych zagrożeń, które zatopiły instytucję z siedzibą w Santa Clara. Nie oznacza to wcale, że są w pełni odporne na inny miks negatywnych czynników – napisał w opinii dla Business Insider Polska Przemek Gdański, prezes BNP Paribas w Polsce.
+
+---
+
+Nadchodzą kłopoty. Prezesi banków ostrzegają: to będzie hekatomba
+
+> Jeśli państwo do tego dopuści, to polską gospodarkę czeka nie armagedon, a hekatomba - ostrzega w rozmowie z money.pl prezes mBanku Cezary Stypułkowski. Mowa o podważaniu kredytów złotowych opartych o WIBOR. Na alarm biją już najważniejsi urzędnicy naszego państwa.
+
+<img src="./img/march/stypulkowski.webp"><br><br>
+
+Nad polskim sektorem bankowym zbierają się czarne chmury - przestrzegają bankowcy. Oprócz spowalniającego PKB Polski, obciążeń regulacjami i ustawami takimi jak wakacje kredytowe oraz opinii rzecznika TSUE ws. kredytów frankowych, dochodzi zupełnie nowe zagrożenie. Może ono z niespotykaną dotąd siłą uderzyć w branżę finansową i całą polską gospodarkę, przez co dotknie każdego z nas. Chodzi o dopiero kiełkujące kłopoty z podważaniem kredytów złotowych opartych o WIBOR.
+
+Coraz więcej kancelarii prawnych zachęca Polaków do składania pozwów przeciwko bankom w tej sprawie. Czym to się może zakończyć i dlaczego jest tak groźne?
+
+---
 
 ### 2022
 
