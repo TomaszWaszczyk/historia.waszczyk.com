@@ -26,11 +26,11 @@ Your browser does not support the video tag.
 
 ---
 
-W Polsce panuje moda na bojkotowanie przez klientów detalicznych drobnych produktów wyprodukowanych w Rosji, a tutaj efekt sankcji Europy: 
+W Polsce panuje moda na bojkotowanie przez klientów detalicznych drobnych produktów wyprodukowanych w Rosji, a tutaj efekt sankcji Europy:
 
 <img src="./img/march/sankcjerosja.jpg"><br><br>
 
-W tym czasie miliony polaków spradzają czy serek pochodzi z Rosji czy nie.
+W tym czasie miliony polaków sprawdzają czy serek pochodzi z Rosji czy nie.
 
 ---
 
@@ -42,7 +42,7 @@ Dugin tells Aljazeera the war for Russia is a matter of "to be or not to be" and
 
 Żeby być skutecznym na polu walki musimy posiadać nowoczesną broń i wzmocnioną armię; albo za nasze bezpieczeństwo zapłacimy wyższymi wydatkami albo zapłacimy krwią naszych żołnierzy - mówił w sobotę premier Mateusz Morawiecki.
 
-Szef rządu złożył w sobotę wizytę w Centrum Rozwojowo–Wdrożeniowym Telesystem-Mesko. Podczas wystąpienia podkreślał, że bezpieczeństwo jest podstawą funkcjonowania każdego społeczeństwa. 
+Szef rządu złożył w sobotę wizytę w Centrum Rozwojowo–Wdrożeniowym Telesystem-Mesko. Podczas wystąpienia podkreślał, że bezpieczeństwo jest podstawą funkcjonowania każdego społeczeństwa.
 
 ---
 

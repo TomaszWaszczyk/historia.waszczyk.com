@@ -3888,7 +3888,7 @@ The price of freedom is eternal vigilance.
 
 w czasie wojny, prawda jest tak cenna, że musi jej towarzyszyć ochroniarz kłamstwa
 
-<img src="./img/others/powiedzenia/aynrand.jpeg"><br><br>
+<img src="./img/others/powiedzenia/ayn_rand.jpeg"><br><br>
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
