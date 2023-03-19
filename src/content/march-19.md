@@ -18,6 +18,12 @@ Your browser does not support the video tag.
 
 ---
 
+🇨🇭 UBS zgodził się na zakup Credit Suisse za równowartość 2mld dolarów. Dodatkowo, Szwajcarski Bank Centralny (SNB) obiecuje wsparcie płynnościowe dla UBS do wysokości 100mld dolarów.  
+
+Źródło: Bloomberg
+
+---
+
 <img src="./img/muzea/20230318_174421.jpg"><br><br>
 
 ### 2022

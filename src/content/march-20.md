@@ -3,11 +3,22 @@ layout: post
 title: 20 marca
 image: img/march/plebiscyt.jpg
 author: Tomasz Waszczyk
-date: 2021-03-20T10:00:00.000Z
+date: 2022-03-20T10:00:00.000Z
 tags:
   - Plebiscyt
 draft: false
 ---
+
+### 2023
+
+> "Si l'Ukraine ne parvient pas à défendre son indépendance, nous n'aurons pas le choix, nous serons obligés de rentrer dans le conflit", déclare Jan Emeryk Rościszewski, ambassadeur de Pologne en France
+
+<video width="640" height="480" controls>
+<source src="./movies/march/jan_emeryk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+> "Jeśli Ukraina nie obroni niepodległości, będziemy zmuszeni wejść w tren konflikt" - Jan Emeryk Rościszewski
 
 ### 2022
 

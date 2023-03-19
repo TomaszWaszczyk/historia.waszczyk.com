@@ -8,7 +8,7 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
-
+Rosja nigdy nie jest tak silna jak się sądzi, ani nigdy taka słaba jak sie wydaje.
 
 ---
 
