@@ -2,7 +2,7 @@
 layout: post
 title: "Powiedzenia"
 author: Tomasz Waszczyk
-tags: ["Powiedzenia", "Sentecje", "Cytaty"]
+tags: ["Powiedzenia", "Sentencje", "Cytaty"]
 image: img/demo4.jpg
 date: "2012-08-20T15:11:55.000Z"
 draft: false
@@ -10,7 +10,7 @@ draft: false
 
 ### Stalin
 
->Wolności osobiste nie istnieją, a prawa obywatelskie są zagwarantowane tylko dla tych którzy posiadają kapitał. Wszyscy inni są uznawani jedynie za surowy ludzki materiał. Wszystkie prawa są zarezerwowane dla wykorzystującej mniejszości a wykorzystywanej większości się ich odmawia. Sztandar burżuazyjnej demokratycznej wolności wylądował na śmietniku. To my prawdziwi przedstawiciele prawdziwie demokratycznych partii ludowych podnieśliśmy ten sztandar i poniesiemy go dalej. Jeśli chcemy aby większość ludzkości poszła z nami, musimy ten sztandar nieść wysoko. 
+>Wolności osobiste nie istnieją, a prawa obywatelskie są zagwarantowane tylko dla tych którzy posiadają kapitał. Wszyscy inni są uznawani jedynie za surowy ludzki materiał. Wszystkie prawa są zarezerwowane dla wykorzystującej mniejszości a wykorzystywanej większości się ich odmawia. Sztandar burżuazyjnej demokratycznej wolności wylądował na śmietniku. To my prawdziwi przedstawiciele prawdziwie demokratycznych partii ludowych podnieśliśmy ten sztandar i poniesiemy go dalej. Jeśli chcemy aby większość ludzkości poszła z nami, musimy ten sztandar nieść wysoko.
 
 ---
 

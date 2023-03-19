@@ -11,6 +11,13 @@ draft: false
 
 ### 2023
 
+<video width="640" height="480" controls>
+<source src="./movies/march/Banking_system_is_safe.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 <img src="./img/muzea/20230318_174421.jpg"><br><br>
 
 ### 2022
