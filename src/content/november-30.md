@@ -18,6 +18,8 @@ Test:
 
 > Bitcoin is "on a road to irrelevance" - European Central Bank
 
+<img src="./img/november/test_intelligence.jpeg"><br><br>
+
 ---
 
 <a href="./documents/november/2263.pdf" target="_blank">Konstytucja</a>

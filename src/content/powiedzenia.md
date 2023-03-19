@@ -3886,6 +3886,10 @@ Gdy dwa słonie walczą, trawa będzie podeptana.
 
 The price of freedom is eternal vigilance.
 
+w czasie wojny, prawda jest tak cenna, że musi jej towarzyszyć ochroniarz kłamstwa
+
+<img src="./img/others/powiedzenia/aynrand.jpeg"><br><br>
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
