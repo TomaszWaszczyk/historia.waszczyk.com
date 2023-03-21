@@ -104,6 +104,10 @@ Corona wirus
 Chyba największy FakeNews od lat. Dwa dni temu swoją premierę miał film „Dwóch papieży” Netfliksa. Film zaczyna się od zdania lektora „Film oparty na prawdziwych wydarzeniach”. U każdego oznacza to, że fabuła filmu jest co do zasady prawdziwa. Bez ujawniania szczegółów – film opiera się na serii spotkań Benedykta XVI i kard. Jorge Bergoglio, w których papież namaszcza Bergoglio na przyszłego papieża. Informacja o tym, że film powstaje obiegła świat dawno. Dlaczego o tym piszę. 13 marca 2019 r. Sekretarz Stanu Stolicy Apostolskiej ks. kard. Pietro Parolin, druga osoba w Kościele Katolickim, przyjaciel Franciszka i najsilniejszy „papabile” odwiedził Polskę. 100 rocznika KEP. Byłem wtedy w budynku KEP. W jednej z dalej wysuniętych sal siedziałem z jednym z księży. Do pokoju nagle wszedł ksiądz kardynał – nikt pojęcia nie miał po co tam. Zaczęliśmy rozmawiać o prywatności w Kościele. Pamiętam, że gdy poruszyłem temat dezinformacji, powiedział: powstaje w USA taki film, będzie dezinformował. Myślę, że chodziło o ten. Obejrzałem. Rozmawiałem z wieloma osobami w tym księżmi, biskupami. Papież Franciszek spotkał się z Benedyktem XVI dopiero po konklawe. Zaraz po złożeniu rezygnacji Benedykt XVI udał się poza Rzym, by nie mieć wpływu na jego przebieg. Sama fikcja. Po co ktoś ją stworzył?
 Zniszczenie kościoła
 
+### 2008
+
+<img src="./img/march/bear_stearns.jpeg"><br><br>
+
 ### 1962
 
 https://en.wikipedia.org/wiki/Operation_Northwoods

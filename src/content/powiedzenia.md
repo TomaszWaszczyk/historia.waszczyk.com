@@ -8,7 +8,7 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
-<!-- [Powiedzenia - następna część](./powiedzenia-bis.md) -->
+<a href="https://historia.waszczyk.com/powiedzenia-bis" target="_blank">Powiedzenia - następna część</a>
 
 ### Stalin
 

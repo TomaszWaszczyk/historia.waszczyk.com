@@ -3,10 +3,33 @@ layout: post
 title: 21 marca
 image: img/march/badylak.jpg
 author: Tomasz Waszczyk
-date: 2021-03-21T10:00:00.000Z
+date: 2022-03-21T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+> Wanda Półtawska: Naprawdę musisz wiedzieć, że nie jesteś byle kim
+
+<video width="640" height="480" controls>
+<source src="./movies/march/obys_nie_byl_byle_kim.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/march/bankensektor.jpg"><br><br>
+
+The chart shows central banks' gold reserves, million ounces from Jan '59 to Jan '23. I may say that I would rather see these gold reserves in the hands of the people rather than in central banks' vaults.
+
+<img src="./img/march/gold_reserve.jpeg"><br><br>
+
+---
+
+<img src="./img/march/eth_bear.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -71,6 +94,40 @@ Tu miał być jakiś slogan z sarkastycznym komentarzem, ale sprawa sama się ko
 Bitcoin will overtake the dollar in importance as it becomes the single global currency of the internet within a decade, Jack Dorsey, one of Silicon Valley’s leading entrepreneurs, has said.
 
 Despite recent weakness in the value of bitcoin and concerns that it cannot currently process transactions fast or cheaply enough to act as a currency, Mr Dorsey, who is chief executive of both Twitter and the payments company Square, believes that bitcoin will overcome these obstacles and will be used to buy everyday items such as coffee.
+
+### 1984
+
+This week in 1984, West German mechanic Ernst Forbrich was arrested after paying for classified info from an undercover FBI agent. For years, he had received military info from US personnel in West Germany and passed it to East German spies. He was sentenced to 15 years in prison.
+
+<img src="./img/march/west_german.jpeg"><br><br>
+
+TAMPA, Fla. -- West German auto mechanic Ernst Forbrich was convicted of two counts of espionage for buying secret U.S. Army documents prosecutors said he planned to sell to the East German intelligence service.
+
+A federal jury deliberated 2 hours before finding Forbrich guilty late Friday of both counts -- buying a classified military document and planning to transmit it.
+
+The slender 43-year-old mechanic sat motionless as the verdict was read and then relayed to him in German by an interpreter. He faces a maximum penalty of life in prison and is scheduled to be sentenced July 27.
+
+As the convicted spy was led away by marshals, his hands manacled in front of him, he was asked if he wanted to say anything.
+
+'What can you say?' Forbrich replied, his eyes misting with tears. 'Maybe you can see what I feel.'
+
+Although he speaks and understands English, the interpreter sat by his side throughout the trial, translating.
+
+Falco Forbrich of San Jose, Calif., stood crying as his brother was escorted from the courtroom.
+
+'He's not a spy. He wasn't in the army. He just did what he thought was unimportant,' the brother said, insisting Forbrich is innocent.
+
+Forbrich was arrested by the FBI at a Clearwater Beach motel on March 19 moments after he paid an undercover agent $550 in $50 bills and accepted a classified military document in return.
+
+The transaction was secretly recorded on video and audio tapes, which were played for the jury.
+
+Defense lawyer Ron Cacciatore did not argue the count alleging Forbrich obtained the document. But he said the government failed to prove his client tried to relay the document and accused prosecutors of trying to make Forbrich sound like a 'master spy.'
+
+'What the government has attempted to do is to convince you (the jury) that the third world war is about to break out on the border between the eastern and western countries in Europe,' Cacciatore said during closing arguments.
+
+Assistant U.S. Attorney George Tragos told jurors the FBI could not afford to wait for Forbrich to deliver the document to East Germany.
+
+'The crime is the attempt. It would be folly to wait for it to be delivered to East Germany. He paid for the document, took it in his hands and walked out the door,' Tragos said.
 
 ### 1980
 
