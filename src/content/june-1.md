@@ -19,6 +19,10 @@ June has been the BEST month for Bitcoin. Out of its 9 years, 2018 and 2013 were
 
 https://en.wikipedia.org/wiki/Bank_holiday
 
+### 2017
+
+<img src="./img/march/yellen.jpeg"><br><br>
+
 ### 2009
 
 "Pamiętacie wielką pandemię z lat 2009/2010? Nie pamiętacie? Ciekawe, bo trwała 14 miesięcy, pochłonęła 285 tysięcy ofiar śmiertelnych a WHO ogłosiła wtedy szósty, najwyższy stopień zagrożenia. Nikt jednak nie zamykał szkół, uniwersytetów ani firm, chociaż chorowali głównie młodzi ludzie.

@@ -3,10 +3,44 @@ layout: post
 title: 22 marca
 image: img/march/pandemia.jpg
 author: Tomasz Waszczyk
-date: 2021-03-22T10:00:00.000Z
+date: 2022-03-22T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+Putin:
+
+> We are in favor of using the Chinese yuan for settlements between Russia & countries of Asia, Africa & Latin America
+
+<video width="640" height="480" controls>
+<source src="./movies/march/putin_currency.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Already, two-thirds of trade between our countries is done in rubles & yuan.
+
+This is big for China. Yuan is new reserve currency.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/march/xi_putin.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Xi: Change is coming that hasn't happened in 100 years. And we are driving this change together.
+
+Putin: I agree.
+
+Xi: Please, take care, dear friend.
+
+Putin: Have a safe journey!
+
+This is the new geopolitical reality. A China-Russia alliance!
+
 ---
 
 ### 2022

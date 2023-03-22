@@ -323,6 +323,13 @@ myślenie krytyczne
 
 https://pl.wikipedia.org/wiki/Pedagogika_wstydu
 
+<video width="640" height="480" controls>
+<source src="./movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Source: https://www.youtube.com/watch?v=ChoOExRLT4Q
+
 <!-- https://globalna.ceo.org.pl/ -->
 
 <!-- https://sklep.blogojciec.pl/ 
