@@ -257,6 +257,12 @@ Carlos Hathcock, https://en.wikipedia.org/wiki/Carlos_Hathcock, Dostęp 13.11.20
 
 <img src="./img/april/ryan.jpg"><br><br>
 
+---
+
+<img src="./img/april/calculator.jpeg"><br><br>
+
+---
+
 ### 1962
 
 58 lat temu po raz pierwszy można było usłyszeć Program Trzeci Polskiego Radia. Pomysł powołania do życia tej stacji zrodził się w głowie ówczesnego prezesa Komitetu do Spraw Radia i Telewizji Włodzimierza Sokorskiego. Początkowo zasięg Trójki był ograniczony i obejmował województwa : mazowieckie, opolskie i katowckie, a i sama oferta programowa również nie była adresowana do zbyt szerokiej grupy słuchaczy, ponieważ była ona dosyć odbiegająca od standardowego - łatwego w odbiorze programu radiowego. Serwowano tu od początku muzykę młodzieżową wywodzącą się z nurtu nowej ery big - beatu i alternatywy. Do dziś jedną z najbardziej kojarzonych z tym programem audycji jes Lista Przebojów Trójki.

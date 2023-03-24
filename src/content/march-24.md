@@ -3,13 +3,26 @@ layout: post
 title: 24 marca
 image: img/march/mennica.jpeg
 author: Tomasz Waszczyk
-date: 2021-03-24T10:00:00.000Z
+date: 2022-03-24T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
 
+### 2023
+
+<img src="./img/march/inflacja.jpeg"><br><br>
+
 ### 2022
+
+Fake, but true:
+
+<video width="640" height="480" controls>
+<source src="./movies/march/ChristineLagardeFreeBankingEra.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 Pierwsi stypendysci Gazpromu z Uniwersytet Warszawski. Wioletta Mela - obecnie Katedra Ukrainistyki UW, oraz Konrad Dynkiewicz.
 
@@ -287,6 +300,10 @@ Inaczej niż miało to miejsce podczas pogromów w okresie międzywojennym, gdzi
 W swojej analizie jako kluczową grupę w przeprowadzeniu pogromu wielkanocnego Tomasz Szarota jednoznacznie wskazuje na Narodową Organizację Radykalną, kierowaną przez Andrzeja Świetlickiego — przedwojennego aktywistę ONR „Falanga”. To działacze NOR, razem z radykalnie prawicowa organizacją „Atak” wciągnęli do pogromu młodzież. Kwestia inspiracji i koordynacji pogromu ze strony niemieckiej pozostaje na bazie dostępnej dzisiaj dokumentacji źródłowej nierozstrzygnięta. O inspiracji niemieckiej świadczyć może na pewno zauważony przez wielu fakt filmowania przez Niemców wydarzeń i być może również przywożenia pogromszczyków na miejsce zdarzeń ciężarówkami. Za jeden z dowodów na to, że rozwoju pogromu byli świadomi Niemcy, uznać można też bierność policji granatowej. Na korzyść teorii przemawia, fakt, że pogrom, inaczej niż ma to miejsce w pogromach, które rozwijają się „naturalnie”, zakończył się po ośmiu dniach, 30 marca 1940 r., niemal jakoby ucięty przez odgórne zarządzenie [16]. W tym momencie miała miejsce interwencja policji polskiej, połączona prawdopodobnie z aresztowaniami pogromszczyków [17].
 
 Czy na tle pogłębiającego się terroru niemieckiego mającego miejsce w Warszawie przed zamknięciem getta, fala przemocy antysemickiej, która wybuchła 22 marca 1940 r. była na tyle wyjątkowa ze względu na nieprzewidywalność, nagłość, i duży stopień agresji, że zrozumiałe jest wyodrębnienie jej w literaturze osobistej właśnie jako pogromu [18]? Brak ostatecznych ustaleń na temat inicjatorów i przebiegu zajść, a także zasięgu i natężenia przemocy, w tym liczby ofiar po obu stronach, nie pozwala nam na rozpatrywanie zajść wielkanocnych w kategoriach kwalifikacyjnych proponowanych przez współczesnych badaczy zajmujących się przemocą antyżydowską [19]. Pomimo centralnego miejsca Warszawy w historiografii stosunków polsko-żydowskich w latach okupacji, ich pierwszy okres, jeżeli tak zakwalifikujemy pierwszy rok okupacji, pozostaje bardzo mało zbadany. Dopóki takich badań nie ma, na pytanie, jak zakwalifikować można te wydarzenia (jako zamieszki, ekscesy, pogrom), odpowiedzieć można tylko odwołując się do postrzegania ich przez ich współczesnych. Określenie „pogrom” jest więc tu na pewno uzasadnione.
+
+### 1923
+
+<img src="./img/march/hyperinflation.jpeg"><br><br>
 
 ### 1914
 

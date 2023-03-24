@@ -24,6 +24,8 @@ Already, two-thirds of trade between our countries is done in rubles & yuan.
 
 This is big for China. Yuan is new reserve currency.
 
+<img src="./img/march/xi_putin.jpeg"><br><br>
+
 ---
 
 <video width="640" height="480" controls>
