@@ -3,11 +3,22 @@ layout: post
 title: 25 marca
 image: img/march/lekarze.jpg
 author: Tomasz Waszczyk
-date: 2021-03-25T10:00:00.000Z
+date: 2022-03-25T10:00:00.000Z
 tags:
   - Służba zdrowia
 draft: false
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/march/eurazja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/march/DoktrynaFederacjiRosyjskiej.pdf" target="_blank">Doktryna Federacji Rosyjskiej</a>
+
+<a href="./documents/march/Przeglad_Bezpieczenstwa_Wewnetrznego__wydanie_specjalne_pt_Wojna_hybrydowa.pdf" target="_blank">ABW</a>
 
 ### 2022
 

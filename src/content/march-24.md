@@ -13,6 +13,18 @@ draft: false
 
 <img src="./img/march/inflacja.jpeg"><br><br>
 
+---
+
+Wiadomość od ING:
+
+> "obniżamy maksymalne limity dzienne dla przelewów zleconych w systemie bankowości internetowej z 400 000 zł na 200 000 zł, zleconych w aplikacji mobilnej ze 100 000 zł na 50 000 zł..."
+
+---
+
+<img src="./img/march/ziemia_w_polsce.jpg"><br><br>
+
+---
+
 ### 2022
 
 Fake, but true:
@@ -269,6 +281,12 @@ W czasie likwidacji getta wysadzono 17 wieczną Synagogę Maharama. Był to typo
 
 <img src="./img/march/lublin.jpg"/><br><br>
 
+---
+
+> Wzrost pijaństwa w Polsce w czasie okupacji jest zatrważający. Nie tylko mężczyźni piją, ale coraz częstsze są przypadki pijaństwa wśród kobiet i dzieci. Wódka dająca upragnione oszołomienie i chwilą ucieczkę od strasznej rzeczywistości jest niemieckim sprzymierzeńcem w celu demoralizowania społeczeństwa polskiego. - Armia Krajowa
+
+---
+
 ### 1940
 
 POGROM WIELKANOCNY
@@ -415,6 +433,10 @@ Kościuszki zostało umieszczone w urnie i
 przekazane Emilii Zeltner, córce Franciszka
 
 https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
+
+Na rynku w Krakowie został odczytany Akt powstania obywatelów mieszkańców województwa krakowskiego, ogłaszający rozpoczęcie insurekcji przeciw Rosji i carycy Katarzynie II. Na mocy aktu Tadeuszowi Kościuszce powierzono funkcję Najwyższego Naczelnika
+
+<img src="./img/march/insurekcja.jpeg"><br><br>
 
 ---
 

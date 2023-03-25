@@ -18,6 +18,10 @@ Słowianie to naród niewolników, pytają się tylko kto jest ich panem i komu 
 
 nie można nie zrobić niczego, tylko dlatego, że nie możesz zrobić wszystkiego
 
+Nadmiar myślenia to niedobór przeżywania
+
+<img src="./img/others/powiedzenia/twain.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

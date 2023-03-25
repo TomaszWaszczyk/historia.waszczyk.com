@@ -1625,6 +1625,16 @@ polikryzysy
 
 akordy wojny
 
+egotycznie
+
+obdzwanianie
+
+akordy wojny
+
+trash talk
+
+Noblesse oblige
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
