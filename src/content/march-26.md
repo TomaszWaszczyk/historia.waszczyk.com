@@ -3,11 +3,28 @@ layout: post
 title: 26 marca
 image: img/march/unemployment.jpg
 author: Tomasz Waszczyk
-date: 2021-03-26T10:00:00.000Z
+date: 2022-03-26T10:00:00.000Z
 tags:
   - Koronawirus
 draft: false
 ---
+
+### 2023
+
+Layoffs are malinvestment corrections. The fact that they happen in large waves according to business cycles is entirely the fault of Central Bank backed fiat money.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/banking_system.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Rosja rozmieści taktyczną broń jądrową na Białorusi
+
+Rosja zawarła porozumienie z Białorusią w sprawie rozmieszczenia na jej terytorium taktycznej broni jądrowej — podała w sobotę agencja TASS, cytując prezydenta Władimira Putina. Takie posunięcie nie naruszyłoby porozumień o nierozprzestrzenianiu broni jądrowej — powiedział Putin, dodając, że Stany Zjednoczone rozmieściły broń jądrową na terytorium europejskich sojuszników.
+
+Putin zapowiedział, że do 1 lipca na Białorusi będzie gotowy magazyn dla rosyjskiej broni jądrowej. Prezydent Rosji zaznaczył, że nie będzie to przekazanie broni jądrowej Mińskowi, lecz tylko rozmieszczenie jej na terytorium Białorusi.
 
 ### 2022
 

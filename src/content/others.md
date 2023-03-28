@@ -58,6 +58,42 @@ https://pl.wikipedia.org/wiki/Fides_et_ratio
 
 * Optymizm nie zastąpi nam Polski, Józef Mackiewicz: Dzieła (tom 18)
 
+17 Books for web3 builders 📓
+
+1/ The Man from the Future: The Visionary Life of John von Neumann by Ananyo Bhattacharya
+
+2/ A Graduate Course in Applied Cryptography by Dan Boneh and Victor Shoup
+
+3/ Proof of Stake: The making of ethereum and the philosophy of blockchains by Vitalik Buterin
+
+4/ Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian and Tom Griffiths
+
+5/ Designing an Internet by David Clark
+
+6/ The Beginning of Infinity: Explanations That Transform the World by David Deutsch
+
+7/ Selected Short Stories by Philip Dick
+
+8/ A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution by Jennifer Doudna and Samuel Sternberg
+
+9/ The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner
+
+10/ Alan Turing: Enigma by Andrew Hodges
+
+11/ The Hard Thing about the Hard Things by Ben Horowitz
+
+12/ The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company by Bob Iger
+
+13/ The Death and Life of Great American Cities by Jane Jacobs
+
+14/ Pentagon’s Brain: An uncensored history of DARPA, America’s top-secret military research agency by Annie Jacobsen
+
+15/ Extra Life: A Short History of Living Longer by Steven Johnson
+
+16/ Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World by Jill Jonnes
+
+17/ Masters of Doom by David Kushner
+
 ### Audycje, podcasty
 
 <video width="640" height="480" controls>

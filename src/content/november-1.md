@@ -119,6 +119,10 @@ Zaś dziennikarz North American Newspaper Alliance, Dr. Lothrop Stoddard tak opi
 
 <img src="./img/november/filantropiapudelkowa.jpg"><br><br>
 
+### 1923
+
+<img src="./img/november/butter.jpeg"><br><br>
+
 ### 1918
 
 W Płaszowie koło Krakowa oddziały polskie zdobyły austriacki wojskowy tabor kolejowy, z którego następnie utworzono pociągi pancerne "Śmiały" i "Piłsudczyk" Brały one udział w konflikcie polsko-ukraińskim w 1918 roku oraz w wojnie obronnej w 1939 roku.

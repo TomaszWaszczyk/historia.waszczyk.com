@@ -3,11 +3,21 @@ layout: post
 title: 27 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2021-03-27T10:00:00.000Z
+date: 2022-03-27T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+BRICS🇷🇺🇨🇳🇮🇳🇧🇷🇿🇦 Chinese Yuan for settlements between Russia, Asia, Africa and Latin America
+
+Fed and ECB are expanding their balance sheet.
+
+<img src="./img/march/brics.jpeg"><br><br>
+
+``USD supply >> demand``
 
 ### 2022
 

@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+> I don't want a nation of thinkers, I want a nation of workers - John D. Rockefeller (John D. Rockefeller on Making Money: Advice and Words of Wisdom on Building and Sharing Wealth)
+
 <!-- 
 https://hourofcode.com/us/pl
 kaszojad

@@ -22,11 +22,13 @@ Your browser does not support the video tag.
 
 ### 2022
 
-Aktualne, efektem zapowiedzianych zmian #PIT będzie:
+Aktualne, efektem zapowiedzianych zmian PIT będzie:
+
 - wyższa inflacja
 - wyższe stopy procentowe
 - słabszy złoty
-- słabszy samorząd, finansowo i politycznie. 
+- słabszy samorząd, finansowo i politycznie.
+
 Krótkoterminowy wzrost dochodów po opodatkowaniu nie jest wart dalszej destabilizacji gospodarki.
 
 Osłabiając złotego przez ekspansywne polityki makro + awanturniczą politykę to my subsydiujemy zakupy zagranicznym inwestorom w Polsce, nasze aktywa w walutach obcych są tanie. Równocześnie zwykli Polacy płacą drożej za importowane dobra i usługi.
@@ -85,6 +87,14 @@ https://en.wikipedia.org/wiki/Green_New_Deal
 Nacjonalizacja banku na Cyprze i pozbawienie akcjonariuszy oraz właścicieli depozytów pow. 100k euro całości majątku. Takie rzeczy w Europie, takie rzeczy w strefie euro. Nikt mnie nie przekona, że wejście do niej jest dla Polski korzystne. Rezygnując z opodatkowania mniejszych depozytów rząd uwolnił się od protestów społecznych, bo to uderzy głównie w bogate osoby zza granicy, które uciekały na Cypr przed podatkami. Jestem bardzo ciekaw reakcji Rosji, której obywatele najprawdopodobniej stracą najwięcej. Zaczyna się dziać, miejmy nadzieję, że to początek końca tej utopii jaką jest w obecnym kształcie Unia Europejska i strefa euro.
 
 <img src="./img/march/cypr.png"/><br><br>
+
+### 1957
+
+Zawarto porozumienie o kolejnej fali wysiedleńczej Polaków z Kresów Wschodnich (1957 - 1959).
+
+(Kresy od wieków były polskie i nie wolno o tym głośno mówić - Krym od 1954 r. jest ukraiński i krzyczy się o tym na cały świat)
+
+<img src="./img/march/kresy.jpeg"><br><br>
 
 ### 1995
 

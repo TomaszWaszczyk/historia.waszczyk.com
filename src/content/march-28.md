@@ -3,10 +3,40 @@ layout: post
 title: 28 marca
 image: img/march/morawiecki.jpg
 author: Tomasz Waszczyk
-date: 2021-03-28T10:00:00.000Z
+date: 2022-03-28T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false
+---
+
+### 2023
+
+Massive protests as millions of people have gone to the streets to express their dissent against the recent pension reform.
+
+On top of that, the biggest French banks including Societe Generale and BNP Paribas have just been raided by the country's financial prosecutor in €100 billion tax fraud and money laundering related to dividend payments.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/france2023.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Are we witnessing the beginning of French Revolution 2.0? 🤔
+
+---
+
+Israel protests: PM Netanyahu delays legal reforms after day of strikes
+
+<img src="./img/march/israel.webp"><br><br>
+
+---
+
+...
+
+<video width="640" height="480" controls>
+<source src="./movies/march/russia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021
