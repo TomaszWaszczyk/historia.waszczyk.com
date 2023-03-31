@@ -56,6 +56,10 @@ Nie była to pierwsza ani ostatnia reglamentacja wprowadzona w tym okresie. Wcze
 
 <img src="./img/april/kartki2.jpg"><br><br>
 
+### 1959
+
+<img src="./img/april/jakubiak.jpeg"><br><br>
+
 ### 1947
 
 Z lini montażowej Fabryki Ciągników "Ursus" zjechał pierwszy produkowany seryjnie po wojnie polski ciągnik Ursus C-45.

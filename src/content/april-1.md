@@ -3,9 +3,21 @@ layout: post
 title: 1 kwietnia
 image: img/april/fired.png
 author: Tomasz Waszczyk
-date: 2021-04-01T10:00:00.000Z
+date: 2022-04-01T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+> oby nie nadszedł cesarz wszystkich wojen
+
+Chinese leader Xi Jinping says he is preparing for war. At the annual meeting of China’s parliament and its top political advisory body in March, Xi wove the theme of war readiness through four separate speeches, in one instance telling his generals to “dare to fight.” His government also announced a 7.2 percent increase in China’s defense budget, which has doubled over the last decade, as well as plans to make the country less dependent on foreign grain imports.
+
+<img src="./img/april/xi.webp"><br><br>
+
+> Wars and rumours.—St. Luke adds “commotions.” The forty years that intervened before the destruction of Jerusalem were full of these in all directions; but we may probably think of the words as referring specially to wars, actual or threatened, that affected the Jews, such, e.g., as those of which we read under Caligula, Claudius, and Nero (Jos. Ant. xx. 1, 6). The title which the historian gave to his second book, “The Wars of the Jews,” is sufficiently suggestive. As the years passed on, the watchword, “Be not troubled,” must have kept the believers in Christ calm in the midst of agitation. They were not to think that the end was to follow at once upon the wars which were preparing the way for it. - Matthew 24:6
+
 ---
 
 ### 2022

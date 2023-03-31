@@ -10,6 +10,8 @@ draft: false
 
 > I don't want a nation of thinkers, I want a nation of workers - John D. Rockefeller (John D. Rockefeller on Making Money: Advice and Words of Wisdom on Building and Sharing Wealth)
 
+<a href="./documents/wychowanie-mlodego-czlowieka/ED349475.pdf" target="_blank">Rockefeller and General Education Board</a>
+
 <!-- 
 https://hourofcode.com/us/pl
 kaszojad
@@ -332,6 +334,8 @@ Your browser does not support the video tag.
 
 Source: https://www.youtube.com/watch?v=ChoOExRLT4Q
 
+<a href="./documents/movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.en.srt" target="_blank">Subtitles</a>
+
 <!-- https://globalna.ceo.org.pl/ -->
 
 <!-- https://sklep.blogojciec.pl/ 
@@ -374,7 +378,7 @@ Chrześcijańska szkoła myśli ekonomicznej oparta jest głównie na stwierdzen
 
 Inaczej mówiąc: im powszechniejsze jest zjawisko kradzieży w jej różnych postaciach, zwłaszcza w przypadku zalegalizowanej grabieży dokonywanej przez państwo, a więc w „majestacie prawa”, tym dotkliwiej cierpi na tym gospodarka i szybciej następuje ubożenie ludności. Stwierdzenie to powinno szczególnie przemawiać do chrześcijan, dla których Dekalog, jako pochodzący od Boga, stanowi jeden z filarów wiary, a fakt, iż Stwórca zakazuje bezpośrednio aż dwoma Przykazaniami pozbawiania własności naszych bliźnich, wskazuje na wielkie znaczenie, jakie nadał On nietykalności cudzej własności prywatnej.
 
-<img src="./img/other/chne-nie-kradnij.jpg"><br><br>
+<img src="./img/others/chne-nie-kradnij.jpg"><br><br>
 
 Pomimo tego, państwo i jego urzędnicy spokojnie pozbawiają obywateli ich własności. Czynią to na różne sposoby, takie jak:
 

@@ -11,6 +11,26 @@ draft: false
 
 ### 2023
 
+> dezinflacja
+
+<img src="./img/march/dezinflacja_plaskowyz.png"><br><br>
+
+Polski za-rząd w celu zmącenia i tak totalnie nieświadomemu społeczeństwu wprowadził pojęcie "dezinflacji", natomiast prezes NBP Glapiński pojęcie "płaskowyżu inflacji". W efekcie, opinie o "walce z inflacją przez bank centralny" są w pełni akceptowalne i "zrozumiałe" przez społeczeństwo polskie włączając w to osoby posiadające "wyższe" wykształcenie.
+
+Ciekawym jest, że jednym z najmocniej drożejących są pomidory, zwłaszcza polskie lokalne, cena wynosi około ~13PLN/kg. Panie ekspedientki parę razy sprawdzają, że nabita cena na kasę jest poprawna.
+
+> German Supermarket Prices Skyrocket as Food Inflation Hits Record 22.3% in March!
+
+<img src="./img/march/inflation_germany.jpeg"><br><br>
+
+---
+
+Polska Grupa Zbrojeniowa i Wojskowe Zakłady Motoryzacyjne oraz południowokoreańska firma Hyundai Rotem Company podpisały umowę o utworzeniu konsorcjum. Jego celem będzie wspólne oferowanie Wojsku Polskiemu czołgów K2PL oraz sprzętu towarzyszącego.
+
+Dzisiejsza umowa stanowi ważny moment we wzajemnej współpracy Polskiej Grupy Zbrojeniowej i naszego południowokoreańskiego partnera, którym w przypadku czołgów jest Hyundai Rotem. Konsorcjum, które zawiązaliśmy, jest podstawą do naszych dalszych rozmów na temat zaangażowania pozostałych spółek grupy w roli podwykonawców przy produkcji czołgów K2PL. Teraz w ramach dialogu z Zamawiającym, czyli Agencją Uzbrojenia, ustalimy szczegóły dotyczące zamówienia – podkreślił prezes Zarządu PGZ S.A. Sebastian Chwałek. Jak zaznaczył, obecnie trwają zaawansowane prace nad przygotowaniem pozostałych spółek z Grupy do udziału w programie. Obok Wojskowych Zakładów Motoryzacyjnych, które są także sygnatariuszem umowy, kluczowe lokalizacje, w których będzie realizowana produkcja czołgów i elementów składowych to Stalowa Wola i Kalisz.
+
+---
+
 The RESTRICT Act is proposed legislation that was first introduced in the United States Senate on March 7, 2023.
 
 ---
