@@ -3,10 +3,20 @@ layout: post
 title: 31 marca
 image: img/march/covid2.png
 author: Tomasz Waszczyk
-date: 2021-03-31T10:00:00.000Z
+date: 2022-03-31T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false
+---
+
+### 2023
+
+The RESTRICT Act is proposed legislation that was first introduced in the United States Senate on March 7, 2023.
+
+---
+
+> Moim zdaniem nie ma odwrotu od podniesienia wieku emerytalnego - mówił w rozmowie z portalem spożywczym Maciej Herman, dyrektor zarządzający firmy Wedel, którego cytuje portalspozywczy.pl. Podkreślał, że "jeśli ktoś liczy, że w przyszłości będzie w stanie wyżyć za emeryturę w Polsce, to jest po prostu naiwny".
+
 ---
 
 ### 2022

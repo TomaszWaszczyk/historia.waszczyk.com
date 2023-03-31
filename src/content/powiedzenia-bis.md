@@ -26,6 +26,8 @@ na wojnie prawda umiera pierwsza
 
 ...musimy zrobić w Polsce to co zaakceptuje Fundusz Walutowy, Bank Światowy i nasi inni nasi kredytodawcy bo Polska jest bankrutem, a inaczej umrzemy z głodu i zimna - Jacek Żakowski o 1989
 
+mój naród (żydowski) przetrwał tylko dlatego, że my pamiętamy - Jakub Berkman
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

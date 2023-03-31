@@ -3,9 +3,21 @@ layout: post
 title: 29 marca
 image: img/march/szwajcaria2.jpeg
 author: Tomasz Waszczyk
-date: 2021-03-29T10:00:00.000Z
+date: 2022-03-29T10:00:00.000Z
 tags:
   - Katyń
+---
+
+### 2023
+
+<img src="./img/march/banking_system.jpg"><br><br>
+
+---
+
+Żądaj świeckiego państwa, uczestnicz w Chanuce zorganizowanej w Sejmie
+
+<img src="./img/march/biedron.jpeg"><br><br>
+
 ---
 
 ### 2022

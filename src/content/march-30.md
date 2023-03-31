@@ -3,10 +3,38 @@ layout: post
 title: 30 marca
 image: img/march/cpi2020.png
 author: Tomasz Waszczyk
-date: 2021-03-30T10:00:00.000Z
+date: 2022-03-30T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+Putin przyleciał do Afryki Południowej na szczyt BRICS.
+
+---
+
+European Central Bank:
+
+<img src="./img/march/ecb.jpeg"><br><br>
+
+<img src="./img/march/ecb.jpg"><br><br>
+
+<img src="./img/march/ecb2.jpeg"><br><br>
+
+<img src="./img/march/ecb2.jpg"><br><br>
+
+<img src="./img/march/ecb3.jpeg"><br><br>
+
+<img src="./img/march/ecb3.jpg"><br><br>
+
+---
+
+> ...
+
+<img src="./img/march/unicef___.jpeg"><br><br>
+
 ---
 
 ### 2022

@@ -155,6 +155,14 @@ Grynberg Michał, Księga sprawiedliwych, Warszawa 1993
 
 <img src="./img/march/helenie.jpg"/><br><br>
 
+### 1947
+
+Zginął gen. Karol Świerczewski
+
+<img src="./img/march/swierczewski.jpeg"><br><br>
+
+<img src="./img/march/1967_karol_swierczewski_polish_coins_50_zlotych.jpg"><br><br>
+
 ### 1943
 
 W areszcie Gestapo na Pawiaku Niemcy zakatowali na śmierć kaprala Huberta Lenka (zdjęcie) harcmistrza, członka Szarych Szeregów, żołnierza Armii Krajowej, uczestnika słynnej Akcji pod Arsenałem.
