@@ -168,8 +168,6 @@ Prezydent Rzeczypospolitej Polskiej Aleksander Kwaśniewski wręczył w uznaniu 
 
 <img src="./img/april/zadluzenie_polski_1989.jpg"><br><br>
 
-
-
 ### 1950
 
 Odbył się próbny lot pierwszego polskiego śmigłowca BŻ -1 GIL.
@@ -178,6 +176,12 @@ Mimo, iż testowano go przez 10 lat, ze względu na kilka wypadków i sporą awa
 W drugiej połowie lat osiemdziesiątych jedyny jego egzemplarz został odrestaurowany i przekazany do Muzeum Lotnictwa Polskiego w Krakowie.
 
 <img src="./img/april/smiglowiec.jpg"/><br><br>
+
+### 1949
+
+NATO was created on April 4th, 1949, when 12 nations signed the North Atlantic Treaty.
+
+<img src="./img/april/nato.jpeg"><br><br>
 
 ### 1944
 

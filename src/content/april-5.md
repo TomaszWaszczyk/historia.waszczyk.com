@@ -3,10 +3,26 @@ layout: post
 title: 5 kwietnia
 image: img/april/goldfed.png
 author: Tomasz Waszczyk
-date: 2021-04-05T10:00:00.000Z
+date: 2022-04-05T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2023
+
+Ein technischer Fehler!
+
+Staatliche Zensur, Kontensperrung politischer Gegner oder auch ein Bankrun können für den App-Ausfall vollkommen ausgeschlossen werden. Schliesslich leben die Menschen in Europa in einer Demokratie!
+
+Für alle, die aber Misstrauen äussern gegenüber einer aufkommenden Zentralbankwährung in Form des Digitalen Euros sei gesagt, dass sich niemand Sorgen machen muss! Wer dem Staat und der Zentralbank nur noch ein bisschen mehr Vertrauen schenkt, kann sich schliesslich versichert fühlen, dass sich diese auch um einen kümmern werden. Staatenunabhängiges, zensurresistentes Geld, welches Zugang 24/7 an jedem Ort der Welt gewährt braucht schliesslich kein Mensch!
+
+<img src="./img/april/Login_Postbank_Aufmacher.jpg"><br><br>
+
+> "Das angekündigte Unity-Update am vergangenen Wochenende hat mal wieder nicht so geklappt wie geplant. Die App funktioniert aktuell gar nicht, das Online-Banking mal ja, mal nein. Der IT-Service muss noch mal zwei Nachtschichten einschieben. Die Kundenreaktionen reichen von Wut und Verzweiflung bis Fatalismus."
+
+---
+
+J. P. Morgan stated about 100 years ago. “Gold is money. Everything else is credit.” And in the words of the American banker and author, Charles R. Morris, "Credit is the air that financial markets breathe, and when the air is poisoned, there’s no place to hide."
 
 ### 2022
 

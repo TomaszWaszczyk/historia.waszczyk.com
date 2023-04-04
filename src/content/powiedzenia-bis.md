@@ -44,6 +44,8 @@ Only the Paranoid Survive
 
 Factis ut credam facis.
 
+Learn a skill you can barter with.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
