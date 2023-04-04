@@ -2,6 +2,8 @@
 
 https://web96.pl
 
+https://battlemachines.org
+
 https://www.tracesofwar.com
 
 https://www.warhistoryonline.com/

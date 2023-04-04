@@ -28,6 +28,22 @@ na wojnie prawda umiera pierwsza
 
 mój naród (żydowski) przetrwał tylko dlatego, że my pamiętamy - Jakub Berkman
 
+examine the world you interact with
+
+<!-- emocje są dla mas, ale nie dla nas -->
+
+Slaves produces surples that master gets, employees produce a surplus which the employer gets
+
+chaotyczne czasy rodzą wielkich bohaterów
+
+umieć żyć rzeczywistością
+
+Only the Paranoid Survive
+
+<img src="./img/others/powiedzenia/kawaler.jpg"><br><br>
+
+Factis ut credam facis.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

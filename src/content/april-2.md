@@ -3,11 +3,15 @@ layout: post
 title: 2 kwietnia
 image: img/april/ceidg.png
 author: Tomasz Waszczyk
-date: 2021-04-02T10:00:00.000Z
+date: 2022-04-02T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false
 ---
+
+### 2023
+
+Zacznie postępować dolaryzacja krajów, masowo (upadek lokalnych walut).
 
 ### 2022
 

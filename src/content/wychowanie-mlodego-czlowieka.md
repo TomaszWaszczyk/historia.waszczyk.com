@@ -334,7 +334,7 @@ Your browser does not support the video tag.
 
 Source: https://www.youtube.com/watch?v=ChoOExRLT4Q
 
-<a href="./documents/movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.en.srt" target="_blank">Subtitles</a>
+<a href="./movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.en.srt" target="_blank">Subtitles</a>
 
 <!-- https://globalna.ceo.org.pl/ -->
 
@@ -438,6 +438,8 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 <img src="./img/wychowanie-mlodego-czlowieka/wychowanie.png"><br><br>
 
 <img src="./img/wychowanie-mlodego-czlowieka/hodowla.jpeg"><br><br>
+
+<img src="./img/wychowanie-mlodego-czlowieka/baczek-ratownik-okladka.png"><br><br>
 
 <!-- Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
 3 lata

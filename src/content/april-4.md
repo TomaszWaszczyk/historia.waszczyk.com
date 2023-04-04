@@ -3,11 +3,15 @@ layout: post
 title: 4 kwietnia
 image: img/april/tarcza.jpg
 author: Tomasz Waszczyk
-date: 2021-04-04T10:00:00.000Z
+date: 2022-04-04T10:00:00.000Z
 tags:
   - Destroy
 draft: false
 ---
+
+### 2023
+
+> Chcemy stać się światowym potentatem produkcji amunicji. Mamy w tym zakresie zdolności i chcemy je znacznie rozszerzyć - mówił w dzisiejszym programie CafeArmia na antenie Polskiego Radia 24 gość red. Agnieszki Drążkiewicz dyrektor Biura Broni Amunicji i Techniki Rakietowej PGZ S.A. Łukasz Malicki.
 
 ### 2022
 
@@ -147,6 +151,24 @@ Jesteście hańbą, największą hańbą rządów po 1989 roku. Jeszcze żaden r
 ### 2002
 
 Prezydent Rzeczypospolitej Polskiej Aleksander Kwaśniewski wręczył w uznaniu wybitnych zasług w stworzeniu Światowego Forum Ekonomicznego, za działalność na rzecz międzynarodowej współpracy gospodarczej i ekonomicznej Krzyż Komandorski z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej profesorowi Klausowi Szwabowi. Zwracając się do zebranych Prezydent RP powiedział: Mam dziś zaszczyt i przyjemność wręczenia Panu Profesorowi Klausowi Schwabowi Krzyża Komandorskiego z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej.
+
+---
+
+<img src="./img/april/merkel_putin.jpeg"><br><br>
+
+---
+
+### 1990
+
+<img src="./img/april/polska_hiszpania.jpg"><br><br>
+
+<img src="./img/april/prasa_niezalezna_polska.jpg"><br><br>
+
+<img src="./img/april/wzrost_upadek_prl.jpg"><br><br>
+
+<img src="./img/april/zadluzenie_polski_1989.jpg"><br><br>
+
+
 
 ### 1950
 
