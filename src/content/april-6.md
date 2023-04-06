@@ -11,7 +11,7 @@ draft: false
 
 ### 2023
 
-> In the future, there will be no borders between our peoples: political, economic and – what is very important – historical. But for that we still need to gain victory. For that, we need to walk side by side a little more. - Zelensky in Poland
+> In the future, there will be **no borders** between our peoples: political, economic and – what is very important – historical. But for that we still need to gain victory. For that, we need to walk side by side a little more. - Zelensky in Poland
 
 <img src="./img/april/zelensky.jpeg"><br><br>
 
