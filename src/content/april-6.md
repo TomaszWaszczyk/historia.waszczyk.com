@@ -3,10 +3,28 @@ layout: post
 title: 6 kwietnia
 image: img/april/kaczynski.png
 author: Tomasz Waszczyk
-date: 2021-04-06T10:00:00.000Z
+date: 2022-04-06T10:00:00.000Z
 tags:
   - TVP - TV Propaganda
 draft: false
+---
+
+### 2023
+
+> In the future, there will be no borders between our peoples: political, economic and – what is very important – historical. But for that we still need to gain victory. For that, we need to walk side by side a little more. - Zelensky in Poland
+
+<img src="./img/april/zelensky.jpeg"><br><br>
+
+---
+
+> Schrony w Polsce. Komendant Główny PSP: 47 mln ludzi może się schronić
+
+W schronach jest miejsce dla 47 mln ludzi - wynika z inwentaryzacji przeprowadzonej przez Państwową Straż Pożarną. Podczas czwartkowej konferencji prasowej wiceminister spraw wewnętrznych i administracji Maciej Wąsik poinformował też o specjalnej aplikacji, dzięki której mieszkańcy mogą sprawdzić, gdzie się kierować w razie zagrożenia.
+
+---
+
+<img src="./img/april/state_of_the_world.jpeg"><br><br>
+
 ---
 
 ### 2022

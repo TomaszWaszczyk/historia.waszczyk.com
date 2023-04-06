@@ -32,6 +32,12 @@ polski serwer www, pod nazwą "Polska
 Strona Domowa". Natomiast internet znany nam w obecnej formie uruchomiono w kwietniu 1996 roku.
 Obecnie internet w Polsce dostępny jest dla ponad 80 % procent gospodarstw domowych.
 
+### 1989
+
+<img src="./img/december/bank_handlowy_1989.jpg"><br><br>
+
+<img src="./img/december/fozz.jpg"><br><br>
+
 ### 1982
 
 W Genewie zmarł Artur Rubinstein - wybitny polski pianista pochodzenia żydowskiego. Urna z prochami wirtuoza została pochowana niedaleko Jerozolimy na zboczu góry Orah.
