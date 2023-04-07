@@ -21,6 +21,14 @@ Kamizelka zintegrowana KKZ-01, jako środek wyposażenia indywidualnego żołnie
 
 ### 2022
 
+> Rabbi Shalom Stambler Awarded for Work With Warsaw’s Jewish Community
+
+Poland’s Minister of Foreign Affairs, Zbigniew Rau, awarded Chabad of Warsaw’s Rabbi Shalom Stambler an honorary badge, recognizing his 17 years of work advancing the revival of Poland’s Jewish life. “It’s heartening to see the Polish government’s concern for the renewed flourishing of Jewish life,” Rabbi Stambler said, “The work we do for the Jewish community here, and Ukrainian refugees, goes hand in hand with furthering Jewish-Polish dialogue.”
+
+<img src="./img/april/stambler.jpeg"><br><br>
+
+---
+
 <img src="./img/april/putinenabler.png/"><br><br>
 
 ---
