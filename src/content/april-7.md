@@ -3,11 +3,21 @@ layout: post
 title: 7 kwietnia
 image: img/april/adamsolski.jpg
 author: Tomasz Waszczyk
-date: 2021-04-07T10:00:00.000Z
+date: 2022-04-07T10:00:00.000Z
 tags:
   - NKWD
 draft: false
 ---
+
+### 2023
+
+PSO Maskpol S.A. dostarczy Siłom Zbrojnym RP kilkadziesiąt tysięcy kompletów kuloodpornych kamizelek zintegrowanych KKZ-01 o wartości ponad 490 mln złotych brutto. Kamizelki trafią do wojsk operacyjnych.
+Przedmiotem umowy, zawartej pomiędzy Skarbem Państwa – Agencją Uzbrojenia a PSO Maskpol S.A., jest dostawa w latach 2024-2025 kilkudziesięciu tysięcy kompletów kuloodpornych kamizelek zintegrowanych KKZ-01. Zamówienie zostało podzielone na część gwarantowaną, obejmująca dostawy w 2024 r., a także część opcjonalną, przewidującą kontynuację dostaw w 2025 r., przy czym uruchomienie części opcjonalnej uzależnione jest od możliwości zakontraktowania dostaw seryjnych kamizelek zintegrowanych opracowywanych w ramach projektu TYTAN.
+Kamizelka zintegrowana KKZ-01, jako środek wyposażenia indywidualnego żołnierza, została zaprojektowana do jego ochrony w warunkach bojowych przed postrzałem pociskami niektórych rodzajów broni strzeleckiej, bezpośrednimi uderzeniami odłamków oraz skutkami uderzeń niebezpiecznymi przedmiotami. Podstawowe elementy balistyczne kamizelki zapewniają ochronę żołnierza zgodnie z klasą K3 AB wg normy PN-V-87000:2011. Kamizelka umożliwia przenoszenie szerokiej gamy indywidualnego oporządzenia.
+
+> ...
+
+<img src="./img/april/agencja_uzbrojenia.jpeg"><br><br>
 
 ### 2022
 
@@ -115,6 +125,10 @@ Lekarz z Bydgoszczy: W walce z wirusem służymy za mięso armatnie
 ### 2010
 
 Na długoterminową, niekorzystną dla 🇵🇱 umowę z Gazpromem, Donald Tusk z Władimirem Putinem umówili się 7 kwietnia 2010 r. w Smoleńsku. „Jestem pewien, że ten dzień przejdzie do lepszej historii naszych relacji i pozwoli nam jeszcze lepiej współpracować” - stwierdził.
+
+### 2007
+
+<img src="./img/april/twitter.jpeg"><br><br>
 
 ### 1952
 
