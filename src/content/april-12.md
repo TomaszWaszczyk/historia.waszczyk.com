@@ -3,11 +3,25 @@ layout: post
 title: 12 kwietnia
 image: img/april/eichmann.jpg
 author: Tomasz Waszczyk
-date: 2021-04-12T10:00:00.000Z
+date: 2022-04-12T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+The debt supercycle was born: between the 1960s and up to the 2008 crisis, total private debt outgrew GDP by four. Other countries mirrored the same subsidies and financial deregulation measures that supported credit growth in the US. The United Kingdom abolished bank reserve requirements in 1981, and in 1986 the City of London launched its Big Bang expansion plan. Others followed, and private debt caught up with US levels in Europe and most recently in China, where a government-led stimulus plan has doubled credit since 2008.
+
+Let them eat debt policies remain popular today, as the 2007/8 GFC central bank induced crisis repeats yet one more time...
+
+Put simply, corporates, households, banks and governments remain overburdened by the existing stock of debt, the engine of credit creation has broken beyond repair, we need to change our thinking of how the real world works and its relationship to central banking fiat-money as "ever increasing" debt.
+
+Only a complete economic simpleton could believe that Japan total debt to GDP% of 1325.8% , UK total debt % to GDP of 1069.7% and US 765% of GDP and EU 807% of GDP is anything other than pixie dust economics in 2023.
+
+It’s not too late to move, to a debt-free sound money system, based upon surplus production in the real world…
+
+<img src="./img/april/debt.jpeg"><br><br>
 
 ### 2022
 

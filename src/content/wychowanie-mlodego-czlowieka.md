@@ -441,6 +441,8 @@ sz czasu, ciesz się z jego sukcesów, przeżywaj z nim porażki. Gotuj z nim, c
 
 <img src="./img/wychowanie-mlodego-czlowieka/baczek-ratownik-okladka.png"><br><br>
 
+<img src="./img/wychowanie-mlodego-czlowieka/economy.jpg"><br><br>
+
 <!-- Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
 3 lata
 - zbieranie swoich zabawek
@@ -476,26 +478,26 @@ Pamiętaj, dziecko wcale nie jest zbyt małe, żeby nie robić nic w domu - przy
 <!-- 1. Nie słuchaj ataków.
 Dostrzegaj to, co się kryje za słowami.
 
-2. Powstrzymuj pokusę przejścia do ataku.
+1. Powstrzymuj pokusę przejścia do ataku.
 Zmieniaj styl rozmowy.
 
-3. Przemawiaj do najlepszych cech drugiej osoby.
+1. Przemawiaj do najlepszych cech drugiej osoby.
 
-4. Rozróżniaj potrzeby, interesy i strategie działania.
+2. Rozróżniaj potrzeby, interesy i strategie działania.
 
-5. Uświadamiaj sobie emocje.
+3. Uświadamiaj sobie emocje.
 Traktuj je jako sygnał.
 
-6. Odróżniaj akceptację od przyznania racji.
+1. Odróżniaj akceptację od przyznania racji.
 
-7. Słuchając, unikaj wtrącania własnych uwag.
+2. Słuchając, unikaj wtrącania własnych uwag.
 
-8. Odróżniaj oceny od obserwacji.
+3. Odróżniaj oceny od obserwacji.
 
-9. Sprawdzaj, czy twoje przypuszczenia są słuszne.
+4. Sprawdzaj, czy twoje przypuszczenia są słuszne.
 Odrzucaj je, jeśli okażą się błędne.
 
-10. Przejawiaj ciekawość i ufaj, że można się dogadać.
+1.  Przejawiaj ciekawość i ufaj, że można się dogadać.
 Myśl raczej o tym, co się dzieje, a nie czyja to wina, i zatrzymaj się, gdy czujesz, że pogarszasz sytuację. -->
 
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>

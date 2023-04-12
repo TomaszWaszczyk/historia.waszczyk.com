@@ -3,15 +3,25 @@ layout: post
 title: 8 kwietnia
 image: img/april/sowieci.jpg
 author: Tomasz Waszczyk
-date: 2021-04-08T10:00:00.000Z
+date: 2022-04-08T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
 
+### 2023
+
+EU buys from China 620 bn, growing like crazy, but sells to 🇨🇳 only 240 bn, flat for many years.
+
+Who would you think has more leverage?
+
+In real world, the seller would travel to the big customers and do whatever to please them.
+
+<img src="./img/april/china_export.jpeg"><br><br>
+
 ### 2022
 
-Ursula von der Leyen przekazała Zełenskiemu kwestionariusz dołączenia do Unii Europejskiej. Zaznaczyła, że będzie to droga przyśpieszona 
+Ursula von der Leyen przekazała Zełenskiemu kwestionariusz dołączenia do Unii Europejskiej. Zaznaczyła, że będzie to droga przyśpieszona
 
 <img src="./img/april/zelenskileyen.png"><br><br>
 
