@@ -25,7 +25,7 @@ draft: false
 - golarka
 - klapki
 - śpiochy
-- szczoteczka do zębów + pasta + szczena + chemia
+- szczoteczka do zębów + pasta + szczena + chemia(prysznic/kąpiel)
 - golarka
 
 ---

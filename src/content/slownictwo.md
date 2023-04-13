@@ -1637,6 +1637,12 @@ Noblesse oblige
 
 militaryzacja siły robotniczej - Leni ~1919
 
+diagonalny
+
+de-sugar
+
+po-lin - tu nocować (hebrajski)
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
