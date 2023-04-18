@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+<img src="./img/april/central_bank_bailouts.jpeg"><br><br>
+
 ### 2022
 
 WIBOR 3M/kredyty hipoteczne
