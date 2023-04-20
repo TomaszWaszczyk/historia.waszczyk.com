@@ -29,7 +29,7 @@
     "gatsby-plugin-google-analytics": "2.11.0",
     "gatsby-plugin-postcss": "2.3.13",
     "gatsby-plugin-react-helmet": "3.10.0",
-    "gatsby-plugin-sharp": "^2.1.6",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-sitemap": "^2.2.22",
     "gatsby-plugin-typescript": "2.12.1",
     "gatsby-remark-abbr": "2.0.0",
