@@ -3,11 +3,17 @@ layout: post
 title: 21 kwietnia
 image: img/april/1920-Umowa-Warszawska-7-1280x640.jpg
 author: Tomasz Waszczyk
-date: 2021-04-21T10:00:00.000Z
+date: 2022-04-21T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+Narodowy Bank Polski w 2022 roku stracił ponad 2 miliardy złotych na handlu kontraktami terminowymi na giełdowe indeksy.
+
+<img src="./img/april/nbp_handel.png"><br><br>
 
 ### 2021
 
@@ -57,6 +63,12 @@ okupantem i gestapo skierowane pod adresem... PPR. Nie przywiązujemy większej 
 Józef Stalin (zdjęcie) wysłał dwie jednobrzmiące tajne depesze do brytyjskiego premiera Winstona Churchilla i prezydenta Stanów Zjednoczonych Franklina DeLano Roosevelta, w których oskarżył generała Władysława Sikorskiego o zmowę z Adolfem Hitlerem. W tym samym piśmie Stalin zarzucił mu również prowadzenie razem z Niemcami wrogiej kampanii przeciwko Związkowi Radzieckiemu. Postawa Stalina była podyktowana faktem, że cztery dni wcześniej władze polskie złożyły w Genewie oficjalne pismo z prośbą o powołanie międzynarodowej komisji, której zadaniem miało być zbadanie szczątków żołnierzy polskich zamordowanych w Katyniu. Nieco wcześniej z taką samą prośbą wystąpiły Niemcy.
 
 <img src="./img/april/stalin.jpg"><br><br>
+
+### 1941
+
+Generalplan Ost
+
+<img src="./img/april/general_plan_ost.jpeg"><br><br>
 
 ### 1920
 

@@ -3,11 +3,20 @@ layout: post
 title: 19 kwietnia
 image: img/april/getto.jpg
 author: Tomasz Waszczyk
-date: 2021-04-19T10:00:00.000Z
+date: 2022-04-19T10:00:00.000Z
 tags:
   - Getto
 draft: false
 ---
+
+### 2023
+
+Rekordowa liczba najbogatszych Norwegów opuściła kraj w ubiegłym roku po tym, jak aktualny rząd centrolewicy podniósł podatek od bogactwa do 1,1 proc. Głównym celem „ucieczki” jest Szwajcaria, a straty budżetu państwa liczone są w setkach milionów. Kraj opuściło około pięćdziesiąt najbogatszych osób. Według lokalnej gazety „Dagens Naeringsliv” to więcej niż przez ostatnie 13 lat razem wziętych, a w nadchodzących dwunastu miesiącach może być jeszcze więcej takich przypadków.
+Wśród uciekinierów najczęściej wymienia się przede wszystkim nazwisko Kjella Inge Røkkego, potentata przemysłowego, największego udziałowca firmy inwestycyjnej Aker ASA oraz czwartego najbogatszego człowieka w Norwegii z majątkiem w wysokości 1,7 mld euro. Røkke po zeszłorocznej decyzji rządu postanowił przenieść się z ojczystego kraju do włoskojęzycznego Lugano.
+Wyprowadzka samego Røkkego może natomiast kosztować Norwegię około 15,3 mln euro rocznie. Według „Dagens Naeringsliv” w ubiegłym roku miliarder był bowiem największym płatnikiem podatków w kraju, a od 2008 r. przekazał w ten sposób do budżetu około 130 mln euro.
+W ślad za nim poszedł także m.in. Tord Ueland Kolstad, deweloper i inwestor farm z łososiami o majątku wynoszącym około 1,3 mld euro. On z kolei przeniósł się z norweskiego Bodo do szwajcarskiej Lucerny.
+Ole Gjems-Onstad, emerytowany profesor Norweskiej Szkoły Biznesu, szacuje, że łączny majątek osób, które dotychczas opuściły swój kraj, może wynosić nawet 600 mld koron, czyli ponad 52 mld euro.
+Niektórzy politycy obwiniają zamożne osoby za przeprowadzkę, ale myślę, że wielu zwykłym ludziom po prostu nie podoba się, że nasi najlepsi inwestorzy odchodzą – mówił Gjems-Onstad w rozmowie z „Dagens Naeringsliv”.
 
 ### 2022
 

@@ -3,7 +3,7 @@ layout: post
 title: 17 kwietnia
 image: img/april/konieczabawy.png
 author: Tomasz Waszczyk
-date: 2021-04-17T10:00:00.000Z
+date: 2022-04-17T10:00:00.000Z
 tags:
   - Morawiecki
 draft: false

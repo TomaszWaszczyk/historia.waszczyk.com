@@ -3,7 +3,7 @@ layout: post
 title: 15 kwietnia
 image: img/april/chinacurrency.jpeg
 author: Tomasz Waszczyk
-date: 2021-04-15T10:00:00.000Z
+date: 2022-04-15T10:00:00.000Z
 tags:
   - Central Bank Digital Currency
 ---

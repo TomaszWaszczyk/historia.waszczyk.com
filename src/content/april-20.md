@@ -3,11 +3,17 @@ layout: post
 title: 20 kwietnia
 image: img/april/fed.png
 author: Tomasz Waszczyk
-date: 2021-04-20T10:00:00.000Z
+date: 2022-04-20T10:00:00.000Z
 tags:
   - Polski Fundusz Rozwoju
 draft: false
 ---
+
+### 2023
+
+> Fit for 55: do 2050 r. remont lub rozbiórka ponad 90% polskich domów?
+
+Rada UE niedawno przyjęła zaostrzone wymogi odnośnie energochłonności budynków. Los starszych domów może rozstrzygnąć się do 2050 r. Aż 95% - 97% istniejących budynków mieszkalnych z UE czeka remont związany z realizacją pakietu „Fit for 55” oraz neutralnością klimatyczną do 2050 r.
 
 ### 2022
 
