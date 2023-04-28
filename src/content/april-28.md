@@ -13,7 +13,7 @@ draft: false
 
 Remembering Katyn. The final entry of a Polish officer’s diary before Soviet execution: “They asked me for my wedding ring, which I…”
 
-During these Days of Remembrance, established by United States Congress, American citizens have the opportunity to remember the atrocities systematically employed by Nazi Germany in their attempt to establish their supposed ethnically pure empire.
+During these Days of Remembrance, established by United States Congress, American citizens have the opportunity to remember the atrocities systematically employed by Germany in their attempt to establish their supposed ethnically pure empire.
 
 I also find it necessary to remember a specific and often overlooked chapter of the same time period when the Soviet Union was enacting a similarly horrific campaign to rid its country of national groups. After the betrayal of Poland by both Germany and the Soviet Union, the Germans began to purge the conquered state of the racially impure while the Soviets began to purge their conquered territory of the educated Polish class. The Polish had always been the boogeyman which justified the Great Terror in which more than 600,000 ethnic Ukrainians, Belarusians, Kazakhs, Poles, Latvians, Lithuanians, Estonians, and Georgians were executed by gunfire.
 
@@ -21,7 +21,7 @@ Once the Soviets had actually conquered Poland, almost the entire Officer corps 
 
 The Katyn Massacre was carried out from April-May 1940. One Soviet officer personally executed more than 700 Polish officers. Most Poles did not know they were to be executed until the last moment when they were individually led into a dark room or to the pits.
 
-The massacre was a rumor until Nazi Germany invaded the Soviet Union and used the pits as propaganda. However, Nazi Germany also played a hand in exterminating millions of poles, albeit along racial lines.
+The massacre was a rumor until Germany invaded the Soviet Union and used the pits as propaganda. However, Germany also played a hand in exterminating millions of poles, albeit along racial lines.
 
 The survival of Polish culture and the nation today is a testament to their strong national identity and resilience.
 
