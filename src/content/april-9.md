@@ -34,6 +34,8 @@ Książę Filip nie żyje
 
 ### 2020
 
+<img src="./img/april/ktora.jpeg"><br><br>
+
 #### USA
 
 <img src="./img/april/bezrobocie2.jpg"/><br><br>
@@ -67,6 +69,10 @@ Ministerstwo Rozwoju pracuje nad projektem krajowej karty płatniczej. Wiceminis
 #### Scam
 
 <img src="./img/april/scam.png"/><br><br>
+
+### 1954
+
+<img src="./img/april/krym_do_ukrainy_od_rosji.jpg"><br><br>
 
 ### 1945
 

@@ -3,7 +3,7 @@ layout: post
 title: 26 kwietnia
 image: img/april/bismark.jpg
 author: Tomasz Waszczyk
-date: 2021-04-26T10:00:00.000Z
+date: 2022-04-26T10:00:00.000Z
 tags:
   - Polska
 draft: false
@@ -14,6 +14,12 @@ draft: false
 Short EU, long this:
 
 <img src="./img/april/longshort.jpeg"><br><br>
+
+---
+
+<img src="./img/april/porozumienie_paryskie.jpg"><br><br>
+
+---
 
 ### 2021
 

@@ -128,6 +128,13 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 Your browser does not support the video tag.
 </video>
 
+<video width="640" height="480" controls>
+<source src="./movies/wychowanie-mlodego-czlowieka/zabic_ciekawosc.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+* https://wakelet.com/@Laboratoria_Przyszlosci
+
 * https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w
 
 * https://strefa-kostek.pl/ukladanki-logiczne-metalowe-222

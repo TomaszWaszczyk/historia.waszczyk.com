@@ -1649,6 +1649,10 @@ reward path
 
 happy path
 
+de novo
+
+polrealizm - słowo wymyślone przez Józefa Mackiewicza oznaczające oderwane myślenie od rzeczywistości polaków
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

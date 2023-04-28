@@ -3,7 +3,7 @@ layout: post
 title: 23 kwietnia
 image: img/april/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2021-04-23T10:00:00.000Z
+date: 2022-04-23T10:00:00.000Z
 tags:
   - UBI
 ---
@@ -27,6 +27,12 @@ https://en.wikipedia.org/wiki/East_Asian_rainy_season
 The fallout also has hindered the ability of small business owners to meet the conditions of the federal Payment Protection Plan loans, which may be forgiven if the money is used to maintain employee payrolls.
 
 For someone making roughly $55,000 a year in their job, they would make the same amount collecting unemployment benefits for the next nine months. For someone who was paid less than that in their job, their income from unemployment benefits could far exceed what they were paid to work."
+
+---
+
+<img src="./img/april/szczepimysie.webp"><br><br>
+
+---
 
 ### 1990
 

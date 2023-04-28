@@ -3,10 +3,26 @@ layout: post
 title: 25 kwietnia
 image: img/april/battery1.jpeg
 author: Tomasz Waszczyk
-date: 2021-04-25T10:00:00.000Z
+date: 2022-04-25T10:00:00.000Z
 tags:
   - Cryptocurrency systems
 draft: false
+---
+
+### 2023
+
+<img src="./img/april/US_Federal_Debt_Held_By_Public_as_of_Sep._2020.png"><br><br>
+
+Default = Higher and higher inflation rate is coming.
+
+---
+
+<img src="./img/april/game_of_life.jpeg"><br><br>
+
+---
+
+<img src="./img/april/boe_qe.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -58,6 +74,10 @@ Nie zapominajmy że przygotowania do tej swiatowej hucpy trwaly dziesiatki lat, 
 <img src="./img/april/battery2.jpeg"><br><br>
 
 More: https://patents.google.com/patent/WO2020060606A1/
+
+### 2015
+
+<img src="./img/april/euro.jpg"><br><br>
 
 ### 1974
 

@@ -3,11 +3,17 @@ layout: post
 title: 27 kwietnia
 image: img/april/sojusz.jpg
 author: Tomasz Waszczyk
-date: 2021-04-27T10:00:00.000Z
+date: 2022-04-27T10:00:00.000Z
 tags:
   - Oświęcim
 draft: false
 ---
+
+### 2023
+
+<img src="./img/april/metaverse.jpg"><br><br>
+
+<img src="./img/april/metaverse_2.jpg"><br><br>
 
 ### 2022
 

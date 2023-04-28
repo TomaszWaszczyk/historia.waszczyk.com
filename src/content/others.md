@@ -270,6 +270,7 @@ Negatywne emocje: ZŁOŚĆ, ŻAL, ZAZDROŚĆ skutecznie niszczą nawet dobrze od
 * cynk
 * rośliny z ciemną skórką (jagody, aronia, jeżyny, borówka amerykańska)
 * sauna
+* kurkuma
 
 ### Zioła
 
@@ -284,6 +285,12 @@ Sylwester Kaliski
 Marian Pękalski - http://www.rytm-wydawnictwo.pl/nowosci/klamstwo-i-podstep-we-wspolczesnym-swiecie_p_1894.html
 
 Leszek Chróst
+
+### Pisanie, jak pisać
+
+wstęp, rozwinięcie, zakończenie
+
+logiczne połączenie akapitów
 
 <!-- 10 sposobów manipulacji
 W toku swoich analiz Noam Chomsky opracował 10 strategii manipulacji, które stosują media w omamianiu społeczeństwa.

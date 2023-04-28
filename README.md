@@ -4,6 +4,8 @@ https://web96.pl
 
 https://battlemachines.org
 
+https://www.thefrenchhistorypodcast.com/
+
 https://www.tracesofwar.com
 
 https://www.warhistoryonline.com/
@@ -13,6 +15,8 @@ https://galiciajewishmuseum.org/en/wystawy/helena-rubinstein-first-lady-of-beaut
 lend lease
 
 Prof Grala
+
+Józef Mackiewicz - życiorys dla dorosłych a nie naiwnych
 
 https://www.warhistoryonline.com/war-articles/the-final-countdown-movie-navy-recruitment.html
 
