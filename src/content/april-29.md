@@ -3,17 +3,29 @@ layout: post
 title: 29 kwietnia
 image: img/april/lebanon.png
 author: Tomasz Waszczyk
-date: 2021-04-29T10:00:00.000Z
+date: 2022-04-29T10:00:00.000Z
 tags:
   - Banks
 draft: false
 ---
+
+### 2050
+
+<img src="./img/april/global_economy_2050.jpg"><br><br>
+
+### 2023
+
+<img src="./img/april/art_in_inflation.jpg"><br><br>
 
 ### 2020 - Bankowcy rozmawiają o powołaniu spółki skupującej złe kredyty, gdy kryzys nabierze ostrości. KNF wspiera inicjatywę, ale prywatną
 
 Bankowcy rozmawiają o powołaniu spółki skupującej złe kredyty, gdy kryzys nabierze ostrości. KNF wspiera inicjatywę, ale prywatną, powstanie "bad bank".
 
 Prywatyzacja zysków, nacjonalizacja strat, kiedy bank zarabia to są to jego zarobki. Kiedy bank traci, to są to wasze straty. Czego tutaj nie rozumiecie?
+
+---
+
+<img src="./img/april/china_trading_partner.jpg"><br><br>
 
 ---
 
@@ -43,6 +55,10 @@ Miały być nowe elity? To proszę jak można temacik ogarnąć. Polityka to jed
 ### 2019
 
 <img src="./img/april/ethereumelon.jpeg"><br><br>
+
+### 1975
+
+<img src="./img/april/des.jpg"><br><br>
 
 ### 1942
 

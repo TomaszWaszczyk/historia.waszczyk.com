@@ -263,6 +263,16 @@ Negatywne emocje: ZŁOŚĆ, ŻAL, ZAZDROŚĆ skutecznie niszczą nawet dobrze od
 Że GLIFOSAT (Roundup) to większe świństwo niż DDT. Oni nie wiedzą co to jest glifosat...
 Że uziemianie i KONTAKT Z NATURĄ zmniejszają stany zapalne oraz poziom glukozy, znów bezpośrednio powiązane z odpornością.
 
+---
+
+Kolejność jedzenia:
+
+1. warzywa
+2. tłuszcze/mięso/białko
+3. węglowodany po ~10minutach (ostatnie)
+
+---
+
 <!-- glifosat -->
 
 #### Co jeść żeby unikać przeziebień

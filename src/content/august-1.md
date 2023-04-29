@@ -164,6 +164,14 @@ W czasie wojny polsko-bolszewickiej rozpoczęły się trwające tydzień walki n
 
 <img src="./img/august/bolszewicy.jpg"><br><br>
 
+### 1793
+
+<img src="./img/august/armia_francuska.jpg"><br><br>
+
+> ...chodzi o to, by stworzyć warunki do tego, by francuska armia dokonała eksterminacji wszystkich mieszkańcow i unicestwienia ich dóbr... - na rozkaz Robespierre, Carnot, Barere (masowe morderstwo w Wandei)
+
+Rewolucja Francuska, to właśnie nowy człowiek bez Boga. Rewolucja Radziecka, to nowy człowiek bez klas, również bez Boga.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/august-1.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

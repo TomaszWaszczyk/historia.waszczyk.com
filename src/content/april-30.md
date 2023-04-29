@@ -3,7 +3,7 @@ layout: post
 title: 30 kwietnia
 image: img/april/poalej.jpg
 author: Tomasz Waszczyk
-date: 2021-04-30T10:00:00.000Z
+date: 2022-04-30T10:00:00.000Z
 tags:
   - "Proletariusze"
 draft: false

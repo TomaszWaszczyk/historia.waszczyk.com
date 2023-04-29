@@ -62,6 +62,28 @@ https://de.wikipedia.org/wiki/Erster_Mai
 
 https://en.wikipedia.org/wiki/Centesimus_annus
 
+### 1987
+
+<img src="./img/may/minix.jpg"><br><br>
+
+<img src="./img/may/unix_7.jpg"><br><br>
+
+<img src="./img/may/unix_commentary.jpg"><br><br>
+
+<img src="./img/may/unix.jpg"><br><br>
+
+<img src="./img/may/commentary_unix.jpg"><br><br>
+
+<img src="./img/may/dontunderstand.jpg"><br><br>
+
+<img src="./img/may/lions_2.jpg"><br><br>
+
+<img src="./img/may/lions.jpg"><br><br>
+
+<img src="./img/may/losethos.jpg"><br><br>
+
+<img src="./img/may/losthos.jpg"><br><br>
+
 ### 1982
 
 Na warszawskim Starym Mieście miała miejsce wielotysięczna demonstracja zorganizowana przez Niezależny Samorządny Związek Zawodowy Solidarność. Kolejna tego typu demonstracja odbyła się dwa dni później.
