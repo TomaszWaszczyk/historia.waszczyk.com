@@ -48,6 +48,8 @@ Learn a skill you can barter with.
 
 Wojna już się skończyła i nie potrzebujemy was, spełniliście swoją powinność. - Winston Churchill do Andersa po wojnie
 
+szukam, pytam, błądzę
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

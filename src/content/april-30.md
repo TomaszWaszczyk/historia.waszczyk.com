@@ -9,6 +9,23 @@ tags:
 draft: false
 ---
 
+### 2023
+
+> Gierek zaczął jako pierwszy wprowadzenie do Polski 'orwellowskie dwójmyślenie' - Jerzy Eisler
+
+---
+
+<img src="./img/april/fed.jpeg"><br><br>
+
+..next pandemy is a must..
+
+<video width="640" height="480" controls>
+<source src="./movies/april/wall_street.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 Buffett: „rynki finansowe w ostatnich dwóch latach w nadzwyczajny sposób przypominają kasyno, napędzane przez Wall Street”

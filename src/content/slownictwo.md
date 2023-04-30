@@ -1653,6 +1653,24 @@ de novo
 
 polrealizm - słowo wymyślone przez Józefa Mackiewicza oznaczające oderwane myślenie od rzeczywistości polaków
 
+sojusz rubla z dolarem
+
+muscle memory
+
+wypaść z zawiasów
+
+fantasy island
+
+komunał
+
+monetary premium
+
+zimny realista
+
+najweselszy barak w obozie
+
+prawdy popularne
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

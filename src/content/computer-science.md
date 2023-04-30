@@ -108,7 +108,7 @@ Taylor Gerring
 ---
 
 ### Cryptography
-
+<!-- crypto wars -->
 <img src="./img/others/crypto/cryptographers.jpg"><br><br>
 
 DO you know SGX is bad?

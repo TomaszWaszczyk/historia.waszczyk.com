@@ -12,6 +12,8 @@ https://www.warhistoryonline.com/
 
 https://galiciajewishmuseum.org/en/wystawy/helena-rubinstein-first-lady-of-beauty/
 
+Herman Weil / Felix Weil
+
 lend lease
 
 Prof Grala

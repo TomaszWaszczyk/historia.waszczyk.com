@@ -84,6 +84,8 @@ https://en.wikipedia.org/wiki/Centesimus_annus
 
 <img src="./img/may/losthos.jpg"><br><br>
 
+<img src="./img/may/unix_linux.jpg"><br><br>
+
 ### 1982
 
 Na warszawskim Starym Mieście miała miejsce wielotysięczna demonstracja zorganizowana przez Niezależny Samorządny Związek Zawodowy Solidarność. Kolejna tego typu demonstracja odbyła się dwa dni później.
