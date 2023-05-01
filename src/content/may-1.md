@@ -3,10 +3,14 @@ layout: post
 title: 1 maja
 image: img/may/1maja.jpg
 author: Tomasz Waszczyk
-date: 2021-05-01T10:00:00.000Z
+date: 2022-05-01T10:00:00.000Z
 tags:
   - Goebells
 ---
+
+### 2023
+
+<img src="./img/may/credit.jpg"><br><br>
 
 ### 2021
 
@@ -17,6 +21,8 @@ Trwa akcja #wyszczepsie
 <img src="./img/april/kolejkadoszczepieniaslask.jpg"><br><br>
 
 <img src="./img/may/zaszczepnsiewmajowke.jpg"><br><br>
+
+<img src="./img/may/zaszczepsie.jpg"><br><br>
 
 Szczepienia jednak nie odbyły się na Śląsku, ludzie czekali sobie i jednak nie wyszczepili się - widocznie nie mają co robić z czasem/sobą.
 

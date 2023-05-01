@@ -52,6 +52,8 @@ Igor Pali
 
 Rafał Olbiński
 
+<img src="./img/art/The_Jealous_Husband_1847.png"><br><br>
+
 ---
 
 ### The Cantillon Effect at the time of the King of France Louis XV
