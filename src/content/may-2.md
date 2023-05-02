@@ -3,11 +3,20 @@ layout: post
 title: 2 maja
 image: img/may/polskawniemczech.jpg
 author: Tomasz Waszczyk
-date: 2021-05-02T10:00:00.000Z
+date: 2022-05-02T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+> The biggest financial terrorist in the world is the US dollar
+
+<video width="640" height="480" controls>
+<source src="./movies/may/us_dollar.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 
