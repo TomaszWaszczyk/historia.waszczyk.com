@@ -18,6 +18,18 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+---
+
+First Republic Bank pozamiatany w trakcie weekendu, ale w nowym tygodniu mamy nowe ofiary na celowniku w amerykańskim sektorze bankowym: Pacific Western i Western Alliance (wycena obu dziś ponad 20% w dół). Znowu turbulencje, więc trzeba zapiąć pasy, ale wielkiej katastrofy nie będzie.
+
+FOMC będzie domykać cykl podwyżek stóp procentowych Fed. Przemawiają za tym nie tylko obawy o stabilność systemu finansowego, ale również oznaki pogorszenia sytuacji na rynku pracy (np. dzisiejsze wyniki ankiety JOLTs), co będzie ograniczać fundamentalną presję inflacyjną.
+
+<img src="./img/may/pacw_us.jpeg"><br><br>
+
+<img src="./img/may/wal_us.jpeg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/may/glupiababa.png"><br><br>

@@ -3,11 +3,18 @@ layout: post
 title: 3 maja
 image: img/may/konstytucja.jpg
 author: Tomasz Waszczyk
-date: 2021-05-03T10:00:00.000Z
+date: 2022-05-03T10:00:00.000Z
 tags:
   - Warren Buffett
 draft: false
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/may/3miliardy_dolarow_ukrainie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 
@@ -17,7 +24,7 @@ W 1981 r. KGB próbowało zabić papieża, bo był niebezpieczny dla sowieckiego
 
 ---
 
-🇪🇺🇷🇺 
+🇪🇺🇷🇺
 
 There is no "russia side" vs "euro side". 💣this war is SUPRA-NATIONAL ELITES vs the rest.
 
