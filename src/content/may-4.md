@@ -3,10 +3,52 @@ layout: post
 title: 4 maja
 image: img/may/chomsky.jpg
 author: Tomasz Waszczyk
-date: 2021-05-04T10:00:00.000Z
+date: 2022-05-04T10:00:00.000Z
 tags:
   - Hans Frank
 draft: false
+---
+
+### 2023
+
+> The lender of last resort
+
+<img src="./img/may/last_resort.jpg"><br><br>
+
+Source: https://fredblog.stlouisfed.org/2023/04/the-lender-of-last-resort/
+
+We witnessing a controlled demotion of the US banking system. The US Central Bank is governed by very smart folks. They knew perfectly well that raising interest rates would make banks insolvent. They still did it to reach their proclaimed goal: "decrease inflation".
+
+And that truly was one of their goals. But I am sure they had more goals. They know very well that the financial system is bankrupt.
+
+And they have 3 options:
+
+1. Maintain a consistently high inflationary monetary policy to decrease debts.
+
+2. Introduce Central Bank Digital Currencies so they can implement monetary policy on an individual level (communism 2.0).
+
+3. Another option that I don't see but maybe you can help me see in the comments :)?
+
+A major crash/recession unfortunately seems inevitable. And every crisis is a perfect opportunity to introduce more control and limiting of freedoms. Like what we have seen in the crises in:
+
+- 1907 - banking crisis in USA which led to the nationalization of USD
+- 1914 - WW1 and brrr* to finance their war
+- 1933 - USA confiscated its citizens' gold (essential brrr* )
+- 1971 - USD currency crisis -> USD no more backed by gold (brrr* again)
+- 2001 - Patriot act and brrr* to finance the war and kill the terrorists
+- 2008 - Recession and brrr* to save the banks
+- 2020 - Lock-downs and brrr* to save the economy (probably next pandemy/cyber attack)
+- 2023/4/5 brrrrrrrr
+
+---
+
+Dorosły człowiek w Polsce:
+
+```
+– A nie miał pan obaw dać obcemu człowiekowi 800 tys.?
+– Mieliśmy umowę, w której wszystko było zapisane, ile wpłacam, i że dostanę zwrot kapitału i zyski. Uważałem, że skoro w zarządzie spółki jest Doda, to spółka nie może mieć znamion przestępczości.
+```
+
 ---
 
 ### 2022
