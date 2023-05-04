@@ -40,6 +40,8 @@ A major crash/recession unfortunately seems inevitable. And every crisis is a pe
 - 2020 - Lock-downs and brrr* to save the economy (probably next pandemy/cyber attack)
 - 2023/4/5 brrrrrrrr
 
+<img src="./img/may/deposits.jpeg"><br><br>
+
 ---
 
 Dorosły człowiek w Polsce:
