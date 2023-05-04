@@ -3892,6 +3892,8 @@ w czasie wojny, prawda jest tak cenna, że musi jej towarzyszyć ochroniarz kła
 
 <img src="./img/others/powiedzenia/ayn_rand.jpg"><br><br>
 
+<a href="https://historia.waszczyk.com/powiedzenia-bis" target="_blank">Powiedzenia - następna część</a>
+
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
 
 <!-- “The longer I live, the more I realize the impact of attitude on life.
