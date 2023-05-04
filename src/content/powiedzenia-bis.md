@@ -50,6 +50,8 @@ Wojna już się skończyła i nie potrzebujemy was, spełniliście swoją powinn
 
 szukam, pytam, błądzę
 
+wyższy level wiąże knebel
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

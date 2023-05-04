@@ -25,9 +25,9 @@ And they have 3 options:
 
 1. Maintain a consistently high inflationary monetary policy to decrease debts.
 
-2. Introduce Central Bank Digital Currencies so they can implement monetary policy on an individual level (communism 2.0).
+2. Introduce digital currencies so they can implement monetary policy on an individual level.
 
-3. Another option that I don't see but maybe you can help me see in the comments :)?
+3. Another option (?)
 
 A major crash/recession unfortunately seems inevitable. And every crisis is a perfect opportunity to introduce more control and limiting of freedoms. Like what we have seen in the crises in:
 
