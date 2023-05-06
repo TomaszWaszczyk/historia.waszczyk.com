@@ -3,10 +3,25 @@ layout: post
 title: 5 maja
 image: img/may/beck.jpg
 author: Tomasz Waszczyk
-date: 2021-05-05T10:00:00.000Z
+date: 2022-05-05T10:00:00.000Z
 tags:
   - Beck
 draft: false
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/may/banks_trust.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/may/cds_usa.jpeg"><br><br>
+
+---
+
+<img src="./img/may/relacje_rosji.jpeg"><br><br>
+
 ---
 
 ### 2022
@@ -42,6 +57,10 @@ Sondaże
 ---
 
 <img src="./img/may/zimna-wojna.jpg"><br><br>
+
+---
+
+<img src="./img/may/wakcynolog.png"><br><br>
 
 ---
 

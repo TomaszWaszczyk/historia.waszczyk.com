@@ -13,6 +13,12 @@ draft: false
 
 > Moskwa komentuje wydalenie dyplomatów. Polska "jak wasal", zapomina, że "USA są daleko, a Rosja blisko"
 
+---
+
+<img src="./img/april/wesela.jpeg"><br><br>
+
+---
+
 ### 2020
 
 > Mało zaangażowani i strachliwi lekarze. Według Jacka Sasina to przez nich są problemy w walce z pandemią
