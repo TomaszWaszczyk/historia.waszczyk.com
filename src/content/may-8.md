@@ -3,11 +3,23 @@ layout: post
 title: 8 maja
 image: img/may/fed.jpeg
 author: Tomasz Waszczyk
-date: 2021-05-08T10:00:00.000Z
+date: 2022-05-08T10:00:00.000Z
 tags:
   - TVP
 draft: false
 ---
+
+### 2023
+
+It looks like the US banking crisis is NOT over. Dozens of regional bank stocks are plunging, as the bank crisis continues to gain momentum.
+
+Is it just the beginnings.
+
+A month ago, Jay Powell and Treasury Secretary Janet Yellen said risks were limited to the banks under question (SVB, Signature, Silverbank), i.e, risks were idiosyncratic and not structural.
+
+With the failure of First Republic, it is getting clearer that this is becoming something more structural. One year after the start of the fastest rate hike since the 80s, credit accidents are becoming "a feature not a bug" of the current system. the weakest links of the economy (regional banks, commercial banks, etc.) are throwing the towel one by one. The relative complacency of the #equity market (VIX way below 20) might not last.
+
+<img src="./img/may/bank_rates.jpeg"><br><br>
 
 ### 2022
 
