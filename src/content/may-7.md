@@ -3,10 +3,32 @@ layout: post
 title: 7 maja
 image: img/may/bolszewicy.jpg
 author: Tomasz Waszczyk
-date: 2021-05-07T10:00:00.000Z
+date: 2022-05-07T10:00:00.000Z
 tags:
   - Bolszewicy
 draft: false
+---
+
+### 2023
+
+The global pandemic housing bubble has shown signs of a correction since 2022 as U.S. (and global) monetary policy moved to aggressively tighten to fight inflation.
+
+Check out the latest release of the Federal Reserve Bank of Dallas's International House Price Database here: https://www.dallasfed.org/research/international/houseprice
+
+<img src="./img/may/houses_fed.jpeg"><br><br>
+
+---
+
+<img src="./img/may/crossborder-capitals-global-liquidity-indexes-gli.jpg"><br><br>
+
+---
+
+No yield.
+
+<img src="./img/may/corporate_spreads.jpeg"><br><br>
+
+Corporate bonds yield less than the Fed Funds rate today.
+
 ---
 
 ### 2021

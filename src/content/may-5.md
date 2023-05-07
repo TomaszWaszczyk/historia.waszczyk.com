@@ -26,7 +26,14 @@ Your browser does not support the video tag.
 
 ### 2022
 
-Devalued dollar. Both parents at work. Stressed out. Bills up. Stocks down. Divorced. Unemployed. Death.
+- Devalued dollar.
+- Both parents at work.
+- Stressed out.
+- Bills up.
+- Stocks down.
+- Divorced.
+- Unemployed.
+- Death.
 
 ---
 

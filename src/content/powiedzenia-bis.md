@@ -52,6 +52,8 @@ szukam, pytam, błądzę
 
 wyższy level wiąże knebel
 
+artysta płodny, artysta głodny
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
