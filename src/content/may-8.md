@@ -21,6 +21,11 @@ With the failure of First Republic, it is getting clearer that this is becoming 
 
 <img src="./img/may/bank_rates.jpeg"><br><br>
 
+<!-- <video width="640" height="480" controls>
+<source src="./movies/may/gandalf.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
+
 ### 2022
 
 Nigeria będzie pierwszym krajem, który w poniedziałek wstrzyma połączenia lotnicze - poinformowała w sobotę agencja Bloomberg.

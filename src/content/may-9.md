@@ -3,10 +3,26 @@ layout: post
 title: 9 maja
 image: img/may/targowica.jpg
 author: Tomasz Waszczyk
-date: 2021-05-09T10:00:00.000Z
+date: 2022-05-09T10:00:00.000Z
 tags:
   - Narodowy Bank Polski
 draft: false
+---
+
+### 2023
+
+> Arabia Saudyjska, Zjednoczone Emiraty Arabskie, Algieria, Egipt, Bahrajn i Iran formalnie poprosiły o dołączenie do grupy krajów BRICS, która przygotowuje się do corocznego szczytu w Afryce Południowej.
+
+<img src="./img/may/unia.jpeg"><br><br>
+
+---
+
+Kolonizacja "Made by China".
+
+<img src="./img/may/kolonizacja.jpg"><br><br>
+
+<img src="./img/may/rybarski.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -14,6 +30,8 @@ draft: false
 New Zealand is reaching new levels of insanity for absolutely no scientific reason AT ALL!
 
 <img src="./img/may/newzeland.jpeg"><br><br>
+
+...but for economically-based reasons for sure.
 
 ---
 
@@ -39,6 +57,15 @@ Następny powód by Rosja wniosła wyzwolenie Polsce..
 ---
 
 ### 2021
+
+> ..na granicy Stanów Zjednoczonych i Kanady, tam u góry, w Montanie, jest rezerwat indian, jest to plemie czarnych stóp..
+
+<video width="640" height="480" controls>
+<source src="./movies/may/rezerwat_czarnych_stop_2021.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 > "W czterech zakładach firmy Żywiec Zdrój SA, należącej do koncernu Danone, trwa spór zbiorowy z pracodawcą. W ubiegłym roku zwolniono część pracowników produkcji. Jednocześnie otrzymali oni propozycję zatrudnienia w Żywcu Zdrój SA poprzez agencję pracy tymczasowej, jednak na znacznie gorszych warunkach"
 
@@ -67,6 +94,8 @@ https://en.wikipedia.org/wiki/Victory_Day_(9_May)
 
 <img src="./img/may/victory.jpeg"><br><br>
 
+---
+
 ### 2013
 
 W Warszawie, w wieku 90 lat zmarł profesor doktor Krzysztof Dunin-Wąsowicz ps. "Mirski"- historyk dziejów najnowszych, autor licznych prac varsavianistycznych, dziejów okupacji, obozów koncentracyjnych, historii ruchu ludowego,PPS. Biograf Ludwika Bergera, założyciela "Baszty"
@@ -74,6 +103,21 @@ W czasie II wojny światowej był plutonowym podchorążym batalionu ,,Baszta'' 
 Odznaczony Krzyżem Komandorskim z Gwiazdą Polonia Restituta, medalem Sprawiedliwy wśród Narodów Świata.
 
 <img src="./img/may/dunin.jpg"><br><br>
+
+---
+
+### 2011
+
+<video width="640" height="480" controls>
+<source src="./movies/may/greenspan.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### 2002
+
+Władimir Putin był odprowadzany po polskich zakładach zbrojeniowych. Tu w towarzystwie http://m.in. prezesa strategicznych spółek zbrojeniowych za rządów PO-PSL.
+
+<img src="./img/may/putin.jpeg"><br><br>
 
 ### 1975
 
@@ -105,6 +149,15 @@ samoloty, śmigłowce, haubice i armaty,
 będące także na wyposażeniu Wojska
 Polskiego .
 Ciekawostką jest fakt, że to właśnie tam można zobaczyć jeden z dwóch czołgów, którymi jeździli Czterej Pancerni. Czołg ma wycięte w korpusie otwory na kamerę, ponieważ to w nim nagrywano sceny odbywające się w jego wnętrzu
+
+### 1946
+
+> Your money is not here! Well your money is in Joe’s house. That is right next to yours and in the Kennedys house and Miss Madeleine`s house and 100 others!!” - It's A Wonderful Life (1946)
+
+<video width="640" height="480" controls>
+<source src="./movies/may/wonderful.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1945
 
