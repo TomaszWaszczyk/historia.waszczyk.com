@@ -23,6 +23,10 @@ Kolonizacja "Made by China".
 
 <img src="./img/may/rybarski.jpg"><br><br>
 
+> "głębia strategiczna" Bartosiaka w praktyce:
+
+<img src="./img/may/baza_materialna.jpeg"><br><br>
+
 ---
 
 ### 2022
