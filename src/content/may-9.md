@@ -17,6 +17,13 @@ draft: false
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/may/developers.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 Kolonizacja "Made by China".
 
 <img src="./img/may/kolonizacja.jpg"><br><br>
