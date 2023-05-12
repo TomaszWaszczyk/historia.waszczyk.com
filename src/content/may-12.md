@@ -3,10 +3,18 @@ layout: post
 title: 12 maja
 image: img/may/halving.png
 author: Tomasz Waszczyk
-date: 2021-05-12T10:00:00.000Z
+date: 2022-05-12T10:00:00.000Z
 tags:
   - Bitcoin
 ---
+
+### 2023
+
+> Pod Bydgoszczą spadła rosyjska rakieta Ch-55.
+
+W Zamościu koło Bydgoszczy odnaleziono rosyjski pocisk manewrujący Ch-55 - wynika z nieoficjalnych doniesień. Miał to potwierdził Instytut Techniczny Wojsk Lotniczych, który przygotowuje ekspertyzę dla prokuratury.
+
+Rakieta spadła około sześć tygodni temu, w ostatnich dniach została znaleziona. Przypadkowo przez przechodnia.
 
 ### 2021
 

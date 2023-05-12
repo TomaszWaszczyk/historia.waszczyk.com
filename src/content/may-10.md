@@ -3,11 +3,17 @@ layout: post
 title: 10 maja
 image: img/may/miezynski.jpg
 author: Tomasz Waszczyk
-date: 2021-05-10T10:00:00.000Z
+date: 2022-05-10T10:00:00.000Z
 tags:
   - Przedsiębiorcy
 draft: false
 ---
+
+### 2023
+
+> Premier Mateusz Morawiecki gościł w środę na poznańskim Kongresie Impact'23. Choć w swoim wystąpieniu głównie mówił o sytuacji Polski na arenie międzynarodowej, to skomentował także sytuację gospodarczą Polski, co wywołało gromki śmiech na sali.
+
+Szef polskiego rządu w rozmowie z Martinem Sandbu z "Financial Times" mówił, jak widzi rolę Polski w tym zmieniającym się świecie, ale skomentował także sytuację gospodarczą, chwaląc się m.in. tym, że "rząd walczy z rajami podatkowymi", a dług publiczny spada w odniesieniu do PKB. Dziennikarz jednak zauważał, że w tym na pewno pomogła wysoka inflacja. Na sali wybuchł śmiech, publiczność zaczęła bić brawo.
 
 ### 2022
 
