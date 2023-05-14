@@ -12,6 +12,8 @@ https://www.warhistoryonline.com/
 
 https://galiciajewishmuseum.org/en/wystawy/helena-rubinstein-first-lady-of-beauty/
 
+https://www.iwm.org.uk/history/operation-barbarossa-and-germanys-failure-in-the-soviet-union
+
 Herman Weil / Felix Weil
 
 lend lease

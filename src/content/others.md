@@ -14,7 +14,7 @@ draft: false
 
 0. <a href="https://historia.waszczyk.com/wychowanie-mlodego-czlowieka" target="_blank">Wychowanie młodego człowieka</a>
 
-1. <a href="https://historia.waszczyk.com/maps" target="_blank">Mapy</a>
+1. <a href="https://historia.waszczyk.com/ogrodnictwo" target="_blank">Ogrodnictwo</a>
 
 2. <a href="https://historia.waszczyk.com/economy" target="_blank">Ekonomia</a>
 

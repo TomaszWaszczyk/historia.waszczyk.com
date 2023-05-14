@@ -8,6 +8,28 @@ tags:
   - Kraków
 ---
 
+### 2023
+
+In der Bundesregierung geht ein wenig die Angst um, dass in den kommenden Jahren die Steuereinnahmen unterhalb des erwarteten Pfades bleiben könnten.
+
+Grundsätzlich wäre das eine schlechte Nachricht. Aber nur grundsätzlich. Denn das Problem lässt sich ganz leicht mit einer höheren Verschuldung in den Griff bekommen. Sie werden jetzt vielleicht denken: Was ist denn mit dem Jasperneite los😳?
+
+Ein Plädoyer für höhere Schulden von einem Volkswirt, der sonst immer ordnungspolitische Grundsätze wie eine Monstranz vor sich her trägt? Ja genau, das schlage ich vor: Die Verschuldung einfach mal deutlich steigen lassen.
+
+Der Grund für die unorthodoxe Sichtweise ist einfach und ökonomisch nahezu zwingend. Die Regeln für den EU-Stabilitätspakt werden in naher Zukunft mit recht hoher Wahrscheinlichkeit so geändert werden, dass jedes Land - ganz egal was es macht - die Regeln einhalten kann, denn so werden die Regeln konstruiert. Das mag man als Realsatire empfinden, aber darauf läuft es hinaus. Im Ergebnis wird die Heterogenität in der Bonität der Staaten Europas deutlich steigen. Dies wiederum führt zu steigenden Spreads. Politisch ist das nicht gewollt und in einer Währungsunion auch nicht ideal. Die einzige Lösung besteht dann in einer Vergemeinschaftung der Schulden. Ich denke das wird in den nächsten fünf Jahren passieren - fast so sicher wie das Amen in der Kirche.
+
+Und nun wird es spannend. Denn in einem solchen Fall verlieren Deutschland und alle anderen Länder ihre fiskalische Souveränität. In dem Fall profitiert man nicht mehr von einer soliden Haushaltspolitik, sondern man leidet darunter. Denn die Haushaltsdisziplin führt in dieser Konstellation zu einer relativen Aufgabe von Wohlstand, während der unbestreitbare Vorteil der soliden Haushaltspolitik als positiver externer Effekt bei allen anderen Ländern anfällt. Dieser Effekt wird auch nicht internalisiert. Daher ist es einfach nicht logisch, durch eigene Sparmaßnahmen in einer Schuldenunion das Verschuldungspotenzial für andere zu erhöhen.
+
+Das klingt nach einer provokanten und recht abgebrühten Argumentation, aber ich kann es ja auch nicht ändern: Es ist wie es ist. Also liebe Bundesregierung (und vor allem liebe FDP): Macht Euch nicht zu viele Sorgen um die Verschuldung. Deutschland hat 1000 Probleme. Die Verschuldung ist vielleicht das kleinste Problem von allen.
+
+<img src="./img/may/steuer.jpeg"><br><br>
+
+---
+
+<img src="./img/may/nbp.jpeg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/may/ft.png"><br><br>
@@ -104,6 +126,12 @@ rozbiły partię powstańczą. Po trzygodzinnej walce Polacy stracili 13 ludzi o
 
 <img src="./img/may/powstancystyczniowi.jpg"><br><br>
 
+### 1675
+
+Leibniz introduced the notation df/dx for the derivative and 95 years later Joseph Lagrange was the first person to use the notation f'(x) for the first derivative.
+
+<img src="./img/may/derivative.jpeg"><br><br>
+
 ### 1657
 
 W Janowie Poleskim Kozacy zamęczyli Andrzeja Bobolę – pochodzącego ze szlacheckiej rodziny jezuitę, kaznodzieję. Kozacy traktowali go jako wroga z powodu nawracania ruskiej ludności prawosławnej na katolicyzm. Zdarli z niego szaty, przywiązali do słupa i bili nahajami, zmuszając go do wyparcia się wiary. Następnie z gałązek wierzbowych upletli wieniec na wzór korony cierniowej Chrystusa i zaciskali mu ją na głowie. Kapłana zawleczono do rzeźni miejskiej, rozłożono na stole i poddano dwugodzinnym torturom. Powieszony twarzą do dołu otrzymał śmiertelne uderzenie szablą w głowę.
@@ -111,6 +139,12 @@ W 1853 roku miała miejsce beatyfikacja Andrzeja Boboli.
 Ostatecznie Andrzej Bobola został kanonizowany przez papieża Piusa XI w dniu 17 kwietnia 1938 roku. Andrzej Bobola jest uważany za patrona Polski.
 
 <img src="./img/may/bobola.jpg"><br><br>
+
+### 14
+
+Per capita income in the provinces of the roman empire, 14 n.e.
+
+<img src="./img/may/rome.jpg"><br><br>
 
 ---
 
