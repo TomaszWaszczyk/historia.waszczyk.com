@@ -3,11 +3,23 @@ layout: post
 title: 15 maja
 image: img/may/majowy.jpg
 author: Tomasz Waszczyk
-date: 2021-05-15T10:00:00.000Z
+date: 2022-05-15T10:00:00.000Z
 tags:
   - Przewrót majowy
 draft: false
 ---
+
+### 2023
+
+<img src="./img/may/banks.jpeg"><br><br>
+
+---
+
+Quite the interesting disclosure here that; "At third quarter end, 722 banks reported unrealized losses exceeding 50% of capital 31 of these banks report negative tangible equity levels"
+
+This is all due to interest rate hikes and underwater bonds that, if needed to be sold today would be worth less than at maturity. So as long as the game of musical chairs continues, "the banking system being “sound and resilient"."
+
+<a href="./documents/may/board-briefing-on-impact-of-rising-interest-rates-and-supervisory-approach-20230214" target="_blank">FED Report</a>
 
 ### 2022
 
@@ -41,6 +53,10 @@ Worst auto sales since 1983, in the depth of the early 1980's recession.
 <img src="./img/may/cars.jpeg"><br><br>
 
 <img src="./img/may/nuklearny.jpg"><br><br>
+
+### 1993
+
+<img src="./img/may/optimus.jpeg"><br><br>
 
 ### 1983
 

@@ -125,6 +125,8 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * https://www.kursy-zalewski.info/decyduj-i-walcz/
 
+* Bliżej Lasu. Opowiadania przyrodnicze dla dzieci, które ciągle pytają "dlaczego?
+
 <video width="640" height="480" controls>
   <source src="./movies/wychowanie-mlodego-czlowieka/wujek-sknerus.mp4" type="video/mp4">
 Your browser does not support the video tag.

@@ -16,6 +16,8 @@ draft: false
 
 Tamara de Lempicka
 
+https://en.wikipedia.org/wiki/Wu_Wei_%28painter%29
+
 ---
 
 ![Wartownik 1 Odeskiego Batalionu Żydowskiego (Odessa, 1918). Mal. R. Pirgacz](./img/art/odessa.jpg)

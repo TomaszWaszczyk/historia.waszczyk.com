@@ -3,10 +3,48 @@ layout: post
 title: 14 maja
 image: img/may/1rozbior.jpg
 author: Tomasz Waszczyk
-date: 2021-05-14T10:00:00.000Z
+date: 2022-05-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2023
+
+The next Ethereum fork - Cancun. It is the first fork to pave the road toward sharding. There are many novelties proposed, so let's delve into the expected awesomeness.
+
+First of all, the changes in this fork are not yet finalized and the inclusion of certain EIPs is still being discussed. Nevertheless, I can tell you what is decided for sure to build a solid ground for your further research.
+
+- The biggest of all upgrades included is EIP-4844
+
+EIP-4844 is a proposal that opens the gates for the future Ethereum data sharding. The proposal introduces a new type of transaction, blob transaction, that is used to anchor L2 rollups data. Blob transactions consist of 2 parts: a signed blob and a network wrapper. Signed blobs are regular transactions with an additional field, blob_versioned_hashes, that represents the hashes of KZG polynomial commitments to rollups data that are stored in blobs in a network wrapper. These hashes can be read by EVM via a new opcode DATAHASH (0x49), while the actual rollup data is inaccessible, as it is validated and stored in the consensus client alone.
+
+In addition, the proposal presents a separate gas auction for blobs, which does not interfere with a conventional calldata gas auction. This enables much lower gas prices for rollups to be sent as blobs, not calldata, as they are sent right now.
+
+In order to verify rollups, smart contracts will use a new cryptographic precompile (address(0x14)) that is designed to attest KZG proofs. Given points A and B, a KZG commitment, and a KZG proof, the precompile verifies that Polynomial(A) == B. This mechanism is similar to Merkle proofs, but much more powerful. It can be used to ensure that certain pieces of rollup blob data exist, without disclosing anything else. Point A will be equal to the index of the rollup data element and B to its actual bytes32 value.
+
+- Another great upgrade is EIP-1153
+
+The EIP introduces a new EVM data location - transient storage. Transient storage works like regular storage, however, it is erased after the transaction execution. It can be accessed via 2 new opcodes TSTORE (0xb4) and TLOAD (0xb3) which both cost 100 gas. Transient storage is a long-awaited feature because it enables many amazing use cases to be implemented. For example, ultra-cheap reentrancy guards and single transaction ERC20 approvals.
+
+- SELFDESTRUCT behavior changes in EIP-6780
+
+SELFDESTRUCT opcode remains deprecated and its functionality gets reduced. If the contract destruction occurs separately from the transaction it is created in, SELFDESTRUCT will only send the remaining ether without actually destroying the contract (deleting bytecode, storage, and resetting nonce). Otherwise, the opcode functionality is unvaried. This change is crucial for the upcoming state Verkle trees, where the deletion of contract storage won't be possible.
+
+Cancun spec:
+
+https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/cancun.md
+
+Referenced EIPs:
+
+https://eips.ethereum.org/EIPS/eip-4844
+https://eips.ethereum.org/EIPS/eip-1153
+https://eips.ethereum.org/EIPS/eip-6780
+
+---
+
+<img src="./img/may/climate.jpeg"><br><br>
+
 ---
 
 ### 2022

@@ -15,6 +15,48 @@ draft: false
 
 <img src="./img/may/unia.jpeg"><br><br>
 
+Saudi Arabia, the UAE, Algeria, Egypt, Bahrain, and Iran Have Now Formally Asked To Join the BRICS 🤯
+
+This is a continuation of an accelerated trend that we have been seeing over the last few years that is further gathering speed.
+
+And it's significant.
+
+BRICS member states account for over 40% of the global population and around 25% of the global GDP (on a PPP basis) and this is forecasted to only grow further.
+
+There have been significant developments geopolitically, that have consequences for the USD as the reserve currency of the world, here are just some:
+
+- Recently Russia, Brazil, India, China, and South Africa confirmed that they were developing a new currency to rival the U.S Dollar.
+
+- Brazil’s President Lula argued, “Who decided the dollar was the reserve currency after the gold standard disappeared? BRICS will be our new currency”.
+
+- Argentina's Minister of Economy, Sergio Massa, has announced that Argentina will trade with China in yuan, ditching the dollar.
+
+- China & Brazil have agreed to trade in their own currencies, ditching the US dollar.
+
+- France and China have also completed their first Yuan-settled LNG trade, again ditching the US Dollar.
+
+Why is this so important to be aware of?
+
+These developments potentially upset the existing ‘petrodollar system’ which came in after the collapse of the Bretton Woods system (1971) and is one of the major drivers behind the USD keeping the world reserve currency status.
+
+How does the USD being the reserve currency benefit the U.S.?
+
+When countries receive dollars for the oil they sell, this then benefits the U.S. as they then recycle those dollars back into U.S. investments - providing liquidity to financial markets and keeping rates low.
+
+De-dollarisation.
+
+Commodity-rich countries like Saudi Arabia (the world's largest crude oil exporter) have been using the petrodollar system since the 1970s.
+
+If countries begin to transition away from the dollar and look for alternatives then this reduces the overall demand and increases borrowing costs for consumers and businesses among other effects.
+
+BRICS Countries along with members of the SCO have all stated intentions for a “roadmap for the gradual increase in the share of national currencies in mutual settlements".
+
+And agreements to “ramp up coordination on energy (oil, natural gas, nuclear) exploration and policy” among other things.
+
+Although, the dollar still dominates global trade and transactions calls for de-dollarisation from countries all over the world have never been louder.
+
+This sets the stage for a commodity-backed reserve currency to rival the U.S. dollar.
+
 ---
 
 <video width="640" height="480" controls>

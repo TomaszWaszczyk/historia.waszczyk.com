@@ -3,11 +3,43 @@ layout: post
 title: 13 maja
 image: img/may/templestairs.jpg
 author: Tomasz Waszczyk
-date: 2021-05-13T10:00:00.000Z
+date: 2022-05-13T10:00:00.000Z
 tags:
   - Bank of England
 draft: false
 ---
+
+### 2023
+
+Just checking how US ChipAct reshoring is going...
+
+US Commerce Secretary said 200 companies have already "expressed their interest in applying for ChipAct funding". But those requesting the funds do so primarily for legacy nodes.
+
+However, this legislation is a de facto defence policy in disguise through technology transfer that aimed at reducing US reliance on Taiwan for semiconductors, so with TSMC the main target and South Korea's Samsung second.
+
+TSMC not only had to up its investing game from $12bn to $40bn for a second more ‘advanced’ chip fab but also had to contend with additional chipsact provisions to access the funds, such as sharing returns above levels previously agreed with the US government, paying union wages, ensuring access to affordable child care, and now the list also features sharing #tech secrets and... competitive #intelligence.
+
+Further, as a token of appreciation (once the #tech transfer complete) "we will blow up TSMC" in the event of a Chinese invasion…needless to say, Taiwan’s National Defence Minister did not feel the…love, and responded in kind.
+
+Meanwhile, current macroeconomic headwinds have also blown over TSMC, and this Q1 saw its first drop in monthly revenue in almost four years.. as this March reported revenue of $4.8bn, down 11% from February and falling 15% from March 2022. It has postponed its expectations for a market recovery as it forecasts a further decline in annual revenue… All while advancing the bill for this “expensive (political🙃) exercise in futility" to its customers. By how much? Well... up to 30% more for the "made in US" semis.
+
+And how is the plant construction going?
+
+Now that one... is suffering “birthing pains” as it faces high costs, unexpected construction snags and lack of trained personnel (they tried personnel transfer from the island, but that ended up coming with its own issues).
+
+While TSMC wants $15bn in government aid for its #US #chips plant, finds some of #ChipAct conditions… ‘unacceptable’.
+
+Then the next best, Samsung Semiconductor
+
+#Samsung, on the other hand, had a very bright $200bn investment plan in the US. #SouthKorea, like Taiwan, is also stuck in the middle of the love-but-hate #US-#China relationship, but with slightly different considerations and another perspective on #silicon #diplomacy.
+
+Samsung also saw massive losses as its overall profits declined… 95%.
+
+Although Samsung (as SK hynix) were mulling over applying for subsidies, the toxic clauses attached to it seem to have put them off, or “there now exist concerns” as South Korean Trade Minister put it.
+
+But #SouthKorea has another pressing concern, the waiver, as both #Samsung and #SkHynix still have operations in… #China.
+
+So, overall… it's complicated.
 
 ### 2022
 

@@ -20,6 +20,12 @@ Your browser does not support the video tag.
 
 > "Jeśli Ukraina nie obroni niepodległości, będziemy zmuszeni wejść w tren konflikt" - Jan Emeryk Rościszewski
 
+---
+
+> Moscow wrote off more than $20B in debts from African states, Russian president says
+
+---
+
 ### 2022
 
 A vast financial risk vector is being overlooked. Attention is focused on key Russian banks losing access to SWIFT. What if a cyberattack left Western banks unable to use SWIFT? Russian cyber experts may have already developed an exploit and may be holding it in reserve. They know it would throttle the global financial system – a financial Armageddon triggered by a tit-for-tat “if you prevent our access to SWIFT, then you can’t use SWIFT either.” Almost no financial institution has a viable backup system in place, and they should. This is basic risk management.

@@ -54,6 +54,10 @@ Your browser does not support the video tag.
  
 Ludzie to zawistne kurwy, dopierdolić im trzeba ! ! ! Swoim Sukcesem ! ! ! -->
 
+### 2018
+
+<img src="./img/may/snb.jpg"><br><br>
+
 ### 1942
 
 Pierwsza masowa ucieczka w historii obozu w Birkenau.

@@ -54,6 +54,14 @@ wyższy level wiąże knebel
 
 artysta płodny, artysta głodny
 
+Too many people desire a promotion when it will make them more miserable. They're on the fiat treadmill, climbing a status ladder they don't particularly like.
+
+"If you're not going to tell your grandchildren about the stuff you're working on now, you're probably not working on the right stuff."
+
+A recipe has no soul. You, as the cook, must bring soul to the recipe.
+
+Twoje pieniadze w banku nie są Twoje, nie są w banku i nie są pieniadze
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

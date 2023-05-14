@@ -115,6 +115,27 @@ https://pl.wikiquote.org/wiki/Tomasz_Turowski
 
 https://pl.wikipedia.org/wiki/Magda_Goebbels
 
+### 1941
+
+On Red Square tells a different story than the one russia is trying to tell on May 9, 2023. The footage below shows a different military parade and shows the guests that the current russian rulers wish were not there. The footage shows the Soviet People’s Commissar of Defense greeting special guests - a high ranking military delegation of Nazi Germany whom Stalin is trying to impress.
+
+Let’s remember what happened about two years earlier. The Molotov-Ribbentrop Pact, called the “Treaty of Non-Aggression between Germany and the USSR”, was signed on August 23, 1939. The pact gave Germany the confidence it wanted, and it invaded Poland a week later, on September 1, 1939. The Soviet Union then invaded Poland on September 17, 1939.
+
+World War II started. Far from a victim, in the early days of the war, the Soviet version of the russian colonial empire was the enabler and a willing participant in the aggression until Hitler turned farther east in June 1941. Russian invasion of Ukraine and the current nine-year war is the continuation of the same colonial policies and of the same fascist mindset.
+
+World War II brought massive devastation and suffering, including to the Soviet Union, and the Soviet Union was a key contributor to the victory in World War II. But russia today wants everyone to forget that Ukraine suffered from World War II enormously, with casualties and destruction among the highest in the former Soviet Union and with more Ukrainian civilians killed than Russian, and that 1.7 million of Ukrainian servicemen died fighting Nazis. In recognition of Ukraine’s contribution to the victory in World War II, Ukraine (apart from the Soviet Union) became a founding member of the United Nations in 1945.
+
+By various estimates, 5-7 million people living at the time in Ukraine died in World War II, 700 cities and 28,000 villages were destroyed, the material losses amounted to an estimated 40% of Ukraine’s national wealth (data from Encyclopedia Britannica; other sources put Ukraine’s casualties even higher). Russia today would rather not have anyone remember that, and invokes the horrors of World War II to justify the horrors it has brought to the people of Ukraine in this war, and to fool its own people into dying for and living under tyranny because of a made-up “threat”.
+
+With limited space, this note does not address the events preceding 1939, including the disastrous and shameful policies of appeasement pursued by Western powers leading to the 1938 Munich Agreement under which they thought they “bought” peace for themselves at the expense of Czechoslovakia. Decision makers should remember history and not make the same devastating mistakes today - appeasement never works.
+
+Watch the footage from May 1, 1941.
+
+<video width="640" height="480" controls>
+<source src="./movies/may/russia1941.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1940
 
 Pismo konspiracyjne "Polska Żyje!" opublikowało 10-punktowy Dekalog Obywatelski. W pierwszych dwóch punktach zapisano:
