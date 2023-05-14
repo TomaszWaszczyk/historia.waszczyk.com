@@ -15,11 +15,13 @@ draft: false
 
 ---
 
-Quite the interesting disclosure here that; "At third quarter end, 722 banks reported unrealized losses exceeding 50% of capital 31 of these banks report negative tangible equity levels"
+Quite the interesting disclosure here that:
 
-This is all due to interest rate hikes and underwater bonds that, if needed to be sold today would be worth less than at maturity. So as long as the game of musical chairs continues, "the banking system being “sound and resilient"."
+> At third quarter end, 722 banks reported unrealized losses exceeding 50% of capital 31 of these banks report negative tangible equity levels
 
-<a href="./documents/may/board-briefing-on-impact-of-rising-interest-rates-and-supervisory-approach-20230214" target="_blank">FED Report</a>
+This is all due to interest rate hikes and underwater bonds that, if needed to be sold today would be worth less than at maturity. So as long as the game of musical chairs continues, "the banking system being “sound and resilient".
+
+<a href="./documents/may/board-briefing-on-impact-of-rising-interest-rates-and-supervisory-approach-20230214.pdf" target="_blank">FED Report</a>
 
 ### 2022
 
@@ -45,6 +47,15 @@ Wg PiSu polski oligarcha mieszka w 70-metrowej rezydencji z płaskim dachem i za
 
 No cóż - tak właśnie działa d***kracja.
 Właściwie to już ochlokracja.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/may/chory_czlowiek.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
 
 ### 2020
 

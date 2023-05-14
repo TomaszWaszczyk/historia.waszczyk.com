@@ -302,6 +302,8 @@ wstęp, rozwinięcie, zakończenie
 
 logiczne połączenie akapitów
 
+<img src="./img/others/pisanie.jpeg"><br><br>
+
 <!-- 10 sposobów manipulacji
 W toku swoich analiz Noam Chomsky opracował 10 strategii manipulacji, które stosują media w omamianiu społeczeństwa.
 

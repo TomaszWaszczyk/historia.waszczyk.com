@@ -33,6 +33,15 @@ Największy na świecie państwowy fundusz majątkowy ostrzegł, że inwestorzy 
 
 „Widzimy to na całym świecie, w coraz większej liczbie miejsc. Widzieliście, jak Ikea podniosła ceny o 9 procent, widzieliście wzrost cen żywności, nadal bardzo wysokie stawki frachtowe, stawki przewozowe, metale, towary, energię, gaz. . . Widzimy też znaki na płacach”.
 
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/february/NoNordStream2oe Biden.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2021
 
 Zabicie gastronomii, platformizacja (uwłaszczenie się) za pomocą platform cyfrowych, efekt:
