@@ -83,6 +83,11 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+<video width="640" height="480" controls>
+<source src="./movies/sport/DOMOWY_Trening_Na_Brzuch.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 #### Plank
 
 Podstawowe ćwiczenie zaczynamy od położenia się na brzuchu, oparciu przedramion tak, by łokcie były dokładnie pod barkami, a stopy na palcach. Napinamy mięśnie brzucha, unosimy tułów, biodra i nogi – całe ciało musi znajdować się w linii prostej. Bardzo ważne jest prawidłowe wykonywanie ćwiczenia, dlatego nie wyginamy w dół odcinka lędźwiowego kręgosłupa i nie opuszczamy bioder. Wytrzymujemy 30 sekund, robimy 10-cio sekundową przerwę i całe ćwiczenie powtarzamy 5 razy.
