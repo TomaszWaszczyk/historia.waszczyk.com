@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+> Russia has "already lost geopolitically" its war in Ukraine war and is effectively becoming a vassal state of China, French President Emmanuel Macron
+
 ### 2022
 
 Marek Suski spotkał się z ambasadorem ChRL w Polsce. W Radiu Zet mówił, że 🇨🇳 miałyby udzielić pomocy „🇵🇱 dla 🇺🇦 i również dla 🇺🇦”. „🇵🇱 może dostać prędzej pomoc humanitarną od Chin, które są tak nielubiane przez Brukselę".

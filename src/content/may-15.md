@@ -11,6 +11,12 @@ draft: false
 
 ### 2023
 
+Po ogłoszeniu nowych planów socjalnych rentowność w górę:
+
+<img src="./img/may/rentownosc.jpg"><br><br>
+
+---
+
 <img src="./img/may/banks.jpeg"><br><br>
 
 ---
