@@ -11,7 +11,7 @@ draft: false
 
 ### 2023
 
-Po ogłoszeniu nowych planów socjalnych rentowność w górę:
+Po ogłoszeniu nowych planów socjalnych rentowność w górę (2.05%):
 
 <img src="./img/may/rentownosc.jpg"><br><br>
 
