@@ -3,7 +3,7 @@ layout: post
 title: 16 maja
 image: img/may/konferencja.jpg
 author: Tomasz Waszczyk
-date: 2021-05-16T10:00:00.000Z
+date: 2022-05-16T10:00:00.000Z
 tags:
   - Kraków
 ---
