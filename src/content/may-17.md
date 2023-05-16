@@ -11,7 +11,25 @@ draft: false
 
 ### 2023
 
+<img src="./img/may/kreml.jpeg"><br><br>
+
+<img src="./img/may/oszustwo.jpeg"><br><br>
+
+---
+
 > Russia has "already lost geopolitically" its war in Ukraine war and is effectively becoming a vassal state of China, French President Emmanuel Macron
+
+---
+
+> Prąd z Ukrainy już płynie do Polski. Nowe połączenie ruszyło po cichu
+
+Bez konferencji, przemówień polityków i przecinania wstęgi — w poniedziałek 15 maja ruszył komercyjny przesył energii elektrycznej nową linią Rzeszów-Chmielnicka. Aktualnie do Polski płynie prąd z Chmielnickiej Elektrowni Jądrowej.
+
+---
+
+<img src="./img/may/austin-tx.jpeg"><br><br>
+
+---
 
 ### 2022
 

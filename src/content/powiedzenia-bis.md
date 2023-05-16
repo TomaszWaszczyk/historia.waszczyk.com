@@ -60,7 +60,9 @@ Too many people desire a promotion when it will make them more miserable. They'r
 
 A recipe has no soul. You, as the cook, must bring soul to the recipe.
 
-Twoje pieniadze w banku nie są Twoje, nie są w banku i nie są pieniadze
+Twoje pieniądze w banku nie są Twoje, nie są w banku i nie są pieniądze
+
+Putin: "95% światowych ataków terrorystycznych jest organizowanych przez CIA".
 
 ---
 
