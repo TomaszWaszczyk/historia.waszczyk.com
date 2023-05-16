@@ -222,6 +222,10 @@ https://en.wikipedia.org/wiki/Pitirim_Sorokin
 
 ### Jedzenie, food
 
+<img src="./img/others/medicine/1863.jpg"><br><br>
+
+<img src="./img/others/medicine/1892.jpg"><br><br>
+
 Zupa: Kasza pęczak, pieczarki, marchewka, cebula, piepsz, pietruszka
 
 https://ncez.pl/przepisy

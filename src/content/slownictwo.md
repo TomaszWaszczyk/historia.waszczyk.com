@@ -1675,6 +1675,8 @@ nonviolent communication (we fell like)
 
 polakoletniość - polacy mają tendencję do robienia rzeczy nie do końca, nie w pełni
 
+in silico - na procesorze
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

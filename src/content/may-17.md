@@ -3,7 +3,7 @@ layout: post
 title: 17 maja
 image: img/may/tarcza5.jpg
 author: Tomasz Waszczyk
-date: 2021-05-17T10:00:00.000Z
+date: 2022-05-17T10:00:00.000Z
 tags:
   - Tarcza 5.0
 draft: false
@@ -28,6 +28,12 @@ Bez konferencji, przemówień polityków i przecinania wstęgi — w poniedział
 ---
 
 <img src="./img/may/austin-tx.jpeg"><br><br>
+
+---
+
+Microsoft otwiera data center w Polsce.
+
+<img src="./img/may/azure_polska.jpeg"><br><br>
 
 ---
 
