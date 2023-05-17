@@ -40,6 +40,8 @@ https://en.wikipedia.org/wiki/Nixon_shock
 
 <img src="./img/august/nixon.jpeg"><br><br>
 
+<img src="./img/april/nixon.jpeg"><br><br>
+
 ### 1952
 
 W sowieckim łagrze pod Stalingradem zmarł Wilhelm Hosenfeld - kapitan Wehrmachtu, który stał się znany głównie za sprawą ocalenia od śmierci znanego pianisty i kompozytora Władysława Szpilmana.

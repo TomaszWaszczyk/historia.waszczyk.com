@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+<img src="./img/april/poorer.jpeg"><br><br>
+
 ### 2022
 
 Short EU, long this:

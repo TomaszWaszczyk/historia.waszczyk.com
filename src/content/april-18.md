@@ -13,6 +13,12 @@ draft: false
 
 <img src="./img/april/central_bank_bailouts.jpeg"><br><br>
 
+---
+
+Niepracująca matka trójki dzieci w przyszłym roku w Polsce dostanie od państwa z różnych programów od 3552 do 3866 zł, czyli więcej pieniędzy niż początkujący nauczyciel , urzędnik czy pracownik socjalny za pracę.
+
+---
+
 ### 2022
 
 WIBOR 3M/kredyty hipoteczne
@@ -50,7 +56,6 @@ Chiny oczyszczają biblioteki szkolne z „kultu Zachodu”
 
 "Zamówienie będzie miało wpływ na 240 milionów uczniów szkół podstawowych i średnich w kraju, w tym przedszkolaków. Dotyczy to również książek polecanych przez szkoły.
 Wyraźnym celem jest wspieranie lojalności i oddania Xi wśród młodych ludzi przed setną rocznicą powstania Komunistycznej Partii Chin, która przypada 1 lipca."
-
 
 ok. 100 lat temu "też" jedna władza zaczęła palić książki - skutki odczuł cały świat. Rywalizacja geopolityczna zaczyna nabierać obrotów. Jest powód do niepokoju...
 
@@ -304,6 +309,27 @@ Do Ob. Wyszyńskiego A. J.
 Wiceministra Spraw Zagranicznych Związku SRS m. Moskwa
 
 <img src="./img/april/upa.jpg"><br><br>
+
+### 1923
+
+> Geschichte wiederholt sich nicht, aber sie reimt sich.
+
+"Am 18.04.1923 war die Reichsbank gezwungen gewesen, in Ermangelung weiterer Rücklagen sämtliche Stützungsaktionen zu beenden. Im April 1923 war daraufhin der Wert der Mark gegenüber dem Dollar von 1 : 350.000."
+
+Quelle: https://www.1000dokumente.de/index.html?c=dokument_de&dokument=0204_ren&object=context&l=de
+
+Damals wie heute, drucken Notenbanken bei Bedarf neues Geld. Die Auswirkungen dieser "laschen" Geldpolitik spüren wir alle derzeit anhand der Inflation. Die heutige "keynesianisch" geprägte Geldpolitik der EZB und FED:
+- führt zu Fehlallokationen
+- blendet Opportunitätskosten aus
+- verlagert Probleme in die Zukunft (zu Lasten künftiger Generationen)
+- ist das Gegenteil von nachhaltig (Konsum- und Wegwerfgesellschaft)
+- bevorzugt reiche und benachteiligt die Mittelschicht und arme (Cantillon-Effekt)
+- sorgt dafür, dass unprofitable Unternehmen künstlich am Leben gehalten werden
+- uvm.
+
+<img src="./img/april/hyperinflation.jpeg"><br><br>
+
+Um zu verstehen welche Probleme in unserem heutigen Schuldgeldsystem durch die zentral geregelten Geldpolitik der Notenbanken entstehen, muss man diese und deren Instrumente verstehen.
 
 ### 1922
 
