@@ -64,6 +64,8 @@ Twoje pieniądze w banku nie są Twoje, nie są w banku i nie są pieniądze
 
 Putin: "95% światowych ataków terrorystycznych jest organizowanych przez CIA".
 
+Własna niemoc jest groźniejsza niż obca przemoc
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

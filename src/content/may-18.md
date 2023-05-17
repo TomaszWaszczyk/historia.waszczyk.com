@@ -3,10 +3,18 @@ layout: post
 title: 18 maja
 image: img/may/skladki.jpg
 author: Tomasz Waszczyk
-date: 2021-05-18T10:00:00.000Z
+date: 2022-05-18T10:00:00.000Z
 tags:
   - Digital Dollar
 ---
+
+### 2023
+
+Who is right? Mr. (Bond) Market or Mr. (Stock) Market?
+
+CDS prices jump as fears of a US debt default are mounting w/the deadline to lift the borrowing limit looms. But stock market investors remain complacent as the low vix shows.
+
+<img src="./img/may/cds-usa.jpeg"><br><br>
 
 ### 2022
 
