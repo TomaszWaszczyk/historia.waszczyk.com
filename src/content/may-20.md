@@ -8,6 +8,10 @@ tags:
   - USA Brrrrrrrrr
 ---
 
+### 2023
+
+<img src="./img/may/exposure_to_china.jpg"><br><br>
+
 ### 2022
 
 <img src="./img/may/lunascam.png"><br><br>

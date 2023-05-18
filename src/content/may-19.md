@@ -3,10 +3,68 @@ layout: post
 title: 19 maja
 image: img/may/szarecki.jpg
 author: Tomasz Waszczyk
-date: 2021-05-19T10:00:00.000Z
+date: 2022-05-19T10:00:00.000Z
 tags:
   - Monte Cassino
 draft: false
+---
+
+### 2023
+
+Polska obrała kierunek na inflację rzędu ~50% (rok, może dwa), następnie wzrost cen zacznie przypominać inflację galopującą.
+
+---
+
+Przykład opinii wśród popularnych "analityków":
+
+<img src="./img/may/cymcyk.jpg"><br><br>
+
+---
+
+$941 billion hole. How US Treasury (UST) losses broke the banking system.
+
+Astute financial observers have noticed how the recent banking crisis merely serves as a smokescreen for an underlying balance of payments issue.
+
+US/Debt to GDP is ~130%, the highest ratio since World War 2.
+
+Maintaining and servicing this type of debt burden is straining, and demands a constant hunt for free balance sheet capacity on which to park more debt.
+
+This has been complicated by China halting UST purchases since 2013, even reducing its exposure by 9% last year, and more recent developments of BRICS countries diversifying their FX reserves.
+
+American banks have been expected to pick up the slack.
+
+Encouraged by favorable regulation and nudged by Fed guidance, US banks have been piling into USTs and MBS. This made the sudden rate hike in response to escalating inflation all the more disastrous.
+
+When the Fed panic pivoted and raised rates at the fastest pace in history, banks were left holding the bag. That low yielding debt they had bought was suddenly worth a lot less with money market funds yielding 4.5%.
+
+It is now evident that banks, which collectively sit on an almost $1 trillion hole of unrealized losses, will no longer be able to absorb the debt expansion.
+
+Commercial banks have already bled 5% yoy in deposits - the deepest contraction in history. 5% may not sound like a lot, but in a fractionally reserved system, this is a massive problem.
+
+Small business loan availability is also down 9% over the last 3 months.
+
+So, if banks can't close the gap, what can?
+
+Historically, only these 3 pressure valves are available:
+
+1) Austerity
+2) Growth
+3) Currency Debasement
+
+1) Austerity is the most painful and least politically feasible option. We watched Paris burn as the age of retirement got raised from 62 to 64.
+
+Imagine what would happen domestically if substantive cuts to Medicare and Medcaid were on the table.
+
+2) Growth is the happy option. Energy costs going to 3 ¢ / kWh and massive efficiency gains with AI could go a long way to cushioning the blow. But we're quickly running out of time.
+
+3) by contrast, inflation is usually the preferred method. People hate high grocery prices, but they love the stock market exploding up.
+
+Analyst Luke Groeman points to Israel's Stabilzation Program which ran real inflation between 100%-300% for 3 years in the 1980s...
+
+Admittedly, this is a tail risk. But it's a tail risk that's getting fatter, the longer that the Fed is putting off the inevitable and playing Volcker.
+
+<img src="./img/may/hole.jpeg"><br><br>
+
 ---
 
 ### 2022
