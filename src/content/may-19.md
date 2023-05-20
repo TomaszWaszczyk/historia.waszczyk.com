@@ -173,6 +173,10 @@ V. Oba Dowództwa Naczelne uważają za niezbędne kontynuowanie bardziej szczeg
 
 <img src="./img/may/kasprzycki.jpg"><br><br>
 
+### 1917
+
+<img src="./img/may/germany-wants.webp"><br><br>
+
 ### 1914
 
 <img src="./img/may/fed_owners.jpeg"><br><br>

@@ -3,14 +3,38 @@ layout: post
 title: 20 maja
 image: img/may/chemiainstytut.jpg
 author: Tomasz Waszczyk
-date: 2021-05-20T10:00:00.000Z
+date: 2022-05-20T10:00:00.000Z
 tags:
   - USA Brrrrrrrrr
 ---
 
 ### 2023
 
+<img src="./img/may/web3.jpg"><br><br>
+
+---
+
+Money printing to avoid a recession has been the government playbook for a very long time. Nobody wants to be blamed for a recession while they're in office and the long-term benefits of clearing malinvestment are generally not going to be credited to you. As a result, delaying recession has been the desire of every leader and the policy tool has always been monetary expansion.
+
+Unfortunately, that just delays the inevitable and oftentimes, the recessions come anyway. Malinvestment, after all, wastes a tremendous amount of resources.
+
+This is why I expect a Fed pivot. The Biden administration does not want to be in a position to be running for office in the middle of a recession. They're trying to get whatever pain out of the way in 2023 so that the turnaround is more relieving. Unfortunately, monetary policy takes some time to filter through the economy and thus, they'll need to start turning on the spigots soon.
+
+What would be absolutely wild is if they brought this ability in-house by introducing the trillion dollar coin. This would introduce a tremendous amount of new money into the economy via the treasury and once such a policy tool is introduced, it won't ever go away. But that'll get the bankers angry because they're the ones that add money through loans. Money that's added as an asset without a corresponding liability would make it obvious that the dollar is monopoly money.
+
+Still, would the world markets even care? Hard to say, but this is where politics makes for some really weird outcomes.
+
+---
+
 <img src="./img/may/exposure_to_china.jpg"><br><br>
+
+---
+
+Kusama in Paris
+
+<img src="./img/may/kusama.jpeg"><br><br>
+
+---
 
 ### 2022
 
@@ -20,11 +44,16 @@ tags:
 
 <img src="./img/may/koronawiruswpenisie.jpeg"><br><br>
 
+<video width="640" height="480" controls>
+<source src="./movies/may/drzwi_do_wszystkich_drzwi.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2020
 
 WIBID Over Night = 0,01%
 
-Wyglada jakby banki miały nadmiar gotówki, która parzy w ręce.
+Wygląda jakby banki miały nadmiar gotówki, która parzy w ręce.
 
 Zastanawiające!
 
@@ -70,6 +99,10 @@ Pod Rzeszowem wichura zrywa dach z wagonu pociągu osobowego. Struchleli pasaże
 Największych zniszczeń dokonuje huragan w miejscowości Uhlówek. Niemal 300 domów idzie w gruzy. Pod uderzeniami wichury zawalają się budynki szkoły, prezydium Gminnej Rady Narodowej i magazyn Gminnej Spółdzielni.
 W Rzeszowie władze miejskie usiłują wezwać pomoc z Warszawy. Bezskutecznie. Zerwane są wszelkie połączenia telefoniczne i linie energetyczne. Karetki z trudem, powoli, krążą po ulicach zasłanych odłamkami dachówek i tynków.
 Wieczorem z rzeszowskiego garnizonu wyjeżdżają pododdziały żołnierzy z wojskowymi namiotami i kuchniami polowymi. Mają jak najprędzej dotrzeć do najbardziej zniszczonych wsi, rozbić namioty, nakarmić kartoflanką i przenocować bezdomnych."
+
+### 1918
+
+<img src="./img/may/countries_density_1918.jpg"><br><br>
 
 ### 1866
 
