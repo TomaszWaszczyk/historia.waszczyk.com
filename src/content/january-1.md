@@ -166,12 +166,6 @@ https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model
 
 https://pl.wikipedia.org/wiki/Tadeusz_Cegielski
 
-### 1941
-
-W Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
-
-<img src="./img/january/bomber.jpg"/><br><br>
-
 ### 1944
 
 Utworzono Armię Ludową.
@@ -343,6 +337,18 @@ Z tego:
 W swojej działalności żołnierze AL realizowali przede wszystkim założenia programowe lewicy powiązanej z Moskwą, a co za tym idzie działali na rzecz Armii Czerwonej. Wszystko to sprowadzało Armię Ludową do roli ideologicznego wroga Armii Krajowej powiązanej z obozem londyńskim. Jak zatem widzimy, ukształtowały się dwa bieguny Polskiego Podziemia, które łączył jeden szczególny cel - walka przeciwko okupantowi w celu wyzwolenia ojczyzny. Siły AL działały do momentu zajęcia przez Armię Czerwoną ziem polskich, ulegając powolnemu rozkładowi, który nie wszędzie przebiegał równomiernie. Największe zaangażowanie w walki partyzanckie uwidoczniło się w obwodzie lubelskim, gdzie siły AL przystąpiły do regularnej ofensywy przeciwko Niemcom, staczając z nimi szereg bitew. Także w okręgu warszawskim uwidoczniło się zaangażowanie bojowe AL, która nie wahała się wesprzeć Armii Krajowej podczas Powstania Warszawskiego, za co kilku żołnierzy AL gen. Tadeusz Komorowski udekorował odznaczeniami wojskowymi. Wkład AL w walkę narodowowyzwoleńczą jest zatem ogromny, choć nie można brać na serio zapewnień, iż AL miała większy udział w partyzanckiej walce niż AK, która zorganizowana była znacznie wcześniej i dokładniej. 1550 akcji bojowych świadczy jednak o dużym zaangażowaniu żołnierzy AL w dzieło niszczenia okupanta. I za to żołnierzom Armii Ludowej, niezależnie od postawy ideologicznej i źródła rozkazów, należy się chwała.
 
 <img src="./img/january/armlud.jpg"/><br><br>
+
+### 1941
+
+W Londynie utworzona została placówka polskiego oficera łącznikowego przy Dowództwie Lotnictwa Bombowego RAF Bomber Command. Była ona zalążkiem polskiego Sztabu Dowództwa Lotnictwa Bombowego. Dowódcą mianowany został pułkownik pilot Stanisław Karpiński.
+
+<img src="./img/january/bomber.jpg"/><br><br>
+
+---
+
+Generalplan Ost
+
+---
 
 ### 1934
 

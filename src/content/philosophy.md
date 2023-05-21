@@ -9,6 +9,8 @@ tags:
   - Filozofia
 ---
 
+https://simple.wikipedia.org/wiki/Master_and_slave_philosophy
+
 Skropnie przyjmować, spokojnie oddawać.
 
 Kartezjusz, Platon, Kant

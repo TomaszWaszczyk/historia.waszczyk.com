@@ -21,7 +21,7 @@ Oczyszczanie jest głównie korzeniowe, można mieć skrzydłokwiaty.
 2. [Figowiec benjamina](https://pl.m.wikipedia.org/wiki/Figowiec_benjamina)
 3. Zioła
 
-Bazylia, mięta, rozmaryn (do stejków), lawenda, pietrucha, szczypior. Wiele ziół lubi tzn dobrze rośnie razem i super wygląda wspólnie w korytku na parapecie. Główna rada, nie kupuj tych z marketu tylko idź do sklepu ogrodniczego po sadzonki lub nasiona jeśli masz cierpliwość. Kawa nie jest też ciężka w utrzymaniu. Kolejne dla wyglądu i już samodzielnego wyhodowania polecam: awokado i ostre papryczki (te ist bez owoców czy z owocami, ale są w smaku raczej dzikie, wiem co mówię bo zjadłam około 1 kg świeżego chili tyg).
+Bazylia, mięta, rozmaryn (do stejków), lawenda, pietrucha, szczypior. Wiele ziół lubi tzn dobrze rośnie razem i super wygląda wspólnie w korytku na parapecie. Główna rada, nie kupuj tych z marketu tylko idź do sklepu ogrodniczego po sadzonki lub nasiona jeśli masz cierpliwość. Kawa nie jest też ciężka w utrzymaniu. Kolejne dla wyglądu i już samodzielnego wyhodowania polecam: awokado i ostre papryczki (te ist bez owoców czy z owocami, ale są w smaku raczej dzikie, wiem co mówię bo zjadłam około 1 kg świeżego chili tyg). Kiełki
 
 ### Rośliny jadalne
 
@@ -32,6 +32,10 @@ Bazylia, mięta, rozmaryn (do stejków), lawenda, pietrucha, szczypior. Wiele zi
 Lokalni nazywają to Cappuccino plant 🧡 Łatwa w utrzymaniu, na balkon dobre, pomarańczowe.
 
 <img src="./img/others/ogrodnictwo/nasturcja.jpeg"><br><br>
+
+## Inne
+
+Wierzba energetyczna
 
 ---
 

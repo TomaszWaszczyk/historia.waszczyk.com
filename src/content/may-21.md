@@ -3,11 +3,36 @@ layout: post
 title: 21 maja
 image: img/may/gniadek.png
 author: Tomasz Waszczyk
-date: 2021-05-21T10:00:00.000Z
+date: 2022-05-21T10:00:00.000Z
 tags:
   - Ksiądz Jacek Gniadek
 draft: false
 ---
+
+### 2023
+
+> Inflacja rozpędzona jak nigdy. Powrót do celu zajmie lata
+> To jednak nie koniec. Jak pisaliśmy w money.pl, inflacja liczona rok do roku być może i się obniża, ale miesiąc w miesiąc konsekwentnie przyspiesza. I tak w marcu względem lutego tego roku wzrosła o ok. 1 proc. Nie jest więc tak, że ceny spadły. Po prostu wolniej rosły.
+> Ekonomiści Santandera, wykorzystując własne autorskie wyliczenia, doszli do wniosku, że ceny w Polsce są niepokojąco rozpędzone i na razie nie widzą oni żadnego sygnału, że miałyby zwolnić. "Rozpęd cen nie słabnie" – podsumowują.
+
+<img src="./img/may/inflacja2023.webp"><br><br>
+
+> Walka z inflacją może trwać nawet 9 lat?
+> Przez jak długi czas przyjdzie więc nam walczyć z inflacją w Polsce? Niestety, ekonomiści nie mają tutaj dobrych informacji. Nasze portfele mogą otrzymywać cios za ciosem jeszcze przez wiele lat. Tyle ma zająć Polsce powrót do celu inflacyjnego NBP. Najwięksi optymiści mówią o trzech latach cenowego bólu. Nie brakuje jednak innych głosów.
+
+---
+
+<img src="./img/may/brics_g7.jpeg"><br><br>
+
+---
+
+<img src="./img/may/mbank.jpeg"><br><br>
+
+<img src="./img/may/mbank2.jpeg"><br><br>
+
+---
+
+<a href="./documents/may/bisbull73.pdf" target="_blank">Stablecoins versus tokenised deposits: implications for the singleness of money</a>
 
 ### 2022
 
