@@ -8,6 +8,12 @@ tags:
   - Glass-Steagall
 ---
 
+### 2023
+
+Gdzie dwóch się bije, tam obaj korzystają.
+
+<img src="./img/may/mirazdolarazrublem.jpeg"><br><br>
+
 ### 2022
 
 <img src="./img/may/bitcoinfall.png"><br><br>

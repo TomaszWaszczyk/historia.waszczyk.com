@@ -3,11 +3,15 @@ layout: post
 title: 22 maja
 image: img/may/pizzaday.jpg
 author: Tomasz Waszczyk
-date: 2021-05-22T10:00:00.000Z
+date: 2022-05-22T10:00:00.000Z
 tags:
   - Pizza Day
 draft: false
 ---
+
+### 2023
+
+> zK-SNARKs are going to be as important as #Blockchains in the next 10 years - Vitalik Buterin
 
 ### 2022
 

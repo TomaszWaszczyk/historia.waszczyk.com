@@ -16,6 +16,12 @@ SZAP:
 
 <img src="./img/december/szap.jpeg"><br><br>
 
+---
+
+<img src="./img/december/jajka.jpg"><br><br>
+
+---
+
 ### 2021
 
 Bełkot:

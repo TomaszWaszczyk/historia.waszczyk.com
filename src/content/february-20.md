@@ -34,6 +34,10 @@ Bullies might hit, kick, or push to hurt people, or use words to call names, tea
 
 <img src="./img/february/zuck.jpeg"><br><br>
 
+### 2004
+
+<a href="./documents/february/FRBSpeechBernanke-TheGreatModeration--February-20_2004.html" target="_blank"></a>
+
 ### 1945
 
 W Jabłonówce w obwodzie lwowskim bandyci ze Służby Bezpeky zamordowali Ukrainkę Hannę Bogomołową- kierowniczkę tamtejszego młyna, która miała odwagę odmówić im dostaw mąki. Dowódcą oddziału, który miał na swoim koncie wiele innych dokonanych w tym rejonie zbrodni był Dymitr Kupiaka. Trzy dni wcześniej te same bestie zamordowały polskie mażłeństwo z Grabowa ich byli: inspektor oświaty rejonu Busk – Konstanty Naczas i jego żona, nauczycielka – Maria (zdjęcie).
