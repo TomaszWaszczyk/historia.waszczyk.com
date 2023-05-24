@@ -3,11 +3,20 @@ layout: post
 title: 25 maja
 image: img/may/podzial.jpg
 author: Tomasz Waszczyk
-date: 2021-05-25T10:00:00.000Z
+date: 2022-05-25T10:00:00.000Z
 tags:
   - GDPR
 draft: false
 ---
+
+### 2023
+
+Resort finansów oferuje promocję przy zakupie obligacji detalicznych w drodze zamiany
+publikacja
+
+Resort finansów utrzymał na czerwiec oprocentowanie obligacji detalicznych na poziomie z maja, ale przygotował promocję dla klientów, którzy będą chcieli kupić nowe obligacje w drodze zamiany - podało MF w komunikacie.
+
+> "Obligacje z czerwcowej oferty, z wyjątkiem obligacji 3-miesięcznych OTS0923, będą sprzedawane w drodze zamiany, po znacznie atrakcyjniejszej cenie w stosunku do standardowej. Dla każdego rodzaju obligacji będzie możliwe uzyskanie innego dyskonta. Znacznie wyższe dyskonto uzyska się wybierając dłuższą obligację"
 
 ### 2022
 

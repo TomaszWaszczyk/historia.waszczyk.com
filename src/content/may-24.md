@@ -3,11 +3,15 @@ layout: post
 title: 24 maja
 image: img/may/dodruk.png
 author: Tomasz Waszczyk
-date: 2021-05-24T10:00:00.000Z
+date: 2022-05-24T10:00:00.000Z
 tags:
   - Pauperyzacja systemowa
 draft: false
 ---
+
+### 2023
+
+> YELLEN: BĘDĄ NIEKTÓRE ZOBOWIĄZANIA, KTÓRYCH NIE BĘDZIEMY W STANIE SPŁACIĆ
 
 ### 2022
 

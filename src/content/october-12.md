@@ -73,6 +73,10 @@ W rocznicę tego wydarzenia w 1950 roku 12.10 ustanowiono Dniem Wojska Polskiego
 
 ---
 
+### 1941
+
+Bitwa pod Lenino była krwawą jatką, a polscy żołnierze - mięsem armatnim Berling wchodzi do gry.
+
 ### 1939
 
 Adolf Hitler, kanclerz III Rzeszy wydał dekret o utworzeniu z dniem 26 października Generalnego Gubernatorstwa (niem. Generalgouvernement)– terytorium utworzone z części okupowanych ziem polskich niewłączonych bezpośrednio do III Rzeszy, które miało być maksymalnie eksploatowane gospodarczo oraz przygotowywane do stopniowej kolonizacji niemieckiej. Generalne Gubernatorstwo podzielone było na dystrykty: krakowski, radomski, lubelski, warszawski i galicyjski (od 1941 r.).

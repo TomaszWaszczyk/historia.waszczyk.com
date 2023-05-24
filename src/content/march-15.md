@@ -139,6 +139,12 @@ The decision was voted on by all members of the FOMC with the exception of Cleve
 
 https://en.wikipedia.org/wiki/2019%E2%80%9320_Hong_Kong_protests
 
+### 2014
+
+<img src="./img/march/SGH1.jpg"><br><br>
+
+<img src="./img/march/SGH2.jpg"><br><br>
+
 ### 1989
 
 Weszło w życie nowe prawo dewizowe, legalizujące prywatny obrót walutami obcymi w kantorach walutowych.

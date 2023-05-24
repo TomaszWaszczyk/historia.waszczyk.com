@@ -11,7 +11,7 @@ draft: false
 
 ### 2023
 
-> zK-SNARKs are going to be as important as #Blockchains in the next 10 years - Vitalik Buterin
+> zK-SNARKs are going to be as important as Blockchains in the next 10 years - Vitalik Buterin
 
 ### 2022
 
