@@ -11,7 +11,7 @@ draft: false
 
 ### 2023
 
-NBP opłacił takiego busika na objazd po Warszawie
+NBP opłacił takiego busa na objazd po Warszawie
 
 <img src="./img/may/bus_nbp.jpeg"><br><br>
 
