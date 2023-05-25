@@ -22,6 +22,12 @@ draft: false
 
 ---
 
+<img src="./img/may/dominikanin_maciej_biskup_warszawa.jpg"><br><br>
+
+<img src="./img/may/luksusowa_dama.jpg"><br><br>
+
+---
+
 <img src="./img/may/brics_g7.jpeg"><br><br>
 
 ---

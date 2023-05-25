@@ -3,11 +3,17 @@ layout: post
 title: 26 maja
 image: img/may/Polkadot_is-_live.png
 author: Tomasz Waszczyk
-date: 2021-05-26T10:00:00.000Z
+date: 2022-05-26T10:00:00.000Z
 tags:
   - Austrians in 2020
 draft: false
 ---
+
+### 2023
+
+NBP opłacił takiego busika na objazd po Warszawie
+
+<img src="./img/may/bus_nbp.jpeg"><br><br>
 
 ### 2022
 
