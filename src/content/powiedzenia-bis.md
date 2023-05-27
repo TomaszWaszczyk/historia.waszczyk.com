@@ -74,6 +74,8 @@ słychać wycie znakomicie
 
 In the absence of the gold standard, there is no way to prevent confiscation of savings through inflation. ~ Alan Greenspan (1966)
 
+"Sovereignty is not given, it is taken." – Atatürk
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

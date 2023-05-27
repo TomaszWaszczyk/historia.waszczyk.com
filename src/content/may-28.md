@@ -3,10 +3,26 @@ layout: post
 title: 28 maja
 image: img/may/gs2.jpeg
 author: Tomasz Waszczyk
-date: 2021-05-28T10:00:00.000Z
+date: 2022-05-28T10:00:00.000Z
 tags:
   - Szkolnictwo
 draft: false
+---
+
+### 2023
+
+Masowy wywóz drewna z Polski:
+
+<img src="./img/may/ekport_drewna_szczecin.jpeg"><br><br>
+
+<img src="./img/may/eksport_drewna.jpeg"><br><br>
+
+---
+
+<img src="./img/may/nagroda_nbp.jpeg"><br><br>
+
+<img src="./img/may/next_covid.jpeg"><br><br>
+
 ---
 
 ### 2021

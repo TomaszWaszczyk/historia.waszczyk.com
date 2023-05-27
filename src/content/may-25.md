@@ -18,6 +18,12 @@ Resort finansów utrzymał na czerwiec oprocentowanie obligacji detalicznych na 
 
 > "Obligacje z czerwcowej oferty, z wyjątkiem obligacji 3-miesięcznych OTS0923, będą sprzedawane w drodze zamiany, po znacznie atrakcyjniejszej cenie w stosunku do standardowej. Dla każdego rodzaju obligacji będzie możliwe uzyskanie innego dyskonta. Znacznie wyższe dyskonto uzyska się wybierając dłuższą obligację"
 
+---
+
+TVP VOD usunęło wszystkie odcinki programu „Warto rozmawiać”
+
+---
+
 ### 2022
 
 Average price of a new home in the US...

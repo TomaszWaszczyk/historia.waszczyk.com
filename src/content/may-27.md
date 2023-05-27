@@ -3,11 +3,30 @@ layout: post
 title: 27 maja
 image: img/may/gs.jpeg
 author: Tomasz Waszczyk
-date: 2021-05-27T10:00:00.000Z
+date: 2022-05-27T10:00:00.000Z
 tags:
   - Niemcy
 draft: false
 ---
+
+### 2023
+
+<a href="./documents/may/In-Gold-We-Trust-report-2023-english.pdf" target="_blank">In Gold We Trust Report</a>
+
+<video width="640" height="480" controls>
+<source src="./movies/may/do_berlina.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/may/tuskdonald.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<!-- <video width="640" height="480" controls>
+<source src="./movies/may/who.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
 
 ### 2021
 
