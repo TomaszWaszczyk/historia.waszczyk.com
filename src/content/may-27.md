@@ -11,6 +11,20 @@ draft: false
 
 ### 2023
 
+> Największy okręt wojenny świata dotarł do Europy. Rosja niezadowolona
+
+USS Gerald R. Ford, gigantyczny, ponad 330-metrowy lotniskowiec USA, zameldował się w Europie. Ten morski gigant zacumował właśnie w Oslo, a jego wizyta spotkała się już z reakcją Rosji, która nie jest zbyt zadowolona z jego europejskiej wizyty.
+
+---
+
+Ambasador USA ostrzega rząd Morawieckiego. Ujawniono list do polityków PiS
+
+Ambasador USA w Polsce Mark Brzezinski wysłał list do marszałek Sejmu Elżbiety Witek. Dyplomata ostrzega polski rząd, że procedowane zmiany w prawie mogą "negatywnie wpłynąć na dwustronne relacje z USA".
+
+O sprawie pisze "Gazeta Wyborcza". Brzezinski miał stwierdzić, że Ameryka postrzega procedowaną "ustawę o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności" za niebezpieczną dla interesów USA.
+
+---
+
 <a href="./documents/may/In-Gold-We-Trust-report-2023-english.pdf" target="_blank">In Gold We Trust Report</a>
 
 <video width="640" height="480" controls>
