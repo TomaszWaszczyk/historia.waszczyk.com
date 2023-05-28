@@ -77,6 +77,10 @@ Ukrainian Congress Committee of America Ukrainian World Congress - Свiтови
 
 Umiera Claude Shannon
 
+### 1957
+
+Joel Salatin
+
 ### 1949
 
 Amerykańska rakieta Bumper 5 wzniosła się na rekordową wysokość 400 km przy prędkości 2300 m/s.

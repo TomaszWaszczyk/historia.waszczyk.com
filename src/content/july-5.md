@@ -100,6 +100,10 @@ W wyniku nieporozumień w rozmowach z armią niemiecką, która w zamian za bada
 
 <img src="./img/july/winkler.jpg"><br><br>
 
+### 1920
+
+Konferencja w Spa - sprawa opóźnień rozbrajania Niemiec
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

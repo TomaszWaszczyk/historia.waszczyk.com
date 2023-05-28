@@ -16,6 +16,8 @@ https://galiciajewishmuseum.org/en/wystawy/helena-rubinstein-first-lady-of-beaut
 
 https://www.iwm.org.uk/history/operation-barbarossa-and-germanys-failure-in-the-soviet-union
 
+https://przystanekhistoria.pl/pa2/tematy/zsrs/88823,Bohaterowie-z-przypadku-Gorbaczow-i-Jaruzelski.html
+
 Herman Weil / Felix Weil
 
 lend lease

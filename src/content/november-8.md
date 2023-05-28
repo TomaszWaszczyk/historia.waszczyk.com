@@ -11,6 +11,16 @@ draft: false
 
 ### 2022
 
+> Rząd będzie zadłużał się za granicą. Rusza sprzedaż obligacji w dolarach
+
+Ministerstwo Finansów zdecydowało o sprzedaży obligacji w dolarach. Wybrał już nawet banki do ich emisji. Przypomnijmy, że sytuacja na rynku długu jest dla Polski trudna, a potrzeby pożyczkowe na 2023 r. są rekordowo wysokie.
+
+**Wniosek:** prawdopodobnie w przyszłości USDPLN będzie spadał (PLN się umacniał) z powodu potrzeby wymiany dolara (na kredyt) na PLN.
+
+Ministerstwo Finansów poinformowało w poniedziałek wieczorem, że "banki BNP Paribas, Deutsche Bank, Goldman Sachs Bank Europe SE, Santander i Société Générale otrzymały mandat na zorganizowanie emisji 5-letnich i 10-letnich obligacji benchmarkowych nominowanych w dolarze amerykańskim".
+
+---
+
 Today's Thought?
 
 2022 is the worst year for stock and bond investors since 1969, as negative returns hit both stocks and bonds concurrently...

@@ -11,6 +11,12 @@ draft: false
 
 ### 2023
 
+<img src="./img/may/ai.jpg"><br><br>
+
+<img src="./img/may/ai_2.jpg"><br><br>
+
+---
+
 Masowy wywóz drewna z Polski:
 
 <img src="./img/may/ekport_drewna_szczecin.jpeg"><br><br>

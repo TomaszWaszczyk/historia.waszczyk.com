@@ -37,6 +37,8 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+> TVN podejmie kroki prawne za nazwanie dziennikarza tej stacji przez Jarosława Kaczyńskiego "przedstawicielem Kremla". Oświadczenie w tej sprawie wygłosił na antenie dziennikarz stacji Piotr Marciniak.
+
 <!-- <video width="640" height="480" controls>
 <source src="./movies/may/who.mp4" type="video/mp4">
 Your browser does not support the video tag.

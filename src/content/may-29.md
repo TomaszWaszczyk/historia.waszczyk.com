@@ -3,11 +3,36 @@ layout: post
 title: 29 maja
 image: img/may/sprzedazdetaliczna.jpg
 author: Tomasz Waszczyk
-date: 2021-05-29T10:00:00.000Z
+date: 2022-05-29T10:00:00.000Z
 tags:
   - Sprzedaż detaliczna
 draft: false
 ---
+
+### 2023
+
+Web 3.0 white paper from the Beijing government tech committee with the June 1st anticipation in Hong Kong.
+
+<img src="./img/may/web3_china.jpeg"><br><br>
+
+---
+
+No Deal - US Treasury runs out of cash
+
+i. Tax revenues are more than enough to service US debt (no default);
+ii. Not enough cash left to pay for government expenses - expect Janet Yellen to inflict maximum political pain to the GOP by withholding payments where it hurts them the most;
+iii. USD squeeze - DXY to the moon - stress on the SOFR based Eurodollar ecosystem - USD indebted emerging economies are toast;
+iv. Economic pain as US government spending falls off a cliff; and
+v. US FED PIVOT???!!!
+---------
+Deal - US Debt Ceiling resolution
+vi. US government to raise capital to fund record deficits, replenish the TGA and [maybe] the SPR;
+vii. Expect record US treasury issuance at higher interest rates - upgrading the current crowding out effect, i.e., higher debt servicing costs, more pain for the [regional] banks, CREDIT CRUNCH; and
+viii. US Fed hikes higher for longer - think Fed Funds at 6% plus.
+
+<img src="./img/may/debt_usa.jpeg"><br><br>
+
+<img src="./img/may/us_debt_ceiling.jpeg"><br><br>
 
 ### 2020
 
