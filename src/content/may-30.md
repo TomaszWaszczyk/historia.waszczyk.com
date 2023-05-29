@@ -3,12 +3,17 @@ layout: post
 title: 30 maja
 image: img/may/kujawiak.jpg
 author: Tomasz Waszczyk
-date: 2021-05-30T10:00:00.000Z
+date: 2022-05-30T10:00:00.000Z
 tags:
   - Stopy procentowe
 draft: false
-
 ---
+
+### 2023
+
+> Bardzo dobre wyniki inwestycyjne Insignis dostrzeżone przez Parkiet
+
+<img src="./img/may/zakupy_na_lata.jpeg"><br><br>
 
 ### 2020
 

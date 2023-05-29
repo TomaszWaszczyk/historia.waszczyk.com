@@ -8,6 +8,8 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
+> Poznacie prawdę a prawda was wyzwoli- Ewangelia Jana 8:32
+
 <a href="https://historia.waszczyk.com/powiedzenia-bis" target="_blank">Powiedzenia - następna część</a>
 
 ### Stalin

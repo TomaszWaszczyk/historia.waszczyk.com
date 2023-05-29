@@ -11,6 +11,10 @@ draft: false
 
 ### 2023
 
+> Mołdawia: wojska NATO wkroczyły od strony Rumunii
+
+---
+
 <img src="./img/may/ai.jpg"><br><br>
 
 <img src="./img/may/ai_2.jpg"><br><br>

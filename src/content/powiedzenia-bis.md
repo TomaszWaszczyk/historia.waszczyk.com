@@ -8,6 +8,8 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
+> Poznacie prawdę a prawda was wyzwoli- Ewangelia Jana 8:32
+
 Rosja nigdy nie jest tak silna jak się sądzi, ani nigdy taka słaba jak sie wydaje.
 
 Naturalną konsekwencją dużej zmienności dodatniej (z punktu widzenia jednostki), jest duża zmienność ujemna dla innej jednostki(a ta jest destrukcyjna, a nawet potencjalnie śmiertelna).
