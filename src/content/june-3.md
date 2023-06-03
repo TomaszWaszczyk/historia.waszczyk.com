@@ -3,11 +3,17 @@ layout: post
 title: 3 czerwca
 image: img/june/oszczednosci.png
 author: Tomasz Waszczyk
-date: 2021-06-03T10:00:00.000Z
+date: 2022-06-03T10:00:00.000Z
 tags:
   - Polacy oszczędzają
 draft: false
 ---
+
+### 2023
+
+> PKO BP walczy o deponentów. Proponuje 10% na lokacie terminowej nie tylko nowym klientom
+
+Nowa tabela oprocentowania PKO Banku Polskiego przyniosła kilka nowości. Najważniejsza z nich dotyczy nowej lokaty terminowej. Spełniając warunki dodatkowe oferty, można zyskać do 10 proc. w skali roku na półrocznym depozycie.
 
 ### 2022
 

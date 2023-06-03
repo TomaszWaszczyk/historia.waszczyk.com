@@ -3,11 +3,25 @@ layout: post
 title: 31 maja
 image: img/may/chopin.jpg
 author: Tomasz Waszczyk
-date: 2021-05-31T10:00:00.000Z
+date: 2022-05-31T10:00:00.000Z
 tags:
   - Chopin
 draft: false
 ---
+
+### 2023
+
+<img src="./img/may/hayek.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/may/komisja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/may/udreka_tusk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2020 - Banki stracą miliardy na niskich stopach. Dla tych mniejszych to zagrożenie
 

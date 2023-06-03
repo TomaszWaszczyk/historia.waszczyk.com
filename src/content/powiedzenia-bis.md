@@ -78,6 +78,8 @@ In the absence of the gold standard, there is no way to prevent confiscation of 
 
 "Sovereignty is not given, it is taken." – Atatürk
 
+dwa razy się pomyśli, zanim nic się nie powie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
