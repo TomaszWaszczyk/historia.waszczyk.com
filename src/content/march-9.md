@@ -73,17 +73,17 @@ W odpowiedzi na kłamliwe informacje prasy dotyczące studenckich protestów, pa
 
 Lata 60, Bronisław Geremek w TVP prowadzi cykl programów historycznych, potępiających Armię Krajową i ruchy niepodległościowe.
 
-<img src="./img/march/geremek.jpeg"><br><br>
+<img src="./img/march/geremek.jpg"><br><br>
 
-<img src="./img/march/geremek1.jpeg"><br><br>
+<img src="./img/march/geremek1.jpg"><br><br>
 
-<img src="./img/march/geremek2.jpeg"><br><br>
+<img src="./img/march/geremek2.jpg"><br><br>
 
-<img src="./img/march/geremek3.jpeg"><br><br>
+<img src="./img/march/geremek3.jpg"><br><br>
 
-<img src="./img/march/geremek4.jpeg"><br><br>
+<img src="./img/march/geremek4.jpg"><br><br>
 
-<img src="./img/march/geremek5.jpeg"><br><br>
+<img src="./img/march/geremek5.jpg"><br><br>
 
 > "Są ludzie niezastąpieni, straciliśmy takiego człowieka" - mówił z kolei Aleksander Kwaśniewski. "Wierzę, że w tej sali, (...) pod patronatem profesora, będą wykuwały się idee i wartości - oby mu najbliższe - będziemy potrafili pokazać, że jesteśmy godni spuścizny Bronisława Geremka" - mówił były prezydent po śmierci Geremka.
 

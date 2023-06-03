@@ -3,15 +3,26 @@ layout: post
 title: 4 czerwca
 image: img/june/kolejchiny.jpg
 author: Tomasz Waszczyk
-date: 2021-06-04T10:00:00.000Z
+date: 2022-06-04T10:00:00.000Z
 tags:
   - Chiny, Kennedy
 draft: false
 ---
 
+### 2023
+
+> The IMF’s top 10 biggest debtors
+
+<img src="./img/june/debtors.jpg"><br><br>
+
 ### 2020
 
 <img src="./img/june/orwell.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/obowiazkowe_szczepienia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
