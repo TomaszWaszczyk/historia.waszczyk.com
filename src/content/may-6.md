@@ -18,6 +18,8 @@ BlackRock on Ukraine:
 Your browser does not support the video tag.
 </video>
 
+<img src="./img/may/ukraine.jpeg"><br><br>
+
 ### 2022
 
 <img src="./img/may/morawieckiwojna.jpeg"><br><br>

@@ -3,10 +3,31 @@ layout: post
 title: 5 czerwca
 image: img/june/barchanski.jpeg
 author: Tomasz Waszczyk
-date: 2021-06-05T10:00:00.000Z
+date: 2022-06-05T10:00:00.000Z
 tags:
   - Służba Bezpieczeństwa
 draft: false
+---
+
+### 2023
+
+<img src="./img/june/who.jpg"><br><br>
+
+---
+
+An statement from US presidential candidate Robert Kennedy Jr.:
+
+“In 1991-1992, we repeatedly promised the Russians verbally and in writing that if they withdraw 100,000 troops from Germany and allow the country to reunite within NATO, then we will not move NATO an inch east. Since then, we've moved the block a thousand miles east and opened up 14 new countries (note - now there are 15). The Russians warned then-Ambassador-now CIA chief Bill Burns that if NATO entered Ukraine, it would be a red line and should not be crossed. Let's put ourselves in the place of the Russians. My uncle (President Kennedy) always said, "Put yourself in your opponent's shoes."
+
+---
+
+"doktoraty" polskie:
+
+<video width="640" height="480" controls>
+<source src="./movies/june/sto_doktoratow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
@@ -115,6 +136,20 @@ Fragmenty artykułu na Wikipedii, Noc Teczek
 <img src="./img/june/walesa.jpeg"><br><br>
 
 ### 1989
+
+<img src="./img/june/1989.jpeg"><br><br>
+
+Lata 80s były jednymi z najstraszniejszych w historii PL. To dekada recesji, kartek, biedy, drenowania społeczeństwa. Stan wojenny złamał naród, wystraszył, wytworzył próżnię społeczną, amoralny familizm, indyferencję. Ludzie żyli tylko w bliskości z rodziną, stracili wiarę w politykę i opozycję. Ponad 200 tys. zbrodniczych wyroków z 1981/82 junty na podstawie dekretów (wzorowanych na stalinowskich) zrobiło swoje. Na mnie wrażenie robiły opowieści, jak 13 grudnia aresztowano ojca znajomych i wywieziono go do Wrocławia, matkę aresztowano i wywieziono do Białegostoku, ich trójkę małych dzieci rozdzielono i każde umieszczono w innym domu dziecka. Nikt nie chciał znowu tego przeżyć.
+
+Ale długi trzeba było spłacać - ponad 400 zachodnich banków pożyczyło PRL miliardy walut. Byliśmy uzależnieni od importu części zamiennych i resztek technologii, bez nich kraj w miesiąc stanąłby - rewolucja była wówczas pewna. Jaruzelski nie chciał rozmawiać ze zdelegalizowaną Solidarnością - jakiekolwiek ustępstwa groziły zbrodniarzowi kiedyś pociągnięciem do odpowiedzialności. Banki jednak naciskały na reformy i deeskalację... Wizyta w 1985 r. w biurze Chevron/ExxonMobil w Waszyngtonie, których właściciel David Rockefeller przyjął generała z honorami przez część historyków oceniania jest jako planowy upadek komunizmu w zamian za nietykalność dla nomenklatury. Na pewno był to początek fundacji kościelnej...
+
+Tj. po powrocie do W-wy Jaruzelski zlecił rozmowy z opozycją za pośrednictwem za pośrednictwem J. Glempa. Plan jednak nie powiódł się - zakulisową działalność prymasa zablokował jego zwierzchnik z Watykanu. Dopiero co przecież komuniści próbowali go zabić na placu św. Piotra. Tu banki zablokowały wypłatę kolejnej transzy kredytów i Jaruzelski odpuścił: nowe rozmowy zlecił gen. Kiszczakowi. Ten podjął rozmowy ze Wałęsą, na którego przecież miał lewar. Ruch robotniczy był dawno złamany, stąd przemiany i Solidarność przejęła inteligencja - Wałęsę wspierał Geremek, Mazowiecki, Michnik, Kuroń. Wszyscy kiedyś mniej lub bardziej byli związani z ustrojem, co ułatwiało rozmowy.
+
+W kamienicy SB na Zawrat Kiszczak i Wałęsa uzgodnili, że Okrągły Stół poprzedzą tajne negocjacje w willi MSW w Magdalence ▶️ Tam uzgodniono transformację, która o ironio nie miała nic wspólnego z przejściem do demokracji i kapitalizmu. "Nasz premier, wasz prezydent" - przy czym ten drugi miał mieć podczas 7-letniej kadencji wszechwładzę: np. resorty siłowe i możliwość rozwiązywania Sejmu. Częściowo wolne wybory okupione były zgodą, by głową państwa został złamany przez NKWD i KGB Jaruzelski, wg USA sowiecki żołnierz w polskim mundurze.
+
+Tak więc do 1996 przynajmniej miała trwać PRL, ale stało się coś, czego pierścień nie przewidział. Uśpione społeczeństwo w plebiscycie dało wyraz swojej frustracji i 4 czerwca wybrało wolność. W IPN do dziś jest notatka, jak plenum KC PZPR zakładało się o wynik wyborów. Tylko jeden komunista postawił na wygraną Solidarności..
+
+---
 
 Tiananmen Square incident, also called June Fourth incident or 6/4, series of protests and demonstrations in China in the spring of 1989 that culminated on the night of June 3–4 with a government crackdown on the demonstrators in Tiananmen Square in Beijing. Although the demonstrations and their subsequent repression occurred in cities throughout the country, the events in Beijing—especially in Tiananmen Square, historically linked to such other protests as the May Fourth Movement (1919)—came to symbolize the entire incident.
 
