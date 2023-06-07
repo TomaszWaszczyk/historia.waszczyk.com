@@ -3,11 +3,21 @@ layout: post
 title: 8 czerwca
 image: img/june/blockchain.jpeg
 author: Tomasz Waszczyk
-date: 2021-06-08T10:00:00.000Z
+date: 2022-06-08T10:00:00.000Z
 tags:
   - Mateusz Morawiecki
 draft: false
 ---
+
+### 2023
+
+"We have software factories now. In the future we will have AI factories, and they will build your company's intelligence." - Jensen Huang
+
+"Information transformed to other forms of information is now possible [in real time]." (Such as intake audio, turn into text, turn back into audio in another language in a real time video chat with an AI avatar.) - Jensen Huang
+
+"Processing power has increased 1,000X in the last five years. That's on track for 1,000,000 times in ten years." - Jensen Huang
+
+<img src="./img/june/ai.jpeg"><br><br>
 
 ### 2022
 

@@ -3,11 +3,15 @@ layout: post
 title: 7 czerwca
 image: img/june/berezowski.jpg
 author: Tomasz Waszczyk
-date: 2021-06-07T10:00:00.000Z
+date: 2022-06-07T10:00:00.000Z
 tags:
   - USA
 draft: false
 ---
+
+### 2023
+
+> "U nas nastąpiła nie spirala płac i cen, tylko raczej spirala marż i cen" - Glapiński
 
 ### 2022
 

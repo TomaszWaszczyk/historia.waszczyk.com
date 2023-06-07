@@ -3,9 +3,19 @@ layout: post
 title: 6 czerwca
 image: img/june/beatyfikacja.jpg
 author: Tomasz Waszczyk
-date: 2021-06-06T10:00:00.000Z
+date: 2022-06-06T10:00:00.000Z
 tags:
   - D-Day
+---
+
+### 2023
+
+<img src="./img/june/pope.jpeg"><br><br>
+
+---
+
+<img src="./img/june/realestate.jpeg"><br><br>
+
 ---
 
 ### 2022

@@ -8,6 +8,8 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+<img src="./img/others/sport/walk.jpeg"><br><br>
+
 ### Ćwiczenia
 
 1. Leżymy na macie trzymając w obu rękach piłkę, unosimy obie nogi i wyknujemy ruchy piłką do podłoża, raz w prawo raz w lewo.
