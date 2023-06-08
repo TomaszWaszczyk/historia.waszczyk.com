@@ -21,10 +21,6 @@ draft: false
 
 <img src="./img/june/pyrc.jpeg"><br><br>
 
-KPO:
-
-<img src="./img/june/kpo.jpeg"><br><br>
-
 ---
 
 <video width="640" height="480" controls>

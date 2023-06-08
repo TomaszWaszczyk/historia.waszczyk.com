@@ -92,6 +92,10 @@ Then Israel, meanwhile Poland.
 
 <img src="./img/march/chinapmi.jpeg"/><br><br>
 
+### 2018
+
+Prezydent Andrzej Duda zawetował tzw ustawę degradacyjną. Jako powód podał przepisy pozbawiające stopni wojskowych członków WRON z mocy prawa, bez możliwości złożenia wyjaśnień i bez trybu odwoławczego, a także brak zapewnienia odpowiedniej reprezentacji interesów osób nieżyjących.
+
 ### 1999
 
 Matrix

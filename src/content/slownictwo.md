@@ -1693,6 +1693,8 @@ pastuchowie niemieckiego bydła na uralu
 
 naysayers
 
+https://pl.wikipedia.org/wiki/Creatio_ex_nihilo
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

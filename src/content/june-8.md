@@ -19,6 +19,14 @@ draft: false
 
 <img src="./img/june/ai.jpeg"><br><br>
 
+---
+
+Polska zaciągnęła pożyczki na zakup uzbrojenia w Republice Korei o wartości niemal 40 mld złotych, a wkrótce dokona zakupów za drugie tyle – poinformowała południowokoreańska telewizja SBS „z okazji" wizyty na półwyspie wicepremiera Mariusza Błaszaka.
+
+<img src="./img/june/korea.webp"><br><br>
+
+---
+
 ### 2022
 
 Implant płatniczy w Centrum Pieniądza #NBP.

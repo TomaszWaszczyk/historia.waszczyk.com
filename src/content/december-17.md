@@ -96,6 +96,8 @@ Do Sejmu skierowany został pakiet 10 ustaw wprowadzających nowe zasady funkcjo
 Nowemu polskiemu parlamentowi zajęło zaledwie dwa tygodnie wprowadzenie tych regulacji w życie.
 1 stycznia 1990 roku razem ze zmianą nazwy Polska Rzeczpospolita Ludowa na Rzeczpospolita Polska oraz ukoronowaniem orła wszedł w życie ten różnie dziś oceniany plan.
 
+<img src="./img/december/imf-sachs-lipton.jpg"><br><br>
+
 ### 1953
 
 W Belwederze biskupi Episkopatu Polski Michał Klepacz ( zdjęcie) i Zygmunt Choromański złożyli uroczyste ślubowanie na wierność Polskiej Rzeczpospolitej Ludowej. Przysięga została złożona w imieniu całego Episkopatu, który upokarzając się w ten sposób przed władzami komunistycznymi został zmuszony, w związku z aresztowaniem prymasa Stefana Wyszyńskiego do przeciwdziałania, jak to oficjalnie określono, „wszelkim próbom siania niepokoju, godzącym we wspólne dobro
