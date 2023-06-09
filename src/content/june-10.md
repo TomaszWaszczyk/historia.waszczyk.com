@@ -17,6 +17,8 @@ Rząd chce zmienić deficyt na 2023
 
 👉 Po zmianie deficyt wyniesie 92 mld zł (6100zł na każdego pracującego obywatela nowego długu w 2023 - cały deficyt 92 mld zł)
 
+<img src="./img/june/apel.jpeg"><br><br>
+
 ### 2022
 
 > “I fear Bitcoin is often used for illicit finance” - Treasury Secretary Janet Yellen
