@@ -3,15 +3,26 @@ layout: post
 title: 9 czerwca
 image: img/june/bankrut.jpg
 author: Tomasz Waszczyk
-date: 2021-06-09T10:00:00.000Z
+date: 2022-06-09T10:00:00.000Z
 tags:
   - Mateusz Morawiecki
 ---
 
+### 2023
+
+Sekretarz NATO Jens Stoltenberg oświadczył 24 maja, że ​​członkowie sojuszu planują włączenie sie do wojny przeciwko Rosji.
+
+> Jest bardzo prawdopodobne, że kraje takie jak Polska wyślą wojska lądowe do walki z Rosją.
+
+---
+
+W maju Narodowy Bank Polski zwiększył swoje rezerwy złota o blisko 20 ton – wynika z obliczeń Bankier.pl. Byłby to więc drugi miesiąc z rzędu, w którym polskie władze monetarne zwiększyły zasoby królewskiego metalu.
+
+---
+
 ### 2022
 
-Yen is the new Turkish Lira.
-(joking aside the yeld curve control policies in japan are failing, and while everyone is distracted by the evil Putin a global financial crisis with epicenter in the Pacific is likely to be triggered.)
+Yen is the new Turkish Lira. (joking aside the yeld curve control policies in japan are failing, and while everyone is distracted by the evil Putin a global financial crisis with epicenter in the Pacific is likely to be triggered.)
 
 <img src="./img/june/yen.jpeg"><br><br>
 

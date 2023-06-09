@@ -3,15 +3,23 @@ layout: post
 title: 10 czerwca
 image: img/june/balancesheet.png
 author: Tomasz Waszczyk
-date: 2021-06-10T10:00:00.000Z
+date: 2022-06-10T10:00:00.000Z
 tags:
   - Balancesheet
 draft: false
 ---
 
+### 2023
+
+Rząd chce zmienić deficyt na 2023
+
+👉 Mieliśmy w tym roku zadłużyć się na 68 mld zł
+
+👉 Po zmianie deficyt wyniesie 92 mld zł (6100zł na każdego pracującego obywatela nowego długu w 2023 - cały deficyt 92 mld zł)
+
 ### 2022
 
-> “I fear #Bitcoin is often used for illicit finance” - Treasury Secretary Janet Yellen
+> “I fear Bitcoin is often used for illicit finance” - Treasury Secretary Janet Yellen
 
 <img src="./img/june/jimcrammer.jpeg"><br><br>
 
