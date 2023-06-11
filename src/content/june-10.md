@@ -19,6 +19,16 @@ Rząd chce zmienić deficyt na 2023
 
 <img src="./img/june/apel.jpeg"><br><br>
 
+<img src="./img/june/atom.jpeg"><br><br>
+
+---
+
+Czechy
+
+<img src="./img/june/czechy.jpeg"><br><br>
+
+---
+
 ### 2022
 
 > “I fear Bitcoin is often used for illicit finance” - Treasury Secretary Janet Yellen

@@ -3,9 +3,37 @@ layout: post
 title: 11 czerwca
 image: img/june/gdansk.jpg
 author: Tomasz Waszczyk
-date: 2021-06-11T10:00:00.000Z
+date: 2022-06-11T10:00:00.000Z
 tags:
   - Gdańsk
+---
+
+### 2023
+
+~20000 euro kary za jednego, nieprzyjętego do Polski imigranta ekonomicznego 😳
+
+45 euro wsparcia za jednego, przyjętego do Polski uchodźcę wojennego z Ukrainy 😥
+
+Aktualna kondycja odpowiedzialnych za zarządzanie Unią Europejską w pigułce🤦‍♂️
+
+<video width="640" height="480" controls>
+<source src="./movies/june/tvn.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/tylko_matka_pewna_jest.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/june/new_bull.jpeg"><br><br>
+
+<img src="./img/june/dekpol.jpeg"><br><br>
+
+<img src="./img/june/kruk.jpeg"><br><br>
+
 ---
 
 ### 2022
@@ -76,6 +104,12 @@ Od dawna mówiłem, że współczesna technologia może być wykorzystana do tot
 Tak będą gotowali tę żabę. Zawsze będą uzasadniali to względami bezpieczeństwa, sprawiedliwości społecznej, praworządności czy troską o zdrowie dzieci. Niepomni ostrzeżeń Benjamina Franklina ludzie dla pozorów tymczasowego bezpieczeństwa oddadzą swoją podstawową wolność.
 
 Totalitaryzm nie będzie wprowadzany przez złowieszczo wyglądających szaleńców, nie powstanie nigdy "ustawa o masowej inwigilacji i zniewoleniu". Totalitaryzm przyjdzie po cichu. Będą go popierać naukowcy, ludzie kultury i celebryci. Będzie przyjęty przez społeczeństwo w warunkach totalnego zobojętnienia i niezainteresowania, a czasem niecierpliwego oczekiwania. Większość nawet nie zwróci na sprawę żadnej uwagi. Nie będzie to nawet element publicznej debaty. To się po prostu stanie, a tak naprawdę to już się po prostu dzieje.
+
+---
+
+<img src="./img/june/ostatnia.jpeg"><br><br>
+
+---
 
 ### 1985
 
