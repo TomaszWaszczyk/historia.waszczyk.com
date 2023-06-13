@@ -3,11 +3,15 @@ layout: post
 title: 12 czerwca
 image: img/june/dobrorodziny.png
 author: Tomasz Waszczyk
-date: 2021-06-12T10:00:00.000Z
+date: 2022-06-12T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+<img src="./img/june/brics.jpg"><br><br>
 
 ### 2022
 

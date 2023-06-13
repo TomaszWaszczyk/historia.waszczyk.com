@@ -3,11 +3,19 @@ layout: post
 title: 13 czerwca
 image: img/june/kuklinski.jpg
 author: Tomasz Waszczyk
-date: 2021-06-13T10:00:00.000Z
+date: 2022-06-13T10:00:00.000Z
 tags:
   - Ryszard Kukliński
 draft: false
 ---
+
+### 2023
+
+> Wiceminister Patkowski prognozuje jednocyfrową inflację. 800 plus bez większego wpływu
+
+<img src="./img/june/patkowski.webp"><br><br>
+
+> Jest szansa, że inflacja w październiku 2023 r. spadnie do poziomu jednocyfrowego – taką opinię wyraził we wtorek wiceminister finansów Piotr Patkowski w Radiu Plus. Jak stwierdził, waloryzacja programu 500 plus do 800 zł zwiększy inflację bardzo nieznacznie, bo o 0,1 pp.
 
 ### 2022
 

@@ -64,6 +64,10 @@ TVN: Kurs bitcoina w dół. "Inwestujący muszą się liczyć z utratą wszystki
 
 ---
 
+### 2019
+
+<img src="./img/january/przekazanie.png"><br><br>
+
 ### 2006
 
 W warszawskim szpitalu przy ul. Banacha zmarł 90- letni ksiądz Jan Twardowski.

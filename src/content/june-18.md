@@ -80,7 +80,10 @@ Chiny planuja panazjatycką kryptowalutę która miałaby być rywalem #libracoi
 Już aktualnie Chińczycy korzystają z płatności elektronicznych na wielką skalę używając WeChat Pay czy AliPay, więc przejście na "oficjalną" wirtualną walutę nie będzie problemu.
 
 Zapowiedź Libry w zeszłym roku i tego jakie Facebook miał plany co do swojego dzieła, przyspieszyły pracę Chińskiego rządu nad stworzeniem czegoś swojego i na swój własny rynek. Takie posunięcia jak i nowe informacje co do tego jak Libra Coin będzie wyglądał, powodują, że wkraczamy coraz bardziej w czasy "zimnej wojny kryptowalutowej". Jestem ciekaw jakie nowe waluty wyjdą na przód i jak w tym wszystkim "tradycyjne" kryptowaluty się odnajdą.
-
+<!-- <video width="640" height="480" controls>
+<source src="./movies/june/angela_18_czerwiec_2019.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
 ### 1992
 
 Rozpoczęła działalność pierwsza polska sieć telefonii komórkowej PTK Centertel.
