@@ -5,7 +5,7 @@ image: img/june/robert_triffin_cut_sdr_bancor.jpg
 author: Tomasz Waszczyk
 date: 2022-06-15T10:00:00.000Z
 tags:
-  - 
+  - Bancor
 draft: false
 ---
 
