@@ -15,6 +15,12 @@ draft: false
 
 ---
 
+Piloci jako pierwsi przystąpili do protestów ponieważ chcą mieć pewność, że nie będą narzędziami państwa totalitarnego.
+
+> Protest przeciw reformie sądownictwa w Izraelu. 200 pilotów nie stawi się na szkolenia
+
+---
+
 Wiadomość od ING:
 
 > "obniżamy maksymalne limity dzienne dla przelewów zleconych w systemie bankowości internetowej z 400 000 zł na 200 000 zł, zleconych w aplikacji mobilnej ze 100 000 zł na 50 000 zł..."

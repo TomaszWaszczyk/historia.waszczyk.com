@@ -3,10 +3,24 @@ layout: post
 title: 14 czerwca
 image: img/june/sobor.jpg
 author: Tomasz Waszczyk
-date: 2021-06-14T10:00:00.000Z
+date: 2022-06-14T10:00:00.000Z
 tags:
   - Sobór Watykański II
 draft: false
+---
+
+### 2023
+
+<img src="./img/june/china-treasury.png"><br><br>
+
+---
+
+Rosyjski politolog o wojnie z Ukrainą:
+
+> Zrzućmy bombę atomową na "umowny Poznań"
+
+Znany rosyjski politolog proponuje zaatakowanie bronią jądrową Zachodu, by wygrać wreszcie wojnę z Ukrainą
+
 ---
 
 ### 2022

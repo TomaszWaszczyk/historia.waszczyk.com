@@ -1,17 +1,26 @@
 ---
 layout: post
 title: 15 czerwca
-image: img/june/
+image: img/june/robert_triffin_cut_sdr_bancor.jpg
 author: Tomasz Waszczyk
-date: 2021-06-15T10:00:00.000Z
+date: 2022-06-15T10:00:00.000Z
 tags:
   - 
 draft: false
 ---
 
+### 2023
+
+Africa says bye to the US dollar. The President of Kenya, Williams Ruto, urges African nations to dump USD under tumultuous applause. With every nation that rejects USD as reserve currency the US Govt will pay a higher price for printing money (inflation).
+
+<video width="640" height="480" controls>
+<source src="./movies/june/africa_usd.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2022
 
-IMF ADMITTING THEY PRINTED TO MUCH MONEY
+> IMF ADMITTING THEY PRINTED TO MUCH MONEY
 
 These Are The "Leaders" Of Europe, Chuckling As They Admit They Didn't Think About What Massive Money Printing Might Lead To Such As Intolerable Wealth Gaps And Inflation.
 
