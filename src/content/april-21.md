@@ -32,6 +32,8 @@ Polska w rankingu World Press Freedom Index:
 Klub Paryski zredukował o 50% polski dług zagraniczny.
 Państwom zrzeszonym w Klubie Paryskim, m.in. Francji, RFN, Wielkiej Brytanii i USA, Polska była winna ok. 60 mld dolarów. Wskutek zabiegów rządu Jana Krzysztofa Bieleckiego i prezydenta Lecha Wałęsy udało się umorzyć połowę zadłużenia pod warunkiem kontynuowania wolnorynkowych reform. Ówcześni analitycy sejmowi określali tę decyzję jako bezprecedensową w historii międzynarodowych finansów, porównywalną jedynie do umorzenia niemieckich długów w 1953 r. (50 proc.) i indonezyjskich w latach 1966-70 (60 proc.). Rok później łączne zadłużenie Polski wynosiło „zaledwie” 46 mld dol. Według Ministerstwa Finansów Polska jest dziś zadłużona na ok. 273 mld dolarów.
 
+<!-- klub londyński -->
+
 <img src="./img/april/klubparyski.jpg"><br><br>
 
 <a href="./documents/april/Acta_Universitatis_Lodziensis_Folia_Oeconomica.pdf" target="_blank">Klub Paryski</a>

@@ -80,6 +80,8 @@ In the absence of the gold standard, there is no way to prevent confiscation of 
 
 dwa razy się pomyśli, zanim nic się nie powie
 
+"Być sobą" to najlepszy sposób, by być nikim; "żyć po swojemu" to najlepszy sposób, by żyć byle jak; "iść za głosem serca" to najlepszy sposób, by zagłuszyć rozum; a "łapać chwilę" to najlepszy sposób, by zmarnować wieczność. Słowem - im więcej swawoli, tym więcej niewoli, a im więcej frywolności, tym mniej wolności.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

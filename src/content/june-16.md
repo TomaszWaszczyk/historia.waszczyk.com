@@ -3,11 +3,32 @@ layout: post
 title: 16 czerwca
 image: img/june/defimarketcapio.png
 author: Tomasz Waszczyk
-date: 2021-06-16T10:00:00.000Z
+date: 2022-06-16T10:00:00.000Z
 tags:
   - Deutsche Bank
 draft: false
 ---
+
+### 2023
+
+Hakainde Hichilema, Prezydent Republiki Zambii jest kolejnym gościem Prezydenta AndrzejDuda
+
+Prezydenci rozmawiali o relacjach dwustronnych - gospodarczych, społecznych, edukacji i technologii oraz rosyjskiej agresji na Ukrainę.
+
+To pierwsze spotkanie Prezydentów Polski i Zambii.
+
+<img src="./img/june/zambia.jpeg"><br><br>
+
+<!-- <video width="640" height="480" controls>
+<source src="./movies/bezpieczenstwo.mp4/" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
+
+---
+
+Białoruś: Szczepienie na COVID na liście szczepień obowiązkowych dzieci
+
+Ministerstwo Zdrowia Białorusi włączyło szczepienie na COVID-19 dzieci powyżej 12. roku życia na listę szczepień obowiązkowych w kraju - informuje rosyjska agencja informacyjna Interfax.
 
 ### 2020
 
