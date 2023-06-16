@@ -3,10 +3,19 @@ layout: post
 title: 17 czerwca
 image: img/june/hanke-hyperinflation.png
 author: Tomasz Waszczyk
-date: 2021-06-17T10:00:00.000Z
+date: 2022-06-17T10:00:00.000Z
 tags:
   - Hyperinflation
 ---
+
+### 2023
+
+Tak Putin skomentował wezwania Zachodu, by Rosja zredukowała swój potencjał nuklearny:
+
+<video width="640" height="480" controls>
+<source src="./movies/june/putin_pierdolic_ich.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 
