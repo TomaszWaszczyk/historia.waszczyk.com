@@ -59,6 +59,40 @@ Your browser does not support the video tag.
 
 https://pl.wikipedia.org/wiki/Instrukcja_UOP_nr_0015/92
 
+### 1959
+
+The Triffin dilemma, or Triffin´s paradox, was first described by the economist Robert Triffin in 1959. He described the dilemma that arises when a nation´s currency also serves as the international reserve currency, i.e., the U.S. dollar $. This situation creates differing objectives between short-term domestic policies and long-term international policies. To solve this dilemma, the international reserve currency should not be a nation´s currency. The IMF has proposed different solutions like the Bancor, but none of these solutions have been able to replace the USD. A decentralized currency like Bitcoin could offer a solution.
+
+The Triffin Dilemma
+
+The dilemma consists of the following:
+
+1. The country whose currency is the international reserve needs to supply a surplus in order to establish a risk-free reserve currency. This creates a trade deficit. In the long run, continued deficits decrease the value and credibility of the currency.
+
+2. The country becomes more indebted to foreign nationals until the currency ceases to be risk-free, thereby defeating the system.
+
+The domestic citizens don´t want their country to continually lose money, which is essentially what happens to supply enough money for the international trade reserves. The accumulation of dollars outside of the U.S. would result in an excessive quantity of dollars outside the U.S., whereby the U.S. would not hold enough gold reserves to pay back the foreign holdings of dollars with the corresponding holdings of gold.
+
+History
+
+Following World War II, the U.S. dollar was decided to be the international reserve currency. It was not until 1958 that the Bretton Woods system became fully operational. Countries now settled their international accounts in dollars that could be converted to gold at a fixed exchange rate of $35 per ounce, redeemable by the U.S. government. Thus, the United States was committed to backing every dollar overseas with gold, and other currencies were pegged to the dollar. In 1959, the economist Robert Triffin predicted the failure of the gold standard and Bretton woods system. A negative balance of payments, growing public debt incurred by the Vietnam War, and monetary inflation by the Federal Reserve caused the dollar to become increasingly overvalued in the 1960s. By 1966, non-US central banks held $14 billion, while the United States had only $13.2 billion in gold reserve. Of those reserves, only $3.2 billion was able to cover foreign holdings as the rest was covering domestic holdings.
+
+Twelve years after the prediction of Triffin the Nixon shock happened. Nixon directed Treasury Secretary Connally to suspend, with certain exceptions, the dollar’s convertibility into gold or other reserve assets, ordering the gold window to be closed such that foreign governments could no longer exchange their dollars for gold. This essentially meant the end of the backing up of U.S. dollars with gold and the end of the gold standard.
+
+To make sure that the U.S. dollar wouldn´t lose its status, a deal with Saudi Arabia was made. Saudi Arabia agreed to sell oil in U.S. dollars, thereby effectively making the `petro´ dollar. Today we have the petrodollar and fiat system of currency. In this system, money is created by the extension of credit or issuance of debt. In the modern fractional reserve banking system, commercial banks are able to create credit money by issuing loans in greater amounts than the reserves they hold in their vaults. This means that in order to create one us dollar of cash, there will have to be a corresponding dollar of debt. Because the accumulation of a universally uniform medium like gold, silver, or bitcoin is unnecessary, it has become easy to print money. Now we see an explosion in debt that will never be able to be paid off. (Nabu, 2020)
+
+What Will Be Next?
+
+In history, global reserve currencies have been replaced before, and it is not unimaginable that there will be an end of the U.S. dollar as a global reserve currency. The question is, what would take its place?
+
+Bancor is a supranational currency proposed by John Maynard Keynes and E. F. Schumacher and the United Kingdom between 1942–1944 in order to facilitate global trade. Since the outbreak of the financial crisis in 2008, Keynes’s proposal has been revived. In 2009, Zhou Xiaochuan, the governor of the People’s Bank of China, called Keynes’s bancor approach `farsighted´ and proposed the adoption of International Monetary Fund (IMF) special drawing rights (SDRs) as a global reserve currency as a response to the financial crisis of 2007–2010.
+
+The SDR is neither a currency nor a claim on the IMF. Instead, it is a potential claim on the freely usable currencies of IMF members. SDRs can be exchanged for these currencies. The SDR was initially defined as equivalent to 0.888671 grams of fine gold — which, at the time, was also equivalent to one U.S. dollar. After the collapse of the Bretton Woods system, the SDR was redefined as a basket of currencies. At this moment, these currencies are the Chinese RMB, U.S. dollar, euro, Japanese yen, and British pound sterling. The downside of the SDRs is that it is sensitive to politics and is centrally controlled by the IMF.
+
+An alternative could be the use of BTC. Bitcoin is capped at 21 million, so it’s harder money than any dollar. Digital scarcity is the fundamental property of Bitcoin’s value. Another big advantage of BTC is that it is a decentralized system. It is beyond the influence of governments and politicians, and countries cannot use it for monetary policies. In May 2010, the first real-world transaction was performed by buying two pizzas for 10,000 BTC. At this moment, more than 10,000,000 transactions per month are performed. BTC has a proven record for usability, and already functions as a `back-up´ currency, often in countries where the national currency is not useful anymore. For this moment, the high volatility of BTC is a disadvantage, but as BTC matures future, volatility will become less.
+
+Triffin was accurate in his prediction, but he probably never would have thought that there would be a digital asset viable for use as a global reserve currency.
+
 ### 1940
 
 Pierwsi polscy więźniowie osadzeni w dniu poprzednim w KL Auschwitz zostali poddani tzw. kwarantannie. Miała ona na celu sterroryzowanie ich oraz doprowadzanie do psychicznego i fizycznego załamania. Codziennie po apelu porannym wypędzano ich na cały dzień na podwórze. Tam w tumanach kurzy na komendę esesmanów i kapów musieli ćwiczyć "padnij", "powstań", "skacz żabkę", "czołgaj się" itp. Nazywano to "sportem". W przerwach między ćwiczeniami uczono więźniów niemieckich piosenek marszowych, form meldowani i odmeldowania się, sposobu nakładania i zdejmowania czapek na komendę. Towarzyszyło temu bestialskie bicie i maltretowanie więźniów przez esesmanów oraz niemieckich kapów.

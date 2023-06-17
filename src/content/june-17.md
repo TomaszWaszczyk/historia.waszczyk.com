@@ -17,6 +17,17 @@ Tak Putin skomentował wezwania Zachodu, by Rosja zredukowała swój potencjał 
 Your browser does not support the video tag.
 </video>
 
+---
+
+> Tarczyński: Teraz to Niemcy będą przyjeżdżać na truskawki do nas
+
+<video width="640" height="480" controls>
+<source src="./movies/june/brakkomenatrza.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 <video width="640" height="480" controls>

@@ -1695,6 +1695,10 @@ naysayers
 
 https://pl.wikipedia.org/wiki/Creatio_ex_nihilo
 
+Hassliebe
+
+Abfallnation - narody odpadki, które nie przetrwają rewolucji
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

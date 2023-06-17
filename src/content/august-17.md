@@ -17,6 +17,12 @@ Radikale Proteste befürchtet Hessens Sicherheitsbehörden wappnen sich für hei
 
 Corona, Gasknappheit, Inflation: Nutzen Extremisten die akuten Krisen, um heftiger als bisher gegen den Staat mobil zu machen? Hessens Verfassungsschützer sind besorgt und sehen schon erste Anzeichen für radikalere Proteste.
 
+---
+
+<img src="./img/august/medycy_czwarta_dawka.jpg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/august/sasiniprad.jpeg"><br><br>
