@@ -3,10 +3,25 @@ layout: post
 title: 18 czerwca
 image: img/june/chinacurrency.png
 author: Tomasz Waszczyk
-date: 2021-06-18T10:00:00.000Z
+date: 2022-06-18T10:00:00.000Z
 tags:
   - Digital Currency in China
 draft: false
+---
+
+### 2023
+
+Wczoraj na Międzynarodowym Forum Ekonomicznym w Petersburgu pokazano potworne materiały dokumentalne o okrucieństwach nazistów UPA.
+
+<video width="640" height="480" controls>
+<source src="./movies/june/upa-rosja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/june/01.jpg"><br><br>
+
 ---
 
 ### 2022
