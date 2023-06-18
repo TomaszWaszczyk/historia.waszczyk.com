@@ -24,6 +24,10 @@ Your browser does not support the video tag.
 
 ---
 
+"Majowe zakupy NBP były największe na świecie. W efekcie przez dwa pierwsze miesiące drugiego kwartału zasoby złota banku centralnego liczone w tonach wzrosły o ok. 15,5 proc. Równocześnie, jak zauważają analitycy firmy Tavex, majowe zakupy NBP były największe na świecie – za plecami zostawiliśmy nawet Chiny, które dokupiły 16 ton, wobec niemal 20 ton kupionych przez Polskę".
+
+---
+
 ### 2022
 
 > Russia President Putin: Some global currencies are “committing suicide”
