@@ -3,16 +3,30 @@ layout: post
 title: 20 czerwca
 image: img/june/Wojciech_Roszkowski.jpg
 author: Tomasz Waszczyk
-date: 2021-06-20T10:00:00.000Z
+date: 2022-06-20T10:00:00.000Z
 tags:
   - Zachód upadnie?
 ---
 
+### 2023
+
+Prąd z Ukrainy płynie do Polski(od około 15. maja)!!! Nowe połączenie ruszyło po cichu - politycy ani media jakoś przypadkiem o tym nie mówią.
+
+PS. Na Ukrainie są warunki wojenne. W Polsce nie..
+
+> Bez konferencji, przemówień polityków i przecinania wstęgi — w poniedziałek 15 maja ruszył komercyjny przesył energii elektrycznej nową linią Rzeszów-Chmielnicka. Aktualnie do Polski płynie prąd z Chmielnickiej Elektrowni Jądrowej.
+
+<img src="./img/june/elektrownia_chmielnicka.jpg"><br><br>
+
+Zdjęcie: Chmielnicka Elektrownia Jądrowa w Niecieszynie (obwód chmielnicki) na Ukrainie.
+
+Plan wymiany międzysystemowej na obecną dobę przewiduje import ukraińskiej energii do naszego kraju w godzinach nocnych oraz w godz. 9-15. Zdolności przesyłowe w tym przypadku sięgają 200 MW. Możliwy jest także eksport polskiego prądu do Ukrainy, ale nie jest zaplanowany na najbliższe godziny.
+
+<img src="./img/june/plan_wymiany.jpg"><br><br>
+
 ### 2022
 
-Założyłeś PPK, IKE, IKZE nie dostaniesz emerytury z #US 🤔
-Suweren sprytny, ale władza ludu sprytniejsza 😁
-#ZUS, dzięki aktywnemu udziałowi PiS, m.in. obniżeniu wieku emerytalnego jest bankrutem o czym wiedzą już prawie wszyscy. Zabrakło chętnych, żeby dać się wydoić na "system zastępczy" czyli #PPK. Ale to nie koniec drogi ku "szczęśliwości emeryta". 
+Założyłeś PPK, IKE, IKZE nie dostaniesz emerytury z US 🤔 Suweren sprytny, ale władza ludu sprytniejsza 😁 ZUS, dzięki aktywnemu udziałowi PiS, m.in. obniżeniu wieku emerytalnego jest bankrutem o czym wiedzą już prawie wszyscy. Zabrakło chętnych, żeby dać się wydoić na "system zastępczy" czyli #PPK. Ale to nie koniec drogi ku "szczęśliwości emeryta".
 
 ---
 
