@@ -3,11 +3,35 @@ layout: post
 title: 19 czerwca
 image: img/june/chreptowicz.jpg
 author: Tomasz Waszczyk
-date: 2021-06-19T10:00:00.000Z
+date: 2022-06-19T10:00:00.000Z
 tags:
   - Joachim Chreptowicz
 draft: false
 ---
+
+### 2023
+
+*Game Theory* pertaining to crypto is playing out right before our eyes. Here's a statement from UK Prime Minister Rishi Sunak regarding a16z's expansion to the UK:
+
+"As we cement the UK's place as a science and tech superpower, we must embrace new innovations like Web3, powered by blockchain technology, which will allow start-ups to flourish here and grow the economy.
+
+That success is founded on having the right regulation and guardrails in place to protect consumers and foster innovation. While there's still work to do, I am determined to unlock opportunities for this technology and turn the UK into the world's Web3 centre.
+
+That's why I am thrilled world-leading investor, Andreesen Horowitz, has decided to open their first international office in the UK — which is a testament to our world-class universities and talent and our strong competitive business environment. "
+
+---
+
+Bank Japonii pod nowym kierownictwem utrzymał starą politykę pieniężną. Japończycy pozostają osamotnieniu w ultraluźnym nastawieniu i wciąż zamierzają „drukować” biliony jenów w celu utrzymania absurdalnie niskich stóp procentowych.
+
+<img src="./img/june/stopy_procentowe.webp"><br><br>
+
+---
+
+> Nauczycielka plastyki wiceprezeską w PGNiG
+
+PGNiG, należąca do Grupy Orlen, ma nową panią wiceprezes. Jest nią Stanisława Kasprzycka, dotąd dyrektorka szkoły podstawowej i nauczycielka plastyki
+
+<img src="./img/june/pgnig.webp"><br><br>
 
 ### 2022
 
