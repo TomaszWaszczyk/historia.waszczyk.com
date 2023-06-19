@@ -3,10 +3,25 @@ layout: post
 title: 21 czerwca
 image: img/june/commercialindustrialloans.png
 author: Tomasz Waszczyk
-date: 2021-06-21T10:00:00.000Z
+date: 2022-06-21T10:00:00.000Z
 tags:
   - Commercial and Industrial Loans
 draft: false
+---
+
+### 2023
+
+<img src="./img/june/10yrs.jpeg"><br><br>
+
+---
+
+Melinda Gates, says mothers with no running water need mobile phones to track their children and make sure they get vaccinated!
+
+<video width="640" height="480" controls>
+<source src="./movies/june/melinda.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

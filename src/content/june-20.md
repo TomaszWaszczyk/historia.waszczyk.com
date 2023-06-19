@@ -10,6 +10,30 @@ tags:
 
 ### 2023
 
+> BLINKEN SAYS U.S. DOES NOT SUPPORT TAIWAN INDEPENDENCE
+
+<img src="./img/june/blinken.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/climatechange.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/stan-umyslu-kobiet.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Po 22 latach Chiny zniosły embargo na polską wołowinę.
+
+---
+
 Prąd z Ukrainy płynie do Polski(od około 15. maja)!!! Nowe połączenie ruszyło po cichu - politycy ani media jakoś przypadkiem o tym nie mówią.
 
 PS. Na Ukrainie są warunki wojenne. W Polsce nie..
@@ -23,6 +47,15 @@ Zdjęcie: Chmielnicka Elektrownia Jądrowa w Niecieszynie (obwód chmielnicki) n
 Plan wymiany międzysystemowej na obecną dobę przewiduje import ukraińskiej energii do naszego kraju w godzinach nocnych oraz w godz. 9-15. Zdolności przesyłowe w tym przypadku sięgają 200 MW. Możliwy jest także eksport polskiego prądu do Ukrainy, ale nie jest zaplanowany na najbliższe godziny.
 
 <img src="./img/june/plan_wymiany.jpg"><br><br>
+
+<!-- ---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/rapper.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
+
+---
 
 ### 2022
 

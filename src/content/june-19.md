@@ -33,6 +33,16 @@ PGNiG, należąca do Grupy Orlen, ma nową panią wiceprezes. Jest nią Stanisł
 
 <img src="./img/june/pgnig.webp"><br><br>
 
+---
+
+Na komputerze prezesa spółki Nitro-Chem informatycy zainstalowali szpiegowskie oprogramowanie na polecenie jego poprzednika. Dane o najwyższej wadze dla bezpieczeństwa Polski i NATO wyciekały w niewiadomym kierunku
+
+---
+
+<img src="./img/june/coraztaniej.jpeg"><br><br>
+
+---
+
 ### 2022
 
 > “In the 21st Century, we may see the Emergence..of a new massive class of ‘Useless People’…people that have absolutely no ‘Economic Value" -Yuval Harari
