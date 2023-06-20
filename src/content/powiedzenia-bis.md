@@ -84,6 +84,12 @@ dwa razy się pomyśli, zanim nic się nie powie
 
 “The welfare of humanity is always the alibi of tyrants.” -Camus
 
+And Nature allows the evolution of parasitism and predation as well as the evolution of symbiotic relationships.
+
+'the idea is to decentralize control' ~ John Forbes Nash Jr., Parallel Control, 1954
+
+Socialists want to create a world free from material possessions... for you, but not for them.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

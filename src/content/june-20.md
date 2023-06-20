@@ -10,6 +10,10 @@ tags:
 
 ### 2023
 
+Intel zainwestuje około 30 mld euro w budowę dwóch fabryk czipów w Magdeburgu w Saksonii-Anhalt. Od Niemiec otrzyma prawie 10 mld euro.
+
+---
+
 > BLINKEN SAYS U.S. DOES NOT SUPPORT TAIWAN INDEPENDENCE
 
 <img src="./img/june/blinken.jpeg"><br><br>
@@ -22,6 +26,8 @@ Your browser does not support the video tag.
 </video>
 
 ---
+
+Natomiast w Polsce:
 
 <video width="640" height="480" controls>
 <source src="./movies/june/stan-umyslu-kobiet.mp4" type="video/mp4">

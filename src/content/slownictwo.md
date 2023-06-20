@@ -1699,6 +1699,8 @@ Hassliebe
 
 Abfallnation - narody odpadki, które nie przetrwają rewolucji
 
+The khawal (Arabic: خوال) was a traditional native Egyptian male dancer cross-dressed in feminine attire and was popular up until the late eighteenth and early nineteenth centuries.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

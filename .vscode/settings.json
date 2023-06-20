@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#CD853F",
+    "activityBar.activeBorder": "#552BBF",
+    "activityBar.foreground": "#2e0594",
+    "activityBarBadge.background": "#552BBF",
+    "activityBar.inactiveForeground": "#0030ce"
+},
+  "cSpell.words": ["historia"],
+}

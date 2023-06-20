@@ -11,6 +11,12 @@ draft: false
 
 ### 2023
 
+<img src="./img/june/original_zelensky_black_rock_jp.png"><br><br>
+
+BlackRock and JPMorgan Chase are reportedly aiding the Ukrainian government in setting up a reconstruction bank that could see rebuilding projects being heavily invested in by private entities. The Financial Times noted that it would cost Ukraine roughly $411 billion to rebuild their country amid the onslaught of attacks by Russia, but the cost is continuing to increase.
+
+---
+
 <img src="./img/june/10yrs.jpeg"><br><br>
 
 ---

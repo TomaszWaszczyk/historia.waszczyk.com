@@ -3,10 +3,29 @@ layout: post
 title: 22 czerwca
 image: img/june/bagration.jpg
 author: Tomasz Waszczyk
-date: 2021-06-22T10:00:00.000Z
+date: 2022-06-22T10:00:00.000Z
 tags:
   - Stalin
 draft: false
+---
+
+### 2023
+
+W najświeższym oświadczeniu Bankowego Funduszu Gwarancyjnego (BFG) poinformowano, że w dniu 28 kwietnia został złożony wniosek do sądu w celu ogłoszenia upadłości Getin Noble Bank. Ta decyzja stanowi kolejny krok w procedurze przymusowej restrukturyzacji, którą BFG realizuje w odpowiedzi na wymogi Komisji Europejskiej.
+Getin Noble Bank to instytucja, która od dłuższego czasu zmagała się z trudnościami finansowymi i problemami operacyjnymi. Wprowadzenie procedury przymusowej restrukturyzacji ma na celu przeprowadzenie gruntownej oceny sytuacji banku i podjęcie odpowiednich działań w celu naprawy sytuacji finansowej i operacyjnej.
+Bankowy Fundusz Gwarancyjny, działając jako instytucja zabezpieczająca depozyty, będzie teraz odpowiadał za ochronę interesów klientów banku objętych upadłością.
+W ramach tego systemu, klientom banków przysługuje gwarancja zwrotu depozytów do określonej kwoty, która wynosi obecnie do 100 000 euro.
+W dniu 3 października 2022 r. działalność Getin Noble Bank (GNB) została przeniesiona do VeloBanku, z wyjątkiem portfela kredytów udzielonych w formie frankowej. VeloBank stał się nowym właścicielem GNB i jest współwłasnością Bankowego Funduszu Gwarancyjnego (BFG) oraz Systemu Ochrony Banków Komercyjnych (SOBK). SOBK jest tworzony przez osiem największych banków komercyjnych działających w Polsce.
+Przeniesienie działalności miało na celu przeprowadzenie przymusowej restrukturyzacji oraz zapewnienie ciągłości obsługi klientów banku i bezpieczeństwa ich środków. Aby to osiągnąć, przewidziano kwotę 10,34 mld zł bezzwrotnego wsparcia, z czego 6,87 mld zł pochodzi z funduszy własnych BFG, a 3,47 mld zł to zaangażowanie środków SOBK. Według oszacowań Deloitte Advisory, Getin Noble Bank miał ujemne kapitały własne w wysokości -3,6 mld zł, co oznacza, że wartość jego aktywów nie wystarczała na pokrycie zobowiązań.
+Leszek Czarnecki domaga się od państwa prawie 1,5 mld zł w związku z przejęciem Getin Noble Banku, którego był założycielem.
+Dla większych klientów banku, którzy posiadają znacznie większe kwoty zgromadzone na swoich kontach, sytuacja może być bardziej skomplikowana. W takich przypadkach, Bankowy Fundusz Gwarancyjny może zwrócić tylko część zgromadzonych środków, które nie przekraczają gwarantowanej kwoty. W związku z tym, duże instytucje finansowe i korporacje muszą być ostrożne i świadome tego ryzyka.
+
+---
+
+Mózgotrzepy wchodzą do Polski:
+
+<img src="./img/june/mozgotrzepy.jpeg"><br><br>
+
 ---
 
 ### 2021
