@@ -17,6 +17,12 @@ BlackRock and JPMorgan Chase are reportedly aiding the Ukrainian government in s
 
 ---
 
+> ‘Accounting error’ provides extra $6.2 BILLION for Ukraine
+
+<img src="./img/june/accounting-error.mp4"><br><br>
+
+---
+
 <img src="./img/june/10yrs.jpeg"><br><br>
 
 ---

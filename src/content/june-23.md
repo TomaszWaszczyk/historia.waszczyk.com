@@ -3,10 +3,16 @@ layout: post
 title: 23 czerwca
 image: img/june/christian.png
 author: Tomasz Waszczyk
-date: 2021-06-23T10:00:00.000Z
+date: 2022-06-23T10:00:00.000Z
 tags:
   - Ekonomia
 ---
+
+### 2023
+
+<img src="./img/june/zgony.jpg"><br><br>
+
+W szczycie pandemii rządy i eksperci na całym świecie nakłaniały, czy wręcz zmuszały obywateli do szczepień przeciwko COVID-19, argumentując, że to jedyna interwencja, która może zmniejszyć śmiertelności. Jednak do tej pory żadne poważne randomizowane i kontrolowane badanie nie wykazało zmniejszenia liczby zgonów dzięki szczepionkom przeciwko COVID-19. Wręcz przeciwnie, system raportowania danych na całym świecie zgłaszają zwiększoną śmiertelność, która jest zbieżna z terminem wprowadzeniem szczepionek.
 
 ### 2022
 

@@ -22,11 +22,34 @@ Dla większych klientów banku, którzy posiadają znacznie większe kwoty zgrom
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/june/digital_currency.MP4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/mlode-pokolenie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 Mózgotrzepy wchodzą do Polski:
 
 <img src="./img/june/mozgotrzepy.jpeg"><br><br>
 
 ---
+
+Ukraińskie truskawki zalewają polski rynek. Nie ma nad tym żadnej kontroli. Branży owocowej grozi załamanie — mówi Mirosław Maliszewski, prezes Związku Sadowników RP
+
+---
+
+<!-- <video width="640" height="480" controls>
+<source src="./movies/june/prototyp.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
 
 ### 2021
 
