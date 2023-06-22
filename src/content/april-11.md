@@ -80,6 +80,12 @@ Niemand steht auf und sagt: Ich bin Faschist. Offensichtlich stimmt da was nicht
 
 Und manchmal sind die Leute, die nach mehr Demokratie rufen, dieselben, die sie in Wahrheit zerstören wollen.
 
+### 2013
+
+<img src="./img/april/terminy.jpg"><br><br>
+
+<img src="./img/april/terminy2.jpg"><br><br>
+
 ### 1940
 
 Z rozkazu Hitlera nazwa miasta Łódź została zmieniona na Litzmannstadt. Uhonorowano i uczczono w ten sposób pamięć hitlerowskiego polityka i dowódcy walk o Łódź w czasie 1 wojny światowej Karla Litzmanna.

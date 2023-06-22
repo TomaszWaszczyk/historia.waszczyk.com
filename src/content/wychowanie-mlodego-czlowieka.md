@@ -127,6 +127,8 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * Bliżej Lasu. Opowiadania przyrodnicze dla dzieci, które ciągle pytają "dlaczego?
 
+* https://wizardzines.com/zines/integers-floats/
+
 <video width="640" height="480" controls>
   <source src="./movies/wychowanie-mlodego-czlowieka/wujek-sknerus.mp4" type="video/mp4">
 Your browser does not support the video tag.

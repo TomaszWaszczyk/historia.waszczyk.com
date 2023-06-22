@@ -11,6 +11,19 @@ draft: false
 
 ### 2023
 
+<img src="./img/june/owacjenastojaco.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/owacjenastojaco.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/june/hamburg.jpeg"><br><br>
+
+---
+
 W najświeższym oświadczeniu Bankowego Funduszu Gwarancyjnego (BFG) poinformowano, że w dniu 28 kwietnia został złożony wniosek do sądu w celu ogłoszenia upadłości Getin Noble Bank. Ta decyzja stanowi kolejny krok w procedurze przymusowej restrukturyzacji, którą BFG realizuje w odpowiedzi na wymogi Komisji Europejskiej.
 Getin Noble Bank to instytucja, która od dłuższego czasu zmagała się z trudnościami finansowymi i problemami operacyjnymi. Wprowadzenie procedury przymusowej restrukturyzacji ma na celu przeprowadzenie gruntownej oceny sytuacji banku i podjęcie odpowiednich działań w celu naprawy sytuacji finansowej i operacyjnej.
 Bankowy Fundusz Gwarancyjny, działając jako instytucja zabezpieczająca depozyty, będzie teraz odpowiadał za ochronę interesów klientów banku objętych upadłością.
@@ -19,6 +32,18 @@ W dniu 3 października 2022 r. działalność Getin Noble Bank (GNB) została pr
 Przeniesienie działalności miało na celu przeprowadzenie przymusowej restrukturyzacji oraz zapewnienie ciągłości obsługi klientów banku i bezpieczeństwa ich środków. Aby to osiągnąć, przewidziano kwotę 10,34 mld zł bezzwrotnego wsparcia, z czego 6,87 mld zł pochodzi z funduszy własnych BFG, a 3,47 mld zł to zaangażowanie środków SOBK. Według oszacowań Deloitte Advisory, Getin Noble Bank miał ujemne kapitały własne w wysokości -3,6 mld zł, co oznacza, że wartość jego aktywów nie wystarczała na pokrycie zobowiązań.
 Leszek Czarnecki domaga się od państwa prawie 1,5 mld zł w związku z przejęciem Getin Noble Banku, którego był założycielem.
 Dla większych klientów banku, którzy posiadają znacznie większe kwoty zgromadzone na swoich kontach, sytuacja może być bardziej skomplikowana. W takich przypadkach, Bankowy Fundusz Gwarancyjny może zwrócić tylko część zgromadzonych środków, które nie przekraczają gwarantowanej kwoty. W związku z tym, duże instytucje finansowe i korporacje muszą być ostrożne i świadome tego ryzyka.
+
+---
+
+Szpital chce wziąć 20 mln zł pożyczki w parabanku. Powodem utrata płynności finansowej
+
+Dyrekcja Radomskiego Szpitala Specjalistycznego wnioskuje do Rady Społecznej placówki o zgodę na "zaciągnięcie kolejnej długoterminowej pożyczki w parabanku". - Szpital utracił płynność finansową - tłumaczy szef lecznicy Marek Pacyna. Pożyczka w wysokości 20 mln zł miałaby pokryć część zaległych faktur. Zobowiązania na koniec kwietnia sięgały 26 mln zł.
+
+---
+
+<img src="./img/june/sokolowska.jpg"><br><br>
+
+Źródło: https://myrotvorets.center/criminal/?cf%5Bname%5D=Katarzyna+Soko%C5%82owska+&cf%5Bcountry%5D=&cf%5Baddress%5D=&cf%5Bphone%5D=&cf%5Bdesc%5D=
 
 ---
 
@@ -65,6 +90,16 @@ Jednak sytuacja na rynku pracy nie musi być tak zła, jak sugerują dane - kome
 
 Jego zdaniem badania CBO wskazują, że wiele osób dobrowolnie pozostaje na bezrobociu, gdyż zasiłek razem z rządową kryzysową dopłatą oferuje im wyższe przychody niż regularne wynagrodzenie.
 
+### 2017
+
+<img src="./img/june/makercdp2017.jpeg"><br><br>
+
+### 2013
+
+<img src="./img/march/prajs.jpg"><br><br>
+
+<a href="./documents/march/MC4_Functies_bij_schermenv0.3.pdf" target="_blank">MC4_Functies_bij_schermenv0.3.pdf</a>
+
 ### 2004
 
 W Warszawie zmarła Anna Zawadzka - harcmistrzyni, uczestniczka powstania warszawskiego, siostra Tadeusza Zawadzkiego "Zośki", anglistka, autorka opracowań historycznych o harcerstwie, w latach 80. aktywnie pracowała nad zmianami w ZHP, przyczyniła się do przywrócenia tradycyjnego Prawa i Przyrzeczenia Harcerskiego.
@@ -81,6 +116,12 @@ Na zdjęciu jedna z ulotek z okresu stanu wojennego.
 <img src="./img/june/ulotka.jpg"><br><br>
 
 ### 1944
+
+From the CIA’s 1944 Simple Sabotage Field Manual: A Timeless Guide to Subverting Any Organization with “Purposeful Stupidity”
+
+<img src="./img/june/stupidity.png"><br><br>
+
+---
 
 Armia Czerwona rozpoczęła operację "Bagration", która doprowadziła do całkowitej klęski niemieckiej Grupy Armii „Środek” oraz osiągnięcia przez sowietów linii Wisły.
 Stalin świadomie wybrał tę datę.
