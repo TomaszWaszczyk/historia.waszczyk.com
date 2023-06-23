@@ -20,6 +20,13 @@ Your browser does not support the video tag.
 
 ---
 
+```
+25 lutego 2022: Koncern tytoniowy Philip Morris poinformował, że zawiesza swoją działalność na Ukrainie z powodu trwającej wojny. 
+22 czerwca 2023: Philip Morris zainwestuje ponad 30 mln USD w nowy zakład w Ukrainie
+```
+
+---
+
 <img src="./img/june/hamburg.jpeg"><br><br>
 
 ---

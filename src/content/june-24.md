@@ -3,11 +3,29 @@ layout: post
 title: 24 czerwca
 image: img/june/wojnanagorze.jpg
 author: Tomasz Waszczyk
-date: 2021-06-24T10:00:00.000Z
+date: 2022-06-24T10:00:00.000Z
 tags:
   - Wojna na górze
 draft: false
 ---
+
+### 2023
+
+> Micheil Saakaszwili: Putin użyje "czerwonego guzika". Celami będą Kijów i Rzeszów
+> "Władimir Putin użyje broni nuklearnej przeciwko Ukrainie. Stanie się to w momencie wkroczenia sił zbrojnych na Krym" - twierdzi Micheil Saakaszwili. Według niego decyzja o użyciu broni jądrowej zostanie poprzedzona prowokacją na Białorusi.
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/june/wehavesystem.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/june/sladweglowy.jpg"><br><br>
+
+<img src="./img/june/usdtry.png"><br><br>
+
+<!-- <img src="./img/june/olena.jpeg"><br><br> -->
 
 ### 2021
 

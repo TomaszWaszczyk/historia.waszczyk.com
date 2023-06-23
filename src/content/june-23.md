@@ -10,6 +10,15 @@ tags:
 
 ### 2023
 
+Nassim Nicholas Taleb, @nntaleb, says that Bitcoin is bad and central banking is good because:
+• The Federal Reserve is transparent
+• The USD system can be influenced
+• “We know what’s going on.”
+
+<img src="./img/june/wehavesystem.mp4"><br><br>
+
+---
+
 <img src="./img/june/zgony.jpg"><br><br>
 
 W szczycie pandemii rządy i eksperci na całym świecie nakłaniały, czy wręcz zmuszały obywateli do szczepień przeciwko COVID-19, argumentując, że to jedyna interwencja, która może zmniejszyć śmiertelności. Jednak do tej pory żadne poważne randomizowane i kontrolowane badanie nie wykazało zmniejszenia liczby zgonów dzięki szczepionkom przeciwko COVID-19. Wręcz przeciwnie, system raportowania danych na całym świecie zgłaszają zwiększoną śmiertelność, która jest zbieżna z terminem wprowadzeniem szczepionek.
