@@ -14,6 +14,14 @@ draft: false
 <img src="./img/june/dot_attack.jpg"><br><br>
 <!-- <img src="./img/june/ukraine.jpeg"><br><br> -->
 
+---
+
+<img src="./img/june/puppets.jpeg"><br><br>
+
+> The CEO of the centralized exchange is a professional and goes on panels with important people like Bill Clinton. You can trust him. He's not going to have double-spending relations with your assets.
+
+---
+
 ### 2021
 
 Dziwne chmury
