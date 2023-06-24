@@ -14,6 +14,11 @@ draft: false
 <img src="./img/june/dot_attack.jpg"><br><br>
 <!-- <img src="./img/june/ukraine.jpeg"><br><br> -->
 
+Światowe Forum Ekonomiczne (WEF) apeluje do światowych rządów o przyjęcie nowych celów związanych z zieloną agendą, które znacząco zmniejszą liczbę prywatnych samochodów. WEF naciska na szokujący cel redukcji prywatnej własności samochodów, w tym pojazdów elektrycznych, o aż 75% do roku 2050.
+Redukcja aut o 75%.
+
+Organizacja Światowego Forum Ekonomicznego (WEF) twierdzi, że do 2050 roku większość światowej populacji będzie mieszkać w miastach, co skutkować będzie ograniczeniem potrzeby posiadania prywatnych samochodów i korzystania z komercyjnych podróży lotniczych. Według raportu opublikowanego przez Wall Street Journal, WEF przedstawiło te nowe postulaty w dokumencie informacyjnym zatytułowanym "Narzędzie karty wyników mobilności miejskiej: analiza porównawcza przejścia do zrównoważonej mobilności miejskiej"
+
 ---
 
 <img src="./img/june/puppets.jpeg"><br><br>
