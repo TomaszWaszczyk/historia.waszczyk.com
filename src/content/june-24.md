@@ -16,6 +16,12 @@ draft: false
 
 ---
 
+> Gen. Andrzejczak: „Po zakończeniu działań wojennych za naszą wschodnią granicą, POL i UKR będą największą siłą militarną w Europie, dlatego już teraz należy myśleć jak tym potencjałem dobrze zarządzić”.
+
+<img src="./img/june/zart.jpeg"><br><br>
+
+---
+
 <video width="640" height="480" controls>
 <source src="./movies/june/wehavesystem.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -39,6 +45,15 @@ Dania jest rekordzistą pod względem okresu utrzymywania ujemnej stopy procento
 <img src="./img/june/procentycovid.png"><br><br>
 
 ---
+
+### 2011
+
+Trupie Pole na ukrainie - ekshumacja z 2011 r. pomordowanych Polaków ze wsi Ostrówki. Znaleziono ok 261 ofiar rzezi, w tym 150 dzieci. W sumie ukraińcy zamordowali w Ostrówkach prawie pół tysiąca Polaków (145 mężczyzn, 125 kobiet i 204 dzieci).
+
+<video width="640" height="480" controls>
+<source src="./movies/june/trupiepole.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1990
 

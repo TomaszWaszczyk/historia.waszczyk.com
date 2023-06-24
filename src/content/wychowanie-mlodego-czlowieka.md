@@ -139,6 +139,8 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+* Pismo Święte dla młodych. Biblia tysiąclecia
+
 * https://wakelet.com/@Laboratoria_Przyszlosci
 
 * https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w

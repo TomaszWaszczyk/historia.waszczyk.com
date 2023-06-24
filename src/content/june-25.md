@@ -3,11 +3,16 @@ layout: post
 title: 25 czerwca
 image: img/june/radom2.jpg
 author: Tomasz Waszczyk
-date: 2021-06-25T10:00:00.000Z
+date: 2022-06-25T10:00:00.000Z
 tags:
   - Radom
 draft: false
 ---
+
+### 2023
+
+<img src="./img/june/dot_attack.jpg"><br><br>
+<!-- <img src="./img/june/ukraine.jpeg"><br><br> -->
 
 ### 2021
 
