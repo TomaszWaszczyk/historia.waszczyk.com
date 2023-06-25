@@ -3,10 +3,33 @@ layout: post
 title: 26 czerwca
 image: img/june/baizuo.jpeg
 author: Tomasz Waszczyk
-date: 2021-06-26T10:00:00.000Z
+date: 2022-06-26T10:00:00.000Z
 tags:
   - 白左
 draft: false
+---
+
+### 2023
+
+<img src="./img/june/Linux-storage-stack-diagram_v6.2.png"><br><br>
+
+---
+
+<img src="./img/june/turkish-lira.jpeg"><br><br>
+
+---
+
+> One of the biggest banks in Australia, Westpac, restricts customers to $667 cash withdrawal limit.
+
+<img src="./img/june/mfa_russia.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/june/climate_change.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/june/wellsfargo.jpeg"><br><br>
+
 ---
 
 ### 2022

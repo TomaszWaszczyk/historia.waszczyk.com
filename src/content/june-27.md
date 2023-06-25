@@ -3,10 +3,26 @@ layout: post
 title: 27 czerwca
 image: img/june/takilajf.jpeg
 author: Tomasz Waszczyk
-date: 2021-06-27T10:00:00.000Z
+date: 2022-06-27T10:00:00.000Z
 tags:
   - Segregacja
 draft: false
+---
+
+### 2023
+
+<img src="./img/june/recession.jpeg"><br><br>
+
+One of bond market's most reliable gauges of impending US recessions is back in solidly triple-digit negative territory as investors absorbed disappointing US manufacturing-sector data & a spate of European central bank interest-rate hikes.
+
+The 2s/10s yield spread drops < -100bps.
+
+---
+
+<img src="./img/june/markowitz.jpeg"><br><br>
+
+Harry Markowitz did pass away June 22nd in San Diego, CA. One of the greatest minds and pioneers for quant finance.
+
 ---
 
 ### 2022
