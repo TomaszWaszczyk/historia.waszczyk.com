@@ -8,6 +8,13 @@ tags:
   - Wybory prezydenckie 2020
 ---
 
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/june/you-are-problem.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2022
 
 > Fed Chair Powell: We now know how little we understand about inflation.
@@ -63,6 +70,10 @@ Okoliczności jego śmierci to splot wielu kontrowersji i niejasności. Według 
 Pogrzeb Romka Strzałkowskiego odbył się 2 lipca 1956 r. na cmentarzu junikowskim o godzinie 17.00. Oficjalnie jednak informacje te zostały zmodyfikowane. 1 lipca ukazał się Głos Wielkopolski , w którym zmieniono godzinę pochówku na 8:00, pomijając fakt, iż zmarły był uczniem Szkoły Podstawowej nr 40 w Poznaniu. Dodatkowo zniekształcono cyfry określające wiek. Cyfrę 3 można było odczytać jako 8 (Romek zmarł w wieku trzynastu lat). Fakt ten tłumaczono jako nieumyślny błąd w korekcie.
 
 <img src="./img/june/romek.jpg"><br><br>
+
+### 1933
+
+<img src="./img/june/nsdap.jpg"><br><br>
 
 ### 1930
 
