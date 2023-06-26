@@ -3,7 +3,7 @@ layout: post
 title: 28 czerwca
 image: img/june/nalog.png
 author: Tomasz Waszczyk
-date: 2021-06-28T10:00:00.000Z
+date: 2022-06-28T10:00:00.000Z
 tags:
   - Wybory prezydenckie 2020
 ---
@@ -14,6 +14,10 @@ tags:
 <source src="./movies/june/you-are-problem.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<img src="./img/june/shareholder.jpeg"><br><br>
+
+<img src="./img/june/panstwo-opiekun.jpg"><br><br>
 
 ### 2022
 
