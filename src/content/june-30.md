@@ -3,10 +3,35 @@ layout: post
 title: 30 czerwca
 image: img/june/samsonowicz.jpg
 author: Tomasz Waszczyk
-date: 2021-06-30T10:00:00.000Z
+date: 2022-06-30T10:00:00.000Z
 tags:
   - Inflacja bazowa
 draft: false
+---
+
+### 2023
+
+> Mam na działalność gospodarczą założony licznik. Zużyłem 30kwh energi za 2 miesiące. Cena 1kWh? 10.6 zł. Świetnie dobrane abonamenty dla małych przedsiębiorstw
+
+<img src="./img/june/cena-energii.jpeg"><br><br>
+
+---
+
+Po 38 latach, pan Zygmunt z żoną, zamykają swój sklep. Nie dają rady. Może jeśli będziecie w pobliżu,to zajrzycie, kupicie , co tam jeszcze zostanie. Za tydzień ich już nie będzie. Pruszkowska 15 Warszawa
+
+Oczywiście takich sklepów jest setki tysięcy.
+
+<img src="./img/june/sklep.jpeg"><br><br>
+
+---
+
+Głębia strategiczna:
+
+<video width="640" height="480" controls>
+<source src="./movies/june/glebia_strategiczna.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

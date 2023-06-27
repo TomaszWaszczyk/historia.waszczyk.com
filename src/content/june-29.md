@@ -3,11 +3,15 @@ layout: post
 title: 29 czerwca
 image: img/june/tischner.jpg
 author: Tomasz Waszczyk
-date: 2021-06-29T10:00:00.000Z
+date: 2022-06-29T10:00:00.000Z
 tags:
   - Panoptikum
 draft: false
 ---
+
+### 2023
+
+<a href="./documents/june/skompr_MZBO_Rafał_Kasprzyk.pdf" target="_blank">Złośliwe sterowanie ludzi i maszyn</a>
 
 ### 2022
 

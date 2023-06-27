@@ -90,6 +90,10 @@ And Nature allows the evolution of parasitism and predation as well as the evolu
 
 Socialists want to create a world free from material possessions... for you, but not for them.
 
+Drugą Wojnę Światową wygrali amerykanie rękami i krwią rosyjskich żołnierzy (i polskich - w mniejszej części).
+
+real is rare
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
