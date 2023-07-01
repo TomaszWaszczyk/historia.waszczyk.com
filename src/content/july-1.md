@@ -3,9 +3,27 @@ layout: post
 title: 1 lipca
 image: img/july/1mln.jpeg
 author: Tomasz Waszczyk
-date: 2021-07-01T10:00:00.000Z
+date: 2022-07-01T10:00:00.000Z
 tags:
   - Banknot 500PLN - inflacja
+---
+
+### 2023
+
+Premier: Za wcześnie na decyzję o stanie wyjątkowym
+
+> "Decyzja, czy na pewnym obszarze kraju wprowadzić stan wyjątkowy w związku z obecnością grupy Wagnera na Białorusi, byłaby obecnie przedwczesna, decyzja zostanie podjęta, gdy będzie pełen obraz sytuacji" - powiedział premier Mateusz Morawiecki.
+
+Na ten moment wiemy, że na Białorusi szykowane są miejsca dla bojowników grupy Wagnera, z grupy Prigożyna. Obserwujemy, jak sytuacja się rozwinie - powiedział premier, pytany na konferencji w Brukseli, czy w związku z prawdopodobną obecnością najemników z grupy Wagnera na Białorusi jest planowane wprowadzenie stanu wyjątkowego na części terytorium Polski.
+
+Przygotowania do potencjalnego rozbioru Polski.
+
+---
+
+<img src="./img/june/monetary.jpg"><br><br>
+
+<img src="./img/june/plaza.jpg"><br><br>
+
 ---
 
 ### 2022

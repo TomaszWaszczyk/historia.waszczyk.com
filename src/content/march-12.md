@@ -31,6 +31,21 @@ draft: false
 
 Australia cuts benchmark interest rate to record low 0.25% Australia’s central bank has cut its benchmark interest rate to a record low 0.25%, seeking to ease the cost of credit.
 
+---
+
+Imam brags: "France WILL become an Islamic country through Jihad; The entire world WILL be subject to Islamic Rule"  
+
+The French will:  "Convert to Islam, be Forced to pay Jizya poll tax, or be fought against for the sake of Allah"  
+
+In 2017, France silenced my warnings by banning my Twitter account, dismissing the major concerns I raised about the perils of their open border policies. Now, as I had forewarned, those concerns have materialized, and the country is facing the consequences of being conquered.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/france.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 1948
 
 Fragment książki Aleksandry Pietrowicz pod tytułem "Życie pod lupą bezpieki"

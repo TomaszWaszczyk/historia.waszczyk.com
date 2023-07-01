@@ -94,6 +94,8 @@ Drugą Wojnę Światową wygrali amerykanie rękami i krwią rosyjskich żołnie
 
 real is rare
 
+clarify, do not simplify
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
