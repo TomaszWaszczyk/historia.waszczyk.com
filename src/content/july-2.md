@@ -3,10 +3,33 @@ layout: post
 title: 2 lipca
 image: img/july/inflacja.jpg
 author: Tomasz Waszczyk
-date: 2021-07-02T10:00:00.000Z
+date: 2022-07-02T10:00:00.000Z
 tags:
   - Podaż M3
 ---
+
+### 2023
+
+Shortly: The FED is underwater and this is serious problem for every individual around the world!
+
+Jerome Powell stated that the losses being incurred by the Federal Reserve are "just paper losses...it's just an accounting effect".
+
+What? These are REAL losses, Mr Powell.
+
+Since the Fed last raised interest rates it has been paying 5% to depositors whilst only earning around 2.8% on its portfolio of Treasury bonds and mortgage-backed securities. That means it is making REAL losses, not PAPER ones.
+
+Here is the context from Mr Powell's testimony to the Senate Banking Committee a week ago after a question from Senator Scott:
+
+Mr Scott:  "You have an 8 trillion balance sheet and beyond.  Every report I have read is that your bond portfolio, our bond portfolio, the Fed, is underwater as well. Can you talk to me about the losses that you’re experiencing at the Fed?".
+
+Powell: "For many years we have been earning a spread. And we’ve been sending money to the Treasury. Way over a trillion dollars since QE started. And, so, now that rates have gone back up to five percent, that process has reversed. These are paper losses and they have absolutely no effect on our ability to conduct monetary policy or really on the economy it’s just an accounting effect.....The Treasury will have to borrow money that it doesn’t get,(or raise taxes). But it’s not going to raise interest rates…much."
+
+<img src="./img/june/fed.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/july/powel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 
