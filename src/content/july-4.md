@@ -3,9 +3,37 @@ layout: post
 title: 4 lipca
 image: img/july/kluszyn.jpg
 author: Tomasz Waszczyk
-date: 2021-07-04T10:00:00.000Z
+date: 2022-07-04T10:00:00.000Z
 tags:
   - Kłuszyn
+---
+
+### 2023
+
+Potentially, the chart below could end the eurozone as we know it today.
+
+<img src="./img/july/euro-money-m3.png"><br><br>
+
+---
+
+> „Rosjanie zgromadzili na południowym froncie tak duże ilości sprzętu i ludzi, że atakowanie ich bez samolotów F16 to jak atakowanie ich łukami i strzałami” – parafrazował dowódcę sił zbrojnych Ukrainy - Dmytro Antoniuk, korespondent RadioWnet
+
+---
+
+Na kryzys bankowy/walutowy:
+
+<img src="./img/july/future.jpeg"><br><br>
+
+---
+
+Świat arabski wchodzi również do zbankrutowanej Polski (po zachodzie Europy)
+
+<img src="./img/july/swiat_muzlumanski.jpeg"><br><br>
+
+---
+
+<img src="./img/july/der_onet.jpg"><br><br>
+
 ---
 
 ### 2022

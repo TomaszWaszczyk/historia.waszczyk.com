@@ -19,6 +19,12 @@ Według francuskiego prezydenta uczestnicy zamieszek zostali „otruci grami wid
 Your browser does not support the video tag.
 </video>
 
+> Macron Demands Platforms Delete Riot Content; Blames Social Media & Video Games For Protest Spread
+> “We’ve seen them; Snapchat, TikTok and several others, serve as places where violent gatherings have been organized, but there’s also a form of mimicry of the violence which for some young people leads them to lose touch with reality.
+> “You get the impression that for some of them they are experiencing on the street the video games that have intoxicated them,” he added.
+
+<img src="./img/july/macron.jpg"><br><br>
+
 As France and now Belgium burn, a warning from Fmr Foreign Minister of the UAE back in 2017:
 
 <video width="640" height="480" controls>
