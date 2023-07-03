@@ -3,9 +3,35 @@ layout: post
 title: 3 lipca
 image: img/july/prognozy-nfz.png
 author: Tomasz Waszczyk
-date: 2021-07-03T10:00:00.000Z
+date: 2022-07-03T10:00:00.000Z
 tags:
   - NFZ
+---
+
+### 2023
+
+Macron: Gry komputerowe są przyczyną niepokojów we Francji
+
+Według francuskiego prezydenta uczestnicy zamieszek zostali „otruci grami wideo” i po prostu powtórzyli swoje historie. Obecne zamieszki we Francji staną się powodem do silnej cenzury platform internetowych oraz może(?) limitowania dostępu do sieci Internet.
+
+<video width="640" height="480" controls>
+<source src="./movies/july/macron-platforms.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+As France and now Belgium burn, a warning from Fmr Foreign Minister of the UAE back in 2017:
+
+<video width="640" height="480" controls>
+<source src="./movies/july/uae.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Durna polska propaganda dla "libków":
+
+<img src="./img/july/durna_polska_propaganda.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -119,6 +145,13 @@ ZOMO zostały ostatecznie rozwiązane 7 września 1989 roku.
 W Warszawie zmarł Tadeusz Borowski - poeta, prozaik, publicysta. W czasie okupacji hitlerowskiej studiował w podziemiu polonistykę na Uniwersytecie Warszawskim, był jednym z najlepszych studentów. W 1943 roku został więźniem Pawiaka, z Pawiaka przewieziono go do niemieckiego obozu koncentracyjnego KL Auschwitz-Birkenau. W 1944 roku został przewieziony do obozu Natzweiler-Dautmergen, a następnie do Dachau. Doczekał wyzwolenia przez armię amerykańską. Został przeniesiony do obozu dla dipisów. W 1946 roku powrócił do Polski Ludowej. W swych zbiorach opowiadań ,,Byliśmy w Oświęcimiu'', ,,Pożegnanie z Marią'', ,,Kamienny świat'' przedstawił rozpad wartości humanistycznych oraz deprawację człowieka w hitlerowskim systemie zagłady. W 1948 roku został członkiem PPR. Pełnił obowiązki rzecznika realizmu socjalistycznego, a także pracował dla wywiadu wojskowego. 26 czerwca 1951 roku został ojcem. Okoliczności śmierci poety nie są do końca znane. W zatruciu gazem i środkami farmakologicznymi dopatrywano się motywy samobójczego. Poeta został pochowany w Warszawie, na Cmentarzu Wojskowym na Powązkach. Pośmiertnie odznaczony został Krzyżem Komandorskim Orderu Odrodzenia Polski. Miał 29 lat.
 
 <img src="./img/july/borowski.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/july/chiny.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
