@@ -1707,6 +1707,8 @@ felonia
 
 Schwarzarbeit
 
+szwung pot. «energia i zapał do działania»
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

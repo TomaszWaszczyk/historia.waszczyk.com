@@ -3,14 +3,28 @@ layout: post
 title: 5 lipca
 image: img/july/gabreski.jpg
 author: Tomasz Waszczyk
-date: 2021-07-05T10:00:00.000Z
+date: 2022-07-05T10:00:00.000Z
 tags:
   - Francis Gabreski
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/july/magic.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/july/bezpieczny_kredyt.jpeg"><br><br>
+
 ---
 
 ### 2022
 
 Poziom zaszczepienia (Reuters):
+
 - w Polsce 72% --> 27 mln (+) / 11 mln (-)
 - na Ukrainie 36 % --> 17 mln (+) / 31 mln (-)
 

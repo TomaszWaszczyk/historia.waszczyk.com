@@ -96,6 +96,8 @@ real is rare
 
 clarify, do not simplify
 
+health is wealth
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
