@@ -3,9 +3,44 @@ layout: post
 title: 8 lipca
 image: img/july/tesla.jpeg
 author: Tomasz Waszczyk
-date: 2021-07-08T10:00:00.000Z
+date: 2022-07-08T10:00:00.000Z
 tags:
   - Gold $1800
+---
+
+### 2023
+
+> If you think housing is in trouble now, wait until they impose rent controls
+
+---
+
+To jest cyrk, tylko na żywo, w rzeczywistości:
+
+<img src="./img/july/cyrk.jpg"><br><br>
+
+> Nowa projekcja NBP dotycząca inflacji zbyt optymistyczna?
+> Czwartek przyniósł jeszcze jedną istotną kwestię z punktu widzenia ekonomistów: nową projekcję inflacji NBP. Zgodnie z nią wskaźnik wzrostu cen ma spaść nawet do poziomu 11,1 proc. w 2023 r. i 3,7 proc. w 2024 r. W okolicach inflacyjnego celu NBP (2,5 proc.) duże szanse znaleźć się ma dopiero w roku 2025 r.
+
+---
+
+<img src="./img/july/ecb.png"><br><br>
+
+---
+
+There are a lot of simplistic comments on breaking encryption/cryptography with quantum computers. So, I thought I would put the record straight:
+
+Algorithms: Not every algorithm will run more efficiently on a quantum computer than on a traditional one. But they are well-matched to factorization problems and which breaks public key encryption.
+
+Public key encryption: Shor’s algorithm shows that we will be able to break ALL existing public key methods, such as RSA, ECC and discrete logs. In the case of RSA, we can determine the two prime numbers (p and q) that make up the public modulus (N). If you use digital signatures (eg RSA, DSA, ECDSA and EdDSA), public key encryption (RSA and ElGamal), and key handshaking (eg TLS and IPSec), you will need to migrate your existing methods to a PQC (Post Quantum Cryptography) method, such as CRYSTALS-Kyber for key exchange/public key and CRYSTALS-Dilithium or SPHINCS+ for digital signatures.
+
+Symmetric key: Grover’s algorithm showed a speed-up in the attack on AES, and could break 128-bit AES. We thus only need to move to 256-bit AES to overcome this. If you are on 256-bit AES, you are fine in the face of the onset of quantum computers but will need to upgrade to 256-bit AES, if not.
+
+Hashing: To be safe, we need to move to 256-bit hashing methods, such as SHA-256, Blake 2/3 and SHA-3. Anyway, you shouldn't be using MD5 or SHA-1 in your applications. If you are, please stop, and upgrade to a 256-bit hashing method!
+
+---
+
+> Runet. Rosja przetestowała odłączenie od międzynarodowego internetu
+
 ---
 
 ### 2022

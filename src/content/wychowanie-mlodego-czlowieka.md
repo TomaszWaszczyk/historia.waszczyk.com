@@ -556,7 +556,7 @@ Odrzucaj je, jeśli okażą się błędne.
 
 1.  Przejawiaj ciekawość i ufaj, że można się dogadać.
 Myśl raczej o tym, co się dzieje, a nie czyja to wina, i zatrzymaj się, gdy czujesz, że pogarszasz sytuację. -->
-
+<!-- czynność jako proces - kupowanie mleka, mycie podłogi etc. etc. -->
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
 
 ---

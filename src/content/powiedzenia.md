@@ -3896,6 +3896,8 @@ w czasie wojny, prawda jest tak cenna, że musi jej towarzyszyć ochroniarz kła
 
 "I didn’t raise 50m, I don’t wake up at 5am, I don’t do yoga, I don’t read 3 books a day, I don’t have a mentor, I don’t use Instagram, I don’t use Notion, I never see the end of my to do list, I didn’t grow up in Paris, I didn’t run a marathon, I didn’t study at HEC, I don’t use telegram, I don’t like to be a speaker, I don’t have a ping pong table in our offices, I don’t have a personal assistant, I don’t use Calendly, I didn’t climb the Kilimanjaro, I don’t have a podcast, I am not vegan, I don’t drive a tesla. "
 
+"Freedom is earned day by day." — Antonio Escohotado"
+
 <a href="https://historia.waszczyk.com/powiedzenia-bis" target="_blank">Powiedzenia - następna część</a>
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->

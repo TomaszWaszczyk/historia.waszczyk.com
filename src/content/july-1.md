@@ -296,6 +296,11 @@ W jej skład weszli: Naczelnik Państwa Józef Piłsudski jako przewodniczący o
 
 ### 1916
 
+<video width="640" height="480" controls>
+<source src="./movies/july/somma.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Nad rzeką Sommą w płn. Francji rozpoczęła się bitwa będąca symbolem koszmaru walk pozycyjnych I wojny światowej. Po trwających 4 miesiące zmaganiach straty sprzymierzonych wyniosły ponad 600 tys. ofiar, niemieckie – co najmniej 465 tys.
 
 Dowództwo niemieckie zdawało sobie sprawę z niebezpieczeństwa prowadzenia wojny na dwa fronty. Z tego względu feldmarszałek Alfred von Schlieffen opracował plan szybkiego przełamania linii obrony francuskiej i wygrania wojny na zachodzie, aby móc przemieścić jednostki wojskowe z frontu zachodniego na front wschodni.
