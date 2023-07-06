@@ -3,9 +3,29 @@ layout: post
 title: 7 lipca
 image: img/july/wilno_1944.jpg
 author: Tomasz Waszczyk
-date: 2021-07-07T10:00:00.000Z
+date: 2022-07-07T10:00:00.000Z
 tags:
   - Operacja Ostra Brama
+---
+
+### 2023
+
+ECB balance sheet down 1,548.6 €bn y/y on 30/6/23. ECB lending to banks fell 1,508.9 €bn y/y, the ECB bond portfolio declined just 78.2 €bn y/y.
+
+<img src="./img/july/ecb_balance_sheet.jpeg"><br><br>
+
+ECB is technically bankrupt, out of money. FED is out of positive balance sheet, too. West world is bankrupt and mediocre managers do not see it - others will profit it, heavily. IF (this is actually significant IF) nothing will change within maximum ~1year something extraordinary MUST happen. Around 30% (roughly calculated) of labour force will LOOSE jobs WITHOUT ANY chance for joining the labor force. In front of us is: monetary shock that happen one time per ~100years.
+
+I completely lack any imagination for any other scenario. Unemployment will skyrocket WITHOUT any chance for joining the labor force (no supply money). Purchasing power of money MUST decrease, a lot. Country like Poland.. after exchanging money flowing from US.. in USD.. (that is why USDPLN is today ~4.0, not ~5.5 - Gierek 2.0) will skyrocket x2 at the beginning, then turkish lira scenario.
+
+Some next bullshit (but bigger one) will happen. ;/
+
+```
+Wariaty! Kiedy jedziemy na nasze ranczo? Bardzo chujowo to wygląda sami widzicie, a te dane są już publiczne. Trzeba pomyśleć co robić bo jak dojebią nowe lockdowny czy inne gówna żeby oczyścić.. to z Europy się nie wyjedzie przez parę lat. Robimy zlot na lufy. Będę rąbać drewno. Zobaczcie co znalazłem:
+```
+
+<img src="./img/july/imperializm.jpeg"><br><br>
+
 ---
 
 ### 2022

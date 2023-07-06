@@ -82,6 +82,12 @@ Na zdjęciu Żydzi oczekujący na transport na Umschlagplatzu.
 
 <img src="./img/september/umgang.jpg"><br><br>
 
+### 1939
+
+Prawo do możliwości sprzedawania broni zagranicę (wojny w Europie)
+
+Cash and Carry was a policy by US President Franklin Delano Roosevelt announced at a joint session of the United States Congress.
+
 ### 1610
 
 Wojska polskie pod wodzą Stanisława Żółkiewskiego wkroczyły do Moskwy.

@@ -3,9 +3,40 @@ layout: post
 title: 6 lipca
 image: img/july/haller.jpg
 author: Tomasz Waszczyk
-date: 2021-07-06T10:00:00.000Z
+date: 2022-07-06T10:00:00.000Z
 tags:
   - Józef Haller
+---
+
+### 2023
+
+Kolejne wzrosty rentowności obligacji za sprawą:
+
+- podwyżek stóp procentowych,
+- wzrostu QT w strefie euro,
+- spadającej inflacji co w połączeniu z coraz niższym wzrostem PKB może powodować presję na deficyt.
+
+Na przykładzie Francji 🇫🇷
+
+<img src="./img/july/francja-obligacje.png"><br><br>
+
+Jeszcze nie tak dawno rentowności obligacji (nominalne) w niektórych państwach np. Francji były ujemne za sprawą działań banków centralnych. Obecnie rentowności francuski 10-latek są ponad 3%. Obecnie dług do PKB we Francji to 112%, wiec każdy procent większej rentowności to duży problem. Agencje ratingowe obniżają rating kredytowy dla Francji np. Fitch 2 miesiące temu obniżył do AA- z AA. Ale to nie jest tylko problem Francji ale też innych krajów.
+
+Im dłużej utrzymują się rentowności na tym poziomie tym wyższe koszty odsetek płacone będą przez państwa w przyszłości. Wynika to z faktu, że rolowany teraz dług oraz nowozaciągnięty dług będzie po wyższych rentownościach. Oznacza to wyższe koszty odsetek w przyszłości.
+
+Wyjścia:
+
+- zacisnąć pasa i zmniejszyć deficyt lub,
+- przyśpieszyć wzrost gospodarczy lub,
+- doprowadzić do monetyzacji długu (skup długu przez banki centralne za nowowyemitowany pieniądz).
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/july/miedwiedew.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
