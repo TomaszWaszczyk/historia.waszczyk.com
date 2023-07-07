@@ -80,6 +80,12 @@ Tego samego dnia minister spraw wewnętrznych generał Czesław Kiszczak poinfor
 
 <img src="./img/march/moskwa.jpg"/><br><br>
 
+### 1981
+
+W marcu 1981 r. Polska nie była już w stanie spłacać zadłużenia zagranicznego. Problem ze spłatą długów z lat 70. wobec wierzycieli.
+
+"lawiny kredytów"
+
 ### 1948
 
 Papież Pius XII (zdjęcie) wystosował list do biskupów niemieckich, w którym nawiązał do między innymi do kwestii polskich granic zachodnich oraz wysiedleń ludności niemieckiej z Polski.

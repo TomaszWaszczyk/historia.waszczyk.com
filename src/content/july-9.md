@@ -23,6 +23,13 @@ Komunikat brzmi tak:
 
 A prawda jest taka, że NBP nie tylko nie pomaga gospodarce, lecz ją pogrąża, osłabia polską walutę, a zwłaszcza osłabia podatników, którym kradnie siłę nabywczą. "Uruchomił" znaczy się dodał długu, czyli paliwa inflacji opodatkowując Polaków, żeby im przy pomocy tych podatków pomagać. Rośnie dług, słabnie pieniądz, ratuje się upadające firmy a pogrąża takie, które muszą tę karuzelę absurdu finansować.
 
+### 1981
+
+<video width="640" height="480" controls>
+<source src="./movies/july/podwojna-petla.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1947
 
 <img src="./img/july/planmarshalla.jpg"><br><br>
