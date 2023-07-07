@@ -3,9 +3,22 @@ layout: post
 title: 9 lipca
 image: img/july/planmarshalla.jpg
 author: Tomasz Waszczyk
-date: 2021-07-09T10:00:00.000Z
+date: 2022-07-09T10:00:00.000Z
 tags:
   - Plan Marshalla
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/july/brics.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/july/koty.png"><br><br>
+
 ---
 
 ### 2021
@@ -22,6 +35,10 @@ Komunikat brzmi tak:
 > "NBP wspiera walkę z kryzysem. W tym celu m.in. skupuje obligacje z rynku. Już uruchomił 100 mld zł, a z wyliczeń ekonomistów Pekao wynika, że może wydać kolejne 33-50 mld zł. Skala działania jest porównywalna z tym, co robi Europejski Bank Centralny".
 
 A prawda jest taka, że NBP nie tylko nie pomaga gospodarce, lecz ją pogrąża, osłabia polską walutę, a zwłaszcza osłabia podatników, którym kradnie siłę nabywczą. "Uruchomił" znaczy się dodał długu, czyli paliwa inflacji opodatkowując Polaków, żeby im przy pomocy tych podatków pomagać. Rośnie dług, słabnie pieniądz, ratuje się upadające firmy a pogrąża takie, które muszą tę karuzelę absurdu finansować.
+
+### ~2000
+
+<img src="./img/july/dumb-fucks.jpeg"><br><br>
 
 ### 1981
 

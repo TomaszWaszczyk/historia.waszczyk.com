@@ -62,6 +62,10 @@ Solidarność, o jakiej Polacy zapomnieli.
 
 <img src="./img/july/dowjones.jpeg"><br><br>
 
+### 2018
+
+<img src="./img/july/bitcoin-nothing.jpeg"><br><br>
+
 ### 1996
 
 $370 million for an integer overflow. The June 4, 1996 Ariane 5 bug: 64 bit float relating to the horizontal velocity of the rocket was converted to a 16 bit signed integer
