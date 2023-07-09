@@ -3,9 +3,56 @@ layout: post
 title: 10 lipca
 image: img/july/husky.jpg
 author: Tomasz Waszczyk
-date: 2021-07-10T10:00:00.000Z
+date: 2022-07-10T10:00:00.000Z
 tags:
   - Gracjan Fróg "Szczerbiec"
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/july/yellen.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+(Why the U.S. banking system is near collapse)
+
+What Xi told the gulf alliance (their leaders); We will be invoicing everything (your oil) in renminbi. You will have surpluses with us, and we will have deficits with you. We will have surpluses with you and you will have deficits with us. How we resolve those differences will be through an interstate means. (Coordinated monetary sovereign bond deflation).
+
+What this implies is that you will hold renminbi in our bond market or you will have the means to convert that into gold. 
+In August of 1971, President Nixon ended the gold standard, which basically meant we needed a soft default, because having a gold standard limits the amount of currency a sovereign may emit into existence. Then no one wanted to hold dollars. 
+Then Henry Kissinger made the petrodollar deal with Saudi Arabia which all oil exports would be invoiced in U.S. dollars. The dollar got a much-needed lift. 
+Where the world prior to the petrodollar wanted to hold no dollars, and then in August of 1973, everyone was required to hold dollars.
+Now that all global oil trade will be invoiced in renminbi, and dollars will need to be exchanged for yuan currency to acquire oil on the global market.
+Who then sets the exchange rate of dollars to yuan?
+On June 2nd, ’23 after the debt ceiling was lifted, the Treasury through the ON RRP (reverse repo) emitted over $1 trillion dollars into the U.S. economy in 35 days. (SEE CHART BELOW)
+
+<img src="./img/july/bis.jpeg"><br><br>
+
+The U.S. Treasury is spending money from the reverse repo to finance government expenditures. Janet Yellen is draining all the liquidity from the ON RRP, and the MBS held on the Federal Reserve balance sheet are now in deep negative equity (due to higher interest rates to tame inflation).
+What happens when the ON RRP goes to zero (is drained by Yellen) and the banks have no “good” collateral on their (asset side) balance sheet to hedge against all the banks liabilities that were printed out of thin air, because interest rates rising reflects all financial assets including the equity markets are in deep (fill in the blank)?
+The Fed is using the BTFP to lift all the collateral in deep negative equity from the asset side of the bank balance sheet and injecting dollars where SOFR will drive interest rates even higher.
+The banks have no collateral but dollars at a time when bank credit is massively contracting, where they can no longer draw an interest rate compensation from the ON RRP that is actively being drained.
+Now, lets go back to all global oil trade now being invoiced in renminbi; are the U.S. banks then insolvent?
+
+---
+
+<img src="./img/july/niemamowy.jpg"><br><br>
+
+<img src="./img/july/uzbrojenie.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/july/export.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/july/to-ojro.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

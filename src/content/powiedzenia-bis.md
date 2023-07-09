@@ -98,6 +98,12 @@ clarify, do not simplify
 
 health is wealth
 
+Attitude is a little thing that makes a big difference. - Winston Churchill.
+
+Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free. - Aleksandr Solzhenitsyn
+
+Always find a way to unplug
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

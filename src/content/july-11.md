@@ -8,6 +8,23 @@ tags:
   - Niemcy
 ---
 
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/july/RickyGervais.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/july/gibson.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/july/zuck.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2020
 
 Minister gospodarki Peter Altmaier zapowiedział, że Niemcy będą obejmować udziały w kolejnych firmach walczących o przetrwanie z powodu kryzysu wywołanego przez pandemię, pisze Reuters.
