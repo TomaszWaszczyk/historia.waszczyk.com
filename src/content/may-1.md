@@ -36,6 +36,24 @@ Liczba osób poszukujących pracy w Niemczech wzrosła o blisko 400 tysięcy.
 
 <img src="./img/may/1maja-dystans.jpg"><br><br>
 
+---
+
+Linux/Kernel
+
+<a href="./documents/may/KnowHowKernel.pdf" target="_blank">KnowHowKernel.pdf</a>
+
+<a href="./documents/may/KnowKT.pdf" target="_blank">KnowKT.pdf</a>
+
+<a href="./documents/may/linux.pdf" target="_blank">linux.pdf</a>
+
+<a href="./documents/may/linux24-nat.pdf" target="_blank">linux24-nat.pdf</a>
+
+<a href="./documents/may/podst_pracy_w_konsoli.pdf.pdf" target="_blank">podst_pracy_w_konsoli.pdf.pdf</a>
+
+<a href="./documents/may/sle_PL.pdf" target="_blank">sle_PL.pdf</a>
+
+---
+
 ### 2004
 
 Polska stała się pełnoprawnym członkiem Unii Europejskiej.

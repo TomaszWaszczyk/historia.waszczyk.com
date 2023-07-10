@@ -3,9 +3,29 @@ layout: post
 title: 12 lipca
 image: img/july/exitpools.png
 author: Tomasz Waszczyk
-date: 2021-07-12T10:00:00.000Z
+date: 2022-07-12T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+Widać już efekty programu "Bezpieczny kredyt". Mieszkania, które rok temu kosztowały 500-600 tys., dziś kosztują 700-800 tys. złotych. Podrożały dokładnie do limitu ceny "z dopłatą".
+
+<img src="./img/july/mieszkania.jpeg"><br><br>
+
+---
+
+<img src="./img/july/wielka-mobilizacja.jpg"><br><br>
+
+---
+
+<img src="./img/july/przegapienie.jpg"><br><br>
+
+---
+
+<img src="./img/july/fed-inclusion.jpg"><br><br>
+
 ---
 
 ### 2021

@@ -1,0 +1,77 @@
+ROZSZYFROWAÆ RYNEK
+Prognozowanie, Inwestowanie, WskaŸniki, Dane i statystyka
+
+Jay M.W. Tadion
+
+Spis treœci
+S³owo wstêpne	XI
+Przedmowa	XIII
+Podziêkowania	XVII
+Czêœæ 1:
+Prognozowanie	l
+1. WSTÊP,
+2. ZASADY PROGNOZOWANIA, 7
+Zasady prognozowania w analizie technicznej, 13
+3. PRAWID£OWOŒCI WYKRESU, 15 
+Prawid³owoœci prostoliniowe,  16 
+Si³a i nachylenie trendu, 20 
+Prawid³owoœci krzywoliniowe, 27 
+Krzywoliniowe granice odbicia, 28 
+Krzywoliniowe ograniczenia absorpcji, 28 
+Prawid³owoœci k¹ta nachylenia, 
+4. CYKLE, 33
+Cykle idealne, 33 
+Cykle rytmiczne, 34 
+Cykle gospodarcze, 35
+
+Czêœæ 2:
+Inwestowanie	39
+5.  WSTÊP, 39
+6. HIPOTEZA RUCHÓW RYNKU, 41
+7. ZASADY INWESTOWANIA, 49 
+Zasady inwestowania, 50
+8. ZASADA POTWIERDZENIA, 51 
+Wejœcie i wyjœcie, 54
+
+Czêœæ 3: 
+WskaŸniki
+9. WSTÊP, 59
+10. B¥BLE CENOWE, 61
+11. TRENDY, 65
+12. PRZECIÊCIA I CYKLE GOSPODARCZE, 71
+13. PRZYK£ADY TRANSAKCJI, 77 
+Transakcje na rynku CHF/GBP, 78 
+Transakcje na rynku DEM/USD, 83 
+Droga na skróty, 86
+14. PROBLEM MA£¯EÑSTWA MARKOWA, 89
+
+Czêœæ 4:
+Dane i statystyka
+15. WSTÊP, 93
+16. WYBÓR DANYCH, 95
+Indeks efektywnego kursu walutowego, 99 
+Parytet si³y nabywczej, 102 
+Konstruowanie wykresu, 104 
+Inwersja, 106
+17. CO TO JEST DU¯A PRÓB A?, 109
+18. CZY RYNEK JEST LOSOWY?, 111 
+Sztuczne wykresy, 114
+19. STATYSTYKA, 119
+Wariancja i odchylenie standardowe, 121 
+Koperty wykupienia/wyprzedania rynku, 122 
+Analiza regresji,  126 
+Techniki wyg³adzania, 129
+Wyg³adzanie œredni¹ krocz¹c¹, 130
+Wyg³adzanie regresj¹ krocz¹c¹, 131 
+Optymalizacja,  135 
+Skutecznoœæ, 136
+
+Czêœæ 5:
+Pos³owie	139
+20. WSTÊP, 139
+21. NEUROZA PIENI¥DZA, 141
+22. SPEKULACJA I STRES, 145
+23. SPEKULACJE NAUKOWCA, 151
+Dodatek
+Kody walutowe ISO	155
+Skorowidz	157

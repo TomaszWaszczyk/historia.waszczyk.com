@@ -20,10 +20,6 @@ I completely lack any imagination for any other scenario. Unemployment will skyr
 
 Some next bullshit (but bigger one) will happen. ;/
 
-```
-Wariaty! Kiedy jedziemy na nasze ranczo? Bardzo chujowo to wygląda sami widzicie, a te dane są już publiczne. Trzeba pomyśleć co robić bo jak dojebią nowe lockdowny czy inne gówna żeby oczyścić.. to z Europy się nie wyjedzie przez parę lat. Robimy zlot na lufy. Będę rąbać drewno. Zobaczcie co znalazłem:
-```
-
 <img src="./img/july/imperializm.jpeg"><br><br>
 
 ---
