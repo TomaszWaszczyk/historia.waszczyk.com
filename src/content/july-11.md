@@ -3,7 +3,7 @@ layout: post
 title: 11 lipca
 image: img/july/niemcy.jpg
 author: Tomasz Waszczyk
-date: 2021-07-11T10:00:00.000Z
+date: 2022-07-11T10:00:00.000Z
 tags:
   - Niemcy
 ---
@@ -24,6 +24,8 @@ Your browser does not support the video tag.
 <source src="./movies/july/zuck.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+---
 
 ### 2020
 
