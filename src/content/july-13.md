@@ -3,10 +3,55 @@ layout: post
 title: 13 lipca
 image: img/july/matwa.jpg
 author: Tomasz Waszczyk
-date: 2021-07-13T10:00:00.000Z
+date: 2022-07-13T10:00:00.000Z
 tags:
   - Jan Karski
 ---
+
+### 2023
+
+Google's new Quantum Computer can finish 47 years of computing tasks in just 6 seconds. Here's how it could change EVERYTHING:
+
+1. Quantum computing blows conventional computing out of the water. It harnesses strange, counterintuitive quantum physics principles to exponentially boost computational power. Imagine solving complex problems in seconds that conventional supercomputers would take millions of years to crack.
+
+Quantum computing isn't just an upgrade on conventional computing. It's going to redefine what computing can do.
+________
+
+2. But why is quantum computing so much better than regular computing?
+
+Think of classical computing like flipping a coin: heads or tails, 0 or 1, it can only be one or the other. Quantum computing, on the other hand, is like spinning a coin. It can be heads, tails, or anywhere in between all at once.
+
+This lets quantum computers explore many possibilities simultaneously, providing a massive speed boost for certain problems.
+________
+
+3. Google's new quantum computer is 241 million times faster than the one it released in 2019.
+
+Google claims to be the first company to achieve Quantum Supremacy: a milestone point at which quantum computers surpass existing machines.
+________
+
+4. Quantum computing could do some crazy things that aren't currently possible:
+
+• Discover new medical drugs and vaccines by running molecular simulations that are impossible with our current computing ability.
+
+• Increase global trade and reduce climate emissions by optimizing complex trading routes and supply chain logistics.
+
+• Discover new materials through analyzing different molecular structures. This could transform industries like energy storage.
+________
+
+5. Google is currently using its quantum computer to solve optimization problems like finding the best outcome given a set of data.
+
+One application could be increasing efficiency and saving billions in global supply chain costs by finding the best routes.
+________
+
+6. What's next:
+
+• Investment in quantum computing has gone from almost 0 to over $2 billion per year in the last decade.
+
+• Competitors like IBM are rushing to launch their own quantum computers.
+
+<img src="./img/july/quantum.jpeg"><br><br>
+
+________
 
 ### 2022
 

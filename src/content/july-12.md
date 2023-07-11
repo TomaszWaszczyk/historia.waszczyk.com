@@ -28,6 +28,10 @@ Widać już efekty programu "Bezpieczny kredyt". Mieszkania, które rok temu kos
 
 ---
 
+<img src="./img/july/depesza.jpg"><br><br>
+
+---
+
 ### 2021
 
 The Central Banksters engineered Asset Bubble to end all Asset Bubbles via the Cantillon Effect and its pandemic debt monitorization..
