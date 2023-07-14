@@ -3,9 +3,26 @@ layout: post
 title: 16 lipca
 image: img/july/inflacja2020.jpeg
 author: Tomasz Waszczyk
-date: 2021-07-16T10:00:00.000Z
+date: 2022-07-16T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+CURRENCY WARS: the swiss franc, after years of accumulation is climbing
+
+<img src="./img/july/chfusd.png"><br><br>
+
+---
+
+Relationships in China on the one vid:
+
+<video width="640" height="480" controls>
+<source src="./movies/july/china.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
