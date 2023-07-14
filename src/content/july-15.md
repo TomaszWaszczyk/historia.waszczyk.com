@@ -3,9 +3,28 @@ layout: post
 title: 15 lipca
 image: img/july/skarbek.jpg
 author: Tomasz Waszczyk
-date: 2021-07-15T10:00:00.000Z
+date: 2022-07-15T10:00:00.000Z
 tags:
   - NBP
+---
+
+### 2023
+
+Der Onet razem z narodowym geostrategiem (Panem B.) nie zawodzi.
+
+<img src="./img/july/der-onet-iluzja.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/july/izolacja-rosji.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/july/iluzja.jpg"><br><br>
+
+---
+
+<img src="./img/july/freemask.jpeg"><br><br>
+
 ---
 
 ### 2022
@@ -73,6 +92,10 @@ Przy okazji będzie bieda, bezrobocie, a gospodarka się zawali... ale za to dos
 2) Smuci mnie, że kandydaci, zamiast skupić się na realnych problemach, dyskutują o tym, co podrzucają im media, bo to są chwytliwe tematy i tylko one mogą pomóc zdobyć poparcie -->
 
 ---
+
+### 2010
+
+<a href="./documents/july/WEF_FS_Scenario_ITandInovation2020_2010.pdf" target="_blank">WEF_FS_Scenario_ITandInovation2020_2010.pdf</a>
 
 ### 1975
 

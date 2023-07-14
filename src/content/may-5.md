@@ -136,6 +136,11 @@ Minister spraw zagranicznych Józef Beck udzielił odpowiedzi kanclerzowi III Rz
 
 https://pl.wikisource.org/wiki/Przem%C3%B3wienie_J%C3%B3zefa_Becka_w_Sejmie_RP_5_maja_1939_r
 
+<video width="640" height="480" controls>
+<source src="./movies/may/Beck.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1350
 
 W bitwie pod Żukowem król Kazimierz III Wielki rozgromił wojska litewskie, odzyskując Ruś halicko-wołyńską.

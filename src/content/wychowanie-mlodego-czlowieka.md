@@ -557,6 +557,77 @@ Odrzucaj je, jeśli okażą się błędne.
 1.  Przejawiaj ciekawość i ufaj, że można się dogadać.
 Myśl raczej o tym, co się dzieje, a nie czyja to wina, i zatrzymaj się, gdy czujesz, że pogarszasz sytuację. -->
 <!-- czynność jako proces - kupowanie mleka, mycie podłogi etc. etc. -->
+
+ <!-- Wychowujesz syna? Kształtujesz przyszłego mężczyznę? Oprócz rzeczy, które musisz mu wpoić, równie ważne są frazy, których nie powinieneś mówić chłopakowi. Niezależnie czy jest oseskiem, dzieckiem czy nastolatkiem.
+Czego nie mówić do syna (cholernie długi wątek)
+⬇️ 🧵
+1/30
+Numer jeden: „PAMIĘTAJ, BĄDŹ GRZECZNY”. Zdanie, które pada bardzo często. 5-latek idzie do przedszkola, 8-latek zostaje u kolegi na noc, 12-latek wychodzi z kumplami – zawsze jest bombardowany tym absurdalnym i co ważniejsze, szkodliwym rozkazem
+2/30
+Przodują w tym kobiety, matki. Dlatego tak ważne jest abyś wyplenił tę manierę u swojej żony. To zdanie, to zobowiązanie nakładane na młodego chłopaka nie ma bowiem żadnego sensu. Chcemy, żeby „dobrze się zachowywał”, a mówimy „bądź grzeczny” – absurd
+3/30
+Chłopak, broń Boże, nie ma być grzeczny! Ma się zachowywać. Być prawilnym, przestrzegać zasad, które mu wpoiliśmy i starać się być dobrym – gdzie tu miejsce na grzeczność? Grzeczność to konstrukt dla dorosłych, nie dla dzieci
+4/30
+Młody chłopak ma się wiercić, szaleć, poznawać świat, zmagać się z rówieśnikami, być bardzo często dla nich nie miłym w odpowiedzi na podwórkowe konflikty. Ma ryzykować, uczyć się brawury, uczyć się życia
+5/30
+„Bycie grzecznym” nakłada na niego tak ogromny i nieokreślony kaganiec, że po pierwsze nie jest w stanie tego ogarnąć, a po drugie paraliżuje to wszystkie jego pomysły i aktywności. Nie mów mu że ma być grzeczny.
+6/30
+Numer dwa: „PRZEMOC TO NIE ROZWIĄZANIE”. Jeden z najdurniejszych sloganów naszych czasów wtłaczanych chłopakom. Nie tylko głupi i nieprawdziwy, ale niosący za sobą ogromne niebezpieczeństwa dla młodych chłopaków, którzy nauczeni stronienia od przemocy mogą mieć duże kłopoty
+7/30
+To tak jakby mówić: młotek to nie rozwiązanie. No jeśli chodzi o wiercenie dziury czy nawet wkręcenie śruby to nie jest dobre rozwiązanie. Ale kiedy mamy wbić gwóźdź, młotek jest wyborem optymalnym i pożądanym. Rozwiązaniem najlepszym.
+8/30
+Tak samo jest z przemocą w męskim świecie. W 89% przypadków są lepsze narzędzia niż przemoc. Ale jest gama sytuacji, okoliczności, w których mężczyzna musi posłużyć się przemocą. Powinien umieć to zrobić i nie wahać się ani sekundy
+9/30
+Musisz nauczyć go posługiwania się przemocą i pokazywać mu te sytuacje, w których nie ma innego wyjścia i trzeba nap…dalać. Twój syn musi znać granice, za którą jego przemoc będzie miała Twoje wsparcie i poparcie.
+10/30
+W przeciwnym razie skończy jak bohaterowie popularnych ostatnio filmików, na których bity i poniewierany, przez swoją bierność, ciapowatość i ewidentny brak umiejętności przemocy, wzmaga jedynie agresję i bestialstwo napastników. Nie dopuść do tego. Ucz przemocy
+11/30
+Numer trzy: „BĄDŹ DLA NIEJ MIŁY – TO DZIEWCZYNKA”. Tu kilka elementów. Pierwszy: to znów jest głupie zdanie. Bycie dla kogoś miłym ma być determinowane przez płeć? To się kupy nie trzyma i wprowadza jakieś debilne zasady dystrybucji jego sympatii i szacunku
+12/30
+Drugi element to fakt iż w dzisiejszych czasach, kiedy mężczyźni są masowo skazywani na podnóżkizm w matriarchalnych związkach, musisz oduczać go tzw. rycerskości. Nie chcesz żeby był nieszczęśliwy w swoim przyszłym związku, nie zrób z niego rycerzyka
+13/30
+Temat szerszy i najpełniej opisany w poniższym wątku. Warto się zapoznać
+
+
+
+14/30
+Unroll available on Thread Reader
+
+    https://twitter.com/OneRaxExpand/status/1593218851449483266?s=20
+
+Element trzeci, na pewnym etapie jego życia najważniejszy. Dziewczyny wcale nie lubią żeby być dla niech miłym. Ta cecha u mężczyzn jest na dalekich miejscach niezależnie od uczuciowości czy delikatności jego potencjalnej wybranki
+15/30
+Każdy to zna, każdy to widział, każdy to w jakimś sensie przeżywał. „Za mili” chłopcy są kolegami, „przyjaciółmi”, zapuszkowani w friend-zonach po swoją 40-tkę, nie wiedzą co z nimi nie tak. Przecież są mili dla kobiet jak mamusia mówiła.
+16/30
+Nie znaczy to oczywiście, że ma być z założenia niemiły dla dziewczyn. Ale ucz go, że do kobiet należy mieć podejście… zdroworozsądkowe. Niech traktuje je tak jak one jego, niech będzie uczciwy przed sobą, niech nie traci głowy, a kiedy trzeba będzie szorstki i obojętny
+17/30
+Absurdem jest ustawianie młodego człowieka w sytuacji, w której ma oblig bycia miłym i sympatycznym dla wszystkich dziewczyn. To wyklucza szanowanie samego siebie, a w rezultacie sprawi, że wartościowe dziewczyny nie będą szanować jego.
+18/30
+Numer cztery i absolutny hit. Zarówno pod względem powszechności (wszyscy współcześni rodzice to mówią) jak i pod względem szkodliwości. Zaryzykuje tezę, że współczesna depresja i kłopoty psychiczne młodych to właśnie wynik tego zdania-trucizny. Przed państwem:
+19/30
+„NAJWAŻNIEJSZE ŻEBYŚ BYŁ SZCZĘŚLIWY!”. Takie nagromadzenie mentalnej spierdoliny, że nie wiadomo od czego zacząć. Po kolei. Pierwsze: Nie! To nie jest najważniejsze w życiu człowieka i nigdy nie było!
+20/30
+Odwaga, honor, dobroć, odpowiedzialność, oddanie, praca, uczciwość – można wymieniać jeszcze długo zanim dojdziemy do szczęścia. Bo szczęście w życiu osiąga się poprzez realizację wymienionych celów i cech, nie na odwrót
+21/30
+Szczęście nie może być celem, bo mężczyzna nigdy go nie osiągnie w ten sposób. Dla mężczyzny szczęście jest efektem ubocznym dobrego życia, wynikiem jego zmagań, kwintesencją jego siły. Nie będzie nigdy inaczej
+22/30
+Drugie: szczęście nie może być najważniejsze bo na poszczególnych etapach życia oznacza co innego. Dla przedszkolaka szczytem szczęścia może być niszczenie cudzych zabawek w wymyślny sposób – to ma być dla niego najważniejsze, przecież rodzice mówili
+23/30
+Dla nastolatka szczytem szczęścia może być siedzenie bez celu na ławce po spaleniu tłustego jointa – no co? Mamusia mówiła że to najważniejsze! Stawianie takiego celu przed młodym człowiekiem to absurd
+24/30
+I tu dochodzimy do ostatniej, trzeciej kwestii. Dzieci słuchają co się do nich mówi. Biorą to na serio. Serio! Jeżeli przez 2/3 swojego życia słuchali, że szczęście jest najważniejsze to tak właśnie to widzą
+25/30
+A tu dupa. Życie takie nie jest. Przez większość czasu nie odczuwają szczęścia. Co więcej, im są starsi tym coraz więcej czasu są nieszczęśliwi. Bo obowiązki, bo szkoła, bo dziewczyna, bo to, bo tamto
+26/30
+W takiej sytuacji dzieciak nauczony że „najważniejsze żebyś był szczęśliwy” uważa, że coś z nim nie tak. Że poległ. Że przegrał. Skoro 90% czasu nie odczuwa szczęścia tzn. że nie osiąga tego co jest najważniejsze
+27/30
+Gubi się w tym, frustruje, szuka coraz to nowych substytutów szczęścia, szarpie się z tym absurdalnym oczekiwaniem rodziców, które stało się sensem jego istnienia. Pogrąża się w spirali niemocy, bo biegnie za czymś co jest nieosiągalne
+28/30
+Tym prostym i z pozoru niewinnym zdaniem skazujemy dzieciaki, na wczesną depresję, zagubienie i osamotnienie. Odbieramy im radość z lat w których nie powinni gonić za szczęściem, a cieszyć się chwilami
+29/30
+Nie mów dziecku, a zwłaszcza chłopakowi, takich bzdurnych, nic nie znaczących sloganów. Ucz go życia, odwagi i dobroci. Nie każ mu być grzecznym, pokaż mu honor i zadania. Wymagaj i nagradzaj. Pokaż mu że każdy niesie ciężki krzyż, a szczęście jest na końcu tej drogi.
+30/30 -->
+
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
 
 ---

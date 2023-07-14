@@ -3,9 +3,35 @@ layout: post
 title: 14 lipca
 image: img/july/wolnyrobotnik.jpg
 author: Tomasz Waszczyk
-date: 2021-07-14T10:00:00.000Z
+date: 2022-07-14T10:00:00.000Z
 tags:
   - Wolny Robotnik
+---
+
+### 2023
+
+<img src="./img/july/ektremalnie-tani.jpg"><br><br>
+
+---
+
+<img src="./img/july/changing-time.jpeg"><br><br>
+
+---
+
+> Komisja Europejska ogłosiła, że ma zamiar wprowadzić zakaz geoinżynierii, której zadaniem jest modyfikacja pogody i zatrzymanie zmian klimatu. Decyzja wydaje się być zaskakująca, ale urzędnicy z Brukseli widzą w tym obszarze zagrożenia. - Nikt nie powinien przeprowadzać eksperymentów sam na naszej wspólnej planecie - mówił pod koniec czerwca szef polityki klimatycznej UE Frans Timmermans.
+
+https://www.polsatnews.pl/wiadomosc/2023-07-12/ke-chce-zakazac-ingerowania-w-pogode-niedopuszczalny-poziom-ryzyka/
+
+---
+
+<img src="./img/july/cos-niedobrego.jpg"><br><br>
+
+---
+
+Zielna, Warszawa:
+
+<img src="./img/july/bank-of-china.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -23,6 +49,10 @@ NBP dołączył do grona innych banków centralnych, które kupują akcje oraz f
 <img src="./img/july/specjalizacje.jpg"><br><br>
 
 > Rząd wydaje 200mln na respiratory. Producent nic o tym dealu nie wie. Jedynej umowy nie ma bo „pracownik zabrał ją do domu”. Mediom rzuca się pewniaka: lgbtqwerty. Biskup nazywa premiera ewangelistą. Kraj się kłóci. Monty Python w 2020 kręciłby reportaże.
+
+### 2012
+
+<a href="./documents/july/RobertSzymaniak.pl_Jak_zwiekszyc_zyski_na_FOREX-10_pomyslow_ktore_odmienia_Twoj_Trading.pdf" target="_blank">FOREX</a>
 
 ### 1982
 

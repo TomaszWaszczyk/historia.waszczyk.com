@@ -12,6 +12,8 @@ tags:
 
 <a href="./documents/august/KomunikatdlaklientowI-UPS.pdf" target="_blank">Komunikat dla klientow I-UPS.pdf</a>
 
+<a href="./documents/august/the-central-bank-balance-sheet-as-a-policy-tool-past-present-and-future.pdf" target="_blank">the-central-bank-balance-sheet-as-a-policy-tool-past-present-and-future.pdf</a>
+
 ### 2016
 
 <a href="./documents/august/US_war_hawks_Lin.pdf" target="_blank">US war hawks, Lin</a>
