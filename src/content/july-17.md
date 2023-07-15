@@ -53,6 +53,13 @@ NBP przedstawił najważniejsze dane na temat czerwcowej inflacji. W zeszłym mi
 
 > „Inflacja jest tą formą podatku, którą można nałożyć bez ustawy.” Milton Friedman
 
+### 2010
+
+<video width="640" height="480" controls>
+<source src="./movies/july/cykle.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1945
 
 W Poczdamie rozpoczęła się trwająca do 2 sierpnia 1945 roku konferencja pokojowa. 
