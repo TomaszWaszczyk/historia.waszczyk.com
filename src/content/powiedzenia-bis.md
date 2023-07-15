@@ -104,6 +104,8 @@ Human beings are born with different capacities. If they are free, they are not 
 
 Always find a way to unplug
 
+Thomas Jefferson 250 lat temu mówił o tym, że gorsze są banki od stacjonujących armii.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

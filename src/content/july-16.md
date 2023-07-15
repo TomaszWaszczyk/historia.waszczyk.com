@@ -16,6 +16,10 @@ CURRENCY WARS: the swiss franc, after years of accumulation is climbing
 
 ---
 
+<img src="./img/july/ink.jpg"><br><br>
+
+---
+
 Relationships in China on the one vid:
 
 <video width="640" height="480" controls>
@@ -65,6 +69,10 @@ To jest czas przełomowy i trzeba bardzo uważać, by ani nie dać się zwieść
 ### 2020
 
 "Jestem zdegustowana. Ja, symbol Francji, ledwo rozpoznaję moją ojczyznę, którą najechała banda obcych łajdaków zagrażających autentycznemu Francuzowi. Znaczna część Francji nie należy już do Francuzów. To jest paskudne". Po czym jeszcze dodała: "Jestem zniesmaczona i przerażona. Francja jest dziś rządzona przez tchórzy bez jaj. To rząd pantoflarzy, wystraszonych królików, srających w gacie kastratów". Jeden z wiecznych symboli Francji, symboli kina i sexu lat 60'- Brigitte Bardot.
+
+### 2012
+
+<a href="./documents/july/Prezentacje-AI.2012.rar" target="_blank">Prezentacje-AI.2012</a>
 
 ### 2001
 
