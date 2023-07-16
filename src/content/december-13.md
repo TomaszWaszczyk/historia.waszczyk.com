@@ -138,6 +138,13 @@ Zmarł 17 października 1944 roku w Wodzisławiu.
 
 <img src="./img/december/wasiutynski.jpg"/><br>
 
+### 1877
+
+<video width="640" height="480" controls>
+<source src="./movies/december/Karol-Jaroszynski.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/december-13.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
