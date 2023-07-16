@@ -3,9 +3,34 @@ layout: post
 title: 18 lipca
 image: img/july/great-fire.jpg
 author: Tomasz Waszczyk
-date: 2020-07-18T10:00:00.000Z
+date: 2022-07-18T10:00:00.000Z
 tags:
   - Rzym
+---
+
+### 2023
+
+<img src="./img/july/20230629_233256.jpg"><br><br>
+
+<img src="./img/july/20230629_184414.jpg"><br><br>
+
+<img src="./img/july/20230629_184315.jpg"><br><br>
+
+<img src="./img/july/20230629_182025.jpg"><br><br>
+
+<img src="./img/july/20230628_052203.jpg"><br><br>
+
+<img src="./img/july/20230628_045012.jpg"><br><br>
+
+<img src="./img/july/20230627_213553.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/july/pilecki.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021
