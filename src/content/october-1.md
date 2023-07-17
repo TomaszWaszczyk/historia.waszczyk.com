@@ -76,6 +76,13 @@ Mirko Hannemann zostaje dyrektorem zarządzającym, jednocześnie do zarządu wc
 
 Po tych zmianach niektóre materiały video dotyczące przełomowej technologii Kolibri AlphaPolymer zostały usunięte z sieci przez właściciela...
 
+### 2001
+
+<video width="640" height="480" controls>
+<source src="./movies/october/lepper.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1961
 
 https://en.wikipedia.org/wiki/Defense_Intelligence_Agency

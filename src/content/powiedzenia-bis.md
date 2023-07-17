@@ -106,6 +106,8 @@ Always find a way to unplug
 
 Thomas Jefferson 250 lat temu mówił o tym, że gorsze są banki od stacjonujących armii.
 
+„This is the West. They raised Hitler, Stalin, and now they are raising Putin.” - 2004, Generał Kukliński
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
