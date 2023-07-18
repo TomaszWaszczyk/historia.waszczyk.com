@@ -3,10 +3,16 @@ layout: post
 title: 20 lipca
 image: img/july/20200722_143150.jpg
 author: Tomasz Waszczyk
-date: 2020-07-20T10:00:00.000Z
+date: 2022-07-20T10:00:00.000Z
 tags:
   - Manifest PKWN
 ---
+
+### 2023
+
+<img src="./img/july/fed-in-red.jpg"><br><br>
+
+https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/MST_Protokollierung_Detektion_230704.html
 
 ### 2021
 

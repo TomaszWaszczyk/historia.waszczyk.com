@@ -111,6 +111,20 @@ W katastrofie lotniczej przy molo w Orłowie zginął Gustaw Orlicz-Dreszer -  g
 
 <img src="./img/july/orlicz.jpg"><br><br>
 
+### 1830
+
+Charles Meer Webb 🎨  English painter (1830-1895)
+
+<img src="./img/july/charles-meer-webb.jpg"><br><br>
+
+<img src="./img/july/charles-meer-webb2.jpg"><br><br>
+
+<img src="./img/july/charles-meer-webb3.jpg"><br><br>
+
+<img src="./img/july/charles-meer-webb4.jpg"><br><br>
+
+<img src="./img/july/charles-meer-webb5.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/july-16.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
