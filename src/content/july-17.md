@@ -10,6 +10,10 @@ tags:
 
 ### 2023
 
+<img src="./img/july/sasin-i-hossa.jpg"><br><br>
+
+---
+
 <video width="640" height="480" controls>
 <source src="./movies/july/investing.mp4" type="video/mp4">
 Your browser does not support the video tag.

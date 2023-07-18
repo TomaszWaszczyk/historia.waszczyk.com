@@ -10,9 +10,35 @@ tags:
 
 ### 2023
 
+<img src="./img/july/stasi.jpeg"><br><br>
+
+> Genossen, wir müssen alles wissen! - Erich Mielke
+
+“Karlheinz Böhm war gelernter Tischler und Meister für Möbel- und Holzbau.
+1960 verpflichtete er sich für den Dienst im Ministerium für Staatssicherheit. In der Kreisdienststelle (KD) Torgau war er als hauptamtlicher Mitarbeiter für die Uberwachung von Betrieben zuständig.
+1971 stieg Böhm in die Führungsebene auf: Mit 35 Jahren wurde er Stellvertreter des KD-Leiters. Die Leitung der KD Torgau übernahm er 1975. Er übte sie bis zur Auflösung der Stasi aus.”
+
+Picture: Schild und Schwert der Partei, MfS Ministerium für Staatssicherheit
+
+---
+
 <img src="./img/july/fed-in-red.jpg"><br><br>
 
 https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/MST_Protokollierung_Detektion_230704.html
+
+---
+
+> Od 1 stycznia wszyscy Polacy otrzymają bon na żywność. Będzie to 100 złotych miesięcznie
+
+Rząd planuje wprowadzić bon na żywność dla wszystkich obywateli Polski od nowego roku. W tej sprawie wypowiedział się wiceminister finansów Artur Soboń, który podczas konferencji prasowej ujawnił plany na kolejny rok. Istotą tego rozwiązania będzie przedłużenie obowiązującej zerowej stawki VAT na żywność, co w efekcie pozwala Polakom zaoszczędzić około 100 złotych miesięcznie. Ten mechanizm jest praktycznie formą bonu, którego korzyści są już obecnie dostępne dla społeczeństwa.
+
+---
+
+<img src="./img/july/cyrk-w-nbp2.jpg"><br><br>
+
+<img src="./img/july/cyrk-w-nbp.jpg"><br><br>
+
+---
 
 ### 2021
 
