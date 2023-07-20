@@ -11,6 +11,11 @@ draft: false
 
 ### 2023
 
+W ustawie z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. z 2023 poz. 1114), umieszczono obszerną zmianę do ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r. poz. 295), polegającą na dodaniu
+„Art. 16b. 1. W przypadku zarządzenia przez ministra właściwego do spraw wewnętrznych czasowego zawieszenia ruchu na przejściu granicznym: ..."
+
+---
+
 NBP opłacił takiego busa na objazd po Warszawie
 
 <img src="./img/may/bus_nbp.jpeg"><br><br>

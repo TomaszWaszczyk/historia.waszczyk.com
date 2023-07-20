@@ -1717,6 +1717,8 @@ the life and soul of the party
 Błędnie: Whatever happened to Peter? He's so quiet. He's always been the soul of the company.
 Poprawnie: Whatever happened to Peter? He's so quiet. He's always been the life and soul of the party. "Dusza towarzystwa" to po angielsku 'the life and soul of the party'.
 
+gargantuan challenge
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

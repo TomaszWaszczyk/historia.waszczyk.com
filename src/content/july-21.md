@@ -3,9 +3,68 @@ layout: post
 title: 21 lipca
 image: img/july/lipawa.jpg
 author: Tomasz Waszczyk
-date: 2020-07-21T10:00:00.000Z
+date: 2022-07-21T10:00:00.000Z
 tags:
   - Debt
+---
+
+### 2023
+
+Catalonha, me gusta Chica. The picture is.. about orange.
+
+<img src="./img/july/chica.jpeg"><br><br>
+
+> US Treasury will NOT survive the conditions. All decisions are made (yeah I know, at least ~twenty years ago(and more, I guess)). Time for the execution. Prepare for a bunch of chaos. - Rhei
+
+The cost of the US debt is now running at a near $1tn annualized pace. In June alone 18% of total US spending accounted for just interest expenses.
+
+<img src="./img/july/cost-of-debt.jpeg"><br><br>
+
+The Congressional budget office forecasts that the US government debt will be well in excess of $50 billion within 10 years. Of that around $47 trillion will be held by the public. That’s virtually a doubling of the debt held by the public at present.
+
+The CBO, has to assume that there will be no more shocks to the system, no recessions, no Pandemics, no wars, no banking crisis, no natural disasters, and no black swan events.
+
+The CBO also has to assume that the legal liabilities of the US government towards its pensioners and retirees, i.e. ex-government and transport employees, will be met despite their retirement disability, pension funds running out of money. These liabilities are not in the budget.
+
+If the budget projections are missed to the same degree as happened in the past, the debt held by the public would need to triple, not double in 10 years.
+
+It is probably impossible for the amount of US government debt held by the public to double in 10 years. Will your pension fund have the ability to double its holding of Treasuries? Will China be able to double its holdings of US Treasuries?
+
+Where’s the money going to come from? The increase is more than 100% of M2 (cash, savings &deposits & CDs)
+
+---
+
+<img src="./img/july/inflation-waves.jpeg"><br><br>
+
+Last week’s CPI report marked a significant milestone as it is the first time in 102 years that we have witnessed twelve consecutive months of declining CPI on a YoY basis.
+
+The last time we experienced that was in 1921 after the Spanish Flu pandemic marking the actual bottom for inflation rates at -15.8%.
+
+Today, after the same monthly sequence of falling CPI, the rate is still positive and above the Fed’s target.
+
+The overwhelming focus on the recent slowdown in inflation appears to be rooted in backward-looking analysis.
+
+In fact:
+
+Since last week’s CPI report, oil has broken out, gold rallied back above $2,000, silver surged, and agricultural commodities appreciated substantially.
+
+While the macro environment today differs from that of the 1970s or 1940s, a lesson from history remains: inflation tends to develop through waves.
+
+We have recently witnessed the conclusion of the first wave and are likely in the process of reaching a bottom in the recent deceleration period, with a new upward trajectory underway.
+
+The primary reason for this is the persistence of underlying issues that continue to drive inflation rates higher:
+
+▪️ Irresponsible levels of government spending
+▪️ Escalating de-globalization trends, which necessitate the revitalization of manufacturing capabilities in economies.
+▪️ Wage-price spiral, particularly driven by low-income segments of the society
+▪️ Ongoing supply constraints due to chronic underinvestment in natural resource industries.
+
+Just as base effects played a crucial role in reducing inflation rates, we anticipate that the opposite effect is on the horizon, with CPI likely to reach a bottom in the near future.
+
+---
+
+Rządy w krajach takich jak Polska MUSZĄ zorganizować plany pomocowe dla osób, którym zabraknie na jedzenie żeby pierwszą falę trudności jakoś... (eufemizm) zamortyzować, zwłaszcza w fazie, kiedy społeczeństwo ma oczekiwania, że cho cho - ciężko sobie wyobrazić większe oderwanie od rzeczywistości. Generalnie to rząd też jest w ekstremalnej dupie.
+
 ---
 
 ### 2021
