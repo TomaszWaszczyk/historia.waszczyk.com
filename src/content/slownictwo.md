@@ -1719,6 +1719,8 @@ Poprawnie: Whatever happened to Peter? He's so quiet. He's always been the life 
 
 gargantuan challenge
 
+roads not taken
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

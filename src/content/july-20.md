@@ -67,6 +67,7 @@ Danuta Siedzikówna została osadzona w pawilonie V więzienia w Gdańsku jako w
 3 sierpnia 1946 roku została skazana na śmierć przez Wojskowy Sąd Rejonowy kierowany przez majora Adama Gajewskiego.
 
 <img src="./img/july/inka.jpg"><br><br>
+
 ### 1926
 
 W Moskwie, podczas posiedzenia  Komitetu Centralnego Wszechzwiązkowej Komunistycznej Partii zmarł na zawał serca Feliks Dzierżyński pseudonim ,,Józef'' - działacz polski i rosyjski ruchu komunistycznego. W 1899 roku był współtwórcą i przywódcą Socjaldemokracji Królestwa Polskiego i Litwy (SDKPiL). W latach 1905-1907 kierował rewolucją w Królestwie Polskim. Od 1907 należał do SDPRR, a następnie RKP (b) i WKP (b). Współorganizował rewolucję październikową. W latach 1917/22 stanął na czele Ogólnorosyjskiej Nadzwyczajnej Komisji do Walk z Kontrrewolucją i Stabotażem (Czeka), od 1922 - GPU (Państwowy Zarząd Polityczny). Był rzecznikiem radykalnych działań, realizował politykę terroru wobec oponentów politycznych. W latach 1919-25 był komisarzem ludowym spraw wewnętrznych i komunikacji (1921-24), a następnie przewodniczącym Najwyższej Rady Gospodarki Narodowej ZSRR. Pochowano go pod murem kremlowskim. 20 lipca 1951 roku w Warszawie odsłonięto pomnik upamiętniający Feliksa Dzierżyńskiego. 16 października 1989 roku pomnik rozebrano.

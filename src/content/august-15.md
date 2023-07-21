@@ -75,6 +75,10 @@ Tak o tym wydarzeniu mówił ujęty przez UB w roku 1961, w lasach w okolicach H
 
 https://en.wikipedia.org/wiki/Nixon_shock
 
+### 1938
+
+Janusz A. Zajdel
+
 ### 1920
 
 Linia frontu 15. sierpnia 1920 roku.

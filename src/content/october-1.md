@@ -76,6 +76,10 @@ Mirko Hannemann zostaje dyrektorem zarządzającym, jednocześnie do zarządu wc
 
 Po tych zmianach niektóre materiały video dotyczące przełomowej technologii Kolibri AlphaPolymer zostały usunięte z sieci przez właściciela...
 
+### 2008
+
+<img src="./img/october/polibuda.jpg"><br><br>
+
 ### 2001
 
 <video width="640" height="480" controls>

@@ -3,9 +3,52 @@ layout: post
 title: 22 lipca
 image: img/july/hansfrank.jpg
 author: Tomasz Waszczyk
-date: 2020-07-22T10:00:00.000Z
+date: 2022-07-22T10:00:00.000Z
 tags:
   - Hans Frank
+---
+
+### 2023
+
+<img src="./img/july/zakaz-bitcoin.jpg"><br><br>
+
+---
+
+<a href="./documents/july/dfo230720a.pdf" target="_blank">ＣＢＤＣフォーラムの開催について</a>
+
+---
+
+US Government Debt is set to double in a decade. Where's the money to buy all that debt?
+
+Answer: It doesn't exist.
+
+So, according to the CBO, the public is expected to stump up $22.5 trillion to buy treasuries. According to my calculation they would need to find $50.7 trillion. It is probably impossible for the amount of US government debt held by the public to double in 10 years, let alone triple. Will your pension fund have enough spare cash to double its holding of Treasuries? Will China be able and willing to double its holdings of U.S. Treasuries?
+
+Where’s the money going to come from? The increase is more than 100% of the current M2 (cash, savings, deposits & CDs). M2 is currently $21.6 trillion.
+
+To entice the public to buy more Treasuries, interest rates will need to be higher. But as interest rates go higher, it's going to consume more of the incoming taxes.
+
+At 9% the interest expense on $75 trillion will consume the entirety of the projected 2033 tax receipts (Tax receipts are currently $4.9 trillion. The CBO forecast for 2033 is $6.8 trillion). I don't think we will get there. Something will break first.
+
+One possibility is that the Fed will step in to buy those Treasuries. That will relieve the burden on the public. It will also keep interest rates from spiralling out of control. But it would be inflationary.
+
+<img src="./img/july/cbo.jpeg"><br><br>
+
+---
+
+> Polska przesuwa wojsko na wschodnią granicę. Jest reakcja Kremla
+
+---
+
+Pfizer plant in North Carolina damaged by tornado
+
+> July 19 (Reuters) - Drugmaker Pfizer Inc (PFE.N) said on Wednesday its plant in Rocky Mount, North Carolina, which is one of the largest sterile injectable product facilities in the world, has suffered heavy damage from a tornado.
+
+<video width="640" height="480" controls>
+<source src="./movies/july/pfizer.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021
@@ -111,6 +154,13 @@ GG Herbert Becker oraz sekretarz stanu
 Ernst Boepple.
 
 <img src="./img/july/hansfrank.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/july/goral.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 

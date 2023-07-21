@@ -38,6 +38,20 @@ Zdjęcie tytułowe przedstawia Władysława Strzemińskiego.
 
 <img src="./img/art/mind.jpeg"><br><br>
 
+---
+
+Stefan Popowski - Wenecja (olej na płótnie, 78 x 62 cm), 1897, Muzeum Narodowe w Krakowie.
+
+<img src="./img/art/popowski.jpeg"><br><br>
+
+---
+
+Darek Zabrocki - Windmill Town (grafika komputerowa), 2020
+
+<img src="./img/art/darek-zabrocki.jpg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/art/loading.png"><br><br>

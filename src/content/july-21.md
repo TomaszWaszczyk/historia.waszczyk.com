@@ -10,7 +10,7 @@ tags:
 
 ### 2023
 
-Catalonha, me gusta Chica. The picture is.. about orange.
+Catalonha, me gusta la Chica.. The picture is.. about orange.
 
 <img src="./img/july/chica.jpeg"><br><br>
 
@@ -20,13 +20,13 @@ The cost of the US debt is now running at a near $1tn annualized pace. In June a
 
 <img src="./img/july/cost-of-debt.jpeg"><br><br>
 
-The Congressional budget office forecasts that the US government debt will be well in excess of $50 billion within 10 years. Of that around $47 trillion will be held by the public. That’s virtually a doubling of the debt held by the public at present.
+The Congressional budget office forecasts that the US government debt will be well in excess of $50 billion within 10 years. Of that around $47 trillion will be held by the public. That’s virtually a doubling of the debt held by the public at present (of $24 trillion).
 
 The CBO, has to assume that there will be no more shocks to the system, no recessions, no Pandemics, no wars, no banking crisis, no natural disasters, and no black swan events.
 
 The CBO also has to assume that the legal liabilities of the US government towards its pensioners and retirees, i.e. ex-government and transport employees, will be met despite their retirement disability, pension funds running out of money. These liabilities are not in the budget.
 
-If the budget projections are missed to the same degree as happened in the past, the debt held by the public would need to triple, not double in 10 years.
+If the budget projections are missed to the same degree as happened in the past, the debt held by the public would need to triple, not double in 10 years. That would take it to $75 trillion.
 
 It is probably impossible for the amount of US government debt held by the public to double in 10 years. Will your pension fund have the ability to double its holding of Treasuries? Will China be able to double its holdings of US Treasuries?
 
@@ -55,8 +55,11 @@ We have recently witnessed the conclusion of the first wave and are likely in th
 The primary reason for this is the persistence of underlying issues that continue to drive inflation rates higher:
 
 ▪️ Irresponsible levels of government spending
+
 ▪️ Escalating de-globalization trends, which necessitate the revitalization of manufacturing capabilities in economies.
+
 ▪️ Wage-price spiral, particularly driven by low-income segments of the society
+
 ▪️ Ongoing supply constraints due to chronic underinvestment in natural resource industries.
 
 Just as base effects played a crucial role in reducing inflation rates, we anticipate that the opposite effect is on the horizon, with CPI likely to reach a bottom in the near future.

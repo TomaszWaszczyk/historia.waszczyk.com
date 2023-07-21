@@ -103,6 +103,11 @@ Zapowiedź Libry w zeszłym roku i tego jakie Facebook miał plany co do swojego
 <source src="./movies/june/angela_18_czerwiec_2019.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> -->
+
+### 2013
+
+<a href="./documents/june/Whelan-IrelandPaper-June2013.pdf" target="_blank">Whelan - IrelandPaper-June2013</a>
+
 ### 1992
 
 Rozpoczęła działalność pierwsza polska sieć telefonii komórkowej PTK Centertel.
