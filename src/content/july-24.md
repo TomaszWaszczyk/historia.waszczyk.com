@@ -3,10 +3,16 @@ layout: post
 title: 24 lipca
 image: img/july/hansfrank2.jpg
 author: Tomasz Waszczyk
-date: 2020-07-24T10:00:00.000Z
+date: 2022-07-24T10:00:00.000Z
 tags:
   - Hans Frank
 ---
+
+### 2023
+
+> Economists have learned higher levels of technology or of industrial or agricultural arts derive from long histories of the "feed-back" of earned assets into components of the economy forming capacity for production at comparatively higher levels of technology, science, or arts
+
+<img src="./img/july/nash.png"><br><br>
 
 ### 2020
 

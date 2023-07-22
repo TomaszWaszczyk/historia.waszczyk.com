@@ -26,7 +26,7 @@ nie wolno się pomylić
 
 nawet o jednego
 
- 
+
 
 jesteśmy mimo wszystko
 
@@ -320,24 +320,40 @@ a potem spostrzegłem niestety że to... wczorajsza gazeta
 ### Bieda
 
 Choć jestem lekarzem
+
 I o niczym innym nie marzę
+
 Pieniędzy brakuje
+
 Nawet, kiedy nie wariuję
 
+
 Powiecie: „jak zwykle kłamie!”
+
 Konowale bogaty, Ty chamie!
+
 Lecz, gdy moja działalność ruszyła
+
 Zatrudnienie znacznie utrudniła
 
+
 Jestem więc bez pracy
+
 Bo zarządcy tacy
+
 Wolą pracować w spokoju
+
 Niż potrzebnym znoju
 
+
 Morał z tego taki
+
 Lepiej bądź nijaki
+
 Nie walcz o poprawy
+
 Pier... wszystkie sprawy.
+
 
 B. Fiałek
 
@@ -445,6 +461,7 @@ w tym naszym ,zwariowanym, NARODOWYM BURDELU.”
 
 ### Bezsilność
 
+```
 to bez­sil­ność uszmin­ko­wa­ła świat
 
 do fo­to­gra­fii
@@ -482,11 +499,13 @@ po dru­giej stro­nie
 za­mknię­tych okien
 
 *H.Poświatowska
+```
 
 ---
 
-Kiedy przyszli...
-Martin Niemöller, 1892-1984
+```
+Kiedy przyszli...Martin Niemöller, 1892-1984
+
 (niemiecki pastor luterański; wiersz napisany w obozie w Dachau w 1942 r.)
 Kiedy przyszli po Żydów, nie protestowałem. Nie byłem przecież Żydem.
 Kiedy przyszli po komunistów, nie protestowałem. Nie byłem przecież komunistą.
@@ -494,9 +513,11 @@ Kiedy przyszli po socjaldemokratów, nie protestowałem.
   Nie byłem przecież socjaldemokratą.
 Kiedy przyszli po związkowców, nie protestowałem. Nie byłem przecież związkowcem.
 Kiedy przyszli po mnie, nikt nie protestował. Nikogo już nie było.
+```
 
 ---
 
+```
 Sztuka kochania (Owidiusz)/Księga trzecia/XXV
 
 Miłość/Radość bez niebezpieczeństwa
@@ -519,6 +540,7 @@ otwórz mu słodkie ramiona...
 
 Niech odurzy go, upoi
 rozkosz niczym niezmącona...
+```
 
 ---
 
@@ -538,10 +560,12 @@ Ludwik Jerzy Kern
 
 ---
 
+```
 Powoli umiera ten, kto nie podróżuje, kto nie czyta, ten kto nie słucha muzyki, ten kto nie obserwuje.
 Powoli umiera ten, kto niszczy swą miłość własną, ten kto znikąd nie chce przyjąć pomocy.
 Powoli umiera ten, kto staje się niewolnikiem przyzwyczajenia, ten kto odtwarza codziennie te same ścieżki, ten kto nigdy nie zmienia punktów odniesienia, ten kto nigdy nie zmienia koloru swojego ubioru, ten kto nigdy nie porozmawia z nieznajomym...
 kto chociaż raz w życiu nie odłożył na bok racjonalności.
+```
 
 ---
 
@@ -586,6 +610,7 @@ Ty znów spierdolisz, spakujesz torby.." -->
 
 ---
 
+```
 Mamy większe domy, lecz mniejsze rodziny.
 Więcej możliwości, lecz mniej czasu.
 Mamy więcej tytułów, lecz mniej rozsądku.
@@ -606,8 +631,10 @@ Większej ilości różnych posiłków, mniejszej ilości witamin i minerałów.
 Czas, kiedy mamy mnóstwo w oknie, a nic w pokoju.–
 
 Dalajlama
+```
 
 ---
+
 ```
 somsiad kupił dżwi bronzowe
 ale nadal tszyma krowe
@@ -625,8 +652,7 @@ pięść o spusztoszeniu podola problematyka
 
 ---
 
-Lecz większość śpi nadal, przez sen się uśmiecha
-A kto się zbudzi nie wierzy w przebudzenie
+> Lecz większość śpi nadal, przez sen się uśmiecha, A kto się zbudzi nie wierzy w przebudzenie.
 
 ---
 

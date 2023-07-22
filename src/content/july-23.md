@@ -3,10 +3,24 @@ layout: post
 title: 23 lipca
 image: img/july/majdanek.jpg
 author: Tomasz Waszczyk
-date: 2020-07-23T10:00:00.000Z
+date: 2022-07-23T10:00:00.000Z
 tags:
   - Polska
 ---
+
+### 2023
+
+W wieku 40 lat zmarł nagle Anton Czerepiennikow cyfrowy guru Rosji! Jako wstępną przyczyną śmierci podano zatrzymanie akcji serca.
+
+<img src="./img/july/Czerepiennikow"><br><br>
+
+---
+
+> Putin says the western part of Poland was a gift from Stalin to them, and that Russia will remind Poland of that.
+
+<img src="./img/july/linia-curzona.png"><br><br>
+
+> Niemcy poprą Polskę, swojego sojusznika z NATO, jeśli Warszawa stanie w obliczu potencjalnego ataku Grupy Wagnera z sąsiedniej Białorusi. Poinformował o tym minister obrony Niemiec Boris Pistorius w piątek na konferencji prasowej w Pradze.
 
 ### 2020
 
@@ -19,6 +33,38 @@ Takiego tempa kreacji pieniądza nie widzieliśmy od kryzysu finansowego sprzed 
 Roczna dynamika podaży pieniądza M3 w czerwcu przyspieszyła do 18,1% wobec 16% w maju i 9,4% w lutym. Po raz ostatni tak szybki przyrost tego agregatu odnotowano w grudniu 2008 roku.
 
 W skład M3 wchodzi nie tylko fizyczna gotówka w obiegu, ale przede wszystkim pieniądze ulokowane na rachunkach bankowych gospodarstw domowych, przedsiębiorstw, samorządów czy funduszy zabezpieczenia społecznego.
+
+### 2018
+
+> ☠️ “Linux is a cancer that attaches itself in an intellectual property sense to everything it touches” ☠️
+
+These were the words that came out from Steve Ballmer's mouth in 2001 when he was the CEO of Microsoft.
+
+The comment was only one part of Microsoft’s anti open source campaign that began with Bill Gates’ 1976 letter, Open Letter to Hobbyists, which took aim at piracy in the hobbyist community.
+
+Bill Gates as well as his successor Ballmer, remained stubborn critics of open source throughout their span as CEOs of the company. However, during Ballmer’s time, the open-source movement became too big for Microsoft to ignore, pushing the tech giant to experiment with it.
+
+In 2004, Microsoft released Windows Installer XML, which was the first software to be made available by Microsoft under a public licence. Four years later, Microsoft co-founded the Open Web Foundation along with other tech giants such as Google, Meta (Facebook back then), and IBM among others. During the same year, Microsoft officially joined the Apache Software Foundation.
+
+In 2009, it began contributing to the Linux community for the first time. By 2011, Microsoft established itself as the fifth-largest contributor to the Linux kernel, contributing nearly 4% of the changes made.
+
+However, over the past decade, Microsoft has truly changed its tune on the open source community.
+
+The biggest shift in Microsoft’s stance towards open source was observed in 2014, after Satya Nadella stepped in as the CEO of the company. Speaking at an event in San Francisco in 2014, Nadella displayed a slide that read ‘Microsoft loves Linux’. The message was that Microsoft no longer saw Linux as a competitor but as an ally.
+
+In 2018 Microsoft bought GitHub - the largest open source code sharing and collaboration platform, for $7.5B. It was under Nadella that Microsoft became one of the largest contributors to opensource projects in the world.
+
+Today, Microsoft has the highest number of employees contributing to open source projects on GitHub compared to any other company globally. Microsoft recently celebrated ‘Azure Open Source Day’.
+
+The learning of this story can be summarized in the following quote by George Bernard Shaw:
+
+"Those who cannot change their minds cannot change anything"
+
+A fun personal story about Linux: I went to the same Finnish-Swedish middle school in Helsinki as Linus Torvalds, the creator and lead developer of the Linux kernel. Probably the alumni that has had the biggest impact on the modern world, little did any teacher talk about this at our school.
+
+<img src="./img/july/ballmer.mp4"><br><br>
+
+<img src="./img/july/developers.mp4"><br><br>
 
 ### 1944
 

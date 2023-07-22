@@ -81,6 +81,18 @@ Francuski fundusz gra pod wzrost stóp procentowych w Polsce. Inflacja za wysoka
 
 ### 2020
 
+<img src="./img/march/fed-leverage.jpeg"><br><br>
+
+US banks have a 0% reserve requirement since 2020. If John deposits $100k, his bank can loan all of it to Sarah
+
+So now John has 100k in his bank and Sarah has 100k in hers 100k was just created out of nothing.
+
+If John and Sarah go to the bank to take out the 100k in cash, the bank doesn’t have it.
+
+<img src="./img/march/them.jpeg"><br><br>
+
+---
+
 <img src="./img/march/parkiet.jpg"/><br><br>
 
 ---

@@ -112,6 +112,10 @@ Thomas Jefferson 250 lat temu mówił o tym, że gorsze są banki od stacjonują
 
 <img src="./img/other/powiedzenia/kant.jpeg"><br><br>
 
+> Economists have learned higher levels of technology or of industrial or agricultural arts derive from long histories of the "feed-back" of earned assets into components of the economy forming capacity for production at comparatively higher levels of technology, science, or arts
+
+<img src="./img/july/nash.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

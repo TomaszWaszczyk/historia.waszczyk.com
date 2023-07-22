@@ -14,6 +14,10 @@ tags:
 
 ---
 
+<img src="./img/july/paris.webp"><br><br>
+
+---
+
 <a href="./documents/july/dfo230720a.pdf" target="_blank">ＣＢＤＣフォーラムの開催について</a>
 
 ---
@@ -78,6 +82,10 @@ Following the latest Duma’s decision, the bill “On Digital Financial Assets,
 >Na resztę naszą rozdziera gardziele” - Adam Mickiewicz
 
 ---
+
+### 2000
+
+<img src="./img/july/grundig.jpeg"><br><br>
 
 ### 1983
 
