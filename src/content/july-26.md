@@ -3,10 +3,16 @@ layout: post
 title: 26 lipca
 image: img/july/bazyleaiii.jpg
 author: Tomasz Waszczyk
-date: 2020-07-26T10:00:00.000Z
+date: 2021-07-26T10:00:00.000Z
 tags:
   - Bazylea III
 ---
+
+### 2023
+
+> Ukraińcy założyli w Polsce 29,4 tys. działalności gospodarczych. Nowe dane PIE
+
+Konkurencja gospodarki Polski w dół.
 
 ### 2020
 

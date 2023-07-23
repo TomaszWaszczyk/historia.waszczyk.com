@@ -36,6 +36,8 @@ and ive never been so accurately dragged in my life -->
 
 ### 1971
 
+https://en.wikipedia.org/wiki/London_Gold_Pool
+
 https://en.wikipedia.org/wiki/Nixon_shock
 
 <img src="./img/august/nixon.jpeg"><br><br>

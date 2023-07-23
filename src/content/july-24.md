@@ -22,6 +22,8 @@ It sent the two largest real estate developers to bankruptcy in 2021. By popping
 
 But Western experts say Xi is driving China into the brink of collapse, right? China has spent the past decade **insulating itself from the inevitable US bonds crash**. It won't be as enthusiastic about saving the US as in 2008. **The US economy is near its end. The only exit is war.**
 
+<img src="./img/july/USA-Henry-Kissinger-podczas.jpg"><br><br>
+
 Kissinger travelled to Beijing to discuss the possibility of war. Kissinger's trip to Beijing has only one purpose – to discuss how to **minimize damage when (not if) a war breaks out between China and the US.**
 
 I hate being so doom and gloom. But here is a Chinese phrase – 危机 Whenever danger lurks, opportunity awaits..
