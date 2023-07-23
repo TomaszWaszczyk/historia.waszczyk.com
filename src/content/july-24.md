@@ -10,9 +10,31 @@ tags:
 
 ### 2023
 
+100-year-old Henny Kissinger went to China. Kissinger and Xi discussed behind closed doors, **something that will affect us all.**
+
+<img src="./img/july/xi.jpeg"><br><br>
+
+**The biggest threat to the world is not China, but $31.4 trillion US debt. US bonds price will crash inevitably and nuke many countries' economies. Hundreds of millions of jobs and trillions of dollars in pensions will disappear.**
+
+When Xi Jinping started his 1st term, he was advised that the Chinese economy couldn't withstand the US bonds crash. China's deleveraging campaign was launched in 2013. 
+
+It sent the two largest real estate developers to bankruptcy in 2021. By popping its own financial and real estate bubbles, in a controlled manner, the Chinese government defused an economic time bomb.
+
+But Western experts say Xi is driving China into the brink of collapse, right? China has spent the past decade **insulating itself from the inevitable US bonds crash**. It won't be as enthusiastic about saving the US as in 2008. **The US economy is near its end. The only exit is war.**
+
+Kissinger travelled to Beijing to discuss the possibility of war. Kissinger's trip to Beijing has only one purpose – to discuss how to **minimize damage when (not if) a war breaks out between China and the US.**
+
+I hate being so doom and gloom. But here is a Chinese phrase – 危机 Whenever danger lurks, opportunity awaits..
+
+<img src="./img/july/perilop.jpeg"><br><br>
+
+---
+
 > Economists have learned higher levels of technology or of industrial or agricultural arts derive from long histories of the "feed-back" of earned assets into components of the economy forming capacity for production at comparatively higher levels of technology, science, or arts
 
 <img src="./img/july/nash.png"><br><br>
+
+---
 
 ### 2020
 
