@@ -12,7 +12,7 @@ tags:
 
 W wieku 40 lat zmarł nagle Anton Czerepiennikow cyfrowy guru Rosji! Jako wstępną przyczyną śmierci podano zatrzymanie akcji serca.
 
-<img src="./img/july/Czerepiennikow"><br><br>
+<img src="./img/july/Czerepiennikow.webp"><br><br>
 
 ---
 

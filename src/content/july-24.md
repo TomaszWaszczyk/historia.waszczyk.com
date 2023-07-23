@@ -38,7 +38,7 @@ I hate being so doom and gloom. But here is a Chinese phrase – 危机 Whenever
 
 ### 2020
 
-<img src="./img/AR-200729828.jpg/"><br><br>
+<img src="./img/july/AR-200729828.jpg"><br><br>
 
 Chińczycy polecieli na Marsa. Ruszyła misja Tianwen-1
 

@@ -110,7 +110,7 @@ Thomas Jefferson 250 lat temu mówił o tym, że gorsze są banki od stacjonują
 
 „Der Krieg ist darin schlimm, daß er mehr böse Menschen macht, als er deren wegnimmt.“ - Immanuel Kant
 
-<img src="./img/other/powiedzenia/kant.jpeg"><br><br>
+<img src="./img/others/powiedzenia/kant.jpeg"><br><br>
 
 > Economists have learned higher levels of technology or of industrial or agricultural arts derive from long histories of the "feed-back" of earned assets into components of the economy forming capacity for production at comparatively higher levels of technology, science, or arts
 
