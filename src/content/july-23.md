@@ -62,9 +62,15 @@ The learning of this story can be summarized in the following quote by George Be
 
 A fun personal story about Linux: I went to the same Finnish-Swedish middle school in Helsinki as Linus Torvalds, the creator and lead developer of the Linux kernel. Probably the alumni that has had the biggest impact on the modern world, little did any teacher talk about this at our school.
 
-<img src="./img/july/ballmer.mp4"><br><br>
+<video width="640" height="480" controls>
+<source src="./movies/july/ballmer.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-<img src="./img/july/developers.mp4"><br><br>
+<video width="640" height="480" controls>
+<source src="./movies/july/developers.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1944
 

@@ -3,10 +3,18 @@ layout: post
 title: 25 lipca
 image: img/july/kapitulacja.jpg
 author: Tomasz Waszczyk
-date: 2020-07-25T10:00:00.000Z
+date: 2022-07-25T10:00:00.000Z
 tags:
   - Karol Gustaw
 ---
+
+### 2023
+
+<img src="./img/july/current-status.jpeg"><br><br>
+
+<img src="./img/july/gold-china.jpg"><br><br>
+
+[Treasury Data](https://ticdata.treasury.gov/Publish/mfh.txt)
 
 ### 1968
 
