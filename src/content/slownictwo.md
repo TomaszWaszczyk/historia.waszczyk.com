@@ -1721,6 +1721,10 @@ gargantuan challenge
 
 roads not taken
 
+I explained it too hastily.
+
+Zabrać umysł w podróż po wyobraźni
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

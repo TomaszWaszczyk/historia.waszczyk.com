@@ -3,16 +3,53 @@ layout: post
 title: 26 lipca
 image: img/july/bazyleaiii.jpg
 author: Tomasz Waszczyk
-date: 2021-07-26T10:00:00.000Z
+date: 2022-07-26T10:00:00.000Z
 tags:
   - Bazylea III
 ---
 
 ### 2023
 
+Tencent został większościowym udziałowcem w Techland
+
+---
+
+Shanghai: ~55C
+
+---
+
+<img src="./img/july/africa.jpeg"><br><br>
+
+---
+
+```
+**US banking system faces $78 billion exodus as brics nations seek dollar alternatives.**
+
+❌ The upcoming #BRICS summit in South Africa will n̳o̳t̳ discuss the creation of a common BRICS currency. However, Brazil, 🇷🇺 Russia, 🇮🇳 India, 🇨🇳 China, and 🇿🇦 South Africa remain committed to reducing their reliance on the U.S. #dollar by promoting trade and settlements in local currencies.
+
+💱 The idea of a common currency was previously advocated by some BRICS leaders seeking to challenge the dominance of the dollar in the global financial system.
+
+💸 Despite the push for a common currency, 🇮🇳 India's foreign minister emphasized that currencies will remain a national issue for the foreseeable future, and South Africa's central bank governor pointed out the need for significant financial and macroeconomic integration to make a common currency viable.
+🔗 https://www.reuters.com/world/brics-currency-not-august-summit-agenda-south-african-official-2023-07-20/
+
+🇺🇸 In other news, the U.S. banking system is experiencing a significant deposit flight, with $78 billion leaving American bank accounts in just one week. Major banks are facing pressure to compete with higher-yielding money market accounts and must adapt to demands for higher interest rates to prevent further deposit flight.
+https://fred.stlouisfed.org/release/tables?rid=22&eid=822916#
+
+🏦 JPMorgan Chase CEO Jamie Dimon issued a warning to shareholders about the banking sector's challenges in maintaining profitability amid limited pricing power.
+🔗 https://www.wsj.com/articles/big-banks-earnings-had-some-bad-news-for-smaller-banks-dff7fa2
+
+🏘 Furthermore, the commercial real estate sector in the U.S. is bracing for potential fallout due to the rise of remote and hybrid work environments. Many American banks are considered overexposed to commercial real estate loans based on regulatory guidelines, posing potential risks to the banking industry.
+🔗 https://dailyhodl.com/2023/07/21/78000000000-exits-us-banking-system-in-one-week-as-jpmorgan-ceo-issues-alert-on-deposit-flight/
+
+```
+
+---
+
 > Ukraińcy założyli w Polsce 29,4 tys. działalności gospodarczych. Nowe dane PIE
 
 Konkurencja gospodarki Polski w dół.
+
+---
 
 ### 2020
 
@@ -48,6 +85,11 @@ Pytań w stosunku do nowej Bazylei jest wiele. Wiele jest też zarzutów i kontr
 https://pl.wikipedia.org/wiki/Podatek_dochodowy_od_os%C3%B3b_fizycznych
 
 ### 1948
+
+<video width="640" height="480" controls>
+<source src="./movies/july/luksus-prl.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 https://en.wikipedia.org/wiki/Executive_order
 

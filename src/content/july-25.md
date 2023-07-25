@@ -16,6 +16,14 @@ tags:
 
 [Treasury Data](https://ticdata.treasury.gov/Publish/mfh.txt)
 
+---
+
+Pope Francis received in private audience this morning Dr. Tedros Adhanom Ghebreyesus (World Health Organization)
+
+<img src="./img/july/couple.jpeg"><br><br>
+
+---
+
 ### 1968
 
 https://pl.wikipedia.org/wiki/Humanae_vitae

@@ -118,6 +118,8 @@ Thomas Jefferson 250 lat temu mówił o tym, że gorsze są banki od stacjonują
 
 Nie ma co kruszyć kopii na xyz - nie ma sensu się sprzeczać o xyz
 
+Cryptography is the ultimate form of non-violent direct action.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

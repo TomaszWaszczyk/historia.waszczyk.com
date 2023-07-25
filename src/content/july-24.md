@@ -26,7 +26,9 @@ But Western experts say Xi is driving China into the brink of collapse, right? C
 
 Kissinger travelled to Beijing to discuss the possibility of war. Kissinger's trip to Beijing has only one purpose – to discuss how to **minimize damage when (not if) a war breaks out between China and the US.**
 
-I hate being so doom and gloom. But here is a Chinese phrase – 危机 Whenever danger lurks, opportunity awaits..
+I hate being so doom and gloom. But here is a Chinese phrase – 危机
+
+> Whenever danger lurks, opportunity awaits..
 
 <img src="./img/july/perilop.jpeg"><br><br>
 

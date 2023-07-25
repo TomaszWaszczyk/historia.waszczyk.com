@@ -58,6 +58,12 @@ Mateusz Rafalski - Która godzina? (akryl, spray na płótnie, 100 x 100 cm), 
 
 ---
 
+Henryk Weyssenhoff - Tajemnicza pieśń (olej na płótnie, 53 x 87,5 cm), 1921, Muzeum Narodowe w Warszawie.
+
+<img src="./img/art/Weyssenhoff.jpeg"><br><br>
+
+---
+
 ### 2020
 
 <img src="./img/art/loading.png"><br><br>
