@@ -14,6 +14,15 @@ Tencent został większościowym udziałowcem w Techland
 
 ---
 
+Adwokaci, audytorzy i doradcy podatkowi nie mają wątpliwości. Ostrzegają, że to, co szykuje rząd, jest bardzo niebezpieczną ustawą. Jej uchwalenie oznacza, że ujawnione zostaną poufne informacje o dużych firmach, które przedsiębiorcy przekazują biegłym rewidentom. Chodzi m.in.o dane o marżach, warunkach kontraktów, planach rozwoju itd. Polska kolejny raz naruszy też unijne przepisy i narazi się Komisji Europejskiej.
+Trzy samorządy zawodowe krytykują projekt, który powstał w ministerstwie kierowanym przez Janusza Cieszyńskiego
+Krajowa Rada Biegłych Rewidentów, Naczelna Rada Adwokacka i Krajowa Rada Doradców Podatkowych zarzucają naruszenie tajemnic: państwowej, handlowej, przedsiębiorstwa, bankowej, adwokackiej i wielu innych
+Problem nie dotyczy jednak samych audytorów, ale firm, które przekazują im swoje wrażliwe dane. Dziś każda firma audytorska dostaje dane od przedsiębiorstw, które bada. Następnie przechowuje je i zabezpiecza dostęp do nich. Ochrona tych danych musi być na najwyższym poziomie, bo mówimy o najbardziej chronionych informacjach. Za ich ujawnienie firmie audytorskiej grozi odpowiedzialność cywilna i karna. Rząd chce, aby te dane były gromadzone w jednym miejscu. Katastrofę nietrudno sobie wyobrazić. Chodzi również o dane firm kluczowych z punktu widzenia bezpieczeństwa państwa.
+Projekt budowy centralnej e-bazy akt badań to rozwiązanie, które tworzy systemowe ryzyko dla polskiej gospodarki — komentuje dla Business Insidera Kamil Jesionowski, prezes Krajowej Rady Biegłych Rewidentów.
+Organizacje audytorów, adwokatów i doradców podatkowych, a także Rada Przedsiębiorczości mówią jednym głosem: to jest bardzo niebezpieczna zmiana. I apelują do rządu i Sejmu o wycofanie się z tego pomysłu.
+
+---
+
 Shanghai: ~55C
 
 ---

@@ -16,6 +16,12 @@ Prezes NBP Adam Glapiński: na koniec roku będzie inflacja jednocyfrowa
 > Mam dobre wiadomości. Na koniec roku inflacja będzie jednocyfrowa – zapowiedział na czwartkowej konferencji prezes NBP Adam Glapiński. Jak stwierdził, wraz z hamowaniem inflacji, hamować będzie gospodarka, ale czeka nas tzw. miękkie lądowanie.
 > ...wojna nie może się powtórzyć...
 
+---
+
+<img src="./img/march/zwiekszanie-determinacji.jpg"><br><br>
+
+---
+
 ### 2022
 
 Ukraine has "biological research facilities," says Undersecretary of State Victoria Nuland, when asked by Sen Rubio if Ukraine has biological or chemical weapons, and says she's worried Russia may get them. But she says she's 100% sure if there's a biological attack, it's Russia.

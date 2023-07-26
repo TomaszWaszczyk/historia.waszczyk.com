@@ -1725,6 +1725,12 @@ I explained it too hastily.
 
 Zabrać umysł w podróż po wyobraźni
 
+namysł techniczny
+
+amalgamat
+
+probież
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

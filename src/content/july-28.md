@@ -3,9 +3,17 @@ layout: post
 title: 28 lipca
 image: img/july/moneysupplypoland.png
 author: Tomasz Waszczyk
-date: 2020-07-28T10:00:00.000Z
+date: 2022-07-28T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+Nie da się usunąć konta. Platformizacja.
+
+<img src="./img/july/uber.jpg"><br><br>
+
 ---
 
 ### 2020

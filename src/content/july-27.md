@@ -3,9 +3,36 @@ layout: post
 title: 27 lipca
 image: img/july/jadwiga.jpg
 author: Tomasz Waszczyk
-date: 2020-07-27T10:00:00.000Z
+date: 2022-07-27T10:00:00.000Z
 tags:
   - Propaganda
+---
+
+### 2023
+
+Borwein integrals, named after mathematicians David and Jonathan Borwein, are intriguing math sequences introduced in 2001.
+
+For n=1 to n=4, the integral evaluates to π/2. It's unexpected that the product of these functions integrated over this interval would yield constant value for these four cases.
+
+<img src="./img/july/curveball.jpeg"><br><br>
+
+The pattern breaks when you get to n=5. A math curveball!
+
+---
+
+Zakaz zakupu złota fizycznego w Polsce został zniesiony 1 stycznia 1990 roku. Przed tą datą, od 1946 roku, obowiązywał zakaz kupowania złota w formie fizycznej przez osoby prywatne. Była to polityka rządu komunistycznego wprowadzona w celu kontrolowania obiegu złota i walut zagranicznych.
+
+Po upadku komunizmu w Polsce i zmianach politycznych w latach 80. XX wieku, wiele ograniczeń zostało zniesionych, w tym zakaz zakupu złota przez osoby prywatne. Od 1990 roku, mieszkańcy Polski mają możliwość swobodnego kupowania, sprzedawania i posiadania złota w formie fizycznej.
+
+<video width="640" height="480" controls>
+<source src="./movies/july/inflation.mov" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<a href="./documents/july/bio.pdf" target="_blank">Bio</a>
+
 ---
 
 ### 2022
