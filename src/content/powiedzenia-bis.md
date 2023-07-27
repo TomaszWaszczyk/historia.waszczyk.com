@@ -120,6 +120,10 @@ Nie ma co kruszyć kopii na xyz - nie ma sensu się sprzeczać o xyz
 
 Cryptography is the ultimate form of non-violent direct action.
 
+"First, solve the problem. Then, write the code." - This quote by John Johnson emphasizes the importance of understanding and resolving the underlying issue before jumping into coding.
+
+<img src="./img/others/powiedzenia/attention.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,9 +3,31 @@ layout: post
 title: 30 lipca
 image: img/july/XXI-16-2.jpg
 author: Tomasz Waszczyk
-date: 2020-07-30T10:00:00.000Z
+date: 2022-07-30T10:00:00.000Z
 tags:
   - USD
+---
+
+### 2023
+
+"Additionally, following the banking turmoil in March 2023, the proposal seeks to further strengthen the banking system by applying a consistent set of capital requirements across large banks.
+
+In particular, the proposal would require banks with total assets of $100 billion or more to:
+
+• Include unrealized gains and losses from certain securities in their capital ratios;
+
+• Comply with the supplementary leverage ratio requirement; and
+
+• Comply with the countercyclical capital buffer, if activated.
+
+The improvements in risk sensitivity and consistency introduced by the proposal are estimated to result in an aggregate 16 percent increase in common equity tier 1 capital requirements for affected bank holding companies, with the increase principally affecting the largest and most complex banks.
+
+The effects would vary for each bank based on its activities and risk profile. Most banks currently would have enough capital today to meet the proposed requirements."
+
+<img src="./img/july/req.jpeg"><br><br>
+
+Source: Federal Deposit Insurance Corporation (FDIC), Fact Sheet: Proposed Rules to Strengthen Capital Requirements for Large Banks, July 27, 2023
+
 ---
 
 ### 2021

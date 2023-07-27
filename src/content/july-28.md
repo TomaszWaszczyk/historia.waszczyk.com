@@ -16,6 +16,10 @@ Nie da się usunąć konta. Platformizacja.
 
 ---
 
+<img src="./img/july/mpoddany.jpg"><br><br>
+
+---
+
 ### 2020
 
 ,,Był wielkim polskim patriotą, chociaż nie był typowym Polakiem. Kulturowo należał do tradycji Morza Śródziemnego, a genealogicznie był Polakiem tylko w niewielkim stopniu. Jego ojciec był pół-Ormianinem, a druga połowa była niemiecko-austriacko-czeska. Prababka Zbyszka ze strony matki była z rodziny niemieckich kolonistów, słabo mówiła po polsku. A on był wychowany w duchu tradycyjnego polskiego patriotyzmu. I jako polski patriota tym bardziej nie mógł się pogodzić z polskością. Bo kochał Polskę idealną, może wyidealizowaną. A Polska jest, jaka jest. I Polacy też są, jacy są. Widział tę naszą małość. Najbardziej ją widział, kiedy wróciliśmy do Polski w latach 90. I to go bolało, bo widział, że ten kraj nie może się podnieść. To był jego osobisty dramat. A ja marzę o jednym: żeby postać Zbyszka nareszcie przestała być używana do robienia taniej polityki przez ludzi, którzy w ostatnich latach życia zaczęli go oklejać. On był zawsze wobec ludzi otwarty, ale pod koniec ta otwartość stała się naiwnością. Stał się bezbronny jak dziecko. I różni cwaniacy go za nos wodzili. Bo dopóki kogoś nie złapał za rękę, to mu bezgranicznie ufał. Ale też jak się do kogoś zniechęcił, jak się zirytował, nie liczył się ze słowami. Po prostu mówił to, co akurat myślał. Nie wszyscy to dobrze znosili. Nie wszyscy rozumieli to, co się z nim wtedy działo. Ale tak z przyjaźniami bywa. Bardzo mądrze powiedział Różewicz: z miłością nie ma problemu. Wybucha, potem jej nie ma. A z przyjaźnią sprawa jest tajemnicza. Są wzloty i upadki. Nie wiadomo dokładnie, kiedy się zaczyna, czasem zamiera, potem się odradza, znów przygasa i znów się odradza. Tylko że nie każde nieporozumienie ludzie zdążą wyjaśnić, nie każda przyjaźń zdąży się odrodzić. W pewnym momencie niestety czas się kończy. A czas Zbyszka się skończył o wiele za wcześnie. Miał tylko 74 lata.''
