@@ -22,6 +22,14 @@ O ile mogą wzrosnąć ceny? Z tym pytaniem zwróciliśmy się do ekspertów. - 
 
 <img src="./img/july/neural-networks.png"><br><br>
 
+"All of the chief risk officers surveyed agreed with the proposition that the development and deployment of these technologies [Artificial Intelligence] are outpacing the management of the potential ethical and societal risks. This challenge is not unique to AI technologies, but it is particularly acute in relation to them, given the recent rapid acceleration in their development
+
+Only 55% of chief risk officers surveyed say they understand how existing and upcoming regulation relating to AI will impact their organization.
+
+More than half of chief risk officers surveyed indicated that their organization plans to conduct an AI audit within the next six months to ensure the safety, legality and ethical soundness of the algorithms being used."
+
+<a href="./documents/july/WEF_Chief_Risk_Officers_Outlook_2023.pdf" target="_blank">WEF_Chief_Risk_Officers_Outlook_2023</a>
+
 ---
 
 ### 2021
