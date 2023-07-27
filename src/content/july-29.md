@@ -3,9 +3,25 @@ layout: post
 title: 29 lipca
 image: img/july/usdindex.png
 author: Tomasz Waszczyk
-date: 2020-07-29T10:00:00.000Z
+date: 2022-07-29T10:00:00.000Z
 tags:
   - USD
+---
+
+### 2023
+
+W średnim terminie bez dotacji państwa (taki jest cel) cena energii wzrośnie ~5-10x. Po około dekadzie ceny prawdopodobnie znacznie spadną, ale to już będzie zupełnie inna rzeczywistość oraz inny system społeczno-ekonomiczny.
+
+> Bez rządowego wsparcia rachunki poszybują
+
+O ile mogą wzrosnąć ceny? Z tym pytaniem zwróciliśmy się do ekspertów. - Zakładając brak dodatkowych mechanizmów zamrażających ceny prądu, może być to ponad dwa razy więcej w odniesieniu do obecnego limitu, czyli od ok. 20-35 proc. więcej niż cena maksymalna. W praktyce będzie to wzrost na poziomie zatwierdzonym przez prezesa URE w grudniu 2022 r. dla 2023 r. - wyjaśnia Łukasz Czekała, prezes firmy Optimal Energy.
+
+---
+
+<img src="./img/july/neural-networks.jpeg"><br><br>
+
+<img src="./img/july/neural-networks.png"><br><br>
+
 ---
 
 ### 2021
