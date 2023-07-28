@@ -18,6 +18,8 @@ O ile mogą wzrosnąć ceny? Z tym pytaniem zwróciliśmy się do ekspertów. - 
 
 ---
 
+<img src="./img/july/projected-flops.jpg"><br><br>
+
 <img src="./img/july/neural-networks.jpeg"><br><br>
 
 <img src="./img/july/neural-networks.png"><br><br>
