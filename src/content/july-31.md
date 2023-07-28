@@ -3,9 +3,37 @@ layout: post
 title: 31 lipca
 image: img/july/bismarck.jpg
 author: Tomasz Waszczyk
-date: 2021-07-31T10:00:00.000Z
+date: 2022-07-31T10:00:00.000Z
 tags:
   - Freigeld
+---
+
+### 2023
+<!-- Izrael (~40C w cieniu). -->
+
+<video width="640" height="480" controls>
+<source src="./movies/july/israel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Wojkowski odchodzą z wojska i odmawiają wykonanie rozkazu.
+
+---
+
+<img src="./img/july/softwar-still-hard.jpeg"><br><br>
+
+The end state of warfare is Bitcoin b/c it is the most powerful and efficient power projection technology ever invented. It's also non-lethal, since it's electric.
+
+By digitizing our monetary property and then defending it electronically rather than kinetically, we have eliminated the need to kill each other to secure our monetary property, and possibly solved a strategic nuclear kinetic stalemate.
+
+---
+
+> 14 lat więzienia dla specjalisty cyberbezpieczeństwa za zdradę w Rosji
+
+<img src="./img/july/saczkow.webp"><br><br>
+
+Współzałożyciel firmy cyberbezpieczeństwa Group-IB, Ilja Saczkow został skazany na 14 lat więzienia za zdradę w Rosji. Według rosyjskich władz miał przekazywać tajne informacje zagranicznym szpiegom.
+
 ---
 
 ### 2022

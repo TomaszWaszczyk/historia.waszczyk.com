@@ -77,6 +77,19 @@ Ciekawe jak tę informacje odbiorą rynki finansowe? Dla wielu może to być tot
 
 ---
 
+### 2017
+
+> Poland is “foreign owned country”
+
+<video width="640" height="480" controls>
+<source src="./movies/november/foreign-owned-country.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/november/foreign-owned-country-poland.pdf" target="_blank">foreign-owned-country-poland</a>
+
+https://china-cee.eu/2018/02/21/poland-economy-briefing-poland-is-foreign-owned-country/
+
 ### 1975
 
 Odbyła się pierwsza kwesta artystów polskich na warszawskich Powązkach. Celem akcji było zbieranie funduszy na rzecz ratowania zabytkowych i niszczejących nagrobków. Jednym z pomysłodawców akcji był polski pisarz, publicysta, krytyk muzyczny i działacz społeczny Jerzy Waldorff (na zdjęciu). Waldorff osobiście dzwonił do znanych osobistości kultury i mediów namawiając ich do wzięcia udziału w zbiórce pieniędzy. Przyszło wtedy około 200 osób. Udział w kweście wzięli m.in. Irena Kwiatkowska, Danuta Szaflarska i Maja Komorowska. Coroczna zbiórka pieniędzy trwa do dziś.

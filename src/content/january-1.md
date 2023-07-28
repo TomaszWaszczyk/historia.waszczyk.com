@@ -397,6 +397,10 @@ System ten obowiązywał do roku 1849, kiedy to wprowadzono miary rosyjskie.
 
 <img src="./img/january/jednostki.jpg"/><br><br>
 
+### 1700
+
+<img src="./img/july/american-colonies-1700s.jpeg"><br><br>
+
 ### 1659
 
 Potop szwedzki: król Jan Kazimierz wjechał triumfalnie do odzyskanego Torunia.
