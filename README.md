@@ -4,6 +4,8 @@ https://ipn.gov.pl/pl/publikacje/periodyki-ipn/aparat-represji-w-polsc
 
 https://przystanekhistoria.pl
 
+https://www.jetsprops.com/transport/messerschmitt-me-323-gigant-gargantuan-wwii-heavy-lifter.html
+
 https://web96.pl
 
 https://battlemachines.org

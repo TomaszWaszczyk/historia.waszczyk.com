@@ -11,12 +11,20 @@ tags:
 ### 2023
 <!-- Izrael (~40C w cieniu). -->
 
+> Weltschmerz
+
+<img src="./img/july/20230723_001933.jpg"><br><br>
+
+> Weltschmerz
+
+---
+
 <video width="640" height="480" controls>
 <source src="./movies/july/israel.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Wojkowski odchodzą z wojska i odmawiają wykonanie rozkazu.
+Wojskowski odchodzą z wojska oraz odmawiają wykonania rozkazów.
 
 ---
 
@@ -33,6 +41,25 @@ By digitizing our monetary property and then defending it electronically rather 
 <img src="./img/july/saczkow.webp"><br><br>
 
 Współzałożyciel firmy cyberbezpieczeństwa Group-IB, Ilja Saczkow został skazany na 14 lat więzienia za zdradę w Rosji. Według rosyjskich władz miał przekazywać tajne informacje zagranicznym szpiegom.
+
+---
+
+Eksperymenty, ale powoli do przodu:
+
+> China's social credit score experiment gains momentum. Now, if a person with a low rating calls you, your phone emits a siren instead of the usual ringtone. Then there is a voice reminder that a conversation with this subscriber will lead to a decrease in your score.
+
+<video width="640" height="480" controls>
+<source src="./movies/july/beginnings.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<a href="./documents/july/AntarcticFOIA.pdf" target="_blank">AntarcticFOIA</a>
+
+<a href="./documents/july/pi-90-antarctic.pdf" target="_blank">pi-90-antarctic</a>
+
+<a href="./documents/july/zn_poznan_54_druk.pdf" target="_blank">zn_poznan_54</a>
 
 ---
 

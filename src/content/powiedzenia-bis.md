@@ -126,6 +126,10 @@ Cryptography is the ultimate form of non-violent direct action.
 
 Minister Morawiecki (19.10.2017): „Jesteśmy w sytuacji w pewnym sensie nie do odwrócenia, ponieważ jesteśmy „krajem posiadanym przez kogoś z zagranicy”.
 
+sprzedawaj krowe, sprzedaj konie, kup zegarek marki błonie
+
+wielke umysly myślą podobnie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

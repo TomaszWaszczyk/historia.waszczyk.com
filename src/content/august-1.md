@@ -3,9 +3,37 @@ layout: post
 title: 1 sierpnia
 image: img/august/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-01T10:00:00.000Z
+date: 2022-08-01T10:00:00.000Z
 tags:
   - Powstanie warszawskie
+---
+
+### 2023
+
+Hedge Funds are shorting treasuries at historic levels and are the most short they've been since at least at least 2016.
+
+<img src="./img/august/loading-up.jpeg"><br><br>
+
+Gentlemans, this is insanity. Short-Term Maturities, I am curious to see a post on these open positions based on Maturity. Value is universal world wide language.
+
+---
+
+<img src="./img/august/planpin.png"><br><br>
+
+<img src="./img/august/solar-cycle.jpeg"><br><br>
+
+<img src="./img/august/solar-cycle-2.jpeg"><br><br>
+
+<img src="./img/august/solar-cycle-3.jpeg"><br><br>
+
+<img src="./img/august/solar-cycle-4.jpeg"><br><br>
+
+---
+
+<a href="./documents/august/imf-shadow-banking.pdf" target="_blank">IMF</a>
+
+<a href="./documents/august/wp1501.pdf" target="_blank">wp1501.pdf</a>
+
 ---
 
 ### 2018
