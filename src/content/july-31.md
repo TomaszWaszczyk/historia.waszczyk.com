@@ -13,7 +13,7 @@ tags:
 
 > Weltschmerz
 
-<img src="./img/july/20230723_001933.jpg"><br><br>
+<img src="./img/august/20230723_001933.jpg"><br><br>
 
 > Weltschmerz
 

@@ -18,15 +18,15 @@ Gentlemans, this is insanity. Short-Term Maturities, I am curious to see a post 
 
 ---
 
-<img src="./img/august/planpin.png"><br><br>
+<img src="./img/july/planpin.png"><br><br>
 
-<img src="./img/august/solar-cycle.jpeg"><br><br>
+<img src="./img/july/solar-cycle.jpeg"><br><br>
 
-<img src="./img/august/solar-cycle-2.jpeg"><br><br>
+<img src="./img/july/solar-cycle-2.jpeg"><br><br>
 
-<img src="./img/august/solar-cycle-3.jpeg"><br><br>
+<img src="./img/july/solar-cycle-3.jpeg"><br><br>
 
-<img src="./img/august/solar-cycle-4.jpeg"><br><br>
+<img src="./img/july/solar-cycle-4.jpeg"><br><br>
 
 ---
 
