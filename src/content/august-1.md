@@ -30,9 +30,9 @@ Gentlemans, this is insanity. Short-Term Maturities, I am curious to see a post 
 
 ---
 
-<a href="./documents/august/imf-shadow-banking.pdf" target="_blank">IMF</a>
+<a href="./documents/july/imf-shadow-banking.pdf" target="_blank">IMF</a>
 
-<a href="./documents/august/wp1501.pdf" target="_blank">wp1501.pdf</a>
+<a href="./documents/july/wp1501.pdf" target="_blank">wp1501.pdf</a>
 
 ---
 
