@@ -3,7 +3,7 @@ layout: post
 title: 3 sierpnia
 image: img/august/klamcastalin.jpg
 author: Tomasz Waszczyk
-date: 2020-08-03T10:00:00.000Z
+date: 2021-08-03T10:00:00.000Z
 tags:
   - Stalin
 draft: false  

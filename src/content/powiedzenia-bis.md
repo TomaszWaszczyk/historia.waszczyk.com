@@ -130,6 +130,12 @@ sprzedawaj krowe, sprzedaj konie, kup zegarek marki błonie
 
 wielke umysly myślą podobnie
 
+czas spadania łusek
+
+kto był rozsądny na Tytanicu? orkiestra?
+
+<img src="./img/others/powiedzenia/idea.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,17 +3,46 @@ layout: post
 title: 2 sierpnia
 image: img/august/archiwumskarbowe.jpeg
 author: Tomasz Waszczyk
-date: 2020-08-02T10:00:00.000Z
+date: 2022-08-02T10:00:00.000Z
 tags:
   - Archiwum Skarbowe
 draft: false  
+---
+
+### 2023
+
+<img src="./img/august/bild.jpg"><br><br>
+
+<img src="./img/august/zabawne.jpeg"><br><br>
+
+<img src="./img/august/statism.jpg"><br><br>
+
+> Many forms of such servitude have been tested by rulers over the millennia, but by far the most effective among them is that of “representative democracy” coupled with the “welfare state.” “Representative democracy” is the illusion of universal participation in the use of institutional coercion. The “welfare state” is the reality of universal participation in the process of institutional parasitism. Together, they constitute what Frédéric Bastiat described in his immortal words as “the great fiction through which everybody endeavors to live at the expense of everybody.”
+
+---
+
+Propaganda, "generał"
+
+> Gen. Polko: nie trzeba obawiać się grupy Wagnera. Poradziłby z nią sobie jeden polski batalion
+
+[Słońce na żywo](http://www.astro.uni.wroc.pl/index.php/popularyzacja/slonce-na-zywo)
+
+[Qatar](https://climateknowledgeportal.worldbank.org/country/qatar/climate-data-historical)
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/august/ukraine.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021
 
 The IMF has just approved a helicopter drop of $650 billion in SDRs to boost global liquidity. An allocation of SDRs hasn't happened since 2009.
 
-“This is a historic decision – the largest SDR allocation in the history of the IMF and a shot in the arm for the global economy at a time of unprecedented crisis. The SDR allocation will benefit all members, address the long-term global need for reserves, build confidence, and foster the resilience and stability of the global economy. It will particularly help our most vulnerable countries struggling to cope with the impact of the COVID-19 crisis,” IMF Managing Director Kristalina Georgieva said. 
+“This is a historic decision – the largest SDR allocation in the history of the IMF and a shot in the arm for the global economy at a time of unprecedented crisis. The SDR allocation will benefit all members, address the long-term global need for reserves, build confidence, and foster the resilience and stability of the global economy. It will particularly help our most vulnerable countries struggling to cope with the impact of the COVID-19 crisis,” IMF Managing Director Kristalina Georgieva said.
 
 ### 1944
 

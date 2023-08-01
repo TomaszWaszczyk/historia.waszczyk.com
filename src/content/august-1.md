@@ -10,6 +10,16 @@ tags:
 
 ### 2023
 
+> "Nadal nie rozumiem."
+
+<img src="./img/august/nadalnierozumie.jpeg"><br><br>
+
+<img src="./img/august/powstanie.jpeg"><br><br>
+
+Stefan Garwatowski - Powstanie Warszawskie (olej na płótnie, 180 x 210 cm), 1992, Muzeum Wojska Polskiego w Warszawie.
+
+---
+
 Hedge Funds are shorting treasuries at historic levels and are the most short they've been since at least at least 2016.
 
 <img src="./img/august/loading-up.jpeg"><br><br>
