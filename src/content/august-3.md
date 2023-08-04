@@ -3,11 +3,23 @@ layout: post
 title: 3 sierpnia
 image: img/august/klamcastalin.jpg
 author: Tomasz Waszczyk
-date: 2021-08-03T10:00:00.000Z
+date: 2022-08-03T10:00:00.000Z
 tags:
   - Stalin
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/others/powiedzenia/knowledge.jpg"><br><br>
+
+<img src="./img/august/maklowicz.jpg"><br><br>
+
+---
+
+<img src="./img/august/czarnek.jpg"><br><br>
+
+> Nie ukrywam, że atmosfera, jaka dziś panuje wokół nauki, a szczególnie niektórych tematów historii najnowszej, nie sprzyja badaniom naukowym - mówi TOK FM prof. Rafał Wnuk, historyk związany z Katolickim Uniwersytetem Lubelskim. Prof. Rafał Wnuk wykłada na Katolickim Uniwersytecie Lubelskim. Jest specjalistą od historii najnowszej, zajmuje się tematyką powojennego podziemia antykomunistycznego i niepodległościowego. Jest jednym z tych historyków, którzy nie szczędzą krytyki obecnie rządzącym i których władza uznaje za niepokornych.
 
 ### 2021
 

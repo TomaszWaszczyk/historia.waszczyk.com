@@ -3,11 +3,19 @@ layout: post
 title: 4 sierpnia
 image: img/august/bzdura.png
 author: Tomasz Waszczyk
-date: 2020-08-04T10:00:00.000Z
+date: 2022-08-04T10:00:00.000Z
 tags:
   - Bogusław Wolniewicz
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/august/keynes-hayek.jpg"><br><br>
+
+---
+
+<img src="./img/august/future-is-asian.JPG"><br><br>
 
 ### 2021
 

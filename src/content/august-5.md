@@ -3,10 +3,17 @@ layout: post
 title: 5 sierpnia
 image: img/august/inflacjaglapinski.jpg
 author: Tomasz Waszczyk
-date: 2020-08-05T10:00:00.000Z
+date: 2022-08-05T10:00:00.000Z
 tags:
   - Ludwik Hirszfeld
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/august/przejezyczenie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

@@ -3898,6 +3898,8 @@ w czasie wojny, prawda jest tak cenna, że musi jej towarzyszyć ochroniarz kła
 
 "Freedom is earned day by day." — Antonio Escohotado"
 
+“If a man knows more than others, he becomes lonely.” — Carl Jung
+
 <a href="https://historia.waszczyk.com/powiedzenia-bis" target="_blank">Powiedzenia - następna część</a>
 
 <!-- O kimś kto jest głupi = "nie jest moim faworytem".... -->
