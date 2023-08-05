@@ -3,9 +3,38 @@ layout: post
 title: 7 sierpnia
 image: img/august/didthis.jpeg
 author: Tomasz Waszczyk
-date: 2021-08-07T10:00:00.000Z
+date: 2022-08-07T10:00:00.000Z
 tags:
   - Rozbiory
+---
+
+### 2023
+
+> Der Pole. Ein Character-Gemälde
+
+Der Pole. Ein Character-Gemälde" (translated as "The Pole. A Character Portrait") is a novella written by Heinrich von Kleist, a German poet, dramatist, and writer. The novella was published in 1800 as part of Kleist's collection of essays, stories, and literary works.
+
+In "Der Pole," Kleist presents a character study of a Polish nobleman named Bolesław, who is depicted as a complex and contradictory figure. The story explores themes of nationalism, identity, and the struggle for freedom, which were particularly relevant in the context of early 19th-century Europe, where many countries were grappling with issues related to nation-building and political upheaval.
+
+Bolesław, the titular Pole, is portrayed as a passionate and idealistic character, deeply attached to his Polish heritage and fiercely devoted to his country's independence. At the same time, he is also shown to be conflicted and torn between his love for his homeland and his personal desires. The novella delves into Bolesław's inner thoughts and struggles, providing insight into his motivations and the challenges he faces.
+
+Heinrich von Kleist's "Der Pole" is considered a notable work within German Romantic literature, known for its exploration of psychological depth and its engagement with contemporary political and philosophical ideas. The novella reflects Kleist's interest in exploring the complexities of human nature and the tensions between individual desires and larger societal ideals.
+
+---
+
+<a href="./documents/august/An-Overview-of-Catastrophic-AI-Risks.pdf" target="_blank">An-Overview-of-Catastrophic-AI-Risks</a>
+
+---
+
+<img src="./img/august/spiral.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/august/we-cannot.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
