@@ -16,7 +16,9 @@ https://amp.ww.pl.freejournal.org/1488840/1/karol-jaroszynski.html
 
 https://przekroj.pl/nauka/karol-jaroszynski-sponsor-cara-adam-weglowski
 
- -->
+Leopold Stanisław Kronenberg
+
+-->
 
 https://pl.wikipedia.org/wiki/Ziemia%C5%84stwo
 

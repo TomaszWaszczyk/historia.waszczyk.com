@@ -138,6 +138,8 @@ kto był rozsądny na Tytanicu? orkiestra?
 
 <img src="./img/others/powiedzenia/munger.jpeg"><br><br>
 
+tools don't matter, creation does
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

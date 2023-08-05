@@ -15,6 +15,20 @@ tags:
 Your browser does not support the video tag.
 </video>
 
+---
+
+"Ołtarz, który bardziej przypomina scenę koncertową i nie ma nic wspólnego z prawdziwą wiarą. Komunia rozdawana przez świeckie kobiety, gdzie widać, że ilość kapłanów jest wystarczająca aby byli w stawie udzielić każdemu NS. Profanacja na światową skalę. Tak to wygląda kiedy prawdziwa wiara zniknęła" - takie komentarze znajduję pod filmem z Eucharystii na otwarcie ŚDM w Lizbonie.  
+Profanacja na światową skalę? Hmmm...  Na zdjęciu widzę, że przed przyjęciem Najświętszego Sakramentu młodzi ludzie wykonują należny gest czci zbliżając się do szafarza. Należny, to nie znaczy, że taki sam jak kiedyś. Życia nie można skopiować. Młodego wina nie można lać do starych bukłaków, bo młode wino jest pełne energii.
+Bł. Antonio Rosmini (+1855) w książce „O pięciu ranach Świętego Kościoła” z odwagą i przenikliwością wskazywał na konieczność reform w Kościele. Rosmini uznawany jest za jednego z prekursorów odnowy Kościoła, która znalazła swój konkretny wyraz w przeprowadzonym ponad sto lat po jego śmierci Soborze Watykańskim II. 
+Jedną z ran Kościoła według filozofa z Rovereto było oddzielenie ludu od duchowieństwa w kulcie. Ks. Robert Skrzypczak ("Święty "heretyk", który kochał Kościół aż do bólu") pisze o Rosminim: "Lud chrześcijański podczas wspólnych kościelnych celebracji nie pełnić roli widza, lecz aktora. Było dla niego jasne, że liturgia nie jest „widowiskiem wystawianym na oczach ludu”. Chodziło mu o zaangażowanie w działanie Chrystusa całej inteligencji, woli i uczuciowości każdego wiernego. Liturgia miała przenikać w podobnym stopniu tak duchowieństwo, jak i lud."
+Tradycja jest ważna. Uczeń Jezusa nie zanurza się jednak w romantycznej przeszłości ani nie wybiega w utopijną przyszłość. Żyje dniem dzisiejszym. "Każdy uczony w Piśmie, który stał się uczniem królestwa niebieskiego, podobny jest do ojca rodziny, który ze swego skarbca wydobywa rzeczy nowe i stare".
+
+<img src="./img/august/lizoba.jpg"><br><br>
+
+<img src="./img/august/lizbona-2.jpg"><br><br>
+
+---
+
 ### 2021
 
 <img src="./img/august/centralbanking.png"><br><br>

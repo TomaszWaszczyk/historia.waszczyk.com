@@ -3,10 +3,16 @@ layout: post
 title: 6 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2020-08-06T10:00:00.000Z
+date: 2022-08-06T10:00:00.000Z
 tags:
   - Rozbiory
 ---
+
+### 2023
+
+Bank centralny Kuby zakazał państwowym i prywatnym firmom korzystania z bankomatów oraz ograniczył transakcje gotówkowe pomiędzy nimi - informuje Reuters. W ten sposób władze monetarne chcą walczyć z ciągle rosnącą inflacją oraz słabnącą walutą i jej nielegalną wymianą.
+
+<img src="./img/august/kuba.webp"><br><br>
 
 ### 2021
 

@@ -10,6 +10,8 @@ draft: false
 
 ### Phrases
 
+I driving myself
+
 make or break moment
 
 hooking up
