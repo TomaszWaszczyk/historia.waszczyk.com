@@ -10,7 +10,7 @@ tags:
 
 ### 2023
 
-> ..nie jestem sam. Słuchaj przekazu. **Wypierdalaj.**
+> ..nie jestem sam. Słuchaj przekazu uważnie. **Wypierdalaj.**
 
 <video width="640" height="480" controls>
 <source src="./movies/august/typiary.mp4" type="video/mp4">
