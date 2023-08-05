@@ -10,6 +10,15 @@ tags:
 
 ### 2023
 
+> ..nie jestem sam. Słuchaj przekazu. **Wypierdalaj.**
+
+<video width="640" height="480" controls>
+<source src="./movies/august/typiary.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 Bank centralny Kuby zakazał państwowym i prywatnym firmom korzystania z bankomatów oraz ograniczył transakcje gotówkowe pomiędzy nimi - informuje Reuters. W ten sposób władze monetarne chcą walczyć z ciągle rosnącą inflacją oraz słabnącą walutą i jej nielegalną wymianą.
 
 <img src="./img/august/kuba.webp"><br><br>
