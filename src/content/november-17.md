@@ -142,6 +142,8 @@ W wytycznych czytamy:
 
 Armia Krajowa przeprowadziła szeroką akcję dywersyjną, w sporym stopniu skierowaną przeciwko niemieckim transportom wojskowym. Jednym z elementów tego przedsięwzięcia było wysadzenie torów kolejowych w okolicach Radomia. Nie byłoby w tym fakcie nic nadzwyczajnego, gdyby nie to, że dokonał tego oddział dywersyjny "Dysk" złożony z samych kobiet. Dowódcą tej formacji, powołanej w roku 1940 przez majora Franciszka Niepokólczyckiego była lekarka sportowa i członek Polskiej Organizacji Wojskowej Zofia Franio "Doktór"
 
+<img src="./img/november/armia-krajowa.jpg"><br><br>
+
 ### 1923
 
 Prezydent Stanisław Wojciechowski dokonał uroczystego otwarcia położonej w okolicach Warszawy Transatlantyckiej Centrali Radionadawczej.
