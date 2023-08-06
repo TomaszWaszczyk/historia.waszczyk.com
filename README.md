@@ -4,6 +4,8 @@ https://www.spaceforce.mil/Multimedia/Art/
 
 PROF. ZBIGNIEW KRUSZEWSKI
 
+https://gistoria.pl
+
 https://ipn.gov.pl/pl/publikacje/periodyki-ipn/aparat-represji-w-polsc
 
 https://przystanekhistoria.pl
