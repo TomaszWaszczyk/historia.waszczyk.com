@@ -3,9 +3,27 @@ layout: post
 title: 9 sierpnia
 image: img/august/First_Partition_of_Poland1772.png
 author: Tomasz Waszczyk
-date: 2021-08-09T10:00:00.000Z
+date: 2022-08-09T10:00:00.000Z
 tags:
   - Rozbiory
+---
+
+### 2023
+
+> Ordo Ab Chao
+
+<img src="./img/august/Monet_Umbrella.JPG"><br><br>
+
+..but pain..
+
+---
+
+<img src="./img/august/blackout.jpg"><br><br>
+
+---
+
+> TVN: Monika Richardson chciała się odciąć od trudnej przeszłości. Przeszła rytuał "smoczego oddechu"
+
 ---
 
 ### 2022

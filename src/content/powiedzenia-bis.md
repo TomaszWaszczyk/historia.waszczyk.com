@@ -142,6 +142,8 @@ kto był rozsądny na Tytanicu? orkiestra?
 
 tools don't matter, creation does
 
+Ordo Ab Chao
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
