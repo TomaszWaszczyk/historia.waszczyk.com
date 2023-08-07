@@ -10,6 +10,10 @@ tags:
 
 ### 2023
 
+Zidiocenie i infantylizacja zachowań międzyludzkich sięga zenitu.
+
+---
+
 Uber has $31.5B in cumulative operating losses since 2014…but still some investors complain that hardware is too capital intensive to invest in. 🤦🏻‍♂️
 
 Many investors, including LPs, simply aren’t intellectually honest about shallowtech versus deeptech investing.

@@ -14,6 +14,12 @@ tags:
 
 ---
 
+👀 2008-2009
+
+<img src="./img/august/chinese-students-in-us.png"><br><br>
+
+---
+
 > Zoom's Updated Terms of Service Permit Training AI on User Content Without Opt-Out
 
 ---
