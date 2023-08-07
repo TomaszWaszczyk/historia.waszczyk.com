@@ -14,8 +14,6 @@ tags:
 
 <img src="./img/august/Monet_Umbrella.JPG"><br><br>
 
-..but pain..
-
 > Ordo Ab Chao
 
 ---
