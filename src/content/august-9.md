@@ -16,6 +16,8 @@ tags:
 
 ..but pain..
 
+> Ordo Ab Chao
+
 ---
 
 <img src="./img/august/blackout.jpg"><br><br>
