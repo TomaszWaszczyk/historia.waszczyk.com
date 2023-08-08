@@ -10,6 +10,12 @@ tags:
 
 ### 2023
 
+Bram Moolenaar, creator of most popular favorite text editor on Linux, Vim, has passed away.
+
+<img src="./img/august/bram.jpeg"><br><br>
+
+---
+
 Zidiocenie i infantylizacja zachowań międzyludzkich sięga zenitu.
 
 ---

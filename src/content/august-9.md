@@ -18,7 +18,19 @@ tags:
 
 ---
 
+> US Army brings cybersecurity professionals together for summit in Germany
+
+<img src="./img/august/us-cyber-army.jpg"><br><br>
+
+WIESBADEN, Germany — More than 200 cybersecurity professionals, foreign military leaders, and industry partners from across the globe converged for the 2023 U.S. Army Europe and Africa cybersecurity summit held in Wiesbaden, Germany, from July 25-27, 2023.
+
+---
+
 <img src="./img/august/blackout.jpg"><br><br>
+
+---
+
+<img src="./img/august/kyrgystan.png"><br><br>
 
 ---
 
