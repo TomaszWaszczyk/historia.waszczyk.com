@@ -18,6 +18,11 @@ Bram Moolenaar, creator of most popular favorite text editor on Linux, Vim, has 
 
 Zidiocenie i infantylizacja zachowań międzyludzkich sięga zenitu.
 
+<video width="640" height="480" controls>
+<source src="./movies/august/dziewczyny.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 Uber has $31.5B in cumulative operating losses since 2014…but still some investors complain that hardware is too capital intensive to invest in. 🤦🏻‍♂️
