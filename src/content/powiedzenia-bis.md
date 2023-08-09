@@ -146,6 +146,8 @@ Ordo Ab Chao
 
 > Myśl jak człowiek działający, działaj jak człowiek myślącyHenri Bergson
 
+<img src="./img/others/powiedzenia/truth.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
