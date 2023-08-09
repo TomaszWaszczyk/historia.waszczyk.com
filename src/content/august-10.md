@@ -14,6 +14,14 @@ tags:
 
 ---
 
+> Caritas tworzy system pomocy dla uchodźców
+
+Choć doraźne wsparcie poszkodowanych w wyniku wojny na Ukrainie wciąż jest potrzebne, Caritas przechodzi z działania w trybie kryzysowym do rozwiązań systemowych. W całej Polsce funkcjonuje już ponad 30 centrów pomocy uchodźcom Caritas, które obejmują potrzebujących kompleksową pomocą.
+
+– W pierwszych dniach wojny reagowaliśmy głównie na podstawowe potrzeby. Docierających do Polski uchodźców trzeba było nakarmić, ogrzać, dać im pierwsze bezpieczne schronienie – wspomina ks. dr Marcin Iżycki, dyrektor Caritas Polska. – Te potrzeby wciąż występują, zarówno tam, w Ukrainie, gdzie wciąż trwają działania wojenne, jak i wśród osób, które mniejszym niż początkowo strumieniem, ale nadal napływają do Polski. I na te potrzeby nadal odpowiadamy, również we współpracy z naszymi partnerami w Ukrainie, których wspieramy w ich pracy na miejscu. Ale jednocześnie mamy już w naszym kraju ogromną liczbę uchodźców z Ukrainy, którzy potrzebują bardziej kompleksowej pomocy. I właśnie dla nich przygotowaliśmy propozycję systemowych działań – tłumaczy duchowny.
+
+---
+
 👀 2008-2009
 
 <img src="./img/august/chinese-students-in-us.png"><br><br>

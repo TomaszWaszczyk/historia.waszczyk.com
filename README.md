@@ -2,9 +2,15 @@
 
 https://www.spaceforce.mil/Multimedia/Art/
 
+https://www.gross-rosen.eu/
+
 PROF. ZBIGNIEW KRUSZEWSKI
 
 https://gistoria.pl
+
+https://pw.ipn.gov.pl
+
+kapitalizm produkcyjny vs finansowy
 
 https://ipn.gov.pl/pl/publikacje/periodyki-ipn/aparat-represji-w-polsc
 
