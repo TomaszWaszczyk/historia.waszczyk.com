@@ -3,9 +3,17 @@ layout: post
 title: 12 sierpnia
 image: img/august/cukier.jpg
 author: Tomasz Waszczyk
-date: 2021-08-12T10:00:00.000Z
+date: 2022-08-12T10:00:00.000Z
 tags:
   - MicroStrategy Incorporated
+---
+
+### 2023
+
+> Vibes
+
+<img src="./img/august/layer-1.jpeg"><br><br>
+
 ---
 
 ### 2021

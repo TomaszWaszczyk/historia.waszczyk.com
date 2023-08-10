@@ -122,6 +122,8 @@ Propaganda żydowska
 
 <img src="./img/art/ursula.jpg"><br><br>
 
+<img src="./img/art/gibralta.jpg"><br><br>
+
 ---
 
 <img src="./img/art/badgovernment.jpg"><br><br>
