@@ -3,9 +3,36 @@ layout: post
 title: 11 sierpnia
 image: img/august/pkbpolska.jpg
 author: Tomasz Waszczyk
-date: 2021-08-11T10:00:00.000Z
+date: 2022-08-11T10:00:00.000Z
 tags:
   - Brygada Świętokrzyska
+---
+
+### 2023
+
+The Dirac equation is a relativistic quantum mechanical wave equation formulated by British physicist Paul Dirac in 1928, which provides a description of elementary spin-½ particles, such as electrons, consistent with both the principles of quantum mechanics and the theory of special relativity. It was the first theory to account fully for relativity in the context of quantum mechanics.
+The standard form of the Dirac equation is written as:
+
+```
+iħ ∂ψ/∂t = [cα·p + βmc²] ψ
+```
+
+where:
+
+- i is the imaginary unit.
+- ħ is the reduced Planck's constant (h/2π), a fundamental constant in quantum mechanics.
+- c is the speed of light.
+- t represents time.
+- ∂/∂t denotes the partial derivative with respect to time.
+- α and β are 4x4 matrices (with complex elements), known as the Dirac matrices. They were introduced by Dirac as a way to make the equation compatible with the special theory of relativity.
+- p is the momentum operator, conventionally given by -iħ∇ (where ∇ is the gradient operator, usually expressed in three dimensions, and represents spatial derivatives).
+- m is the mass of the particle.
+- ψ is the wave function of the particle which encapsulates all the information about the system, and in this case, it's a four-component object known as a 'spinor'. The four components of the spinor represent two degrees of freedom for the electron (spin up or spin down), and two for the corresponding antiparticle, the positron.
+The Dirac equation correctly describes particles with spin -1/2, and its solutions have negative energy states. This was a problem until Dirac proposed the concept of the sea of electrons, where all these negative energy states are filled up by electrons in what we call the 'Dirac sea', except for a few missing electrons which we observe as positrons (antielectrons) with positive energy. Thus, the Dirac equation led to the prediction of the existence of antimatter, revolutionizing the field of quantum physics.
+It should be noted that the Dirac equation isn't entirely perfect. It assumes the electron as a point particle, which leads to self-energy infinities. These issues were later resolved with the development of Quantum Electrodynamics (QED), which uses a field-theoretic approach incorporating the principles of the Dirac equation.
+
+<img src="./img/august/dirac.jpg"><br><br>
+
 ---
 
 ### 2021
