@@ -41,6 +41,7 @@ draft: false
 - woda
 - ubranie przeciw deszczowe + folia na plecak
 - kubek metalowy
+- kanapki
 
 ---
 

@@ -152,6 +152,8 @@ cymbalistów było wielu
 
 First, you learn. And then you remove the "L".
 
+nie staniesz, nie dostaniesz
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

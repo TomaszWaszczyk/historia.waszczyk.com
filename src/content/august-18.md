@@ -3,7 +3,7 @@ layout: post
 title: 18 sierpnia
 image: img/august/WasserkraftwerkamDnjepr.jpg
 author: Tomasz Waszczyk
-date: 2021-08-18T10:00:00.000Z
+date: 2022-08-18T10:00:00.000Z
 tags:
   - Saul Wahl
 ---
@@ -13,6 +13,8 @@ tags:
 <a href="./documents/august/ecb.wp2240-en.pdf" target="_blank">ecb.wp2240-en.pdf</a>
 
 <a href="./documents/august/english_paris2015_agreement.pdf" target="_blank">english_paris2015_agreement.pdf</a>
+
+<a href="./documents/august/Delta-2010-12-benford.pdf" target="_blank">Delta-2010-12-benford.pdf</a>
 
 ### 2022
 
