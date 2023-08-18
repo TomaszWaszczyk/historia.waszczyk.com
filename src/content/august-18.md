@@ -8,6 +8,12 @@ tags:
   - Saul Wahl
 ---
 
+### 2023
+
+<a href="./documents/august/ecb.wp2240-en.pdf" target="_blank">ecb.wp2240-en.pdf</a>
+
+<a href="./documents/august/english_paris2015_agreement.pdf" target="_blank">english_paris2015_agreement.pdf</a>
+
 ### 2022
 
 <img src="./img/august/damianbezpieczny.png"><br><br>

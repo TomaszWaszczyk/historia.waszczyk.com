@@ -4,6 +4,8 @@ https://www.spaceforce.mil/Multimedia/Art/
 
 https://www.gross-rosen.eu/
 
+https://rocznik.mbpw.pl/category/roczniki/tom-xviii/
+
 PROF. ZBIGNIEW KRUSZEWSKI
 
 https://gistoria.pl

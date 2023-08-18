@@ -148,6 +148,10 @@ Ordo Ab Chao
 
 <img src="./img/others/powiedzenia/truth.jpg"><br><br>
 
+cymbalistów było wielu
+
+First, you learn. And then you remove the "L".
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

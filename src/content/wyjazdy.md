@@ -27,6 +27,20 @@ draft: false
 - śpiochy
 - szczoteczka do zębów + pasta + szczena + chemia(prysznic/kąpiel)
 - golarka
+  
+# Góry
+
+- czapka
+- klapki
+- śpiochy
+- szczoteczka + pasta + szczena
+- płyn przeciwko słońcu
+- magnez
+- majtochy
+- latarka
+- woda
+- ubranie przeciw deszczowe + folia na plecak
+- kubek metalowy
 
 ---
 

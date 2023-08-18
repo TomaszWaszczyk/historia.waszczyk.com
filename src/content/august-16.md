@@ -3,10 +3,18 @@ layout: post
 title: 16 sierpnia
 image: img/august/powstanie_slaskie.jpg
 author: Tomasz Waszczyk
-date: 2021-08-16T10:00:00.000Z
+date: 2022-08-16T10:00:00.000Z
 tags:
   - Wielki Strajk Chłopski
 ---
+
+### 2023
+
+<img src="./img/august/glapinski.jpg"><br><br>
+
+<img src="./img/august/bezpieczna.jpg"><br><br>
+
+<img src="./img/august/aborcja.jpeg"><br><br>
 
 ### 2022
 

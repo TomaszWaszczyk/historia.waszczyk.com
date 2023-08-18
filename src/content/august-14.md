@@ -3,7 +3,7 @@ layout: post
 title: 14 sierpnia
 image: img/august/inflacja.png
 author: Tomasz Waszczyk
-date: 2021-08-14T10:00:00.000Z
+date: 2022-08-14T10:00:00.000Z
 tags:
   - Covid
 ---

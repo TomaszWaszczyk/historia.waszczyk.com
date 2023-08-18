@@ -10,6 +10,24 @@ tags:
 
 ### 2023
 
+> People who destroy whole nations do not have the right to teach us democracy and the values of living freely. - President Putin
+
+---
+
+> Sasin planuje rozbiór Poczty Polskiej?
+
+Pomysł wydzielenia z Poczty Polskiej usług paczkowych i połączenia tego biznesu z logistyką Orlenu jest opracowywany w rządzie — donosi "Rzeczpospolita", powołując się na nieoficjalne ustalenia.
+
+<img src="./img/august/rozbior-poczta-sasin.jpg"><br><br>
+
+---
+
+Emocjonalna reakcja prezydenta Ugandy, Yoweri Museveniego, który oskarżył Bank Światowy o próbę „wywierania nacisku” na rząd w związku z przepisami dotyczącymi społeczności LGBT w tym kraju.
+
+Bank ogłosił, że wstrzymuje wszelkie nowe pożyczki dla kraju, ponieważ ustawa zakazująca związków osób tej samej płci jest sprzeczna z jego wartościami. W oświadczeniu opublikowanym w mediach społecznościowych prezydent Museveni powiedział, że „Uganda🇺🇬 będzie się rozwijać z pożyczkami lub bez”. Napisał również, że to "niefortunne", aby pożyczkodawca próbował „zmusić nas do porzucenia naszej wiary, kultury, zasad i suwerenności za pomocą pieniędzy”.
+
+---
+
 > Vibes
 
 <img src="./img/august/layer-1.jpeg"><br><br>
