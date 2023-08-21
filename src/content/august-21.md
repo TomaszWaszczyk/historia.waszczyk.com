@@ -3,11 +3,42 @@ layout: post
 title: 21 sierpnia
 image: img/august/china.jpeg
 author: Tomasz Waszczyk
-date: 2021-08-21T10:00:00.000Z
+date: 2022-08-21T10:00:00.000Z
 tags:
   - China
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/august/shannon.jpeg"><br><br>
+
+Claude Elwood Shannon ( 1916 - 2001 ) was an American mathematician, electrical engineer, computer scientist, and cryptographer known as the "father of information theory." Here's a brief overview of some of his major contributions:
+
+1 - Information Theory:
+
+- Mathematical Theory of Communication (1948): Shannon published a groundbreaking paper titled "A Mathematical Theory of Communication" in the Bell System Technical Journal. This work introduced the foundational concepts of information theory, such as entropy, information rate, and redundancy.
+- Entropy: Shannon introduced the concept of entropy as a measure of the uncertainty or randomness of information. This allowed for a quantifiable measure of the information content of a source.
+- Channel Capacity: He established the limits on how much information can be reliably transmitted over a given communication channel, considering the presence of noise.
+
+2 - Digital Circuit Design Theory:
+
+- Masters Thesis (1937): At 21, Shannon's master's thesis demonstrated that electrical circuits could perform logical operations. This work laid the groundwork for digital circuit design, bridging the gap between electrical engineering and Boolean algebra.
+- Relay Circuits and Cryptography: During World War II, Shannon worked on improving the reliability of relay circuits, which was foundational for early computer design. He also worked on cryptography, developing a theoretical basis for ensuring communications security.
+
+3 - Cryptanalysis: Shannon collaborated with British mathematician Alan Turing during WWII. They both were working on cryptography, and Shannon's work laid the groundwork for modern cryptographic theory.
+
+4 - Sampling Theory: Along with Harry Nyquist, Shannon formulated the Nyquist–Shannon sampling theorem, which defines the conditions necessary for a signal to be sampled and reconstructed without error.
+
+5- Data Compression: Shannon's entropy concept paved the way for the development of modern data compression techniques. Concepts like Huffman coding can be traced back to Shannon's early work.
+
+6 - Noisy-channel Coding Theorem: This theorem establishes the maximum rate at which information can be transmitted over a noisy channel with an arbitrarily low error probability.
+
+7 - Shannon-Hartley Theorem: In collaboration with R.V.L. Hartley, this theorem relates the maximum data rate of a communication channel to its bandwidth and signal-to-noise ratio.
+
+8 - Work on Artificial Intelligence: Shannon was among the early pioneers thinking about machine learning and artificial intelligence. He devised a mechanical mouse that could "learn" to navigate a maze, which was an early demonstration of machine learning principles.
+
+These are just the highlights. Shannon's work touched various fields, and his ideas provided the theoretical foundation for much of modern digital communications and computing.
 
 ### 2022
 

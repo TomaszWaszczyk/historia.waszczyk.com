@@ -3,7 +3,7 @@ layout: post
 title: 19 sierpnia
 image: img/august/2-rozbior.png
 author: Tomasz Waszczyk
-date: 2021-08-19T10:00:00.000Z
+date: 2022-08-19T10:00:00.000Z
 tags:
   - Gold
 ---

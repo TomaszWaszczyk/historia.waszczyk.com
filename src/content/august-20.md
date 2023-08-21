@@ -3,10 +3,20 @@ layout: post
 title: 20 sierpnia
 image: img/august/czechy.jpg
 author: Tomasz Waszczyk
-date: 2021-08-20T10:00:00.000Z
+date: 2022-08-20T10:00:00.000Z
 tags:
   - Czechosłowacja
 draft: false  
+---
+
+### 2023
+
+<a href="./documents/august/hipoteza-goldbacha.pdf" target="_blank">Hipoteza Goldbacha</a>
+
+---
+
+<img src="./img/august/mlot.jpg"><br><br>
+
 ---
 
 ### 2022

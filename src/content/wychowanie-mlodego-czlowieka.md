@@ -628,6 +628,8 @@ Tym prostym i z pozoru niewinnym zdaniem skazujemy dzieciaki, na wczesną depres
 Nie mów dziecku, a zwłaszcza chłopakowi, takich bzdurnych, nic nie znaczących sloganów. Ucz go życia, odwagi i dobroci. Nie każ mu być grzecznym, pokaż mu honor i zadania. Wymagaj i nagradzaj. Pokaż mu że każdy niesie ciężki krzyż, a szczęście jest na końcu tej drogi.
 30/30 -->
 
+https://flexboxfroggy.com
+
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
 
 ---

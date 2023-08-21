@@ -3,10 +3,34 @@ layout: post
 title: 22 sierpnia
 image: img/august/globalbonds.png
 author: Tomasz Waszczyk
-date: 2021-08-22T10:00:00.000Z
+date: 2022-08-22T10:00:00.000Z
 tags:
   - Allied Forces Act
 draft: false  
+---
+
+### 2023
+
+Wiedeń:
+
+<img src="./img/august/wieden.jpg"><br><br>
+
+---
+
+Francuska Szkoła Wojny Ekonomicznej opublikowała raport
+
+<a href="./documents/august/Rapport_Alerte_Ingerence_Fondations.pdf" target="_blank">Rapport_Alerte_Ingerence_Fondations</a>
+
+> Francuska Szkoła Wojny Ekonomicznej opublikowała raport opisujący, jak niemieckie fundacje uderzały we francuski przemysł jądrowy. Te same fundacje mają swoje siedziby również w Polsce. A Polska ma zamiar rozwijać energetykę jądrową. Już dziś słychać ze strony Berlina gniewne pomruki.
+
+---
+
+<a href="./documents/august/sok.pdf" target="_blank">DeFi Research</a>
+
+---
+
+"Jak upozorować własne życie?"
+
 ---
 
 ### 2022
