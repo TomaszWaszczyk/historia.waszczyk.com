@@ -3,9 +3,31 @@ layout: post
 title: 23 sierpnia
 image: img/august/pakt.jpg
 author: Tomasz Waszczyk
-date: 2021-08-23T10:00:00.000Z
+date: 2022-08-23T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+<a href="./documents/august/origins-of-the-federal-reserve-system.pdf" target="_blank">Origins of Federal Reserve</a>
+
+<a href="./documents/august/r191126d.pdf" target="_blank">The yield curve in Eurozone</a>
+
+---
+
+> W 2013 roku Bank Japonii podjął decyzję o wdrożeniu programu “nowej ramy polityki pieniężnej”, który zakładał agresywne luzowanie monetarne. Bank rozpoczął masowe skupowanie obligacji rządowych, dążąc do zwiększenia podaży pieniądza i obniżenia kosztu kredytu. W ramach programu zobowiązał się do podwojenia podaży pieniądza w ciągu dwóch lat. Cel został osiągnięty, jednak inflacja wciąż utrzymywała się na niskim poziomie.
+
+---
+
+Dom Turysty PTTK w Kazimierzu Dolnym. Przeciętne miesięczne wynagrodzenie w 1984r: 16838zł
+
+<img src="./img/august/pttk.jpg"><br><br>
+
+---
+
+<img src="./img/august/seaside.jpg"><br><br>
+
 ---
 
 ### 2022
