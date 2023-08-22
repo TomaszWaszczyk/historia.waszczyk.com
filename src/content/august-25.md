@@ -24,7 +24,7 @@ Through constant correspondence, he kept a close eye on his family and his flowe
 
 ---
 
-<img src="./img/august/Scarborough-By-Moonlight-by-Walter-Linsley-Meegan.jpg"><br><br>
+<img src="./img/art/Scarborough-By-Moonlight-by-Walter-Linsley-Meegan.jpg"><br><br>
 
 ---
 
