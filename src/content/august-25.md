@@ -3,9 +3,29 @@ layout: post
 title: 25 sierpnia
 image: img/august/schleswig.jpg
 author: Tomasz Waszczyk
-date: 2021-08-25T10:00:00.000Z
+date: 2022-08-25T10:00:00.000Z
 tags:
   - sojusz polsko-brytyjski
+---
+
+### 2023
+
+"The Garden in Flower", 1900 By Claude Monet (French, 1840-1926), Place of creation: Giverny, France
+
+"Claude Monet lived for forty-three years, from 1883 to 1926, in his house in Giverny. With a passion for gardening as well as for colours, he conceived both his flower garden and water garden as true works of art.
+
+Walking through his house and gardens, visitors can still feel the atmosphere which reigned at the home of the Master of Impressionnism and marvel at the floral compositions and nymphéas, his greatest sources of inspiration.
+
+Mpnet. He untiringly transformed an abandoned domaine into a floral masterpiece, to be the inspiration for many of his greatest works of art. Monet was not only a painter of his own garden but also an artist whose painting trips took him away for lengthy periods of time. However, he was never really far from his garden .
+
+Through constant correspondence, he kept a close eye on his family and his flowers . Frequent visits from his friends and admirers made Giverny the centre of his existence . Until his death in 1926, the painter, the father , the gardener and the man would never really leave Giverny."
+
+<img src="./img/august/garden.jpg"><br><br>
+
+---
+
+<img src="./img/august/Scarborough-By-Moonlight-by-Walter-Linsley-Meegan.jpg"><br><br>
+
 ---
 
 ### 2021

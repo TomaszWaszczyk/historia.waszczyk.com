@@ -632,6 +632,8 @@ https://flexboxfroggy.com
 
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
 
+<a href="./documents/wychowanie-mlodego-czlowieka/30-edukacyjnych-zabaw-dla-dzieci-1-3-Angelika-M.pdf" target="_blank">30-edukacyjnych-zabaw-dla-dzieci-1-3-Angelika-M.pdf</a>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
