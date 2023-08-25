@@ -10,6 +10,10 @@ tags:
 
 ### 2023
 
+<a href="./documents/august/bws_book.pdf" target="_blank">A Guided Journey Into the World of Abstract Mathematics and the Writing of Proofs</a>
+
+---
+
 "The Garden in Flower", 1900 By Claude Monet (French, 1840-1926), Place of creation: Giverny, France
 
 "Claude Monet lived for forty-three years, from 1883 to 1926, in his house in Giverny. With a passion for gardening as well as for colours, he conceived both his flower garden and water garden as true works of art.

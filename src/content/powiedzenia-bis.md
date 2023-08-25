@@ -156,6 +156,8 @@ nie staniesz, nie dostaniesz
 
 "Managing a volunteer open source project is a lot like herding kittens, except the kittens randomly appear and disappear because they have day jobs." -- Matt Mackall
 
+Pieniądz, który człowiek posiada to swoboda, ten za którym goni, to niewola - Jean Jacques Rousseau
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

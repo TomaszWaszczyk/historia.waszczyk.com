@@ -27,7 +27,7 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 ### Książki i bajki
 
-* https://github.com/HollyAdele/awesome-programming-for-kids
+* <https://github.com/HollyAdele/awesome-programming-for-kids>
 
 * Kodowanie dla dzieci, Marc Scott
 
@@ -35,13 +35,13 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * Czy to puszcza bąki?
 
-* https://lubimyczytac.pl/autor/7000/janusz-korczak
+* <https://lubimyczytac.pl/autor/7000/janusz-korczak>
 
-* https://lemgalaxy.com/en
+* <https://lemgalaxy.com/en>
 
-* Underground History of American Education - https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook
+* Underground History of American Education - <https://archive.org/details/JohnTaylorGattoTheUndergroundHistoryOfAmericanEducationBook>
 
-* https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/Americas%20Great%20Depression_Polish_3.pdf
+* <https://github.com/TomaszWaszczyk/historia.waszczyk.com/blob/master/src/content/documents/Americas%20Great%20Depression_Polish_3.pdf>
 
 * Anna Pierzchała, Pasywność w szkole. Diagnoza zjawiska z punktu widzenia analizy transakcyjnej, Wydawnictwo im. S. Podobińskiego Akademii im. J. Długosza w Częstochowie, Częstochowa 2013
 
@@ -93,13 +93,13 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * Renata Piątkowska "Opowiadania do chichotania" audiobook.
 
-* https://abc-ekonomii.edu.pl
+* <https://abc-ekonomii.edu.pl>
 
-* https://www.nbportal.pl/wiedza/prezentacje
+* <https://www.nbportal.pl/wiedza/prezentacje>
 
 * Świat pieniądza, Fundacja Świat Pieniądza
 
-* https://ukochaneprzygody.pl/ - https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw
+* <https://ukochaneprzygody.pl/> - <https://www.youtube.com/channel/UCfWxydXsFgTuMIoyTUICMLw>
 
 * ABC ekonomii, czyli pierwsze kroki w świecie finansów – Wiktor Czepczyński, Żaneta Kupczyk
 
@@ -109,11 +109,11 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * Twoje kompetentne dziecko, Juul Jesper
 
-* https://altenberg.pl/superniania/
+* <https://altenberg.pl/superniania/>
 
-* https://bullerbyn.org.pl/
+* <https://bullerbyn.org.pl/>
 
-* https://lingumi.com/
+* <https://lingumi.com/>
 
 * Dzieje Polski opowiedziane dla młodzieży, Feliks Koneczny
 
@@ -121,13 +121,13 @@ A boy becomes a man when he chooses dangerous freedom over comfortable slavery.
 
 * Opowieści dla dzieci, które chcą uwierzyć w sie...
 
-* https://www.rigb.org/families
+* <https://www.rigb.org/families>
 
-* https://www.kursy-zalewski.info/decyduj-i-walcz/
+* <https://www.kursy-zalewski.info/decyduj-i-walcz/>
 
 * Bliżej Lasu. Opowiadania przyrodnicze dla dzieci, które ciągle pytają "dlaczego?
 
-* https://wizardzines.com/zines/integers-floats/
+* <https://wizardzines.com/zines/integers-floats/>
 
 <video width="640" height="480" controls>
   <source src="./movies/wychowanie-mlodego-czlowieka/wujek-sknerus.mp4" type="video/mp4">
@@ -141,13 +141,13 @@ Your browser does not support the video tag.
 
 * Pismo Święte dla młodych. Biblia tysiąclecia
 
-* https://wakelet.com/@Laboratoria_Przyszlosci
+* <https://wakelet.com/@Laboratoria_Przyszlosci>
 
-* https://naukatolubie.pl/junior/ oraz https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w
+* <https://naukatolubie.pl/junior/> oraz <https://www.youtube.com/channel/UC8xquvuX_xi7rq_N_L06n5w>
 
-* https://strefa-kostek.pl/ukladanki-logiczne-metalowe-222
+* <https://strefa-kostek.pl/ukladanki-logiczne-metalowe-222>
 
-* https://shamory.com/
+* <https://shamory.com/>
 
 ---
 
@@ -164,17 +164,17 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 ### Programowanie = szkoła myślenia
 
-* https://shelly.dev/
+* <https://shelly.dev/>
 
-* https://scratch.mit.edu/
+* <https://scratch.mit.edu/>
 
-* https://code.org/curriculum/unplugged
+* <https://code.org/curriculum/unplugged>
 
-* https://www.tinkercad.com/
+* <https://www.tinkercad.com/>
 
-* https://www.codingame.com/start
+* <https://www.codingame.com/start>
 
-* https://www.geogebra.org/
+* <https://www.geogebra.org/>
 
 * Baw się kodem! Twoja własna gra. CoderDojo Nano - Jurie Horneman, CoderDojo
 
@@ -182,27 +182,27 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 * Code For Teens: The Awesome Beginner’s Guide to Programming Volume 1: Javascript by Jeremy Moritz
 
-* http://www.csforbabies.com/
+* <http://www.csforbabies.com/>
 
-* https://code.org/learn
+* <https://code.org/learn>
 
-* https://www.opentechschool.org/
+* <https://www.opentechschool.org/>
 
-* https://codecombat.com/
+* <https://codecombat.com/>
 
-* https://play.elevatorsaga.com
+* <https://play.elevatorsaga.com>
 
-* https://www.ampleforth.org.uk/college/
+* <https://www.ampleforth.org.uk/college/>
 
-* https://koderek.edu.pl/
+* <https://koderek.edu.pl/>
 
 * BBC micro:bit (BeagleBoard.org PocketBeagle)
 
-* https://www.wczesnaedukacja.pl/pakiet-1-polski-karty-do-metody-Domana
+* <https://www.wczesnaedukacja.pl/pakiet-1-polski-karty-do-metody-Domana>
 
-* https://www.wowenglish.com/pl/
+* <https://www.wowenglish.com/pl/>
 
-* https://www.czytajzalbikiem.pl/produkty/
+* <https://www.czytajzalbikiem.pl/produkty/>
 
 * Python na start! Programowanie dla nastolatków
 
@@ -214,19 +214,19 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 * Brainwashed: How Universities Indoctrinate America's Youth
 
-* https://www.kiwico.com/
+* <https://www.kiwico.com/>
 
-* https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/
+* <https://scottiego.com/pl/edu-scottiego-dojo/about-dojo/>
 
-* https://mitsloan.mit.edu/ideas-made-to-matter/lost-einsteins-us-may-have-missed-out-millions-inventors
+* <https://mitsloan.mit.edu/ideas-made-to-matter/lost-einsteins-us-may-have-missed-out-millions-inventors>
 
 ### Wykształcenie wartości pracy, sens pracy oraz oszczędzania (odwlekanie nagrody w czasie, pieniądze)
 
-* https://usstocks.pl/edukacja-finansowa-dzieci/
+* <https://usstocks.pl/edukacja-finansowa-dzieci/>
 
 ### Zachowanie (netykieta)
 
-* https://www.godmother.pl/podcast
+* <https://www.godmother.pl/podcast>
 
 * W PARYŻU DZIECI NIE GRYMASZĄ
 
@@ -242,11 +242,11 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 ### Szkoła
 
-* https://ezw.edu.pl
+* <https://ezw.edu.pl>
 
-* https://ezw.edu.pl/edukacja-z-wartosciami/
+* <https://ezw.edu.pl/edukacja-z-wartosciami/>
 
-* https://www.edukacja-klasyczna.pl/
+* <https://www.edukacja-klasyczna.pl/>
 
 * How to survive your twenties Kindle Edition, Przemek Chojecki
 
@@ -280,13 +280,13 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 
 ### Inne
 
-* https://www.subscribepage.com/kursRIE
+* <https://www.subscribepage.com/kursRIE>
 
-* https://www.ojcowskastronamocy.pl/bedeker-rodzicielski/
+* <https://www.ojcowskastronamocy.pl/bedeker-rodzicielski/>
 
-* https://hummuseconomicus.pl/dzieci-jako-dobra-publiczne/
+* <https://hummuseconomicus.pl/dzieci-jako-dobra-publiczne/>
 
-* https://pl.wikipedia.org/wiki/John_Dewey
+* <https://pl.wikipedia.org/wiki/John_Dewey>
 
 * The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains
 
@@ -301,15 +301,15 @@ zarabiać 3 monety. Pracuś natomiast już drukował nowy cennik za swoje usług
 * Dzieci ojczyzny opowiadania historyczne dla młodzieży
 Autor: Maria Dąbrowska
 
-* https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci
+* <https://pl.wikisource.org/wiki/Bajki_i_przypowie%C5%9Bci>
 
-* https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html
+* <https://akademia.nask.pl/baza-wiedzy/dla-rodzicow.html>
 
-* https://sciencejournal.withgoogle.com/
+* <https://sciencejournal.withgoogle.com/>
 
-* https://www.zooniverse.org/
+* <https://www.zooniverse.org/>
 
-* https://www.desmos.com/calculator
+* <https://www.desmos.com/calculator>
 
 Tuwim Julian, Słonimski Antoni - W oparach absurdu
 
@@ -342,14 +342,14 @@ docenianie != chwalenie (docenianie to droga, chwalenie to efekt)
 
 myślenie krytyczne
 
-https://pl.wikipedia.org/wiki/Pedagogika_wstydu
+<https://pl.wikipedia.org/wiki/Pedagogika_wstydu>
 
 <video width="640" height="480" controls>
 <source src="./movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Source: https://www.youtube.com/watch?v=ChoOExRLT4Q
+Source: <https://www.youtube.com/watch?v=ChoOExRLT4Q>
 
 <a href="./movies/wychowanie-mlodego-czlowieka/Effect_of_emotional_deprivation.en.srt" target="_blank">Subtitles</a>
 
@@ -373,11 +373,11 @@ kodeks rodzinny
 
 evidence based education
 
-https://waitbutwhy.com/2019/08/story-of-us.html
+<https://waitbutwhy.com/2019/08/story-of-us.html>
 
 ### Kursy online
 
-* https://schoolhouse.world
+* <https://schoolhouse.world>
 
 ---
 
@@ -588,8 +588,6 @@ Drugi element to fakt iż w dzisiejszych czasach, kiedy mężczyźni są masowo 
 13/30
 Temat szerszy i najpełniej opisany w poniższym wątku. Warto się zapoznać
 
-
-
 14/30
 Unroll available on Thread Reader
 
@@ -628,7 +626,33 @@ Tym prostym i z pozoru niewinnym zdaniem skazujemy dzieciaki, na wczesną depres
 Nie mów dziecku, a zwłaszcza chłopakowi, takich bzdurnych, nic nie znaczących sloganów. Ucz go życia, odwagi i dobroci. Nie każ mu być grzecznym, pokaż mu honor i zadania. Wymagaj i nagradzaj. Pokaż mu że każdy niesie ciężki krzyż, a szczęście jest na końcu tej drogi.
 30/30 -->
 
-https://flexboxfroggy.com
+```bash
+
+Manifest Twojego Dziecka – Janusz Korczak
+
+● Nie psuj mnie. Dobrze wiem, że nie powinienem mieć tego wszystkiego czego się domagam. To tylko próba z mojej strony.
+● Nie bój się stanowczości. Właśnie tego potrzebuję – poczucia bezpieczeństwa.
+● Nie bagatelizuj moich złych nawyków. Tylko Ty możesz pomóc mi zwalczyć zło, póki jeszcze jest możliwe.
+● Nie rób ze mnie większego dziecka niż jestem. To sprawia, że przyjmuję postawę głupio dorosłą, żeby udowodnić, że jestem duży.
+● Nie zwracaj mi uwagi przy innych ludziach, jeśli nie jest to konieczne. O wiele bardziej przejmuję się tym, co mówisz, jeśli rozmawiamy w cztery oczy.
+● Nie chroń mnie przed konsekwencjami. Czasami dobrze jest nauczyć się rzeczy bolesnych i nieprzyjemnych.
+● Nie wmawiaj mi, że błędy które popełniam są grzechem. To zagraża mojemu poczuciu wartości.
+● Nie przejmuj się za bardzo, gdy mówię, że cię nienawidzę. Czasami mówię to, by przyciągnąć Twoją uwagę.
+● Nie zrzędź. W przeciwnym razie muszę się przed Tobą bronić i zrobię się głuchy.
+● Nie dawaj mi obietnic bez pokrycia. Czuję się przeraźliwie zawiedziony, kiedy nic z tego wszystkiego nie wychodzi.
+● Nie zapominaj, że jeszcze trudno mi jest precyzyjnie wyrazić myśli. To dlatego nie zawsze się rozumiemy.
+● Nie sprawdzaj z uporem maniaka mojej uczciwości. Zbyt łatwo strach zmusza mnie do kłamstwa.
+● Nie bądź niekonsekwentny. To mnie ogłupia i tracę całą swoją wiarę w ciebie.
+● Nie odtrącaj mnie, gdy dręczę Cię pytaniami. Może się wkrótce okazać, że zamiast prosić Cię o wyjaśnienia, poszukam ich gdzie indziej.
+● Nie wmawiaj mi, że moje lęki są głupie. One po prostu są.
+● Nie rób z siebie nieskazitelnego ideału. Prawda na twój temat byłaby w przyszłości nie do zniesienia.
+● Nie wyobrażaj sobie, że przepraszając mnie stracisz autorytet. Za uczciwą grę umiem podziękować miłością, o jakiej Ci się nie śniło.
+● Nie zapominaj, że uwielbiam wszelkiego rodzaju eksperymenty. To po prostu mój sposób na życie, więc przymknij na to oczy.
+● Nie bądź ślepy i przyznaj, że ja też rosnę. Wiem jak trudno dotrzymywać mi kroku w tym galopie, ale zrób co możesz, żeby się udało.
+● Nie bój się miłości. Nigdy 
+```
+
+<https://flexboxfroggy.com>
 
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
 
