@@ -26,7 +26,6 @@ draft: false
 - klapki
 - śpiochy
 - szczoteczka do zębów + pasta + szczena + chemia(prysznic/kąpiel)
-- golarka
   
 # Góry
 
