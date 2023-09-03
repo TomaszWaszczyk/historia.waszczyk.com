@@ -3,10 +3,44 @@ layout: post
 title: 3 września
 image: img/september/wojna.png
 author: Tomasz Waszczyk
-date: 2021-09-03T10:00:00.000Z
+date: 2022-09-03T10:00:00.000Z
 tags:
   - Józef Bik
 ---
+
+### 2023
+
+[ETHWarsow 2023](https://github.com/TomaszWaszczyk/historia.waszczyk.com/tree/master/src/content/img/august/ethwarsow)
+
+<img src="./img/august/ethwarsow/IMG_0111.JPEG"><br><br>
+
+<img src="./img/august/ethwarsow/IMG_0087.JPEG"><br><br>
+
+---
+
+> radical economy
+
+<img src="./img/august/ethwarsow/IMG_0088.JPEG"><br><br>
+
+---
+
+> ...deliver more value, otherwise..
+
+<img src="./img/august/ethwarsow/IMG_0095.JPEG"><br><br>
+
+---
+
+<img src="./img/august/ethwarsow/IMG_0096.JPEG"><br><br>
+
+---
+
+> reality
+
+<img src="./img/august/ethwarsow/IMG_0104.JPEG"><br><br>
+
+---
+
+<img src="./img/august/ethwarsow/IMG_0112.JPEG"><br><br>
 
 ### 2022
 

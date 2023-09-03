@@ -44,6 +44,10 @@ The IMF has just approved a helicopter drop of $650 billion in SDRs to boost glo
 
 “This is a historic decision – the largest SDR allocation in the history of the IMF and a shot in the arm for the global economy at a time of unprecedented crisis. The SDR allocation will benefit all members, address the long-term global need for reserves, build confidence, and foster the resilience and stability of the global economy. It will particularly help our most vulnerable countries struggling to cope with the impact of the COVID-19 crisis,” IMF Managing Director Kristalina Georgieva said.
 
+### 1945
+
+<img src="./img/august/warsaw-1945.jpg"><br><br>
+
 ### 1944
 
 Niemcy likwidujący obóz cygański w KL Auschwitz pozbawili życia 2897 Romów. Była to masowa eksterminacja trzeciej,co do liczebności grupy etnicznej w tym miejscu. Transporty z Romami zaczęły tu docierać już 9lipca 1941 roku.

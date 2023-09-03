@@ -3,11 +3,21 @@ layout: post
 title: 29 sierpnia
 image: img/august/starzyludzie.jpeg
 author: Tomasz Waszczyk
-date: 2021-08-29T10:00:00.000Z
+date: 2022-08-29T10:00:00.000Z
 tags:
   - CBDC
 draft: false
 ---
+
+### 2023
+
+<img src="./img/august/orwell.jpeg"><br><br>
+
+As crypto wars rears its head again, we need to know that our cryptographic tools can be used for good and bad. Who should we best serve? Our society or the rights of citizens to privacy. No one can win in the struggle, and, in the end, we will lose something. But George Orwell reminds us of:
+
+"Threats to freedom of speech, writing and action, though often trivial in isolation, are cumulative in their effect and, unless checked, lead to a general disrespect for the rights of the citizen."
+
+- George Orwell
 
 ### 2021
 

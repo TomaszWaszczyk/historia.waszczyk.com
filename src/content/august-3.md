@@ -25,6 +25,14 @@ draft: false
 
 > Jak wynika z najnowszych danych Biura Informacji Kredytowej, popyt na kredyty mieszkaniowe był w lipcu w polskich bankach wyższy aż o jedną trzecią rok do roku. Choć w porównaniu z czerwcem nieco spadł, nadal jest bardzo wysoki. Znów rekord pobiła średnia wartość wnioskowanego kredytu - wyniosła aż 328 tys. zł i była aż o 42 tys. zł wyższa niż raptem rok temu.
 
+### 1968
+
+<img src="./img/august/1968.jpg"><br><br>
+
+<img src="./img/august/rus.jpg"><br><br>
+
+<img src="./img/august/utopi.jpg"><br><br>
+
 ### 1946
 
 Wojskowy Sąd Rejonowy w Gdańsku skazał na karę śmierci Danutę Siedzikównę ps. ,,Inka'', sanitariuszkę 5 Wileńskiej Brygady AK.

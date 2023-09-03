@@ -6,6 +6,8 @@ https://www.gross-rosen.eu/
 
 https://rocznik.mbpw.pl/category/roczniki/tom-xviii/
 
+https://polishhistory.pl/publications/
+
 PROF. ZBIGNIEW KRUSZEWSKI
 
 https://gistoria.pl

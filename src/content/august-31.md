@@ -3,10 +3,19 @@ layout: post
 title: 31 sierpnia
 image: img/august/Komarow_pomn.jpg
 author: Tomasz Waszczyk
-date: 2021-08-31T10:00:00.000Z
+date: 2022-08-31T10:00:00.000Z
 tags:
   - Kiszczak - Wałęsa
 ---
+
+### 2023
+
+<img src="./img/august/IMG_0086.JPEG"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/august/IMG_0086.MOV" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 

@@ -3,7 +3,7 @@ layout: post
 title: 1 września
 image: img/september/wielun.png
 author: Tomasz Waszczyk
-date: 2021-09-01T10:00:00.000Z
+date: 2022-09-01T10:00:00.000Z
 tags:
   - Niemcy
 ---
