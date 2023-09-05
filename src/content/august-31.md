@@ -17,6 +17,22 @@ tags:
 Your browser does not support the video tag.
 </video>
 
+---
+
+<img src="./img/august/stack.jpeg"><br><br>
+
+---
+
+<img src="./img/august/kazania.jpeg"><br><br>
+
+---
+
+???
+
+<img src="./img/august/wagnerowiec.jpeg"><br><br>
+
+---
+
 ### 2022
 
 🇪🇺 The EURO and bond markets in EU are getting smashed as US 10 year yield keeps trending up.

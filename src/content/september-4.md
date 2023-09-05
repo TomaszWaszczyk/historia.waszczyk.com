@@ -3,9 +3,22 @@ layout: post
 title: 4 września
 image: img/september/katowice.jpg
 author: Tomasz Waszczyk
-date: 2021-09-04T10:00:00.000Z
+date: 2022-09-04T10:00:00.000Z
 tags:
   - Agenda 21
+---
+
+### 2023
+
+<img src="./img/september/opieka.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/september/hiperinflation.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

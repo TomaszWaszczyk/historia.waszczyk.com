@@ -3,10 +3,22 @@ layout: post
 title: 5 września
 image: img/september/naszpremier.jpg
 author: Tomasz Waszczyk
-date: 2021-09-05T10:00:00.000Z
+date: 2022-09-05T10:00:00.000Z
 tags:
   - Eric Schmidt
 draft: false
+---
+
+### 2023
+
+> Mamy program 800 plus, na zdrowie będziemy wydawali ponad 190 mld zł łącznie z NFZ, bardzo istotnie wzrastają wydatki na modernizację armii i bezpieczeństwo. W samym budżecie wyniosą one około 118 mld zł, dodatkowo mamy Fundusz Wsparcia Sił Zbrojnych, więc razem na obronność wydamy ponad 159 mld zł – mówi w wywiadzie dla Business Insider Polska minister finansów Magdalena Rzeczkowska. Szefowa resortu finansów zapowiada też, że jeśli będzie taka potrzeba, rząd przedłuży także na 2024 r. tzw. tarczę antyinflacyjną.
+
+<img src="./img/september/stabilne-fundusze-publiczne.jpg"><br><br>
+
+<img src="./img/september/debt.jpeg"><br><br>
+
+Wniosek: USDPLN => ~6.0 (plus dalszy zanik państwa)
+
 ---
 
 ### 2022

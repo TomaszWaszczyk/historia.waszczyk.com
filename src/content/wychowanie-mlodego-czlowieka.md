@@ -652,6 +652,8 @@ Manifest Twojego Dziecka – Janusz Korczak
 ● Nie bój się miłości. Nigdy 
 ```
 
+<img src="./img/wychowanie-mlodego-czlowieka/electricity.jpg"><br><br>
+
 <https://flexboxfroggy.com>
 
 <img src="./img/wychowanie-mlodego-czlowieka/ageisolation.jpeg"><br><br>
