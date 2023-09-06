@@ -20,6 +20,10 @@ Przygotowania do potencjalnego rozbioru Polski.
 
 ---
 
+<img src="./img/july/koledzy.jpeg"><br><br>
+
+---
+
 <img src="./img/june/monetary.jpg"><br><br>
 
 <img src="./img/june/plaza.jpg"><br><br>
