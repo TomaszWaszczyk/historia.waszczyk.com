@@ -42,6 +42,14 @@ tags:
 
 <img src="./img/august/ethwarsow/IMG_0112.JPEG"><br><br>
 
+---
+
+MoU podpisały zarządy giełdy w Szanghaju i giełdy Arabii Saudyjskiej
+
+<img src="./img/september/mou.jpeg"><br><br>
+
+---
+
 ### 2022
 
 "Rosja proponuje własny międzynarodowy standard dla metali szlachetnych po tym, jak została zakazana przez London Bullion Market Association (LBMA). I może mieć stałą cenę w walutach krajowych."

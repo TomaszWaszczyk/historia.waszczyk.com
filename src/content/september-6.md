@@ -3,9 +3,41 @@ layout: post
 title: 6 września
 image: img/september/powstanie.jpg
 author: Tomasz Waszczyk
-date: 2021-09-06T10:00:00.000Z
+date: 2022-09-06T10:00:00.000Z
 tags:
   - Georgette Mosbacher
+---
+
+### 2023
+
+Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft. These are the first six companies designated as ‘gatekeepers’ under the Digital Markets Act.
+
+This status will prevent them from imposing unfair conditions on businesses and end users, and ensure the openness of crucial digital services. From social networks to operating systems, they have six months to ensure their core platform services comply with the Digital Markets Act, including:
+
+✔ Allowing users to unsubscribe and remove pre-installed services
+✔ Allowing users to download alternative app stores
+
+❌ Banning tracking outside of their services without consent
+❌ Banning ranking their products and services more favourably
+
+<img src="./img/september/digital-markets-act.jpeg"><br><br>
+
+---
+
+> Birmingham, drugie co do wielkości miasto w Wielkiej Brytanii, ogłosiło we wtorek faktyczne bankructwo. Władze miasta poinformowały, że wszystkie wydatki, z wyjątkiem tych najbardziej podstawowych, muszą zostać wstrzymane z powodu braku środków.
+
+Docelowo: bankructwo "publicznych" instytucji/usług, w międzyczasie stopniowa degradacja jakości
+
+---
+
+<img src="./img/september/budzet.jpeg"><br><br>
+
+---
+
+> dej samotnym madkom na bombelki
+
+<img src="./img/september/bombelek.jpg"><br><br>
+
 ---
 
 ### 2022

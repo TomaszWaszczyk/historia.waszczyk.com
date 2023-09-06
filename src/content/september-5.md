@@ -220,6 +220,36 @@ pana Piłsudskiego się znajdzie"
 
 Pod Borodino Wielka Armia Napoleona starła się z rosyjską, dowodzoną przez gen. Michaiła Kutuzowa. Zwycięstwo otworzyło francuskiemu cesarzowi drogę do Moskwy, ale jednocześnie stało się przyczyną późniejszej klęski.
 
+### 1701
+
+Leonhard Euler (1707-1783), Swiss, was one of history's most prolific mathematicians. His contributions spanned nearly every area of mathematics, physics, astronomy, engineering, and more. Euler's work formed the foundation for many modern mathematical and scientific disciplines.
+
+1. Basel Years (1707-1727): Born in Basel, Switzerland, Euler showed an early aptitude for mathematics. He started his formal education at the University of Basel, where he studied under Johann Bernoulli, one of the famous Bernoulli family of mathematicians.
+
+2. St. Petersburg Academy (1727-1741): At 20, Euler moved to St. Petersburg, Russia, to join the newly founded St. Petersburg Academy of Sciences. Here, he made several pioneering contributions:
+  
+  - Number Theory: Euler's totient function is foundational in number theory. He also proved Fermat's Little Theorem and developed the theory of continued fractions.
+  - Analysis: Euler worked on infinite series, introducing the concept of convergence and finding the sum of the series 1 + 1/4 + 1/9 + 1/16 + ... = (π^2)/6.
+  - Graph Theory: Leonhard Euler is often called the father of graph theory due to his work on the Seven Bridges of Königsberg problem in 1736.
+
+3. Berlin Academy (1741-1766): Invited by Frederick the Great, Euler moved to Berlin, where his productivity continued:
+
+  - Calculus and Analysis: Euler introduced much of the modern terminology and notation. He defined functions, introduced the notation \( f(x) \) for a function, and popularized the use of \( e \) for the base of natural logarithms and \( i \) for the square root of -1. He also expanded the understanding of the exponential function and complex numbers.
+  - Mechanics: Euler wrote groundbreaking works on fluid dynamics and rigid-body mechanics.
+  - Optics: He worked on wave theory of light and developed an eye model to study optical phenomena.
+  - Music: Euler also explored the mathematics of music, looking at harmony and resonance.
+
+4. Return to St. Petersburg (1766-1783): Euler returned to Russia, where he continued his work despite personal challenges, including blindness in his later years:
+
+  - Number Theory: He extended his previous works and conjectured the law of quadratic reciprocity, later proved by Gauss.
+  - Astronomy: Euler worked on the problem of three bodies in celestial mechanics.
+  - Calculus of Variations: Euler and Lagrange developed this field, with the Euler-Lagrange equation becoming central to the subject.
+
+Throughout his life, Euler wrote and published more papers and books than any mathematician of his time (arguably, of any time). His works like "Introductio in analysin infinitorum" (Introduction to the Analysis of the Infinite) and "Mechanica" are monumental in the history of mathematics.
+Leonhard Euler's contributions are vast and foundational to numerous areas of mathematics and science. 
+
+<img src="./img/september/euler.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/september-5.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

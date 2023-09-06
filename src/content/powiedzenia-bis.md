@@ -158,6 +158,8 @@ nie staniesz, nie dostaniesz
 
 Pieniądz, który człowiek posiada to swoboda, ten za którym goni, to niewola - Jean Jacques Rousseau
 
+I do not copy-paste from the Internet, I monomorphize it.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

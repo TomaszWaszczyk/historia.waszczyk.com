@@ -3,9 +3,23 @@ layout: post
 title: 7 września
 image: img/september/westerplatte.jpg
 author: Tomasz Waszczyk
-date: 2021-09-07T10:00:00.000Z
+date: 2022-09-07T10:00:00.000Z
 tags:
   - Borodino
+---
+
+### 2023
+
+<a href="./documents/september/bis-energy.pdf" target="_blank">BIS Energy Shocks</a>
+
+---
+
+W DKWOC trwają testy bezpieczeństwa i wydajności terminali satelitarnych Starlink. Celem badań jest analiza możliwości wykorzystania systemu w Wojsku Polskim. Równolegle trwają testy innych systemów komunikacji wykorzystujących satelity LEO (Low Earth Orbit).
+
+---
+
+<img src="./img/september/smieja.jpg"><br><br>
+
 ---
 
 ### 2022
