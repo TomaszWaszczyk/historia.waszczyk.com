@@ -8,6 +8,12 @@ tags:
   - McDonald
 ---
 
+### 2023
+
+⨋ is used to express a sum over all discrete states and an integral over all continuum states
+
+<img src="./img/september/thigma.jpeg"><br><br>
+
 ### 2022
 
 Naprawdę dużo energii jest wkładane, żeby przekazać ludziom, że to nie są szkolenia, jednocześnie robiąc ludziom szkolenia jak to Pan Z. sam mówi "merytoryczne", gdzie rozumiem, że będzie mówił jak zarabiać na rynku (który się transformuje). I wydarzenie jest na zylion ludzi.

@@ -3,11 +3,25 @@ layout: post
 title: 8 września
 image: img/september/krld.jpeg
 author: Tomasz Waszczyk
-date: 2021-09-08T10:00:00.000Z
+date: 2022-09-08T10:00:00.000Z
 tags:
   - Upadek
 draft: false
 ---
+
+### 2023
+
+Recent data from Der Spiegel reveals that 50% of Germans anticipate a significant economic downturn in the next 10-15 years, potentially impacting Germany's position as a global economic leader.
+
+Moreover, a majority of German business leaders believe that the nation has already reached its developmental peak, a sentiment shared by more than half of them.
+
+Worries about the high cost of electricity in Germany are also prevalent, with 76% of business professionals expressing concerns about its potential impact on industrialization.
+
+Recent economic data paints a challenging picture, with Germany's GDP showing stagnation from April to June compared to the previous quarter, as reported by the Federal Statistical Office in late July, following two consecutive quarters of contraction.
+
+<img src="./img/september/generationalwealth.jpeg"><br><br>
+
+<img src="./img/september/china.jpeg"><br><br>
 
 ### 2022
 

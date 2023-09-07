@@ -3,10 +3,40 @@ layout: post
 title: 9 września
 image: img/september/tarcza76.jpg
 author: Tomasz Waszczyk
-date: 2021-09-09T10:00:00.000Z
+date: 2022-09-09T10:00:00.000Z
 tags:
   - Tarcza 76
 draft: false
+---
+
+### 2023
+
+> ..Web3.. - Rhei
+
+<video width="640" height="480" controls>
+<source src="./movies/september/web3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/september/Thompson_1984_ReflectionsonTrustingTrust.pdf" target="_blank">Thompson 1984: Reflectionson Trusting Trust</a>
+
+---
+
+The Egyptian pound lost half its value compared to the dollar 2 times because of rules set by the IMF, here is why it could happen to you too 👇🏽
+
+People often seem to forget that what happens in another country far away, can happen closer to home as well.
+
+Especially with regard to "money".
+Since we all use the same "monetary system" that exists solely out of fiat currencies that can be created out of thin air.
+
+The Egyptian pound's dramatic 50% devaluation against the dollar is more than just a financial story; it's a stark reminder of the global economic interconnectedness. The IMF's policies, supposedly designed to "stabilize economies" worldwide, often have "unintended consequences" at the national level.
+
+It underscores the importance of individual financial responsibility. In today's ever-changing world, preserving and growing our wealth (as individual or business) demands a basic understanding of money.
+
+Why? Because we literally are at the end of a long term debt cycle RIGHT NOW! All fiat currencies, including the euro & dollar, are in the process of losing value way quicker than the past 40-50 years.
+
+<img src="./img/september/egypt.jpeg"><br><br>
+
 ---
 
 ### 2021

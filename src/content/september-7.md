@@ -10,6 +10,14 @@ tags:
 
 ### 2023
 
+> The Polish central bank has set a new target inflation rate of around 10%. - Rhei
+
+<img src="./img/september/polish-central-bank.jpg"><br><br>
+
+<img src="./img/september/debt-burden.jpeg"><br><br>
+
+---
+
 <a href="./documents/september/bis-energy.pdf" target="_blank">BIS Energy Shocks</a>
 
 ---
@@ -19,6 +27,10 @@ W DKWOC trwają testy bezpieczeństwa i wydajności terminali satelitarnych Star
 ---
 
 <img src="./img/september/smieja.jpg"><br><br>
+
+---
+
+<img src="./img/september/bik_indeks_pkm_sierpien_2023.jpg"><br><br>
 
 ---
 
