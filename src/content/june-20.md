@@ -80,7 +80,6 @@ Założyłeś PPK, IKE, IKZE nie dostaniesz emerytury z US 🤔 Suweren sprytny,
 
 <img src="./img/june/chinyenergia.jpeg"><br><br>
 
-
 <!-- Koncert mocarstw cz. 3: Obszar transakcyjny. Podstawowa znajomość historii pozwala coraz lepiej dobrze zrozumieć Macronete i postawę Scholza https://lnkd.in/dS2hFTXF Europejskim hegemonom silna Rosja jest potrzebna, żeby równoważyć wpływy Anglosasów i rozdawać karty co najmniej w Europie i której część środkowo-wschodnia winna pozostawać jedynie podporządkowaną politycznie sferą wpływów euroazjatyckich mocarstw. W dobie przywracania w UE popularnej praworządności brzmi to trochę jakby science-fiction, ale 📌 DE i FR właśnie przestały nawet udawać, że demokratyczne samostanowienie, prawa człowieka, integralność terytorialna to ważne europejskie wartości.
 
 Zachód obawia się zwycięstwa UA, ponieważ oznaczałoby to osłabienie Putina, czyli największego sojusznika FR i DE. Gwałcenie matek na oczach dzieci i rozstrzeliwanie ich po wszystkim, wyrywanie zębów dzieciom - żeby zrobić dzieciom to samo, masowe egzekucje związanych cywili, ludobójstwo z użyciem zakazanej broni, celowy atak rakietowy na schron i zamordowanie 600 matek z dziećmi? Czymże są maluchy na tle takiego kornika drukarza, albo DE&I, ESG... Zachód obawia się wolnej UA, bo to oznaczałoby utratę wpływów w środku Europy, który nie ma już wątpliwości, że jego jedyną nadzieją i sojusznikiem są odległe USA. Przypomnijmy: jeszcze roku temu Putin żądał wycofania NATO za Odrę i taki deal w zamian za NS2 był już na stole. A jak ktoś ma dobra pamięć, to w 2009 r. po wycofaniu się przez Obamę z budowy tarczy antyrakietowej w PL/CZ, Sarkozy entuzjastycznie podsumowywał, że 📌 "To doskonała decyzja z każdego punktu widzenia. To wyjątkowo pozytywne i mądre. Mam nadzieję, że nasi rosyjscy przyjaciele przywiążą do niej dużą wagę".
@@ -131,6 +130,10 @@ Podczas międzynarodowej wystawy Coin Constellation 2010 w Petersburgu, polska m
 <img src="./img/june/niemen.jpg"><br><br>
 
 Foto: Awers monety.
+
+### 1989
+
+<img src="./img/june/radiokomitet.jpg"><br><br>
 
 ### 1983
 

@@ -16,6 +16,14 @@ tags:
 
 ---
 
+Military Industrial Complex
+
+<a href="./documents/september/corporate-warriors.pdf" target="_blank">corporate warriors</a>
+
+<a href="./documents/september/chris-hedges-empire-of-illusion.pdf" target="_blank">chris-hedges-empire-of-illusion</a>
+
+---
+
 Bloomberg:
 
 > “We don’t get overly attached to President Glapinski’s comments from yesterday, because he himself is not attached to his own words,” analysts at MBank SA wrote in a note.

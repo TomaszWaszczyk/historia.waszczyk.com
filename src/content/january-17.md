@@ -50,6 +50,13 @@ Podwojenie rezerw złota i sprowadzenie ich części do Polski to nie koniec „
 
 <a href="./documents/january/emer_przeglad_pl.pdf" target="_blank">Przegląd systemu emerytalnego</a>
 
+### 1961
+
+<video width="640" height="480" controls>
+<source src="./movies/january/Eisenhower-Farewell-Military-Industrial-Complex.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 1940
 
 Dziś Niemcy usunęli pomnik Adama Mickiewicza. To jest wielki cios dla Polaków. Gdy zdejmowano pomnik, przyleciały bociany i krążyły nad rynkiem, co jest bardzo dziwne.
