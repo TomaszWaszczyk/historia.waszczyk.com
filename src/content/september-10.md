@@ -3,7 +3,7 @@ layout: post
 title: 10 września
 image: img/september/mcdonald.jpg
 author: Tomasz Waszczyk
-date: 2021-09-10T10:00:00.000Z
+date: 2022-09-10T10:00:00.000Z
 tags:
   - McDonald
 ---
@@ -13,6 +13,34 @@ tags:
 ⨋ is used to express a sum over all discrete states and an integral over all continuum states
 
 <img src="./img/september/thigma.jpeg"><br><br>
+
+---
+
+Bloomberg:
+
+> “We don’t get overly attached to President Glapinski’s comments from yesterday, because he himself is not attached to his own words,” analysts at MBank SA wrote in a note.
+
+---
+
+<img src="./img/september/money.jpg"><br><br>
+
+<img src="./img/september/central-bank-gold.jpg"><br><br>
+
+<img src="./img/september/china-russia.jpg"><br><br>
+
+<img src="./img/september/deficit.jpg"><br><br>
+
+<img src="./img/september/empires.jpg"><br><br>
+
+<img src="./img/september/projection.jpg"><br><br>
+
+<img src="./img/september/reserve-currency.jpg"><br><br>
+
+<img src="./img/september/silver-content.jpg"><br><br>
+
+<img src="./img/september/uk-national-debt-since-1727.webp"><br><br>
+
+---
 
 ### 2022
 

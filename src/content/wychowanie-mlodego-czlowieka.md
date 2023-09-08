@@ -149,6 +149,8 @@ Your browser does not support the video tag.
 
 * <https://shamory.com/>
 
+* Mój tato szczęściarz
+
 ---
 
 W wiosce smerfów mieszkało ich - wiadomo - setka. Każdy smerf miał inne umiejętności, które codziennie mógł sprzedać za jedną monetę, za którą mógł następnie kupić u innego smerfa to co mu akurat było potrzebne. Np. Łasuch każdego dnia produkował jedno ciastko i sprzedawał je za jedną monetę. Wszystkim oczywiście zarządzał Papa Smerf – on też będąc szefem wioski jako jedyny miał prawo wydawać nowe monety dla wioskowej społeczności, jeśli zaszłaby taka potrzeba.

@@ -160,6 +160,8 @@ Pieniądz, który człowiek posiada to swoboda, ten za którym goni, to niewola 
 
 I do not copy-paste from the Internet, I monomorphize it.
 
+Najpierw tworzymy swoje nawyki. Potem one tworzą nas.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
