@@ -22,6 +22,8 @@ Bloomberg:
 
 ---
 
+> "The strong do what they have the power to do. The weak accept what they have to accept." - Thucydides
+
 <img src="./img/september/money.jpg"><br><br>
 
 <img src="./img/september/central-bank-gold.jpg"><br><br>
@@ -64,7 +66,7 @@ Speech by Benoît Cœuré, Head of the BIS Innovation Hub, at The Eurofi Financi
 
 Distinguished guests, ladies and gentlemen.
 
-Thank you for inviting me to speak here today. We all experienced how the pandemic accelerated the shift to virtual events, but I am pleased that today we are gathering in person. 
+Thank you for inviting me to speak here today. We all experienced how the pandemic accelerated the shift to virtual events, but I am pleased that today we are gathering in person.
 
 Yet the world is not returning to the old normal. Payments are a case in point. The pandemic has accelerated a longer-running move to digital. Mobile and contactless payments are already part of our daily lives; QR codes and "buy now, pay later" options are gaining popularity; gloves, badges and Olympic uniforms with payment functions are being prepared for the Beijing Winter Olympics; and the tech-savvy generation will soon dream about money and payments for the metaverse.
 
@@ -74,7 +76,7 @@ Let me explain.
 
 Central bank money has unique advantages – safety, finality, liquidity and integrity. As our economies go digital, they must continue to benefit from these advantages. Money is at the heart of the system and it has to continue to be issued and controlled by trusted and accountable institutions which have public policy – not profit – objectives. Central bank money will have to evolve to be fit for the digital future.
 
-So what are the priorities now? Know where you are going – as Dag Hammarskjöld once said2, "only he who keeps his eye fixed on the far horizon will find the right road". And get going. 
+So what are the priorities now? Know where you are going – as Dag Hammarskjöld once said2, "only he who keeps his eye fixed on the far horizon will find the right road". And get going.
 
 Let me elaborate.
 
@@ -125,6 +127,13 @@ Source: https://www.bis.org/speeches/sp210910.htm
 ---
 
 <!-- 10.09.2014 -- > > Co zrobić żeby nie mieć kaca moralnego z powodu że się traci czas ? ? To bardzo proste- należy czas wykorzystywać dobrze i nie marnować go i skupiać się na jednej rzeczy a nie robiąc tysiąca rzeczy na raz, to ułatwia życie, uspokaja i powoduje porządek w głowie i duchu ;-) -->
+
+### 1997
+
+<video width="640" height="480" controls>
+<source src="./movies/september/wwdc-1997.MP4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1996
 
