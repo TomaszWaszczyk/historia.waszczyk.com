@@ -3,10 +3,39 @@ layout: post
 title: 11 września
 image: img/september/jankazimierz.jpg
 author: Tomasz Waszczyk
-date: 2021-09-11T10:00:00.000Z
+date: 2022-09-11T10:00:00.000Z
 tags:
   - Związek Braterski
 draft: false
+---
+
+### 2023
+
+<img src="./img/september/crossroads.png"><br><br>
+
+👀 THE storm (not)perfect is coming.
+
+<a href="./documents/september/sp230819.pdf" target="_blank">Central banks at the crossroads</a>
+
+---
+
+<img src="./img/september/import-meksyk-usa.jpeg"><br><br>
+
+> Ultra-liberalism
+<!-- (case brasil) -->
+
+---
+
+<a href="./documents/september/the-origins-of-neoliberalism.pdf" target="_blank">the-origins-of-neoliberalism.pdf</a>
+
+<a href="./documents/september/Import-sprzetu-wojskowego_Deszczynski.pdf" target="_blank">Import-sprzetu-wojskowego_Deszczynski</a>
+
+---
+
+> 👀
+
+<img src="./img/september/taka-prawda.jpg"><br><br>
+
 ---
 
 ### 2021
@@ -30,6 +59,14 @@ Austriackie pielęgniarki podczas dzisiejszego protestu przeciw faszyzmowi sanit
 ### 2001
 
 <img src="./img/september/wtc.jpeg"><br><br>
+
+### 1990
+
+W latach 80-tych i 90-tych w Polsce produkowano mikroprocesory. A dokładniej jeden model mikroprocesora, czyli MCY7880. Była to polska wersja popularnego w tamtych czasach 8-bitowego czipa Intel 8080.
+
+<img src="./img/september/MCY7880.jpeg"><br><br>
+
+Ze źródeł internetowych wynika, że miało być kilka wersji układu (z różnymi prędkościami zegara i zakresami temperatur), ale produkcja na przemysłową skalę nawet tego “standardowego” sprawiała problemy, a tylko nieduży procent wyprodukowanych układów w ogóle działał. MCY7880 został wyprodukowany przez CEMI czyli Naukowo-Produkcyjne Centrum Półprzewodników, które zajmowało się produkcją diod, tranzystorów i prostych układów scalonych. Podzespoły wykorzystywano w przemyśle krajowym (np. w komputerach Elwro 500 czy centralach telefonicznych). CEMI zlikwidowano w 1994 roku. Jak do tej pory, MCY7880 był jedynym seryjnie produkowanym polskim czipem.
 
 ### 1973
 
