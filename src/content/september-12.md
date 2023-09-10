@@ -8,6 +8,10 @@ tags:
   - Hamletyzm
 ---
 
+### 2023
+
+<img src="./img/september/soul.jpg"><br><br>
+
 ### 2022
 
 7 years ago 55k Turkish Lira could buy a Volkswagen Golf.

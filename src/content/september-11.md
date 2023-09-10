@@ -26,15 +26,18 @@ draft: false
 
 ---
 
-<a href="./documents/september/the-origins-of-neoliberalism.pdf" target="_blank">the-origins-of-neoliberalism.pdf</a>
+<a href="./documents/september/the-origins-of-neoliberalism.pdf" target="_blank">The origins of neoliberalism</a>
 
-<a href="./documents/september/Import-sprzetu-wojskowego_Deszczynski.pdf" target="_blank">Import-sprzetu-wojskowego_Deszczynski</a>
+<a href="./documents/september/Import-sprzetu-wojskowego_Deszczynski.pdf" target="_blank">Import sprzętu wojskowego, Deszczyński</a>
 
 ---
 
 > 👀
 
 <img src="./img/september/taka-prawda.jpg"><br><br>
+
+<a href="./documents/september/24_Sydor_P_Kobieta_a_socjalizm.pdf" target="_blank">Materializm a kobieta. Marksowska wizja  
+bazowych podziałów społecznych – walka klas</a>
 
 ---
 
