@@ -98,7 +98,7 @@ https://en.wikipedia.org/wiki/Sheryl_Sandberg
 
 ### 1946
 
-W Gdańsku została zamordowana przez komunistyczną bezpiekę Danuta Siedzikówna "Inka", osiemnastoletnia łączniczka i sanitariuszka Brygady Wileńskiej AK. Przywrócenie pamięci o jej walce i okolicznościach śmierci sprawiło, że "Inka" stała się jednym z symboli walki podziemia antykomunistycznego.
+W Gdańsku została zamordowana przez komunistyczną bezpiekę Danuta Siedzikówna "Inka", osiemnastoletnia łączniczka i sanitariuszka Brygady Wileńskiej AK razem z Zagończykiem. Przywrócenie pamięci o jej walce i okolicznościach śmierci sprawiło, że "Inka" stała się jednym z symboli walki podziemia antykomunistycznego.
 
 <img src="./img/august/inka2.jpg"><br><br>
 

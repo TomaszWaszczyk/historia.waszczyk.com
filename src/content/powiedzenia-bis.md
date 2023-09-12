@@ -164,6 +164,12 @@ Najpierw tworzymy swoje nawyki. Potem one tworzą nas.
 
 "The strong do what they have the power to do. The weak accept what they have to accept." - Thucydides
 
+Zgubić się to żaden wstyd. Wstydem jest nie szukać właściwej drogi.
+
+<img src="./img/others/powiedzenia/expert.jpg"><br><br>
+
+5% brain, 95% consistency and discipline
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

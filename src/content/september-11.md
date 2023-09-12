@@ -11,6 +11,10 @@ draft: false
 
 ### 2023
 
+> Żadne, powtarzam żadne medium w Niemczech nie informuje dziś o beatyfikacji rodziny Ulmów. Na projekcji filmu Mariusza Polisa w Instytucie Pileckiego w Berlinie  nie pojawił się ani jeden niemiecki dziennikarz. Strategia przemilczania. Polacy nie mogą być ofiarami
+
+---
+
 <img src="./img/september/crossroads.png"><br><br>
 
 👀 THE storm (not)perfect is coming.

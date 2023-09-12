@@ -3,10 +3,26 @@ layout: post
 title: 13 września
 image: img/september/sumabilansowa.png
 author: Tomasz Waszczyk
-date: 2021-09-13T10:00:00.000Z
+date: 2022-09-13T10:00:00.000Z
 tags:
   - GOLD
 draft: false
+---
+
+### 2023
+
+<img src="./img/september/brics.jpeg"><br><br>
+
+<img src="./img/september/defense-budget.jpeg"><br><br>
+
+---
+
+<a href="./documents/september/OCRPfizer-1_Redacted.pdf" target="_blank">OCR</a>
+
+<a href="./documents/september/pranie-politykow.pdf" target="_blank">Pranie polityków</a>
+
+<a href="./documents/september/kurczy-sie.pdf" target="_blank">Kurczy się</a>
+
 ---
 
 ### 2022

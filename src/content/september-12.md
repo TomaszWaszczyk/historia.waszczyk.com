@@ -3,14 +3,48 @@ layout: post
 title: 12 września
 image: img/september/abbeville.jpg
 author: Tomasz Waszczyk
-date: 2021-09-12T10:00:00.000Z
+date: 2022-09-12T10:00:00.000Z
 tags:
   - Hamletyzm
 ---
 
 ### 2023
 
+<img src="./img/september/cyber-mon.jpeg"><br><br>
+
+Morskie Centrum Cyberbezpieczeństwa Akademii Marynarki Wojennej i Departamentem Cyberbezpieczeństwa Ministerstwa Obrony Narodowej realizują edycję "LETNIEJ SZKOŁY CYBERBEZPIECZEŃSTWA" ( to już 8 edycja). Zajęcia prowadzą najlepsi wykładowcy i trenerzy m.in. dr hab. Jerzy Kosiński, dr inż. Jakub Syta, płk. Paweł Doniec, dr hab. Katarzyna Chałubińska-Jentkiewicz, Patrycja Osińska, por. Łukasz Grzyb, dr hab. inż. Grzegorz Krasnodębski.
+
+---
+
+<img src="./img/september/IMG_0118.jpeg"><br><br>
+
+---
+
+Indie nakładają dalsze restrykcje na eksport ryżu. Cena minimum za eksport ryżu basmati to już **1200USD/tona**. Dodatkowo 20% podatku na sprzedaż ryżu paraboiled.
+
+---
+
+<img src="./img/september/top.jpg"><br><br>
+
+[Piłeś? Nie płać.](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd)
+
+---
+
+Reuters:
+
+> French President Emmanuel Macron says G20 declaration not a diplomatic victory for Russia | Macron says Russia emerged isolated from summit | Japan PM says Russia's aggression against Ukraine could shake foundations of G20.
+
+---
+
+<img src="./img/september/home-prices.jpeg"><br><br>
+
 <img src="./img/september/soul.jpg"><br><br>
+
+---
+
+<a href="./documents/september/airbnb.pdf" target="_blank">Airbnb</a>
+
+---
 
 ### 2022
 
