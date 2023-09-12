@@ -3,10 +3,27 @@ layout: post
 title: 14 września
 image: img/september/germanizacja.jpg
 author: Tomasz Waszczyk
-date: 2021-09-14T10:00:00.000Z
+date: 2022-09-14T10:00:00.000Z
 tags:
   - Germanizacja
 ---
+
+### 2023
+
+<img src="./img/september/CHES-2023.jpeg"><br><br>
+
+[Post-Quantum security added to the SignalApp](https://github.com/signalapp/libsignal/commit/ff09619432e19e96231ebed913fe4433f26ee0d2)
+
+---
+
+<img src="./img/september/egypt-inflation.jpeg"><br><br>
+
+1989: 1 USD = 1 EGP
+2000: 1 USD = 3 EGP
+2009: 1 USD = 5 EGP
+2016: 1 USD = 9 EGP
+2017: 1 USD = 18 EGP
+2023: 1 USD = 31 EGP
 
 ### 2022
 
