@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 14 września
-image: img/september/germanizacja.jpg
+image: img/september/przednia_straz_europy_polska.webp
 author: Tomasz Waszczyk
 date: 2022-09-14T10:00:00.000Z
 tags:
@@ -18,12 +18,14 @@ tags:
 
 <img src="./img/september/egypt-inflation.jpeg"><br><br>
 
+```
 1989: 1 USD = 1 EGP
 2000: 1 USD = 3 EGP
 2009: 1 USD = 5 EGP
 2016: 1 USD = 9 EGP
 2017: 1 USD = 18 EGP
 2023: 1 USD = 31 EGP
+```
 
 ### 2022
 

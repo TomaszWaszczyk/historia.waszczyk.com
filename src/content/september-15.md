@@ -3,10 +3,38 @@ layout: post
 title: 15 września
 image: img/september/lehman.jpg
 author: Tomasz Waszczyk
-date: 2021-09-15T10:00:00.000Z
+date: 2022-09-15T10:00:00.000Z
 tags:
   - Lehman
 draft: false
+---
+
+### 2023
+
+<img src="./img/september/semiconductors.jpeg"><br><br>
+
+---
+
+<img src="./img/september/zeitgeist.jpg"><br><br>
+
+[Will Peter Ruchatz be Chief Marketing Officer (CMO) of Parity Technologies by 01. Jan. 2024](https://app.zeitgeist.pm/markets/216)
+
+---
+
+<a href="./documents/september/KlausenChamon-Neoliberalismoutofplace.pdf" target="_blank">Brasil</a>
+
+---
+
+<img src="./img/september/discipline.jpg"><br><br>
+
+<img src="./img/september/balwany.jpg"><br><br>
+
+<img src="./img/september/kuklinski.jpg"><br><br>
+
+---
+
+<img src="./img/september/cdc2.jpeg"><br><br>
+
 ---
 
 ### 2022
