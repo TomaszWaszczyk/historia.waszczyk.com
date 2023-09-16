@@ -3,10 +3,18 @@ layout: post
 title: 18 września
 image: img/september/ruscylech.jpeg
 author: Tomasz Waszczyk
-date: 2021-09-18T10:00:00.000Z
+date: 2022-09-18T10:00:00.000Z
 tags:
   - FIAT Money
 draft: false
+---
+
+### 2023
+
+Do rana 17 września do Humania (Ukraina) dotarło ponad 38 tys. chasydów. Zbliża się rocznica śmierci rabina Nachmana (słynny Nachman z Bracławia).
+
+<img src="./img/september/chasydzi.jpg"><br><br>
+
 ---
 
 ### 2020
