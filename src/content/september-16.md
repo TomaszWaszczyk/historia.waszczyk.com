@@ -3,10 +3,39 @@ layout: post
 title: 16 września
 image: img/september/rosjajaponia.jpg
 author: Tomasz Waszczyk
-date: 2021-09-16T10:00:00.000Z
+date: 2022-09-16T10:00:00.000Z
 tags:
   - Komitet Rady Ministrów ds. Cyfryzacji
 draft: false
+---
+
+### 2023
+
+<img src="./img/september/ssi.jpeg"><br><br>
+
+Government-issued digital ID is equal to a plastic ID in Poland since July 14th.
+How is it going so far and what are the next steps?
+
+It’s been exactly two months since the digital ID (mObywatel) became equal to the plastic document in Poland. Ministry of Digital Affairs released its API, development & integration kit, and private businesses were allowed to apply for access to mObywatel.
+
+A couple of observations:
+
+- If your business wants to accept mObywatel it needs approval from the MoDA. The approval process, slow at first, is more and more efficient. We’ve prepared a detailed step-by-step guide to help our customers get their approvals fast.
+
+- Offline/in-person checks are done via QRCode. The online process is faster on a mobile device, thanks to the deep link support of mObywatel. The desktop online process is also based on the QRCode.
+
+- User data is being sent directly from the user device to the back-end system and onto the business. It’s as close to Self-Sovereign Identity as you can get right now.
+
+- mObywatel T&Cs explicitly forbid using it for login (authentication). From the plans, we’ve seen shared by Janusz Cieszynski , it looks like both authentication and 2FA functionality are on the roadmap and hopefully will be available soon.
+
+---
+
+> "MF wyemitował obligacje skarbowe za 3,659 mld zł przeznaczone na podwyższenie kapitału zakładowego CPK" (PAP).
+
+---
+
+<img src="./img/september/sota.jpg"><br><br>
+
 ---
 
 ### 2022

@@ -3,10 +3,19 @@ layout: post
 title: 17 września
 image: img/september/boe.jpg
 author: Tomasz Waszczyk
-date: 2021-09-17T10:00:00.000Z
+date: 2022-09-17T10:00:00.000Z
 tags:
   - CBDC
 draft: false
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/september/europa.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2020
