@@ -11,6 +11,22 @@ draft: false
 
 ### 2023
 
+<img src="./img/september/bnp.jpeg"><br><br>
+
+> W bankach tyka nowa bomba pozwów? "To byłby prawdziwy kataklizm"
+> Po lawinie pozwów składanych przez frankowiczów nadszedł czas na kredytobiorców złotowych, którzy pozywają banki za WIBOR. Gdyby doszło do sytuacji masowego skutecznego podważania WIBOR-u, to mielibyśmy w Polsce prawdziwy kataklizm - mówi w rozmowie z money.pl Przemysław Gdański, prezes BNP Paribas.
+
+---
+
+Nowy typ konfliktu posiada front bez ograniczeń, jest znacznie bardziej subtelny ze znacznie większą efektywnością. **Każdy ma swoją cegiełkę do dołożenia**
+
+> Szef Sztabu Generalnego: obrona państwa to zadanie dla całego narodu. Każdy ma swoją cegiełkę do dołożenia
+> Obrona państwa to zadanie dla całego narodu, nie tylko wojska. Każdy ma swoją cegiełkę do dołożenia. Trzeba odejść od przekonania, że za obronę kraju odpowiadają tylko żołnierze, poczuć w sobie większą odpowiedzialność za obronność - powiedział PAP gen. Rajmund Andrzejczak, szef Sztabu Generalnego WP.
+
+---
+
+Crucial part of the game..
+
 <img src="./img/september/ssi.jpeg"><br><br>
 
 Government-issued digital ID is equal to a plastic ID in Poland since July 14th.

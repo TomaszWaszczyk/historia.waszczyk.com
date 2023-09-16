@@ -11,10 +11,16 @@ draft: false
 
 ### 2023
 
+Międzynarodowy arbitraż pracowników
+
 <video width="640" height="480" controls>
 <source src="./movies/september/europa.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+> pustka
+
+<img src="./img/others/kobiety/kobieta2.jpg"><br><br>
 
 ---
 

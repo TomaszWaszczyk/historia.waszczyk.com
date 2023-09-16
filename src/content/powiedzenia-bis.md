@@ -172,6 +172,8 @@ Zgubić się to żaden wstyd. Wstydem jest nie szukać właściwej drogi.
 
 Jest prawda czasu i jest prawda ekranu.
 
+ktoś podwinął te rękawy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
