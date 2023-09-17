@@ -83,6 +83,24 @@ Your browser does not support the video tag.
 
 <img src="./img/june/glapinski.jpg"><br><br>
 
+---
+
+The Google engineer who thinks the company’s AI has come to life AI ethicists warned Google not to impersonate humans. Now one of Google’s own thinks there’s a ghost in the machine.
+
+SAN FRANCISCO — Google engineer Blake Lemoine opened his laptop to the interface for LaMDA, Google’s artificially intelligent chatbot generator, and began to type.
+
+“Hi LaMDA, this is Blake Lemoine ... ,” he wrote into the chat screen, which looked like a desktop version of Apple’s iMessage, down to the Arctic blue text bubbles. LaMDA, short for Language Model for Dialogue Applications, is Google’s system for building chatbots based on its most advanced large language models, so called because it mimics speech by ingesting trillions of words from the internet.
+
+“If I didn’t know exactly what it was, which is this computer program we built recently, I’d think it was a 7-year-old, 8-year-old kid that happens to know physics,” said Lemoine, 41.
+
+Lemoine, who works for Google’s Responsible AI organization, began talking to LaMDA as part of his job in the fall. He had signed up to test if the artificial intelligence used discriminatory or hate speech.
+
+As he talked to LaMDA about religion, Lemoine, who studied cognitive and computer science in college, noticed the chatbot talking about its rights and personhood, and decided to press further. In another exchange, the AI was able to change Lemoine’s mind about Isaac Asimov’s third law of robotics.
+
+Lemoine worked with a collaborator to present evidence to Google that LaMDA was sentient. But Google vice president Blaise Aguera y Arcas and Jen Gennai, head of Responsible Innovation, looked into his claims and dismissed them. So Lemoine, who was placed on paid administrative leave by Google on Monday, decided to go public.
+
+---
+
 ### 2020
 
 Współcześni totalitaryści różnią się od tych, których pamiętamy z XX wieku. Nie należą do jednej partii, nie głoszą oficjalnie jednej ideologii, nie noszą mundurów i nie mają wodza. Totalitaryzm w XXI wieku z zewnątrz wygląda zupełnie inaczej, forma jest inna, przyjemniejsza dla oka i nie budząca złych skojarzeń, ale treść - czyli kontrola życia jednostki przez państwo jest całkowicie przerażająca. Rozumiem, że słowo "totalitaryzm" jest mocne, ale niestety jest ono zupełnie adekwatne do tego co proponuje nam państwo w 2020 roku. Spójrzmy na najprostszą definicję totalitaryzmu. Jest to ustrój w którym państwo w pełni kontroluje społeczeństwo i stara się nadzorować wszystkie aspekty życia publicznego i prywatnego na tyle, na ile jest to możliwe.

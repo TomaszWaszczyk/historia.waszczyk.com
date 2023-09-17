@@ -74,6 +74,10 @@ Ciekawą rozmowę uciął sobie w TOK FM Maciek Głogowski z wiceministrem finan
 
 > „Oprocentowanie pieniędzy, które pożyczamy na rynku często jest niższe od poziomu inflacji. W związku z tym te pieniądze realnie i nominalnie tracą na wartości”
 
+### 2011
+
+<img src="./img/september/apple.jpg"><br><br>
+
 ### 1995
 
 Oficjalna premiera systemu operacyjnego Windows 95.

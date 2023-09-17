@@ -174,6 +174,8 @@ Jest prawda czasu i jest prawda ekranu.
 
 ktoś podwinął te rękawy
 
+You should never regret anything in life. If it's good, it's wonderful. If it's bad, it's experience.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
