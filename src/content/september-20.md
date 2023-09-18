@@ -3,10 +3,24 @@ layout: post
 title: 20 września
 image: img/september/wiesentahl.jpg
 author: Tomasz Waszczyk
-date: 2021-09-20T10:00:00.000Z
+date: 2022-09-20T10:00:00.000Z
 tags:
   - Bitwa nad Niemnem
 draft: false
+---
+
+### 2023
+
+> ...
+
+<img src="./img/september/1500x500.jpeg"><br><br>
+
+---
+
+<img src="./img/september/IMG_0124.JPEG"><br><br>
+
+[Post-Quantum Cryptography for Engineers](https://datatracker.ietf.org/doc/draft-ietf-pquip-pqc-engineers/)
+
 ---
 
 ### 2022
