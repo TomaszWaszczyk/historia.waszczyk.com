@@ -3,10 +3,48 @@ layout: post
 title: 23 września
 image: img/september/indeks.png
 author: Tomasz Waszczyk
-date: 2021-09-23T10:00:00.000Z
+date: 2022-09-23T10:00:00.000Z
 tags:
   - Widerstand
 draft: false
+---
+
+### 2023
+
+<img src="./img/september/bareja-bis.jpg"><br><br>
+
+---
+
+Palermo
+
+<img src="./img/september/inprogress.jpg"><br><br>
+
+<img src="./img/september/street.jpg"><br><br>
+
+<img src="./img/september/imagination.jpg"><br><br>
+
+<img src="./img/september/bridge.jpg"><br><br>
+
+<img src="./img/september/central.jpg"><br><br>
+
+<img src="./img/september/city.jpg"><br><br>
+
+> light & darkness & responsibility & hope
+
+<img src="./img/september/light.jpg"><br><br>
+
+<img src="./img/september/ehh.jpg"><br><br>
+
+<img src="./img/september/imagination-2.jpg"><br><br>
+
+---
+
+<img src="./img/september/us-dollar.jpg"><br><br>
+
+<a href="./documents/september/Wyniki_przetargu_sprzedazy_20.09.2023.pdf" target="_blank">...</a>
+
+<a href="./documents/september/Mentalillnessandtheleft.pdf" target="_blank">stupidity as a commodity</a>
+
 ---
 
 ### 2022

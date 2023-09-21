@@ -3,9 +3,18 @@ layout: post
 title: 24 września
 image: img/september/paga.jpg
 author: Tomasz Waszczyk
-date: 2021-09-24T10:00:00.000Z
+date: 2022-09-24T10:00:00.000Z
 tags:
   - GPW
+---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="https://resources.waszczyk.com/historia-waszczyk-com/Ha%C5%84ba!-Full.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
