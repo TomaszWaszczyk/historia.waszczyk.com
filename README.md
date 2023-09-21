@@ -1,10 +1,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e926cde-268f-4f67-b6a2-2f8c5e493d86/deploy-status)](https://app.netlify.com/sites/eager-wiles-033ea5/deploys)
 
+https://wmgaz.pl
+
 https://www.economicshelp.org/blog/163755/economics/historical-uk-national-debt/
 
 https://www.spaceforce.mil/Multimedia/Art/
 
 https://www.gross-rosen.eu/
+
+https://listawykletych.pl/katalog/
 
 https://rocznik.mbpw.pl/category/roczniki/tom-xviii/
 

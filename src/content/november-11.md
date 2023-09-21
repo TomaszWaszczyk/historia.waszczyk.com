@@ -73,6 +73,10 @@ Skutki restrykcji to wzrost śmiertelności z powodu przerwanych lub zaniechanyc
 Aby uniknąć dalszego narastania ilości ofiar z powodu restrykcji i sparaliżowania ochrony zdrowia należy domagać się zniesienia dławiących normalne funkcjonowanie państwa i służb medycznych – restrykcji.
 Nic one nie dały poza ewidentnymi szkodami zdrowotnymi i gospodarczymi.
 
+### 2018
+
+<img src="./img/november/20181110_122147.jpg"><br><br>
+
 ### 1990
 
 Generał Stanisław Maczek został awansowany przez prezydenta RP na uchodźstwie do stopnia generała broni.

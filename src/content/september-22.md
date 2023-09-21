@@ -3,11 +3,70 @@ layout: post
 title: 22 września
 image: img/september/kapitalacjalwowa.jpg
 author: Tomasz Waszczyk
-date: 2021-09-22T10:00:00.000Z
+date: 2022-09-22T10:00:00.000Z
 tags:
   - Ursula von der Leyen
 draft: false
 ---
+
+### 2023
+
+<img src="./img/september/capitalism-reckoning-elitism-in-america-2019-1.webp"><br><br>
+
+<a href="./documents/september/wp16147.pdf" target="_blank">Sovereign Debt Restructuring and Growth</a>
+
+<a href="./documents/september/2023060pap.pdf" target="_blank">Tokenization: Overview and Financial Stability Implications</a>
+
+<img src="./img/september/tim191202v1_elites.jpg"><br><br>
+
+<a href="./documents/september/kaye-1995-why-do-ruling-classes-fear-history.pdf" target="_blank">Why-do-ruling-classes-fear-history</a>
+
+<a href="./documents/september/Debord_Guy_Society_of_the_Spectacle_1970.pdf" target="_blank">Guy_Society_of_the_Spectacle</a>
+
+<a href="./documents/september/tactical-nuclear-weapons-a-perspective-from-ukraine-en-8.pdf" target="_blank">tactical-nuclear-weapons-a-perspective-from-ukraine</a>
+
+<!-- Debord_Guy_Society_of_the_Spectacle_1995.pdf
+Debord_Guy_Society_of_the_Spectacle_2000.pdf -->
+---
+
+<img src="./img/september/platforms.jpg"><br><br>
+
+<img src="./img/september/apple-platforms.jpg"><br><br>
+
+<img src="./img/september/kodak.jpg"><br><br>
+
+<img src="./img/september/platform-strategy.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/september/pm.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+Na Kaukazie ponownie rozpala się wojna między Armenią a Azerbejdżanem. Z punktu widzenia Izraela, Azerbejdżan jest jednym z trzech największych klientów izraelskich koncernów zbrojeniowych. Azerbejdżan kupuje niemal każdy system uzbrojenia jaki wpadnie mu w ręce, a około 70% broni używanej przez azerbejdżańską armię pochodzi od izraelskiego przemysłu obronnego. Są to zamówienia liczone w miliardach dolarów rocznie. Oto tylko wycinek zamówień Azerbejdżanu:
+
+- izraelski karabin szturmowy Tavor zaprojektowany i wyprodukowany przez Israel Weapon Industries.
+- wielokrotna wyrzutnia rakiet Lynx o zasięgu 150 km, opracowana i wyprodukowana przez Israel Military Industries.
+- izraelski artyleryjski zestaw rakietowy LAR-160 o zasięgu 30 km, wyprodukowany przez Israel Military Industries.
+- izraelska samobieżna armatohaubica Atmos-2000, kalibru 155 mm na podwoziu Tatry, zaprojektowana przez Soltam Systems, a następnie produkowana przez Elbit Systems. Zasięg 40 km.
+- izraelski system moździerzy Cardom 120 mm, produkowany przez Soltam Systems.
+- kierowane pociski moździerzowe Stell Sting (120 mmm) produkowane przez Elbit Systems.
+- izraelskie bezzałogowe drony Hermes 450, opracowane przez Elbit Systems. Przeznaczony do prowadzenia długotrwałego rozpoznania na szczeblu korpusu lub dywizji.
+- izraelskie bezzałogowe drony Hermes 900, opracowane przez Elbit Systems. Są to drony wielozadaniowe, latające na średnich wysokościach i długodystansowych, przeznaczone do misji taktycznych.
+- miniaturowe drony bezzałogowe SkyStriker, opracowane przez Elbit Systems. Jest to krążąca w powietrzu amunicja, która może lokalizować i uderzać w wyznaczone cele za pomocą głowicy bojowej o masie 5 lub 10 kg zainstalowanej w kadłubie, zapewniając wysoką precyzję działania.
+- miniaturowe drony Skylark, opracowane przez Elbit Systems. Drony służą do taktycznego nadzoru i rozpoznania.
+- izraelskie drony bezzałogowe Heron, opracowane przez Israel Aerospace Industries. Są wykorzystywane do prowadzenia strategicznego i taktycznego rozpoznania, zwiadu i wywiadu, namierzania i wskazywania celów powierzchniowych oraz ich zwalczania.
+- taktyczne drony bezzałogowe Aeronautics Orbiter, produkowane przez Aeronautics Defense Systems. Pełni funkcję amunicji krążącej.
+- taktyczny pocisk balistyczny krótkiego zasięgu Lora, opracowany przez Israel Aerospace Industries. Zasięg 280 km, o zmiennej trajektorii lotu.
+- projekt firmy Elbit Systems będący modernizacją czołgów T-72.
+- izraelskie przeciwpancerne pociski kierowane Spike, opracowane przez Rafael Advanced Defense Systems. W wersji NLOS zasięg do 25 km.
+- izraelskie naprowadzane laserowo pociski przeciwpancerne Lahat, opracowane przez Israel Aerospace Industries. Zasięg 8 km.
+- sześć okrętów rakietowych, wzorowanych na modelu izraelskiej korwety typu Saar 4.5.
+- szybkie łodzie patrolowe Sheldag 5.
+- sprzęt komunikacyjny firmy Tadiran.
+- radary lotnicze firmy Elta.
+- systemy podsłuchowe i szpiegujące firm Verint i NSO.
 
 ### 2022
 

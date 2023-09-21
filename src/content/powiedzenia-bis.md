@@ -176,6 +176,16 @@ ktoś podwinął te rękawy
 
 You should never regret anything in life. If it's good, it's wonderful. If it's bad, it's experience.
 
+Europa to stara dziewica która by chciała, ale nie chciała.
+
+“And then I looked at the stars, and considered how awful if would be for a man to turn his face up to them as he froze to death, and see no help or pity in all the glittering multitude.” - “Great Expectations” Charles Dickens - 1860
+
+<img src="./img/others/powiedzenia/dickens.jpg"><br><br>
+
+<img src="./img/others/powiedzenia/truth.jpg"><br><br>
+
+memoria fragilis est
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

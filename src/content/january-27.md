@@ -11,6 +11,10 @@ draft: false
 
 ### 2023
 
+> "Dług publiczny Polski spada najszybciej w UE" - ocenił w piątek wiceminister finansów Artur Soboń. Dodał, że w ryzach pozostają deficyt i dług - oba dużo poniżej średniej w unijnej. Eurostat poinformował w poniedziałek, że polski dług publiczny, liczony według metodologii ESA2010, na koniec III kwartału 2022 r.
+
+---
+
 <img src="./img/january/tyrowicz.jpg"><br><br>
 
 Dezinflacji nie będzie. Ma również z tego wynikać zła wiadomość na ten rok. Inflacja bazowa ma być w dryfie poziomym. O dezinflacji można zatem zapomnieć.

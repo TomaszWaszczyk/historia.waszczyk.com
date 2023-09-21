@@ -3,10 +3,35 @@ layout: post
 title: 21 września
 image: img/september/umgang.jpg
 author: Tomasz Waszczyk
-date: 2021-09-21T10:00:00.000Z
+date: 2022-09-21T10:00:00.000Z
 tags:
   - HSBC
 draft: false
+---
+
+### 2023
+
+> United Nations General Assembly marks halftime for the SDGs
+> “The SDGs need a global rescue plan,” the U.N. chief said. He called the summit “the moment for governments to come to the table with concrete plans and proposals to accelerate progress.” Halfway to that goal, progress is lagging badly — and in some...
+
+<img src="./img/september/un.jpg"><br><br>
+
+‘We all need to step up’ to rescue the SDG’s and fight for a better future: UN chief
+
+> UN Secretary-General António Guterres on Saturday rallied a diverse cross section of civil society actors to use their passionate voices and energetic grassroots networks to “help rescue the Sustainable Development Goals (SDGs) and fight for the better future every person deserves.”
+
+---
+
+<a href="./documents/september/blog-ethereum-org-2014-08-21-introduction-futarchy.pdf" target="_blank">Futarchy</a>
+
+<a href="./documents/september/ISLKG_The_Construction_of_Island_Knowledge_Graph.pdf" target="_blank">Knowledge Graph</a>
+
+<a href="./documents/september/Kapitalizm-interesariuszy.pdf" target="_blank">Interesariusze</a>
+
+---
+
+<img src="./img/september/prezes.jpg"><br><br>
+
 ---
 
 ### 2022
