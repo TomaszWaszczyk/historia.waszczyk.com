@@ -3,7 +3,7 @@ layout: post
 title: 25 września
 image: img/september/lotnisko.jpg
 author: Tomasz Waszczyk
-date: 2021-09-25T10:00:00.000Z
+date: 2022-09-25T10:00:00.000Z
 tags:
   - Pekin-Daxing
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 👀 Novosibirsk Cryptographic Center
 
-```
+```Text
 Dear participant of the Olympiad,
 
 We are inviting you to take part in The Tenth International Olympiad in Cryptography Non-Stop University CRYPTO that will be held on October 15, 2023 (the First round) and during October 16 – October 23, 2023 (the Second round). Your login and password at the Olympiad website did not changed.If you forget login and/or password, please, use your email address to reset password at the website.Registration for both rounds of the Olympiad is open! In the attachment you can find the information letter about NSUCRYPTO’2023. Please, share it with your friends and colleagues!Recall that NSUCRYPTO is the unique cryptographic Olympiad containing scientific mathematical problems for professionals, school and university students from any country. Its aim is to involve young researchers in solving curious and tough scientific problems of modern cryptography. Every year there is about 800-1000 participants of NSUCRYPTO from more than 40 countries. Organizers and partners of the Olympiad are Cryptographic Center (Novosibirsk), Novosibirsk State University, Mathematical Center in Akademgorodok, Kovalevskaya North-West Center of Mathematical Research, KU Leuven, Southern Federal University, Demlabs, Belarusian State University, Tomsk State University, Kryptonite and Aktiv company.Good cryptographic problems and prizes are waiting for you!
@@ -103,6 +103,13 @@ Włodzimierz Cimoszewicz od 1971 r. należał do Polskiej Zjednoczonej Partii Ro
 Marian Mikołaj Cimoszewicz ur. W 1917 r. w Uljanowsku. Zamieszkały w Endrychowce pow. Wołkowysk, komunista, agent NKWD. Robotnik drogowy, w 1939 r. nie powołany do wojska polskiego - był już wówczas agentem NKWD. Po napaści Sowietów na Polskę szybko awansował. Został poborcą dostaw obowiązkowych w Wołkowysku, czyli rekwirował płody rolne na rzecz bolszewików. W początkach roku 1940 został seksotem - tajnym donosicielem komisarza NKWD, później skierowano go do Armii Czerwonej, do Szkoły Podoficerów Radiotechnicznych w Rostowie nad Donem. W czasie wojny służbę pełnił w Jednostce Specjalnej NKWD Smiersz. W 1943 r. przeszedł kurs pracowników oświatowych, czyli politycznych i przeniesiony został do Armii Berlinga. Od zakończenia wojny do 1972 r. był oficerem w organach Informacji Wojskowej i WSW. W latach 1945-46 uczestniczył w likwidacji podziemia AK. Był szefem Informacji Wojskowej w Wojskowej Akademii Technicznej w latach 1951-54. Wzbudzał powszechny strach i grozę w WAT, był gorszy od sowieckiego Komendanta WATu gen. Leoszeni który wielu Polaków- jak zeznają świadkowie, wybronił z łap „Polaka” Cimoszewicza. Aresztował pierwszego komendanta i twórcę WATu gen. Grabczyńskiego. Z jego rozkazu aresztowano też kilkunastu oficerów WATu, którzy wcześniej byli w AK. Nakazał zbudować celę pod schodami o nieludzkich warunkach, w której więził m.in. kpt. Słowika (którego żona była wówczas w ciąży) przez 11 miesięcy, przesłuchiwał go z bronią w ręku - tzw. metodą konwejera - do utraty przytomności, niszcząc go fizycznie i psychicznie. Stosował powszechnie wprowadzane przez sowietów metody: wyrzucał AK-owców z pracy, zabierał domy prawowitym właścicielom i umieszczał w nich informatorów WSI. Sam również zamieszkał w takim domu. Nie można się dziwić, że tak oddany służbie towarzysz, stał się z czasem jednym z najbardziej zaufanych i wiernych funkcjonariuszy systemu. Dla wielu szlachetnych i wiernych ojczyźnie Polaków był po prostu katem.
 
 <img src="./img/september/ciszmoszewicz.jpg"><br><br>
+
+### 1963
+
+<video width="640" height="480" controls>
+<source src="./movies/september/Eisenhower-Speaks-About-Murder-of-JFK-1963.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1939
 

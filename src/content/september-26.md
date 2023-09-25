@@ -3,10 +3,22 @@ layout: post
 title: 26 września
 image: img/september/zatrzymania.jpg
 author: Tomasz Waszczyk
-date: 2021-09-26T10:00:00.000Z
+date: 2022-09-26T10:00:00.000Z
 tags:
   - Karpathen-Öl AG
 draft: false
+---
+
+### 2023
+
+<a href="./documents/september/Saeculum_Christianum_pismo_historyczne-r2006-t13-n2-s187-214.pdf" target="_blank">Ewolucja polskiego systemu bankowego</a>
+
+<a href="./documents/september/zarys-historii-polskiej-bankowosci-centralnej-1.pdf" target="_blank">Zarys Historii Polskiej Bankowości Centralnej</a>
+
+---
+
+<img src="./img/september/iluzja.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -14,6 +26,7 @@ draft: false
 Krótka nitka o mobilizacji zawodów medycznych w Rosji
 
 Powołanie odbywa się na dwa sposoby:
+
 1) w nocy przychodzą do domu i dają 10-30 minut na spakowanie się
 2) przychodzą do pracy i biorą od ręki w kamasze
 

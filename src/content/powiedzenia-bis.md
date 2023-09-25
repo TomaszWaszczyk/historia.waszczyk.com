@@ -8,6 +8,8 @@ date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
+<img src="./img/others/powiedzenia/homepage.jpg"><br><br>
+
 > Ludzie wolni są braćmi
 
 > Poznacie prawdę a prawda was wyzwoli- Ewangelia Jana 8:32
