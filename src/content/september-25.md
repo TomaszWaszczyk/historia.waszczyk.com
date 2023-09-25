@@ -8,6 +8,52 @@ tags:
   - Pekin-Daxing
 draft: false
 ---
+<!-- https://resources.waszczyk.com/historia-waszczyk-com/jaroszynski.mp4 -->
+
+### 2023
+
+👀 Novosibirsk Cryptographic Center
+
+```
+Dear participant of the Olympiad,
+
+We are inviting you to take part in The Tenth International Olympiad in Cryptography Non-Stop University CRYPTO that will be held on October 15, 2023 (the First round) and during October 16 – October 23, 2023 (the Second round). Your login and password at the Olympiad website did not changed.If you forget login and/or password, please, use your email address to reset password at the website.Registration for both rounds of the Olympiad is open! In the attachment you can find the information letter about NSUCRYPTO’2023. Please, share it with your friends and colleagues!Recall that NSUCRYPTO is the unique cryptographic Olympiad containing scientific mathematical problems for professionals, school and university students from any country. Its aim is to involve young researchers in solving curious and tough scientific problems of modern cryptography. Every year there is about 800-1000 participants of NSUCRYPTO from more than 40 countries. Organizers and partners of the Olympiad are Cryptographic Center (Novosibirsk), Novosibirsk State University, Mathematical Center in Akademgorodok, Kovalevskaya North-West Center of Mathematical Research, KU Leuven, Southern Federal University, Demlabs, Belarusian State University, Tomsk State University, Kryptonite and Aktiv company.Good cryptographic problems and prizes are waiting for you!
+
+Best regards,
+NSUCRYPTO team
+```
+
+🧐 <a href="./documents/september/NSUCRYPTO-2023-Information-letter.pdf" target="_blank">NSUCRYPTO 2023</a>
+
+---
+
+<a href="./documents/september/Wybrakowany-potencjal-Deficyty-w-polskim-kapitale-spolecznym-i-patriotyzmie-gospodarczym-raport.pdf" target="_blank">Deficyt w Polsce</a>
+
+---
+
+<a href="./documents/september/credit-cycle.pdf" target="_blank">Credit Cycle</a>
+
+<a href="./documents/september/_Figure17pdf.pdf" target="_blank">Cycle</a>
+
+---
+
+<img src="./img/september/papiez-franciszek.jpg"><br><br>
+
+---
+
+Cykl pracy "rekruterczyni":
+
+<img src="./img/september/rekruterki.jpg"><br><br>
+
+---
+
+<img src="./img/september/ceny-miesa.jpg"><br><br>
+
+<img src="./img/september/vcs.jpeg"><br><br>
+
+<img src="./img/september/shortest-path.jpg"><br><br>
+
+---
 
 ### 2022
 

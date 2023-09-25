@@ -17,6 +17,10 @@ Your browser does not support the video tag.
 
 ---
 
+Mazowiecki i Warszawski Fundusz Filmowy dofinansował film Agnieszki Holland "Zielona granica" w wysokości 300 tys. zł — powiedział w piątek w TVN 24 wiceprzewodniczący PO, prezydent Warszawy Rafał Trzaskowski. Jak ocenił, jest to niewielka kwota.
+
+---
+
 ### 2022
 
 In the land of bitcoin payments, a bitcoin-based nation would be prone to recessions every time consumers wanted to HODL bitcoin, hence its a good thing bitcoin is not a means of payment; but rather a means for bitcoin speculation...

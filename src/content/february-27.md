@@ -29,6 +29,10 @@ Możliwe, że USA rozwija patogeny na Ukrainie w Odessie i teraz amerykanie boj�
 
 > Cari fratelli massoni
 
+### 2014
+
+> "There is no national security without cybersecurity, and there is no modernization without informatization" - President Xi Jinping
+
 ### 1987
 
 Prawdopodobnie zamordowany: https://pl.wikipedia.org/wiki/Franciszek_Blachnicki

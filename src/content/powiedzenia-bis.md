@@ -186,6 +186,16 @@ Europa to stara dziewica która by chciała, ale nie chciała.
 
 memoria fragilis est
 
+W dzisiejszym świecie kapitał wynajmuje władze polityczne - forma wynajmuje nazywa się wybory.
+
+„Pierwszym panaceum na źle zarządzany naród jest inflacja waluty; drugim jest wojna. Obydwa przynoszą tymczasowy dobrobyt; oba przynoszą trwałą ruinę. Ale oba są schronieniem dla oportunistów politycznych i gospodarczych”.
+- Ernest Hemingway (1899-1961)
+
+"The first panacea for a mismanaged nation is inflation of the currency; the second is war. Both bring a temporary prosperity; both bring a permanent ruin. But both are the refuge of political and economic opportunists."
+- Ernest Hemingway (1899-1961)
+
+"There is no national security without cybersecurity, and there is no modernization without informatization" - President Xi Jinping
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
