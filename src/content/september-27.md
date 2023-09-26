@@ -3,11 +3,42 @@ layout: post
 title: 27 września
 image: img/september/europe600.png
 author: Tomasz Waszczyk
-date: 2021-09-27T10:00:00.000Z
+date: 2022-09-27T10:00:00.000Z
 tags:
   - STOXX Europe 600 Banks
 draft: false
 ---
+
+### 2023
+
+> W sobotę 23 września przebywający z wizytą w Kanadzie prezydent Ukrainy Wołodymyr Zełenski spotkał się w Toronto z tamtejszą społecznością ukraińską. Towarzyszył mu premier Kanady Justin Trudeau i przedstawiciele kanadyjskich władz.
+
+Uhonorowano i wiwatowano na cześć ukraińsko-kanadyjskiego zbrodniarza wojennego Jarosława Hunka służącego w 14 Dywizji Grenadierów Waffen SS-Galizien.
+
+<img src="./img/september/Wolodymyr-Zelenski-w-Toronto.jpg"><br><br>
+
+---
+
+> Naukowcy wieszczą kolejną pandemię. Jakie skutki może nieść "choroba X"?
+> Naukowcy nie mają dobrych wiadomości. Brytyjscy eksperci wieszczą, że kolejna — jeszcze groźniejsza — pandemia, jest naprawdę blisko. Co gorsza, przestrzegają, że nieznana jeszcze choroba może zabić nawet 50 mln osób.
+
+---
+
+> W uznaniu zasług w pogłębianiu stosunków między Polską a Ukrainą, za działalność na rzecz bezpieczeństwa, niezłomność w obronie praw człowieka prezydent Ukrainy Wołodymyr Zełenski został w środę odznaczony Orderem Orła Białego - poinformowała Kancelaria Prezydenta RP. (5 kwi 2023)
+
+---
+
+```text
+Czy świat musi być podzielony na państwa? Trudno to sobie wyobrazić inaczej, gdyż nawet konferencje episkopatów są powoływane przez papieża w granicach wyznaczonych przez państwa. Zmiana granic państwowych pociąga za sobą zmianę granic episkopatów.  
+Ale są także komisje, które wyłamują się z tego schematu. Jest Komisja Konferencji Biskupów Unii Europejskiej (COMECE), która składa się z biskupów delegowanych przez 25 konferencji poszczególnych krajów w Europie. 
+Papież Franciszek proponuje jeszcze coś nowego. COMECE została utworzona po powstaniu UE. Tymczasem w Marsylii Franciszek rzucił pomysł, aby zastanowić się "nad stosownością utworzenia Konferencji Biskupów Śródziemnomorskich". Pomysł ten przekracza dotychczasowe polityczne rozwiązania.  
+To dobry pomysł. Konferencje są po to, aby ułatwić pracę duszpasterską w granicach danego państwa, ale nie muszą istnieć w granicach wyznaczonych przez państwa. Kościół musi być czytelnym znakiem dla świata, że ma swoje cele, które nie ograniczają się do ziemskiego wymiaru.
+"Pojadę do Marsylii, ale nie do Francji". Teraz te słowa Franciszka nabierają innego znaczenia. 
+```
+
+---
+
+<img src="./img/september/epx.jpg"><br><br>
 
 ### 2022
 

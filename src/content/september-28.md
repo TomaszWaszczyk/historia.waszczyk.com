@@ -3,10 +3,36 @@ layout: post
 title: 28 września
 image: img/september/churchill.jpg
 author: Tomasz Waszczyk
-date: 2021-09-28T10:00:00.000Z
+date: 2022-09-28T10:00:00.000Z
 tags:
   - Rosja
 draft: false
+---
+
+### 2023
+
+体系对抗 is the modern battlefield of systems confrontation. Chew on this: Acquisition is a system. Winning on the battlefield requires comprehensive dominance across all of our interconnected systems, and that means dominating in acquiring and fielding the right technology at the right time.
+
+When America's new Generals / Flag Officers report for their NDU CAPSTONE training in 2024 (mandated by the Goldwater-Nichols DoD Reorganization Act of 1986), they will be consuming this overview on Systems Destruction Warfare.
+
+While it's required reading for them, it ought to be worthy reading for you.
+
+You would be wise to get a head start on reading about 体系对抗 before it's too late to deploy this knowledge to propel America's own unfair advantage against our adversaries...
+
+I'm glad that I've grown up recognizing patterns differently as a systems thinker, and I know where I'm doubling down when given the opportunity to dominate.
+
+体系破击战
+我们会做好准备
+
+<a href="./documents/september/new-destruction-systems.pdf" target="_blank">体系对抗 </a>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/september/VitalikButerinWhatWillETHBeLikein10Years.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022
