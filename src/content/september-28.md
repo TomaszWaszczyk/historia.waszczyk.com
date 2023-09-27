@@ -22,10 +22,12 @@ You would be wise to get a head start on reading about 体系对抗 before it's 
 I'm glad that I've grown up recognizing patterns differently as a systems thinker, and I know where I'm doubling down when given the opportunity to dominate.
 
 体系破击战
+
 我们会做好准备
 
 <a href="./documents/september/new-destruction-systems.pdf" target="_blank">体系对抗 </a>
-
+<!-- <img src="./img/september/kijosaki.jpg"><br><br> -->
+<!-- <img src="./img/september/pensja-minimalna.jpeg"><br><br> -->
 ---
 
 <video width="640" height="480" controls>

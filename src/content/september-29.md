@@ -3,11 +3,17 @@ layout: post
 title: 29 września
 image: img/september/kurek.jpg
 author: Tomasz Waszczyk
-date: 2021-09-29T10:00:00.000Z
+date: 2022-09-29T10:00:00.000Z
 tags:
   - Sonda
 draft: false
 ---
+
+### 2023
+
+<a href="./documents/september/niemojewski.pdf" target="_blank">Niemojewski</a>
+
+<a href="./documents/september/Raport epidemia_sniadanie-prasowe.pdf" target="_blank">Następne</a>
 
 ### 2022
 

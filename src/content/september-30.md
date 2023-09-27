@@ -3,10 +3,30 @@ layout: post
 title: 30 września
 image: img/september/wsi.jpg
 author: Tomasz Waszczyk
-date: 2021-09-30T10:00:00.000Z
+date: 2022-09-30T10:00:00.000Z
 tags:
   - WSI
 ---
+
+### 2023
+
+```text
+Dzięki NBP Polska jest na dobrej drodze. Ceny nie rosną już od pięciu miesięcy, mimo wojny trwającej za wschodnią granicą i negatywnych wpływów z zagranicy. Główny Urząd Statystyczny podał, że w kwietniu 2023 r. wskaźnik cen towarów i usług konsumpcyjnych wyniósł 0,7 proc. w porównaniu do poprzedniego miesiąca, w maju i czerwcu nie zmienił się, w lipcu spadł o 0,2 proc., a w sierpniu – w porównaniu do poprzedniego miesiąca – ponownie utrzymał się na tym samym poziomie.
+
+Mamy ogromny sukces, […] skończyliśmy z grozą inflacji – ogłosił prof. Adam Glapiński, Prezes NBP, podczas konferencji prasowej we wrześniu 2023 r.
+```
+
+<video width="640" height="480" controls>
+<source src="./movies/september/Polska-jest-na-dobrej-drodze.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/september/linux.jpg"><br><br>
+
+---
+
 ### 2022
 
 > systemowo ważny
