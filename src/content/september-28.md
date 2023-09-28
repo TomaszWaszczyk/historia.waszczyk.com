@@ -95,6 +95,12 @@ Skapitulowała Warszawa. Akt kapitulacji stolicy został podpisany przez genera�
 
 <img src="./img/september/kapitulacja.jpg"/><br><br>
 
+### 1933
+
+Ukraina
+
+<img src="./img/september/ukraina-1932-1933.jpg"><br><br>
+
 ### 1878
 
 W jednej z sal krakowskiego Urzędu Miasta po raz pierwszy zaprezentowany został obraz Jana Matejki "Bitwa pod Grunwaldem".

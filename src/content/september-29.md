@@ -11,6 +11,17 @@ draft: false
 
 ### 2023
 
+> Biuro Prasowe ORLEN: Dostawy paliw na stacje ORLEN przebiegają bez zakłóceń.
+
+<video width="640" height="480" controls>
+<source src="./movies/september/orlen.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Na dystrybutorach części stacji Orlenu w czwartek wieczorem i piątek pojawiły się informacje o "chwilowym braku paliwa". "W ostatnich dniach odnotowaliśmy zwiększony popyt, co miało związek z końcem letniej promocji cenowej" - poinformował koncern w odpowiedzi przesłanej TVN24 Biznes. Jednocześnie Orlen zapewnił, że paliwo na stacje "jest dostarczane na bieżąco i nie ma powodu do obaw, że go zabraknie".
+
+---
+
 <a href="./documents/september/niemojewski.pdf" target="_blank">Niemojewski</a>
 
 <a href="./documents/september/Raport epidemia_sniadanie-prasowe.pdf" target="_blank">Następne</a>

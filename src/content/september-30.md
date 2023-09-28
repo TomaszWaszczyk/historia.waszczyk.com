@@ -10,6 +10,13 @@ tags:
 
 ### 2023
 
+<video width="640" height="480" controls>
+<source src="./movies/september/nik.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ```text
 Dzięki NBP Polska jest na dobrej drodze. Ceny nie rosną już od pięciu miesięcy, mimo wojny trwającej za wschodnią granicą i negatywnych wpływów z zagranicy. Główny Urząd Statystyczny podał, że w kwietniu 2023 r. wskaźnik cen towarów i usług konsumpcyjnych wyniósł 0,7 proc. w porównaniu do poprzedniego miesiąca, w maju i czerwcu nie zmienił się, w lipcu spadł o 0,2 proc., a w sierpniu – w porównaniu do poprzedniego miesiąca – ponownie utrzymał się na tym samym poziomie.
 
@@ -24,6 +31,14 @@ Your browser does not support the video tag.
 ---
 
 <img src="./img/september/linux.jpg"><br><br>
+
+---
+
+<a href="./documents/september/Rok_1863_odczyt_wyg_oszony_d_20_I_1924_w_Warszawie.pdf" target="_blank">1863</a>
+
+---
+
+<img src="./img/september/IMG_0135.JPEG"><br><br>
 
 ---
 
