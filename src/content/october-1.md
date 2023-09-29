@@ -3,9 +3,32 @@ layout: post
 title: 1 października
 image: img/october/sopot.jpg
 author: Tomasz Waszczyk
-date: 2021-10-01T10:00:00.000Z
+date: 2022-10-01T10:00:00.000Z
 tags:
   - Sopot
+---
+
+### 2023
+
+<img src="./img/september/Nokturn.jpeg"><br><br>
+
+```text
+Jerzy Szelągowski - Nokturn (gwasz na papierze, 35 x 24,7 cm), 1961
+```
+
+---
+
+<img src="./img/october/l2.jpeg"><br><br>
+
+---
+
+> Ayn Rand, anarchokapitalizm (ultra-radykalny)
+
+<a href="./documents/october/Koncepcja-panstwa-miniumum-ayn-rand.pdf" target="_blank">Koncepcja państwa minimum Ayn Rand</a>
+
+<a href="./documents/october/PFiloz1-189-SDrelich.pdf" target="_blank">Rozum i racjonalność
+w filozofii politycznej Ayn Rand</a>
+
 ---
 
 ### 2022

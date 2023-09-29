@@ -3,9 +3,27 @@ layout: post
 title: 2 października
 image: img/october/getto.jpg
 author: Tomasz Waszczyk
-date: 2021-10-02T10:00:00.000Z
+date: 2022-10-02T10:00:00.000Z
 tags:
   - Polenaktion
+---
+
+### 2023
+
+<img src="./img/october/asi.jpg"><br><br>
+
+<img src="./img/october/nadzor.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/ant.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./music/pali-sie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2009
