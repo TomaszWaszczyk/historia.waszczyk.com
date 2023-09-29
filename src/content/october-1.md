@@ -10,11 +10,17 @@ tags:
 
 ### 2023
 
-<img src="./img/september/Nokturn.jpeg"><br><br>
+<img src="./img/october/Nokturn.jpeg"><br><br>
 
 ```text
 Jerzy Szelągowski - Nokturn (gwasz na papierze, 35 x 24,7 cm), 1961
 ```
+
+---
+
+<img src="./img/october/inflacja.jpg"><br><br>
+
+<img src="./img/october/upadek.jpeg"><br><br>
 
 ---
 
