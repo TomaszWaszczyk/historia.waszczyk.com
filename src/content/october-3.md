@@ -3,9 +3,22 @@ layout: post
 title: 3 października
 image: img/october/mur.jpg
 author: Tomasz Waszczyk
-date: 2021-10-03T10:00:00.000Z
+date: 2022-10-03T10:00:00.000Z
 tags:
   - V2
+---
+
+### 2023
+
+<img src="./img/october/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/jozwiak.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/october/mieso.jpeg"><br><br>
+
 ---
 
 ### 2022
