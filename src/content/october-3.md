@@ -23,7 +23,7 @@ Your browser does not support the video tag.
 
 ### 2022
 
-<a href="./documents/october/vanished.pdf" target="_blank"></a>
+<a href="./documents/october/vanished.pdf" target="_blank">Millions in Cryptocurrency Vanished as Agents Watched Helplessly</a>
 
 ### 1996
 

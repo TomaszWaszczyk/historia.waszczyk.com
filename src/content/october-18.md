@@ -8,6 +8,20 @@ tags:
   - Gospodarka
 ---
 
+### 2023
+
+The Nazis invaded Mariupol on October 8, 1941. They faced resistance from the Soviet troops and local partisans; but it was eventually captured. Oleksandr Malynovskyi; a Ukrainian nationalist leader who cooperated with the Nazis was appointed as the mayor of Mariupol.
+
+The Red Army broke through the Nazi defenses and managed to capture most of the city by September 10, 1943, and declared it liberated.
+
+During the Nazi occupation; On October 18 1941, most of the Jews of Mariupol were executed by members of the Sonderkommando 10a, part of the Einsatzgruppe D unit, under the command of Heinz Seetzen with the help of (Ukrainische Hilfspolizei)  Ukrainian auxiliary police. 
+
+Jews were then taken to anti-tank trenches 7-10 kilometers from the city, near the Agrobaza (agricultural station) of the Perovsky sovkhoz. There they were forced to undress and sit on the edge of the trenches, where they were shot with machine guns. According to the sources, the number of victims were at least 8,000 . Later, Jewish women married to non-Jewish men were killed at the same site, together with their children.
+
+This is a picture  of Vanda Semyonovna Obiedkova;  one of the very few survivors of the Mariupol masscare of 1941  who froze to death on 4 April sheltering in her basement from Russian shelling during the attack on Mariupol in 2022 .
+
+<img src="./img/october/vanda.jpeg"><br><br>
+
 ### 2022
 
 <img src="./img/october/dislike.jpeg"><br><br>

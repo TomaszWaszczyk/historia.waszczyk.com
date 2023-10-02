@@ -3,9 +3,23 @@ layout: post
 title: 4 października
 image: img/october/haller.jpg
 author: Tomasz Waszczyk
-date: 2021-10-04T10:00:00.000Z
+date: 2022-10-04T10:00:00.000Z
 tags:
   - Rembrandt
+---
+
+### 2023
+
+<a href="./documents/october/DEPUTY-SECRETARY-OF-DEFENSE-MEMO-POTENTIAL-FOR-LAPSE-IN-FUNDING.PDF" target="_blank">DEPUTY-SECRETARY-OF-DEFENSE-MEMO-POTENTIAL-FOR-LAPSE-IN-FUNDING</a>
+
+---
+
+> ..next seismic shift..
+
+<img src="./img/october/takze-tak.jpeg"><br><br>
+
+GPT4
+
 ---
 
 ### 2022

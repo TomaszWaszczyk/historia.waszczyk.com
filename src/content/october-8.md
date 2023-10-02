@@ -3,9 +3,21 @@ layout: post
 title: 8 października
 image: img/october/malczewski.jpg
 author: Tomasz Waszczyk
-date: 2021-10-08T10:00:00.000Z
+date: 2022-10-08T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2023
+
+<img src="./img/october/esg.jpg"><br><br>
+
+<a href="./documents/october/meadows_ltg-001.pdf" target="_blank">Limits</a>
+
+> Idiokracja na żywo
+
+<img src="./img/october/idiokracja-za-zywo.jpg"><br><br>
+
 ---
 
 ### 2022
@@ -47,6 +59,28 @@ będzie formą ogólnonarodowego referendum, w którym społeczeństwo polskie w
 przeciw polityce represji, przeciw zniewoleniu
 narodu, przeciw postępującej nędzy
 społeczeństwa, przeciw 37 latom katastrofalnej polityki społecznej i gospodarczej. Łamanie solidarnego bojkotu jest zdradą ideałów niezależnego ruchu związkowego. Będzie to pierwsze w dziejach PRL referendum, którego rządzący nie będą w stanie sfałszować".
+
+### 1944
+
+Stephan Bandera apologists say that OUN only collaborated with the Nazis to fight the Soviets, but it's an absolute lie! I am going to tell you how the Ukrainian Insurgent Army collaborated with both Nazis and the Soviets to massacre the Poles.
+
+Operation Tempest was a large-scale uprising of the Polish underground against the Germans in 1944, aiming to liberate Poland before the arrival of the Soviet forces.
+
+The Ukrainian Insurgent Army (UPA) sabotaged this operation by:
+
+Collaborating with the Nazis to fight against the Polish Home Army (AK), which was loyal to the government-in-exile. The UPA received weapons, ammunition, and supplies from the Germans in exchange for intelligence and military assistance.
+
+Continuing to massacre Poles in Eastern Galicia, where the AK had formed the 27th Infantry Division to defend itself. The UPA attacked about 150 villages, murdering the minority Polish population with extreme brutality, often using axes, knives, and pitchforks.
+
+They did this to force the Polish Home Army to defend villages to the east against Ukrainians instead of fighting Nazis
+
+It Weakened the Polish resistance and facilitated the Soviet occupation of Poland after the war. The UPA's actions divided and demoralized the Polish underground, making it easier for the Soviets to crush it and impose a communist regime.
+
+The UPA's sabotage of Operation Tempest was part of its ethnic cleansing campaign to create a Greater Ukraine free of non-Ukrainians.
+
+The picture you see is from Polish Home Army partisans who fearlessly fought German and Ukrainian Nazis.
+
+<img src="./img/october/bandera.jpeg"><br><br>
 
 ### 1939
 

@@ -8,6 +8,12 @@ tags:
   - 0x - Wigilia 2020 - China - Japan
 ---
 
+### 2023
+
+<a href="./documents/december/Kazania-ksiedza-Stokowego.pdf" target="_blank">Kazania księdza Stokowego</a>
+
+---
+
 ### 2021
 
 Były premier Francji Francois Fillon dołączył do zarządu największego rosyjskiego koncernu petrochemicznego Sibur – podała spółka w komunikacie.

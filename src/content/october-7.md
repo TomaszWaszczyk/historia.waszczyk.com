@@ -3,11 +3,15 @@ layout: post
 title: 7 października
 image: img/october/ausweiss.jpg
 author: Tomasz Waszczyk
-date: 2021-10-07T10:00:00.000Z
+date: 2022-10-07T10:00:00.000Z
 tags:
   - Ovadia Yosef
 draft: false
 ---
+
+### 2023
+
+<img src="./img/october/drzewa.jpg"><br><br>
 
 ### 2022
 

@@ -3,10 +3,40 @@ layout: post
 title: 6 października
 image: img/october/lawki.jpg
 author: Tomasz Waszczyk
-date: 2021-10-06T10:00:00.000Z
+date: 2022-10-06T10:00:00.000Z
 tags:
   - Ławki
 draft: false
+---
+
+### 2023
+
+<img src="./img/october/Albert-Bierstadt.jpg"><br><br>
+
+```Sunset over river valley, 1887 by Albert Bierstadt```
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/october/BankructwoPolski2024.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/JakPolska-ma-splacic-miliardy-dlugu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/october/awaria.jpg"><br><br>
+
+<a href="./documents/october/Emisja_pieniądza_Alternatywne_systemy_monetarne.KPMG.pdf" target="_blank">Alternatywna emisja</a>
+
+> wstęp do ultraliberalizmu
+
+<a href="./documents/october/Raport-Ile-moge-zarabiac.pdf" target="_blank">Raport-Ile-moge-zarabiac.pdf</a>
+
+<a href="./documents/october/Zalacznik-do-raportu-Ile-moge-zarabiac.pdf" target="_blank">Zalacznik-do-raportu-Ile-moge-zarabiac.pdf</a>
+
 ---
 
 ### 2022
@@ -31,6 +61,23 @@ Stopa referencyjna NBP w górę, zmiana z 0,1% do 0,5%
 
 <video width="640" height="480" controls>
 <source src="./movies/october/neonowkachleb.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### 1994
+
+"History has shown that the peasant class in ancient days when they has revolted were easily crushed. There was no resistance but now had grown a super class of people in the United States, called the Middle class, who had long term employment, job security, who were well paid, and the Club of Rome Zero Growth paper said, this has got to stop, of the United States. The way we will do this, the way we will accomplish this is by crushing their industries."
+
+Was former intelligence agent, John Coleman correct? He made this speech in 1994.
+
+Is it money that gives people the courage to revolt against oppression? I would argue that while financial independence is somewhat important, not fearing death or imprisonment, gives you the courage to defend yourself and others.
+
+Wealth in itself does not mean one is free. The difference between having an internal locus of control and external. One who is free within, no matter what their financial circumstances, will find a way to overcome 💪, especially in the face of great harm.
+
+"Internal locus of control means that control comes from within. You have personal control over your own behavior. When you have an internal locus of control, you believe you have personal agency over your own life and actions."
+
+<video width="640" height="480" controls>
+<source src="./movies/october/john-colemann.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
