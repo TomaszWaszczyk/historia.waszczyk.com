@@ -70,6 +70,10 @@ Oczywiscie, ze tak, bo zwieksza tu ryzyko zmiennosci.
 A tak sie sklada, ze w naszym regionie najwiekszym i najbardziej plynnym rynkiem walutowym jest rynek zlotego.
 Czy ktos z polskich politykow zarzekajacych sie na wyprzodki, ze nam sie do euro nie spieszy, ze nam ze zlotym doskonale, ma w ogole na uwadze rosnace ryzyko takich deklaracji?
 
+### 2015
+
+> Zgodnie z nową regulacją Sejmu RP, dźwignia rachunków polskich inwestorów zostanie ograniczona do 100:1. W wyniku tego dźwignia Twojego rachunku inwestycyjnego AAAFx zostanie ograniczona do 100:1 po zamknięciu rynku w piątek, 10 lipca 2015.
+
 ### 1992
 
 Hanna Suchocka uzyskała poparcie Sejmu, obejmując urząd Prezesa Rady Ministrów, a już dzień później Sejm powołał jej koalicyjny rząd, który tworzyło siedem partii o charakterze centrowym i prawicowym w skład których wchodziły: Unia Demokratyczna, KLD, ZChN, PPG, SLCh, PChD i PSL-PL. Gabinet nowej Pani premier uzyskał również poparcie m.in. posłów NSZZ „Solidarność” oraz Mniejszości Niemieckiej. Rząd został odwołany przewagą jednego głosu 28 maja 1993 w wyniku tzw. niekonstruktywnego wotum nieufności zgłoszonego przez Alojzego Pietrzyka z NSZZ „S”. Funkcję premiera RP Hanna Suchocka sprawowała do października 1993. Była pierwszą w historii kobietą sprawującą urząd premiera RP, a drugą w regionie (po Kazimierze Prunskienė). Jej rząd przyczynił się do opracowania Programu Powszechnej Prywatyzacji, reformy samorządowej, która zakładała m.in. wprowadzenie powiatów i dużych województw, ustawę o restrukturyzacji finansowej przedsiębiorstw i banków, a także wynegocjował Pakt o Przedsiębiorstwie Państwowym w Trakcie Przekształcania.

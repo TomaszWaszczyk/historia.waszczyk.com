@@ -3,10 +3,14 @@ layout: post
 title: 11 października
 image: img/october/gierkowa.jpg
 author: Tomasz Waszczyk
-date: 2021-10-11T10:00:00.000Z
+date: 2022-10-11T10:00:00.000Z
 tags:
   - Gierek
 ---
+
+### 2023
+
+<img src="./img/october/stay-leave.jpg"><br><br>
 
 ### 2022
 

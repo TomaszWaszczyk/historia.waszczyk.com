@@ -3,9 +3,39 @@ layout: post
 title: 10 października
 image: img/october/MisesLibrary.jpg
 author: Tomasz Waszczyk
-date: 2020-10-10T10:00:00.000Z
+date: 2022-10-10T10:00:00.000Z
 tags:
   - Mises
+---
+
+### 2023
+
+> Premier mówi, że za cztery lata średnie wynagrodzenie w Polsce wynosić będzie 10 tys. złotych miesięcznie.
+
+---
+
+> Tusk obraża i dzieli Polaków! Tylko Prawo i Sprawiedliwość może go powstrzymać! - Mateusz Morawiecki
+
+<img src="./img/october/morawiecki-pis.jpg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/afera.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/october/powell.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/october/inflation-is-tax.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/october/vaccine.jpeg"><br><br>
+
 ---
 
 ### 2020
@@ -53,6 +83,13 @@ Turecka inwazja na syryjski Kurdystan będzie miała poważne skutki międzynaro
 - bardzo wzrośnie presja na Unię Europejską, aby wzięła część odpowiedzialności za ustabilizowanie sytuacji; na szali m.in. kolejna fala - czy raczej fale - uchodźców z terenu Turcji, tych obecnych i być może przyszłych, których w razie niezadowalającej dla siebie treści i formy tego zaangażowania UE prezydent Erdogan może częściowo skierować za zachód, zamiast do syryjskiej Rożawy (znów wątek polski w tle)
 - jeśli amerykańskie wycofanie militarne z regionu okaże się trwałe - a coraz więcej wskazuje, że tak - czeka go zapewne nowa fala konfliktów i chaosu; nie zdziwiłbym się gdyby za jakiś czas odrodziło się Państwo Islamskie lub inna, nowa forma wysoce zorganizowanego terroryzmu spod znaku radykalnego islamu.
 Historia dzieje się teraz. I zaraz.
+
+### 2010
+
+<video width="640" height="480" controls>
+<source src="./movies/october/Global-Warming-The-Other-Side-2010.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1984
 
