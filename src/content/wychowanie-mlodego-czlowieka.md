@@ -502,6 +502,15 @@ Niech Pan nam wszystkim pomoże kroczyć śladami Jezusa w tym bardzo ważnym ob
 
 <img src="./img/wychowanie-mlodego-czlowieka/economy.jpg"><br><br>
 
+<!-- 87% of children have detectable levels of the ubiquitous and toxic herbicide glyphosate in their urine according to a recent study.😳
+
+"The presence of glyphosate in food is the result of the herbicide being used as a pre-harvest drying agent, or desiccant, so crops like oats can be harvested sooner than if the plant were allowed to die naturally. This allows easier harvesting but also increases the likelihood that the pesticide makes it into foods and makes it into our bodies."
+
+“Glyphosate is the most widely used herbicide in the country, yet until now we had very little data on exposure,” said Alexis Temkin, Ph.D., EWG toxicologist. “Children in the U.S. are regularly exposed to this cancer-causing weedkiller through the food they eat virtually every day.”
+“The Environmental Protection Agency should take concrete regulatory action to dramatically lower the levels of glyphosate in the food supply and protect children’s health,” said Temkin
+
+In Australia, they love using this pesticide in playgrounds, public spaces and gardens and workers spray it with no protection, even wearing shorts, as though it were water. 🙄 -->
+
 <!-- Nie rób z dziecka "niezdary", czyli lista domowych obowiązków dopasowanych do wieku:
 3 lata
 - zbieranie swoich zabawek

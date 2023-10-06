@@ -198,6 +198,8 @@ W dzisiejszym świecie kapitał wynajmuje władze polityczne - forma wynajmuje n
 
 "There is no national security without cybersecurity, and there is no modernization without informatization" - President Xi Jinping
 
+Believe what you see, not what you’re told
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
