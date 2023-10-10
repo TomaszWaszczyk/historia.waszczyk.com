@@ -27,6 +27,7 @@
     "gatsby-plugin-emotion": "4.1.22",
     "gatsby-plugin-feed": "2.13.1",
     "gatsby-plugin-google-analytics": "2.11.0",
+    "gatsby-plugin-google-gtag": "^4.0.0",
     "gatsby-plugin-postcss": "2.3.13",
     "gatsby-plugin-react-helmet": "3.10.0",
     "gatsby-plugin-sharp": "^2.1.6",
@@ -75,9 +76,9 @@
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
+    "gatsby-plugin-goatcounter": "^0.4.0",
     "rimraf": "4.1.2",
-    "typescript": "4.9.5",
-    "gatsby-plugin-goatcounter": "^0.4.0"
+    "typescript": "4.9.5"
   },
   "engines": {
     "node": ">=16.17.0"
