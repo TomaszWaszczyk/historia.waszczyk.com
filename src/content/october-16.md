@@ -15,7 +15,7 @@ draft: false
 
 <img src="./img/octoboer/hell.jpg"><br><br>
 
-<a href="./documents/octoboer/c.pdf" target="_blank">C by Richard Stallman</a>
+<a href="./documents/october/c.pdf" target="_blank">C by Richard Stallman</a>
 
 ---
 
