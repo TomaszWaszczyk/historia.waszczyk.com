@@ -13,7 +13,7 @@ draft: false
 
 <img src="./img/october/soul.jpg"><br><br>
 
-<img src="./img/octoboer/hell.jpg"><br><br>
+<img src="./img/october/hell.jpg"><br><br>
 
 <a href="./documents/october/c.pdf" target="_blank">C by Richard Stallman</a>
 
