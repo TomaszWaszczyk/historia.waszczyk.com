@@ -3,10 +3,16 @@ layout: post
 title: 14 października
 image: img/october/ws-1907.png
 author: Tomasz Waszczyk
-date: 2021-10-14T10:00:00.000Z
+date: 2022-10-14T10:00:00.000Z
 tags:
   - Bundesbank
 ---
+
+### 2023
+
+<img src="./img/october/morawiecki-bezpieczny.jpg"><br><br>
+
+<img src="./img/october/pge.jpg"><br><br>
 
 ### 2022
 

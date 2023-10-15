@@ -3,11 +3,15 @@ layout: post
 title: 15 października
 image: img/october/btccompanies.jpeg
 author: Tomasz Waszczyk
-date: 2021-10-15T10:00:00.000Z
+date: 2022-10-15T10:00:00.000Z
 tags:
   - Hutnictwo
 draft: false
 ---
+
+### 2023
+
+<img src="./img/october/berlin.jpg"><br><br>
 
 ### 2022
 
