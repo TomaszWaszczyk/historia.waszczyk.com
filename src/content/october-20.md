@@ -3,7 +3,7 @@ layout: post
 title: 20 października
 image: img/october/lwow.jpg
 author: Tomasz Waszczyk
-date: 2021-10-20T10:00:00.000Z
+date: 2022-10-20T10:00:00.000Z
 tags:
   - Banki
 draft: false
@@ -132,6 +132,20 @@ Nie można wyemitować ile się chce i trochę trzeba pożyczyć. Długu ponoć 
 Niektórzy w nie do końca transparentnym trybie otrzymali wyemitowane z niczego przez banki centralne pieniądze; muszą coś z nimi zrobić – kupić jakieś aktywa. To lepsze od trzymania ich w banku na ujemnych stopach procentowych.
 O długu parę rzeczy trzeba wiedzieć. A dokładniej pięć: od kogo się pożycza, w jakiej walucie, jak dużo, jak szybko zwiększa się zadłużenie i w jakim celu. Dług wewnętrzny nie jest tak groźny jak zagraniczny – własnych obywateli łatwiej oszukać.
 Żeby dług obsługiwać, czyli płacić odsetki, trzeba mieć na odsetki. Kiedy jest deficyt, to dług trzeba „rolować", czyli zaciągać nowy na odsetki od starego. Jak szybko się dług powiększa, wierzyciele mogą się bać pożyczać. Wtedy trzeba zacząć spłacać dług.
+
+---
+
+### 2018
+
+<img src="./img/october/P1120029.JPG"><br><br>
+
+<img src="./img/october/P1120040.JPG"><br><br>
+
+<img src="./img/october/P1120043.JPG"><br><br>
+
+<img src="./img/october/P1120047.JPG"><br><br>
+
+<img src="./img/october/P1120048.JPG"><br><br>
 
 ---
 
