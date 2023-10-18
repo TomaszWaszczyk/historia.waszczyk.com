@@ -3,11 +3,21 @@ layout: post
 title: 17 października
 image: img/october/krasiczyn.jpg
 author: Tomasz Waszczyk
-date: 2021-10-17T10:00:00.000Z
+date: 2022-10-17T10:00:00.000Z
 tags:
   - Komunizm
 draft: false
 ---
+
+### 2023
+
+> Retail investors have a surprising new favourite: Treasury billsRetail investors have a surprising new favourite: Treasury bills
+
+<img src="./img/octoboer/treasury.png"><br><br>
+
+> When treasury bonds (or t-bills) last yielded as much as they do today—5.5%—punters were relieved that the world had not been destroyed by the millennium bug, Destiny’s Child were atop the charts and the dotcom bubble was going strong. The recent surge in yields has been remarkable (see chart).
+
+<img src="./img/octoboer/bill.png"><br><br>
 
 ### 2022
 

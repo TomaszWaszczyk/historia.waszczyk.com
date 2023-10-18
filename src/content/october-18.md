@@ -3,12 +3,16 @@ layout: post
 title: 18 października
 image: img/october/forster.jpg
 author: Tomasz Waszczyk
-date: 2021-10-18T10:00:00.000Z
+date: 2022-10-18T10:00:00.000Z
 tags:
   - Gospodarka
 ---
 
 ### 2023
+
+<a href="./documents/october/fraud.pdf" target="_blank">FaaS - Fraud as a Service</a>
+
+---
 
 The Nazis invaded Mariupol on October 8, 1941. They faced resistance from the Soviet troops and local partisans; but it was eventually captured. Oleksandr Malynovskyi; a Ukrainian nationalist leader who cooperated with the Nazis was appointed as the mayor of Mariupol.
 
@@ -21,6 +25,20 @@ Jews were then taken to anti-tank trenches 7-10 kilometers from the city, near t
 This is a picture  of Vanda Semyonovna Obiedkova;  one of the very few survivors of the Mariupol masscare of 1941  who froze to death on 4 April sheltering in her basement from Russian shelling during the attack on Mariupol in 2022 .
 
 <img src="./img/october/vanda.jpeg"><br><br>
+
+---
+
+<a href="./documents/october/kielich.pdf" target="_blank">Dzieło Profesora Stanisława Kielicha</a>
+
+<a href="./documents/october/opensource.pdf" target="_blank">Open Source</a>
+
+<a href="./documents/october/prezentacje.pdf" target="_blank">Wolne Oprogramowanie</a>
+
+---
+
+<img src="./img/october/lekarze.png"><br><br>
+
+---
 
 ### 2022
 
