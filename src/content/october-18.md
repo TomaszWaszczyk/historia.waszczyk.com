@@ -36,6 +36,8 @@ This is a picture  of Vanda Semyonovna Obiedkova;  one of the very few survivors
 
 ---
 
+Nie chodzi o lekarzy, chodzi o "obsługę procesu"..
+
 <img src="./img/october/lekarze.png"><br><br>
 
 ---
