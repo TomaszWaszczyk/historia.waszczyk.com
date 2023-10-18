@@ -3,9 +3,26 @@ layout: post
 title: 19 października
 image: img/october/cz_wt_7-1024x855.jpg
 author: Tomasz Waszczyk
-date: 2020-10-19T10:00:00.000Z
+date: 2022-10-19T10:00:00.000Z
 tags:
   - Lekarze
+---
+
+### 2023
+
+<img src="./img/october/hunger-games.png"><br><br>
+
+> squid game
+
+<video width="640" height="480" controls>
+<source src="./movies/octoboer/squid-game.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/october/parisclub_claims_as_of_31_12_2022_vf.pdf" target="_blank">Paris Club</a>
+
+<img src="./img/october/gw.jpg"><br><br>
+
 ---
 
 ### ~2029
@@ -58,6 +75,8 @@ Prawdopodobnie 13 września 1984 roku w Warszawie odbyło się spotkanie w czasi
 19.10.1984 roku w miejscowości Górsk na trasie z Torunia do Warszawy oficerowie MSW: Grzegorz Piotrowski, Leszek Pękala i Waldemar Chmielewski wykonali polecenie. Czwartym, chociaż nie bezpośrednim katem był Adam Pietruszka. Jerzy Popiełuszko miał 37 lat.Ogłoszenie ks. Jerzego Popiełuszki błogosławionym Kościoła katolickiego odbyło się 6 czerwca 2010 w Warszawie na placu Piłsudskiego.
 
 <img src="./img/october/popieluszko2.jpg"/><br><br>
+
+<img src="./img/october/budowa-warszawa.png"><br><br>
 
 ### 1939
 
