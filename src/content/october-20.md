@@ -9,6 +9,16 @@ tags:
 draft: false
 ---
 
+### 2023
+
+The Excess Deaths rise every year. 2023 continues to head towards the worst on record in Scotland, especially for children.
+
+<img src="./img/october/excess-deaths.jpeg"><br><br>
+
+Source: [Excess Deaths](https://dksdata.com/ExcessDeaths#Scotland)
+
+---
+
 ### 2022
 
 <img src="./img/october/imfinflation.jpg"><br><br>
@@ -136,6 +146,8 @@ O długu parę rzeczy trzeba wiedzieć. A dokładniej pięć: od kogo się poży
 ---
 
 ### 2018
+
+<img src="./img/october/P1120035.JPG"><br><br>
 
 <img src="./img/october/P1120029.JPG"><br><br>
 
