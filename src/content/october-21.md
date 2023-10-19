@@ -8,6 +8,17 @@ tags:
   - CBDC
 ---
 
+### 2023
+
+> Putin: "Odessa is certainly a Russian city, but a little bit Jewish".
+
+<video width="640" height="480" controls>
+<source src="./movies/october/odessa.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 BGK odwołuje przetarg sprzedaży obligacji zaplanowany na 24 października

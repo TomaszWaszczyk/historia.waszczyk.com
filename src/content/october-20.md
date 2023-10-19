@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20 października
-image: img/october/lwow.jpg
+image: img/october/montelupich.jpg
 author: Tomasz Waszczyk
 date: 2022-10-20T10:00:00.000Z
 tags:
