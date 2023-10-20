@@ -3,18 +3,24 @@ layout: post
 title: 22 października
 image: img/october/wyborczafarsa.jpg
 author: Tomasz Waszczyk
-date: 2021-10-22T10:00:00.000Z
+date: 2022-10-22T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+<a href="./documents/october/hf_ben-xvi_enc_20071130_spe-salvi.pdf" target="_blank">Spe Salvi</a>
+
+<!-- https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html -->
 
 ### 2022
 
 Tak potraktowana Hu Jintao byłego prezydenta Chin 2003-2013 podczas XX kongresu KPCh. Te ujęcia są najlepsze. Pokazowy koniec Chin jakie znamy od 1978 r.  
 Niektórzy snuli teorie, że te loty amerykańskich polityków na Tajwan mają osłabić pozycje Xi Jinpinga podczas wyborów. Chyba nie wyszło.
 
-Xi ma teraz naj. władzy od czasów Mao Zedonga. Jedynowładztwo i brak kadencyjności sprawią, że Chiny będą podobne do Korei Północnej. Odchodząc, Hu Jintao kładzie rękę na ramieniu premiera Li Keqianga, który dziesięć lat temu był jego faworytem do objęcia stanowiska prezydenta, ale został w tyle za #XiJinping.
+Xi ma teraz naj. władzy od czasów Mao Zedonga. Jedynowładztwo i brak kadencyjności sprawią, że Chiny będą podobne do Korei Północnej. Odchodząc, Hu Jintao kładzie rękę na ramieniu premiera Li Keqianga, który dziesięć lat temu był jego faworytem do objęcia stanowiska prezydenta, ale został w tyle za Xi Jinping.
 
 <video width="640" height="480" controls>
 <source src="./movies/october/chiny.mp4" type="video/mp4">

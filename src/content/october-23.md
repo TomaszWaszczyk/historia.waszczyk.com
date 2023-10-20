@@ -9,6 +9,32 @@ tags:
 draft: false
 ---
 
+### 2023
+
+> ~2024 going to be ultra-interesting time period (~five years) - rhei
+
+2024 may be the last election we have. A top former United States General Warns!
+
+> 2024 May be the last election we have.
+
+<img src="./img/october/flynn.jpeg"><br><br>
+
+General Michael Flynn a top former United States General and former head of the Defence Intelligence Agency (DIA) has warned that all freedom loving people in America in particular Republicans need to put their differences aside and unite behind Donald trump immediately.
+
+He stated, "Never in US history have we seen such a domestic assault on the fabric of our democracy, with external support from outside dark forces (not a conspiracy theory)."
+
+He has warned about the Globalists who seek a new World Order and will stop at nothing to destabilize and destroy Sovereign States and Nations.
+
+"The globalists are coming for our faith, our families, our treasure, our lives."
+
+As many wake up to the horror that their elected politicians are serving an outside power in the form of the World Economic Forum led by German chairman Klaus Schwab there are growing calls for WEF affiliated members to be identified and removed from office. The problem is not confined to the US. The UK and Canada as well as Australia and New Zealand  and Europe is also infested with Globalist Parasites.
+
+General Flynn went on to state:
+
+> The DEMs have been seized by the Marxist/Bolshevik left and the globalists toy with our lives through fake health scares, digital currencies devaluing the US Dollar, open-world insane immigration policies leading to unprecedented global poverty levels, an unnecessary war in Europe costing & wasting billions of American taxpayers dollars and many other even crazier ideas, all to create their one-world government led by people who have no concern about you and me.
+
+---
+
 ### 2021
 
 > "Hyperinflation is going to change everything. It’s happening." - Jack Dorsey, Twitter CEO

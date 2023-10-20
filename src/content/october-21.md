@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 21 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/referendum.webp
 author: Tomasz Waszczyk
-date: 2021-10-21T10:00:00.000Z
+date: 2022-10-21T10:00:00.000Z
 tags:
-  - CBDC
+  - Referendum
 ---
 
 ### 2023
@@ -16,6 +16,16 @@ tags:
 <source src="./movies/october/odessa.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+---
+
+<img src="./img/october/medycyna.jpg"><br><br>
+
+<img src="./img/october/referendum.webp"><br><br>
+
+```
+Ostateczna pacyfikacja człowieka polega nie na podporządkowaniu go zewnętrznemu zakazowi robienia wszystkiego, co da się zrobić, tylko na podporządkowaniu go wewnętrznemu zakazowi robienia wszystkiego, co warto zrobić. Innymi słowy, pacyfikacja ta polega nie na ciemiężeniu skutkującym potencjalnym politycznym oporem, tylko na otępianiu skutkującym nieuchronnym duchowym (i nie tylko) letargiem.
+```
 
 ---
 

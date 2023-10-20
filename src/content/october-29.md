@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 29 października
-image: img/october/cz_wt_7-1024x855.jpg
+image: img/october/maczek.jpg
 author: Tomasz Waszczyk
 date: 2020-10-29T10:00:00.000Z
 tags:
