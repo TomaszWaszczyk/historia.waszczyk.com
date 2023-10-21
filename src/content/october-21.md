@@ -19,6 +19,8 @@ Your browser does not support the video tag.
 
 ---
 
+> 体系对抗
+
 <img src="./img/october/medycyna.jpg"><br><br>
 
 <img src="./img/october/referendum.webp"><br><br>
