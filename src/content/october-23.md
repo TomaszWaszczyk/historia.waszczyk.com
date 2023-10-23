@@ -3,7 +3,7 @@ layout: post
 title: 23 października
 image: img/october/grossaction.jpg
 author: Tomasz Waszczyk
-date: 2021-10-23T10:00:00.000Z
+date: 2022-10-23T10:00:00.000Z
 tags:
   - Grossaktion
 draft: false
@@ -11,10 +11,19 @@ draft: false
 
 ### 2023
 
+> to *nie* wybory - rhei
+
+<img src="./img/october/wybory2023.jpg"><br><br>
+
+---
+
+> Ponad dwumetrowa fala. Sztorm stulecia na Bałtyku
+> Zdaniem niemieckich synoptyków o niezwykłości zjawiska zadecydowały nietypowe i nagłe zmiany kierunku wiatru. Najpierw zachodni wiatr wepchnął ogromne ilości wody z Morza Północnego do Bałtyku, a potem zaczęły się one cofać, bo wiatr zmienił kierunek na wschodni.
+
+---
+
 > ~2024 going to be ultra-interesting time period (~five years) - rhei
-
-2024 may be the last election we have. A top former United States General Warns!
-
+> 2024 may be the last election we have. A top former United States General Warns!
 > 2024 May be the last election we have.
 
 <img src="./img/october/flynn.jpeg"><br><br>

@@ -3,9 +3,23 @@ layout: post
 title: 24 października
 image: img/october/dabrowski.jpg
 author: Tomasz Waszczyk
-date: 2021-10-24T10:00:00.000Z
+date: 2022-10-24T10:00:00.000Z
 tags:
   - Pokój westfalski
+---
+
+### 2023
+
+> “Close friends are truly life's treasures. Sometimes they know us better than we know ourselves. With gentle honesty, they are there to guide and support us, to share our laughter and our tears. Their presence reminds us that we are never really alone.” - Vincent Van Gogh
+
+<img src="./img/october/van-gogh.jpg"><br><br>
+
+`Vincent Van Gogh - Cafe Terrace at Night, 1888.`
+
+---
+
+> Są takie bzdury, w które uwierzą tylko intelektualiści.
+
 ---
 
 ### 2022

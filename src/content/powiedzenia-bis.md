@@ -200,6 +200,8 @@ W dzisiejszym świecie kapitał wynajmuje władze polityczne - forma wynajmuje n
 
 Believe what you see, not what you’re told
 
+Ludzie nie myślą. Ludzie myślą, że myślą. - Mark Twain
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
