@@ -3,10 +3,18 @@ layout: post
 title: 25 października
 image: img/october/korfanty.jpg
 author: Tomasz Waszczyk
-date: 2021-10-25T10:00:00.000Z
+date: 2022-10-25T10:00:00.000Z
 tags:
   - Xi Jinping
 draft: false
+---
+
+### 2023
+
+<img src="./img/october/mapkaZLegenda_Obszar-roboczy-1.webp"><br><br>
+
+<a href="./documents/october/Czarna-ksiega.pdf" target="_blank">Przykłady Marnowania Twoich Podatków</a>
+
 ---
 
 ### 2022
