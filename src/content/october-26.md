@@ -3,10 +3,34 @@ layout: post
 title: 26 października
 image: img/october/usdtry.png
 author: Tomasz Waszczyk
-date: 2021-10-26T10:00:00.000Z
+date: 2022-10-26T10:00:00.000Z
 tags:
   - Patriot Act
 ---
+
+### 2023
+
+> Be prepared, extreme anti-freedom ideas are gaining traction.
+
+<img src="./img/october/paul_klee_harbinger_autumn.jpg"><br><br>
+
+`Paul Klee - Harbinger of Autumn`
+
+<!-- **Fear is the barrier to truth.**
+
+"The real barriers to the truth in this scenario are not facts, they are not intellectual barriers, they are psychological barriers and the first psychological barrier, I want to talk about is the one of fear.
+
+He goes on to discuss Hancock's plan to frighten the pants off the public!" as evidenced in the Whatsapp messages.
+
+"Why is that important?
+
+First and foremost, when you are in a state of fear, it inhibits your ability to engage in critical thinking and that is still a problem now. Many people are suffering from a form of PTSD from what happened from the beginning of the pandemic. We didn't know what we were dealing with, let's be fair!" -->
+
+<!-- Is fair is foul and foul is fair?
+
+Dr. Aseem Malhotra, cardiologist who flipped his position on the vaxxine discussing the weaponization of fear. -->
+
+<!-- https://bezstronnie.pl/spotkania/ -->
 
 ### 2022
 

@@ -202,6 +202,10 @@ Believe what you see, not what you’re told
 
 Ludzie nie myślą. Ludzie myślą, że myślą. - Mark Twain
 
+Słychać wycie? Znakomicie.
+
+Szukał chłop w dupie szczęścia.. gówno znalazł.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
