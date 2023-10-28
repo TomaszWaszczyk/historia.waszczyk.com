@@ -3,11 +3,18 @@ layout: post
 title: 28 października
 image: img/october/lauterbach.jpeg
 author: Tomasz Waszczyk
-date: 2020-10-28T10:00:00.000Z
+date: 2022-10-28T10:00:00.000Z
 tags:
   - Lauterbach
 draft: false
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/october/trust-issues.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

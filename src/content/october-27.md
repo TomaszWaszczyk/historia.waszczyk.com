@@ -3,10 +3,16 @@ layout: post
 title: 27 października
 image: img/october/swietlicawroclaw.jpg
 author: Tomasz Waszczyk
-date: 2021-10-27T10:00:00.000Z
+date: 2022-10-27T10:00:00.000Z
 tags:
   - Bukowski
 ---
+
+### 2023
+
+<img src="./img/october/mocarz.png"><br><br>
+
+<img src="./img/october/moze-malej.png"><br><br>
 
 ### 2021
 
