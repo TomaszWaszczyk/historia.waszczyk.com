@@ -17,6 +17,9 @@ tags:
 ---
 
 Ashura
+
+---
+
 ### 2020
 
 Buffett kupuje akcje kopalni złota, cena kruszcu znów powyżej 2000 USD
@@ -54,7 +57,11 @@ Na pamiątkę 1900. rocznicy urodzin Jezusa Chrystusa dzięki staraniom zakopia�
 
 <img src="./img/august/giewont.jpg"><br><br>
 
-## 1793
+### 1883
+
+Coco Chanel
+
+### 1793
 
 Ambasador rosyjski Jakov Sieviers reprezentujący carycę Katarzynę II ratyfikował układ rozbiorowy zwany drugim rozbiorem Polski.
 Dwaj zaborcy Prusy i Rosja podzieliły Polskę między siebie.

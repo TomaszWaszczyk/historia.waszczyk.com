@@ -3,11 +3,87 @@ layout: post
 title: 30 października
 image: img/october/manifest.jpg
 author: Tomasz Waszczyk
-date: 2020-10-30T10:00:00.000Z
+date: 2022-10-30T10:00:00.000Z
 tags:
   - Popiełuszko
 draft: false
 ---
+
+### 2023
+
+<img src="./img/october/rembrandt_christ_storm.jpg"><br><br>
+
+```
+W organizowanym w Rijadiez, inwestorskim panelu dyskusyjnym w ramach Future Investment Initiative wzięli udział jedni z najbardziej wpływowych ludzi biznesu na świecie. Większość z nich zgodziła się, że największym problemem dla świata zagrożeniem są dziś konflikty zbrojne i terroryzm. W długim terminie wszyscy niemal wskazali na technologię jako główny katalizator wzrostu gospodarczego i ogólnej zamożności społeczeństw. Podkreślili też, że ludzkość ma wrodzoną umiejętność i pragnienie rozwiązywania każdego problemu i ostatecznie świat rozwiąże aktualne bolączki. Prowadzącym dyskusje był David Rubinstein, współzałożyciel Carlyle Group – największego na świecie funduszu private equity. Wśród gości zasiadali m.in.
+
+Yasir Al-Rumayyan – gospodarz program, zarządzający Public Investment Fund (wehikułem majątkowym Arabii Saudyjskiej) oraz prezes i CEO Saudi Aramco, największej spółki z branży ropy i drugiej największej pod względem kapitalizacji spółki na świecie
+
+Ray Dalio – prezes Bridgewater, jednego z największych funduszy hedgingowych i autor publikacji z zakresu gospodarki i polityki
+
+Jamie Dimon – prezes największego i najbardziej zyskownego nie tylko w USA ale także na świecie banku JP Morgan Chase
+
+Laurence D. Fink – założyciel i CEO BlackRock, największego funduszu inwestycyjnego świata z blisko 10 bilionami dolarów w zarządzaniu
+
+Stephen Schwarzmann – prezes Blackstone, największego funduszu z obszaru inwestycji alternatywnych na świecie i jednego z największych funduszy inwestujących w nieruchomości
+
+David Solomon – prezes Goldman Sachs, jednego z największych banków inwestycyjnych w USA
+
+Oraz: Jane Fraser (prezes Citigroup), dr Patrice Motsepe (miliarder i prezes stowarzyszenia piłki nożnej w Afryce), Noel Quinn (prezes banku HSBC), Neil Shen (zarządzający funduszem Sequoia Capital) oraz Shemara Wikramanayak (szefowa australijskiej Macquire Group).
+
+Yasir Al-Rumayyan
+
+    Świat powinien zadbać o regulacje AI na poziomie globalnym
+    Być może rozwiniemy tzw. AGI – generalną AI, która zmieni świat
+    Popyt na centra danych będzie rósł ale problemem jest cena i źródła energii
+    Arabia Saudyjska do 2030 roku będzie korzystać w minimum 50% z odnawialnych źródeł energii
+    Świat powinien zacząć inwestować w odnawialną energię więcej o 5 bilionów dolarów – każdego roku
+
+Ray Dalio
+
+    Rzeczy, które zaskoczyły go w życiu zrobiły tak dlatego, że w czasie jego kariery nie przydarzyły się ale historia pokazuje, że zdarzały się często
+    Dług jaki ma teraz świat oraz ilość konfliktów jest największa od 1945 roku
+    Ryzyko rosnących potęg na horyzoncie i zdestabilizowany świat bez dwóch hegemonów (Rosja, USA)
+    Pozostaje pesymistą odnośnie sytuacji w przyszłym roku
+    Potężne różnice majątkowe w społeczeństwach, początek populizmu politycznego etc. nigdy nie zwiastowały dobrych lat na ziemi – raczej wojny
+    Jeśli przewinąć historyczne taśmy można odnieść wrażenie, że powtarzają się te scenariusze bez końca
+    Tylko globalny pokój mógłby odwrócić ten scenariusz i doprowadzić do pozytywnego zjawiska 'konkurencji’ i rozwoju technologii w optymalnych warunkach gospodarczych
+
+Jamie Dimon
+
+    W długim terminie Dimon jest optymistą ale widzi sporo podobieństw do kryzysu z lat 70-tych
+    Stany Zjednoczone stoją przed poważnym wyzwaniem by odbudować pozycję globalnego lidera nie tylko od strony militarnej ale także od strony finansowej i dyplomatycznej
+    Proliferacja broni jądrowej jest zagrożeniem, czasy są niespokojnie i wydaje się roszczeniowym myśleniem myśleć, że kryzys militarny się nie pogłębi
+    Około 10% pracowników JP Morgan z rożnych przyczyn od dawna pracuje z domu i firma nie widzi w tym istotnego problemu
+
+Larry Fink
+
+    Konflikty zbrojne stanowią dziś poważne zagrożenie dla świata. Prawdopodobnie powrót terroryzmu będzie konsekwencją wojny na Bliskim Wschodzie
+    Ilość strachu i niestabilności będzie większa niż dziś. Wyższe stopy procentowe w Fed zostaną naprawdę utrzymane na dłużej
+    Spore zmiany w skali makro oraz radykalizacja społeczeństw w stronę prawicowych nacjonalizmów
+    Fragmentacja łańcuchów dostaw wskazuje, że inflacja będzie wyższa
+    Deficyt USA rośnie i cały bilans Fed jest mocno proinflacyjny
+    Konsument w USA pozostaje mocny i nie spodziewam się by zmieniło się to w 2024 roku
+    Gospodarkę USA może czekać zarówno miękkie jak i twarde lądowanie po cyklu Fed ale nie stanie się to w najbliższej przyszłości
+    Transmisja polityki monetarnej w USA trwa dłużej ponieważ kredyty hipoteczne Amerykanów są zaciągane na stałym oprocentowaniu, w innych gospodarkach są na zmiennym lub ulegają zmianie oprocentowania co kilka lat
+    Europę czeka prawdopodobnie poważniejszy kryzys
+    AI i robotyka oznacza dosłownie zastrzyk produktywności ale nie pojawi się to w kilka miesięcy czy lat, raczej zajmie kilka lat
+    Możemy mieć kilka lat zawirowań ale po tym czasie wiele rzeczy zmieni się na lepsze
+    Jestem większym optymistą niż byłem 4 lata temu ale wyłącznie jeśli mówimy o długim terminie, cierpliwość opłaci się wielu inwestorom
+
+Stephen Schwarzmann
+
+    Inwestycje alternatywne i aktywa o stałym oprocentowaniu notują potężne zainteresowanie zarówno od instytucji jak i klientów indywidualnych
+    Praca zdalna i cały trend odchodzenia od biur spowodował kryzys nieruchomości komercyjnych natomiast nie wszystkie z nich czeka kryzys
+    Mniej więcej 50% przestrzeni biurowej nie jest obecnie używanej w USA i nie jest to możliwe do utrzymania ekonomiczne
+    Po wojnach na początku lat 70-tych przyszła recesja i choć historia nie mu się powtórzyć – obecne konflikty obciążą globalną gospodarkę
+    Sytuacja inflacyjna w USA znacznie poprawiła się w ostatnich miesiącach
+
+Neil Shen
+
+    Inwestycje w Chinach są wymagające i wymagają olbrzymiej cierpliwości oraz długoterminowego nastawienia ponieważ rynek notuje skoki zmienności
+
+Źródło: https://bithub.pl
+```
 
 ### 2021
 
@@ -49,6 +125,14 @@ Na zdjęciu ulotka kolportowana po śmierci ks. Jerzego Popiełuszki.
 ### 1947
 
 The General Agreement on Tariffs and Trade (GATT), signed on October 30, 1947, by 23 countries, was a legal agreement minimizing barriers to international trade by eliminating or reducing quotas, tariffs, and subsidies while preserving significant regulations. The GATT was intended to boost economic recovery after World War II through reconstructing and liberalizing global trade.
+
+---
+
+Zostaje znaleziony, powieszony na drzewie w hrabstwie Somerset (Wielka Brytania) Iwan Kriwoziercew (Иван Кривозерцев).
+
+<img src="./img/october/iwan.jpeg"><br><br>
+
+---
 
 ### 1945
 

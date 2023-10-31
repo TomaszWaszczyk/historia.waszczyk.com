@@ -3,9 +3,17 @@ layout: post
 title: 31 października
 image: img/october/wueska.jpg
 author: Tomasz Waszczyk
-date: 2021-10-31T10:00:00.000Z
+date: 2022-10-31T10:00:00.000Z
 tags:
   - WSK
+---
+
+### 2023
+
+> Digital State
+
+<a href="./documents/digital-state/delivering-digital-state.pdf" target="_blank">Digital State</a>
+
 ---
 
 ### 2022
@@ -71,6 +79,12 @@ Jesteśmy na początku drogi do budowy metawersum, to jest projekt na 5-15 lat; 
 ---
 
 ### 2020
+
+„Gdy dla tymczasowego bezpieczeństwa zrezygnujemy z podstawowych wolności, nie będziemy mieli ani jednego, ani drugiego” ~ Benjamin Franklin
+
+„Ci którzy rezygnują z wolności w imię bezpieczeństwa, nie zasługują na żadne z nich” ~ Tomasz Jefferson
+
+<img src="./img/october/cmentarz2.jpg"><br><br>
 
 <img src="./img/october/cmentarz.jpeg"><br><br>
 

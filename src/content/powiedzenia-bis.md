@@ -206,6 +206,8 @@ Słychać wycie? Znakomicie.
 
 Szukał chłop w dupie szczęścia.. gówno znalazł.
 
+Jeśli nie chcesz to nic ci nie pomoże, jeśli naprawdę chcesz nic cię nie powstrzyma.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

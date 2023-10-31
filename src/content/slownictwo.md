@@ -1763,6 +1763,10 @@ bridger
 
 silicon lottery
 
+Fingerspitzengefühl
+
+Canary - https://en.wikipedia.org/wiki/Sentinel_species
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

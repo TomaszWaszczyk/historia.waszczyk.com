@@ -3,7 +3,7 @@ layout: post
 title: 29 października
 image: img/october/maczek.jpg
 author: Tomasz Waszczyk
-date: 2020-10-29T10:00:00.000Z
+date: 2022-10-29T10:00:00.000Z
 tags:
   - Stanisław Maczek
 ---
