@@ -3,9 +3,47 @@ layout: post
 title: 1 listopada
 image: img/november/groby.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-01T10:00:00.000Z
+date: 2022-11-01T10:00:00.000Z
 tags:
   - Gold
+---
+
+### 2023
+
+Dzień dobry Szanowny Czytelniku moich Notatek Historycznych ;-)
+
+Jakiś czas temu dzięki nowoczesnej technologii odkryłem, że istnieje grono osób, które **regularnie** tutaj zagląda. Z jednej strony mi się miło zrobiło, z drugiej zaciekawiło mnie kim dokładnie jesteście. Parę osób odkryłem, ale zdecydowanie nie wszystkich.
+
+Jeśli masz ochotę odezwać się do mnie (nawet anonimowo) będzie mi bardzo miło wraz z opisem dlaczego konkretnie TY tutaj zaglądasz, zaglądasz **regularnie** - widzę to 😊 Natomiast, jeśli chcesz wzmocnić mój zapał do dalszego tworzenia notatek (i tak będę to robił, ale trochę mniej, robota, obowiązki..) poniżej wrzucam adresy portfeli dzięki którym, można mi powiedzieć wyraźnie "dziękuję" ;-) Naprawdę dużo czasu wkładam w publikowanie/zbieranie publikowanych tutaj treści i jestem w pełni świadom, że są tutaj rzeczy mało popularne a i często kontrowersyjne - dlatego moja ciekawość jest duża, kto to czyta. ;-)
+
+Wszystkiego dobrego! Kognitariusze wszystkich narodów świata - łączmy się!
+
+🖐️
+
+## Ethereum
+
+<img src="./img/others/crypto/0xda03bca6e7e6017739d0535dd38e2553067d223a.png"><br><br>
+
+```text
+0xda03bca6e7e6017739d0535dd38e2553067d223a
+```
+
+## Bitcoin & Lightning Network
+
+<img src="./img/others/crypto/bc1qwsr00438438yexs8stlcy22j0u2q4t5kh03tys"><br><br>
+
+```text
+bc1qwsr00438438yexs8stlcy22j0u2q4t5kh03tys
+
+Lightning Network: tomek@getalby.com
+```
+
+### Email
+
+```text
+tomasz@waszczyk.com
+```
+
 ---
 
 ### 2022
