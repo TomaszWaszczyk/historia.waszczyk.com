@@ -30,7 +30,7 @@ Wszystkiego dobrego! Kognitariusze wszystkich narodów świata - łączmy się!
 
 ## Bitcoin & Lightning Network
 
-<img src="./img/others/crypto/bc1qwsr00438438yexs8stlcy22j0u2q4t5kh03tys"><br><br>
+<img src="./img/others/crypto/bc1qwsr00438438yexs8stlcy22j0u2q4t5kh03tys.png"><br><br>
 
 ```text
 bc1qwsr00438438yexs8stlcy22j0u2q4t5kh03tys

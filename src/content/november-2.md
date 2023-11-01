@@ -9,6 +9,10 @@ tags:
 draft: false
 ---
 
+### 2023
+
+<img src="./img/november/budzet.jpg"><br><br>
+
 ### 2022
 
 > Dugin: trzeba zawrzeć nowy pakt Ribbentrop-Mołotow i wybawić Europę Zachodnią od Wschodniej. Zjednoczenie i niezależność od USA, wtedy Europa będzie ruską, a my po bratersku i słowiańsku rozwiążemy problem tych którzy przeszkadzają.
