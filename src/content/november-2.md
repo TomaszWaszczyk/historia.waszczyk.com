@@ -3,7 +3,7 @@ layout: post
 title: 2 listopada
 image: img/november/lagarde.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-02T10:00:00.000Z
+date: 2022-11-02T10:00:00.000Z
 tags:
   - Digital Euro
 draft: false

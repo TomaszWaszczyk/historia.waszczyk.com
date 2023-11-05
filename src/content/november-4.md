@@ -3,10 +3,16 @@ layout: post
 title: 4 listopada
 image: img/november/furia.jpg
 author: Tomasz Waszczyk
-date: 2021-11-04T10:00:00.000Z
+date: 2022-11-04T10:00:00.000Z
 tags:
   - Furia
 ---
+
+### 2023
+
+<img src="./img/november/world-output.png"><br><br>
+
+<img src="./img/november/stop-consuming.png"><br><br>
 
 ### 2022
 

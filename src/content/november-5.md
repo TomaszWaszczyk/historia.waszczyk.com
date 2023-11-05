@@ -3,11 +3,17 @@ layout: post
 title: 5 listopada
 image: img/november/polska2020.png
 author: Tomasz Waszczyk
-date: 2021-11-05T10:00:00.000Z
+date: 2022-11-05T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2023
+
+🇺🇸 Według zaktualizowanych statystyk, Fed jest niewypłacalny.
+
+<img src="./img/november/fed.jpeg"><br><br>
 
 ### 2022
 
