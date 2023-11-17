@@ -146,6 +146,8 @@ Lech Wyszczelski
 
 http://ivrozbiorpolski.pl/
 
+https://mailchi.mp/milkenarchive/journeys
+
 yelita.pl/
 
 https://www.computerworld.pl/news/SKOK-nieznana-ODRA-1300,123980.html

@@ -3,11 +3,34 @@ layout: post
 title: 18 listopada
 image: img/november/koscioly2020.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-18T10:00:00.000Z
+date: 2022-11-18T10:00:00.000Z
 tags:
   - Chrześcijaństwo w Europie
 draft: false
 ---
+
+### 2023
+
+Turkish President Erdogan to German Chancellor Scholz in Berlin:
+
+> We have no debts to Israel. Those who owe it cannot speak freely what they think. We did not organize the Holocaust.
+
+<img src="./img/november/scholz.jpeg"><br><br>
+
+---
+
+```
+📢 Current national climate action plans remain insufficient to limit global temperature rise to 1.5°C and meet the goals of the Paris Agreement.
+
+Much more action and ambition is needed. 
+
+COP28 must be the turning point where governments get on track.
+```
+
+<video width="640" height="480" controls>
+<source src="./movies/november/ndc.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 

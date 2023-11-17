@@ -3,10 +3,14 @@ layout: post
 title: 17 listopada
 image: img/november/dziennik.jpg
 author: Tomasz Waszczyk
-date: 2021-11-17T10:00:00.000Z
+date: 2022-11-17T10:00:00.000Z
 tags:
   - Propaganda
 ---
+
+### 2023
+
+Chiny, które uruchamiają najszybszy internet na świecie o przepustowości 1,2 terabita na sekundę, wiele lat przed planowanym terminem. Sieć może przesyłać równowartość 150 filmów na sekundę, 3 razy szybciej niż największy amerykański rywal w USA🇺🇲 i dzieje się to dwa lata wcześniej niż wskazywały prognozy branżowe. Internet to 3000 km łączy światłowodowych Pekin-Wuhan-Guangzhou.
 
 ### 2022
 

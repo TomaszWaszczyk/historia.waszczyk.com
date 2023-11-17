@@ -3,10 +3,14 @@ layout: post
 title: 11 listopada
 image: img/november/rada_regencyjna.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-11T10:00:00.000Z
+date: 2022-11-11T10:00:00.000Z
 tags:
   - "Niepodległość Polski - mit"
 ---
+
+### 2023
+
+<img src="./img/november/bomba.jpg"><br><br>
 
 ### 2021
 
@@ -83,7 +87,13 @@ Generał Stanisław Maczek został awansowany przez prezydenta RP na uchodźstwi
 
 ### 1918
 
-11 listopada nastąpiło jedynie przekazanie władzy przez Radę Regencyjną towarzyszowi Ziółkowi z partii socjalistycznej, czyli Piłsudskiemu. Potem socjaliści gnębili Polskę podatkami i doprowadzili do klęski. 11 listopada to jest rocznica klęski. To 7 października przypada rocznica odzyskania przez Polskę niepodległości.
+Nastąpiło jedynie przekazanie władzy przez Radę Regencyjną towarzyszowi Ziółkowi z partii socjalistycznej, czyli Piłsudskiemu. Potem socjaliści gnębili Polskę podatkami i doprowadzili do klęski. 11 listopada to jest rocznica klęski. To 7 października przypada rocznica odzyskania przez Polskę niepodległości.
+
+---
+
+<img src="./img/november/pkkp.jpg"><br><br>
+
+W samo południe, do siedziby Polskiej Krajowej Kasy Pożyczkowej weszli Józef Englich i Stanisław Karpiński – obaj doświadczeni bankowcy i finansiści. Dołączył do nich Zygmunt Jaxa-Chamiec - jedyny Polak w zarządzie Kasy. Polacy usunęli Niemców pracujących w PKKP i zastąpili ich polskim personelem. Niespełna miesiąc później dekretem Tymczasowego Naczelnika Państwa PKKP stała się jedyną polską instytucją emisyjną.
 
 ---
 

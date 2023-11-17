@@ -3,7 +3,7 @@ layout: post
 title: 16 listopada
 image: img/november/chopin.jpg
 author: Tomasz Waszczyk
-date: 2021-11-16T10:00:00.000Z
+date: 2022-11-16T10:00:00.000Z
 tags:
   - Chopin
 ---
@@ -17,6 +17,12 @@ tags:
 ### 2014
 
 W rocznicę notyfikowania niepodległego Państwa Polskiego odeszła JADWIGA PIŁSUDSKA-JARACZEWSKA, córka Marszałka Polski Józefa Piłsudskiego, porucznik-pilot Wojska Polskiego, która była również jedną z trzech Polek przyjętych do Air Transport Auxiliary, czyli służby pomocniczej RAF. Dzięki jej inicjatywie powstała Fundacja Rodziny Piłsudskich i Towarzystwo Przyjaciół Instytutów Józefa Piłsudskiego.
+
+### 1942
+
+W nocy z 16 na 17 listopada 1942 roku żołnierze Armii Krajowej wykoleili 5 niemieckich pociągów na liniach Radom-Dęblin-Łuków-Terespol.
+
+<img src="./img/november/terespol.jpg"><br><br>
 
 ### 1940
 
