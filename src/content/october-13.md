@@ -82,6 +82,10 @@ Prawdziwych przyjaciół poznajemy w biedzie, ale i po ich reakcjach na nasze su
 
 ---
 
+### 2003
+
+<img src="./img/october/zakup-komputera.jpeg"><br><br>
+
 ### 1992
 
 Na Scenie w Malarni pokazany został pierwszy spektakl - "Śmierć Ofelii" St. Wyspiańskiego, w wykonaniu Anny Kadulskiej. Widzowie powoli przyzwyczajali się, że w podwórku przy ulicy Teatralnej można zobaczyć nietypowe przedstawienie, wysłuchać wykładu (m.in. o masonerii właśnie) czy uczestniczyć w koncercie. Już w czerwcu 1993 roku miało tu miejsce niezwykłe wydarzenie - wieczór poezji Josifa Brodskiego, recytowanej w obecności poety. Kolejno na nowej scenie Teatru Śląskiego pojawiały się nowe przedstawienia, m.in. znakomicie wpisujące się w charakter tego miejsca "Sexualne zło" zbudowane z piosenek Kurta Weilla w reżyserii Józefa Opalskiego czy "Impas cnoty" - autorski spektakl Piotra Szmitkego. Musical "Wesołego powszedniego dnia" Młynarskiego i Derfla czy "Znaki szczególne" złożone z poezji Wisławy Szymborskiej cieszyły się uznaniem widzów.

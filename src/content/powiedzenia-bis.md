@@ -210,6 +210,8 @@ Jeśli nie chcesz to nic ci nie pomoże, jeśli naprawdę chcesz nic cię nie po
 
 prostota najwyższą formą wyrafinowania
 
+<img src="./img/others/powiedzenia/beloyal.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
