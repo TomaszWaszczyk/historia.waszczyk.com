@@ -1775,6 +1775,8 @@ I see that angle too
 
 krytykanctwo
 
+Focus on the input and the output will follow. 一步一脚印
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

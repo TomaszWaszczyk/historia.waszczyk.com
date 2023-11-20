@@ -3,9 +3,25 @@ layout: post
 title: 20 listopada
 image: img/november/inflacjaniemcy2021.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-20T10:00:00.000Z
+date: 2022-11-20T10:00:00.000Z
 tags:
   - FED
+---
+
+### 2023
+
+While Xi Jinping was attending APEC in San Francisco, the family trust of Chinese billionaire Jack Ma was selling 10 million shares of Alibaba Group Holding for approximately $871 million. This is highly unusual and significant because:
+
+It indicates that key insiders in China lack confidence in the Chinese economy, despite Xi Jinping's efforts to demonstrate improved relations between China and the U.S. This raises questions about the investment prospects in China, contradicting the positive narrative promoted by Xi Jinping.
+
+Jack Ma's bold move is a political statement as it directly opposes Xi Jinping's current objectives. This prompts speculation about potential political forces backing Ma's actions. Considering Xi Jinping's recent replacements of senior leaders in various military branches (Rocket force, Navy, Air force, and Equipment) and the Minister of Defense, coupled with the unexpected death of former Chinese premier Li Keqiang, suspicions are heightened, creating an impression of significant turmoil within the top leadership of the Chinese Communist Party (CCP).
+
+<img src="./img/november/jack.jpeg"><br><br>
+
+---
+
+<img src="./img/november/nowy-rzad.png"><br><br>
+
 ---
 
 ### 2022

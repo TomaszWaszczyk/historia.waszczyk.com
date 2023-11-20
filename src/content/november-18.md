@@ -93,6 +93,12 @@ By the summer of 1966, the pressure on sterling was acute but Wilson was determi
 
 However, due to several factors including international crises and dock strikes, by November 1967 the financial pressures had become overwhelming. On 16 November the Chancellor of the Exchequer, James Callaghan, with Wilson’s backing, recommended to the Cabinet that sterling should be devalued by just under 15 per cent. This was agreed and then implemented, at 14 per cent on 18 November. A package of measures including defence cuts, restrictions on hire purchase (credit), and higher interest rates was also agreed.
 
+### 1929
+
+Albert Einstein and Marie Curie discussing near a lake, c. 1929
+
+<img src="./img/november/albert.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-18.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

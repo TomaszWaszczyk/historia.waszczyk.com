@@ -3,11 +3,22 @@ layout: post
 title: 21 listopada
 image: img/1-08.jpeg
 author: Tomasz Waszczyk
-date: 2021-11-21T10:00:00.000Z
+date: 2022-11-21T10:00:00.000Z
 tags:
   - Life as a service
 draft: false
 ---
+
+### 2023
+
+<img src="./img/november/inflation.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/november/przyjaciele.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/november/re-read.jpg"><br><br>
 
 ### 2022
 

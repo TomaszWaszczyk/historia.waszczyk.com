@@ -34,6 +34,12 @@ Humility in victory and taking full responsibility for setbacks are the hallmark
 
 ### 2021
 
+<img src="./img/december/pedestal.webp"><br><br>
+
+RICHMOND, VA — Virginia Gov. Ralph Northam announced Sunday that his administration will remove an enormous pedestal that until earlier this year held a statue of Confederate Gen. Robert E. Lee in Richmond.
+
+---
+
 <video width="640" height="480" controls>
 <source src="./movies/december/inflationpain.mp4" type="video/mp4">
 Your browser does not support the video tag.
