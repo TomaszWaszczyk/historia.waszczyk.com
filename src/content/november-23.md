@@ -41,6 +41,10 @@ Chiny wzywają do stworzenia globalnego kodu zdrowotnego, by ułatwić podróże
 Przed przyjęciem globalnego systemu kodów QR przestrzegł na Twitterze dyrektor wykonawczy organizacji Human Rights Watch (HRW) Kenneth Roth. „Początkowe skupienie na zdrowiu może się z łatwością przerodzić w konia trojańskiego dla szerszego nadzoru politycznego i wykluczenia”
 W Chinach kody zdrowotne na smartfonach używane są powszechnie w walce z pandemią już od lutego.
 
+### 2010
+
+<img src="./img/november/nie-wieder-schnee.avif"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/november-23.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,9 +3,23 @@ layout: post
 title: 5 grudnia
 image: img/december/centralny.jpg
 author: Tomasz Waszczyk
-date: 2021-12-05T10:00:00.000Z
+date: 2022-12-05T10:00:00.000Z
 tags:
   - Tusk
+---
+
+### 2023
+
+Gauck o wyborcach AfD:
+
+> „Niektóre z tych osób chcą, żeby wszystko było tak, jak dawniej – i najlepiej bez obcokrajowców. Niestety, ci ludzie nie pytają, kto będzie zbierał truskawki i szparagi"
+
+<img src="./img/december/joachim-gauck.webp"><br><br>
+
+---
+
+> Miód spadziowy nie jest koszerny, wszystkie inne miody są koszerne.
+
 ---
 
 ### 2022

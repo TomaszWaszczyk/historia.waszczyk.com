@@ -3,10 +3,30 @@ layout: post
 title: 26 listopada
 image: img/november/kiszczak.jpg
 author: Tomasz Waszczyk
-date: 2021-11-26T10:00:00.000Z
+date: 2022-11-26T10:00:00.000Z
 tags:
   - Kiszczak
 ---
+
+### 2023
+
+The US dollar is near a two-century low against the Swiss franc. What is the outlook for the next century?
+
+A clue as to what the future might hold for this currency pair can be gleaned from the interest rate differential. As can be seen from the chart, over the past 186 years, interest rates in the United States have tended to be much higher: 5% vs. 3% on average. Thus, the dollar offered around 2% per year more.
+
+That the currency paying the higher interest rate in a currency pair is the depreciating currency was already known in the ancient world (https://lnkd.in/eYKqUy_n). And, indeed, the dollar has lost 83% of its value against the franc, which has appreciated by 487% against the dollar, or by an average of 2.8% per year.
+
+Looking ahead, the market is signalling a continuation of substantially higher relative US interest rates in this currency pair. The yield on the Swiss 10-year government bond traded at 1% this morning compared to 4.5% for the US — a differential of 3.5 percentage points per year. One possible reason for this massive spread could be these two republics' divergence on fiscal policy (https://lnkd.in/eqEr6mhT).
+
+Why the reference to Napoleon in the chart? In 1798, he invaded the Swiss Confederacy. He thought it suboptimal that each canton was issuing its own money, so he cancelled their powers and in 1799 introduced a single currency, the Swiss franc. However, the Swiss were ungovernable, and when Napoleon's troops withdrew, the cantons took back control and in 1803 cancelled the Swiss franc.
+
+Reflecting on what had gone wrong, Napoleon said: "There was an underlying dislike of me in Switzerland...I was too little aware of it...I had other problems to deal with."
+
+Napoleon did not live to see the reintroduction of the Swiss franc, but business had recognised the benefits of a unified currency and pressure grew to reinstate it. Geneva went first, introducing the "Geneva franc" in 1838 (the blue dotted line on the chart), which served as a model that the rest of the cantons signed up to in 1850.
+
+For currencies, big ideas matter, as do big interest rate differentials.
+
+<img src="./img/november/chf.jpeg"><br><br>
 
 ### 2022
 

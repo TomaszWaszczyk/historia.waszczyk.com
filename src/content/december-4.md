@@ -3,10 +3,16 @@ layout: post
 title: 4 grudnia
 image: img/december/kowalczyk.jpg
 author: Tomasz Waszczyk
-date: 2021-12-04T10:00:00.000Z
+date: 2022-12-04T10:00:00.000Z
 tags:
   - Auschwitz
 ---
+
+### 2023
+
+<img src="./img/december/glapinski.jpeg"><br><br>
+
+<img src="./img/december/us-debt.jpeg"><br><br>
 
 ### 2022
 

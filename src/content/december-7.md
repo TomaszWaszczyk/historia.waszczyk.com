@@ -3,10 +3,16 @@ layout: post
 title: 7 grudnia
 image: img/december/kowalski.jpg
 author: Tomasz Waszczyk
-date: 2021-12-07T10:00:00.000Z
+date: 2022-12-07T10:00:00.000Z
 tags:
   - Józef Kowalski
 ---
+
+### 2023
+
+<img src="./img/december/pawel-borys.png"><br><br>
+
+<img src="./img/december/frajer.png"><br><br>
 
 ### 2022
 

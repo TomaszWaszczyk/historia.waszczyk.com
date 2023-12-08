@@ -3,10 +3,14 @@ layout: post
 title: 30 listopada
 image: img/november/bury.jpg
 author: Tomasz Waszczyk
-date: 2021-11-30T10:00:00.000Z
+date: 2022-11-30T10:00:00.000Z
 tags:
   - ZUS
 ---
+
+### 2023
+
+<img src="./img/november/orlen.jpg"><br><br>
 
 ### 2022
 

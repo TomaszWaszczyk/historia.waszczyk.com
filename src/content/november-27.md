@@ -3,10 +3,16 @@ layout: post
 title: 27 listopada
 image: img/november/as.jpg
 author: Tomasz Waszczyk
-date: 2021-11-27T10:00:00.000Z
+date: 2022-11-27T10:00:00.000Z
 tags:
   - COVID
 ---
+
+### 2023
+
+<img src="./img/november/elektrownia.jpeg"><br><br>
+
+`Michał Prażmo - Ciężki poranek w polskiej elektrowni jądrowej (olej na płótnie, 116 x 89 cm), 2023.`
 
 ### 2022
 <!-- "Jest czas do końca grudnia - później zaczną wywlekać z domów..." 

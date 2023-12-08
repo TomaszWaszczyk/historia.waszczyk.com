@@ -2,6 +2,10 @@
 
 https://wmgaz.pl
 
+https://www.historyonthenet.com/authentichistory/1930-1939/2-fdr/2-reception/technocrats/
+
+http://przecza.pl/muzeum-radia/
+
 https://www.economicshelp.org/blog/163755/economics/historical-uk-national-debt/
 
 https://www.spaceforce.mil/Multimedia/Art/

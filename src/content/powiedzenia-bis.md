@@ -212,6 +212,16 @@ prostota najwyższą formą wyrafinowania
 
 <img src="./img/others/powiedzenia/beloyal.png"><br><br>
 
+<img src="./img/others/powiedzenia/moral.png"><br><br>
+
+Być sobą u siebie.
+
+Alles in Butter
+
+We need to reduce the gap between ambition and action. Those who promised, must deliver. Those who pledged, must act.” - COP28 President Designate.
+
+<img src="./img/orhers/powiedzenia/life.png."><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

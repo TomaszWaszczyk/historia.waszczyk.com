@@ -3,9 +3,29 @@ layout: post
 title: 8 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2021-12-08T10:00:00.000Z
+date: 2022-12-08T10:00:00.000Z
 tags:
   - Sowieci
+---
+
+### 2023
+
+<a href="./documents/december/ecb.wp2868.en.pdf" target="_blank">ECB</a>
+
+<a href="./documents/december/gemini_1_report.pdf" target="_blank">Gemini</a>
+
+<a href="./documents/december/AI-Driven-Organization.pdf" target="_blank">AI Driven Organization</a>
+
+<a href="./documents/december/starfish-spider-book-summary.pdf" target="_blank">Starfish</a>
+
+<a href="./documents/december/technocracy-rising-_-the-trojan-horse-of-global-transformation-patrick-m.-wood.pdf" target="_blank">Techno</a>
+
+<img src="./img/december/ocean.png"><br><br>
+
+<img src="./img/december/ontime.jpeg"><br><br>
+
+<img src="./img/december/who.jpeg"><br><br>
+
 ---
 
 ### 2022

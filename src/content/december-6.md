@@ -3,9 +3,53 @@ layout: post
 title: 6 grudnia
 image: img/december/olszewski.jpg
 author: Tomasz Waszczyk
-date: 2021-12-06T10:00:00.000Z
+date: 2022-12-06T10:00:00.000Z
 tags:
   - Olszewski
+---
+
+### 2023
+
+"Prawo Unii Europejskiej zapewnia ochronę prezesowi polskiego banku centralnego, gdyby przyszły rząd planował bezprawnie postawić go w stan oskarżenia lub zawiesić —powiedziała prezes Europejskiego Banku Centralnego Christine Lagarde, którą cytuje Reuters"
+
+> Europejski Bank Centralny wskazuje, że Narodowy Bank Polski będzie mógł skierować do Trybunału Sprawiedliwości Unii Europejskiej ewentualne zawieszenie prezesa NBP ws. wniosku o postawienie prezesa NBP przed Trybunałem Stanu - wynika z listu prezeski EBC, Christine Lagarde, do prof. Adama Glapińskiego.
+
+---
+
+Which straw will break the camel's back? US Government debt is piling up and looks like it is snowballing out of control.
+
+The US Budget projections of the future debt to GDP ratio are usually too conservative.
+
+On the chart below, the blue line to the left of 2023 represents the actual debt to GDP ratio (final result). On the right hand side of 2023 it's the possible trajectory.
+
+The numbers for that scenario were taken from the Congressional Budget Office's website incorporating changes in policy that are widely expected to occur and that policymakers have regularly made in the past, rather than adhering closely to current law.
+
+The other coloured lines are the "baseline" forecasts previously made by the Congressional Budeget Office (CBO) on a number of dates:
+
+Green line: Forecast of Jan 2007
+Grey line: Forecast of Jan 2009
+Red line: Forecast of June 2012
+Purple line: Forecast of June 2018
+Yellow line: Forecast of June 2023
+
+Each of these "baseline" forecasts painted a rosier picture than the actual outcome. 
+
+For example, In June 2012 the debt to GDP ratio was around 72%. The June 2012 budget forecast that the "baseline" debt to GDP ratio would decline to around 61% by 2023. In fact the actual outcome is likely to be just over 100%.
+
+The budgeted baseline has been consistently increased due to rising costs and lower revenues. Both revenues and expenses inevitably fluctuate from the baseline numbers. This can be due to unexpected expenses (increases in unemployment, higher than budgeted interest rates, or higher social costs), and unplanned events, (e.g. a banking crisis, pandemic, natural disaster, war, or recession). Legislation can also change the baseline projection (e.g. due to tax changes).
+
+According to the possible trajectory of the alternative scenario the debt to GDP ratio could reach 150% by 2031, as opposed to the 110% forseen as the "baseline" by current law. 
+
+A debt to GDP ratio of 150% would be a heay burden to bear. If the effective interest rate on that debt were 10%, it would consume 83% of the projected tax revenues in 2031. 
+
+Long before we get to such high levels of debt, the Federal Reserve is going to have to decide what to do. It could do nothing. Interest rates would then spiral upwards and bond prices would plunge in a vortex of frenzied selling, effectively causing the USA to default. (Hint: The USA is not going to default). The failure of the US Treasury market would bankrupt the whole world.
+
+Alternatively the Fed can step in as buyer of the last resort. It could start buying Treasuries to stop prices from falling and thus steady interest rates. To buy the Treasuries it would print money. This would collapse the currency.
+
+We don't know when something will happen. I'm sure that Federal Reserve Chairman Jerome Powell is praying that it's not on his watch. His term ends in May 2026. The straws are piling up on the camel's back, and we don't know when one will break it.
+
+
+
 ---
 
 ### 2022

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21 listopada
-image: img/1-08.jpeg
+image: img/november/inflation.jpeg
 author: Tomasz Waszczyk
 date: 2022-11-21T10:00:00.000Z
 tags:
@@ -30,7 +30,7 @@ Koszty obsługi polskiego długu publicznego wrosną najszybciej w całej Unii i
 
 ---
 
-<img src="./img/november/waligora.jpg"><br><br>
+<!-- <img src="./img/november/waligora.jpg"><br><br> -->
 
 ---
 

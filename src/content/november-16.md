@@ -14,6 +14,10 @@ tags:
 
 <img src="./img/november/bitcoindead.jpeg"><br><br>
 
+### 2020
+
+<img src="./img/november/mnuchin.jpg"><br><br>
+
 ### 2014
 
 W rocznicę notyfikowania niepodległego Państwa Polskiego odeszła JADWIGA PIŁSUDSKA-JARACZEWSKA, córka Marszałka Polski Józefa Piłsudskiego, porucznik-pilot Wojska Polskiego, która była również jedną z trzech Polek przyjętych do Air Transport Auxiliary, czyli służby pomocniczej RAF. Dzięki jej inicjatywie powstała Fundacja Rodziny Piłsudskich i Towarzystwo Przyjaciół Instytutów Józefa Piłsudskiego.

@@ -3,10 +3,14 @@ layout: post
 title: 9 grudnia
 image: img/december/ropa.jpg
 author: Tomasz Waszczyk
-date: 2021-12-09T10:00:00.000Z
+date: 2022-12-09T10:00:00.000Z
 tags:
   - Jaruzelski
 ---
+
+### 2023
+
+<a href="./documents/december/spars-pandemic-scenario.pdf" target="_blank">spars-pandemic-scenario.pdf</a>
 
 ### 2022
 
