@@ -220,7 +220,11 @@ Alles in Butter
 
 We need to reduce the gap between ambition and action. Those who promised, must deliver. Those who pledged, must act.” - COP28 President Designate.
 
-<img src="./img/orhers/powiedzenia/life.png."><br><br>
+<img src="./img/others/powiedzenia/life.png."><br><br>
+
+um Brot zu essen
+
+<img src="./img/others/powiedzenia/truth-in-children.jpg"><br><br>
 
 ---
 

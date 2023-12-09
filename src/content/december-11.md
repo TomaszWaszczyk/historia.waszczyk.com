@@ -9,6 +9,51 @@ tags:
 draft: false
 ---
 
+### 2023
+
+Psucie pieniądza jest stare prawie tak jak pieniądz. Już w 476 roku p.n.e. Arystofanes w komedii "Chmury" pomstował na „żelaziaki”
+(o czym pisałem w cz.6).
+
+Chcesz władco mieć więcej władzy?
+- Postaw wspaniałe budynki,
+- wzmocnij swoją armię,
+- dokonaj podbojów,
+- wypraw igrzyska,
+a lud będzie cię uwielbiał.
+Tak, ale skąd na to wszystko wziąć pieniądze?
+To proste, wystarczy wyemitować własną monetę, która będzie miała mniejszą zawartość szlachetnego kruszcu niż poprzednia, no i oczywiście pieczęć informującą, że wszystko jest o’key!
+W starożytnym Rzymie tę metodologię jako pierwszy podchwycił Neron, którego mincerze zastosowali 90% srebra w „całkowicie srebrnym” denarze, z czasem kolejni władcy posuwali się delikatnie naprzód stosując 85%, a wielki Marek Aureliusz sfinansował swoje podboje emitując „całkowicie srebrne” denary z 80% zawartością srebra.
+
+Trochę to wszystko przypominało projekt Miltona Friedmana, który w książce z 1962 roku „Kapitalizm i wolność” pisał: „postulowałbym przyjęcie reguł nakazującym władzom prowadzenie takiej polityki monetarnej, która skutkowałaby utrzymywaniem pewnego stałego wzrostu ogólnej ilości pieniądza (…) ilość pieniądza będzie rosła o pewien stały wskaźnik mieszczący się w przedziale (mniej więcej tempa wzrostu gospodarczego) od 3% do 5%”. Jak wiadomo 9 lat później (1971) Prezydent Nixon zamknął „złote okno” i ruszyła machina papierowego pieniądza fiducjarnego.
+
+Wracając do starożytnego Rzymu, tak to w życiu bywa, że wszystko zdaje się być kontrolowane do czasu, aż człowiekowi – (chyba) z gruntu istocie słabej – nie puści w głowie jakaś sprężynka…
+I taka sprężynka puściła cesarzowi Kommudusowi (co widać wyraźnie na dużym wykresie), no a dalej – to już jakoś „samo” poszło…
+Aż doszło do zawartości 0,02% srebra w „całkowicie srebrnym” denarze około 270 roku.
+
+Nie trzeba dodawać, że ceny wszystkiego poszły mocno w górę.
+
+Na przykład jedna miara egipskiej pszenicy, którą w II wieku sprzedawano za 7 drachm, w III wieku kosztowała 120 000 drachm.
+
+Ostatecznie inflacja spowodowała załamanie rzymskiego systemu monetarnego i ponowne wprowadzenie barteru. A jak wiadomo barter nie pozwala na specjalizację, wielki handel i zastosowanie ekonomii skali, ponieważ produkcja na dużą skalę wymaga dużych zakupów surowców, a za te nie da się na dłuższą metę płacić bez pieniędzy - o czym pisał już Arystoteles (pisałem w cz.5).
+
+Do rozwoju gospodarczego potrzebny jest rozwój miast, a życie w mieście oznacza właśnie wysoki stopień specjalizacji i produkcję na dużą skalę. Bez instytucji pieniądza duże miasta stają się nie do utrzymania i muszą się kurczyć -i dokładnie tak się stało z miastami rzymskimi – proces wyludniania rozpoczął się ok. 100 roku (co widać na małym wykresie).
+
+Następnie nadeszły czasy reform Dioklecjana, potem czasy najazdów plemion barbarzyńskich, aż w końcu rok 476.
+
+<img src="./img/december/rzym-psucie.jpeg"><br><br>
+
+--
+
+Wykres, źródło: Langmuir, Robin (2018) Incrementum AG
+
+---
+
+<img src="./img/december/debt.jpeg"><br><br>
+
+<img src="./img/december/chf.jpeg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/december/profjoannatyrowicz_1.jpg"><br><br>

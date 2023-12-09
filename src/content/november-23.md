@@ -15,6 +15,8 @@ draft: false
 
 <img src="./img/november/przymus.jpg"><br><br>
 
+<img src="./img/november/computer.jpeg"><br><br>
+
 ---
 
 Next PLN?

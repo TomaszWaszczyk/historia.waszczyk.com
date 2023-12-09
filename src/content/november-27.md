@@ -14,6 +14,8 @@ tags:
 
 `Michał Prażmo - Ciężki poranek w polskiej elektrowni jądrowej (olej na płótnie, 116 x 89 cm), 2023.`
 
+---
+
 ### 2022
 <!-- "Jest czas do końca grudnia - później zaczną wywlekać z domów..." 
 https://twitter.com/Jan34733995

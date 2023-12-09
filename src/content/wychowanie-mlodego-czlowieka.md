@@ -671,6 +671,11 @@ Manifest Twojego Dziecka – Janusz Korczak
 
 <a href="./documents/wychowanie-mlodego-czlowieka/30-edukacyjnych-zabaw-dla-dzieci-1-3-Angelika-M.pdf" target="_blank">30-edukacyjnych-zabaw-dla-dzieci-1-3-Angelika-M.pdf</a>
 
+<video width="640" height="480" controls>
+<source src="./movies/december/flow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

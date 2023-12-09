@@ -3,10 +3,26 @@ layout: post
 title: 10 grudnia
 image: img/december/massex.jpg
 author: Tomasz Waszczyk
-date: 2021-12-10T10:00:00.000Z
+date: 2022-12-10T10:00:00.000Z
 tags:
   - Github
 draft: false
+---
+
+### 2023
+
+<img src="./img/december/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_1.jpg"><br><br>
+
+<a href="https://aztec.network/blog/the-hunting-of-the-snark-1-3/" target="_blank">SNARK</a>
+
+---
+
+<img src="./img/december/dzialania-zgodne-z-prawem.jpeg"><br><br>
+
+---
+
+<img src="./img/december/kyber.jpeg"><br><br>
+
 ---
 
 ### 2022
