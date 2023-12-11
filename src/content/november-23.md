@@ -3,11 +3,18 @@ layout: post
 title: 23 listopada
 image: img/november/mbank.png
 author: Tomasz Waszczyk
-date: 2021-11-23T10:00:00.000Z
+date: 2022-11-23T10:00:00.000Z
 tags:
   - MBank
 draft: false
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/november/weterynaria.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

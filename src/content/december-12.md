@@ -3,10 +3,25 @@ layout: post
 title: 12 grudnia
 image: img/december/w20.png
 author: Tomasz Waszczyk
-date: 2021-12-12T10:00:00.000Z
+date: 2022-12-12T10:00:00.000Z
 tags:
   - WIG20
 draft: false
+---
+
+### 2023
+
+The iconic photo on the left features a Menorah lit by the Posner family in Nazi Germany in the 1930s. The family escaped Germany in 1933 and moved to Israel. This week, that same Menorah was lit inside Gaza by the descendants of the Posner family.
+
+<img src="./img/december/posner.jpeg"><br><br>
+
+<img src="./img/december/posner2.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/december/uk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

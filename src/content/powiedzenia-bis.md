@@ -226,6 +226,8 @@ um Brot zu essen
 
 <img src="./img/others/powiedzenia/truth-in-children.jpg"><br><br>
 
+> A komu i czemu to służy?
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

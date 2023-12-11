@@ -663,6 +663,10 @@ Manifest Twojego Dziecka – Janusz Korczak
 ● Nie bój się miłości. Nigdy 
 ```
 
+```
+52÷13(1+1)=
+```
+
 <img src="./img/wychowanie-mlodego-czlowieka/electricity.jpg"><br><br>
 
 <https://flexboxfroggy.com>

@@ -24,6 +24,13 @@ Jack Ma's bold move is a political statement as it directly opposes Xi Jinping's
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/november/ratownik.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2022
 
 > ‘Cryptocurrency is nonsense’ says Neil Kashkari, Fed President (Minneapolis)
