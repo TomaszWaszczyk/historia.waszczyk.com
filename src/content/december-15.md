@@ -3,11 +3,15 @@ layout: post
 title: 15 grudnia
 image: img/december/boh.jpg
 author: Tomasz Waszczyk
-date: 2021-12-15T10:00:00.000Z
+date: 2022-12-15T10:00:00.000Z
 tags:
   - Polen
 draft: false
 ---
+
+### 2023
+
+<img src="./img/december/tusk-ue.jpeg"><br><br>
 
 ### 2022
 

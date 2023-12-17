@@ -3,11 +3,17 @@ layout: post
 title: 13 grudnia
 image: img/december/praca.jpg
 author: Tomasz Waszczyk
-date: 2021-12-13T10:00:00.000Z
+date: 2022-12-13T10:00:00.000Z
 tags:
   - Sowieci
 draft: false
 ---
+
+### 2023
+
+The BBC, former governor of the Bank of England—the world's first central bank—Mervyn King, admits that the soaring inflation and living costs experienced worldwide post-Covid, were a predictable result of money printing by central banks.
+
+"During Covid, when the economy was actually contracting because of lockdown, central banks decided it was a good time to print a lot of money. That was a mistake. That led to inflation. We had too much money chasing too few goods, and the result was inflation. That was predictable. It was predicted and it happened."
 
 ### 2021
 
