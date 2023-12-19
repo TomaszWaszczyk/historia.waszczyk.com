@@ -3,11 +3,19 @@ layout: post
 title: 19 grudnia
 image: img/december/narutowicz.jpg
 author: Tomasz Waszczyk
-date: 2021-12-19T10:00:00.000Z
+date: 2022-12-19T10:00:00.000Z
 tags:
   - Gabriel Narutowicz
 draft: false
 ---
+
+### 2023
+
+EU leaders are considering depriving Hungary of its voting rights in order to approve a €50 billion aid package for Ukraine without its participation.
+
+Some officials in Brussels are proposing to apply the penalty procedure under Article 7 of the 2007 EU treaty for violating the rule of law, which could lead to the suspension of the state's voting rights.
+
+<img src="./img/december/brussel-game.jpeg"><br><br>
 
 ### 2022
 

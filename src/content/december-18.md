@@ -3,11 +3,19 @@ layout: post
 title: 18 grudnia
 image: img/december/jaruzel.jpg
 author: Tomasz Waszczyk
-date: 2021-12-18T10:00:00.000Z
+date: 2022-12-18T10:00:00.000Z
 tags:
   - Jan Paweł II
 draft: false
 ---
+
+### 2023
+
+The decline in non-housing services inflation (often called “supercore”) since early 2023 is entirely driven by softening demand
+
+<img src="./img/december/pce-inflation.jpeg"><br><br>
+
+<a href="./documents/december/el2023-18.pdf" target="_blank">PCE Inflation</a>
 
 ### 2022
 

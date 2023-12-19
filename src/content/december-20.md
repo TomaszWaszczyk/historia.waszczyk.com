@@ -3,10 +3,36 @@ layout: post
 title: 20 grudnia
 image: img/december/microvax_3600.jpg
 author: Tomasz Waszczyk
-date: 2021-12-20T10:00:00.000Z
+date: 2022-12-20T10:00:00.000Z
 tags:
   - Internet
 draft: false
+---
+
+### 2023
+
+Why all central banksters MUST CONTINIOUSLY LIE...
+
+<img src="./img/december/lie-central-bank.jpeg"><br><br>
+
+The philosophical lie: To sustain a massive falsehood over time, facts must be constantly denied. Otherwise, people will hold the scam up to reality and check it against evidence. The falsehood needs to blur the truth, or destroy it, so that facts become discredited. If the lie is successful over time, people come to believe that the way things are right now—what they are told is “true”—is the way things have always been and must always be. Nothing but the lie is practical or possible.
+
+Central Bank, Paper currency as debt was “the ghost of money”; coins were the reality. They were opposites of each other, like lies and truth, with one being a phantom and the other being the substance of life. Paper money is not merely an expression of and a pathway to corruption, it is also an existential parallel to free-market money. (“Existential” here means that fiat affirms the existence of money by being a “ghost” of it, even while contradicting money’s substance.)
+
+The challenge for central banks is to make the phantom seem real and the reality seem fraudulent. One way to do so is to question the validity of objective reality itself. After all, if there is no objective reality—if reality is dictated by authorities, the narrative, the majority, or other subjective forces—then there is nothing factual against which to assess anything. When nothing is objectively false or true, a lie is as valid as the truth.
+
+Thus central banks in 2023, had created debt as the 'phantom' of irredeemable fiat-money, via perpetuating the lie of monetary value existence within a continuously debased national currency.
+
+Central banking is immoral. Fiat money and its inevitable inflation are theft; the banking monopoly robs people of opportunity and prosperity; the punishment of financial dissenters, negates freedom by denying individuals the use of their own property. This is a problem for central banking because it is an oppressive double standard which enslave all nations peoples via central bank issued 'debt' as circulating fiat-money.
+
+Central banking is a metaphysical lie that requires the discrediting of fact. Lies are used to establish the superiority of state-controlled finances over a privately-controlled system and so gin up people’s compliance to remain enslaved by the central banksters debt. The worlds central banks know truth from lies; they know what they are doing when the peddle the lies of fiat-monetary value.
+
+---
+
+Tang Xiao'ou, miliarder założyciel chińskiego giganta AI SenseTime, zmarł w piątek z powodu tajemniczych "kwestii zdrowotnych". Takie oświadczenie zostało wydane przez częściowo państwową firmę.
+
+<img src="./img/december/tang.avif"><br><br>
+
 ---
 
 ### 2021
