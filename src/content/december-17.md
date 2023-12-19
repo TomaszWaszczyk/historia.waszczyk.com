@@ -3,10 +3,30 @@ layout: post
 title: 17 grudnia
 image: img/december/klepacz.jpg
 author: Tomasz Waszczyk
-date: 2021-12-17T10:00:00.000Z
+date: 2022-12-17T10:00:00.000Z
 tags:
   - Balcerowicz
 draft: false
+---
+
+### 2023
+
+Protest of Farmers in Germany
+
+German farmers in Berlin en masse today demanding the government withdraw plans to abolish agricultural diesel and vehicle tax exemptions.
+
+<video width="640" height="480" controls>
+<source src="./movies/december/berlin-farmers.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+> Rarely is there so much drama in such a short video that essentially only shows one face. Özdemir [Minister of agriculture, Young Global Leader of WEF] first speaks to the protesting farmers. At the beginning he clings to the paper he is reading from. Then, after about ten seconds, he stalls. He looks up from the sheet and starts looking into the crowd - who are chanting angrily: 'Ampel weg!' [=government hast to go]. Which sounds a bit like 'The wall has to go'.
+
+<video width="640" height="480" controls>
+<source src="./movies/december/farmers.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

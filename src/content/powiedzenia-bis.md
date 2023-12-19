@@ -228,6 +228,8 @@ um Brot zu essen
 
 > A komu i czemu to służy?
 
+różnym krokiem, wspólną drogą
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
