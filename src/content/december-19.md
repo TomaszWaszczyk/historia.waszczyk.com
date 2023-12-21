@@ -17,6 +17,14 @@ Some officials in Brussels are proposing to apply the penalty procedure under Ar
 
 <img src="./img/december/brussel-game.jpeg"><br><br>
 
+---
+
+Były prezes Poczty Polskiej bije na alarm: grozi jej upadłość. Strata państwowego giganta w tym roku sięgnie aż 700 mln zł. Jednak, jak ustaliła "Rzeczpospolita", może być ona jeszcze większa. Ceska Posta zbankrutowała. "Poczta Polska idzie w tym samym kierunku".
+
+<img src="./img/december/poczta-polska.jpeg"><br><br>
+
+---
+
 ### 2022
 
 <img src="./img/december/qt.png"><br><br>

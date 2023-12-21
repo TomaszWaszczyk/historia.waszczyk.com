@@ -230,6 +230,10 @@ um Brot zu essen
 
 różnym krokiem, wspólną drogą
 
+Друзі , це перемога
+
+żonę mam przy wypłacie, resztę żyję w celibacie
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

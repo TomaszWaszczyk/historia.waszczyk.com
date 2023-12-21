@@ -3,9 +3,39 @@ layout: post
 title: 22 grudnia
 image: img/december/zbrodniarze.jpg
 author: Tomasz Waszczyk
-date: 2021-12-22T10:00:00.000Z
+date: 2022-12-22T10:00:00.000Z
 tags:
   - KL Auschwitz
+---
+
+### 2024
+
+The Year of Escalation – Preparing for the War Cycle and Inflation Surge
+
+In Dec 2023 twelve top trading and transportation companies (BP, CMA CGM, Equinor, Euronav, Evergreen, Frontline, Hapag-Lloyd, HMM, Maersk, MSC, OOCL, and Yang Ming Marine Transport) have collectively abandoned the Red Sea trade routes due to a massive military buildup and ongoing Houthis attacks.
+
+The presence of warships from countries like the USA, UK and Japan in the Red Sea signals a heightened geopolitical tension at a crucial global chokepoint.
+
+In the event of an escalation between the enemies leading to the closure of the Suez Canal (where ~10% of world’s oil flows), maritime traffic would be compelled to circumnavigate Africa to reach Europe.
+
+This detour would significantly increase transit times and shipping costs, inevitably causing a rise in the prices of goods in Europe due to heightened transportation expenses and extended delivery periods.
+
+Simultaneously, the escalating political situation in hashtag#Serbia (another choke point), with the opposition bloc challenging municipal election results, signals a growing concern of growing danger of a "color" revolution. 
+
+These events, while distinct, underline the interconnectedness of global affairs. They remind us of the ripple effects that regional developments can have on international politics, economics, and societal stability.
+
+During the 1970s oil crisis, US inflation peaked in March 1980 at around 15%, spurred by Middle Eastern geopolitical tensions like the Yom Kippur War and the Iranian Revolution.
+
+Yes, this time is different. Why? Because 1980's federal debt was USD 914 billion compared to today's USD 33.84 trillion.
+
+<img src="./img/december/transport.jpeg"><br><br>
+
+---
+
+<img src="./img/december/redhat.jpeg"><br><br>
+
+<img src="./img/december/krocie.png"><br><br>
+
 ---
 
 ### 2022

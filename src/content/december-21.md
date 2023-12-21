@@ -3,10 +3,40 @@ layout: post
 title: 21 grudnia
 image: img/december/afganistan.jpg
 author: Tomasz Waszczyk
-date: 2021-12-21T10:00:00.000Z
+date: 2022-12-21T10:00:00.000Z
 tags:
   - Afganistan
 draft: false
+---
+
+### 2023
+
+Red Sea is now largely closed to traffic. That's 8.8 million bpd of daily oil transit, and nearly 380 million tons of daily cargo transit. 
+Global traffic now will be rerouted around Cape of Good Hope, adding 40% to voyage distance (and even more to cost)
+
+<img src="./img/december/redsea.jpeg"><br><br>
+
+---
+
+<img src="./img/december/tvp-info.jpg"><br><br>
+
+---
+
+<img src="./img/december/os-versioning.jpeg"><br><br>
+
+---
+
+<img src="./img/december/dyrdymaly.png"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/december/tvp-przejecie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/december/papiez-franciszek.jpeg"><br><br>
+
 ---
 
 ### 2019
