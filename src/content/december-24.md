@@ -3,12 +3,16 @@ layout: post
 title: 24 grudnia
 image: img/december/ox2021.jpeg
 author: Tomasz Waszczyk
-date: 2021-12-24T10:00:00.000Z
+date: 2022-12-24T10:00:00.000Z
 tags:
   - 0x - Wigilia 2020 - China - Japan
 ---
 
 ### 2023
+
+> To co było, jest tym co będzie. To co się już wydarzyło, będzie tym co się wydarzyło, nie ma nic nowego pod słońcem. - Księga Koheleta
+
+---
 
 <a href="./documents/december/Kazania-ksiedza-Stokowego.pdf" target="_blank">Kazania księdza Stokowego</a>
 

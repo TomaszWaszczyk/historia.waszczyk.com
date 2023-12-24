@@ -38,6 +38,10 @@ Yes, this time is different. Why? Because 1980's federal debt was USD 914 billio
 
 ---
 
+### 2023
+
+<img src="./img/december/dudkiewicz.png"><br><br>
+
 ### 2022
 
 Grafika przedstawiająca miejsca relokacji największych ukraińskich firm sektora IT. Stan na 22 grudnia. Źródło: Forbes

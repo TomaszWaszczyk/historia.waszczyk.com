@@ -234,6 +234,12 @@ różnym krokiem, wspólną drogą
 
 żonę mam przy wypłacie, resztę żyję w celibacie
 
+> Tak młody jak dziś nie będziesz już nigdy. Wykorzystaj to z myślą o Twoim jutrze.
+
+<img src="./img/others/powiedzenia/wisdom.jpeg"><br><br>
+
+<img src="./img/others/lack-of-soul.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

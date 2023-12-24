@@ -118,6 +118,10 @@ lat pozbawienia wolności. Zmarł w więzieniu w 1980 roku. Włodzimierz Leś, w
 
 <img src="./img/september/ulma.jpg"><br><br>
 
+### 1993
+
+<img src="./img/september/peres.png"><br><br>
+
 ### 1939
 
 W Szczucinie żołdacy z Wehrmachtu zamordowali 25 Żydów. Przed egzekucją Żydzi musieli pochować ok. 100 osób - byli to jeńcy polscy zamordowani dzień wcześniej przez żołdaków z 8. Dywizji Piechoty z VIII Korpusu Armijnego. Żołdacy za wymordowanie polskich jeńców zostali uhonorowani Żelaznym Krzyżem i prawdopodobnie dodatkowymi upominkami w postaci alkoholu i kilku dni wolnych od służby. 
