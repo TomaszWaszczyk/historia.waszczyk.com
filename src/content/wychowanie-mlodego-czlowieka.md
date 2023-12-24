@@ -8,6 +8,17 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/wychowanie-mlodego-czlowieka/Niggun-Aish-Kodesh-A-Tribute-to-the-Piacezner-Rebbe.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+This song was composed on the yartzeit of Rebbe Kloynimus Kalman Shapira, the Piacezner rebbe. This video, a tribute to his and his focus on educating Jewish youth, is dedicated l'zecher nishmaso.
+
+The Piacezner rebbe was a giant of spirit. Unique among rebbes, he formulated an entire system of Torah thought built on a penetrating analysis of both the kabbalistic tradition and the human psyche. His seforim, Chovas HaTalmidim, Aish Kodesh, Hachsharas HaAvreichim, and Derech HaMelech, are filled with the melody of his poetic soul, lending the most incredible encouragement from that dark time in Jewish history. Though his holy kingdom was destroyed by the Nazis ym"s, his fire lives on in today's youth, who carry the torch of our eternal spirit. In our generation, his torch burns more brightly than ever before. Zechuso yagein aleinu.
+
+---
+
 > I don't want a nation of thinkers, I want a nation of workers - John D. Rockefeller (John D. Rockefeller on Making Money: Advice and Words of Wisdom on Building and Sharing Wealth)
 
 <a href="./documents/wychowanie-mlodego-czlowieka/ED349475.pdf" target="_blank">Rockefeller and General Education Board</a>
