@@ -3,10 +3,39 @@ layout: post
 title: 30 grudnia
 image: img/december/kwiatkowski.jpeg
 author: Tomasz Waszczyk
-date: 2021-12-30T10:00:00.000Z
+date: 2022-12-30T10:00:00.000Z
 tags:
   - JP Morgan
 ---
+
+### 2023
+
+<img src="./img/december/nuclear.jpeg"><br><br>
+
+<img src="./img/december/IMG_0193.jpg"><br><br>
+
+<img src="./img/december/IMG_0195.jpg"><br><br>
+
+<a href="./documents/december/HumansBecomingDataPoints.docx" target="_blank">Humans Becoming Data Points</a>
+
+<img src="./img/december/myslenie.png"><br><br>
+
+---
+
+<img src="./img/december/us-dollar.jpeg"><br><br>
+
+<img src="./img/december/ww-pre-post.jpeg"><br><br>
+
+<img src="./img/december/leibniz.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/december/toy.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/december/NYT_Complaint_Dec2023.pdf" target="_blank">NYT Complaint</a>
 
 ### 2021
 

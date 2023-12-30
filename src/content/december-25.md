@@ -3,10 +3,20 @@ layout: post
 title: 25 grudnia
 image: img/december/kozakiewicz.png
 author: Tomasz Waszczyk
-date: 2021-12-25T10:00:00.000Z
+date: 2022-12-25T10:00:00.000Z
 tags:
   - NKWD
 ---
+
+### 2023
+
+> If you are in the business of government IT/software and you're not actively asking yourself "how will LLMs change this workflow?" then you are in for a very surprising next 12-24 months.
+
+---
+
+> "Będziemy wzywać wszystkich w kraju i za granicą, od 25 do 60 roku życia. Mamy 3 500 kilometrów linii frontu, którą muszą bronić." - minister obrony Rustem Umerow.
+
+<img src="./img/december/umerow.jpeg"><br><br>
 
 ### 2020
 

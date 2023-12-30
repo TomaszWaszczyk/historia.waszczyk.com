@@ -3,10 +3,16 @@ layout: post
 title: 28 grudnia
 image: img/december/sievers.jpg
 author: Tomasz Waszczyk
-date: 2021-12-28T10:00:00.000Z
+date: 2022-12-28T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2023
+
+> "If inflation continues to soar, you are going to have to work like a dog just to live like one." George Gobel
+
+<img src="./img/december/gobel.jpeg"><br><br>
 
 ### 2022
 

@@ -240,6 +240,10 @@ różnym krokiem, wspólną drogą
 
 <img src="./img/others/lack-of-soul.png"><br><br>
 
+<img src="./img/others/powiedzenia/miszlej.jpg"><br><br>
+
+<img src="./img/others/powiedzenia/trigers.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

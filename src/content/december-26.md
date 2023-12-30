@@ -3,10 +3,18 @@ layout: post
 title: 26 grudnia
 image: img/december/rad.jpg
 author: Tomasz Waszczyk
-date: 2021-12-26T10:00:00.000Z
+date: 2022-12-26T10:00:00.000Z
 tags:
   - Sowieci
 ---
+
+### 2023
+
+<img src="./img/december/franciszek.jpeg"><br><br>
+
+<img src="./img/december/impfen2.jpeg"><br><br>
+
+<img src="./img/december/ccp.jpg"><br><br>
 
 ### 2022
 
