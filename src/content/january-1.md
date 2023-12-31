@@ -3,9 +3,21 @@ layout: post
 title: 1 stycznia
 image: img/january/premia_dolara_do_pln.jpeg
 author: Tomasz Waszczyk
-date: 2022-01-01T10:00:00.000Z
+date: 2023-01-01T10:00:00.000Z
 tags:
   - Radio Wolna Europa
+---
+
+### 2024
+
+<img src="./img/january/german-home-index.jpg"><br><br>
+
+---
+
+Cele prezesa banku:
+
+<img src="./img/january/gdanski-prezes.png"><br><br>
+
 ---
 
 ### ~2023

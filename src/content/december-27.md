@@ -20,11 +20,9 @@ tags:
 
 ### 2022
 
-W Rosji ogłoszono dekret o nacjonalizacji banków.
+`??` W Rosji ogłoszono dekret o nacjonalizacji banków. 
 
-Od tego momentu bolszewicy rozpoczynają rabunek mienia ludności na niespotykaną dotychczas skalę!
-
-<img src="./img/december/grabiez.jpeg"><br><br>
+Od tego momentu bolszewicy rozpoczynają rabunek mienia ludności na niespotykaną dotychczas skalę! `??`
 
 ---
 
