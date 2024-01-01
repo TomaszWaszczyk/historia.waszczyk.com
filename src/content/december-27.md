@@ -18,6 +18,11 @@ tags:
 
 <img src="./img/december/gasowski.jpeg"><br><br>
 
+<video width="640" height="480" controls>
+<source src="./movies/december/niezaszczepieni.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2022
 
 `??` W Rosji ogłoszono dekret o nacjonalizacji banków. 

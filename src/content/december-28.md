@@ -14,6 +14,12 @@ tags:
 
 <img src="./img/december/gobel.jpeg"><br><br>
 
+---
+
+<img src="./img/december/przelewy-tuskowe.png"><br><br>
+
+---
+
 ### 2022
 
 What is the Chip 4 alliance?

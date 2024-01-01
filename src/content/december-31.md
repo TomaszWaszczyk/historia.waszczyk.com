@@ -3,10 +3,17 @@ layout: post
 title: 31 grudnia
 image: img/december/Wiesenthal.jpg
 author: Tomasz Waszczyk
-date: 2021-12-31T10:00:00.000Z
+date: 2022-12-31T10:00:00.000Z
 tags:
   - Księstwo Litewskie
 ---
+
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/december/rakieta-w-polsce.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 
