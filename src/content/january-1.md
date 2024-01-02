@@ -10,7 +10,13 @@ tags:
 
 ### 2024
 
+<img src="./img/january/nowy-rok.jpeg"><br><br>
+
 <img src="./img/january/german-home-index.jpg"><br><br>
+
+---
+
+> W przypadku klas 1-3 prace domowe nie mają sensu. Takie dziecko samodzielnie pracy domowej nie rozwiąże. Realnie to nie jest zadanie tylko dla dzieci, ale i dla rodziców. Tego nie powinno być. W przypadku starszych dzieci trzeba prace domowe znacząco ograniczyć - Katarzyna Lubnauer
 
 ---
 
