@@ -3,10 +3,25 @@ layout: post
 title: 4 stycznia
 image: img/january/sikorski.jpg
 author: Tomasz Waszczyk
-date: 2022-01-04T10:00:00.000Z
+date: 2023-01-04T10:00:00.000Z
 tags:
   - Kolejki głodu
 draft: false
+---
+
+### 2024
+
+<img src="./img/january/oszalal.png"><br><br>
+
+<img src="./img/january/eurpln-google.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/vibes.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2023

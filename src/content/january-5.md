@@ -3,11 +3,22 @@ layout: post
 title: 5 stycznia
 image: img/january/eisenhover.jpg
 author: Tomasz Waszczyk
-date: 2022-01-05T10:00:00.000Z
+date: 2023-01-05T10:00:00.000Z
 tags:
   - Józef Beck
 draft: false  
 ---
+
+### 2024
+
+Next week as the German Farmers have announced that they will launch a protest “larger than the country has ever seen before” on Monday, January 8.
+
+<video width="640" height="480" controls>
+<source src="./movies/january/germany-farmers.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Multiple farmers' associations, the train drivers’ union and the trucking industry have announced they’ll be mobilizing against the federal government's plans to cancel for agricultural diesel, cut vehicle tax exemptions and increase truck tolls and carbon taxes.
 
 ### 2023
 
