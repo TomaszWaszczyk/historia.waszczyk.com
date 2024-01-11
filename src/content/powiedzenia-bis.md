@@ -244,6 +244,8 @@ różnym krokiem, wspólną drogą
 
 <img src="./img/others/powiedzenia/trigers.png"><br><br>
 
+<img src="./img/others/powiedzenia/ron-paul.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

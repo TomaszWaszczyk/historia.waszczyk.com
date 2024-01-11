@@ -3,11 +3,21 @@ layout: post
 title: 10 stycznia
 image: img/january/lublin.jpg
 author: Tomasz Waszczyk
-date: 2022-01-10T10:00:00.000Z
+date: 2023-01-10T10:00:00.000Z
 tags:
   - Rzeczpospolita Obojga Narodów
 draft: false  
 ---
+
+### 2023
+
+<img src="./img/january/btc-etf-1.jpeg"><br><br>
+
+<img src="./img/january/btc-etf-2.jpeg"><br><br>
+
+<img src="./img/january/btc-etf-3.jpeg"><br><br>
+
+<img src="./img/january/btc-etf-4.jpeg"><br><br>
 
 ### 2022
 

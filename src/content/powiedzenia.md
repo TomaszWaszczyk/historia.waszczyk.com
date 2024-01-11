@@ -2582,6 +2582,8 @@ My people are destroyed for lack of knowledge. Because you have rejected knowled
 
 "Women are made to be loved, not understood." - Oscar Wilde - relayr
 
+Kobieta jest jak Wielka Brytwania, ma interesy, nie uczucia.
+
 Marksizm można powiedzieć jest ciekawą socjologią, bardzo wątpliwą ekonomią i katastrofalną filozofią - Wojciech Roszkowski
 
 Jeśli towary nie przekraczają granic to granice są przekraczane przez żołnierzy.

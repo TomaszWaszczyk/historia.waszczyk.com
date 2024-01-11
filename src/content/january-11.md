@@ -3,11 +3,23 @@ layout: post
 title: 11 stycznia
 image: img/january/socialism2021.png
 author: Tomasz Waszczyk
-date: 2022-01-11T10:00:00.000Z
+date: 2023-01-11T10:00:00.000Z
 tags:
   - Computer science
 draft: false  
 ---
+
+### 2023
+
+<a href="./documents/january/WEF_The_Global_Risks_Report_2024.pdf" target="_blank">WEF_The_Global_Risks_Report_2024.pdf</a>
+
+<img src="./img/january/inflacja.png"><br><br>
+
+<img src="./img/january/fix-computer.jpeg"><br><br>
+
+<img src="./img/january/top-10-risks.jpeg"><br><br>
+
+<img src="./img/january/wodka-palikota.jpeg"><br><br>
 
 ### 2022
 

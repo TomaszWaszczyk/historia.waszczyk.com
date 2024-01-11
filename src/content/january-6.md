@@ -3,11 +3,15 @@ layout: post
 title: 6 stycznia
 image: img/january/hipolit.jpg
 author: Tomasz Waszczyk
-date: 2021-01-06T10:00:00.000Z
+date: 2023-01-06T10:00:00.000Z
 tags:
   - Hotele
 draft: false  
 ---
+
+### 2024
+
+> If you're posting pronouns, you're signaling to everyone that you can *only* work in a large company that gets subsidized by fiat money.
 
 ### 2022
 
@@ -46,6 +50,16 @@ Likwidacja lokalnego rolnictwa.
 Od 1 stycznia obowiązuje nowy podatek paliwowy. Chodzi o tzw. opłatę zapasową, która może spowodować wzrost cen paliw od 4 do 6 groszy na litrze.
 
 Ceny ropy naftowej na światowych rynkach surowcowych są najniższe od lat. W efekcie mniej pieniędzy na stacjach benzynowych zostawiają kierowcy. Od lipca do końca tego roku, kiedy ceny ropy zaczęły gwałtownie spadać, paliwo potaniało o 91 groszy, a ceny oleju napędowego o 80 groszy na litrze.
+
+### 1990
+
+Dr. Robert Willner accused Anthony Fauci of Genocide during the AIDS epidemic. His speech is even more pertinent today.
+Genocide has been their agenda for decades.
+
+<video width="640" height="480" controls>
+<source src="./movies/january/willner.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2014
 
