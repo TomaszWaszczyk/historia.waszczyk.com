@@ -9,9 +9,9 @@ tags:
 draft: false  
 ---
 
-### 2023
+### 2024
 
-<a href="./documents/january/WEF_The_Global_Risks_Report_2024.pdf" target="_blank">WEF_The_Global_Risks_Report_2024.pdf</a>
+<a href="./documents/january/WEF_The_Global_Risks_Report_2024.pdf" target="_blank">WEF_The_Global_Risks_Report_2024</a>
 
 <img src="./img/january/inflacja.png"><br><br>
 

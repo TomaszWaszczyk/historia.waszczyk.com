@@ -238,13 +238,15 @@ różnym krokiem, wspólną drogą
 
 <img src="./img/others/powiedzenia/wisdom.jpeg"><br><br>
 
-<img src="./img/others/lack-of-soul.png"><br><br>
+<img src="./img/others/powiedzenia/lack-of-soul.png"><br><br>
 
 <img src="./img/others/powiedzenia/miszlej.jpg"><br><br>
 
 <img src="./img/others/powiedzenia/trigers.png"><br><br>
 
 <img src="./img/others/powiedzenia/ron-paul.jpeg"><br><br>
+
+Decision of spending money will be made by impact and deliverables, not by cost.
 
 ---
 

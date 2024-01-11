@@ -3,10 +3,21 @@ layout: post
 title: 12 stycznia
 image: img/january/usdm1-2021.jpeg
 author: Tomasz Waszczyk
-date: 2022-01-12T10:00:00.000Z
+date: 2023-01-12T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
+---
+
+### 2024
+
+> Romantic kiss
+
+<video width="640" height="480" controls>
+<source src="./movies/january/romantic-kiss.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2023
