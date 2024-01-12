@@ -314,6 +314,10 @@ Hans Kundnani, The paradox of the German power
 
 # Jewish space
 
+hebrajski - modlitwa, język religijny
+
+jidysz - rozmowa
+
 https://pl.wikipedia.org/wiki/Chazarowie
 
 https://pl.wikipedia.org/wiki/Kaba%C5%82a

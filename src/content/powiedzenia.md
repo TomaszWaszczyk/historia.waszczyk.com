@@ -2580,6 +2580,8 @@ Wiadomości to wersja robocza historii.
 
 My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children. Horesa 4:6
 
+A woman is like Britain, she has interests, not feelings.
+
 "Women are made to be loved, not understood." - Oscar Wilde - relayr
 
 Kobieta jest jak Wielka Brytania, ma interesy, nie uczucia.

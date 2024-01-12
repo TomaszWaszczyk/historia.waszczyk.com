@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2024
+
+<img src="./img/january/sun.jpg"><br><br>
+
+The sun just had a violent eruption of plasma on the Western limb. This flung material hundreds of thousands of miles into space. An incredible sight. This photo was captured just 10 minutes ago using my modified solar telescope.
+
+---
+
+<img src="./img/january/Gigamoon-mobile-wallpaper.jpg"><br><br>
+
+---
+
+<img src="./img/january/Moonlight.jpg"><br><br>
+
+`November Moonlight, by John Atkinson Grimshaw (1836 - 1893)`
+
+---
+
 ### 2022
 
 Wygląda na to, że rząd będzie budował hale do e-sportu aby dzieci nie siedziały przed komputerami.

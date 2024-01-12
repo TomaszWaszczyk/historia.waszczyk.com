@@ -201,4 +201,14 @@ https://pl.wikipedia.org/wiki/Alfred_Rosenberg
 
 ---
 
+### 1834
+
+You may know that the world's first cyber-attack happened in 1834 when two bankers, François and Joseph Blanc bribed the semaphor telegraph operator to introduce deliberate errors into routine government messages being sent over the network
+
+<img src="./img/january/first-cyber-attack.jpeg"><br><br>
+
+> The world’s first national data network was constructed in France during the 1790s. It was a mechanical telegraph system, consisting of chains of towers, each of which had a system of movable wooden arms on top. Different configurations of these arms corresponded to letters, numbers and other characters. Operators in each tower would adjust the arms to match the configuration of an adjacent tower, observed through a telescope, causing sequences of characters to ripple along the line. Messages could now be sent much faster than letters, whizzing from one end of France to the other in minutes. The network was reserved for government use but in 1834 two bankers, François and Joseph Blanc, devised a way to subvert it to their own ends.
+
+---
+
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/january-12.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
