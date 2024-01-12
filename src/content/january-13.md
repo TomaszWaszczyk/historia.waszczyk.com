@@ -3,13 +3,29 @@ layout: post
 title: 13 stycznia
 image: img/january/lagarde.png
 author: Tomasz Waszczyk
-date: 2022-01-13T10:00:00.000Z
+date: 2023-01-13T10:00:00.000Z
 tags:
   - Negative interest rates
 draft: false
 ---
 
 ### 2024
+
+<img src="./img/january/x.jpeg"><br><br>
+
+---
+
+⚠ Prepare for the next phase in the inflation cycle ⚠
+
+As predicted end of last year we have now entered the next escalation phase in the war cycle.
+
+A lot of people think diplomacy has failed and the West has fallen into a deadly trap which it cannot escape.
+
+Fighting inflation in a world of conflict will only make things worse, because wars are inherently inflationary.
+
+We are moving along the classic trajectory to the end point of the long-term debt cycle, where inflation unloads in several rising waves. the last wave is called a crack-up boom, where prices go parabolic just before a currency reform puts an end to the whole thing.
+
+---
 
 <img src="./img/january/sun.jpg"><br><br>
 
