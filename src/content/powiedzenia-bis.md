@@ -248,6 +248,10 @@ różnym krokiem, wspólną drogą
 
 Decision of spending money will be made by impact and deliverables, not by cost.
 
+Zbyt wielu ludzi myśli o bezpieczeństwie zamiast o szansie. Wydają się być bardziej przestraszeni życiem niż śmiercią. - James F. Bymes
+
+<img src="./img/others/powiedzenia/mental-illness.png"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

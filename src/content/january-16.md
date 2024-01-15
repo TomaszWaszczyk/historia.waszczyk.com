@@ -3,11 +3,60 @@ layout: post
 title: 16 stycznia
 image: img/january/herman.jpg
 author: Tomasz Waszczyk
-date: 2022-01-16T10:00:00.000Z
+date: 2023-01-16T10:00:00.000Z
 tags:
   - Szachy
 draft: false
 ---
+
+### 2024
+
+Jowita Michalska (Digital European Union Ambassador):
+
+Tworzy się "klasa AI". W ciągu najbliższych dwóch lat zobaczymy, jak pracownicy wiedzy zaczną dzielić się na dwie klasy: ludzi, którzy wykorzystują sztuczną inteligencję w swojej codziennej pracy i ludzi, którzy tego nie robią.
+
+Klasa AI będzie nową klasą o wysokiej wydajności. W ciągu najbliższych pięciu lat "klasa AI" zacznie być awansowana, nagradzana i wynagradzana w wyższym stopniu niż klasa niewykorzystująca AI.
+
+Klasa AI będzie tworzona oddolnie (przez jednostki), a nie odgórnie (przez kierownictwo firmy). Organizacje przejdą do klasy AI, gdy ich pracownicy zaczną z niej korzystać - nie poprzez mianowanie szefa AI.
+
+Zadaniem każdej organizacji jest wprowadzenie siebie i swoich ludzi do klasy AI. Najlepszą rzeczą dla każdej organizacji jest znalezienie sposobów wykorzystania sztucznej inteligencji w celu zwiększenia produktywności, wydajności i jakości pracy. Najlepszą rzeczą dla pracowników jest zdobycie biegłości w sztucznej inteligencji, aby mieli więcej możliwości zatrudnienia, podwyżek i satysfakcjonującej pracy w przyszłości.
+
+Aby stworzyc organizacje opartą o AI, trzeba kwestionować wszystko, co robimy. Nie wprowadzimy siebie ani pracowników do klasy AI, jeśli nie będziemy biegli w sztucznej inteligencji w każdym obszarze działalności. Będzie to musiało oznaczać zmianę sposobu, w jaki organizacja wytwarza, wprowadza na rynek, sprzedaje i dostarcza swoje produkty.
+
+---
+
+<img src="./img/january/jim-simons.jpeg"><br><br>
+
+---
+
+<img src="./img/january/urlopy.jpeg"><br><br>
+
+```
+Nielimitowane urlopy a społeczna odpowiedzialność 🕊️
+
+W piątkowym tygodniku Warszawa Wyborcza.pl ukazał się ze mną wywiad dotyczący nielimitowanych urlopów. W SYZYGY mamy je już od przeszło 3 lat. Dalej żyjemy i jest to jedno z rozwiązań, które w całej turkusowej przygodzie generuje imho najmniej napięć. 
+Wiadomo: bańka, branża IT, młody, dynamiczny zespół, itp.
+
+Dzisiaj ukazało się wydanie elektroniczne i mówiąc „nie zrobię sobie tego i nie wejdę w komentarze” w tym samym momencie czytałam pierwszy z nich 🤡
+
+I to mnie BOLY! 😓 
+Boly mnie, że słysząc „nielimitowany urlop” można słyszeć - „ściema, bzdura, na pewno nie wolno brać więcej niż tyle co ustawa nakazuje”. 
+ Smutny obraz Polek i Polaków się z nich maluje.
+
+Najbardziej smucą mnie dwie rzeczy:
+👉 powszechne przekonanie, że szef/właściciel na pewno będzie chciał nas zrobić w 🍆 
+👉 mnie się należy wolne i 🍆 mnie obchodzi co robią i jakie plany mają inni 
+ 
+Smuci mnie, że jako ludzie mamy takie doświadczenia, że inni to zagrożenie, a obroną, która nas przed nimi ochroni, jest myślenie przede wszystkim o sobie i swoim interesie. 
+Choć to co mnie najbardziej smuci to, że ciężko się temu dziwić…
+
+Marzy mi się, żeby było inaczej, bo to czego ten kraj dzisiaj bardzo potrzebuje to zrozumienia idei odpowiedzialności społecznej - zwłaszcza w sytuacji, gdy "ustawiłeś się" na górze hierarchii.
+
+Czekam na więcej właścicielek i właścicieli, których stać na odważne ruchy i zmianę myślenia o folwarcznych i feudalnych zależnościach. Hop! Hop! Hop! hashtag#pozdrodlakumatych 🤓
+
+PS zdaję sobie sprawę że ten post jest przedstawieniem tylko części zjawiska, nie każdy musi mieć takie przekonania i być „złym szefem” ;) 
+
+```
 
 ### 2023
 
