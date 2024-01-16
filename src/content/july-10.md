@@ -108,6 +108,14 @@ Operacja “Husky” przeprowadzona 10 lipca - 17 sierpnia 1943 zakończyła si�
 
 <img src="./img/july/husky.jpg"/><br><br>
 
+### 1941
+
+Szymon Datner, polski historyk żyd. pochodzenia, badacz sprawy mordu w Jedwabnem potwierdził, że Niemcy 10 lipca 1941 roku podżegali, a następnie zmuszali lub nakłaniali do współpracy Polaków, a gdy to zawiodło, hitlerowcy sami dokonali mordu w Jedwabnem.
+
+<img src="./img/july/jedwabne.jpg"><br><br>
+
+<img src="./img/july/datner.jpg"><br><br>
+
 ### 1940
 
 https://pl.wikipedia.org/wiki/Anatol_Lawina

@@ -3,9 +3,41 @@ layout: post
 title: 17 stycznia
 image: img/january/glapinski2021.jpg
 author: Tomasz Waszczyk
-date: 2022-01-17T10:00:00.000Z
+date: 2023-01-17T10:00:00.000Z
 tags:
   - Ujemne stopy w Polsce
+---
+
+### 2024
+
+<img src="./img/january/complexity.jpeg"><br><br>
+
+<img src="./img/january/commodity-prices.jpg"><br><br>
+
+---
+
+<img src="./img/january/sedzia.jpg"><br><br>
+
+<img src="./img/january/anarchia-konstytucyjna.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/bill-gates.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/january/szczepienia.jpeg"><br><br>
+
+<img src="./img/january/cancer-striking.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/nap.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2023
