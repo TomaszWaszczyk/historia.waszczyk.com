@@ -3,11 +3,22 @@ layout: post
 title: 20 stycznia
 image: img/january/joe.jpeg
 author: Tomasz Waszczyk
-date: 2022-01-20T10:00:00.000Z
+date: 2023-01-20T10:00:00.000Z
 tags:
   - Donald Trump
 draft: false  
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/january/chat-gpt.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/january/women.jpeg"><br><br>
+
+<img src="./img/january/women-2.jpeg"><br><br>
 
 ### 2023
 
