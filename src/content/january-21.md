@@ -3,11 +3,57 @@ layout: post
 title: 21 stycznia
 image: img/january/elections.png
 author: Tomasz Waszczyk
-date: 2022-01-21T10:00:00.000Z
+date: 2023-01-21T10:00:00.000Z
 tags:
   - Mateusz wie
 draft: false  
 ---
+
+### 2024
+
+<img src="./img/january/ingodwetrust.jpeg"><br><br>
+
+`
+$136bn. That's how much money the Federal Reserve has lost since September 2022. 
+
+To put that amount into perspective, it's more than three times the Fed's capital and reserves. Losses continue to accumulate at the rate of around $2 billion a week.
+
+The Fed is apparently insolvent. Is that a problem? Answer: No.
+
+This is because the Fed claims the "loss" is actually an "asset". Huh?
+
+You might be gasping in surprise. After all, if you, or an ordinary company, lost money, it's hardly an asset. It's simply gone. It reduces your reserves until you can't pay your creditors and you go out of business.
+
+Not as far as the Fed is concerned. The accumulated loss at the Fed is treated as an "asset". Or rather a "Deferred Asset". Is this false accounting? Not at the Fed!
+
+The authority for treating a loss as if it were an asset is derived from the 2023 version of the "Financial Accounting Manual for Federal Reserve Banks". Here's the quote from rule 11.96 contained on page 46 of that manual:
+
+"11.96 Deferred Asset (240-925) If a Reserve Bank’s earnings are not sufficient to provide for the costs of operations, remittances to the Treasury would be suspended. A deferred asset is recorded in this account."
+
+Who authorised this? According to the Accounting Manual: "Accounting principles for entities with the unique powers and responsibilities of the nation's central bank have not been formulated by accounting standard-setting bodies. The Board of Governors has developed specialized accounting principles and practices that it considers to be appropriate for the nature and function of a central bank. These accounting principles and practices are documented in this manual."
+
+So there you have it. The special accounting rule was formulated by the Fed's Board of Governors. The Chairman of the seven member Board of Governors is Jerome Powell. 
+
+So, if at the Fed, losses are "assets", then "The bigger the losses, the richer the Fed gets". 
+
+The more they spend, the richer they get. I wish that applied to the rest of us!
+
+If this wonderful accounting rule had applied to Worldcom and Enron, they might never have gone bankrupt.
+
+Who cares anyway? 
+
+The Fed's balance sheet is highly leveraged with assets and liabilities 180x its capital and reserves or around $7.7tn.
+
+One of those liabilities is $2.289tn of Federal Reserve notes (Cash in circulation). You can't take your cash back to the Fed and get gold. So, unless the losses exceed the cash they have issued, it's really not a problem. 
+
+Or is it?
+
+The Fed's assets include $4.751tn of Treasury Securities, and $2.431tn of Mortgage backed securities, as well as some other bonds. How much has the Fed lost on these? According to Note 2 of the Fed's quarterly balance sheet to 30th September 2023. the loss was $1.301tn. 
+
+They can't afford to lose another trillion.
+
+"In God we Trust"
+`
 
 ### 2023
 
