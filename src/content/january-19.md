@@ -3,11 +3,19 @@ layout: post
 title: 19 stycznia
 image: img/january/ak.jpg
 author: Tomasz Waszczyk
-date: 2022-01-19T10:00:00.000Z
+date: 2024-01-19T10:00:00.000Z
 tags:
   - Armia Krajowa
 draft: false  
 ---
+
+### 2024
+
+<img src="./img/january/ex.png"><br><br>
+
+<img src="./img/january/gold-vs-rates.jpeg"><br><br>
+
+<img src="./img/january/history.jpeg"><br><br>
 
 ### 2023
 

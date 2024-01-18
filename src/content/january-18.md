@@ -3,10 +3,27 @@ layout: post
 title: 18 stycznia
 image: img/january/gaz.jpg
 author: Tomasz Waszczyk
-date: 2022-01-18T10:00:00.000Z
+date: 2023-01-18T10:00:00.000Z
 tags:
   - Jan Twardowski
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/january/jamie-dimon.MP4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/january/lipsk-niemcy.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/january/new-order.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2023
 

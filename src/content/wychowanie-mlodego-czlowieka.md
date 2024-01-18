@@ -678,6 +678,11 @@ Manifest Twojego Dziecka – Janusz Korczak
 52÷13(1+1)=
 ```
 
+<video width="640" height="480" controls>
+<source src="./movies/wychowanie-mlodego-czlowieka/Billy-Bitcoin-Children.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <img src="./img/wychowanie-mlodego-czlowieka/electricity.jpg"><br><br>
 
 <https://flexboxfroggy.com>
