@@ -252,6 +252,8 @@ Zbyt wielu ludzi myśli o bezpieczeństwie zamiast o szansie. Wydają się być 
 
 <img src="./img/others/powiedzenia/mental-illness.png"><br><br>
 
+<img src="./img/others/powiedzenia/davos.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,10 +3,34 @@ layout: post
 title: 22 stycznia
 image: img/january/powstaniestyczniowe.jpg
 author: Tomasz Waszczyk
-date: 2022-01-22T10:00:00.000Z
+date: 2023-01-22T10:00:00.000Z
 tags:
   - Powstanie styczniowe
 draft: false  
+---
+
+### 2024
+
+Gidon Lev, a Holocaust survivor who was interned at the German Nazi ghetto of Theresienstadt between the ages of 6 and 10 is with Elon Musk and Ben Shapiro visiting KL Auschwitz.
+
+<img src="./img/january/gidon-lev.jpeg"><br><br>
+
+---
+
+<img src="./img/january/wef.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/january/alex-soros.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/meeeeeeee.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2021

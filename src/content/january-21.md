@@ -55,6 +55,16 @@ They can't afford to lose another trillion.
 "In God we Trust"
 `
 
+---
+
+Priest excommunicated for claiming Pope is a masonic impostor Father Ramon Guidetti described Francis as the anti-pope and ‘a Jesuit linked to world powers’
+
+<img src="./img/january/masonic.jpg"><br><br>
+
+An Italian priest has been excommunicated for claiming that the Pope is a usurper with a “corpse-like stare” who is pretending to be pope.
+
+---
+
 ### 2023
 
 <img src="./img/january/ufac.jpeg"><br><br>
