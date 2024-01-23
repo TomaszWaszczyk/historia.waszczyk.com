@@ -3,7 +3,7 @@ layout: post
 title: 22 stycznia
 image: img/january/powstaniestyczniowe.jpg
 author: Tomasz Waszczyk
-date: 2023-01-22T10:00:00.000Z
+date: 2024-01-22T10:00:00.000Z
 tags:
   - Powstanie styczniowe
 draft: false  
@@ -56,6 +56,12 @@ Jak mówi, tak zrobi:
 <img src="./img/january/ratzinger.jpeg"><br><br>
 
 ---
+
+### 1877
+
+<img src="./img/january/lesman.jpeg"><br><br>
+
+`Bolesław Lesman / Bolesław Leśmian - 22.01.1877 - 5.11.1937`
 
 ### 1867
 

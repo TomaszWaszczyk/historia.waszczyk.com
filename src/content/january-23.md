@@ -3,10 +3,39 @@ layout: post
 title: 23 stycznia
 image: img/january/bitcoinbuffet.jpeg
 author: Tomasz Waszczyk
-date: 2022-01-23T10:00:00.000Z
+date: 2024-01-23T10:00:00.000Z
 tags:
   - Rozbiór Polski
 draft: false
+---
+
+### 2024
+
+Obawa ogarnia polskich obywateli w obliczu możliwości wcielenia do pomocy armii ukraińskiej. Wołodymyr Zełenski, prezydent Ukrainy, poinformował, że armia potrzebuje dodatkowych pięćset tysięcy osób. Czy to oznacza, że zwiększenie liczby powołań żołnierzy aktywnej rezerwy w Polsce wiąże się ze wsparciem dla ukraińskiej armii? Kwalifikacja wojskowa rozpocznie się niedługo i obejmie aż dwieście trzydzieści tysięcy osób. Wojsko planuje wezwać prawie ćwierć miliona Polaków na kwalifikację wojskową w 2024 roku.
+
+<video width="640" height="480" controls>
+<source src="./music/january/wojna-na-ukrainie.mp3" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/january/iran-wants-war.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/wspomnienia-auschwitz.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/january/avueira.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

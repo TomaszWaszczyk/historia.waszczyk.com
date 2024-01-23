@@ -3,7 +3,7 @@ layout: post
 title: 21 stycznia
 image: img/january/elections.png
 author: Tomasz Waszczyk
-date: 2023-01-21T10:00:00.000Z
+date: 2024-01-21T10:00:00.000Z
 tags:
   - Mateusz wie
 draft: false  
