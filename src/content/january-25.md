@@ -3,10 +3,39 @@ layout: post
 title: 25 stycznia
 image: img/january/mikolaj.jpg
 author: Tomasz Waszczyk
-date: 2022-01-25T10:00:00.000Z
+date: 2024-01-25T10:00:00.000Z
 tags:
   - Self-Sovereign
 draft: false  
+---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/january/linux.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/january/cargo.jpeg"><br><br>
+
+---
+
+> "Jeśli będziemy całością, a podstawą tej całości będzie nasz język, nasza kultura, Nasza pamięć, nasza historia, nasi bohaterowie, będziemy tacy jak Polacy!" - były prezydent Ukrainy Wiktor Juszczenko.
+
+---
+
+Korean National Defense University
+
+<img src="./img/january/swiat.jpg"><br><br>
+
+---
+
+<img src="./img/january/chasyd.jpg"><br><br>
+
+---
+
+<img src="./img/january/dzienpo.jpeg"><br><br>
+
 ---
 
 ### 2022

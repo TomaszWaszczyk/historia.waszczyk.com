@@ -292,6 +292,8 @@ https://www.gbl.waw.pl/
 
 http://www.skorupski.com/polski.php
 
+https://allchronology.com/page/2/
+
 ### Sztuka
 
 https://zbiory.mnk.pl

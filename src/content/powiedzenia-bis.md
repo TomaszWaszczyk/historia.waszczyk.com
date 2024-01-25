@@ -254,6 +254,8 @@ Zbyt wielu ludzi myśli o bezpieczeństwie zamiast o szansie. Wydają się być 
 
 <img src="./img/others/powiedzenia/davos.jpeg"><br><br>
 
+“When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order.” - Ilya Prigogine
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

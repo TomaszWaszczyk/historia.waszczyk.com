@@ -390,6 +390,8 @@ evidence based education
 
 ### Kursy online
 
+<a href="./documents/wychowanie-mlodego-czlowieka/Learning_Together_Cryptography_for_Toddlers.pdf" target="_blank">Learning Together Cryptography for Toddlers</a>
+
 * <https://schoolhouse.world>
 
 ---
