@@ -3,10 +3,44 @@ layout: post
 title: 26 stycznia
 image: img/january/brakprzemocy.jpg
 author: Tomasz Waszczyk
-date: 2022-01-26T10:00:00.000Z
+date: 2024-01-26T10:00:00.000Z
 tags:
   - Niemcy
 ---
+
+### 2024
+
+> “Anybody who can throw coal into a furnace can learn how to program for God’s sake!”
+
+<video width="640" height="480" controls>
+<source src="./movies/january/everyone-can-program.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+"Gdyby nad wejściem do Parlamentu Europejskiego umieszczono nazwisko Stalina, Pol Pota lub Mao-Tse Tunga, zapewne każdy zwróciłby na to uwagę i zaczął zastanawiać się, czym jest Unia Europejska. Film opowiada o włoskim komuniście Altiero Spinellim, jego Manifeście z Ventotene, czyli programie założycielskim współczesnej Unii Europejskiej i Grupie Spinelli w PE dążącej do pełnej federalizacji (kolektywizacji) Europy.
+Udało się wmówić ludziom, iż po 1989 r. nastąpiła tzw. transformacja ustrojowa i że teraz żyją w - mniej lub bardziej doskonałej - demokracji, a demokracja jest takim hasłem-pałką, z którą trudno dyskutować. Tymczasem ta "transformacja" ustrojowa miała miejsce znacznie wcześniej na Zachodzie i była transformacją kapitalizmu do komunizmu - tyle tylko, że ładniej nazwanego. Wprawdzie komunizm nigdy nie został tak napiętnowany, jak np. nazizm, ale gdyby w społeczeństwie powszechniejsza była wiedza o tym, że z Zachodu przyszedł do nas nie kapitalizm, ale komunizm (tyle tylko że pewexowski), poparcie dla zmian byłoby chyba nieco większe. Oczywiście taka wiedza działa na zasadzie kropli drążącej skałę, ale jednak działa.
+O Spinellim w Polsce nic nie wiadomo, jeszcze mniej o Manifeście z Ventotene i czysto komunistycznej ideologii Unii Europejskiej. Myślę, że wiedza o tym, czym jest Unia Europejska zwiększałaby poparcie społeczne dla dokonywanych w Polsce zmian, z którymi Unia dopiero zaczyna walczyć. Polskie konflikty z ubecją łatwo jest interpretować jako rozgrywki personalne czy formę odwetu - brak jest świadomości, że chodzi o coś więcej. W sumie rzecz sprowadza się do jednego - zapomina się, że komunizm wymyślono na Zachodzie!
+Reasumując:
+1. Polska nie wstępowała do Unii Europejskiej, tylko do Wspólnoty Europejskiej (czego nikt nie wie i nie odróżnia),
+2. Unia Europejska powstała dopiero w 2009 r. (jw.)
+3. Tendencje federalistyczne, czyli bolszewickie istniały w Unii od czasów aktywności Spinelliego (projekt Konstytucji), ale były skutecznie blokowane. Teraz wspiera je Komisja Europejska i Grupa Spinelli, wykorzystując zmianę pokoleniową i niewiedzę - również posłów.
+4. Chodzi o to, żeby nie przekształcać Unii w coś, do czego Polska nie wstępowała, czyli w kołchoz.
+Jednym słowem - Polska chce pozostać w takiej wspólnocie, do jakiej wstępowała, ale powinna przeciwstawiać się jej przekształcaniu w państwo komunistyczne."
+Krzysztof Karoń
+Autorem koncepcji komunistycznej integracji europejskiej był włoski komunista Altiero Spinelli (1907-1986). Spinelli wstąpił do Włoskiej Partii Komunistycznej jako nastolatek, w 1927 r., po delegalizacji włoskiej opozycji został aresztowany i kolejnych 10 lat spędził w więzieniu. W wyniku prowadzonych w Rosji czystek opowiedział się przeciwko stalinizmowi i w 1937 r. został usunięty z partii pod zrzutem trockizmu (czyli leninowskiego komunizmu internacjonalistycznego). W 1940 r. Spinelli został internowany na wyspie Ventotene, gdzie wspólnie z Ernesto Rossim napisał tzw. Manifest z Ventotene, czyli sformułowany jeszcze w rewolucyjnym języku marksistowskim projekt zjednoczonej Europy antykapitalistycznej.
+Istota integracji zawarta w Manifeście sprowadza się do dwóch punktów.
+Pierwszy przewidywał sposób zjednoczenia Europy - powinna ono powstać w wyniku wykorzystania krótkiego okresu powojennego chaosu, gdy „dobrze zorganizowany ruch rewolucyjny” wprowadzi przygotowaną wcześniej konstytucję. Oznacza to, że zanim ukonstytuuje się nowy, powojenny ład polityczny i zanim określa się państwa narodowe, powinno powstać jedno nowe państwo europejskie (konstytucję może mieć tylko państwo).
+Drugi przewidywał stworzenie „instytucji i środków”, które zdolne byłyby zapewnić skuteczność działania tego nowego państwa, czyli policja, armia, służba bezpieczeństwa i cenzura, które siłą, ale już zgodnie z narzuconą wcześniej konstytucją zdolne będą tłumić tendencje separatystyczne, czyli niepodległościowe dążenia narodów do samostanowienia. Rola wyznaczona w tym schemacie dla aktywistów federalistycznych jest dokładnie taka sama, jaką Karol Marks wyznaczył komunistom w Manifeście Komunistycznym – dbanie o to, żeby globalny cel rewolucji dominował nad partykularnymi interesami proletariatów w poszczególnych krajach.
+Ponieważ wszystkie narodowości z definicji stają się w państwie federacyjnym mniejszościami, zasada interesu większości jest zgodna z zasadą demokratyzmu – co jest istotą leninowskiego centralizmu demokratycznego.
+Napisany w 1941 r. Manifest został przemycony na kontynent, krążył w środowisku włoskiego ruchu oporu i stał się programem założonego przez Spinelliego w 1943 r. ruchu pn. Movimento Federalista Europeo (MFE).
+
+<img src="./img/january/spinelli-1.jpg"><br><br>
+
+<img src="./img/january/spinelli-2.jpg"><br><br>
+
+<img src="./img/january/spinelli-3.jpg"><br><br>
 
 ### 2023
 

@@ -3,10 +3,24 @@ layout: post
 title: 27 stycznia
 image: img/january/korporacyjnooligarchiczny.png
 author: Tomasz Waszczyk
-date: 2022-01-27T10:00:00.000Z
+date: 2024-01-27T10:00:00.000Z
 tags:
   - Xi Jinping
 draft: false  
+---
+
+### 2024
+
+Escalating Costs of US Debt: Interest Payments Projected to Triple by 2030
+
+The United States' national debt has reached a staggering $34.1 trillion and is expanding at an alarming rate of nearly $3 trillion annually, far surpassing governmental forecasts. Currently, the annual interest payments on this debt have exceeded $1 trillion. It is projected that these payments will escalate to $1.3 trillion within the next 12 to 18 months. If this trend continues, by 2030, the annual interest expense could soar to $3 trillion.
+
+<img src="./img/january/debt-usa.jpeg"><br><br>
+
+---
+
+<a href="./documents/january/water.pdf" target="_blank">Woda</a>
+
 ---
 
 ### 2023

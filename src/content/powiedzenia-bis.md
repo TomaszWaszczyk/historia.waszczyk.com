@@ -256,6 +256,10 @@ Zbyt wielu ludzi myśli o bezpieczeństwie zamiast o szansie. Wydają się być 
 
 “When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order.” - Ilya Prigogine
 
+"Be prepared to work always without applause.” | Ernest Hemingway
+
+when you are in Rome do what the romans do
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
