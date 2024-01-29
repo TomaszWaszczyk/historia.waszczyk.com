@@ -3,11 +3,19 @@ layout: post
 title: 28 stycznia
 image: img/january/socjalizm2021.jpg
 author: Tomasz Waszczyk
-date: 2022-01-28T10:00:00.000Z
+date: 2024-01-28T10:00:00.000Z
 tags:
   - Państwo jako korporacja
 draft: false  
 ---
+
+### 2024
+
+> Trump slams Biden, warns 'we are on the brink of World War 3'
+
+---
+
+<img src="./img/january/meetings.jpeg"><br><br>
 
 ### 2022
 

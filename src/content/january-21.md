@@ -102,6 +102,13 @@ Przypomnijmy, że wcześniej nowe przepisy i ułatwiony dostęp do zwodu oprotes
 
 ---
 
+### 2023
+
+<video width="640" height="480" controls>
+<source src="./movies/january/covid-dance.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2016
 
 Ciemna strona Żabki nadal nieznana. Autorka bała się procesów i wstrzymała druk oskarżycielskiej książki.

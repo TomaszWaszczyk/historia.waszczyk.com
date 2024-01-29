@@ -3,11 +3,18 @@ layout: post
 title: 29 stycznia
 image: img/january/polrus.jpg
 author: Tomasz Waszczyk
-date: 2022-01-29T10:00:00.000Z
+date: 2024-01-29T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/january/german-death-camps.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2023
 
