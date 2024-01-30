@@ -13,6 +13,12 @@ draft: false
 
 > Mniej fizyki, chemii, biologii, geografii i historii. Nowacka: Szkoła stanie się lepszym miejscem
 
+---
+
+<img src="./img/january/co2-90.png"><br><br>
+
+---
+
 ### 2021
 
 WSPÓŁCZESNA KONCEPCJA  HOMO SOCIO-OECONOMICUS

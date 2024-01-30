@@ -3,10 +3,40 @@ layout: post
 title: 30 stycznia
 image: img/january/1667.jpg
 author: Tomasz Waszczyk
-date: 2022-01-30T10:00:00.000Z
+date: 2024-01-30T10:00:00.000Z
 tags:
   - Rosja
 draft: false  
+---
+
+### 2024
+
+Tarnów, ulica Żydowska. Jeszcze przed II wojną światową Żydzi stanowili niemal 50% ludności miasta.
+
+<img src="./img/january/tarnow.jpeg"><br><br>
+
+---
+
+<img src="./img/january/IMG_0234.JPEG"><br><br>
+
+<img src="./img/january/IMG_0235.JPEG"><br><br>
+
+<img src="./img/january/IMG_0236.JPEG"><br><br>
+
+---
+
+> debank
+
+<video width="640" height="480" controls>
+<source src="./movies/january/debank.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/january/posel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2023
