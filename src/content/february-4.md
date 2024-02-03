@@ -3,11 +3,48 @@ layout: post
 title: 4 lutego
 image: img/february/wielkatrojka.jpg
 author: Tomasz Waszczyk
-date: 2021-02-04T10:00:00.000Z
+date: 2024-02-04T10:00:00.000Z
 tags:
   - Wielka trójka
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/mbank.png"><br><br>
+
+<img src="./img/february/mieszkania.jpeg"><br><br>
+
+<img src="./img/february/naira.jpeg"><br><br>
+
+<img src="./img/february/putin-flation.jpeg"><br><br>
+
+<img src="./img/february/krankenheit.jpeg"><br><br>
+
+<img src="./img/february/managers-scam.jpeg"><br><br>
+
+<img src="./img/february/women-more-stupid.jpeg"><br><br>
+
+<img src="./img/february/discipline.jpeg"><br><br>
+
+---
+
+<img src="./img/february/zloto-polakow.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/Wheres-my-Money.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/podzielic-wiedze.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/australia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2022
 

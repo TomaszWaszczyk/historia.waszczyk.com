@@ -38,6 +38,16 @@ Utworzono radziecko- niemiecką centralną komisję graniczną dla wyznaczenia g
 
 <img src="./img/october/pogranicze.jpg"/><br><br>
 
+---
+
+Elżbieta Zahorska która została rozstrzelana w pierwszej oficjalnej egzekucji w Warszawie 4 listopada 1939 r. za zerwanie plakatu propagandowego „Anglio! Twoje dzieło”.
+
+<img src="./img/october/zahorska.jpeg"><br><br>
+
+Na zdjęciu w chwili schwytania przez Niemców. Miała 24 lata.
+
+---
+
 ### 1918
 
 Generał Józef Haller (zdjęcie) objął dowództwo nad Armią Polską we Francji tzw "Błękitną Armią". Zastąpił tym samym na tym stanowisku francuskiego generała Louisa Arnicharda.

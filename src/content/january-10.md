@@ -166,6 +166,10 @@ yourself into trouble.
 
 https://pl.wikipedia.org/wiki/Henryk_Wendrowski
 
+### 1776
+
+<img src="./img/january/tea-tax.jpeg"><br><br>
+
 ### 1569
 
 Na zamku w Lublinie rozpoczęły się trwające pół roku obrady Sejmu, których efektem było podpisanie Unii Lubelskiej czyli polsko-litewskiego porozumienia w wyniku którego powstało państwo znane jako Rzeczpospolita Obojga Narodów.

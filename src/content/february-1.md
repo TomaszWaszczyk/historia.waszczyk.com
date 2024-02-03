@@ -3,10 +3,22 @@ layout: post
 title: 1 lutego
 image: img/february/radiofonia.jpg
 author: Tomasz Waszczyk
-date: 2022-02-01T10:00:00.000Z
+date: 2024-02-01T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
+---
+
+### 2024
+
+On Monday, Nigeria de facto devalued the naira by ~30% (after another ~30% devaluation in June). And Egypt is under pressure to devalue too, with the pound ~50% weaker in the black market.
+
+---
+
+<img src="./img/february/doszkoly.jpeg"><br><br>
+
+Tadeusz Chrzanowski - Do szkoły (fotografia), lata 50. XX wieku.
+
 ---
 
 ### 2023

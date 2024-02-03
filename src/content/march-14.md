@@ -68,6 +68,7 @@ Lata '80 to powtórka z rozrywki... dodrukowywanie pieniądza i parę lat późn
 
 W latach 80-tych też tworzono coraz wyższe nominały, a to wszystko dla naszego dobra by łatwiej było obracać milionami.
 Dla przypomnienia:
+
 - w 1990r. wyszedł banknot 0.5mln zl
 - w 1991r. - banknot 1 mln zl
 - w 1992r. - banknot 2 mln zl
@@ -136,6 +137,10 @@ dywizjonu i kolegami z brytyjskiego 601 poleciał na osłonę bombowców. Celem 
 Przeciwnicy strzelali celnie. Efektem tego było zestrzelenie samolotu Polaka. Podporucznik pilot Bogusław Mierzwa zginął śmiercią lotnika.
 
 <img src="./img/march/mierzwa.jpg"/><br><br>
+
+### 1853
+
+<img src="./img/march/hodler.jpeg"><br><br>
 
 ---
 

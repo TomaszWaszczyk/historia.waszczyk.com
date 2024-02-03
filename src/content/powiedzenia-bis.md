@@ -262,6 +262,10 @@ when you are in Rome do what the romans do
 
 Pusta i plastikowa jak zderzak w matizie
 
+'We can all inflate together!'
+
+Jak przechodzona kobieta, cnoty nie straci
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,11 +3,17 @@ layout: post
 title: 3 lutego
 image: img/february/teodozjusz.jpg
 author: Tomasz Waszczyk
-date: 2022-02-03T10:00:00.000Z
+date: 2024-02-03T10:00:00.000Z
 tags:
   - Imperium Rzymskie
 draft: false
 ---
+
+### 2024
+
+Ministerstwo Cyfryzacji i Centrum Projektów Polska Cyfrowa podpisały porozumienie w sprawie budowy Krajowego Centrum Przetwarzania Danych. Rusza pierwszy etap wsparcia dofinasowania dla projektu. Będzie to inwstycja rzędu 830 mln zł.
+
+Krajowe Centrum Przetwarzania Danych (KCPD) to jeszcze pomysł poprzedniego rządu i ministra Janusza Cieszyńskiego. Jako pierwsi pisaliśmy o nim już w sierpniu 2022 roku, kiedy projekt pojawił się w wykazie prac legislacyjnych i programowych Rady Ministrów.
 
 ### 2023
 

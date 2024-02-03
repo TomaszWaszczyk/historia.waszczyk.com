@@ -3,11 +3,22 @@ layout: post
 title: 5 lutego
 image: img/february/umowagraniczna.jpg
 author: Tomasz Waszczyk
-date: 2022-02-05T10:00:00.000Z
+date: 2024-02-05T10:00:00.000Z
 tags:
   - Sovereign Individual
 draft: false
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/february/Rothbard-on-the-European-Union.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<a href="./documents/february/research-note-review-and-maximal-extractable-value-blockchain-oracles.pdf" target="_blank">extract</a>
+
+<a href="./documents/february/Speech_by_President_von_der_Leyen_at_the_ceremony_of_honour_for_Jacques_Delors.pdf" target="_blank">Jacques Delors</a>
 
 ### 2023
 

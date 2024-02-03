@@ -11,11 +11,25 @@ draft: false
 
 ### 2024
 
+<img src="./img/january/russland.jpeg"><br><br>
+
+<img src="./img/january/stanowski.png"><br><br>
+
+---
+
 <img src="./img/january/ludobojstwo.jpeg"><br><br>
 
 On wprowadził Polskę w słowo "informatyka"! Dziś ma 86 lat a jego historia to opowieść na film, który puentuje zdaniem - informatyka w służbie ludobójstwa. Gościem specjalnym naszego dzisiejszego wywiadu jest prof. Andrzej Targowski. Mało kto zapłacił większą cenę, za wdrażanie swojej pasji, jaką była informatyzacja Polski. Pan Profesor kierował projektowaniem ogólnopolskiego systemu ewidencji ludności: PESEL (1972–1974). Dziś mówi nam, że pamięta chwilę, w której każdy Polak dzięki jego projektowi otrzymał swój cyfrowy identyfikator. Opracował koncepcję Infostrady i Krajowego Systemu Informatycznego (KSI) „na 11 lat przed rozpowszechnieniem się Internetu”. W 1965 wraz z kolegami założył miesięcznik „Maszyny Matematyczne” przemianowany w 1971 na „Informatyka”. Najstarsze polskie profesjonalne czasopismo naukowo-techniczne o tematyce stricte informatycznej obecne na rynku w latach 1965-2000. W laudacji Politechnika Warszawska pisze o nim „wylansował w Polsce termin „informatyka” w swej książce Informatyka klucz do dobrobytu (bestseler roku 1971)”. W trakcie Powstania Warszawskiego wyszedł spod zwłok w efekcie napaści na jego dom, tracąc niemal całą rodzinę. Kilkadziesiąt lat później kolejny raz zamachnięto się w USA na jego życie. Dziś mówi, że to właśnie dlatego nauczył się nawet informatyzując, patrzeć na człowieka. Jego plany rozwoju Infostrady zostały zatrzymane przez władze PRL, jako zbyt ryzykowne dla dyktatury, bo promowały swobodny przepływ informacji w społeczeństwie. Otrzymał azyl polityczny w USA. Doprowadził do uruchomienia jednego z pierwszych amerykańskich cyfrowych miast w projekcie teleCITY of Kalamazoo (1996). Do dziś jest profesorem na Western Michigan University. Opublikował sam ok. 40 książek. Za swą działalność otrzymał Krzyż Kawalerski Orderu Zasługi RP oraz Złoty Medal za zasługi dla Obronności Kraju. W 2023 został wpisany przez Politechnikę Warszawską do Złotej Księgi Zasługi za jego wkład, w rozwój kraju.
  
 Pod koniec 2023 ukazała się książka Pana Profesora „informatyka w służbie ludobójstwa” w której opisuje całe swoje życie i to, jak największe korporacja świata budowały jego zdaniem swoje marki na ludobójstwie, w tym w trakcie II Wojny Światowej i obozach zagłady. W wywiadzie nagranym w domu Pana Profesora w Los Angeles na pytanie, czy nie bał się wydać tej książki odpowiedział nam – „Nie. Powinienem był to zrobić”. W rozmowie w oparciu o całe swoje doświadczenie człowiek wprowadzający nasz kraj w słowo "informatyzacja" mówi nam, że AI w obecnym kształcie to wykonywany na ludzkości wyrok śmierci.
+
+---
+
+ Moskwa ostrzegła Waszyngton przed planami powtórnego rozmieszczenia na terenie Wielkiej Brytanii amerykańskiej taktycznej broni nuklearnej. "Krok ten nie wzmocni bezpieczeństwa Wielkiej Brytanii, ani Stanów Zjednoczonych. Nie ma tu wobec nas efektu zastraszenia. Jest to wzrost ogólnego stopnia eskalacji i zagrożenia w Europie" powiedział wiceminister spraw zagranicznych Rosji Sergey Riabkov. 
+Żeby obraz był pełniejszy to należy przypomnieć, że Putin Wladimir Wladimirowicz ogłosił 16.06.2023, że pierwsza rosyjska taktyczna broń nuklearna zostanie rozmieszczona na Białorusi do końca lata, natomiast już 27.06 2023 Łukaszenko ogłosił, że duża cześć tej broni znajduje się już na terytorium RB. Co prawda nie wiadomo na ile można zaufać zapewnieniom Aleksandra Łukaszenki, to pozostaje fakt, że wtedy ani Ławrow ani Riabkov nie krzyczeli, że następuje ogólny stopień eskalacji i zastraszania w Europie. Rozmieścili i tyle.
+Bo jak Kali ukraść krowę to dobrze, a jak Kalemu ukradną to już pełen dramat.
+
+---
 
 ### 2023
 
