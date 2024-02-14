@@ -3,11 +3,19 @@ layout: post
 title: 12 lutego
 image: img/february/izycki.jpg
 author: Tomasz Waszczyk
-date: 2022-02-12T10:00:00.000Z
+date: 2024-02-12T10:00:00.000Z
 tags:
   - Wojsko Polskie
 draft: false
 ---
+
+### 2024
+
+> "Czarne nad Polskę nadciągnęły chmury, kraj okradziony, zbrukano świętości;
+> wiara osłabła, brak męstwa i ducha,
+> a w mediach kłamstwo i bezczelność gości."
+
+Zygmunt Urbanowicz.
 
 ### 2023
 

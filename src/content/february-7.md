@@ -3,11 +3,22 @@ layout: post
 title: 7 lutego
 image: img/february/wwiii.jpeg
 author: Tomasz Waszczyk
-date: 2022-02-07T10:00:00.000Z
+date: 2024-02-07T10:00:00.000Z
 tags:
   - Coronavirus
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/intel.jpeg"><br><br>
+
+✔ Trzy miesiące temu słyszeliśmy w kierownictwie firmy, że inwestycja ruszy w I kw. 2024. Termin wydaje się nierealny.
+✔ Rząd nie przesłał do Brukseli notyfikacji pomocy publicznej. Bez tego nie będzie można przekazać subsydiów. Chodzi o ok. 6 mld zł.
+✔Najpierw sprawę opóźniły dwa rząd PiS - uchwałę o przekazaniu RM podejmowała dwa razy, bo za pierwszym premier jej nie podpisał. A potem rząd odwołano, sprawę przejął gabinet dwutygodniowy.
+✔Od 1,5 miesiąca notyfikacji nie wysyła rząd Koalicji.
+✔Nasze źródła w rządzie mówią: chcemy renegocjować umowę, żeby Intel przy okazji budowy fabu dał więcej pieniędzy na polską naukę.
+✔Słyszymy też, że budowa nie jest zagrożona. 
 
 ### 2023
 

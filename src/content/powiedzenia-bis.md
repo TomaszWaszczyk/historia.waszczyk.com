@@ -266,6 +266,15 @@ Pusta i plastikowa jak zderzak w matizie
 
 Jak przechodzona kobieta, cnoty nie straci
 
+"You spend multiple cycles learning the new API and upgrading your application. It sure feels like you are doing something, but in reality, you are only treading water."
+<!-- https://dev.to/begin/removing-react-is-just-weakness-leaving-your-codebase-4pin -->
+
+Co sądził Einstein o kobiecym bólu głowy? Wszystko jest względne, w jednym łóżku boli, w innym już nie
+
+Albo nas zaleje albo zasuszy ale płacić będzie trzeba.
+
+Graliśmy uczciwie: ty oszukiwałeś, ja oszukiwałem. Wygrał lepszy.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

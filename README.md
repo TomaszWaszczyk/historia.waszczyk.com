@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e926cde-268f-4f67-b6a2-2f8c5e493d86/deploy-status)](https://app.netlify.com/sites/eager-wiles-033ea5/deploys)
 
+https://pl.wikipedia.org/wiki/Paul_Baran_(informatyk)
+
 https://wmgaz.pl
 
 https://www.historyonthenet.com/authentichistory/1930-1939/2-fdr/2-reception/technocrats/

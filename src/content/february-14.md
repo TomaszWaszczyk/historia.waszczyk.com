@@ -3,11 +3,15 @@ layout: post
 title: 14 lutego
 image: img/february/zygmuntiii.jpg
 author: Tomasz Waszczyk
-date: 2022-02-14T10:00:00.000Z
+date: 2024-02-14T10:00:00.000Z
 tags:
   - Armia Krajowa
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/armia-krajowa.jpg"><br><br>
 
 ### 2023
 

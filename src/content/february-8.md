@@ -3,7 +3,7 @@ layout: post
 title: 8 lutego
 image: img/february/identity.png
 author: Tomasz Waszczyk
-date: 2022-02-08T10:00:00.000Z
+date: 2024-02-08T10:00:00.000Z
 tags:
   - A Declaration of the Independence of Cyberspace
 draft: false

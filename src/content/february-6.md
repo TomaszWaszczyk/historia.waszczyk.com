@@ -3,10 +3,36 @@ layout: post
 title: 6 lutego
 image: img/february/polska2021.png
 author: Tomasz Waszczyk
-date: 2022-02-06T10:00:00.000Z
+date: 2024-02-06T10:00:00.000Z
 tags:
   - Hyperinflation
 draft: false
+---
+
+### 2024
+
+<img src="./img/february/nagano.jpg"><br><br>
+
+`Nagano, Japan`
+
+---
+
+Dlaczego dzieci nie mają mieć zadań domowych ze szkoły?
+Przeczytaj do końca, a zrozumiesz co dzieje się na świecie. Nie przypadkowa jest narodowość tego "filozofa".
+W 1956 roku niemiecki, żydowski filozof Günther Anders napisał tę "proroczą" myśl:
+"Aby z góry stłumić wszelkie bunty, nie należy robić tego brutalnie. Archaiczne metody jak Hitler, są zdecydowanie przestarzałe. Wystarczy stworzyć zbiorowe uwarunkowanie tak potężne, że sama idea buntu nie przyjdzie już nawet do głowy. Najlepszym sposobem byłoby formatowanie ludzi od urodzenia poprzez ograniczenie ich wrodzonych zdolności biologicznych...
+Następnie kontynuujemy uwarunkowanie poprzez drastyczne obniżenie poziomu i jakości edukacji, sprowadzając ją do formy bezwysiłkowego zajęcia. Osoba niewykształcona ma ograniczony horyzont myślenia, a im bardziej ograniczone jest jego myślenie - materialne, mierne, tym mniej może się buntować. Należy sprawić, aby dostęp do wiedzy stał się coraz trudniejszy i elitarny... Niech pogłębia się przepaść między ludźmi a nauką tak, aby informacje skierowane do ogółu społeczeństwa zostały znieczulone wszelkimi możliwymi treściami - szczególnie bez filozofii. Znów należy użyć przekonywania, a nie bezpośredniej przemocy: będziemy transmitować masowo za pośrednictwem telewizji rozrywkę, która zawsze pochlebia emocjom i instynktowi.
+Zajmiemy umysły tym, co jest daremne i zabawne - nieustanną gadką i muzyką, aby nie zadawać sobie pytań, nie uruchamiać myślenia.
+Seksualność będzie najważniejsza - jako znieczulenie społeczne, nie ma nic lepszego. Ogólnie rzecz biorąc, należy zabronić powagi egzystencji, wyśmiewać wszystko, co ma wysoką wartość, utrzymywać ciągłe apologię lekkości, tak aby euforia reklamy i konsumpcji stała się cenną składową standardu ludzkiego szczęścia i wzorem wolności.
+Tego typu napór na zbiorowość sam w sobie spowoduje taką integrację, że jedynym lękiem (który trzeba będzie podtrzymywać) jest wykluczenie z systemu i tym samym utrata dostępu do warunków materialnych niezbędnych do szczęścia. Masowy człowiek, tak wyprodukowany, powinien być traktowany takim, jakim jest: produktem, cielęciem i musi być monitorowany tak, jak powinno być stado. Wszystko, co pozwala uśpić jego jasność, jego krytyczny umysł jest dobre społecznie, zaś to co mogłoby go obudzić, musi być zwalczone, wyśmiewane, duszone...
+Wszelkie doktryny kwestionujące system muszą być najpierw określone jako wywrotowe i terrorystyczne, a ci, którzy ją popierają, traktowani jako wrogowie publiczni"
+Günther Anders
+„Ludzka przestarzałość” 1956
+
+---
+
+<img src="./img/february/kalicki.jpeg"><br><br>
+
 ---
 
 ### 2023
