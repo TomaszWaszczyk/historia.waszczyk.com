@@ -12,6 +12,8 @@ Niedzielne wycieczki rowerowe!
 
 <img src="./img/others/sport/walk.jpeg"><br><br>
 
+<img src="./img/others/sport/walk2.jpeg"><br><br>
+
 ### Ćwiczenia
 
 1. Leżymy na macie trzymając w obu rękach piłkę, unosimy obie nogi i wyknujemy ruchy piłką do podłoża, raz w prawo raz w lewo.

@@ -3,10 +3,30 @@ layout: post
 title: 21 lutego
 image: img/february/korwin.jpg
 author: Tomasz Waszczyk
-date: 2022-02-21T10:00:00.000Z
+date: 2024-02-21T10:00:00.000Z
 tags:
   - Słowacja
 draft: false
+---
+
+### 2024
+
+<img src="./img/february/upsssssss.jpg"><br><br>
+
+<img src="./img/february/rosja-kraje-baltyckie.jpeg"><br><br>
+
+<img src="./img/february/ukraina-przegrywa.jpg"><br><br>
+
+<img src="./img/february/Untitled.jpeg"><br><br>
+
+<img src="./img/february/Untitled2.jpeg"><br><br>
+
+---
+
+<img src="./img/february/usa-prezeydent.jpeg"><br><br>
+
+<img src="./img/february/zelenski-ma-sluchac.jpeg"><br><br>
+
 ---
 
 ### 2021 - Digital Communism

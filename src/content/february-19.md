@@ -11,6 +11,22 @@ draft: false
 
 ### 2024
 
+> A. Duda i D. Tusk wezwani do Waszyngtonu
+
+Prezydent Joe Biden bardzo się cieszy na spotkanie z premierem i prezydentem Polski - mówił rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, komentując zaproszenie prezydenta Andrzeja Dudy i premiera Donalda Tuska do Białego Domu. Podkreślał, że "Polska jest doskonałym sojusznikiem" i chwalił obywateli za pomoc dla Ukrainy. Mówił też o tym, co będzie głównym przekazem amerykańskiego przywódcy podczas marcowego spotkania.
+
+---
+
+<img src="./img/february/orwell-1984.jpeg"><br><br>
+
+---
+
+<img src="./img/february/metropol.jpg"><br><br>
+
+<img src="./img/february/myslalem.png"><br><br>
+
+---
+
 <img src="./img/february/miod.png"><br><br>
 
 <img src="./img/february/trzezwi.jpeg"><br><br>
@@ -86,6 +102,14 @@ Był on nie tylko znanym wynalazcą, ale także jednym z przywódców powstania 
 ### 1812
 
 https://pl.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+
+### 1789
+
+<img src="./img/february/niemcy-1789.png"><br><br>
+
+### 1648
+
+<img src="./img/february/niemcy-1648.jpeg"><br><br>
 
 ---
 

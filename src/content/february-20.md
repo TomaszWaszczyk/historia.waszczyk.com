@@ -3,11 +3,31 @@ layout: post
 title: 20 lutego
 image: img/february/goring.jpg
 author: Tomasz Waszczyk
-date: 2022-02-20T10:00:00.000Z
+date: 2024-02-20T10:00:00.000Z
 tags:
   - Józef Piłsudski
 draft: false
 ---
+
+### 2024
+
+Über die Seele im Zeitalter der zweiten industriellen Revolution
+
+<img src="./img/february/obsolescence-de-lhomme-20210814.jpg"><br><br>
+
+„Um jede Revolte im Voraus zu ersticken, darf man nicht gewalttätig vorgehen. Methoden wie die Hitlers sind überholt. Es reicht aus, eine kollektive Konditionierung zu schaffen, die so stark ist, dass die Idee der Revolte den Menschen nicht einmal mehr in den Sinn kommt. Das Ideal wäre, Individuen von Geburt an zu formatieren, indem man ihre angeborenen biologischen Fähigkeiten einschränkt ...
+
+Dann würden wir die Konditionierung fortsetzen, indem wir die Bildung drastisch reduzieren, um sie wieder zu einer Form der beruflichen Integration zu bringen. Ein ungebildeter Mensch hat nur einen begrenzten Denkhorizont, und je mehr sein Denken auf mittelmäßige Beschäftigungen beschränkt ist, desto weniger kann er rebellieren. Es muss sichergestellt werden, dass der Zugang zu Wissen immer schwieriger und elitärer wird … dass die Kluft zwischen den Menschen und der Wissenschaft größer wird, dass Informationen, die für die breite Öffentlichkeit bestimmt sind, von jeglichen Inhalten subversiver Natur betäubt werden. Vor allem keine Philosophie. Auch hier müssen wir Überzeugungsarbeit leisten und keine direkte Gewalt: Wir werden massiv über das Fernsehen Unterhaltung ausstrahlen, die immer dem Emotionalen oder Instinktiven schmeichelt.
+
+Wir werden die Köpfe mit dem Vergeblichen und Spielerischen beschäftigen. Es ist gut, durch unaufhörliches Geschwätz und Musik den Geist vom Denken abzuhalten.
+
+Sexualität wird in den Vordergrund der menschlichen Interessen gestellt. Als soziales Beruhigungsmittel gibt es nichts Besseres. Im Allgemeinen werden wir darauf achten, den Ernst des Daseins zu verbannen, alles zu verspotten, was einen hohen Wert hat, eine ständige Entschuldigung für die Leichtigkeit aufrechtzuerhalten; damit die Werbeeuphorie zum Maßstab menschlichen Glücks und zum Vorbild der Freiheit wird.
+
+Die Konditionierung wird also von sich aus eine solche Integration erzeugen, dass die einzige Angst (die aufrechterhalten werden muss) die sein wird, aus dem System ausgeschlossen zu werden und daher nicht mehr auf die Bedingungen zugreifen zu können, die für das Glück notwendig sind. Der so produzierte Massenmensch muss als das behandelt werden, was er ist: ein Kalb, und er muss beaufsichtigt werden, wie es eine Herde sein muss. Alles, was die Klarheit einschläfert, ist sozial gut, alles, was sie zu erwecken droht, muss verspottet, unterdrückt, bekämpft werden...
+
+Jede Doktrin, die das System in Frage stellt, muss zuerst als subversiv und terroristisch bezeichnet werden, und diejenigen, die sie unterstützen, müssen dann als solche behandelt werden. Wir stellen jedoch fest, dass es sehr einfach ist, ein subversives Individuum zu korrumpieren: Alles, was Sie tun müssen, ist ihm Geld und Macht anzubieten.“
+
+`« Die Antike des Menschen »/« Die Obsoleszenz des Menschen », Auszug aus Günther Anders, deutscher Schriftsteller, Jahrgang 1956, Seite 122.`
 
 ### 2023
 
