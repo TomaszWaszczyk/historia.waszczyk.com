@@ -3,11 +3,51 @@ layout: post
 title: 17 lutego
 image: img/february/telefonbezdrutu.jpeg
 author: Tomasz Waszczyk
-date: 2022-02-17T10:00:00.000Z
+date: 2024-02-17T10:00:00.000Z
 tags:
   - Coronavirus
 draft: false
 ---
+
+### 2024
+
+> acceleration of decarbonization
+
+<img src="./img/february/sultan.png"><br><br>
+
+<img src="./img/february/klaus-uae.jpeg"><br><br>
+
+---
+
+Aleksiej Nawalny nie żyje. Miał 47 lat. Nie wszyscy wiedzą, że był adwokatem. Poniższy tekst napisalem niecałe 3 lata temu. Moja nauczycielka literatury w moskiewskiej szkole mawiała, że Rosja to kraj, w którym wysoka kultura przeplata się z tragiczną historią.
+
+<img src="./img/february/nawalny.jpeg"><br><br>
+
+"Jak wszyscy śledzący wydarzenia ze świata zapewne wiedzą, Aleksiej Nawalny został skazany na 3,5 roku kolonii karnej.
+
+Być może nie wszyscy wiedzą natomiast, że transport do kolonii karnych odbywa się w tzw. „stołypinowskich” wagonach, które nie mają okien, a na przestrzeni ok. 3,5 m2 wiezionych jest 10 osób. Do tego zarówno więźniowie, jak i ich rodziny nie wiedzą, dokąd są transportowani. Miejsce przeznaczenia to z reguły „in the middle of nowhere”, ale kto by się przejmował brakiem kontaktu z rodziną czy adwokatem.
+
+Rosja ma długą tradycję więźniów politycznych i prześladowania za poglądy. Ostatnie lata dostarczyły wielu przykładów – Anna Politkowska, Borys Niemcow, Aleksander Litwinienko, czy – podobnie jak Nawalny adwokat – Siergiej Magnitski.
+
+Najbardziej znanym więźniem politycznym był Fiodor Dostojewski, który za czytanie Hegla w Kole Pietraszewców dostał karę śmierci, zamienioną w ostatniej chwili przed egzekucją na lata katorgi w Omsku i Semipałatyńsku. Po tych doświadczeniach powstały „Wspomnienia z domu umarłych”, którymi ratował się 100 lat później w obozach w Witebsku i Wołogdzie Gustaw Herling-Grudziński. Za bardziej panoramiczny „Archipelag GUŁag” Alekdander Sołżenicyn dostał w 1970 r. Nagrodę Nobla, choć bardziej wstrząsającą jego książką jest „Jeden dzień Iwana Denisowicza”.
+
+Trudno pomyśleć o jakimkolwiek rosyjskim dwudziestowiecznym twórcy, u którego tematyka obozowa i toksyczne relacje z państwem nie byłyby obecne, a dla wielu były kluczowe. Bułhakow, Pasternak, Babel, Pilniak, Szołochow, Achmatowa i wielu innych. Niektórzy w takie miejsca trafili, niektórzy o tym pisali, a niektórzy i jedno i drugie.
+
+Bardzo wymowny, również w kontekście A. Nawalnego, jest przykład Osipa Mandelsztama, który stracił życie za wiersz przeciwko Stalinowi. Poniżej fragment w tłumaczeniu niezawodnego Stanisława Barańczaka:
+
+Żyjemy tu, nie czując pod stopami ziemi,
+Nie słychać i na dziesięć kroków, co szepczemy.
+A w półsłówkach, w półrozmowach naszych
+Cień górala kremlowskiego straszy.
+(…)
+Miodem kapie każda nowa śmierć
+Na szeroką, osetyńską pierś."
+
+---
+
+> Światowy gigant zwalnia Niemców i przenosi produkcję do Polski
+
+Globalny producent części samochodowych, gigant zatrudniający 30 tysięcy ludzi w 80 zakładach na całym świecie, zamierza przenieść część swojej produkcji z Niemiec do Polski. Chodzi o Cooper Standard, a powodem są problemy związane z przestawianiem produkcji na samochody elektryczne.
 
 ### 2023
 

@@ -3,10 +3,37 @@ layout: post
 title: 16 lutego
 image: img/february/gornyslask.jpg
 author: Tomasz Waszczyk
-date: 2022-02-16T10:00:00.000Z
+date: 2024-02-16T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2024
+
+It’s sad watching Europe‘s demise in real time. In 2007, 46 out of 100 world’s most valuable companies were from Europe. 16 years later this number has decreased to only 15.
+
+Wealth of France compares to the wealth of Idaho which is 48th US state by wealth. Yes this remains GDP per capita which has its own major flaws, but nevertheless it paints gray picture of regress.
+
+Unprecedented rise of bureaucracy last 20 years, striking decrease in birth rates coupled with aging population, ludicrous green movement agenda, insane immigrant policies, and absurd energy policies are the reasons of this demise.
+
+I hate to break it to you Germany, but closing nuclear power plants while dreaming how everyone is driving EVs while windmills and solar panels are generating enough energy will stay only the dream.
+
+Where are we headed?
+
+<video width="640" height="480" controls>
+<source src="./movies/february/europe-where.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/february/biden-btc.jpeg"><br><br>
+
+<img src="./img/february/china-emergency.jpeg"><br><br>
+
+<img src="./img/february/code-review.jpeg"><br><br>
+
 ---
 
 ### 2023

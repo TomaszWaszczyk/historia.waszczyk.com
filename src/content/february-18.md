@@ -3,10 +3,97 @@ layout: post
 title: 18 lutego
 image: img/february/flugblat.jpg
 author: Tomasz Waszczyk
-date: 2022-02-18T10:00:00.000Z
+date: 2024-02-18T10:00:00.000Z
 tags:
   - Big Tech
 ---
+
+### 2024
+
+<img src="./img/february/obraz-wylewa-sie.jpg"><br><br>
+
+<img src="./img/february/intel.jpeg"><br><br>
+
+<img src="./img/february/irlandia.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/who-is-better-for-putin.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/february/rosja-vaccine.jpeg"><br><br>
+
+<img src="./img/february/szczepionka-2023.png"><br><br>
+
+---
+
+<img src="./img/february/szkoly-lgbtq.jpg"><br><br>
+
+<img src="./img/february/himmler-nowacka.jpg"><br><br>
+
+(fake??)
+
+<video width="640" height="480" controls>
+<source src="./movies/february/zmiana-nauczania.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/february/dwutlenek-wegla-szkola.png"><br><br>
+
+<img src="./img/february/holownia-swiat-krew.jpeg"><br><br>
+
+<a href="./documents/february/Prezentacja_zmiany_w_podstawie_programowej_17_przedmiotów-1.pdf" target="_blank">Zmiany w szkolnictwie</a>
+
+<a href="./documents/february/Prezentacja_zmiany_w_podstawie_programowej_17_przedmiotów.pdf" target="_blank">Zmiany w szkolnictwie</a>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/february/bad-message.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/Bardzo-kurwa-jego-mac.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/february/debata-cpk.jpeg"><br><br>
+
+<img src="./img/february/port-gdynia.jpeg"><br><br>
+
+---
+
+<img src="./img/february/fale-inflacyjne.jpg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/february/podwyzka-inaczej.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<a href="./documents/february/war_bonds_inflation.pdf" target="_blank">War Bonds</a>
+
+<a href="./documents/february/thomson_david_k_201605_phd.pdf" target="_blank">Bonds</a>
+
+---
+
+### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/february/merkel-not-good.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/hand-not-good.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2021
 

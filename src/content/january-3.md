@@ -137,6 +137,10 @@ Distinguished Flying Cross (październik 1941 oraz wrzesień 1942).
 
 <img src="./img/january/zumbach.jpg"/><br><br>
 
+### 1977
+
+<img src="./img/january/apple-marketing-philosophy.jpeg"><br><br>
+
 ### 1903
 
 W Częstochowie urodził się Seweryn Wielanier (zdjęcie) inżynier, uczestnik Powstania Warszawskiego, współkonstruktor polskiego pistoletu maszynowego "Błyskawica". Był żołnierzem Oddziału IV Kwatermistrzowskiego Komendy Głównej Armii Krajowej, gdzie odpowiadał za koordynację służby sanitarnej, geograficznej, uzbrojenia i intendentury.

@@ -275,6 +275,12 @@ Albo nas zaleje albo zasuszy ale płacić będzie trzeba.
 
 Graliśmy uczciwie: ty oszukiwałeś, ja oszukiwałem. Wygrał lepszy.
 
+Cui bono?
+
+<img src="./img/others/powiedzenia/mozg-zdegradowany.jpeg"><br><br>
+
+<img src="./img/others/powiedzenia/upadek.jpeg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

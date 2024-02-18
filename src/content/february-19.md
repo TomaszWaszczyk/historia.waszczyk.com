@@ -3,11 +3,19 @@ layout: post
 title: 19 lutego
 image: img/february/Galician_slaughter_in_1846.PNG
 author: Tomasz Waszczyk
-date: 2022-02-19T10:00:00.000Z
+date: 2024-02-19T10:00:00.000Z
 tags:
   - Niewolnictwo
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/miod.png"><br><br>
+
+<img src="./img/february/trzezwi.jpeg"><br><br>
+
+<a href="./documents/february/dkwoc.pdf" target="_blank">DKWOC</a>
 
 ### 2023
 

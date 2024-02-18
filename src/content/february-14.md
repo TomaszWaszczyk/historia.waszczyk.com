@@ -11,6 +11,10 @@ draft: false
 
 ### 2024
 
+<img src="./img/february/sudoers.jpeg"><br><br>
+
+<img src="./img/february/dobrze-ze-wrociles.jpg"><br><br>
+
 <img src="./img/february/armia-krajowa.jpg"><br><br>
 
 ### 2023
