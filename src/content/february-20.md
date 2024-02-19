@@ -11,6 +11,27 @@ draft: false
 
 ### 2024
 
+<img src="./img/february/andrej_majcen.jpeg"><br><br>
+
+---
+
+<img src="./img/february/itiseasy-andnoteasy.jpg"><br><br>
+
+<a href="./documents/february/KUBIS.pdf)" target="_blank">„Poznacie prawdę, a prawda was wyzwoli”…</a>
+
+---
+
+Hołownia na wojnę, marsz!
+
+<video width="640" height="480" controls>
+<source src="./movies/february/holownia-duren.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/february/anders2.jpeg"><br><br>
+
 Über die Seele im Zeitalter der zweiten industriellen Revolution
 
 <img src="./img/february/obsolescence-de-lhomme-20210814.jpg"><br><br>
@@ -27,7 +48,25 @@ Die Konditionierung wird also von sich aus eine solche Integration erzeugen, das
 
 Jede Doktrin, die das System in Frage stellt, muss zuerst als subversiv und terroristisch bezeichnet werden, und diejenigen, die sie unterstützen, müssen dann als solche behandelt werden. Wir stellen jedoch fest, dass es sehr einfach ist, ein subversives Individuum zu korrumpieren: Alles, was Sie tun müssen, ist ihm Geld und Macht anzubieten.“
 
-`« Die Antike des Menschen »/« Die Obsoleszenz des Menschen », Auszug aus Günther Anders, deutscher Schriftsteller, Jahrgang 1956, Seite 122.`
+```« Die Antike des Menschen »/« Die Obsoleszenz des Menschen », Auszug aus Günther Anders, deutscher Schriftsteller, Jahrgang 1956, Seite 122.```
+
+---
+
+„Aby z góry stłumić wszelkie bunty, nie należy robić tego brutalnie. Archaiczne metody jak Hitler, są zdecydowanie przestarzałe. Wystarczy stworzyć zbiorowe uwarunkowanie tak potężne, że sama idea buntu nie przyjdzie już nawet do głowy.
+
+Najlepszym sposobem byłoby formatowanie ludzi od urodzenia poprzez ograniczenie ich wrodzonych zdolności biologicznych… Następnie kontynuujemy uwarunkowanie poprzez drastyczne obniżenie poziomu i jakości edukacji, przywracając je do formy zatrudnienia. Osoba niewykształcona ma ograniczony horyzont myślenia, a im bardziej ograniczona jest jego myślenie materialne, mierne, tym mniej może się buntować.
+
+Należy sprawić, aby dostęp do wiedzy stał się coraz trudniejszy i elitarny… pogłębia się przepaść między ludźmi a nauką, aby informacje skierowane do ogółu społeczeństwa zostały znieczulone wszelkimi wywrotowymi treściami. Szczególnie bez filozofii. Znów należy użyć przekonywania, a nie bezpośredniej przemocy: będziemy transmitować masowo za pośrednictwem telewizji rozrywkę, która zawsze pomaga emocjonalnemu i instynktowemu ogłupieniu.
+
+Zajmiemy umysły tym, co jest daremne i zabawne. Dobrze jest z nieustanną gadką i muzyką, aby nie zadawać sobie pytań, myślenia i myślenia. Seksualność będzie najważniejsza w ludzkich interesach. Jako znieczulenie społeczne, nie ma nic lepszego. Ogólnie rzecz biorąc, należy zabronić powagi egzystencji, wyśmiewać wszystko, co ma wysoką wartość, utrzymywać ciągłe apologię lekkości, tak aby euforia reklamy i konsumpcji stała się cenną standardową podstawą ludzkiego szczęścia i wzorem wolności.
+
+Opakowanie samo w sobie spowoduje taką integrację, że jedynym lękiem (który trzeba będzie podtrzymywać) jest wykluczenie z systemu i tym samym utrata dostępu do warunków materialnych niezbędnych do szczęścia. Masowy człowiek, tak wyprodukowany, powinien być traktowany tak, jak jest: produktem, cielęciem i musi być monitorowany tak, jak powinno być stado. Wszystko, co pozwala uśpić jego jasność, jego krytyczny umysł jest dobre społecznie, więc to co mogłoby go obudzić, musi być zwalczone, wyśmiewane, duszone…
+
+Wszelkie doktryny kwestionujące system muszą być najpierw wyznaczone jako wywrotowe i terrorystyczne, a ci, którzy ją popierają, będą musieli być traktowani jak takie właśnie.”
+
+`Günther Anders „ludzka przestarzałość” 1956`
+
+---
 
 ### 2023
 
@@ -57,6 +96,12 @@ Bullies might hit, kick, or push to hurt people, or use words to call names, tea
 ### 2004
 
 <a href="./documents/february/FRBSpeechBernanke-TheGreatModeration--February-20_2004.html" target="_blank">The Great Moderation</a>
+
+### 1952
+
+Meet the first accredited female jet pilot in NATO, Col Leman Bozkurt. Turkish women continue to lead in every aspect of Turkish society/ economy since Turkiye joined NATO in 1952.
+
+<img src="./img/february/turkiye.jpeg"><br><br>
 
 ### 1945
 

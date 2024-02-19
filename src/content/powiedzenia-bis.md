@@ -283,6 +283,8 @@ Cui bono?
 
 <img src="./img/others/powiedzenia/przyszla-wojna.jpg"><br><br>
 
+Jeśli nie wiesz, jak należy się w jakiejś sytuacji zachować, na wszelki wypadek zachowuj się przyzwoicie.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
