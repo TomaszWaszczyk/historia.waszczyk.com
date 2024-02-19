@@ -17,7 +17,7 @@ draft: false
 
 <img src="./img/february/itiseasy-andnoteasy.jpg"><br><br>
 
-<a href="./documents/february/KUBIS.pdf)" target="_blank">„Poznacie prawdę, a prawda was wyzwoli”…</a>
+<a href="./documents/february/KUBIS.pdf" target="_blank">„Poznacie prawdę, a prawda was wyzwoli”…</a>
 
 ---
 
