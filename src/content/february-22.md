@@ -15,6 +15,12 @@ draft: false
 
 ---
 
+<img src="./img/february/chef.png"><br><br>
+
+<img src="./img/february/ukraina-krytyczna.png"><br><br>
+
+---
+
 ### 2023
 
 <img src="./img/february/biden.png"><br><br>
@@ -53,6 +59,13 @@ Globally, the world is $255 trillion in debt.
 
 We are in the beginning of what is looking to be like the most major financial crisis that the world has ever witnessed. #Bitcoin has gone from being something that is laughed at, to being a form of money which billionaires are purchasing, and which major financial institutions are studying.
 Family offices now have a choice; to stay in the collapsing traditional financial system, or to evolve and adapt for the future.
+
+### 2013
+
+<video width="640" height="480" controls>
+<source src="./movies/february/Paweł-Wieczorkiewicz.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1947
 

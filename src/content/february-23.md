@@ -3,10 +3,14 @@ layout: post
 title: 23 lutego
 image: img/february/szarecki.jpg
 author: Tomasz Waszczyk
-date: 2022-02-23T10:00:00.000Z
+date: 2024-02-23T10:00:00.000Z
 tags:
   - Armia Krajowa
 ---
+
+### 2024
+
+> Google has begun their long decline. "Don't be evil" seems like a fairy tale from a long ago past. Reminds me of IBM from the 90's. They'll be a zombie company soon enough.
 
 ### 2023
 
