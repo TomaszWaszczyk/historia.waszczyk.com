@@ -1791,7 +1791,7 @@ Obszarnik i wichrzyciel!
 
 https://en.m.wikipedia.org/wiki/Noblesse_oblige
 
-
+i need to jump off - i need to leave the call
 
 ---
 

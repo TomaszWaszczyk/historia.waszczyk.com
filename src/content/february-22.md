@@ -9,6 +9,12 @@ tags:
 draft: false
 ---
 
+### 2024
+
+> Like the invention of TCP/IP, which created a seamlessly unified Internet, the aggregation layer, or AggLayer, unites a divided blockchain landscape into a web of ZK-secured L1 and L2 chains that feels like a single chain.
+
+---
+
 ### 2023
 
 <img src="./img/february/biden.png"><br><br>
