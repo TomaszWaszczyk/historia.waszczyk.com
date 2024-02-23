@@ -4,6 +4,8 @@ https://pl.wikipedia.org/wiki/Paul_Baran_(informatyk)
 
 https://wmgaz.pl
 
+https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_%E2%80%9ESok%C3%B3%C5%82%E2%80%9D
+
 https://www.historyonthenet.com/authentichistory/1930-1939/2-fdr/2-reception/technocrats/
 
 http://przecza.pl/muzeum-radia/

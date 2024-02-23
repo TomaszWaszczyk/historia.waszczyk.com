@@ -18,6 +18,7 @@ https://www.sparknotes.com/lit/bravenew/infographic/
 
 ### Pan Cogito o potrzebie ścisłości
 
+```
 (...)
 
 a przecież w tych sprawach konieczna jest aktualność
@@ -65,9 +66,11 @@ proso mak kościany grzebień
 groty strzał
 
 pierścień wierności
+```
 
 ### Konstanty Ildefons Gałczyński, Zima z wypisów szkolnych
 
+```
 Któż to tak śnieżkiem prószy z niebiosów?
 Dyć oczywiście pan wojewoda;
 módl się, dziecino, z całą krainą -
@@ -107,9 +110,11 @@ nad miastem i nad wsią.
 
 Konstanty Ildefons Gałczyński
 1936
+```
 
 ### Herbert Zbigniew - Potęga smaku
 
+```
 Pani Profesor Izydorze Dąmbskiej
 Potęga smaku
 
@@ -155,16 +160,20 @@ Tak smaku
 który każe wyjść skrzywić się wycedzić szyderstwo
 choćby za to miał spaść bezcenny kapitel ciała
 głowa
+```
 
 ### C.K. Norwid
 
+```
 “Ogromne wojska i bitne generały
 Policje jawne, tajne i dwupłciowe
 Przeciwko komu się tak pojednały?
 Przeciwko kilku myślom, co nie nowe”
+```
 
 ### Przesłanie Pana Cogito
 
+```
 Idź dokąd poszli tamci do ciemnego kresu
 po złote runo nicości twoją ostatnią nagrodę
 
@@ -214,9 +223,11 @@ do grona twoich przodków: Gilgamesza Hektora Rolanda
 obrońców królestwa bez kresu i miasta popiołów
 
 Bądź wierny Idź
+```
 
 ### Passa
 
+```
 Sąsiad, wpadając niespodziewanie,
 
 Zwłaszcza gdy sobie ciut golnie,
@@ -284,9 +295,11 @@ Zakończę nieco frywolnie,
 Ale pocieszyć pragnę współbraci,
 
 Że to niebawem… tra la la la la.
+```
 
 ### Władysław Szlengel , Nasz Przegląd, 1.04.39 r.
 
+```
 Prima Aprilis
 
 boki zrywać panowie...
@@ -316,9 +329,11 @@ stary i mądry lis z parasolem...
 czytałem spokojnie brednie gazety
 prima aprilis! gniewać się?! Nietakt!
 a potem spostrzegłem niestety że to... wczorajsza gazeta
+```
 
 ### Bieda
 
+```
 Choć jestem lekarzem
 
 I o niczym innym nie marzę
@@ -356,9 +371,11 @@ Pier... wszystkie sprawy.
 
 
 B. Fiałek
+```
 
 ### Gotowy zestaw, nie zawiera baterii
 
+```
 Składa się z powłoki skórnej, skóra naturalna
 W niektórych egzemplarzach napięta,
 W niektórych wiotka,
@@ -397,6 +414,7 @@ Tylko nie zawiera baterii
 Ani ładowarki.
 Skąd je wziąć? Nie jestem pewien...
 Niech każdy sam to rozważy.
+```
 
 ### Kornel Filipowicz, wiersz z tomu "Powiedz to słowo", 1984
 
@@ -423,6 +441,7 @@ Niech każdy sam to rozważy.
 
 ### NARODOWO
 
+```
 W NARODOWYM szpitalu, z NARODOWEJ apteki,
 
 NARODOWY pielęgniarz, NARODOWE ma leki.
@@ -458,6 +477,7 @@ ale w coraz ciaśniejszym NARODOWYM kagańcu.
 I tak sobie żyjemy bez perspektyw i celu,
 
 w tym naszym ,zwariowanym, NARODOWYM BURDELU.”
+```
 
 ### Bezsilność
 

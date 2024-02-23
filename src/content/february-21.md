@@ -11,6 +11,18 @@ draft: false
 
 ### 2024
 
+<img src="./img/february/sankcje-po-europejsku.jpeg"><br><br>
+
+---
+
+Ludowy Bank Chin (bank centralny) obniżył stopy procentowe. Było 4,20 %, jest 3,95 %. Jest to obniżka wyższa niż zakładał rynek, jej celem jest pobudzenie gospodarki, w szczególności segmentu nieruchomości mieszkalnych oraz ogólnie odbudowy zaufania konsumentów.
+
+<img src="./img/february/bank-chin.jpeg"><br><br>
+
+Rynek spodziewa się kolejnych obniżek.
+
+---
+
 <img src="./img/february/upsssssss.jpg"><br><br>
 
 <img src="./img/february/rosja-kraje-baltyckie.jpeg"><br><br>
@@ -26,6 +38,13 @@ draft: false
 <img src="./img/february/usa-prezeydent.jpeg"><br><br>
 
 <img src="./img/february/zelenski-ma-sluchac.jpeg"><br><br>
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/february/nowak-o-zmianach.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
