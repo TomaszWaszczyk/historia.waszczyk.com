@@ -8,6 +8,12 @@ date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
 
+> Lecz większość śpi nadal, przez sen się uśmiecha,
+>
+> A kto się zbudzi nie wierzy w przebudzenie.
+
+---
+
 Blayb gezunt mir, kroke! Mordechai Gebirtig
 
 https://en.wikipedia.org/wiki/Sturm_und_Drang
@@ -418,26 +424,28 @@ Niech każdy sam to rozważy.
 
 ### Kornel Filipowicz, wiersz z tomu "Powiedz to słowo", 1984
 
-> W państwie totalitarnym
-> Wolność
-> Nie będzie nam odebrana
-> Nagle
-> Z dnia na dzień
-> Z wtorku na środę
-> Będą nam jej skąpić powoli
-> Zabierać po kawałku
-> (Czasem nawet oddawać
-> Ale zawsze mniej, niż zabrano)
-> Codziennie po trochę
-> W ilościach niezauważalnych
-> Aż pewnego dnia
-> Po kilku lub kilkunastu latach
-> Zbudzimy się w niewoli
->
-> Ale nie będziemy o tym wiedzieli
-> Będziemy przekonani
-> Że tak być powinno
-> Bo tak było zawsze.
+```
+W państwie totalitarnym
+Wolność
+Nie będzie nam odebrana
+Nagle
+Z dnia na dzień
+Z wtorku na środę
+Będą nam jej skąpić powoli
+Zabierać po kawałku
+(Czasem nawet oddawać
+Ale zawsze mniej, niż zabrano)
+Codziennie po trochę
+W ilościach niezauważalnych
+Aż pewnego dnia
+Po kilku lub kilkunastu latach
+Zbudzimy się w niewoli
+
+Ale nie będziemy o tym wiedzieli
+Będziemy przekonani
+Że tak być powinno
+Bo tak było zawsze.
+```
 
 ### NARODOWO
 
@@ -669,10 +677,6 @@ puźniej farbe tom zeskrobie
 ```
 
 pięść o spusztoszeniu podola problematyka
-
----
-
-> Lecz większość śpi nadal, przez sen się uśmiecha, A kto się zbudzi nie wierzy w przebudzenie.
 
 ---
 
