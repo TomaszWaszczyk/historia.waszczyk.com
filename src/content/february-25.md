@@ -11,6 +11,8 @@ draft: false
 
 ### 2024
 
+<img src="./img/february/20stopni.png"><br><br>
+
 > Polska - jedna z ładniejszych działek na świecie.
 
 ### 2023
