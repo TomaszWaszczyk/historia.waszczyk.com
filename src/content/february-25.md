@@ -3,11 +3,15 @@ layout: post
 title: 25 lutego
 image: img/february/listopadowe.jpg
 author: Tomasz Waszczyk
-date: 2022-02-25T10:00:00.000Z
+date: 2024-02-25T10:00:00.000Z
 tags:
   - Powstanie listopadowe
 draft: false
 ---
+
+### 2024
+
+> Polska - jedna z ładniejszych działek na świecie.
 
 ### 2023
 

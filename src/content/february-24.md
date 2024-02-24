@@ -3,11 +3,30 @@ layout: post
 title: 24 lutego
 image: img/february/wybicki.jpg
 author: Tomasz Waszczyk
-date: 2020-02-24T10:00:00.000Z
+date: 2024-02-24T10:00:00.000Z
 tags:
   - Rosja
 draft: false
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/february/life.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/Prof.Pawel-Wieczorkiewicz-o-klamstwie-procesie-norymberskim.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/signal.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/february/generalnie-strata-czasu.png"><br><br>
 
 ### 2022
 
