@@ -11,9 +11,24 @@ draft: false
 
 ### 2024
 
+<a href="./documents/february/A_Brief_History_of_Blockchain_Interoperability.pdf" target="_blank">Interoperability</a>
+
+<a href="./documents/february/FINAL-ICS4-Book.pdf" target="_blank">FINAL-ICS4-Book</a>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/sikorski-o-ukrainie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/february/audemars.jpeg"><br><br>
+
 <img src="./img/february/20stopni.png"><br><br>
 
+---
+
 > Polska - jedna z ładniejszych działek na świecie.
+
+---
 
 ### 2023
 
