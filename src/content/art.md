@@ -10,6 +10,8 @@ draft: false
 
 <img src="./img/others/sztuka.jpg"><br><br>
 
+<img src="./img/february/linux-pinguin.jpeg"><br><br>
+
 ##### "Yalta Conference" Vitaly Komar and Alex Melamid, 1984
 
 !["Yalta Conference" Vitaly Komar and Alex Melamid, 1984](./img/art/jalta.jpg)

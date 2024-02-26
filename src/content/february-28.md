@@ -3,11 +3,17 @@ layout: post
 title: 28 lutego
 image: img/february/wojna30.jpg
 author: Tomasz Waszczyk
-date: 2022-02-28T10:00:00.000Z
+date: 2024-02-28T10:00:00.000Z
 tags:
   - Habsburgowie
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/linux-pinguin.jpeg"><br><br>
+
+<img src="./img/february/two-kinds-of-people.jpeg"><br><br>
 
 ### 2023
 

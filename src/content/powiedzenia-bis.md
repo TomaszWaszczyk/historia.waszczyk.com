@@ -285,6 +285,8 @@ Cui bono?
 
 Jeśli nie wiesz, jak należy się w jakiejś sytuacji zachować, na wszelki wypadek zachowuj się przyzwoicie.
 
+Daj mi ludzi, ja to zrobię.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

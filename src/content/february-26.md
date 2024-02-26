@@ -3,11 +3,37 @@ layout: post
 title: 26 lutego
 image: img/february/maluch.jpg
 author: Tomasz Waszczyk
-date: 2022-02-26T10:00:00.000Z
+date: 2024-02-26T10:00:00.000Z
 tags:
   - PRL
 draft: false
 ---
+
+### 2024
+
+<img src="./img/february/dead.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/idzie-wojna.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/february/idzie-wojna2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/february/inflacja-turowicz.gif"><br><br>
+
+---
+
+Global debt increased to a record $313 trillion at the end of 2023, according to the IIF (Institute of International Finance), taking the global debt-to-GDP ratio to 330%.
+
+Which means, assuming (conservatively) an average interest rate of 5%, the global #economy needs to come up with 16.5% of GDP for interest payments. On top of that, debt needs to be amortized, so the total "drain" is even larger.
+
+It doesn't mean the system is about to collapse. It just gets more leveraged, and hence more unstable / prone to shocks.
+
+<img src="./img/february/global-debt.jpeg"><br><br>
 
 ### 2023
 
