@@ -287,6 +287,10 @@ Jeśli nie wiesz, jak należy się w jakiejś sytuacji zachować, na wszelki wyp
 
 Daj mi ludzi, ja to zrobię.
 
+wiedza to nie informacja!
+
+ty nie mówisz do dziennikarza, ty mówisz do elektoratu
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

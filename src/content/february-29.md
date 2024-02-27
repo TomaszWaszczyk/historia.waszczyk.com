@@ -9,6 +9,24 @@ tags:
 draft: false
 ---
 
+### 2024
+
+```
+„Russland, ein ständiges Mitglied dieses Sicherheitsrats, will, dass ein souveräner Staat sein Existenzrecht aufgibt.
+Wo kämen wir hin, wenn sich dieses Prinzip durchsetzen würde?
+Welches unserer Länder würde als Nächstes von einem ruchlosen Nachbarn überfallen?
+Wessen Kinder würden als Nächstes verschleppt?
+Wessen Söhne erschossen?
+Wessen Töchter vergewaltigt?
+Gäben wir nach, wäre dies das Ende der Charta, unserer Charta.“
+-Außenministerin Annalena Baerbock im Sicherheitsrat der Vereinten Nationen anlässlich des Jahrestags des russischen Angriffskriegs gegen die Ukraine.
+```
+
+<video width="640" height="480" controls>
+<source src="./movies/february/who-next.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### 2022
 
 Przykład bzdur mówionych w Polsce:

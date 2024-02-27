@@ -23,7 +23,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-<img src="./img/february/inflacja-turowicz.gif"><br><br>
+<!-- <img src="./img/february/inflacja-turowicz.gif"><br><br> -->
 
 ---
 

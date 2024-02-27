@@ -11,6 +11,8 @@ draft: false
 
 ### 2024
 
+...oszczędne gospodarowanie prawdą...
+
 <img src="./img/february/linux-pinguin.jpeg"><br><br>
 
 <img src="./img/february/two-kinds-of-people.jpeg"><br><br>

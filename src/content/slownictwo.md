@@ -1793,6 +1793,8 @@ https://en.m.wikipedia.org/wiki/Noblesse_oblige
 
 i need to jump off - i need to leave the call
 
+unintended consequences
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
