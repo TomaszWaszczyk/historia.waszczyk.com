@@ -3,13 +3,19 @@ layout: post
 title: 29 lutego
 image: img/february/anders.jpg
 author: Tomasz Waszczyk
-date: 2019-02-29T10:00:00.000Z
+date: 2024-02-29T10:00:00.000Z
 tags:
   - NKWD
 draft: false
 ---
 
 ### 2024
+
+<img src="./img/march/palac-prezydencki-warszawa.jpeg"><br><br>
+
+> Radosław Sikorski podczas wizyty w Waszyngtonie wystąpił z przemówieniem w Radzie Atlantyckiej (Atlantic Council). - Moja żona, jak niektórzy z was wiedzą, jest Amerykanką. Natomiast większość z was może nie wiedzieć, że nasz syn jest amerykańskim żołnierzem - powiedział. Wskazywał, że jego "serce i obowiązek" są przy Polsce, ale jego interesy "również związane są z tym, żeby Ameryka była krajem pełnym dobrobytu". Szef polskiej dyplomacji mówił też, że "tylko trzy kroki dzielą nas od bardziej bezpiecznego i stabilnego świata".
+
+---
 
 ```
 „Russland, ein ständiges Mitglied dieses Sicherheitsrats, will, dass ein souveräner Staat sein Existenzrecht aufgibt.

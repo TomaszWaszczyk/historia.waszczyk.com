@@ -3,11 +3,20 @@ layout: post
 title: 2 marca
 image: img/march/bekantmachung.jpg
 author: Tomasz Waszczyk
-date: 2022-03-02T10:00:00.000Z
+date: 2024-03-02T10:00:00.000Z
 tags:
   - Niemcy
 draft: false
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/march/julka.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/march/us-world-economy.jpeg"><br><br>
 
 ### 2023
 

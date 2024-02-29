@@ -3,11 +3,31 @@ layout: post
 title: 1 marca
 image: img/march/banknot.jpg
 author: Tomasz Waszczyk
-date: 2022-03-01T10:00:00.000Z
+date: 2024-03-01T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+> this is the age of community: you either join or build something bigger than yourself or you struggle 🤷
+
+---
+
+<img src="./img/march/lekcja-historii.jpeg"><br><br>
+
+Jednolity obszar edukacji: Kto rządzi przeszłością, w tego rękach jest przyszłość; kto rządzi teraźniejszością, w tego rękach jest przeszłość
+
+Historia nauczycielką życia, ale jak wiadomo ministra za bardzo to za życiem nie jest i jeszcze została wystawiona przez międzynarodówkę do sformatowania małych ludzi. Każda osoba odróżniająca Norbiego od Norwida rozumie, że wykreślenie z historii Pileckiego, Kolbe, Kordeckiego, Czarnieckiego, „Inki”, zakonu krzyżackiego, największej bitwy Średniowiecza, Kościuszki, Pułaskiego, Konfederacji Barskiej, Locarno to pisanie na nowo przez ludowych komisarzy historii PL. Jak przeszłość rządzi przyszłością przedstawię na 3 przykładach.
+
+👉 Wiemy, że Henryk VIII różnie żył ze swoimi małżonkami i z niektórymi rozstawał się nagle, lecz mało kto wie, że król odpowiada za zabicie ok. 60-70k ludzi, przede wszystkim kleru i przeciwników politycznych.
+👉 Za najbardziej morderczą organizację w historii Polska Ludowa uznawała Świętą Inkwizycję i liczbę jej ofiar szkolne podręczniki szacowały wówczas na 600k, chociaż w pamięci ludzkiej do dziś pokutują miliony. Tymczasem wykonanych wyroków śmierci od XIII do XIX w. historycy doszukali się kilkunastu tysięcy. Tyle samo osób zostało zgilotynowanych w 2y jakobińskiego Wiekiego Terroru, co i tak blednie przy wojnach wandejskich...
+👉 Doktrynerstwo, szaleństwo i dyktatorskie zapędy Rewolucji napotkały opór biednego chłopstwa francuskiego, na co młoda Republika odpowiedziała wysłaniem Gwardii Narodowej do pacyfikowania biedoty. Wieś odpowiedziała oporem w imię Boga i Króla. A w świecie lewicy Konwentu nie było miejsca na wiarę... „Oświeceni” republikanie wierzyli tylko w Rozum, stąd dekretem usankcjonowano istnienie „Istoty Najwyższej”, która miała zastąpić wierzenia prowincji. Później Lenin i Stalin wiarę zastępowali kultem jednostki, dziś widać zresztą podobne zapędy w walce z konserwatyzmem.
+🤦Ostatecznie w Wandei zamordowano do 800,000 niewinnych ludzi za religię lub rojalizm. To pierwsze ludobójstwo nowożytnej Europy, gdzie lewica przemysłowo mordowała ludzi topiąc ich na barkach. Komitet Rewolucyjny ukuł na tę okazję eufemistyczny termin ⏩ „deportacja pionowa”, gdzie po 400 osób co chwilę topiono na środku Loary. Upokarzano dodatkowo kobiety, mężczyzn i dzieci (!), bo rozbierano ich do naga i przywiązywano do siebie przed zatopieniem. Praktykę tę określano ironicznie jako „małżeństwa republikańskie”...
+Generał François Westermann donosił z entuzjazmem "Nie ma już Wandei. Wraz ze swymi kobietami i dziećmi zginęła pod naszą wolną szablą. Grzebię ją w bagnach i lasach. Miażdżyłem dzieci kopytami koni, masakrowałem kobiety, które nie będą już rodzić bandytów."
+
+100% z Was zna Inkwizycję choćby dzięki antyklerykałowi Umberto Eco i pewnie 99,9% nie poznało nigdy Wandei. Czytelnicy teraz sami sobie mogą wyrobić zdanie, jak łatwo można manipulować milionami ludzi przez pomijanie albo wyolbrzymianie elementów historii. Historia to za poważna rzeczy, by zostawić ją politykom.
 
 ### 2023
 

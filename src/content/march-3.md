@@ -107,6 +107,10 @@ Kosztował 7k Euro - 4.1371 - cena euro samochodu
 
 -->
 
+### 1997
+
+Ecole de Guerre Economique: Formation en intelligence économique
+
 ### 1948
 
 Przed Rejonowym Sądem Wojskowym w Warszawie rozpoczął się proces rotmistrza Witolda Pileckiego i jego towarzyszy: Marii Szelągowskiej, Tadeusza Płużańskiego, Szymona Jamontta-Krzywickiego, Maksymiliana Kauckiego, Jerzego Nowakowskiego, Witolda Różyckiego i Makarego Sieradzkiego. Rotmistrz Pilecki został oskarżony o nielegalne przekroczenie granicy, posługiwanie się fałszywymi dokumentami, brak rejestracji w Rejonowej Komendzie Uzupełnień, nielegalne posiadanie broni palnej, prowadzenie działalności szpiegowskiej na rzecz generała Władysława Andersa oraz przygotowywanie zamachu na grupę dygnitarzy Ministerstwa Bezpieczeństwa Publicznego.

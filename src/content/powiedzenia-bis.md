@@ -291,6 +291,12 @@ wiedza to nie informacja!
 
 ty nie mówisz do dziennikarza, ty mówisz do elektoratu
 
+Bogatemu to się i byk ocieli
+
+<img src="./img/others/powiedzenia/where-your-fear.png"><br><br>
+
+oszczędne gospodarowanie prawdą
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
