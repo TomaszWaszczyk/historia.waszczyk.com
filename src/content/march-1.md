@@ -15,6 +15,8 @@ draft: false
 
 ---
 
+<img src="./img/march/nato-moneta.jpg"><br><br>
+
 <img src="./img/march/lekcja-historii.jpeg"><br><br>
 
 Jednolity obszar edukacji: Kto rządzi przeszłością, w tego rękach jest przyszłość; kto rządzi teraźniejszością, w tego rękach jest przeszłość

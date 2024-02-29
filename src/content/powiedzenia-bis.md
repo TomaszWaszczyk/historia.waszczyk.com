@@ -297,6 +297,8 @@ Bogatemu to się i byk ocieli
 
 oszczędne gospodarowanie prawdą
 
+"The price of good men pay for indifference to public affairs to is to be ruled by evil men." | Plato⁣
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
