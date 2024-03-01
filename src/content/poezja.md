@@ -10,7 +10,7 @@ draft: false
 
 > Lecz większość śpi nadal, przez sen się uśmiecha,
 >
-> A kto się zbudzi nie wierzy w przebudzenie.
+> A kto się zbudzi, nie wierzy w przebudzenie.
 
 ---
 

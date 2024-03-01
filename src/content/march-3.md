@@ -3,11 +3,26 @@ layout: post
 title: 3 marca
 image: img/march/pilecki.jpg
 author: Tomasz Waszczyk
-date: 2022-03-03T10:00:00.000Z
+date: 2024-03-03T10:00:00.000Z
 tags:
   - Witold Pilecki
 draft: false
 ---
+
+### 2024
+
+Singapore 🇸🇬 embraces the change and prepares its citizens for the age of AI:
+
+The Singapore government is acutely aware of AI and its potential to transform society.
+
+That's why they are now talking about a new subsidy for Singaporeans age 40 and above that enables them to pursue another full-time diploma in Higher Education to upskill themselves + keep up with changes in tech.
+
+Embracing the change. Helping their own people adapt - that's the real leadership.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/ai.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2023
 
