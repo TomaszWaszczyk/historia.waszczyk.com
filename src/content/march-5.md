@@ -3,11 +3,19 @@ layout: post
 title: 5 marca
 image: img/march/gzowski.jpg
 author: Tomasz Waszczyk
-date: 2022-03-05T10:00:00.000Z
+date: 2024-03-05T10:00:00.000Z
 tags:
   - Hongkong
 draft: false
 ---
+
+### 2024
+
+Mija 13 lat odkąd państwo polskie nie jest w stanie wyjaśnić kto porwał starszą panią, oblał ją benzyną i spalił w Lesie Kabackim.
+
+<img src="./img/march/brzeska.jpeg"><br><br>
+
+> Jolanta Brzeska została wywabiona z domu, zawieziona do Lasu Kabackiego i tam zamordowana, to jasne jest, że dokonano zbrodni z premedytacją. Zaplanowano szczegóły i plan precyzyjnie wykonano. Podejrzanych należało więc typować w kręgu osób skonfliktowanych z działaczką ruchu lokatorskiego. W kryminologii przyjmuje się, że sprawcą jest ten, kto odnosi korzyść. Kamienica przy Nabielaka, w której mieszkała Brzeska, została zreprywatyzowana. Oddano ją Markowi M., który wykupił prawo do roszczeń od spadkobierców przedwojennych właścicieli.
 
 ### 2023
 
