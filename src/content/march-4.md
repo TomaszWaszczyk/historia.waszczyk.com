@@ -3,10 +3,32 @@ layout: post
 title: 4 marca
 image: img/march/urban.jpg
 author: Tomasz Waszczyk
-date: 2022-03-04T10:00:00.000Z
+date: 2024-03-04T10:00:00.000Z
 tags:
   - Jerzy Urban
 draft: false
+---
+
+### 2024
+
+Będę kulturalny. Proszę wypierdalać.
+
+---
+
+<img src="./img/march/33.jpeg"><br><br>
+
+<img src="./img/march/33-2.jpeg"><br><br>
+
+<img src="./img/march/33-3.jpeg"><br><br>
+
+```text
+- Co chcesz by ulepić świat na nowo?
+- Jak to co? To co zawsze. Ciebie, twoją duszę.
+- Coś jeszcze?
+- Tak, sto tysięcy litrów krwi.
+- Świat potrzebuje nowych map.
+```
+
 ---
 
 ### 2022
