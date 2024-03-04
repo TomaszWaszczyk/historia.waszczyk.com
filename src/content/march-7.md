@@ -3,10 +3,42 @@ layout: post
 title: 7 marca
 image: img/march/emanuel.jpg
 author: Tomasz Waszczyk
-date: 2022-03-07T10:00:00.000Z
+date: 2024-03-07T10:00:00.000Z
 tags:
   - Warszawa
 ---
+
+### 2024
+
+```
+Arbitrage Pricing Theory:
+
+The Arbitrage Pricing Theory (APT) was introduced in Ross (1976) as an alternative to the CAPM to try to solve some of its deficiencies. Informally, the APT allows obtaining a linear relationship between the expected excess return of an asset and the various factors that affect it, under the assumptions of a factor model for excess returns and the absence of arbitrage opportunities.
+In more formal terms, the fundamental result of the APT can only be obtained exactly asymptotically, that is, as the limit when the number of assets in the portfolio tends to infinity and under the absence of asymptotic arbitrage opportunities.
+The first of today's formulas expresses the factor model for returns, and in it:
+- e is the random n-vector of excess asset returns (difference between asset returns and the return of the riskless asset).
+- a is a n-vector of constants (which under the assumptions of the model turn out to be the vector of expected excess returns).
+- B is an nxk matrix of constants, known as factor loadings or betas of the assets.
+- f is a random k-vector of factors.
+- epsilon is a random n-vector of residues or idiosyncratic risks.
+The second formula expresses the result of the APT. In it:
+- n is the number of assets in the portfolio.
+- E_i is the expected excess return of the i-th asset.
+- beta_ij is the beta of the i-th asset with respect to the j-th factor.
+- lambda_j, j=1,...,k, are the numbers whose existence is affirmed by the APT theorem and which represent the factors.
+Another way to look at this result is to consider that the APT is approximately true for portfolios with a large number of assets and in mean square sense.
+The specific assumptions of the APT about the random variables involved in it and its proof, can be found in Ingersoll (2020), for the case of uncorrelated residuals (strict factor models). A more general version, including the possibility of correlated residuals (approximate factor models), appears in Ingersoll (1984). A completely general version, valid for arbitrary normed vector spaces, in which the no-arbitrage condition is replaced by the assumption that the price functional is continuous, can be found in Reisman (1988).
+Finally, mention that an exact result for the APT (excess expected return as a linear combination of the factors) with finite portfolios and absence of arbitrage, is valid as long as a factor model without residuals for asset returns is considered (see Simple APT in Luenberger (1998)).
+
+References:
+- Ingersoll (1984): "Some Results in the Theory of Arbitrage Pricing", Journal of Finance, 39 (4), 1021-1039.
+- Ingersoll (2020): "Theory of Financial Decision Making", Dev Publishers & Distributors.
+- Luenberger (1998): "Investment Science", Oxford University Press.
+- Reisman (1988): "A General Approach to the Arbitrage Pricing Theory (APT)", Econometrica, 56 (2), 473-476.
+- Ross (1976): "The Arbitrage Theory of Capital Asset Pricing", Journal of Economic Theory, 13, 341-360.
+```
+
+<img src="./img/march/arbitrage.jpeg"><br><br>
 
 ### 2023
 

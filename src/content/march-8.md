@@ -3,11 +3,93 @@ layout: post
 title: 8 marca
 image: img/march/wydarzenia_marcowe.jpg
 author: Tomasz Waszczyk
-date: 2022-03-08T10:00:00.000Z
+date: 2024-03-08T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+> Dutch government officials tried to silently remove the word ''mother'' from the civil registry and replace it with ''parent from whom the child was born''.
+
+They thought no one would notice. The madness knows no bounds.
+
+---
+
+```text
+More than one-quarter of scholarly articles are not being properly archived and preserved, a study of more than seven million digital publications suggests. The findings, published in the Journal of Librarianship and Scholarly Communication on 24 January1, indicate that systems to preserve papers online have failed to keep pace with the growth of research output.
+
+“Our entire epistemology of science and research relies on the chain of footnotes,” explains author Martin Eve, a researcher in literature, technology and publishing at Birkbeck, University of London. “If you can’t verify what someone else has said at some other point, you’re just trusting to blind faith for artefacts that you can no longer read yourself.”
+
+Eve, who is also involved in research and development at digital-infrastructure organization Crossref, checked whether 7,438,037 works labelled with digital object identifiers (DOIs) are held in archives. DOIs — which consist of a string of numbers, letters and symbols — are unique fingerprints used to identify and link to specific publications, such as scholarly articles and official reports. Crossref is the largest DOI registration agency, allocating the identifiers to about 20,000 members, including publishers, museums and other institutions.
+
+The sample of DOIs included in the study was made up of a random selection of up to 1,000 registered to each member organization. Twenty-eight percent of these works — more than two million articles — did not appear in a major digital archive, despite having an active DOI. Only 58% of the DOIs referenced works that had been stored in at least one archive. The other 14% were excluded from the study because they were published too recently, were not journal articles or did not have an identifiable source.
+Preservation challenge
+
+Eve notes that the study has limitations: namely that it tracked only articles with DOIs, and that it did not search every digital repository for articles (he did not check whether items with a DOI were stored in institutional repositories, for example).
+
+Nevertheless, preservation specialists have welcomed the analysis. “It’s been hard to know the real extent of the digital preservation challenge faced by e-journals,” says William Kilbride, managing director of the Digital Preservation Coalition, headquartered in York, UK. The coalition publishes a handbook detailing good preservation practice.
+
+“Many people have the blind assumption that if you have a DOI, it’s there forever,” says Mikael Laakso, who studies scholarly publishing at the Hanken School of Economics in Helsinki. “But that doesn’t mean that the link will always work.” In 2021, Laakso and his colleagues reported2 that more than 170 open-access journals had disappeared from the Internet between 2000 and 2019.
+
+Kate Wittenberg, managing director of the digital archiving service Portico in New York City, warns that small publishers are at higher risk of failing to preserve articles than are large ones. “It costs money to preserve content,” she says, adding that archiving involves infrastructure, technology and expertise that many smaller organizations do not have access to.
+
+Eve’s study suggests some measures that could improve digital preservation, including stronger requirements at DOI registration agencies and better education and awareness of the issue among publishers and researchers.
+
+“Everybody thinks of the immediate gains they might get from having a paper out somewhere, but we really should be thinking about the long-term sustainability of the research ecosystem,” Eve says. “After you’ve been dead for 100 years, are people going to be able to get access to the things you’ve worked on?”
+
+doi: https://doi.org/10.1038/d41586-024-00616-5
+```
+
+> randka z Tindera to jak granie w zdrapkę - nie wygrasz :D
+
+---
+
+https://digital-strategy.ec.europa.eu/en/policies/ai-office
+
+---
+
+```text
+Dojrzałość według św. Hildegardy - Małgorzata Bilska
+
+Oryginalna myśl Hildegardy może się stać bardzo atrakcyjna dla współczesnego człowieka, bo porządkuje chaos poznawczy, a ma też konkretne walory zdrowotne – z Alfredą Walkowską, założycielką Polskiego Centrum św. Hildegardy
+
+Pani działania na rzecz przywrócenia współczesnym ludziom dzieł św. Hildegardy z Bingen trwają już ponad 30 lat. Na wiosnę otrzymała Pani nagrodę Feniks Specjalny, przyznawaną przez Stowarzyszenie Wydawców Katolickich, którzy dostrzegli m.in. wymiar ekologiczny tej działalności. Ekologię kojarzymy głównie z myślą św. Franciszka z Asyżu, a tu proszę – duży wkład ma także ta wielka kobieta, jedna z czterech uznanych przez Watykan (będzie ich więcej) za doktora Kościoła…
+– W uzasadnieniu przyznania mi nagrody rzeczywiście podkreślono kwestię ekologii, ale nie można się tylko na tym zatrzymać. Brzmiało to: „za propagowanie stylu życia opartego na świadomości ekologicznej”, ale też „za aktywną, konsekwentną, skuteczną działalność edukacyjno-wydawniczą i rekolekcyjną, która znajduje praktyczne zastosowanie w przywracaniu harmonii ciała i ducha, przy użyciu w pełni naturalnych, autentycznych metod średniowiecznej wizjonerki”. To ważne, bo kiedy zaczynałam się tym zajmować, nie myślałam o ekologii. Poza tym ekologia bywa bardzo różnie rozumiana. Jest ta, która opiera się na Laudato si’, ale są też inne nurty.
+Nasze społeczeństwo ma tendencję do myślenia w kategoriach logiki wahadła. Dotyczy to też ekologii, która sama w sobie jest czymś dobrym. Świadomy, odpowiedzialny człowiek to ten, kto we właściwy sposób traktuje cały świat stworzony. Odpowiada za wszystkie żywe stworzenia. Ma być mądry, aby się nimi opiekować. A co my robimy? Idziemy w skrajności. Najpierw podbijamy, nadużywamy władzy i niszczymy, a potem – jak wahadło – odbijamy w drugą skrajność i pojawia się ekologizm. To trochę tak jak z terminami indywidualność oraz indywidualizm. Pierwszy jest dobry, Hildegarda już w średniowieczu poświęcała indywidualności dużo miejsca. Zupełnie inne znaczenie ma indywidualizm – postawa oparta na przekonaniu, że liczy się jednostka, a wszystko ma się do niej dostosować.
+
+Indywidualizm jest głównym czynnikiem rozbijającym dziś więzi społeczne, wspólnoty, ale też instytucje. Prowadzi do kultury narcyzmu, deinstytucjonalizacji, prywatyzacji religii itd.
+– Wiele współczesnych zjawisk wiąże się z takimi skrajnościami, wymaga chrześcijańskiej dojrzałości. Hildegarda może być ogromną pomocą w prostowaniu tych ścieżek. Obecnie panuje moda na zdrowy styl życia, trzeba być eko, fit itd. Tylko co to w praktyce oznacza? Dorobek Hildegardy z Bingen jest ogromny, niesie również w tej sferze mądre odpowiedzi. Przede wszystkim ona patrzy na człowieka całościowo, holistycznie, szukając w świecie stworzonym przez Boga pierwotnej harmonii. Wracając do źródła, nie popada w logikę tego świata, lecz wyjaśnia pewne zasady jego funkcjonowania.
+
+Podkreśla Pani, że nauki Hildegardy łatwo spłycić, wyjmując nowoczesne motywy z kontekstu.
+– Popkultura i popularyzacja niosą ze sobą niebezpieczeństwo. Bardzo często Hildegardę przeinaczają media. Piszą o niej i jej programie zdrowia wybiórczo, a tak nie wolno. O ile ekologia wydaje się nowoczesna, to inne elementy jej nauk nie wszystkim pasują i bywają przemilczane.
+
+Dzisiejszy świat odrzuca przede wszystkim Boga jako Stwórcę, dawcę praw i obiektywnej prawdy o człowieku. Uważa, że Bóg jest tylko wytworem kultury, procesu dziejowego, a więc myśli ludzkiej – każde inne założenie ograniczałoby wolność jednostki w autokreacji. Na topie jest wąsko pojmowane bycie sobą, swobodna ekspresja. Konstrukcja kultury i świadomości tak, aby w żaden sposób nie stanowiły systemu opresji – a może być nią nawet prawda obiektywna o naszych ludzkich, naturalnych ograniczeniach…
+– Jeżeli człowiek będzie walczył z prawdą o sobie – dziele Boga Stwórcy – która jest tak fundamentalna, to donikąd go to nie doprowadzi. Człowiek jest stworzeniem, ale – co bardzo podkreśla Hildegarda – nie zwyczajnym, lecz jego koroną! Nawet aniołowie, byty niebiańskie, które mają pełne poznanie Boga, zostały stworzone dla potrzeb człowieka. Źle pojęta ekologia twierdzi, że jesteśmy taką samą częścią natury jak zwierzęta, nie różnimy się od nich. Bardzo kocham zwierzęta, mam w domu koty i psy. Cieszę się nimi, roślinami w ogrodzie. Patrzę na nie z wdzięcznością, bo świat utkany przez Boga jest piękny. Tu też popadamy w logikę wahadła, bo to, że człowiek często nadużywał nad nimi władzy, nie może dziś prowadzić do tego, że antropologicznie zostanie zrównany z kotem.
+Oryginalna myśl Hildegardy wcale nie jest taka łatwa. Może nam natomiast wiele spraw uporządkować. Ona na pewno nie może być odarta z chrystocentryzmu, z perspektywy teologicznej. Bez tego zamienia się w karykaturę. Kiedy natomiast spojrzymy na medycynę Hildegardy, na cały jej program zdrowia, jest to jakby przekrój jej nauki o człowieku – jako części dzieła stworzenia, a zarazem koronie stworzenia. Święta zajmowała się mikro- i makrokosmosem. To znaczy, że dbanie o zdrowie musi uwzględniać jedność duszy i ciała. Tak samo pisze o tym papież Franciszek w encyklice Laudato si’: „My sami jesteśmy z prochu ziemi. Nasze własne ciało zbudowane jest z pierwiastków naszej planety, jej powietrze pozwala nam oddychać, a jej woda ożywia nas i odnawia”. A dalej: „W tym wszechświecie, składającym się z otwartych systemów łączących się jedne z drugimi, możemy odkryć niezliczone formy relacji i uczestnictwa. Prowadzi to nas do myślenia również o całym wszechświecie, jako otwartym na transcendencję Boga, w ramach której świat się rozwija”.
+
+W epoce globalizacji, lotów na Księżyc, powinniśmy spojrzeć na myśl Hildegardy z nowej perspektywy.
+– Każdy, kto zaczyna czytać dzieła Hildegardy, poznaje człowieka z perspektywy kosmosu, całego świata stworzonego. Dlatego nie dziwi fakt, że zostawiła po sobie ciekawe dzieła z fizyki. Była genialną filozofką, myślicielką, kompozytorką, autorką wybitnych dzieł teologicznych (wizjonerką, mistyczką), ale też przyrodoznawczych, medycznych. Pisała nawet o seksualności, o fizjologii pożądania, co pomagało jej zajmować się ginekologią. Była wszechstronna, do jej koncepcji można dojść wieloma drogami. Choć była „tylko” benedyktyńską mniszką, jej współcześni uznawali ją za wielki autorytet. A to był XII wiek. Wiele z jej nauk jest aktualnych także w XXI wieku.
+Hildegarda miała w sobie wielką pokorę. Mówiła o sobie, że jest indocta, nieuczona. Może dlatego nie zajmowała się samą oderwaną od życia teorią. Jej nauki pozwoliły stworzyć praktyczny program zdrowia, służący leczeniu – czy lepiej będzie powiedzieć: uzdrawianiu ludzi. Nie wolno go jednak wyrywać z kontekstu. Oryginalna myśl Hildegardy może się stać bardzo atrakcyjna dla współczesnego człowieka, bo porządkuje chaos poznawczy, a ma też konkretne walory praktyczne, zdrowotne.
+
+Zdrowie to harmonia, powrót do jedności duszy i ciała. Uczy tego Pani na rekolekcjach, na różnych zajęciach prowadzonych w ramach Polskiego Centrum św. Hildegardy.
+– Prowadzę m.in. rekolekcje z postem. On nie jest celem samym w sobie, ale narzędziem. Chodzi o to, żebym ja, człowiek, miała dojrzałą osobowość. Wtedy umiem budować dojrzałe relacje z innymi ludźmi i z całym stworzeniem. I oczywiście najważniejszą – relację z Panem Bogiem. To ona jest źródłem harmonii. Człowiek jest stworzony na obraz Boga, który jest Trójcą, Trzema Osobami, a więc do relacji. Trójca Święta żyje, tam jest życie i relacje. Każdy z nas człowiekiem tak naprawdę się staje. Jeśli ktoś mówi, że już wszystko wie, to znaczy, że ma jeszcze dużo do zrobienia. My nieustannie stajemy się ludźmi, dojrzewamy. Jesteśmy stale w drodze.
+Dojrzałość polega na tym, że jest się odpowiedzialnym za świat. Składa się na nią mądrość, kompetencja, świadomość siebie. Trawa nie jest po to, żeby ją podeptać. Ja muszę ją pielęgnować, podlewać. Mogę się cieszyć pięknem kwiatów, ich zapachem. Część roślin wykorzystać w celach leczniczych, gdy jestem chora. Ale zarówno rośliny, jak i zwierzęta szanuję. Nadużywanie władzy nad nimi to jest po prostu brak dojrzałości.
+
+Na czym polega słynny program zdrowia św. Hildegardy? W dużej mierze jest on oparty na naturze, lecz specyficznie rozumianej. Według niej zdrowie zależy m.in. od praktykowania cnót chrześcijańskich, co chyba nikomu nie przyszłoby obecnie do głowy. Ona wychodzi od tego, że mamy też pielęgnować swoją własną naturę, ciało i duszę w jednym.
+– Odbierając nagrodę, zadałam wszystkim pytanie: czy gdybyście Państwo wiedzieli, że istnieje plan, dzięki któremu można żyć pięknie i zdrowo, chcielibyście go poznać? Ona go napisała. Program istnieje, jest bardzo szczegółowy. Zdrowe i piękne życie jest w naszym zasięgu. Szczęśliwe i pełne pokoju. Wymaga natomiast powrotu do harmonii.
+Hildegarda precyzyjnie podaje program żywieniowy, co mam jeść i pić. Zebrałam go i opisałam w swojej książce Powrót do harmonii. Poza tym ona wyraźnie wskazuje na to, jak czerpać energię ze świata stworzonego, który podzieliła na cztery żywioły. Co mamy robić z ziemią, powietrzem, wodą i ogniem. Jak gospodarzyć światem? Uczy nas też tego, jak ważny jest ruch, daje zalecenia dotyczące pracy, odpoczynku. Każdy musi szukać swojej miary, własnej harmonii, zwłaszcza w świecie zabiegania i pośpiechu. Brak troski o swoją naturę prowadzi do wielu chorób. Nasze siły wewnętrzne muszą się równoważyć, aby ciało właściwie funkcjonowało.
+
+Harmonia to chyba słowo klucz do Hildegardy.
+– Każdy musi znaleźć swój rytm, wypracować go. Wiem, jak to jest trudne. Ważne jest także to, żeby od czasu do czasu „posprzątać”, to znaczy oczyścić organizm. Post pomaga wydalić soki, które wywołują choroby. Post obejmuje i ciało, i ducha. Praktykowanie takiego stylu życia jest według mnie sztuką. No i ważne są właśnie wspomniane cnoty chrześcijańskie. Wyzwalają one uzdrawiające siły duchowe. Hildegarda pisze, że miejscem, gdzie powstają choroby, jest ludzka dusza. Wiodącą siłą życiową mają być cnoty, gdyż rozwijają, pomagają człowiekowi dojrzeć. Inaczej rządzi mną grzech, który mnie degeneruje. Cnoty prowadzą do piękna, prawdy. Dają siły i zdrowie.
+Program św. Hildegardy to więc nie tylko zdrowy styl życia, ale i zdrowie duchowe. Mistyczka łączy je z grzechem i cnotą. W książce Powrót do harmonii zestawiam pary 35 cnót i odpowiadających im wad, które wymienia w swoich dziełach. Jak już wspomniałam, Hildegarda patrzyła na człowieka całościowo, holistycznie. Mówiąc o zdrowiu, nie można ograniczać się tylko do ciała. Kluczowa jest relacja – z Bogiem, sobą samym, innymi ludźmi i stworzeniami. Taka jest ekologia chrześcijańska. Bazuje na antropologii, wiedzy o naturze człowieka jako bytu stworzonego przez Boga.
+
+---
+
+Alfreda Walkowska
+Doktor nauk teologicznych; znawczyni dorobku św. Hildegardy, dyrektor „Studium św. Hildegardy z Bingen. Akademicki Kurs Teologiczny” Papieskiego Wydziału Teologicznego we Wrocławiu, twórczyni Polskiego Centrum św. Hildegardy z siedzibą w Legnicy; redaktor naczelna kwartalnika „Hildegarda”, autorka licznych artykułów, książek; prezes pierwszego polskiego Stowarzyszenia Centrum św. Hildegardy w Polsce; związana z Benedyktyńskim Instytutem Kultury w Tyńcu, gdzie prowadzi warsztaty oraz rekolekcje z postem według św. Hildegardy; laureatka nagrody Feniks Specjalny 2023 za „wytrwałe promowanie stylu życia opartego na świadomości ekologicznej oraz upowszechnianie kultury katolickiej w Polsce i na świecie”
+```
 
 ### 2022
 

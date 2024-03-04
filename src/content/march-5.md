@@ -11,6 +11,22 @@ draft: false
 
 ### 2024
 
+Email networks like AOL and CompuServe used to be disconnected—much like blockchains are today.
+
+Similar to SMTP for email, Chainlink CCIP is a universal standard transforming isolated digital islands into globally interconnected ecosystems.
+
+---
+
+> Kightley: Dostajemy sygnały, że dla zagranicznych inwestorów Polska staje się krajem niestabilnym
+
+---
+
+one CPU to multiple CPU and interconnection between cores
+
+SocialFi / Learning Social
+
+---
+
 Mija 13 lat odkąd państwo polskie nie jest w stanie wyjaśnić kto porwał starszą panią, oblał ją benzyną i spalił w Lesie Kabackim.
 
 <img src="./img/march/brzeska.jpeg"><br><br>

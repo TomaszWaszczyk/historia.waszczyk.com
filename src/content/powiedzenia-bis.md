@@ -301,7 +301,11 @@ oszczędne gospodarowanie prawdą
 
 Swoją głupota nie można tłumaczyć swojego nieudacznictwa
 
-im wyżej tym bardziej dusza gnije
+Praca rozumna i wytrwała, która nie myśli o zbieraniu owoców w tydzień po posiewie, przebija góry, nad przepaściami przerzuca mosty. - Bolesław Prus
+
+"You cannot kill an idea whose time has come" - Victor Hugo.
+
+jak kochać, to ideał
 
 ---
 

@@ -1795,6 +1795,8 @@ i need to jump off - i need to leave the call
 
 unintended consequences
 
+https://pl.wiktionary.org/wiki/%D7%9C%D7%97%D7%99%D7%99%D7%9D
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/slownictwo.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -3,11 +3,23 @@ layout: post
 title: 6 marca
 image: img/march/tramwaj.jpg
 author: Tomasz Waszczyk
-date: 2022-03-06T10:00:00.000Z
+date: 2024-03-06T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+> jak kochać, to ideał
+
+---
+
+Victims of the October 7 Hamas attack have brought a lawsuit against Binance under the Anti-Terrorism Act of 1992 and the Justice Against Sponsors of Terrorism Act of 2016.
+
+The Complaint is an interesting and instructive read for anyone engaged in AML/CFT.
+
+<a href="./documents/march/binance.pdf" target="_blank">Binance docs</a>
 
 ### 2023
 
