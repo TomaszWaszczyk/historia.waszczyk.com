@@ -10,6 +10,33 @@ tags:
 
 ### 2024
 
+<video width="640" height="480" controls>
+<source src="./movies/march/telewizja-tvp.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/bystron-afd.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+```text
+Od sławnej wypowiedzi prezesa najwiekszego funduszu Black Rock o ESG minely trzy lata. Fink mowił wtedy, że BlackRock "koncentruje się na równości rasowej i sprawiedliwości społecznej w działaniach inwestycyjnych i zarządczych" oraz że "promuje bardziej sprawiedliwe i integracyjne środowiska pracy"co miało oznaczać "wyjście poza badanie własnej kultury". Po tym inwestorzy wycofali z funduszy ESG 13 mld dolarów. Zaczęli zwracać się w kierunku konserwatywnych form inwestowania, a wyborcy w stronę konserwatywnych polityków anty-woke.
+
+Teraz BlackRock dokonał zwrotu, szuka kontaktu z konserwstystami. Lary Fink powiedział The Wall Street Journal w październiku, że wycofał się z terminu ESG. Raz że względu na fatalny PR a dwa bo fundusz nie był w stanie wykazać, że politycznie poprawne inwestycje faktycznie przyniosły korzyści planecie a tym bardziej inwestorom.
+Fundusz dalej inwestuje w projekty klimatyczne, ale nazywa to Projekty Infrastrukturalne Wspierające Transformacje Klimatyczną. Black Rock porzucił cele społeczne, nie naciska już na zmiany w zachowaniach korporacyjnych, na poprawną politycznie strategie , dywersyfikacje rasową, płciową i gender. Wszystko co w UE jest dziś prawem i obowiązkiem firm , Ameryka w pośpiechu porzuca. Ciekawy eksperyment, szybko okaże się kto popełnił historyczny błąd.
+```
+
+IMF:
+
+https://www.imf.org/en/Publications/fandd
+
+https://www.imf.org/en/Publications/fandd/issues
+
+<img src="./img/march/yield.jpeg"><br><br>
+
+---
+
 ```
 Arbitrage Pricing Theory:
 
@@ -39,6 +66,8 @@ References:
 ```
 
 <img src="./img/march/arbitrage.jpeg"><br><br>
+
+<a href="./documents/march/arbitrage.pdf" target="_blank">Arbitrage</a>
 
 ### 2023
 

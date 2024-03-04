@@ -11,9 +11,29 @@ draft: false
 
 ### 2024
 
+<video width="640" height="480" controls>
+<source src="./movies/march/dogs-coversation.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 > Dutch government officials tried to silently remove the word ''mother'' from the civil registry and replace it with ''parent from whom the child was born''.
 
 They thought no one would notice. The madness knows no bounds.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/ilovemyjob.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/honest-talk.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/Nash-Nobel-Prize.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -92,6 +112,11 @@ Doktor nauk teologicznych; znawczyni dorobku św. Hildegardy, dyrektor „Studiu
 ```
 
 ### 2022
+
+<video width="640" height="480" controls>
+<source src="./movies/march/covid-tytanic.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Polacy stoją w kolejkach do kantoru w celu sprzedaży **twardej waluty PLN**
 
