@@ -3,11 +3,43 @@ layout: post
 title: 9 marca
 image: img/march/veto.jpg
 author: Tomasz Waszczyk
-date: 2022-03-09T10:00:00.000Z
+date: 2024-03-09T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+<img src="./img/march/Visitation.jpg"><br><br>
+
+```
+Artysta: Ted Seth Jacobs
+Tytuł: Visitation
+Technika: Olej na płótnie
+Data: 1981
+```
+
+---
+
+VC Peter Thiel on the future of Europe:
+
+"There are three plausible futures for Western Europe. Islamic Sharia Law, totalitarian AI, or hyper-environmentalism. If those are the three choices, you can understand why the green movement's winning" - Peter Thiel
+
+You can easily challenge Thiel here, but he is right 100% about Europe‘s total lack of a positive vision at the moment.
+
+The continent is systematically underestimating its own potential, and that needs to change immediately.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/thiel-europe.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/march/tancerka.jpg"><br><br>
+
+`Jerzy Hulewicz, Tancerka i grające fauny (1925, tempera na płótnie)`
 
 ### 2023
 
