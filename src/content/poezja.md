@@ -529,6 +529,51 @@ za­mknię­tych okien
 *H.Poświatowska
 ```
 
+### Cały świat śpi spokojnie
+
+Świat cały śpi spokojnie
+i wcale o tym nie wie,
+że nie jest tak na wojnie,
+jak jest w żołnierskim śpiewie.
+Że nie jest tak na wojnie,
+jak jest w żołnierskim śpiewie.
+Z piosenek — nasze życie
+wesołym śmiechem tryska,
+lecz żołnierz tęskni skrycie,
+gdy mu się przyjrzeć z bliska.
+Lecz żołnierz tęskni skrycie,
+gdy mu się przyjrzeć z bliska.
+Wojenka — cudna pani,
+tak życie nam umila,
+że krew swą mamy dla niej,
+a piosnkę dla cywila.
+Że krew swą mamy dla niej,
+a piosnkę dla cywila.
+Piosenka brzmi tak ładnie
+i wcale się nie skarży,
+gdy piechur w boju padnie,
+lub ułan zginie w szarży.
+Gdy piechur w boju padnie,
+lub ułan zginie w szarży.
+Wojenka — cudna pani,
+żołnierzy swych nie pieści,
+jak kulą go nie zrani,
+to zgubi gdzieś bez wieści.
+Jak kulą go nie zrani,
+to zgubi gdzieś bez wieści.
+I różą na koszuli
+żołnierska krew zakwitnie
+i ziemia go przytuli,
+bo zginął — jak żył — w bitwie.
+I ziemia go przytuli,
+bo zginął — jak żył — w bitwie.
+A my tej cudnej pani,
+co leje krew obficie
+jesteśmy ślubowani
+na śmierć, na całe życie.
+Jesteśmy ślubowani,
+na śmierć, na całe życie.
+
 ---
 
 ```

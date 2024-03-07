@@ -15,6 +15,14 @@ Yōkai(妖怪):
 
 [https://pl.wikipedia.org/wiki/Y%C5%8Dkai](https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA)
 
+---
+
+<img src="./img/march/chiny-wegry.avif"><br><br>
+
+> Węgiersko-chińskie porozumienie dopuszcza patrole chińskich policjantów na terenie Węgier – poinformowało węgierskie MSW w odpowiedzi na pytanie portalu Telex. Celem współpracy jest "poprawa bezpieczeństwa w miejscach turystycznych oraz podczas przyciągających duże tłumy wydarzeń".
+
+---
+
 ### 2023
 
 Ustalony na koniec marca termin przekazania wytwórczych aktywów węglowych do Narodowej Agencji Bezpieczeństwa Energetycznego (NABE) nie jest zagrożony – ocenił w czwartek prezes PGE Polskiej Grupy Energetycznej Wojciech Dąbrowski.

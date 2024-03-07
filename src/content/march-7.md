@@ -201,6 +201,14 @@ https://pl.wikipedia.org/wiki/Rudi_Dutschke
 
 ---
 
+### 1933
+
+<img src="./img/march/holodomor.jpeg"><br><br>
+
+Dowody Hołodomoru:
+
+Zaświadczenie informacyjne Winnickiego Komitetu Obwodowego KP(b)U o tym, że we wsi wieśniaczka z rejonu zoziwskiego zjadła dwa koty i dwa psy, a później 4-letnie dziecko, bo „cały chleb zabrała rada wiejska”.
+
 ### 1919
 
 W wieku niespełna 23 lat w Torczynie zmarł Leopold Lis-Kula, major Piechoty WP, pośmiertnie awansowany na stopień podpułkownika, kawaler Orderu Virtuti Militari. Był jednym z najbardziej utalentowanych polskich oficerów, ulubieńcem Józefa Piłsudskiego oraz niezwykle odważnym żołnierzem. Walczył m.in. pod Krzywopłotami, Łowczówkiem, Jastkowem, Kamionką, Kostiuchnówką i Kuklą, mimo młodego wieku szybko zdobywał zaufanie podwładnych. Powierzano mu najtrudniejsze odcinki walki m.in. na Ukrainie. Nocą z 6 na 7 marca 1919 r. przeprowadził na czele polskich żołnierzy atak na zajęte przez Ukraińców miasteczko Torczyn. Po jego zdobyciu został ciężko ranny i po kilku godzinach zmarł z upływu krwi. Jego pogrzeb stał się wielką manifestacją patriotyczną.
