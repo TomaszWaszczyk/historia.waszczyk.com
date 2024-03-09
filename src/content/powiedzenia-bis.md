@@ -307,6 +307,8 @@ Praca rozumna i wytrwała, która nie myśli o zbieraniu owoców w tydzień po p
 
 jak kochać, to ideał
 
+im bliżej szczytu tym bardziej gnije dusza
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>
