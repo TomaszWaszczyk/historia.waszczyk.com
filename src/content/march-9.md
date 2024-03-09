@@ -18,12 +18,7 @@ Your browser does not support the video tag.
 
 <img src="./img/march/Visitation.jpg"><br><br>
 
-```
-Artysta: Ted Seth Jacobs
-Tytuł: Visitation
-Technika: Olej na płótnie
-Data: 1981
-```
+`Artysta: Ted Seth Jacobs; Tytuł: Visitation; Technika: Olej na płótnie; Data: 1981`
 
 ---
 
