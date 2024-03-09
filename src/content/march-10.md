@@ -11,6 +11,39 @@ draft: false
 
 ### 2024
 
+<video width="640" height="480" controls>
+<source src="./movies/march/strajk-rolnikow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/protest-rolnikow-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/protest-rolnikow-3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/protest-rolnikow-4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/tusk-precz-z-ladem.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/march/strajk-rolnikow.jpeg"><br><br>
+
+<img src="./img/march/strajk-rolnikow-2.jpeg"><br><br>
+
+<img src="./img/march/strajk-rolnikow-3.jpeg"><br><br>
+
+---
+
 Yōkai(妖怪):
 
 [https://pl.wikipedia.org/wiki/Y%C5%8Dkai](https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA)

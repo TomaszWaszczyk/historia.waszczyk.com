@@ -11,6 +11,11 @@ draft: false
 
 ### 2024
 
+<video width="640" height="480" controls>
+<source src="./movies/others/art/art-on-laptop.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <img src="./img/march/Visitation.jpg"><br><br>
 
 ```
