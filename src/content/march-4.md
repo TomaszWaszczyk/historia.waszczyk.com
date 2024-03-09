@@ -21,6 +21,8 @@ Będę kulturalny. Proszę wypierdalać.
 
 <img src="./img/march/33-3.jpeg"><br><br>
 
+<a href="./documents/march/suum-cuique-tribuere.pdf" target="_blank">suum-cuique-tribuere</a>
+
 ```text
 - Co chcesz by ulepić świat na nowo?
 - Jak to co? To co zawsze. Ciebie, twoją duszę.

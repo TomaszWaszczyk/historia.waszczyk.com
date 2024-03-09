@@ -311,6 +311,8 @@ im bliżej szczytu tym bardziej gnije dusza
 
 Modernity: we created youth without heroism, age without #wisdom, and life without grandeur. - Nassim Nicholas Taleb
 
+<img src="./img/others/powiedzenia/afraid-of-loneliness.jpg"><br><br>
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

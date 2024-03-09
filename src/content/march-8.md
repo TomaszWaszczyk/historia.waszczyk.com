@@ -64,6 +64,11 @@ doi: https://doi.org/10.1038/d41586-024-00616-5
 
 > randka z Tindera to jak granie w zdrapkę - nie wygrasz :D
 
+<video width="640" height="480" controls>
+<source src="./movies/march/ceos.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 https://digital-strategy.ec.europa.eu/en/policies/ai-office

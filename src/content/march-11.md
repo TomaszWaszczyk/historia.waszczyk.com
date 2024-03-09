@@ -9,6 +9,43 @@ tags:
 draft: false
 ---
 
+### 2024
+
+<img src="./img/march/jawnosc-kodu.jpeg"><br><br>
+
+<img src="./img/march/tiktok-ban.png"><br><br>
+
+<img src="./img/march/medical-news.jpeg"><br><br>
+
+<img src="./img/march/aaron.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/Aaron-Bushnell.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/march/agile.jpeg"><br><br>
+
+<img src="./img/march/chiny-ue-2.png"><br><br>
+
+<img src="./img/march/chiny-ue.png"><br><br>
+
+<img src="./img/march/cocoa-price.png"><br><br>
+
+<img src="./img/march/commodity.png"><br><br>
+
+<img src="./img/march/equations.jpeg"><br><br>
+
+<img src="./img/march/jak-armatki.jpeg"><br><br>
+
+<img src="./img/march/miedwiediew-nowa-mapa.jpeg"><br><br>
+
+<img src="./img/march/sejm-podjal-ustawe.png"><br><br>
+
+<img src="./img/march/top-1percent.jpeg"><br><br>
+
+<img src="./img/march/what-people-see.jpeg"><br><br>
+
 ### 2023
 
 <img src="./img/march/20230310_194850.jpg"><br><br>
