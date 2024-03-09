@@ -2,6 +2,8 @@
 
 https://pl.wikipedia.org/wiki/Paul_Baran_(informatyk)
 
+https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+
 https://wmgaz.pl
 
 https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_%E2%80%9ESok%C3%B3%C5%82%E2%80%9D
