@@ -3,13 +3,57 @@ layout: post
 title: 11 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2022-03-11T10:00:00.000Z
+date: 2024-03-11T10:00:00.000Z
 tags:
   - Historia
 draft: false
 ---
 
 ### 2024
+
+> USA przygotowały się na rosyjski atak nuklearny. Amerykańskie media ujawniają szczegóły
+
+Pod koniec 2022 r. USA rozpoczęły przygotowania na scenariusz rosyjskiego ataku nuklearnego na Ukrainę — donosi CNN, powołując się na wysokich rangą amerykańskich urzędników.
+
+```
+Urzędnicy stwierdzili, że administracja Joego Bidena była szczególnie zaniepokojona możliwością użycia przez Rosję taktycznej lub bojowej broni nuklearnej. Był to scenariusz, który jeszcze kilka lat temu wydawał im się niczym z minionej epoki.
+
+CNN pisze o bezprecedensowym poziomie planowania awaryjnego realizowanego w miarę zwiększania się obaw. Od jesieni 2022 r. Rada Bezpieczeństwa Narodowego zwołała serię posiedzeń, by opracować plan reakcji na potencjalny atak bronią jądrową oraz jak próbować temu zapobiec lub powstrzymać.
+
+"Tym, co doprowadziło administrację Bidena do tak zaskakującej oceny, nie był jeden czynnik, ale zbiór wydarzeń, analiz i — co najważniejsze — bardzo wrażliwych nowych danych wywiadowczych" — podała stacja.
+```
+
+---
+
+<img src="./img/march/linux.jpeg"><br><br>
+
+Hardening configuration. Stack smashing is a commonly used technique to attack the Linux kernel. To mitigate this vulnerability, several configurations have been introduced below.
+
+```
+CONFIG_STACKPROTECTOR=y
+CONFIG_CC_STACKPROTECTOR_REGUALR=y
+```
+
+If you enable above configurations, the compiler performs additional task;
+
+1) Put a canary value on the stack at the beginning of the function
+2) It validates the canary value just before returning the function
+
+Applying this feature to the target, we might go through below side effect from performance point of view;
+
+1) The image size increases due to the addition of assembly routines to add and check the canary on the stack.
+
+2) Since an additional routine to push the canary to the stack is performed, performance degradation may be expected.
+
+If you want to protect system from process stack attack, you can add `CONFIG_STACKPROTECTOR`
+
+<img src="./img/march/stack.jpeg"><br><br>
+
+---
+
+<img src="./img/march/mev-boot.jpeg"><br><br>
+
+---
 
 <video width="640" height="480" controls>
 <source src="./movies/march/creativity-mood.mp4" type="video/mp4">
