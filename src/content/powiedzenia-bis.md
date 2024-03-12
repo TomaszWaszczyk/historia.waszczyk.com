@@ -309,6 +309,8 @@ jak kochać, to ideał
 
 im bliżej szczytu tym bardziej gnije dusza
 
+obojętni na myślenie i czucie
+
 Modernity: we created youth without heroism, age without #wisdom, and life without grandeur. - Nassim Nicholas Taleb
 
 <img src="./img/others/powiedzenia/afraid-of-loneliness.jpg"><br><br>

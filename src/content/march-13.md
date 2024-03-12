@@ -3,9 +3,81 @@ layout: post
 title: 13 marca
 image: img/march/corona.jpeg
 author: Tomasz Waszczyk
-date: 2022-03-13T10:00:00.000Z
+date: 2024-03-13T10:00:00.000Z
 tags:
   - Polska
+---
+
+### 2024
+
+<a href="./documents/march/PP-4-2023.pdf" target="_blank">Scenariusze polskiego miksu energetycznego 2040</a>
+
+> polityczki na front, marsz!
+
+<video width="640" height="480" controls>
+<source src="./movies/march/katarzyna-kotula.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/march/do-ostatniej-kropli.jpeg"><br><br>
+
+<img src="./img/march/totalnie-poglupieli.png"><br><br>
+
+<img src="./img/march/founder-rules.jpeg"><br><br>
+
+---
+
+<img src="./img/march/snb.png"><br><br>
+
+```
+ Die Schweizerische Nationalbank (SNB) steht vor einer kritischen Abzweigung. Während Jordan seinem Nachfolger oder seiner Nachfolgerin ein beachtliches Erbe hinterlässt, offenbart ein tiefergehender Blick auf die Bilanz der SNB eine komplexe Mischung aus Risiken und Herausforderungen, die durch die expansive Geldpolitik über die Jahre akkumuliert wurden. Seit 1997 hat sich die Bilanz der SNB um beachtliche CHF 7'300 Milliarden aufgebläht und ist nun 11 mal so gross!  Die SNB ist dadurch mit einer Reihe von beachtlichen Risiken konfrontiert:
+
+ 
+
+1. Währungsrisiko: 
+
+Der substantielle Ankauf von Fremdwährungen setzt die SNB enormen Währungsrisiken aus. Sollte der Schweizer Franken signifikant aufwerten, könnten dadurch beträchtliche Bewertungsverluste bei den Fremdwährungspositionen entstehen. Diese Dynamik ist besonders relevant in einer Welt, in der Währungsmärkte zunehmend von geopolitischen Ereignissen und internationalen Handelsbeziehungen beeinflusst werden.
+
+ 
+
+2. Kapitalverlustrisiko: 
+
+Ein wesentlicher Anteil der Aktiva der SNB ist in Staatsanleihen, Aktien und anderen Wertpapieren angelegt. Die Preise von Anleihen bewegen sich invers zu den Zinssätzen; folglich könnte ein Anstieg der Zinssätze zu einem Kapitalverlust auf diese Investitionen führen. Zudem könnte ein Rückgang der Börsen massive Kursverluste nach sich ziehen. Die jüngsten Turbulenzen an den Aktienmärkten, insbesondere in den USA, wo die Märkte bereits überhitzt erscheinen, unterstreichen diese Gefahr.
+
+ 
+
+3. Inflationsrisiko: 
+
+Die aggressive Erweiterung der Geldmenge durch die SNB birgt das Risiko, langfristig inflationäre Tendenzen zu fördern. Obwohl die Schweiz für ihre traditionell niedrigen Inflationsraten bekannt ist, stellt dies in einer Zeit zunehmender globaler Unsicherheiten und volatiler Rohstoffpreise ein nicht zu unterschätzendes Risiko dar.
+
+ 
+
+4. Politische und operative Risiken: 
+
+Die beträchtliche Grösse der Bilanz und die entsprechenden Marktinterventionen könnten politischen Druck auf die SNB ausüben, insbesondere hinsichtlich ihrer Unabhängigkeit. Darüber hinaus erhöht eine umfangreiche Bilanz die Komplexität und das Risiko der Vermögensverwaltung, was effiziente und effektive Entscheidungsfindungsprozesse erschwert.
+
+
+4. Politische und operative Risiken: 
+
+Die beträchtliche Grösse der Bilanz und die entsprechenden Marktinterventionen könnten politischen Druck auf die SNB ausüben, insbesondere hinsichtlich ihrer Unabhängigkeit. Insbesondere hat die Sperrung der russischen Zentralbankreserven auf den westlichen Banken gezeigt, dass solche Guthaben sogar im liberalen Westen unter politischem Druck stehen können. 
+
+ 
+
+5. Reputationsrisiken: 
+
+Bedeutende weitere Verluste oder eine Geldpolitik, die als unangemessen wahrgenommen wird, könnten das Vertrauen in die SNB erschüttern und ihre Glaubwürdigkeit beschädigen. Die Verluste der letzten zwei Jahre – 132,5 Milliarden CHF in 2022 und 3 Milliarden CHF in 2023 –, resultierend aus massiven Währungsverlusten, verdeutlichen dieses Risiko. Diese finanziellen Rückschläge führten zu einer negativen Ausschüttungsreserve von 39,5 Milliarden CHF für 2023, wodurch in naher Zukunft keine Ausschüttungen an Bund und Kantone zu erwarten sind.
+
+ 
+
+Angesichts dieser Situation und der Tatsache, dass die globalen Aktienmärkte nahezu ihre historischen Höchststände erreicht haben, mit speziellem Blick auf die überhitzten US-Märkte, steht die SNB vor der drängenden Aufgabe, ihre Bilanzrisiken zu minimieren. Die nächste Führungspersönlichkeit der SNB wird gefordert sein, mit Weitsicht und strategischer Klugheit zu agieren, um die Risiken zu steuern und die Stabilität der Schweizer Währung in einer zunehmend volatilen globalen Wirtschaft zu gewährleisten. Es hängt nichts geringeres als die Zukunft des Schweizer Finanzplatzes davon ab. 
+```
+
+---
+
+<img src="./img/march/anna-zalewska.jpeg"><br><br>
+
+<img src="./img/march/bezclowy-handel-z-ukraina.jpeg"><br><br>
+
 ---
 
 ### 2023

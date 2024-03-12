@@ -701,6 +701,76 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+### Janusz Korczak
+
+```
+Janusz Korczak (1878-1942) – postać nietuzinkowa. Lekarz, pedagog, wychowawca, publicysta, pisarz. Prekursor pełnego szacunku stosunku do dziecka. Nauczanie stało się całym jego powołaniem. Choć sam nie miał dzieci, stał się ojcem niezliczonej ilości cudzych dzieci. Jak mówił o sobie: “Za syna wybrałem ideę służenia dziecku i jego sprawie.” Wiedział, że nie wystarczy słuchać – trzeba przede wszystkim usłyszeć potrzeby dziecka.
+
+Twierdził, że miejsce dziecka jest w towarzystwie jego rówieśników. Dążył do tego, by dzieci wymieniały się swoimi przekonaniami i dziecięcymi poglądami, aby podlegały procesowi wzajemnej integracji i akceptacji oraz przygotowywały się do dorosłego życia. Starał się zapewnić dzieciom beztroskie – co nie znaczy pozbawione obowiązków – dzieciństwo. Każde dziecko traktował poważnie i z każdym prowadził poważne dyskusje. Zginął razem ze swoimi wychowankami w obozie w Treblince podczas II wojny światowej. Oto najlepsze cytaty “króla dzieci”:
+
+    “Dziecko chce być dobre. Jeśli nie umie – naucz, jeśli nie wie – wytłumacz, jeśli nie może – pomóż.”
+
+ 
+
+    “Czym jest dziecko […]? Czym jest ta połowa ludzkości, żyjąca razem i obok nas w tragicznym rozdwojeniu? Nakładamy na nią brzemię obowiązków jutrzejszego człowieka, nie dając żadnego z praw człowieka dzisiejszego.”
+
+ 
+
+    “Pozwól dzieciom błądzić i radośnie dążyć do poprawy.”
+
+ 
+
+    “Dziecko ma prawo być sobą. Ma prawo do popełniania błędów. Ma prawo do posiadania własnego zdania. Ma prawo do szacunku.
+    Nie ma dzieci – są ludzie.”
+
+ 
+
+    “Szu­kaj włas­nej dro­gi.
+
+    Poz­naj siebie, za­nim zechcesz dzieci poz­nać. Zdaj so­bie sprawę z te­go, do cze­go sam jes­teś zdol­ny, za­nim dzieciom poczniesz wyk­reślać zak­res praw i obo­wiązków. Ze wszys­tkich sam jes­teś dziec­kiem, które mu­sisz poz­nać, wycho­wać i wyk­ształcić prze­de wszystkim.”
+
+ 
+
+    “Nie ta­kie ważne, żeby człowiek dużo wie­dział, ale żeby dob­rze wie­dział, nie żeby umiał na pa­mięć, a żeby ro­zumiał, nie żeby go wszys­tko troszkę ob­chodziło, a żeby go coś nap­rawdę zajmowało.”
+
+ 
+
+    “Dob­ry wycho­waw­ca, który nie wtłacza a wyz­wa­la, nie ciągnie a wzno­si, nie ug­niata a kształtu­je, nie dyk­tu­je a uczy, nie żąda a za­pytu­je – przeżyje wraz z dziećmi wiele nat­chnionych chwil.”
+
+ 
+
+    “Dla jutra lekceważy się to, co dziś [dziecko] cieszy, smuci, dziwi, gniewa, zajmuje. Dla jutra, którego ani rozumie, ani ma potrzebę rozumieć, kradnie się lata życia, wiele lat.”
+
+ 
+
+    “Prośba dziecka”, czyli 20 przykazań dla rodziców:
+
+        Nie psuj mnie. Dobrze wiem, że nie powinienem mieć tego wszystkiego, czego się domagam. To tylko próba sił z mojej strony.
+        Nie bój się stanowczości. Właśnie tego potrzebuję – poczucia bezpieczeństwa.
+        Nie bagatelizuj moich złych nawyków. Tylko ty możesz pomóc mi zwalczyć zło, póki jest to jeszcze w ogóle możliwe.
+        Nie rób ze mnie większego dziecka, niż jestem. To sprawia, że przyjmuje postawę głupio dorosłą.
+        Nie zwracaj mi uwagi przy innych ludziach, jeśli nie jest to absolutnie konieczne. O wiele bardziej przejmuję się tym, co mówisz, jeśli rozmawiamy w cztery oczy.
+        Nie chroń mnie przed konsekwencjami. Czasami dobrze jest nauczyć się rzeczy bolesnych i nieprzyjemnych.
+        Nie wmawiaj mi, że błędy, które popełniam, są grzechem. To zagraża mojemu poczuciu wartości.
+        Nie przejmuj się za bardzo, gdy mówię, że cię nienawidzę. To nie ty jesteś moim wrogiem, lecz twoja miażdżąca przewaga!
+        Nie zwracaj zbytniej uwagi na moje drobne dolegliwości. Czasami wykorzystuję je, by przyciągnąć twoją uwagę.
+        Nie zrzędź. W przeciwnym razie muszę się przed tobą bronić i robię się głuchy.
+        Nie dawaj mi obietnic bez pokrycia. Czuję się przeraźliwie tłamszony, kiedy nic z tego wszystkiego nie wychodzi.
+        Nie zapominaj, że jeszcze trudno mi jest precyzyjnie wyrazić myśli. To dlatego nie zawsze się rozumiemy.
+        Nie sprawdzaj z uporem maniaka mojej uczciwości. Zbyt łatwo strach zmusza mnie do kłamstwa.
+        Nie bądź niekonsekwentny. To mnie ogłupia i wtedy tracę całą moją wiarę w ciebie.
+        Nie odtrącaj mnie, gdy dręczę cię pytaniami. Może się wkrótce okazać, że zamiast prosić cię o wyjaśnienia, poszukam ich gdzie indziej.
+        Nie wmawiaj mi, że moje lęki są głupie. One po prostu są.
+        Nie rób z siebie nieskazitelnego ideału. Prawda na twój temat byłaby w przyszłości nie do zniesienia. Nie wyobrażaj sobie, iż przepraszając mnie stracisz autorytet. Za uczciwą grę umiem podziękować miłością, o jakiej nawet ci się nie śniło.
+        Nie zapominaj, że uwielbiam wszelkiego rodzaju eksperymenty. To po prostu mój sposób na życie, więc przymknij na to oczy.
+        Nie bądź ślepy i przyznaj, że ja też rosnę. Wiem, jak trudno dotrzymać mi kroku w tym galopie, ale zrób, co możesz, żeby nam się to udało.
+        Nie bój się miłości. Nigdy.
+
+I najważniejsze na koniec:
+
+    „Kiedy śmieje się dziecko, śmieje się cały świat”
+```
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

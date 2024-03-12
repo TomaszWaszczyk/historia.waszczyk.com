@@ -3,7 +3,7 @@ layout: post
 title: 12 marca
 image: img/march/pokoj.jpg
 author: Tomasz Waszczyk
-date: 2022-03-12T10:00:00.000Z
+date: 2024-03-12T10:00:00.000Z
 tags:
   - ZSRR
 draft: false
@@ -11,7 +11,22 @@ draft: false
 
 ### 2024
 
+> obojętni na myślenie i czucie
+
 <a href="./documents/march/Ancient Book of Jasher.1st_ed.pdf" target="_blank">Ancient Book of Jasher</a>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/niemcy-2024.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/march/arbuzy.jpeg"><br><br>
+
+<img src="./img/march/pszerzelarze-cenzura.png"><br><br>
+
+---
 
 ### 2023
 
@@ -49,6 +64,13 @@ Your browser does not support the video tag.
 </video>
 
 ---
+
+### 2011
+
+<video width="640" height="480" controls>
+<source src="./movies/march/WizytaEmiraPanstwaKataru.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 1980
 
