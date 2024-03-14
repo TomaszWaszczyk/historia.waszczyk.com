@@ -3,11 +3,48 @@ layout: post
 title: 14 marca
 image: img/march/trump.jpeg
 author: Tomasz Waszczyk
-date: 2022-03-14T10:00:00.000Z
+date: 2024-03-14T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+<img src="./img/march/wielki-skok.jpeg"><br><br>
+
+```
+Zauważyliście może podobieństwo chińskiego „Wielkiego skoku” i europejskiego „zielonego ładu”?
+
+Porównanie wygląda mniej więcej tak:
+
+Chiny / UE
+Reforma gospodarcza i rolna / Reforma gospodarcza i rolna.
+
+Rozprawienie się z nieprzychylnymi członkami partii (w celu pozbycia się głosów sprzeciwu) / Konsensus naukowy (w celu pozbycia się głosów sprzeciwu).
+
+Industrializacja kraju / elektryfikacja krajów.
+
+Ograniczenie nadmiernej konsumpcji poprzez manipulowanie przy cenach zboża / Ograniczenie nadmiernej konsumpcji poprzez manipulowanie przy cenach energii.
+
+Ograniczenie podróży pomiędzy regionami (poprzez pozwolenia) / Ograniczenie podróży (poprzez wysokie podatki na transport).
+
+Zmniejszenie efektywności rolnictwa poprzez gęstszy zasiew / Zmniejszenie efektywności rolnictwa poprzez ugorowanie gruntów.
+
+Likwidacja prywatnych działek rolnych (poprzez budowę komun) / Likwidacja prywatnych działek rolnych (poprzez wykup przez wielkie koncerny).
+
+Burzenie prywatnych domów w celu budowy komun / Burzenie prywatnych domów przez klasę energetyczną.
+
+Jedzenie kory drzew i trawy / Jedzenie robaków.
+
+Ataki na pociągi z jedzeniem / Ataki na pociągi z jedzeniem.
+
+Likwidacja wróbli / Likwidacja CO2.
+
+Dokładanie przepisów zamiast rozwiązywania problemów / Dokładanie przepisów zamiast rozwiązywania problemów.
+
+Ofiary Wielkiego Skoku: 40 mln
+```
 
 ### 2023
 

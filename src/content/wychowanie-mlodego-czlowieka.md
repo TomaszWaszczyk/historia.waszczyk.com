@@ -771,6 +771,28 @@ I najważniejsze na koniec:
     „Kiedy śmieje się dziecko, śmieje się cały świat”
 ```
 
+### Raising Boys to Become Men
+
+```
+I recently tuned in to a podcast featuring two moms discussing their experiences raising boys to become men. One mom had 6 boys and the other had 5 boys, so they definitely knew a thing or two about the topic. It's obvious that boys are biologically different from girls, so how we raise them should be different too. Unfortunately, many people today seem to confused and think both genders should be raised and act the same.
+
+Personally, the conversation proved to be quite useful for me. Watching my son grow from a baby into a young boy over the past 20 months has been an incredible experience. My day-to-day routine has shifted from coddling, carrying, and feeding a baby to actively thinking about how to help this tiny human being become a man of this world.
+
+These days, my son spends most of his time playing outside, simply LOVING every moment of it. Even though our yard is only half an acre, he manages to entertain himself for hours with sticks, pine cones, dirt, bushes, trees, plants, balls, cracks in the sidewalks, leaves...you name it! He explores, inspects, and figures out everything he comes across. When children are allowed to be unhindered in nature, they become natural explorers and learners. Listening to the moms on the podcast reassured me that Shiva was doing exactly what he was meant to do.
+
+The podcast taught me that boys and girls learn very differently. Boys need to be physically engaged with the world and spend time outside to learn best. However, modern schools and institutions are highly feminized and cater more towards women's nature than men's. As a result, boys sometimes receive the message that being a man is a negative thing.
+
+For example, sitting in a classroom for 8 hours a day goes against their biology. It flies in the face of how God designed them. When a boy doesn't want to sit in school and follow the rules, we label him as "bad". But in reality, boys are wired to push boundaries and defy authority. Girls, on the other hand, tend to be more compliant and follow the rules. Boys learn best through trial and error, taking risks and testing their limits.
+
+I see this vividly in the way Shiva learns every day. He constantly tests his limits. Just yesterday, he grabbed the ball fetcher stick and tried to hit me with it. I made it very clear that hitting people with the stick is not okay. I had to correct his behavior a few times, but eventually, he got the idea. Another example is when he kept jumping on the edge of the bed despite my warnings. So, I decided to ignore him and let him learn the lesson the hard way. He fell into the bed frame, got hurt, cried, and never did it again. This is how boys learn best. They need to push their boundaries to figure out what is okay and what is not.
+
+Therefore, it's unrealistic to expect a boy to learn by asking him to sit quietly in a classroom for 8 hours instead of letting him explore the world around him. It's important to let boys be boys and allow them to self-teach. Give them the space to be outside and explore, to test the laws of physics and do "dangerous" things. Let the consequences of their actions teach them the truth. Of course, if they are truly in danger, we don't want that. But being a parent who doesn't let their child take risks and figure out the truths of the universe only stunts their growth.
+
+It's also worth noting that boys typically develop certain skills about 2 years later than girls. For example, it can be concerning when a boy isn't reading by age 6, but this doesn't mean he's less intelligent or capable. It simply means that his interest in learning that particular skill hasn't yet emerged. Boys learn at their own pace and in their own time. When allowed to explore and play freely, boys are constantly learning. It's just a matter of waiting until their desire to read (or learn any other skill) kicks in, at which point you'd be surprised how quickly they can can pick it up.
+
+I'm curious to hear about your experiences raising a boy versus a girl. What differences did you notice? What similarities did you find? Did you agree or disagree with anything mentioned above? Please share your thoughts, I'd love to hear them!
+```
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/wychowanie-mlodego-czlowieka.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

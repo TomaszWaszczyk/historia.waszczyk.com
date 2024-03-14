@@ -3,10 +3,64 @@ layout: post
 title: 15 marca
 image: img/march/parkiet.jpg
 author: Tomasz Waszczyk
-date: 2022-03-15T10:00:00.000Z
+date: 2024-03-15T10:00:00.000Z
 tags:
   - Blockchain
 draft: false
+---
+
+### 2024
+
+<img src="./img/march/gronowice.jpeg"><br><br>
+
+𝗪𝗜𝗘𝗦́ 𝗚𝗥𝗢𝗡𝗢𝗪𝗜𝗖𝗘
+
+Zdjęcia Gronowic z lotu ptaka robią w ostatnim czasie potężną furorę na całym świecie. Ten charakterystyczny ale i jakże efektowny typ zabudowy to tzw. 𝗼𝗸𝗼𝗹𝗻𝗶𝗰𝗮, zwana też niekiedy okólnicą. To rodzaj wsi, w której zagrody są ustawione zwarcie w krąg lub podkowę wokół środkowego placu (nawsia, majdanu).
+
+Okolnice były zakładane najczęściej na wykarczowanych polanach leśnych. Do wsi prowadziła jedna, czasami dwie, drogi. Pierwotnie majdan był zamykany i służył do gromadzenia spędzanych na noc zwierząt gospodarskich, zapewniając im ochronę przed drapieżnikami. Ustawione ciasno w kręgu zabudowania ułatwiały także mieszkańcom obronę przed atakującymi nieprzyjaciółmi.
+
+W okresie późniejszym na majdanie budowany był kościół lub zakładany staw. Typowy dla okolnicy jest niwowy lub blokowy układ pól. Ze względu na rodzinny charakter tych wczesnośredniowiecznych wsi nie trzeba było wprowadzać podziału ziemi.
+
+Do obecnych czasów zachowało się w Polsce niewiele wsi z czytelną formą okolnicy. Przykładowymi są: Czerwona- przysiółek wsi Gronowice, Chorzewo koło Pniew, a także wieś Łąkie koło Świebodzina oraz Jamno i Łabusz w granicach Koszalina.
+
+Fot. Tomasz Matusiak
+
+---
+
+```
+Ruch charyzmatyczny w Kościele. To dobrze czy źle?
+
+Nie ulega wątpliwości, że ruch charyzmatyczny z całym swoim zapałem ewangelizacyjnym stał się pewnym wyzwaniem dla Kościoła katolickiego i dalej nim jest. Zastanawiają tłumy gromadzące się na wielogodzinnych nabożeństwach prowadzonych przez liderów charyzmatycznych, podczas których ludzie masowo mdleją, powaleni mocą Ducha Świętego, zaczynają przemawiać w niezrozumiałych dla siebie językach, doznają niepowtarzalnych wzruszeń i nierzadko są świadkami cudownych uzdrowień. Słuch o podobnych rzeczach przywołuje świeżość i żywotność Kościoła pierwszych wieków chrześcijaństwa stając się kolejnym dowodem za jego prawdziwością. Być może ciekawość z tym związana daje dodatkowy powód, dla którego tak wielu ludzi gromadzi się na tych nabożeństwach, chcąc zapewne na samych sobie doznać owoców działania Ducha Świętego. Czy to źle? Ktoś zapyta. Co jest w tym złego? Kościół katolicki zachowuje wobec tego ruchu uzasadnioną ostrożność. Wynika ona z protestanckiej genezy całego ruchu oraz możliwych niebezpieczeństw, które on za sobą pociąga.
+
+Geneza ruchu charyzmatycznego
+
+Sami zwolennicy ruchu powołują się na jego biblijne pochodzenie i jest w tym trochę prawdy, jako że pierwotny Kościół przejawiał przede wszystkim strukturę charyzmatyczną; hierarchiczna, bowiem była dopiero w etapie tworzenia się. Podstawą struktury charyzmatycznej były charyzmaty, specjalne dary Ducha Świętego dane przez Boga poszczególnym osobom dla budowania jedności i świętości Kościoła. Naucza o nich św. Paweł w swoich listach (szczególnie 1 Kor). Pierwsze wylanie tych charyzmatów nastąpiło w pięćdziesiątym dniu po zmartwychwstaniu Chrystusa, nazywany dniem Pięćdziesiątnicy, tj. Zesłania Ducha Świętego, w Zielone Świątki, stąd czasem grupy charyzmatyczne nazywa się zielonoświątkowymi lub pentekostalnymi (pentekost, z greck. Pięćdziesiątnica). W dniu tym, pod wpływem wylania Ducha Świętego, apostołowie zaczęli mówić obcymi sobie językami (tzw. glosolalia), którym towarzyszyły cudowne znaki i uzdrowienia, jakich dokonywał Pan Bóg przez ich pośrednictwo (Dz 2,1). Struktura charyzmatyczna z czasem (do II w. po Chr.) ustąpiła miejsca hierarchicznej, słusznie będąc poddana odpowiedniej kontroli hierarchii Kościoła odpowiedzialnej za głoszenie prawdy o zbawieniu.
+
+Jednakże początek współczesnego ruchu charyzmatycznego należy upatrywać w protestanckim odłamie zreformowanego Kościoła anglikańskiego, działającego na ziemi amerykańskiej (tzw. Kościół episkopalny), w Kościele metodystycznym. Jego niezależny pastor, Charles Parham, założył szkołę biblijną w Kansas (1900) dla swoich 30 studentów. Po roku studiów punktem centralnym stał się temat chrztu w Duchu Świętym, poruszonym w Dziejach Apostolskich, którego znakiem miał być w jego mniemaniu charyzmat glosolalii. Naukę tę miało poświadczyć nabożeństwo wylania Ducha Świętego (1. stycznia 1901) i mówienie językami, w wyniku nałożenia rąk pastora na jedną ze studentek (Agnes Ozman). Niedługo później sam pastor miał przyjąć podobny chrzest w Duchu Świętym. Idee te zaraz potem przejął czarnoskóry duchowny z Los Angeles, William Seymour (1906). To dało początek nowym kościołom oraz grupom zielonoświątkowym.
+
+Trzy fale pentekostalne
+
+Historia ruchu charyzmatycznego dzieli się na trzy etapy, zwane falami, z racji ich dalekosiężnego oddziaływania i niepowstrzymanego rozprzestrzeniania się.
+
+1) Pierwsza fala objęła nowopowstałe kościoły zielonoświątkowe, które odłączyły się od swego protestanckiego pnia na początku ubiegłego stulecia. Wspólnym elementem ich doktryny było przekonanie, że mówienie językami jest znakiem koniecznym do przeżycia chrztu w Duchu Świętym.
+
+2) Druga fala zaczęła przenikać do tradycyjnych Kościołów protestanckich w latach 50-tych, a później 60 i 70-tych, w tym również do Kościoła katolickiego w postaci tzw. Ruchu Odnowy w Duchu Świętym, pod wpływem ożywienia wynikającego z Soboru Watykańskiego II. Kościoły te kładły nacisk na wszystkie dary duchowe, nie tylko glosolalia, a szczególnie na ich dawcę Ducha Świętego działającego w Kościele.
+
+3) Trzecia fala podkreślała bardziej cudownościowy, przypadłościowy charakter charyzmatów ucieleśniony w działalności pastora z Toronto, Johna Wimbera, na początku lat 80-tych. Działania Ducha Świętego upatrywano w objawianiu się mocy powalającej ludzi masowo na podłogę, przyprawiającej ich o konwulsje, zbiorowe histeryczne śmiechy, a nawet wydobywającej z ludzkich gardeł odgłosy przypominające zwierzęce ryki.
+
+Ruch Odnowy w Duchu Świętym
+
+Jak wyżej zaznaczono, ruch charyzmatyczny przeniknął do Kościoła katolickiego wraz z odnową Soboru Watykańskiego II (1962-1965) oraz podjętym przez niego dialogiem ekumenicznym, przyjmując nazwę Odnowy w Duchu Świętym. Pierwsze doświadczenie wylania Ducha Świętego doznała katolicka grupa studentów na Uniwersytecie w Pittsburgu, 6 stycznia 1967 r., która uczestniczyła na modlitwie w Kościele episkopalnym. Po tych wydarzeniach, studenci ci nie tylko nie chcieli odejść od Kościoła katolickiego, ale zaczęli działać w nim z większym zapałem. Charyzmaty pobudziły ich do większej miłości i zapału apostolskiego, na nowo pozwoliły im przeżywać Eucharystię, różaniec oraz całą doktrynę katolicką przyczyniając się do pogłębienia więzi z samą instytucją Kościoła. Wkrótce ruch, mimo pewnych zastrzeżeń, zyskał aprobatę Konferencji Episkopatu Amerykańskiego (1969) oraz samego papieża Pawła VI (1973), widzącego w nim ożywcze działanie Ducha Świętego w Kościele. Ten ostatni nazwał go „szansą dla Kościoła i świata” podczas III Międzynarodowego Kongresu Katolickiej Odnowy Charyzmatycznej w 1975 r. Po swym przemówieniu wtedy papież zlecił kard. Leonowi J. Suenens’owi gruntowne zbadanie ruchu pod kątem jego pełnej integracji z Kościołem katolickim. Od tamtej pory do dziś ruch charyzmatyczny w wydaniu katolickim (Odnowa w Duchu Świętym) odgrywa swoje miejsce w zbawczej misji Kościoła, nie będąc jednak wolny od licznych niebezpieczeństw.
+
+Niebezpieczeństwa i nadzieje
+
+Przypatrując się trzeciej, aktualnie przeżywanej fali ruchu charyzmatycznego z jego akcentem głównie na zjawiskowo-przeżyciowej formie, którą przyjęło się dziś nazywać „chrześcijaństwem doświadczalnym”, Kościół katolicki słusznie zachowuje nieskrywaną ostrożność. Tym bardziej, że formy te przybrały już wcześniej niebezpieczne skrajne manifestacje w postaci powstania teologicznych ekstrawagancji, nowych kościołów zielonoświątkowych czy nawet chrześcijaństwa bezwyznaniowego.
+
+Budzi zastrzeżenia wspomniany powierzchowny emocjonalizm ludzi biorących udział w tego rodzaju nabożeństwach wyrażony czasem w zwierzęcym wyciu, konwulsjach, histerii, kojarzonymi raczej z animistycznymi religiami pogańskimi. Do tego dochodzą niepotwierdzone opowieści poszczególnych kaznodziejów o cudach, uzdrowieniach i zmartwychwstaniach, których mieli oni dokonywać. Wydarzenia te w zderzeniu z trudnościami, zniechęceniem i troskami życia uczestników nabożeństw, każą postrzegać ich własne życie jako jałowe, monotonne i pozbawione mocy Bożej. Tu tkwi też przyczyna i niebezpieczeństwo uganiania się bardziej za sensacyjnymi cudownościami i uzdrowieniami, których chce się doznać na sobie, niż szukania pogłębienia wiary i odkrywania cudu Eucharystii. Wielu krytyków przestrzega również przez tzw. syndromem wesołego chrześcijanina. Wezwanie biblijne do nieustannego radowania się w Panu jest tu czasem mylone ze zwykłym podwyższaniem nastroju, objawiającym się w zachowywaniu się jak wariat: ciągle uśmiechnięty, szalony, nigdy smutny ni zniechęcony. Inni uczestnicy na tym tle mogą jawić się jako mało uduchowieni i niezadowoleni.
+
+Mimo jednak tych i podobnych niebezpieczeństw należy zauważyć, że ruch ten polega na poważnym potraktowaniu świadomego korzystania z charyzmatów w celu budowania Kościoła. Widać w nim bogactwo różnorodności otwierające na inność, spontaniczność oraz ożywcze działanie Ducha Świętego w życiu indywidualnym i wspólnotowym. Dzięki niemu wielu powróciło i powraca na łono Kościoła, pogłębia swoją wiarę i życie sakramentalne, odkrywa skarb liturgii i Pisma Świętego, poszerza wiedzę religijną, bardziej angażując się w życie i wieloraką działalność Kościoła. Można tylko mieć nadzieję, że wielu ludzi, którym przyjdzie zetknąć się z nim, odnowi swoją wiarę i miłość, dając odwagę i poczucie dumy z przynależności do Kościoła Chrystusowego.
+```
+
 ---
 
 ### 2023
