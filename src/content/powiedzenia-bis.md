@@ -317,6 +317,8 @@ Modernity: we created youth without heroism, age without #wisdom, and life witho
 
 <img src="./img/others/powiedzenia/beauty.jpeg"><br><br>
 
+zasadą numerem jeden jest zrozumienie problemu
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

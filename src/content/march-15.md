@@ -27,6 +27,13 @@ Fot. Tomasz Matusiak
 
 ---
 
+<video width="640" height="480" controls>
+<source src="./movies/march/slavery-history.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ```
 Ruch charyzmatyczny w Kościele. To dobrze czy źle?
 
