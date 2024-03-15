@@ -721,6 +721,26 @@ elewancje narpiew se dorobie
 puźniej farbe tom zeskrobie
 ```
 
+### Witamy w XXI wieku
+
+<img src="./img/others/poezja/xxi-wiek.jpeg"><br><br>
+
+```
+Tutaj seks jest darmowy, a miłość kosztuje.
+Tutaj, gdzie utrata telefonu jest gorsza niż utrata wartości.
+Gdzie ćpanie jest modne, a jeśli nie, to jesteś przestarzały.
+Gdzie mężczyźni zdradzają swoje kobiety, a kobiety jeśli nie zdradzają, to dlatego, że boją się, że zostaną same.
+Gdzie łazienka stała się studiem do zdjęć.
+XXI wiek, gdzie kobiety boją się ciąży bardziej niż HIV.
+Gdzie dostawa pizzy przyjeżdża szybciej niż przyjeżdża karetka.
+Gdzie ubrania decydują o wartości człowieka, a posiadanie pieniędzy jest ważniejsze niż posiadanie przyjaciół czy nawet rodziny.
+XXI gdzie mężczyźni chcą tylko związków bez zobowiązań.
+Gdzie miłość jest sztuką.
+XXI wiek, tutaj przetrwasz tylko wtedy, gdy bawisz się rozumem, a jesteś zniszczony, jeśli działasz sercem...
+```
+
+---
+
 pięść o spusztoszeniu podola problematyka
 
 ---

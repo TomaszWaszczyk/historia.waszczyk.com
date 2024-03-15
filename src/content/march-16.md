@@ -3,11 +3,17 @@ layout: post
 title: 16 marca
 image: img/march/bierut.jpg
 author: Tomasz Waszczyk
-date: 2022-03-16T10:00:00.000Z
+date: 2024-03-16T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+Kopalnie węgla brunatnego w Trójstyku: 6 w Niemczech, 5 w Czechach i 1 w Polsce. I proszę - tylko jedna nasza jest szkodliwa. Bardzo szkodliwa. Ale to nic - energię kupimy z nieszkodliwego węgla brunatnego z Niemiec i Czech no i mamy niższy VAT dla branży
+
+<img src="./img/march/kopanie-niemcy.jpeg"><br><br>
 
 ### 2023
 
