@@ -353,6 +353,10 @@ Your browser does not support the video tag.
 
 https://en.wikipedia.org/wiki/Therac-25
 
+### Auto
+
+W podstawowej wersji modelu Altea będzie to 2,4 – 2,6 bar dla kół osi przedniej i 2,2 – 2,8 bar z tyłu.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/others.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

@@ -321,6 +321,8 @@ zasadą numerem jeden jest zrozumienie problemu
 
 przepiękna i miła pięścią by zabiła
 
+trzeba robić rzeczy
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

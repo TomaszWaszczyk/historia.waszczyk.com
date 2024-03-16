@@ -18,6 +18,8 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+<img src="./img/march/you-doing-it-wrong.jpg"><br><br>
+
 ### 2023
 
 Fragmenty artykułów załączonych poniżej:

@@ -8,6 +8,20 @@ tags:
   - Polska
 ---
 
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/march/praca-1700-korpo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/WASP-SLAVES-OF-THE-NEW-WORLD-ORDER.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ### 2023
 
 <img src="./img/march/credit_cds.jpeg"><br><br>

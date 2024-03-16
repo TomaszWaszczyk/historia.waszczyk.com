@@ -68,6 +68,8 @@ Henryk Weyssenhoff - Tajemnicza pieśń (olej na płótnie, 53 x 87,5 cm), 19
 
 <img src="./img/art/0_2.png"><br><br>
 
+<img src="./img/art/storm-art-cloud-ship-sea.jpg"><br><br>
+
 ---
 
 <img src="./img/art/Pollo_Frito.webp"><br><br>

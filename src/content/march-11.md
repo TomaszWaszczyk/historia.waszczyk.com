@@ -23,6 +23,14 @@ CNN pisze o bezprecedensowym poziomie planowania awaryjnego realizowanego w miar
 "Tym, co doprowadziło administrację Bidena do tak zaskakującej oceny, nie był jeden czynnik, ale zbiór wydarzeń, analiz i — co najważniejsze — bardzo wrażliwych nowych danych wywiadowczych" — podała stacja.
 ```
 
+<img src="./img/march/siewiera.png"><br><br>
+
+<img src="./img/march/narada-przed-wojna.jpeg"><br><br>
+
+<img src="./img/march/narada-przed-wojna-1.jpeg"><br><br>
+
+<img src="./img/march/narada-przed-wojna-2.jpeg"><br><br>
+
 ---
 
 <img src="./img/march/linux.jpeg"><br><br>
@@ -135,9 +143,19 @@ Na podstawie pozycji Soviet Lend-Lease Tanks of World War II.
 
 <img src="./img/march/lendlease2.jpg"><br><br>
 
-### 1941
+---
 
 https://pl.wikipedia.org/wiki/Lend-Lease_Act
+
+---
+
+### 1924
+
+<img src="./img/march/matura-1924.png"><br><br>
+
+### 1911
+
+<img src="./img/march/matura-1911.jpeg"><br><br>
 
 ### 1609
 
