@@ -323,6 +323,8 @@ przepiękna i miła pięścią by zabiła
 
 trzeba robić rzeczy
 
+„Jeśli teoria nie zgadza się z faktami, tym gorzej dla faktów.”
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

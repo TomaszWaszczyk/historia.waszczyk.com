@@ -3,11 +3,28 @@ layout: post
 title: 19 marca
 image: img/march/sejm.jpg
 author: Tomasz Waszczyk
-date: 2022-03-19T10:00:00.000Z
+date: 2024-03-19T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+“Networking is overrated… Go do something great and your network will instantly emerge.” Naval Ravikant
+
+In the clip below, Naval gives the following advice to startup founders:
+
+“Don’t spend your time doing meetings unless you really, really have to. I really think networking is overrated. There’s all these articles about how you’ve got to network more, and it makes me want to vomit.”
+
+Instead he suggests:
+
+“Go do something great and your network will instantly emerge. If you build a great product or if you get a good customer base, I guarantee you will get funded.”
+
+<video width="640" height="480" controls>
+<source src="./movies/march/networking.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### 2023
 
