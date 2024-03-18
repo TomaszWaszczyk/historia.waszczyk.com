@@ -3,12 +3,22 @@ layout: post
 title: 18 marca
 image: img/march/nbp.jpg
 author: Tomasz Waszczyk
-date: 2022-03-18T10:00:00.000Z
+date: 2024-03-18T10:00:00.000Z
 tags:
   - Polska
 ---
 
 ### 2024
+
+<img src="./img/march/franciszek-rosja.jpeg"><br><br>
+
+Watykan/Federacja Rosyjska:
+
+Papież Franciszek stał się pierwszym światowym przywódcą, który pogratulował Władimirowi Putinowi zwycięstwa w wyborach.
+
+<img src="./img/march/jp2.png"><br><br>
+
+---
 
 <video width="640" height="480" controls>
 <source src="./movies/march/praca-1700-korpo.mp4" type="video/mp4">
@@ -19,6 +29,16 @@ Your browser does not support the video tag.
 <source src="./movies/march/WASP-SLAVES-OF-THE-NEW-WORLD-ORDER.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+---
+
+<img src="./img/march/protest-unia.jpeg"><br><br>
+
+<img src="./img/march/stalin-farmers.jpeg"><br><br>
+
+---
+
+<img src="./img/march/olaf.jpeg"><br><br>
 
 ---
 

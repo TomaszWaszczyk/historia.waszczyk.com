@@ -72,6 +72,12 @@ Przed pałacem królewskim w Amsterdamie zgromadził się tłum oczekujący nade
 
 <img src="./img/may/amsterdam.jpg"><br><br>
 
+---
+
+<img src="./img/may/jakub_berman.png"><br><br>
+
+---
+
 ### 1943
 
 W ruinach getta przy ulicy Dzielnej 27 w Warszawie rozstrzelany został przez Niemców Jan Wilhelm Hörl (zdjęcie) podporucznik broni pancernych, Cichociemny, członek Okręgu Lublin Armii Krajowej.

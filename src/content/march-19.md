@@ -11,7 +11,7 @@ draft: false
 
 ### 2024
 
-“Networking is overrated… Go do something great and your network will instantly emerge.” Naval Ravikant
+> “Networking is overrated… Go do something great and your network will instantly emerge.” Naval Ravikant
 
 In the clip below, Naval gives the following advice to startup founders:
 
@@ -25,6 +25,8 @@ Instead he suggests:
 <source src="./movies/march/networking.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<img src="./img/march/man-settles.jpeg"><br><br>
 
 ### 2023
 
