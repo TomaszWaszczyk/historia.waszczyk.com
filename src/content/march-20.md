@@ -3,10 +3,23 @@ layout: post
 title: 20 marca
 image: img/march/plebiscyt.jpg
 author: Tomasz Waszczyk
-date: 2022-03-20T10:00:00.000Z
+date: 2024-03-20T10:00:00.000Z
 tags:
   - Plebiscyt
 draft: false
+---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/march/turbo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/march/democrat.jpeg"><br><br>
+
 ---
 
 ### 2023
