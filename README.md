@@ -6,6 +6,8 @@ https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_
 
 https://wmgaz.pl
 
+https://henryabramson.com/
+
 https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_%E2%80%9ESok%C3%B3%C5%82%E2%80%9D
 
 https://www.historyonthenet.com/authentichistory/1930-1939/2-fdr/2-reception/technocrats/

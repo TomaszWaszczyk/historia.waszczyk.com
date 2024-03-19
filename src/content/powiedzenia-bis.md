@@ -325,6 +325,12 @@ trzeba robić rzeczy
 
 „Jeśli teoria nie zgadza się z faktami, tym gorzej dla faktów.”
 
+stary jak sandały Mojżesza
+
+<img src="./img/march/man-settles.jpeg"><br><br>
+
+„Istnieje prawda i istnieje fałsz, lecz dopóki ktoś upiera się przy prawdzie, nawet wbrew całemu światu, pozostaje normalny”. - George Orwell, „1984”
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

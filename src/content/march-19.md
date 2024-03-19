@@ -18,6 +18,8 @@ draft: false
 Your browser does not support the video tag.
 </video>
 
+<a href="./documents/march/streicher-julius.PDF" target="_blank">Julius Streicher</a>
+
 ---
 
 > “Networking is overrated… Go do something great and your network will instantly emerge.” Naval Ravikant
