@@ -11,6 +11,15 @@ draft: false
 
 ### 2024
 
+> "Purim 1946"
+
+<video width="640" height="480" controls>
+<source src="./movies/march/purimfest-1946.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
 > “Networking is overrated… Go do something great and your network will instantly emerge.” Naval Ravikant
 
 In the clip below, Naval gives the following advice to startup founders:
