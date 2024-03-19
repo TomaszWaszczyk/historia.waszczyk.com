@@ -162,6 +162,10 @@ W Norymberdze stracono dziesięciu z jedenastu nazistowskich zbrodniarzy wojenny
 
 <img src="./img/august/rudolfhess3.jpg"><br><br>
 
+> "Purim 1946" - ostatnie słowa Julius Streicher
+
+<img src="./img/october/julius-streicher.jpg"><br><br>
+
 ### 1892
 
 W Modlnicy w województwie małopolskim urodził się Jan Karcz (zdjęcie) pułkownik dyplomowany Kawalerii Wojska Polskiego, absolwent Politechniki Lwowskiej i Szkoły Oficerskiej Saperów, uczestnik obrony Lwowa w roku 1918. Za męstwo na polu walki został odznaczony Srebrnym Krzyżem Orderu Wojennego Virtuti Militari oraz 4-krotnie Krzyżem Walecznych.
