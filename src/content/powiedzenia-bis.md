@@ -331,6 +331,8 @@ stary jak sandały Mojżesza
 
 „Istnieje prawda i istnieje fałsz, lecz dopóki ktoś upiera się przy prawdzie, nawet wbrew całemu światu, pozostaje normalny”. - George Orwell, „1984”
 
+masz mój miecz
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

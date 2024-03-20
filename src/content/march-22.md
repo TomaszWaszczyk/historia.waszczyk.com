@@ -3,11 +3,36 @@ layout: post
 title: 22 marca
 image: img/march/pandemia.jpg
 author: Tomasz Waszczyk
-date: 2022-03-22T10:00:00.000Z
+date: 2024-03-22T10:00:00.000Z
 tags:
   - Polska
 draft: false
 ---
+
+### 2024
+
+> żyd, nie żyd, byle wypłacalny był
+
+---
+
+<img src="./img/march/pope-francis.jpeg"><br><br>
+
+Pope Francis denounces 'anti-vaxxers,' calls COVID jab refusal an 'almost suicidal act of denial' -
+"The pontiff rebuked those who did not receive an injection, or who voiced opposition to them publicly, saying:
+Deciding whether to get vaccinated is always an ethical choice, but I know that many people signed up to movements opposed to the administration of the medication. This distressed me because in my view, being against the antidote is an almost suicidal act of denial.
+
+Francis also made a thinly-veiled condemnation of Cardinal Raymond Burke, who voiced strong opposition to the injections and who was also hospitalized with COVID-19 and serious health issues. 
+“There were even a few anti-vaxxers among the bishops: some came close to death,” stated Francis, echoing a veiled dig he made at the American cardinal in 2021.
+Referring to the COVID-related lockdowns as a “grim scenario,” Francis stated that “[t]his grim scenario began to change with the arrival of the first vaccines,” failing to mention the multitude of side effects linked to the rollout of the experimental jabs, including upticks in heart, brain and blood diseases, among others issues.
+The pontiff, who has remained an outspoken promoter of the injections from the start, opined that “a generalized fear was created when superficial explanations of how the vaccines worked spoke of injections of the virus into the body. There were also claims there was nothing but water in the vials; some people even stated publicly that microchips were being implanted in people.”
+
+---
+
+<img src="./img/march/gebaude-energieklassen.png"><br><br>
+
+<a href="./documents/march/Modernizacja-budynkow.pdf" target="_blank">Modernizacja budynków</a>
+
+https://retrofithub.eu/pl/
 
 ### 2023
 
