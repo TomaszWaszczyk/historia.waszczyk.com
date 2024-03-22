@@ -3,10 +3,33 @@ layout: post
 title: 23 marca
 image: img/march/vix.png
 author: Tomasz Waszczyk
-date: 2022-03-23T10:00:00.000Z
+date: 2024-03-23T10:00:00.000Z
 tags:
   - Dr Zhou Xiaochuan
 draft: false
+---
+
+### 2024
+
+> strategia od pola do stołu
+
+https://www.gov.pl/web/wprpo2020/strategia-od-pola-do-stolu
+
+---
+
+<img src="./img/march/fitch-gliwice.jpg"><br><br>
+
+> europejski bank inwestycyjny => bank klimatyczny
+
+https://www.wur.nl
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/march/zeby-nie-wyjebali.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2022

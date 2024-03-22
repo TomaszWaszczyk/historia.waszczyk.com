@@ -27,6 +27,8 @@ draft: false
 
 * Luigi Boccherini - Fandango - Goya
 
+* Daniil Trifonov – Chopin: Fantaisie-Impromptu In C-Sharp Minor, Op. 66
+
 * Yann Tiersen
 
 * Yiruma

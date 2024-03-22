@@ -333,6 +333,10 @@ stary jak sandały Mojżesza
 
 masz mój miecz
 
+O Jezus Maria zdarzyła się awaria.
+
+Poznanie siebie jest początkiej wszelkiej mądrości.
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

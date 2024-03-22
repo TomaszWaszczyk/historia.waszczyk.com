@@ -701,6 +701,8 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+<img src="./img/wychowanie-mlodego-czlowieka/pokolenie-sztucznej-inteligencji.jpeg"><br><br>
+
 ### Janusz Korczak
 
 ```

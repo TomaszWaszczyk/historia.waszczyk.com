@@ -24,6 +24,10 @@ Pope Francis received in private audience this morning Dr. Tedros Adhanom Ghebre
 
 ---
 
+### 2020
+
+<img src="./img/july/ogniska-zakazen.png"><br><br>
+
 ### 1968
 
 https://pl.wikipedia.org/wiki/Humanae_vitae
