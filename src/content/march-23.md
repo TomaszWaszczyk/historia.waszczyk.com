@@ -11,6 +11,18 @@ draft: false
 
 ### 2024
 
+<img src="./img/march/hening.jpeg"><br><br>
+
+> Żeby w sto dni rozwiązać problem zanieczyszczenia Odry, musielibyśmy zamknąć funkcjonujące tam w pobliżu kopalnie. - Paulina Henning-Kloska w "Gościu poranka" w TVP Info 📺
+
+---
+
+The Center for the Study of National Reconnaissance supports NRO leadership and the Intelligence Community by offering insights based on history, analytical studies, and outreach programs; and works to advance the public’s understanding of the discipline of national reconnaissance.
+
+<a href="./documents/march/A-Brief-History.pdf" target="_blank">A Brief History</a>
+
+---
+
 > strategia od pola do stołu
 
 https://www.gov.pl/web/wprpo2020/strategia-od-pola-do-stolu
