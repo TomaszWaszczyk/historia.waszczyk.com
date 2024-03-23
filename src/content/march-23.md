@@ -46,6 +46,22 @@ Your browser does not support the video tag.
 
 ---
 
+> ..US..
+
+<img src="./img/march/dismissed-us.jpeg"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/moscow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<!-- <video width="640" height="480" controls>
+<source src="./movies/march/israel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> -->
+
+---
+
 ### 2022
 
 > Adam Niedzielski: "Jesteśmy humanitarni i dlatego nie testujemy na granicy uchodźców wojennych z ukrainy".

@@ -14,7 +14,7 @@ tags:
 
 <img src="./img/december/zawaly.jpeg"><br><br>
 
-<img src="./img/december/cnn-vax.jpg"><br><br>
+<img src="./img/october/cnn-vax.jpg"><br><br>
 
 ### 2021
 
