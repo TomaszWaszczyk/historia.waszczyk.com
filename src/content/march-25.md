@@ -3,11 +3,20 @@ layout: post
 title: 25 marca
 image: img/march/lekarze.jpg
 author: Tomasz Waszczyk
-date: 2022-03-25T10:00:00.000Z
+date: 2024-03-25T10:00:00.000Z
 tags:
   - Służba zdrowia
 draft: false
 ---
+
+### 2024
+
+<video width="640" height="480" controls>
+<source src="./movies/march/no.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+> “..and if foreign deployment was necessary, then they (soldiers) would have to go there, and just like any mother, I would be afraid for them. "Are any of your children in the military?" - "No" (laughs).”
 
 ### 2023
 

@@ -3,11 +3,27 @@ layout: post
 title: 26 marca
 image: img/march/unemployment.jpg
 author: Tomasz Waszczyk
-date: 2022-03-26T10:00:00.000Z
+date: 2024-03-26T10:00:00.000Z
 tags:
   - Koronawirus
 draft: false
 ---
+
+### 2024
+
+<img src="./img/march/jezus-przed-pilatem.jpeg"><br><br>
+
+`„Jezus przed Piłatem”, aut.: Jacopo Tintoretto, 1565`
+
+---
+
+"Of course the London office of J. P. Morgan Chase may do most of its transactions on other bases than in terms of pounds. But the comparative quality and stability of the pound will naturally affect the attitudes of financial businesses there"
+
+<img src="./img/march/nash.jpeg"><br><br>
+
+---
+
+https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_pl
 
 ### 2023
 

@@ -147,6 +147,10 @@ W Kielcach odbył się mecz piłki nożnej pomiędzy drużyną pułku Armii Czer
 
 <img src="./img/july/informator.jpg"><br><br>
 
+### 1943
+
+<img src="./img/july/michniow.png"><br><br>
+
 ### 1936
 
 Premier rządu polskiego Felicjan Sławoj -Składkowski wydał okólnik, w którym wprowadził odgórnie kult generała Edwarda Rydza-Śmigłego (zdjęcie) jako "pierwszej w Polsce osoby po Panu Prezydencie". Dokument ten był sprzeczny z tzw Konstytucją Kwietniową.
