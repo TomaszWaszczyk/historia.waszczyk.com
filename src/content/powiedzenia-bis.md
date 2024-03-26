@@ -339,6 +339,8 @@ Poznanie siebie jest początkiej wszelkiej mądrości.
 
 Prosto się mówi, jak się wie
 
+globalizacja to amerykanizacja
+
 ---
 
 <a href="https://github.com/TomaszWaszczyk/historia.waszczyk.com/edit/master/src/content/powiedzenia-bis.md" target="_blank">Edytuj tę stronę dzieląc się własnymi notatkami!</a>

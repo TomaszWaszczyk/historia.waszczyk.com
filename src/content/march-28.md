@@ -3,10 +3,41 @@ layout: post
 title: 28 marca
 image: img/march/morawiecki.jpg
 author: Tomasz Waszczyk
-date: 2022-03-28T10:00:00.000Z
+date: 2024-03-28T10:00:00.000Z
 tags:
   - Gospodarka
 draft: false
+---
+
+### 2024
+
+```
+Boże, którego
+ramię sprawiedliwe
+Żelazne berła
+Władców świata kruszy;
+Zniwecz tych wrogów
+zamiary szkodliwe,
+Obudź nadzieję
+W biednej naszej duszy.
+Przed Twe ołtarze
+zanosim błaganie..
+```
+
+<video width="640" height="480" controls>
+<source src="./movies/march/jacek-siewiera.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+> Yes.
+
+<video width="640" height="480" controls>
+<source src="./movies/march/whore.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="./img/march/china-gold-import.jpeg"><br><br>
+
 ---
 
 ### 2023
