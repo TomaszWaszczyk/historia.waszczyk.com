@@ -11,6 +11,14 @@ draft: false
 
 ### 2024
 
+<img src="./img/march/pain-larry.jpeg"><br><br>
+
+Larry Fink the CEO of Blackrock issuing a warning. He says U.S debt at “very dangerous” levels and issued a warning in his annual letter to investors:
+
+> “In America, the situation is more urgent than I can ever remember”
+
+Can't assume investors will keep buying US treasuries after issuing $11.1 trillion of additional debt since the pandemic, he said. Total US debt now $33.17 trillion and 123% of total GDP.
+
 ```
 Boże, którego
 ramię sprawiedliwe
@@ -23,6 +31,8 @@ W biednej naszej duszy.
 Przed Twe ołtarze
 zanosim błaganie..
 ```
+
+---
 
 <video width="640" height="480" controls>
 <source src="./movies/march/jacek-siewiera.mp4" type="video/mp4">
