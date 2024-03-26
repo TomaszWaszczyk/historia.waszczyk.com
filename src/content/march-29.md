@@ -3,9 +3,19 @@ layout: post
 title: 29 marca
 image: img/march/szwajcaria2.jpeg
 author: Tomasz Waszczyk
-date: 2022-03-29T10:00:00.000Z
+date: 2024-03-29T10:00:00.000Z
 tags:
   - Katyń
+---
+
+### 2024
+
+> Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst. - Isaiah 5:13
+
+---
+
+<img src="./img/march/take-vacation.jpeg"><br><br>
+
 ---
 
 ### 2023
