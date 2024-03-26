@@ -349,6 +349,11 @@ Poznaj bliźniego swego lepiej, niż on zna siebie samego – współczesna, zaa
 Your browser does not support the video tag.
 </video>
 
+<video width="640" height="480" controls>
+<source src="./movies/others/krawat.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Programowanie / Software Engineering
 
 https://en.wikipedia.org/wiki/Therac-25

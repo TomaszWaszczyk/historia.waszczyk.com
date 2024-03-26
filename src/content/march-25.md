@@ -18,6 +18,8 @@ Your browser does not support the video tag.
 
 > “..and if foreign deployment was necessary, then they (soldiers) would have to go there, and just like any mother, I would be afraid for them. "Are any of your children in the military?" - "No" (laughs).”
 
+---
+
 ### 2023
 
 <video width="640" height="480" controls>
@@ -119,6 +121,16 @@ Władze Polski i Związku Radzieckiego podpisały porozumienie o drugiej fali wy
 Pierwsza fala wysiedleń Polaków rozpoczęła się w 1955 roku, a sprzyjącym temu wydarzeniu czynnikiem była śmierć Stalina w 1953 roku. Do Polski wrócli wtedy głównie więzniowie sowieckich łagrów. Jednak rząd Polski chciał czegoś więcej. Władze chciały powrotu ludności,która pozostała na Kresach Wschodnich, a której nie objęły wywózki na Syberię i inne formy represji.
 Zawarte w 1957 roku porozumienie doprowadziło do powrotu do Polski blisko ćwierć miliona naszych rodaków.
 Ciekawostką jest fakt, że to właśnie dzięki porozumieniu zawartemu w 1957 roku do Polski mogły przybyć między innymi takie pózniejsze polskie osobistości świata kultury i sportu jak Czesław Niemen czy Władysław Kozakiewicz.
+
+### 1943
+
+<img src="./img/march/sterdyn.jpeg"><br><br>
+
+Sterdyń, Poland: Between March 25 and April 23, 1943, the German SS carried out summary executions of 47 Polish farmers for providing shelter to Jews and 40 for assisting them in other ways.
+
+Furthermore, 140 individuals were arrested and removed from the village.
+
+The entire village was set ablaze.
 
 ### 1934
 

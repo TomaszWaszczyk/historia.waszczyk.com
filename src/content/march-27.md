@@ -3,10 +3,34 @@ layout: post
 title: 27 marca
 image: img/9-04/Second_world_war_europe_1940_map_de.png
 author: Tomasz Waszczyk
-date: 2022-03-27T10:00:00.000Z
+date: 2024-03-27T10:00:00.000Z
 tags:
   - Polska
 draft: false
+---
+
+### 2024
+
+<img src="./img/march/solzenicyn.png"><br><br>
+
+<video width="640" height="480" controls>
+<source src="./movies/march/kaczmarski-jalta.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<img src="./img/march/cyberhigiena.jpeg"><br><br>
+
+> Uważaj na e-maile z informacjami o promocjach, ponieważ trwa czas wzmożonej aktywności cyberprzestępców. Wiadomości często zawierają linki do fałszywych stron, których celem jest wyłudzenie danych. Zanim klikniesz w link, sprawdź autentyczność nadawcy lub odwiedź oficjalną stronę sklepu. Bądź ostrożny w sieci!
+
+---
+
+<video width="640" height="480" controls>
+<source src="./movies/march/teraz.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### 2023

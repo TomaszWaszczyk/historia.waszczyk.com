@@ -25,6 +25,8 @@ draft: false
 
 https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_pl
 
+---
+
 ### 2023
 
 Layoffs are malinvestment corrections. The fact that they happen in large waves according to business cycles is entirely the fault of Central Bank backed fiat money.
