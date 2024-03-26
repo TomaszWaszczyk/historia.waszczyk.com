@@ -29,7 +29,7 @@ zanosim błaganie..
 Your browser does not support the video tag.
 </video>
 
-> Yes.
+> Yes. And No. Especially in 2024+.
 
 <video width="640" height="480" controls>
 <source src="./movies/march/whore.mp4" type="video/mp4">
